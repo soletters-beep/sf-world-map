@@ -1,0 +1,71 @@
+{
+  "news": [
+    {
+      "id": "n001",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "title": "東京港で貨物物流が再開",
+      "category": "TRADE",
+      "time": "2026-08-15T09:00:00Z",
+      "summary": "主要貨物の搬出が再開し、港湾稼働率が上昇しています。"
+    },
+    {
+      "id": "n002",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "title": "ニューヨークの交通網が安定化",
+      "category": "CITY",
+      "time": "2026-08-15T09:10:00Z",
+      "summary": "主要路線での混雑が改善され、運行の回復が確認されました。"
+    },
+    {
+      "id": "n003",
+      "lat": 51.5072,
+      "lng": -0.1276,
+      "title": "ロンドンのテレメトリ監視が強化",
+      "category": "SECURITY",
+      "time": "2026-08-15T09:25:00Z",
+      "summary": "セキュリティ監視が強化され、重点地域の確認が行われています。"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "v001",
+      "type": "plane",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "heading": 100,
+      "name": "N910DL",
+      "speed": 820,
+      "altitude": 11000
+    },
+    {
+      "id": "v002",
+      "type": "plane",
+      "lat": 35.6895,
+      "lng": 139.6917,
+      "heading": 145,
+      "name": "JL204",
+      "speed": 780,
+      "altitude": 9800
+    },
+    {
+      "id": "v003",
+      "type": "ship",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "heading": 35,
+      "name": "MV ORBIT",
+      "speed": 24
+    },
+    {
+      "id": "v004",
+      "type": "ship",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "heading": 260,
+      "name": "SEA RAVEN",
+      "speed": 18
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+name: Auto Update News Data & Deploy Pages
+
+# =============================================================================
+# 15分おきに fetch_data.py を実行して data.json を更新し、
+# 変更があればコミット&プッシュしたうえで GitHub Pages を再デプロイする。
+#
+# 事前準備 (リポジトリ側の設定):
+#   1. Settings > Pages > Build and deployment > Source を
+#      「GitHub Actions」に設定しておく(ブランチ配信ではなくActionsデプロイ)。
+#   2. Settings > Actions > General > Workflow permissions を
+#      「Read and write permissions」にしておく(GITHUB_TOKENでpushするため)。
+#   3. requirements.txt / fetch_data.py / index.html / data.json を
+#      リポジトリのルート(またはPagesの公開ディレクトリ)に置いておく。
+# =============================================================================
+
+on:
+  schedule:
+    # UTC基準。15分おきに実行(例: JST 09:00 更新なら UTC 00:00 に実行される)
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}  # 手動実行ボタンからも起動できるようにする
+
+# GITHUB_TOKEN に付与する権限
+permissions:
+  contents: write   # data.json をコミット&プッシュするため
+  pages: write       # GitHub Pagesへデプロイするため
+  id-token: write    # deploy-pages アクションの認証に必要
+
+# 同時実行の衝突を防ぐ(Pagesデプロイ中に次のデプロイが割り込まないように)
+concurrency:
+  group: "auto-update-and-pages"
+  cancel-in-progress: false
+
+jobs:
+  # ---------------------------------------------------------------------
+  # ジョブ1: ニュースデータを取得してdata.jsonを更新・コミット
+  # ---------------------------------------------------------------------
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 依存パッケージをインストール
+        run: pip install -r requirements.txt
+
+      - name: fetch_data.py を実行してdata.jsonを更新
+        run: python fetch_data.py --output ./data.json --limit-per-category 6
+
+      - name: 変更があればコミット&プッシュ
+        id: autocommit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update data.json [skip ci]"
+          file_pattern: 'data.json geocode_cache.json'
+          commit_user_name: 'news-bot'
+          commit_user_email: 'actions@github.com'
+          # main以外のブランチで運用している場合はここを合わせて変更
+          branch: main
+
+    outputs:
+      changed: ${{ steps.autocommit.outputs.changes_detected }}
+
+  # ---------------------------------------------------------------------
+  # ジョブ2: 最新コミットの内容でGitHub Pagesを再デプロイ
+  # (update-data がpushした直後のコミットを使うため、改めてcheckoutする)
+  # ---------------------------------------------------------------------
+  deploy-pages:
+    needs: update-data
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: リポジトリを最新状態でチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Pages設定を検出
+        uses: actions/configure-pages@v5
+
+      - name: 公開ディレクトリをアーティファクトとしてアップロード
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # index.html / data.json があるディレクトリを指定(リポジトリ直下の例)
+          path: '.'
+
+      - name: GitHub Pagesへデプロイ
+        id: deployment
+        uses: actions/deploy-pages@v4

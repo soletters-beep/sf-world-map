@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>GLOBAL OPS // COMMAND</title>
+
+<!-- MapLibre GL JS (v4系: globe projection 対応) -->
+<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+
+<!-- HUD用フォント -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+
+<style>
+  :root{
+    --void:#050a0f;
+    --panel:#0b151dcc;
+    --panel-solid:#0b151d;
+    --line: rgba(43,232,255,0.28);
+    --amber:#ffb020;
+    --cyan:#2be8ff;
+    --phosphor:#4dff9f;
+    --alert:#ff4d4d;
+    --dim:#5f7d88;
+  }
+
+  *{ box-sizing:border-box; }
+
+  html,body{
+    margin:0; padding:0; width:100%; height:100%;
+    background:var(--void);
+    color:var(--cyan);
+    font-family:'Share Tech Mono', monospace;
+    overflow:hidden;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  #map{ position:absolute; inset:0; }
+
+  /* ------- マップの基調(海/背景)をHUDらしく暗くする ------- */
+  .maplibregl-ctrl-attrib{
+    background:rgba(5,10,15,0.6) !important;
+    color:var(--dim) !important;
+    font-family:'Share Tech Mono', monospace;
+    font-size:10px;
+  }
+  .maplibregl-ctrl-attrib a{ color:var(--dim) !important; }
+  .maplibregl-popup-content{
+    background:var(--panel-solid);
+    color:var(--cyan);
+    border:1px solid var(--line);
+    border-radius:2px;
+    font-family:'Share Tech Mono', monospace;
+    box-shadow:0 0 24px rgba(43,232,255,0.15);
+    padding:12px 14px;
+  }
+  .maplibregl-popup-tip{ border-top-color:var(--panel-solid) !important; border-bottom-color:var(--panel-solid) !important; }
+  .maplibregl-popup-close-button{ color:var(--dim); font-size:16px; }
+
+  /* ===================== HUDオーバーレイ全体 ===================== */
+  #hud{
+    position:absolute; inset:0; pointer-events:none;
+    z-index:20;
+  }
+
+  /* スキャンライン(常時ゆっくり流れる走査線) */
+  #scanlines{
+    position:absolute; inset:0;
+    background:repeating-linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.025) 0px,
+      rgba(255,255,255,0.025) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+    mix-blend-mode:overlay;
+    z-index:25;
+  }
+  #vignette{
+    position:absolute; inset:0;
+    background:radial-gradient(ellipse at center, transparent 45%, rgba(0,0,0,0.55) 100%);
+    z-index:24;
+  }
+
+  /* ---- コーナーブラケット(サイン要素) ---- */
+  .bracket{
+    position:absolute; width:46px; height:46px;
+    border:2px solid var(--amber);
+    opacity:0.85; z-index:26;
+  }
+  .bracket.tl{ top:14px; left:14px; border-right:none; border-bottom:none; }
+  .bracket.tr{ top:14px; right:14px; border-left:none; border-bottom:none; }
+  .bracket.bl{ bottom:14px; left:14px; border-right:none; border-top:none; }
+  .bracket.br{ bottom:14px; right:14px; border-left:none; border-top:none; }
+
+  /* ---- 上部バー ---- */
+  #topbar{
+    position:absolute; top:0; left:0; right:0;
+    display:flex; align-items:center; justify-content:space-between;
+    padding:14px 70px;
+    z-index:30; pointer-events:auto;
+  }
+  #title{
+    font-family:'Orbitron', sans-serif;
+    font-weight:900;
+    font-size:20px;
+    letter-spacing:6px;
+    color:var(--amber);
+    text-shadow:0 0 12px rgba(255,176,32,0.6);
+  }
+  #title span{ color:var(--cyan); text-shadow:0 0 12px rgba(43,232,255,0.6); }
+  #title small{
+    display:block; font-family:'Share Tech Mono', monospace;
+    font-size:10px; letter-spacing:3px; color:var(--dim); font-weight:400; margin-top:2px;
+  }
+
+  #clockbox{ text-align:right; }
+  #utc-time{ font-family:'Orbitron', sans-serif; font-size:22px; color:var(--phosphor); text-shadow:0 0 10px rgba(77,255,159,0.5); letter-spacing:2px; }
+  #utc-date{ font-size:11px; color:var(--dim); letter-spacing:2px; }
+
+  /* ---- 左パネル: システムステータス ---- */
+  #left-panel{
+    position:absolute; top:90px; left:20px; width:210px;
+    z-index:30; pointer-events:auto;
+  }
+  .panel{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-left:3px solid var(--cyan);
+    backdrop-filter: blur(3px);
+    padding:12px 14px;
+    margin-bottom:10px;
+  }
+  .panel-title{
+    font-size:10px; letter-spacing:3px; color:var(--dim); margin-bottom:8px;
+    display:flex; justify-content:space-between; align-items:center;
+  }
+  .panel-title::before{ content:"▍"; color:var(--amber); margin-right:4px; }
+
+  .stat-row{ display:flex; justify-content:space-between; align-items:center; font-size:12px; padding:3px 0; }
+  .stat-row .val{ color:var(--phosphor); font-size:15px; font-family:'Orbitron', sans-serif; }
+  .stat-row .val.warn{ color:var(--alert); }
+
+  #sync-status{ font-size:11px; letter-spacing:1px; display:flex; align-items:center; gap:6px; }
+  .dot{ width:7px; height:7px; border-radius:50%; background:var(--phosphor); box-shadow:0 0 6px var(--phosphor); }
+  .dot.bad{ background:var(--alert); box-shadow:0 0 6px var(--alert); animation:blink 0.8s infinite; }
+  @keyframes blink{ 50%{ opacity:0.25; } }
+
+  #sync-bar-track{ height:3px; width:100%; background:rgba(255,255,255,0.08); margin-top:8px; overflow:hidden; }
+  #sync-bar{ height:100%; width:0%; background:var(--cyan); box-shadow:0 0 8px var(--cyan); }
+  #sync-bar.running{ animation:fillbar 5s linear infinite; }
+  @keyframes fillbar{ from{ width:0%; } to{ width:100%; } }
+
+  .legend-item{ display:flex; align-items:center; gap:8px; font-size:11px; padding:3px 0; color:var(--dim); }
+  .legend-swatch{ width:10px; height:10px; flex:0 0 auto; }
+  .legend-swatch.news{ border-radius:50%; background:var(--amber); box-shadow:0 0 6px var(--amber); }
+  .legend-swatch.plane{ background:var(--cyan); clip-path:polygon(50% 0%,0% 100%,100% 100%); }
+  .legend-swatch.ship{ background:var(--phosphor); transform:rotate(45deg); }
+
+  /* ---- 右パネル: カーソル座標/ズーム ---- */
+  #right-panel{
+    position:absolute; top:90px; right:20px; width:190px;
+    z-index:30; pointer-events:auto; text-align:right;
+  }
+  #right-panel .stat-row{ justify-content:flex-end; gap:10px; }
+
+  /* ---- 下部: ニュースティッカー ---- */
+  #ticker-wrap{
+    position:absolute; left:20px; right:20px; bottom:20px;
+    z-index:30; pointer-events:auto;
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-left:3px solid var(--amber);
+  }
+  #ticker-label{
+    display:inline-block; background:var(--amber); color:#05060a;
+    font-family:'Orbitron', sans-serif; font-weight:700; font-size:11px;
+    letter-spacing:2px; padding:6px 12px;
+  }
+  #ticker-track{
+    display:inline-block; overflow:hidden; vertical-align:middle;
+    width:calc(100% - 110px); white-space:nowrap; padding:6px 0;
+  }
+  #ticker-content{
+    display:inline-block; white-space:nowrap;
+    animation:ticker-scroll 30s linear infinite;
+    font-size:13px; color:var(--cyan);
+  }
+  @keyframes ticker-scroll{ from{ transform:translateX(0%); } to{ transform:translateX(-100%); } }
+
+  /* ===================== マーカー ===================== */
+  .hud-marker{ pointer-events:auto; cursor:pointer; }
+
+  .news-marker{ position:relative; width:16px; height:16px; }
+  .news-marker .core{
+    position:absolute; inset:4px; border-radius:50%;
+    background:var(--amber); box-shadow:0 0 8px 2px rgba(255,176,32,0.8);
+  }
+  .news-marker .ring{
+    position:absolute; inset:0; border-radius:50%;
+    border:1.5px solid var(--amber);
+    animation:pulse-ring 1.8s ease-out infinite;
+  }
+  @keyframes pulse-ring{
+    0%{ transform:scale(0.4); opacity:0.9; }
+    100%{ transform:scale(1.9); opacity:0; }
+  }
+
+  .vehicle-marker{
+    width:18px; height:18px; display:flex; align-items:center; justify-content:center;
+    transition:transform 0.4s linear;
+  }
+  .vehicle-marker svg{ filter:drop-shadow(0 0 4px currentColor); }
+  .vehicle-marker.plane{ color:var(--cyan); }
+  .vehicle-marker.ship{ color:var(--phosphor); }
+  .vehicle-marker .label{
+    position:absolute; top:20px; left:50%; transform:translateX(-50%);
+    font-size:9px; white-space:nowrap; color:inherit; letter-spacing:1px;
+    text-shadow:0 0 4px rgba(0,0,0,0.9);
+  }
+
+  .spawn{ animation:spawn-in 0.6s ease-out; }
+  @keyframes spawn-in{
+    0%{ transform:scale(2.6); opacity:0; }
+    60%{ opacity:1; }
+    100%{ transform:scale(1); opacity:1; }
+  }
+
+  .popup-title{ font-family:'Orbitron', sans-serif; font-size:12px; color:var(--amber); letter-spacing:1px; margin-bottom:4px; }
+  .popup-meta{ font-size:10px; color:var(--dim); letter-spacing:1px; margin-bottom:6px; }
+  .popup-body{ font-size:12px; line-height:1.5; color:#cfefff; }
+
+  @media (max-width:720px){
+    #left-panel, #right-panel{ display:none; }
+    #topbar{ padding:12px 60px; }
+    #title{ font-size:14px; letter-spacing:3px; }
+  }
+</style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<div id="hud">
+  <div class="bracket tl"></div>
+  <div class="bracket tr"></div>
+  <div class="bracket bl"></div>
+  <div class="bracket br"></div>
+  <div id="vignette"></div>
+  <div id="scanlines"></div>
+
+  <div id="topbar">
+    <div id="title">
+      GLOBAL<span> OPS</span> // COMMAND
+      <small>REAL-TIME TRACKING SYSTEM v1.0</small>
+    </div>
+    <div id="clockbox">
+      <div id="utc-time">--:--:--</div>
+      <div id="utc-date">---- -- --  UTC</div>
+    </div>
+  </div>
+
+  <div id="left-panel">
+    <div class="panel">
+      <div class="panel-title">DATA LINK</div>
+      <div id="sync-status"><span class="dot" id="sync-dot"></span><span id="sync-text">CONNECTING...</span></div>
+      <div id="sync-bar-track"><div id="sync-bar"></div></div>
+    </div>
+    <div class="panel">
+      <div class="panel-title">TRACKED OBJECTS</div>
+      <div class="stat-row"><span>NEWS EVENTS</span><span class="val" id="stat-news">0</span></div>
+      <div class="stat-row"><span>AIRBORNE</span><span class="val" id="stat-plane">0</span></div>
+      <div class="stat-row"><span>MARITIME</span><span class="val" id="stat-ship">0</span></div>
+    </div>
+    <div class="panel">
+      <div class="panel-title">LEGEND</div>
+      <div class="legend-item"><span class="legend-swatch news"></span>NEWS SIGNAL</div>
+      <div class="legend-item"><span class="legend-swatch plane"></span>AIRCRAFT</div>
+      <div class="legend-item"><span class="legend-swatch ship"></span>VESSEL</div>
+    </div>
+  </div>
+
+  <div id="right-panel">
+    <div class="panel">
+      <div class="panel-title">NAV DATA</div>
+      <div class="stat-row"><span>LAT</span><span class="val" id="stat-lat">--.----</span></div>
+      <div class="stat-row"><span>LON</span><span class="val" id="stat-lon">--.----</span></div>
+      <div class="stat-row"><span>ZOOM</span><span class="val" id="stat-zoom">-.--</span></div>
+    </div>
+  </div>
+
+  <div id="ticker-wrap">
+    <span id="ticker-label">NEWS FEED</span>
+    <span id="ticker-track"><span id="ticker-content">STANDBY — 受信データを待機中...</span></span>
+  </div>
+</div>
+
+<script>
+/* =========================================================================
+ * data.json の想定フォーマット (同じフォルダに配置してください)
+ * -------------------------------------------------------------------------
+ * {
+ *   "news": [
+ *     {
+ *       "id": "n001",              // 一意なID (必須・更新の追跡に使用)
+ *       "lat": 35.6812,
+ *       "lng": 139.7671,
+ *       "title": "東京で〇〇が発生",
+ *       "category": "POLITICS",    // 任意: 表示カテゴリ
+ *       "time": "2026-08-15T09:00:00Z", // 任意
+ *       "summary": "詳細説明テキスト..." // 任意
+ *     }
+ *   ],
+ *   "vehicles": [
+ *     {
+ *       "id": "v001",
+ *       "type": "plane",           // "plane" または "ship"
+ *       "lat": 34.9,
+ *       "lng": 135.4,
+ *       "heading": 87,             // 度(0=北, 90=東) 任意・省略時0
+ *       "name": "JAL123",          // 任意: ラベル表示
+ *       "speed": 820,              // 任意
+ *       "altitude": 11000          // 任意 (plane用)
+ *     }
+ *   ]
+ * }
+ * ========================================================================= */
+
+const DATA_URL = './data.json';
+const POLL_INTERVAL_MS = 5000;
+
+/* ---------------------------------------------------------------------
+ * 1. 地球儀(3D globe)の初期化
+ * ------------------------------------------------------------------- */
+maplibregl.setRTLTextPlugin; // no-op touch (keeps linters quiet)
+
+const map = new maplibregl.Map({
+  container: 'map',
+  style: 'https://demotiles.maplibre.org/style.json', // キー不要の無料スタイル
+  center: [139.767, 20],
+  zoom: 1.6,
+  pitch: 0,
+  antialias: true,
+  attributionControl: { compact: true }
+});
+
+map.addControl(new maplibregl.NavigationControl({ visualizePitch: true }), 'bottom-right');
+
+map.on('style.load', () => {
+  // v4系: globe projection に切り替え
+  try { map.setProjection({ type: 'globe' }); } catch (e) { console.warn('globe projection未対応:', e); }
+
+  recolorBaseStyle();
+  applyAtmosphere();
+  startIdleRotation();
+});
+
+/* 既存のdemotilesスタイルをHUD配色に染め直す(レイヤーIDに依存しない汎用処理) */
+function recolorBaseStyle() {
+  const style = map.getStyle();
+  if (!style || !style.layers) return;
+
+  style.layers.forEach(layer => {
+    try {
+      if (layer.type === 'background') {
+        map.setPaintProperty(layer.id, 'background-color', '#050a0f');
+      } else if (layer.type === 'fill') {
+        map.setPaintProperty(layer.id, 'fill-color', '#0c1e28');
+        map.setPaintProperty(layer.id, 'fill-opacity', 0.95);
+      } else if (layer.type === 'line') {
+        map.setPaintProperty(layer.id, 'line-color', '#1c4a56');
+        map.setPaintProperty(layer.id, 'line-width', 0.6);
+        map.setPaintProperty(layer.id, 'line-opacity', 0.8);
+      } else if (layer.type === 'symbol') {
+        map.setLayoutProperty(layer.id, 'visibility', 'none'); // ラベルは非表示(HUDで代替)
+      }
+    } catch (e) { /* レイヤーによっては非対応のプロパティがあるため無視 */ }
+  });
+}
+
+/* 大気・宇宙背景の演出(対応バージョンのみ) */
+function applyAtmosphere() {
+  try {
+    map.setSky({
+      'sky-color': '#000000',
+      'sky-horizon-blend': 0.6,
+      'horizon-color': '#08131a',
+      'horizon-fog-blend': 0.6,
+      'fog-color': '#08131a',
+      'fog-ground-blend': 0.5,
+      'atmosphere-blend': 0.85
+    });
+  } catch (e) { console.warn('sky/atmosphere未対応:', e); }
+}
+
+/* 操作されていない時はゆっくり自動回転(コマンドセンターらしい待機演出) */
+let idleRotation = true;
+function startIdleRotation() {
+  function spin() {
+    if (idleRotation) {
+      const c = map.getCenter();
+      map.setCenter([c.lng + 0.06, c.lat]);
+    }
+    requestAnimationFrame(spin);
+  }
+  requestAnimationFrame(spin);
+}
+['mousedown', 'touchstart', 'wheel', 'dragstart'].forEach(evt => {
+  map.getContainer().addEventListener(evt, () => { idleRotation = false; }, { passive: true });
+});
+
+/* ---------------------------------------------------------------------
+ * 2. マーカー管理(ニュース / 飛行機 / 船)
+ * ------------------------------------------------------------------- */
+const newsMarkers = new Map();    // id -> { marker, el }
+const vehicleMarkers = new Map(); // id -> { marker, el, data }
+
+function escapeHtml(str) {
+  return String(str ?? '').replace(/[&<>"']/g, s => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[s]));
+}
+
+/* --- ニュースピン --- */
+function createNewsElement(item) {
+  const el = document.createElement('div');
+  el.className = 'hud-marker news-marker spawn';
+  el.innerHTML = '<div class="ring"></div><div class="core"></div>';
+
+  const popup = new maplibregl.Popup({ offset: 14, closeButton: true, maxWidth: '260px' }).setHTML(`
+    <div class="popup-title">${escapeHtml(item.title || 'UNTITLED SIGNAL')}</div>
+    <div class="popup-meta">${escapeHtml(item.category || 'NEWS')} ${item.time ? ' / ' + escapeHtml(item.time) : ''}</div>
+    <div class="popup-body">${escapeHtml(item.summary || '')}</div>
+  `);
+
+  const marker = new maplibregl.Marker({ element: el, anchor: 'center' })
+    .setLngLat([item.lng, item.lat])
+    .setPopup(popup)
+    .addTo(map);
+
+  return { marker, el };
+}
+
+/* --- 乗り物ピン(飛行機/船) --- */
+function vehicleSvg(type) {
+  if (type === 'ship') {
+    return `<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M4 15 L12 4 L20 15 L18 15 L12 8 L6 15 Z"/>
+      <rect x="10.5" y="14" width="3" height="6"/>
+    </svg>`; // 簡易ダイヤモンド型
+  }
+  // plane: 進行方向 = 上(0deg=北)を向く三角形アイコン
+  return `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M12 2 L16 14 L12 11.5 L8 14 Z"/>
+    <path d="M2 14 L12 11 L22 14 L12 16 Z" opacity="0.7"/>
+  </svg>`;
+}
+
+function createVehicleElement(item) {
+  const type = item.type === 'ship' ? 'ship' : 'plane';
+  const el = document.createElement('div');
+  el.className = `hud-marker vehicle-marker ${type} spawn`;
+  el.style.position = 'relative';
+  el.innerHTML = vehicleSvg(type) + (item.name ? `<div class="label">${escapeHtml(item.name)}</div>` : '');
+  applyHeading(el, item.heading || 0);
+
+  const popup = new maplibregl.Popup({ offset: 14, closeButton: true, maxWidth: '240px' }).setHTML(buildVehiclePopup(item, type));
+
+  const marker = new maplibregl.Marker({ element: el, anchor: 'center' })
+    .setLngLat([item.lng, item.lat])
+    .setPopup(popup)
+    .addTo(map);
+
+  return { marker, el };
+}
+
+function buildVehiclePopup(item, type) {
+  const rows = [];
+  if (item.speed != null) rows.push(`SPEED: ${escapeHtml(item.speed)}`);
+  if (item.altitude != null) rows.push(`ALT: ${escapeHtml(item.altitude)}`);
+  if (item.heading != null) rows.push(`HDG: ${escapeHtml(item.heading)}°`);
+  return `
+    <div class="popup-title">${escapeHtml(item.name || (type === 'ship' ? 'UNKNOWN VESSEL' : 'UNKNOWN AIRCRAFT'))}</div>
+    <div class="popup-meta">${type === 'ship' ? 'MARITIME CONTACT' : 'AIRBORNE CONTACT'}</div>
+    <div class="popup-body">${rows.join(' / ')}</div>
+  `;
+}
+
+function applyHeading(el, heading) {
+  el.style.transform = `rotate(${heading}deg)`;
+}
+
+/* --- 汎用: リストとMapを突き合わせて 追加/更新/削除 --- */
+function syncMarkers(items, store, createFn, updateFn) {
+  const seenIds = new Set();
+
+  items.forEach(item => {
+    if (item.id == null || item.lat == null || item.lng == null) return;
+    seenIds.add(String(item.id));
+
+    const existing = store.get(String(item.id));
+    if (!existing) {
+      const created = createFn(item);
+      created.data = item;
+      store.set(String(item.id), created);
+    } else {
+      existing.marker.setLngLat([item.lng, item.lat]);
+      if (updateFn) updateFn(existing, item);
+      existing.data = item;
+    }
+  });
+
+  // 受信データに存在しなくなったものは撤去(ロストコンタクト)
+  for (const [id, entry] of store) {
+    if (!seenIds.has(id)) {
+      entry.marker.remove();
+      store.delete(id);
+    }
+  }
+}
+
+function updateVehicleEntry(entry, item) {
+  const type = item.type === 'ship' ? 'ship' : 'plane';
+  applyHeading(entry.el, item.heading || 0);
+  const label = entry.el.querySelector('.label');
+  if (item.name && label) label.textContent = item.name;
+  if (entry.marker.getPopup()) entry.marker.getPopup().setHTML(buildVehiclePopup(item, type));
+}
+
+function updateNewsEntry(entry, item) {
+  if (entry.marker.getPopup()) {
+    entry.marker.getPopup().setHTML(`
+      <div class="popup-title">${escapeHtml(item.title || 'UNTITLED SIGNAL')}</div>
+      <div class="popup-meta">${escapeHtml(item.category || 'NEWS')} ${item.time ? ' / ' + escapeHtml(item.time) : ''}</div>
+      <div class="popup-body">${escapeHtml(item.summary || '')}</div>
+    `);
+  }
+}
+
+/* ---------------------------------------------------------------------
+ * 3. ポーリング処理(5秒ごとに data.json を再取得)
+ * ------------------------------------------------------------------- */
+const syncDot = document.getElementById('sync-dot');
+const syncText = document.getElementById('sync-text');
+const syncBar = document.getElementById('sync-bar');
+
+function setLinkStatus(ok, message) {
+  syncDot.classList.toggle('bad', !ok);
+  syncText.textContent = message;
+}
+
+function restartSyncBar() {
+  syncBar.classList.remove('running');
+  void syncBar.offsetWidth; // reflow で再スタート
+  syncBar.classList.add('running');
+}
+
+async function fetchAndUpdate() {
+  try {
+    const res = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: 'no-store' });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const json = await res.json();
+
+    const newsList = Array.isArray(json.news) ? json.news : [];
+    const vehicleList = Array.isArray(json.vehicles) ? json.vehicles : [];
+
+    syncMarkers(newsList, newsMarkers, createNewsElement, updateNewsEntry);
+    syncMarkers(vehicleList, vehicleMarkers, createVehicleElement, updateVehicleEntry);
+
+    updateStats(newsList, vehicleList);
+    updateTicker(newsList);
+
+    setLinkStatus(true, `LINK OK / ${new Date().toLocaleTimeString('ja-JP', { hour12: false })}`);
+  } catch (err) {
+    console.error('データ取得エラー:', err);
+    setLinkStatus(false, 'SIGNAL LOST');
+  } finally {
+    restartSyncBar();
+  }
+}
+
+function updateStats(newsList, vehicleList) {
+  document.getElementById('stat-news').textContent = newsList.length;
+  document.getElementById('stat-plane').textContent = vehicleList.filter(v => v.type !== 'ship').length;
+  document.getElementById('stat-ship').textContent = vehicleList.filter(v => v.type === 'ship').length;
+}
+
+function updateTicker(newsList) {
+  const content = document.getElementById('ticker-content');
+  if (!newsList.length) {
+    content.textContent = 'STANDBY — 現在アクティブなニュースシグナルはありません';
+    return;
+  }
+  const text = newsList.map(n => `● ${n.title || 'UNTITLED'}`).join('　　　　');
+  content.textContent = text + '　　　　' + text; // シームレスループ用に複製
+}
+
+fetchAndUpdate();
+setInterval(fetchAndUpdate, POLL_INTERVAL_MS);
+
+/* ---------------------------------------------------------------------
+ * 4. HUD補助表示(時計 / カーソル座標 / ズーム)
+ * ------------------------------------------------------------------- */
+function tickClock() {
+  const now = new Date();
+  document.getElementById('utc-time').textContent = now.toISOString().substr(11, 8) + ' UTC';
+  document.getElementById('utc-date').textContent = now.toISOString().substr(0, 10).replace(/-/g, '.');
+}
+tickClock();
+setInterval(tickClock, 1000);
+
+map.on('mousemove', e => {
+  document.getElementById('stat-lat').textContent = e.lngLat.lat.toFixed(4);
+  document.getElementById('stat-lon').textContent = e.lngLat.lng.toFixed(4);
+});
+map.on('zoom', () => {
+  document.getElementById('stat-zoom').textContent = map.getZoom().toFixed(2);
+});
+</script>
+</body>
+</html>
