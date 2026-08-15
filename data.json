@@ -1,37 +1,400 @@
 {
   "news": [
     {
-      "id": "n001",
-      "lat": 35.6812,
-      "lng": 139.7671,
-      "title": "東京湾で大規模訓練を実施",
-      "category": "DEFENSE",
-      "time": "2026-08-15T09:00:00Z",
-      "summary": "関係機関による合同訓練が実施され、周辺海域は一時的に監視対象となっている。",
-      "source_name": "NHKニュース",
-      "source_url": "https://www3.nhk.or.jp/news/"
-    },
-    {
-      "id": "n002",
-      "lat": 40.7128,
-      "lng": -74.0060,
-      "title": "ニューヨークで大規模停電",
-      "category": "INFRASTRUCTURE",
-      "time": "2026-08-15T08:40:00Z",
-      "summary": "マンハッタン南部で電力供給に障害が発生。復旧作業が続けられている。",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.com/news"
-    },
-    {
-      "id": "n003",
-      "lat": 51.5074,
-      "lng": -0.1278,
-      "title": "ロンドンで国際サミット開催",
+      "id": "news-politics-8ff336e9ec",
+      "lat": 38.9513,
+      "lng": -77.0655,
+      "title": "Washington state lawmaker hit with $15K fine in ethics case",
       "category": "POLITICS",
-      "time": "2026-08-15T07:15:00Z",
-      "summary": "各国代表がエネルギー政策について協議を行う予定。",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/"
+      "time": "2026-08-15T15:15:00Z",
+      "summary": "Washington state lawmaker hit with $15K fine in ethics case&nbsp;&nbsp;Kitsap Sun",
+      "source_name": "Kitsap Sun",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeno0enlNNkJOckRudjJvdU5ydlZ6d0FHLU1QWm9KNlFjR1N0QkJQTzBXSXhxYXZ3UUktb3R4QXRaSTI1d052dEZGOXZOM0tZTy1sTDB1cmswNExZNUh5ai1TakNkWS0yWlVjeWVObDRlT0djcTBMTjgxVmV3V015MDZIZlJKY21iTTlvZGptalFtcUt0N1hjaXF6X1pydkZ6dmE0cGctWVBlS0gzeV9XLWtacFAxS3Z0QUJocEtMeVllN1V5cWc?oc=5"
+    },
+    {
+      "id": "news-politics-059adcf10b",
+      "lat": 64.12768,
+      "lng": 11.58603,
+      "title": "Five injured, one critically, in shooting at Virginia State University",
+      "category": "POLITICS",
+      "time": "2026-08-15T15:09:59Z",
+      "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-17daf60d43",
+      "lat": 38.9268,
+      "lng": -77.07354,
+      "title": "Democratic primary turnout has soared in some states. Can it carry over to November?",
+      "category": "POLITICS",
+      "time": "2026-08-15T15:07:03Z",
+      "summary": "Democratic primary turnout has soared in some states. Can it carry over to November?&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNejN1U2Y0Qk5kcUk3UEN2Q09CSzE4NU1hQUcxNmtFTlBXRWZEWEZUWEUwcEVraDh4clAzaWlBQVFqYzFhS0hQSzcxTWV0UUJSSGxJQUZnRFR5ZEhnbzlYMUxCdnNXT2phMVBPckFMYlZkNzk2Y2w4ZkdCQVg1dnVLMEpxLWZTcUlpYm1rM0h1NTAzTE93YnpQRG9raXZJTEIzOUF3SWVxb1FoNmI4RWxfUDNRQ3NZUlF3TmZJSUdCdV9GYzFjVG5PTVZOSkF0Tnp0QndrVXllQ2dyRTZSazRXRk03Yw?oc=5"
+    },
+    {
+      "id": "news-politics-4acb28f6c5",
+      "lat": 38.94675,
+      "lng": -77.08614,
+      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+      "category": "POLITICS",
+      "time": "2026-08-15T15:07:03Z",
+      "summary": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZWV4UUxzUmpMLXJMc1VCc2xmUEpIekYtZjM4Tkk0YWN6UXRQUnp6V2w3eTJVeDVka0t6WnBuTEZEMUN5VXhuN1RRZzl5TWQ5SkN2TWJOaE5LcjdycnowRy1remdmaWdXek44TjV4QWxaemxaRDZXai1ueUY5UUNQSklNcTc5SFhxLVJSN3B4TFFkQm9naEdGWURZak90SnM2WjJ6Q19IaE5KTkJUZlIya3RrZktjUDFWMVhzdFhLcU5iRzVpRXFDYkk4NHdValNGZnE1RGN2LVdkYWdOS3c?oc=5"
+    },
+    {
+      "id": "news-politics-f0f56fa325",
+      "lat": 42.56164,
+      "lng": -96.371,
+      "title": "4 candidates vie for GOP nomination in HD 74 to succeed James Buchanan",
+      "category": "POLITICS",
+      "time": "2026-08-15T15:01:28Z",
+      "summary": "4 candidates vie for GOP nomination in HD 74 to succeed James Buchanan&nbsp;&nbsp;Florida Politics",
+      "source_name": "Florida Politics",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTlZ0WG0xUDMzQ2kzLUlRVVl5S3VaTl9jb2dWRFRnUVFRQU9xeEc1UXRKNFd0OUc1OWtlZlBvcWJhanlJVUF1LXJ2Q3RrY0ExbHk4VGlBYzRpOXJnNHYyX2JmYi1XNm9xRVNmSS1UYTVHallHWllzSV81UldqWWszYVloMnV0aE1odWItc1FvaFpOdlE?oc=5"
+    },
+    {
+      "id": "news-politics-0d511e33fc",
+      "lat": 18.21283,
+      "lng": -73.82324,
+      "title": "South Korea proposes talks to officially end war with North",
+      "category": "POLITICS",
+      "time": "2026-08-15T14:40:15Z",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-finance-4c1f0598fd",
+      "lat": 48.15955,
+      "lng": 16.31052,
+      "title": "Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected",
+      "category": "FINANCE",
+      "time": "2026-08-15T15:07:59Z",
+      "summary": "Why Medicare Advantage providers are cutting plans — and what to do if your coverage is affected&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRXFIekhTU281Zl9NVzkzcDhpX2tqUC1uX2kwaHRlS3V5N2Zyd2VLUHFzakpCcG1wRXoxRlBnMTFLTEJLN2V6c25fN3Q3dXZMVC1WUVN2Rld6S01ZTXoxdVVXdXVMa2NXYXhUMGtLTE5LWExIbVFhTENITTVhcnpYVXc2WUNuYW1Rc0R2Yi0zc3lCQk9TVGgwSWVucW05WV91TXdvZ2Etd1ZidVVyQ05HUzBfWTRKMWZPWTBDaW5DaGYxMkozSHNtNzZRV1l4WGt1ak5GLVdOOVFndk84Z0E0bVdxakw2LWhsc09r?oc=5"
+    },
+    {
+      "id": "news-finance-94e23379cb",
+      "lat": -0.56164,
+      "lng": 30.65442,
+      "title": "5 Must-Read Analyst Questions From Funko’s Q2 Earnings Call",
+      "category": "FINANCE",
+      "time": "2026-08-15T14:29:00Z",
+      "summary": "5 Must-Read Analyst Questions From Funko’s Q2 Earnings Call&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0RLbzJMc3YtUWFYTUczRDRhQ0RFcEIzREtIQ091ajJhWllrejNiSGJVaTFvZFowNEFoVTE4UGtIZ3NQX2lPRGNOX1hUU1AtTVNaLXRVbHNGVnFrTDBBdWdLUEV3NzNkU3R1VE9CM3Eya09QM0VKSzlqX3hqR0g1bEhNTkdWVmNkRUZrVHNPdnNHR24wOEVHU1Rn?oc=5"
+    },
+    {
+      "id": "news-finance-09356b14da",
+      "lat": 38.9536,
+      "lng": -77.55126,
+      "title": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
+      "category": "FINANCE",
+      "time": "2026-08-15T14:24:21Z",
+      "summary": "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.&nbsp;&nbsp;CNBC",
+      "source_name": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdDhObERSNElrejljNzExcENBOS1QS200OUpHRUZMX2Y1TmhZVW41b3NyMzZOYkVRLWRld3BLVURHazRvNmNPRnQ3a3d0UUZTOTFaTVk1eDRrS1dwR29PaGt0b09WNmoxTXkwMWlCOTh2MFdwSy1PYURTLUZjUjZZRGFUTXdPRG1wSFRxbVlHcUN1Q0wwWXJfMDlfcG9fXzczbmJXanhOaGlwbUVJVW9nVVBmbUpjb1JHR182ZWpoYUk1Tzh50gHKAUFVX3lxTE54cWNsOHJWOHFfVVlENDBzcnpSYWxrUVdSWkRPV3g0T0JhQXVjTkRWWnAtMEVyNlFhUTVPdEhHaUFRdEktYUQwWEstcUJ2RFVDMEwzNUxwUm41T1B0TFctQUxRZncwQktJOXFUa1B5UE55YnVHdkVxRkpSd1NmdnA4MW1UdDBkSWNUN2dLZXZPZXhRLVFyVW90MmtIMXNfZjRaX2ZqSVZ6LXd5Z2hVYjdZTWdpcjN2NTdDSWRGUHJMYW9jS0xoMEZhdWc?oc=5"
+    },
+    {
+      "id": "news-finance-0f5ae54e21",
+      "lat": 14.98845,
+      "lng": 74.15688,
+      "title": "How to use Kalshi and Polymarket for UFC 330: Trade UFC prediction markets",
+      "category": "FINANCE",
+      "time": "2026-08-15T14:00:01Z",
+      "summary": "How to use Kalshi and Polymarket for UFC 330: Trade UFC prediction markets&nbsp;&nbsp;Yahoo Sports",
+      "source_name": "Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcElMTTlYdUlYZHliMzU1ZVNsYTRDSC13dGE0RHN6S2doYlpXRHV3OHVWZU9Uc0hUZnhrLU1Kb1h3RHZWeXBuNXFHTjYzSzFvUE1OTXdmM29fajItNVM5bXhKZEFLZG5mU2Z3b01sZEJvQjZjS1FQRDFkTHJ5enZtbWNRX0lfNnM?oc=5"
+    },
+    {
+      "id": "news-finance-dd21263f77",
+      "lat": 55.58653,
+      "lng": 9.67009,
+      "title": "The Top 5 Analyst Questions From iRhythm’s Q2 Earnings Call",
+      "category": "FINANCE",
+      "time": "2026-08-15T13:33:00Z",
+      "summary": "The Top 5 Analyst Questions From iRhythm’s Q2 Earnings Call&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPamhGRlVJZm91c3BTN0p3VXNBZmpzWFFvRmJMZnduMEJyTDZWOG5zYnJQbzRrSWNHeGhSSEJIMHJudTY4ZkFEaE01SnY1OUwxamIySlhUM0V4c2wxeUNncmhyU1V5WmpncFpwMlg1WEZVc0ZENHJKUDh2R01CM3RUa1l5UzRFQVFnWkNIUXFTREVtM0otQjhjZ0FSSFo?oc=5"
+    },
+    {
+      "id": "news-finance-a4d69c6644",
+      "lat": 55.7899,
+      "lng": 37.6853,
+      "title": "Insider Sale Alert: Triumph Financial EVP Nelson Sells 3,750 Shares",
+      "category": "FINANCE",
+      "time": "2026-08-15T13:20:01Z",
+      "summary": "Insider Sale Alert: Triumph Financial EVP Nelson Sells 3,750 Shares&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEczN0laX0J6ell5RUE4OU9vWUFQOE9XVGNwNG1weVZ5T2tlZll6TWEtLTlsWDVkSTQ5UFFibGozejBtQ1dqX3p0aUNmaDlzS1c1RE5fTk0yUGh5SnI5VlhmR2N3TzU1OVBBNGNtMmZsSTU0NXVFeS1SZ01uazFCdXRlMlJEdk1RLXpHNE93LVZIS21Cd1RoV2w0elh2QWQyUU80?oc=5"
+    },
+    {
+      "id": "news-disaster-9000dd7787",
+      "lat": -2.50608,
+      "lng": 117.89392,
+      "title": "47 dead after magnitude 7.7 earthquake strikes off Indonesia’s coast",
+      "category": "DISASTER",
+      "time": "2026-08-15T15:07:00Z",
+      "summary": "47 dead after magnitude 7.7 earthquake strikes off Indonesia’s coast&nbsp;&nbsp;AL.com",
+      "source_name": "AL.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMldPdXRObGNReDNVRzI2aVZfc3lLVDY4ZDlVQk52aHVVMEU3QmtPa0QtUzVhMTc5bkxrN2N4MVh5WmVQZ2dPZXNvNDdzWWRucldrYjVIbmNGVkdrVVgtcFQ1LXdhYkhldGI3VERIMm1mUkxndlpaMk9RUDJHdUJNeHN1TW12clNkT3RnTjRTekNZOV9LOUstajdlRHIxc0xNdWR2elln0gG6AUFVX3lxTE5GU1VWSGFTbTJnZG5lb1BhbTR2UmZsQVFGRVFKcXloQlBZbTNsUnp3THNuUkVSSDJpT2pualdma1NEMUNTNnZ1YmFqNGVXMzBUcUhJeTlWcmF2R1V2VTlpUXludHc4OWF6TDEzcWNWMFhiLVJBYkt4MG44c2JPY21ENnl6VEROa2FUalRTQ2ptdTRkcnhoTDF4cUc4WmdEZ2JGTk1LNHo4U2pTRnJLUk8wTGpJdzdtY1gwQQ?oc=5"
+    },
+    {
+      "id": "news-disaster-0bd6ab8254",
+      "lat": 38.87785,
+      "lng": -76.99606,
+      "title": "How to beat an earthquake: The Colombian city where no one died",
+      "category": "DISASTER",
+      "time": "2026-08-15T15:03:32Z",
+      "summary": "How to beat an earthquake: The Colombian city where no one died&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUFzcEpwaWV4WE5pY0JDYldIMFV5QnFjRnFqbF9BaFVUN2VtOU9TOVpiWEhRX3ZEQzVXVWdqenBoS1FibGVLR3FtUlJYdlk0R0FWRkhhbE11cWhGSHY1eEYxcTJSZXFMRUc1OXBMVXVMR1B2RFBLSHAtY0JMRlhpTUJ2OGgtNWNBVWxPa1dfb2dkUjB0bVFxVFZBRHlOUEJtYk5pSjZ5WQ?oc=5"
+    },
+    {
+      "id": "news-disaster-5607af1cbd",
+      "lat": 33.67106,
+      "lng": -93.55484,
+      "title": "Hope reborn in Colombia as signs of life emerge under earthquake debris",
+      "category": "DISASTER",
+      "time": "2026-08-15T15:00:00Z",
+      "summary": "Hope reborn in Colombia as signs of life emerge under earthquake debris&nbsp;&nbsp;Chattanooga Times Free Press",
+      "source_name": "Chattanooga Times Free Press",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaTZMSE14VlV0Uld3am4zTWQ3SVhvVGhxbjh4bFBzajdmT1RFc01ZQ3VPY2t6bTlTaWRrX2VhaDNhbUZsQjMtaHUtQTNVMldRZ3RpM2NPWk96bW5ibllNYWRWWGRVYm41RmU1dFVYY1gxdVRSa2dQZl81Z3VGT0JjSGhLdFpkbHBDSDlNTnJndnBoSHpYV3VMTUU4Q21XeVhYcWRhdFV4bWxmV3J0Z1JSdnhIUjR5SkpDMXZCVQ?oc=5"
+    },
+    {
+      "id": "news-disaster-9fc1383210",
+      "lat": 34.09025,
+      "lng": -118.22535,
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia, killing at least 47 and toppling buildings",
+      "category": "DISASTER",
+      "time": "2026-08-15T14:56:09Z",
+      "summary": "Magnitude 7.7 earthquake strikes off Indonesia, killing at least 47 and toppling buildings&nbsp;&nbsp;Los Angeles Times",
+      "source_name": "Los Angeles Times",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNblpxaVRGa2pKQzVFSG1SWUtSYmpJdDVDLXNzSnVUX0Z3dTQzYTBCeWhfa196eDRUZTdLVGtZSHVVUWdVTWh2d1M1THN2cnIyQ3R2Vm1PT0xwR2t2eFVfVFlUYTZPQ0ZOdnNxWUlJTGR6NVFrSFQwRndlejBndUhLSWdXMXJvM1c3ZlBORXhSS0d0am0tcEIzZUt4RThQMHczbUI1eEVTZ3E3bWFBdVZCYQ?oc=5"
+    },
+    {
+      "id": "news-disaster-0ac66d861a",
+      "lat": -2.49224,
+      "lng": 117.87561,
+      "title": "2 powerful earthquakes hit Indonesia in one day, killing at least 47",
+      "category": "DISASTER",
+      "time": "2026-08-15T14:56:00Z",
+      "summary": "2 powerful earthquakes hit Indonesia in one day, killing at least 47&nbsp;&nbsp;cbsnews.com",
+      "source_name": "cbsnews.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5"
+    },
+    {
+      "id": "news-disaster-3837a6cf71",
+      "lat": 37.2342,
+      "lng": -78.73683,
+      "title": "Flood watch issued for central Ohio after storms, 'damaging winds' forecast",
+      "category": "DISASTER",
+      "time": "2026-08-15T14:49:00Z",
+      "summary": "Flood watch issued for central Ohio after storms, 'damaging winds' forecast&nbsp;&nbsp;The Columbus Dispatch",
+      "source_name": "The Columbus Dispatch",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlR3Y3FiQVc1LW1KZnRsay05dXRoRG4tQTlGN3lfMDJDNGVVZkNWMGgtVTNqNFZHU3F2XzNWdnVEdHBLSlY3cDBtYmZTX29SU0RWVDV2dzhvZG1LYWZwejFCd1p2MzBPaWEwZGtjODVVWGVpUjFGUkVpMnpBTjRsX3pFV0ZkQnU2UHJOejR2emlIcXNaNko3Ul90YnBBbHkxbkpfd2pjRkdiMzdpQUx6Y2NpdmJ4SFRIN1RiVDRvaWc1bXVWYm5YSg?oc=5"
+    },
+    {
+      "id": "news-accident-c508b2314e",
+      "lat": -12.44161,
+      "lng": 130.95764,
+      "title": "Driver killed after car crashes into light pole",
+      "category": "ACCIDENT",
+      "time": "2026-08-15T14:56:52Z",
+      "summary": "Driver killed after car crashes into light pole&nbsp;&nbsp;WSYX",
+      "source_name": "WSYX",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNEdWMHE5N3lJMWRqYU1ISXZZa0lkc3hmaEpGUWdPelp6VVBqV0wxbG9XY1VaUzJ2VHlrUUdEbTMzUFBQRGJhcWdjQTFpcHN2d0FIdXBPVjEycDhlbC1ybGxYcklvUGswRFJGeERYMzNsM1VWeHJYdUpBSHBQcXNPTDgySzk5RWRwLU1HdC1UamM5SUlfcXVuNU5JVWljWTVfQUdlSmVic3JWT3IzRjY2Z0ZtWkIxWWhxYUxtWF9mSXhCZXlYSDlj?oc=5"
+    },
+    {
+      "id": "news-accident-8dc9170bf2",
+      "lat": 38.24187,
+      "lng": 140.2828,
+      "title": "【続報】赤川花火大会で花火が地上付近で爆発 、3人がケガ（山形・鶴岡市）（テレビユー山形）",
+      "category": "ACCIDENT",
+      "time": "2026-08-15T14:33:17Z",
+      "summary": "【続報】赤川花火大会で花火が地上付近で爆発 、3人がケガ（山形・鶴岡市）（テレビユー山形）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ka3VDbTlTdUNoSHdCQW9XTWpESDctOU54MDctVk8tWW4tRmhkckY2TW02Y2U2cEdCdDlkM2g1SnpGOVpQYVg1b0pzMTU2WDVnVklYdzEtMmhpNEtzaFlzNzdxbzQ2N25ONEZIRzR5U1llRWFOb2ZKOVZfNVNaRTQ?oc=5"
+    },
+    {
+      "id": "news-accident-45d682b86f",
+      "lat": 33.49145,
+      "lng": -112.10502,
+      "title": "1 person is dead after crash between car, motorcycle in west Phoenix",
+      "category": "ACCIDENT",
+      "time": "2026-08-15T14:29:22Z",
+      "summary": "1 person is dead after crash between car, motorcycle in west Phoenix&nbsp;&nbsp;ktar.com",
+      "source_name": "ktar.com",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16N0haVTNfRDI2ZU1QQnc5bzVxNUtHRzhkX25UUDlCR0N5NU92NW5faGhtSW84M3FSZWttOEsyOU1mS0xmb3hreC12X0xraU9aZmtaaXQ4VFhGWDVncVUzLXdWR0YxSUwxNE4yUHNLclBzZ0paT29sMlpzYw?oc=5"
+    },
+    {
+      "id": "news-accident-4659cc49ed",
+      "lat": 25.92482,
+      "lng": -80.32005,
+      "title": "Burglary suspect found dead in flipped-over car on fire after fleeing from authorities in The Heights, Houston police say",
+      "category": "ACCIDENT",
+      "time": "2026-08-15T13:57:04Z",
+      "summary": "Burglary suspect found dead in flipped-over car on fire after fleeing from authorities in The Heights, Houston police say&nbsp;&nbsp;ABC13 Houston",
+      "source_name": "ABC13 Houston",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZzY1cVBjOU50RXc0NkthU3FpTVNXZG1Cbm5Vd2c0aFBWOXpPSUZlMm9QdHRHYWdVYkVpcXRMWExkYjlTQ0dCWVhMQnl6SUZ5MjB2UmpteWlEclpHb0oyU1VGUzVwWUZ6MjVNeWVtLU94djQ2eU5VeU9DUTJwM2FJWGJ2bzBDZWE3S0JZUWtobEc5c2pEdlJBblV6TXpfOFlMX0tsSVBQeFFUa3RBUEdnbm1wMGE0RTNMVEtxa2xRdmUzd9IBxwFBVV95cUxObmpkZEgwTUJ4WldBc0Q0UGlZeHp0UHJ2OUNJaUhGQ3RwbnJjNklQRGVjbXBheE04Q01lWjJUdTFnR21EQ2hGYzBKRXIxdFpsbHBvcW00elo0dnB4MG1mNC1YQUN3MFZRMVdGZzUyZUF5VngtS25xYlMxMmplYkRZTlluaGhKUzdIWWZxNmlQY3c5LW9JUGU5cGVXSnZRREVNN0hyUEt6ZHI4WXAyZVh6NEpzUm1Id0w3aVo3OWF0OE1vZ1JUQ3NB?oc=5"
+    },
+    {
+      "id": "news-accident-01207c208c",
+      "lat": 35.02837,
+      "lng": 138.43387,
+      "title": "伊東市の花火落下事故 玉への不着火が原因か（静岡）",
+      "category": "ACCIDENT",
+      "time": "2026-08-15T13:53:02Z",
+      "summary": "伊東市の花火落下事故 玉への不着火が原因か（静岡）&nbsp;&nbsp;TVer",
+      "source_name": "TVer",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50QUJ4THNNUGlGeU5vb1RLRy1lazlPcVNzbnVLVnFuWVZpSnhHNjFLdk56T2JuNHpnY0xjSE14MUZMMHh6VnJDazFXcw?oc=5"
+    },
+    {
+      "id": "news-accident-0be35f46d6",
+      "lat": 35.14414,
+      "lng": 136.87513,
+      "title": "岐阜県の長良川、愛知県の矢作川で水難事故相次ぐ 2人死亡 １人行方不明（メ〜テレ（名古屋テレビ））",
+      "category": "ACCIDENT",
+      "time": "2026-08-15T13:35:01Z",
+      "summary": "岐阜県の長良川、愛知県の矢作川で水難事故相次ぐ 2人死亡 １人行方不明（メ〜テレ（名古屋テレビ））&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sNzRsV01TQXBNVVJqbXQ3ODk0ZGFrRmxnVUhQN0V6RzNIaTdfM3VETWg2TWRDNXMyZFNvYXlOUzBWM0VGU2t5V3hINm5nQUp5aUNDb2FINk5kRzlkRXV6WjhtdE01b1p6QUNiOVp1NUV2ampBMkVMMzUzaFMxTEE?oc=5"
+    },
+    {
+      "id": "news-disease-a1966dd8a6",
+      "lat": 34.94846,
+      "lng": 135.22048,
+      "title": "なぜ、不十分な個人衛生は学生の感染症リスクを高めるのでしょうか？",
+      "category": "DISEASE",
+      "time": "2026-08-15T11:32:35Z",
+      "summary": "なぜ、不十分な個人衛生は学生の感染症リスクを高めるのでしょうか？&nbsp;&nbsp;Vietnam.vn",
+      "source_name": "Vietnam.vn",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQem81Y1FVYVlGQS1sRTNPbFl3MTVRdHJBb3E1TUR0STlBa0hrckNSYy1CN1FtMXFKaWphM004OFhBWEFMdXBOVGxvZExDX1g3ZksyVGwySHRvM0RCMHN3aEhnNUJBMlJ1eExVRnYzaEEzeWstNVNxekRCOVBneTFxZ1FieTZBd1lHYVFnVW1wS1FmQ2tNd0xuSmdDcG5sdVdVWmtqOA?oc=5"
+    },
+    {
+      "id": "news-disease-a91027be36",
+      "lat": 20.02865,
+      "lng": 105.4224,
+      "title": "タインホア省出身の学生は、病気を克服し、2026年AIMOで銀メダルを獲得した。",
+      "category": "DISEASE",
+      "time": "2026-08-15T11:19:34Z",
+      "summary": "タインホア省出身の学生は、病気を克服し、2026年AIMOで銀メダルを獲得した。&nbsp;&nbsp;Vietnam.vn",
+      "source_name": "Vietnam.vn",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONE5zQXA1R0pTOUp6SFI2NHVhMXFldm5oU01FaDZRamJfUnlmd3gyNGJwVVlvOEExSEY4MG1YMU5Bbmt6Q1hGSWJab042YnhkbTFVZlJBR25Jcy1DalpLVVVteWNIbTZ0UTFXMjhKVzdxTC1OdkI5bE14T2VvU0NqRHMtZWU3SkU5bWxxR0doWUE?oc=5"
+    },
+    {
+      "id": "news-disease-c317136711",
+      "lat": 3.549,
+      "lng": 21.65179,
+      "title": "Ebola outbreak: Bas-Uele becomes the 6th province affected, One person every 30 minutes is killed in this outbreak",
+      "category": "DISEASE",
+      "time": "2026-08-15T11:08:49Z",
+      "summary": "Ebola outbreak: Bas-Uele becomes the 6th province affected, One person every 30 minutes is killed in this outbreak&nbsp;&nbsp;Outbreak News Today",
+      "source_name": "Outbreak News Today",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3ZnX3dYV2ppZFQ1ZkU1LUdHRUNnZXB1ZHFnTjRBRERJZEJwTEI3YTVRaThEcEpUbFB6YnB0enlQRFc4UmdUZ1F4ZS0xWkNoVW5qWXpycmZFNEVLZ1lQSWFPVTdtd2Y0OUJScnZNa01qRmFnVGtXM1VtWnZRZ2I0aTdB?oc=5"
+    },
+    {
+      "id": "news-disease-88a95ccdb6",
+      "lat": 35.51053,
+      "lng": 139.52813,
+      "title": "猫にとって危険な病気『肝リピドーシス』とは？ 見逃せない症状や予防のポイントまで解説",
+      "category": "DISEASE",
+      "time": "2026-08-15T08:06:26Z",
+      "summary": "猫にとって危険な病気『肝リピドーシス』とは？ 見逃せない症状や予防のポイントまで解説&nbsp;&nbsp;千葉テレビ放送",
+      "source_name": "千葉テレビ放送",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zelpCZDdRNGRUNm5JUG5QTEhZaHlzOXdDeS1tblBpc1ZhZmpIdU16VERxWm10S1NNTGVMa3d4MWZWUGpRbktnRnkwZTZmUk96NWsxb2tuRGF1cWkwb2c0?oc=5"
+    },
+    {
+      "id": "news-disease-c626dd7021",
+      "lat": 33.75639,
+      "lng": -84.47372,
+      "title": "Fastest-growing Ebola outbreak through the eyes of Canadian aid workers",
+      "category": "DISEASE",
+      "time": "2026-08-15T08:00:10Z",
+      "summary": "Fastest-growing Ebola outbreak through the eyes of Canadian aid workers&nbsp;&nbsp;Penticton Herald",
+      "source_name": "Penticton Herald",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWg1X0ItdXRMMF9udHR3dU9vTHZ0ak05ZWt0V2RvdzBnWXBkOHZUc0hDNXJ1UEczQzVLRmRQR0NTSXRQbGxZNDVPVXpMSl9mT1BDa09VbEVKWGh6ZkRRZEdWYlMtdW04YUgtV3lMVldMOG1CZWxfNUV2QUl2NFpjNUJ2WE1EYW05SVo3WW1TcTY2TGFnMUhnMmFDSDhIWElt?oc=5"
+    },
+    {
+      "id": "news-disease-41d3b795b5",
+      "lat": 46.62532,
+      "lng": 1.94628,
+      "title": "｢彼女に夢中｣フランス主将エムバペ、“病気”投稿ショットに世界が騒然！デレデレ笑顔での“金髪ネトフリ美女”恋人匂わせに｢主導権握られてる笑｣",
+      "category": "DISEASE",
+      "time": "2026-08-15T06:05:00Z",
+      "summary": "｢彼女に夢中｣フランス主将エムバペ、“病気”投稿ショットに世界が騒然！デレデレ笑顔での“金髪ネトフリ美女”恋人匂わせに｢主導権握られてる笑｣&nbsp;&nbsp;スポーツブル",
+      "source_name": "スポーツブル",
+      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WckJYV1V1cUFYRnE4dGRnUkI5bG11NXp6R0VKVUhKM050dTRvcG5GdXUwSVNCUDdGNmZiLXJmVVZHR2VwN3N3?oc=5"
+    },
+    {
+      "id": "news-technology-cca8a6667e",
+      "lat": 35.62763,
+      "lng": 139.72486,
+      "title": "AIに対する思い込みに挑む エージェント時代の協働モデルとは",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-15T15:29:00Z",
+      "summary": "AIに対する思い込みに挑む エージェント時代の協働モデルとは&nbsp;&nbsp;Forbes JAPAN",
+      "source_name": "Forbes JAPAN",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DLTY0SHRtUVRQNnNnNDRPWi04Ri0tblRXNXVvVDRlVHllR216cWZzWm40dXhFOU1qT05iZ2t3aFZYUDF6VDB4WnlSWlNzTWF0dm5uZldJZmYyQQ?oc=5"
+    },
+    {
+      "id": "news-technology-4ad817bc95",
+      "lat": 34.83191,
+      "lng": 135.76603,
+      "title": "「AIサンドイッチ」はいかが？ 自動化の世界で主導権を握り続ける方法",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-15T15:24:00Z",
+      "summary": "「AIサンドイッチ」はいかが？ 自動化の世界で主導権を握り続ける方法&nbsp;&nbsp;Forbes JAPAN",
+      "source_name": "Forbes JAPAN",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WR1JvdlhxdXM1T0Q1SV9MSFhQUWMtYkhVdWJZUmU5NzdaQXNBM2o4OW0yZktQeXBrN3ZKMnJsYVhRc0FQczJuTGlKZzAyZ1MwcUw2QzUzc1ZRZw?oc=5"
+    },
+    {
+      "id": "news-technology-9458e247b6",
+      "lat": 31.48369,
+      "lng": 50.90528,
+      "title": "Understanding Generative AI: Beyond Chatbots and Prompts",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-15T15:18:15Z",
+      "summary": "Understanding Generative AI: Beyond Chatbots and Prompts&nbsp;&nbsp;Metro State University",
+      "source_name": "Metro State University",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVg5cU9rZ1lBYUFRN0taUDdXcVRReXM3ODRhY3gtQVBsdjFnbFRzNGlCUGJuRTNacGs5Tzd2N3V5dnRzWlltTEU3cm41Tnd0RkQtMlg1Q0N4cjRINW1SLXNwRGhPUnE4bWNMRmJfZFRCdW5XOHR5cllfX0NsdzVicjRvRDJGTkljVk1CYkRaZmZqVzN3TC12eHhVSQ?oc=5"
+    },
+    {
+      "id": "news-technology-d565925df8",
+      "lat": 49.5519,
+      "lng": -123.93991,
+      "title": "Moomoo AI 8/15",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-15T15:15:37Z",
+      "summary": "Moomoo AI 8/15&nbsp;&nbsp;Moomoo",
+      "source_name": "Moomoo",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ydUtsN0RSeHkydlVfTmdIVDZINWl3Q0NoOVJ1dWJSU19aYU5FbE1wWXJHT0xkQ3pHMzlrSl9KQk10czJ2dDdxVUZ2dVIxZ25xZGJiZ2VOWWJ5LXFoREZEZXRxbW5VV09KS052Y0RtbWM5V0x2SVV0QkJ0cw?oc=5"
+    },
+    {
+      "id": "news-technology-bb89931430",
+      "lat": 35.56826,
+      "lng": 139.70084,
+      "title": "アップル製品値上げ「不可避」の構図、AI需要に伴うメモリー高騰と大容量化のコスト圧力（小久保重信） - エキスパート",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-15T15:11:23Z",
+      "summary": "アップル製品値上げ「不可避」の構図、AI需要に伴うメモリー高騰と大容量化のコスト圧力（小久保重信） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOHlUcko1ODZjYUh1QXdLTXFDZHFTNVFmSGR1czJ4LVZaZFNLemJ2aXRKSjJYZ3A0dklmRkN5QnQ0bmMzbFRVa01hSlpFUUZwUlNSSU1BQ2RXUnlNbEFUZlg2WTc4U0FZdjEyb3ZObFVHR05LSFNmakRldEpXbjBucFo3eW5rdVdl?oc=5"
+    },
+    {
+      "id": "news-technology-9d52a1f112",
+      "lat": 47.59443,
+      "lng": -122.35764,
+      "title": "Pony AI (PONY) Stock May Sit Above Fair Value After A 49% Fall",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-15T15:09:41Z",
+      "summary": "Pony AI (PONY) Stock May Sit Above Fair Value After A 49% Fall&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGRzRHgyR2FIeWdQelRWX3diX2dxWEFnWDB0VDVRdUFHWXNiemJmaXVoeTUzUFpVTWRTay11bG00N2NfWlo0SmRfdFRrYjNjMEhEcWdIbS1XZE1DWkdQRUx6Q192REhlQVZMQkRTaElfVVhWcEtQQjY2Qmc4UWNKMFBvVThYWFd5dzR1bTN4Q00?oc=5"
     }
   ],
   "vehicles": [
@@ -73,5 +436,6 @@
       "name": "MV ATLANTIC HAWK",
       "speed": 22
     }
-  ]
+  ],
+  "updated_at": "2026-08-15T15:44:28Z"
 }
