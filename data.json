@@ -2,70 +2,76 @@
   "news": [
     {
       "id": "n001",
-      "lat": 35.6762,
-      "lng": 139.6503,
-      "title": "東京港で貨物物流が再開",
-      "category": "TRADE",
+      "lat": 35.6812,
+      "lng": 139.7671,
+      "title": "東京湾で大規模訓練を実施",
+      "category": "DEFENSE",
       "time": "2026-08-15T09:00:00Z",
-      "summary": "主要貨物の搬出が再開し、港湾稼働率が上昇しています。"
+      "summary": "関係機関による合同訓練が実施され、周辺海域は一時的に監視対象となっている。",
+      "source_name": "NHKニュース",
+      "source_url": "https://www3.nhk.or.jp/news/"
     },
     {
       "id": "n002",
       "lat": 40.7128,
-      "lng": -74.006,
-      "title": "ニューヨークの交通網が安定化",
-      "category": "CITY",
-      "time": "2026-08-15T09:10:00Z",
-      "summary": "主要路線での混雑が改善され、運行の回復が確認されました。"
+      "lng": -74.0060,
+      "title": "ニューヨークで大規模停電",
+      "category": "INFRASTRUCTURE",
+      "time": "2026-08-15T08:40:00Z",
+      "summary": "マンハッタン南部で電力供給に障害が発生。復旧作業が続けられている。",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.com/news"
     },
     {
       "id": "n003",
-      "lat": 51.5072,
-      "lng": -0.1276,
-      "title": "ロンドンのテレメトリ監視が強化",
-      "category": "SECURITY",
-      "time": "2026-08-15T09:25:00Z",
-      "summary": "セキュリティ監視が強化され、重点地域の確認が行われています。"
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "title": "ロンドンで国際サミット開催",
+      "category": "POLITICS",
+      "time": "2026-08-15T07:15:00Z",
+      "summary": "各国代表がエネルギー政策について協議を行う予定。",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/"
     }
   ],
   "vehicles": [
     {
       "id": "v001",
       "type": "plane",
-      "lat": 34.0522,
-      "lng": -118.2437,
-      "heading": 100,
-      "name": "N910DL",
+      "lat": 34.9,
+      "lng": 135.4,
+      "heading": 75,
+      "name": "JAL123",
       "speed": 820,
       "altitude": 11000
     },
     {
       "id": "v002",
       "type": "plane",
-      "lat": 35.6895,
-      "lng": 139.6917,
-      "heading": 145,
-      "name": "JL204",
-      "speed": 780,
-      "altitude": 9800
+      "lat": 28.5,
+      "lng": -80.6,
+      "heading": 200,
+      "name": "UAL55",
+      "speed": 900,
+      "altitude": 10500
     },
     {
       "id": "v003",
       "type": "ship",
-      "lat": 37.7749,
-      "lng": -122.4194,
-      "heading": 35,
-      "name": "MV ORBIT",
-      "speed": 24
+      "lat": 1.29,
+      "lng": 103.85,
+      "heading": 45,
+      "name": "MV OCEAN STAR",
+      "speed": 18
     },
     {
       "id": "v004",
       "type": "ship",
-      "lat": 13.7563,
-      "lng": 100.5018,
-      "heading": 260,
-      "name": "SEA RAVEN",
-      "speed": 18
+      "lat": 36.1,
+      "lng": -5.4,
+      "heading": 300,
+      "name": "MV ATLANTIC HAWK",
+      "speed": 22
     }
   ]
 }
