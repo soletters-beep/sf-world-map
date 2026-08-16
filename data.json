@@ -2,19 +2,52 @@
   "news": [
     {
       "id": "news-politics-47113be88d",
-      "lat": 52.32592,
-      "lng": 4.86579,
+      "lat": 52.30869,
+      "lng": 4.85179,
       "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
       "category": "POLITICS",
-      "time": "2026-08-16T17:18:56Z",
+      "time": "2026-08-16T17:44:23Z",
       "summary": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-politics-de6c43e605",
+      "lat": 40.68019,
+      "lng": -73.95392,
+      "title": "Stavros Halkias Never Wanted to Get Political",
+      "category": "POLITICS",
+      "time": "2026-08-16T17:38:34Z",
+      "summary": "Stavros Halkias Never Wanted to Get Political&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFgzMXZMNGo2QzdTX1F0ZmVkengwN1ZTeVVodkt4cm43WVk1eHM2bFJ5MnlDNnJCN0RNWTZEblEwdnFBLUU4M19ZejI0dHhJUFFIZC1UWWdKY1ZRazVqYUFKM25DMzBUbWpGX21Sell6a013VGZZbzNZMU04THVENXE2MmJKOVBxOEhV?oc=5"
+    },
+    {
+      "id": "news-politics-2d1d68d5e9",
+      "lat": 56.01717,
+      "lng": 2.83284,
+      "title": "How the anti-AfD firewall broke German politics",
+      "category": "POLITICS",
+      "time": "2026-08-16T17:37:57Z",
+      "summary": "How the anti-AfD firewall broke German politics&nbsp;&nbsp;The Economist",
+      "source_name": "The Economist",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXZmSFZ3X29pcVNPNWw1TmZGUXRiMk0wSnVobElMb2h1eHZnekVRTmNZZkxkMHVXaXpsWHRDNUlzdmEzRVNsdXZuaW43eERHa0FCa3RlTlVHcEhjODVnZVZxMVBHUFpKdWJGdkFyTmxFTjFEMS1pdGtuZ0VlN21Ycm9aTXcyWi04ZHVXSDdJbFA3NTJBcUE?oc=5"
+    },
+    {
+      "id": "news-politics-0c69205bb4",
+      "lat": 42.039,
+      "lng": -124.2956,
+      "title": "Republicans won the redistricting competition. Don't tell that to this California congressman",
+      "category": "POLITICS",
+      "time": "2026-08-16T17:37:25Z",
+      "summary": "Republicans won the redistricting competition. Don't tell that to this California congressman&nbsp;&nbsp;PBS",
+      "source_name": "PBS",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1pMS3g1Qk8wdG9uSTMwcmQ3SnpPZm9iODdacGxBWTI0YTJSV3hhQ0oxOFVPbWd1bF9wYnhSVnd1MWlJVW5SZ3BOcm9aR1ZtZkVYUVVIODdmc2VGWmRzcnQta3p3TUNEYzBSTTFGMVc5Q2t6T0Y4TkVyZlM4S0dLY1A5LU8wVjVzUVlDZXdkdXVYZUJNOS1ERm82eDZyMm5vN0xOOEdwNmdHcExtUTZsS3dKekZtZXZ6Tm0xT0RfaHl5U1pJcjIzNtIBzgFBVV95cUxQM2RxNGFWUkU2ZHhJSVBJTXo1V0FxdnByVFhGWnA0OGtqSk4xUGl3ZHR0MEtYTlNnVVRhNktmNWVGZExhdTRhdVM5MlZPdzctdWlBN1RmakEyQlhEWnozR0xZdGlaMEZpbHNDMDJzbkwtSVd1MWlrSERzYWZDNU1UeU5iSUFYYXhJbUQ2R1l0RkczbXh4Sm1MWi1TTks4ckRZOHIxVWcxdV9LR1RtblhMbXI5aHZVV2NZbGhIemVqYjhCUlNCaWF4NXczdGZTdw?oc=5"
+    },
+    {
       "id": "news-politics-5f16ae2a03",
-      "lat": 38.9581,
-      "lng": -77.06558,
+      "lat": 38.88122,
+      "lng": -76.98217,
       "title": "Angry at the Supreme Court, liberals push a slew of plans for overhauling it",
       "category": "POLITICS",
       "time": "2026-08-16T17:00:00Z",
@@ -24,8 +57,8 @@
     },
     {
       "id": "news-politics-91cbd5a643",
-      "lat": 38.86576,
-      "lng": -77.09128,
+      "lat": 38.92604,
+      "lng": -77.06125,
       "title": "His family fled socialism. He’s trying to spread it.",
       "category": "POLITICS",
       "time": "2026-08-16T17:00:00Z",
@@ -34,42 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYW9sbS1Jb1ByNTFGdnY5VWl0R0dDeDMyQ25MbUhmckdFQXhYamgzcC1FNmJscHF0QjJSV2Fad2dwb0w2R3VCbDIzRmNCRHdfamtqYkg1aE5BaV9XZTBoajR4WDRqeUtnLU1kb25WVTgxMUZIZTJOZmhXMnBRQzBHTmQ1M2FtZ0J3Sjg5X3cxT2dtUGdOcmMxeVgxWnlmR21yRUdud25sdzJfVmtvdkZ3MnBPbw?oc=5"
     },
     {
-      "id": "news-politics-95851ad578",
-      "lat": 50.65971,
-      "lng": 9.97751,
-      "title": "Murder is at lowest rate since the 1950s. Trump touts it as a personal success",
-      "category": "POLITICS",
-      "time": "2026-08-16T17:00:00Z",
-      "summary": "Murder is at lowest rate since the 1950s. Trump touts it as a personal success&nbsp;&nbsp;WXOW",
-      "source_name": "WXOW",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxON3h2bXB2aTZfSFgwSEVydGlPWGNaZHJKUzJiUGotRW9wVzBDdjV5UUxjUTM2bkNZaVRia3MyNjc4Nzh0THZid1l1N3BOSG9zOUdBcXdUVkJoa19mS2VKdVdKc195NnBJZjF0UEJPR25DZ1pLVFhZRTU3d2pMcHBick9tb0VrZkVvVnVuVnh1WndDNS1Dc3RGMEM2c3BZTUlJcy0tbWR0c05qZUdtMXVEcXlsY2FKNW9VSmpSekpBUWR5cVNqLXRoNk1CV045RWdXSVNDVGJtbXJaZ1RKdkk0Yi1YdmlMWGRQZUxTeVFMMWJRVG42SWNHRmVYWG5ZemNi?oc=5"
-    },
-    {
-      "id": "news-politics-714b964043",
-      "lat": 48.55713,
-      "lng": 7.70848,
-      "title": "Rod Dreher: Identity Politics Destroyed the Democrats. Republicans Are Next.",
-      "category": "POLITICS",
-      "time": "2026-08-16T16:37:16Z",
-      "summary": "Rod Dreher: Identity Politics Destroyed the Democrats. Republicans Are Next.&nbsp;&nbsp;thefp.com",
-      "source_name": "thefp.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV3p4Q1ptNEM2M2p1cEpmTXhpY29xV29RZS1ZZW45TEdQWTNHVXN1VFVWN1FFWVVRXy01VVZTVlJIVXIxb3ZlNTg3a0k0bWJCblVmTW9lOFF2bzY1UllHSVJ2ZHRWMXFDMEliWUZoSklDMGNqSmZQUERzYktGZjQ1MmVYUGNsOS02X3JuQlJITnljLXFGNHRTMWxpbmJVbGUycWc?oc=5"
-    },
-    {
-      "id": "news-politics-93cfdeb9f5",
-      "lat": 42.39261,
-      "lng": -71.06733,
-      "title": "State Sen. Sollman: Assault at community event was ‘absolutely scary’",
-      "category": "POLITICS",
-      "time": "2026-08-16T16:30:00Z",
-      "summary": "State Sen. Sollman: Assault at community event was ‘absolutely scary’&nbsp;&nbsp;KOIN.com",
-      "source_name": "KOIN.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGtQVlRLaV93aFltVkNKdkxHNmdFNWFJb0gtUTNjWXkxOG5iSkhzRkR1ckI2UnRjUEJQc1dpLVFtSER6cXA0MlVPaWtRWUc3cjhOX1ZhMTVya2t6M0RJVkFIMDk2U0RQY25wcDlvb1dZekNyWVZYVi0xY3kxTEk3d2d3ZWgxYVNIYUwwVDEzeDlCbUp2eERYUnY2TjBxSlnSAaQBQVVfeXFMT3JKZlRCTVg2US02Vll2bU1ELVBnYjVQbmtqR29qc2ZFY01rcVVXNGxkV3VIaUpQV3VPanRhRllGaDhMdzJ4VUg3N2VVdGI0WmhPcWJVZ0t2dWc0SG9ocW8zZXFUU2ZrWlJIUzFaTDBsaTBPZDItcmRvX05tbEtBZWYtVi1SdHVSc0k0azh5MHRnT1VOX0hhNFR1NlRBUGJQeUVsUnY?oc=5"
-    },
-    {
       "id": "news-finance-8329586828",
-      "lat": -6.17549,
-      "lng": 106.89398,
+      "lat": -6.18277,
+      "lng": 106.84881,
       "title": "Finance Majors Go to Church. English Majors Don’t.",
       "category": "FINANCE",
       "time": "2026-08-16T17:00:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-d3c6bd80aa",
-      "lat": 35.52983,
-      "lng": 139.59443,
+      "lat": 35.59203,
+      "lng": 139.497,
       "title": "株価反応と業績が乖離、歴史的な第2四半期決算シーズン 執筆 - Investing.com",
       "category": "FINANCE",
       "time": "2026-08-16T15:28:00Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-3419f6054e",
-      "lat": 39.98691,
-      "lng": -86.13075,
+      "lat": 39.98642,
+      "lng": -86.16237,
       "title": "'Spending is leading to earnings': Wall Street strategists see payoff from Big Tech's AI investment",
       "category": "FINANCE",
       "time": "2026-08-16T15:16:10Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-320a27a960",
-      "lat": -27.55361,
-      "lng": 152.77996,
+      "lat": -27.45739,
+      "lng": 152.75303,
       "title": "Changing pubs into homes to be made harder under new rules",
       "category": "FINANCE",
       "time": "2026-08-16T15:04:13Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-e4a13c1626",
-      "lat": 22.29073,
-      "lng": 114.17104,
+      "lat": 22.34573,
+      "lng": 114.18015,
       "title": "香港、金融人材獲得へ減税「ビッグバン」 トレーダーも対象に",
       "category": "FINANCE",
       "time": "2026-08-16T15:00:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-952d9b63e7",
-      "lat": 22.60128,
-      "lng": 88.37633,
+      "lat": 22.59812,
+      "lng": 88.41013,
       "title": "【マーケット情報】商品市況・為替・株式（2026年08月14日時点）",
       "category": "FINANCE",
       "time": "2026-08-16T15:00:00Z",
@@ -133,9 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1pMU4zTERhS2lNclZFd210U1J6MmIwcUZ3RG9BY0pMR2JBM2g5YXVqcVZBbm16UVBVNUJqUDVucGJJZUJsMlE?oc=5"
     },
     {
+      "id": "news-disaster-41680ab0d1",
+      "lat": 7.36983,
+      "lng": 125.524,
+      "title": "'Mother Nature always wins' | Flood waters cut through Hazel Dell Parkway bridge, crews asking for space as they work to assess damage",
+      "category": "DISASTER",
+      "time": "2026-08-16T17:44:00Z",
+      "summary": "'Mother Nature always wins' | Flood waters cut through Hazel Dell Parkway bridge, crews asking for space as they work to assess damage&nbsp;&nbsp;WTHR",
+      "source_name": "WTHR",
+      "source_url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOU2dmNWppUU1Sbm1ZM3JSWGNUSy1McFNORVExYWJ5LVFfZ3dlZHZjQ015VHpBWGtoSFQ2RmQyb1VkQ2NMS3lMZEpaUEZ4UDRqLVVOajB5UEM1aVU5cks0Z2s5dk4xWDZmWnhwTDVKN1hQbEZKLWxneDUwVjRPR0w2dXh6RmM3YlphYWhuTlFKcmRBNnF4aHYzS2pHa00xS1QwbVcwaDVyLThGQ3ZnbUlPMFRUS1JLSmloc0U4OFV4SVZfNDZvelJnOXpmTENwWE8xSjc2VUt3NFpjb29aR3VmaG9uT2hzUWRrTTNGeWUxaUYybTA0dzdUcXJ6ZngyQy1SU0Fpb2U5dkVFdHROYWlrRFVvRWpJeTF5d25YUDZNejBZY1lkc2lXdjBrcVF2OUstbUhhTlB6YjdSX05paXdpMmE4Mlk?oc=5"
+    },
+    {
+      "id": "news-disaster-af9c0be56a",
+      "lat": 34.60723,
+      "lng": -103.87748,
+      "title": "House Republican: ‘Prices are too high’",
+      "category": "DISASTER",
+      "time": "2026-08-16T17:35:00Z",
+      "summary": "House Republican: ‘Prices are too high’&nbsp;&nbsp;The Hill",
+      "source_name": "The Hill",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0c1LTV1b2FUZUJjLWNONWsySFdwNW5CSjhXQ2FaUnVLWEZROU5qYWEycm0xWksxclI4dnZyT0RKMDFvdUpsYk1qNVV6UW5uaE9VVU82cWNpTmJUYm80a0UycEd3R29VNnc1NS1qaXdqU25EemZMcy1NUVhadm95T3Rn0gGHAUFVX3lxTE1DRnFIaE4tZTMxWmJrZ2F6YkpHX0xOcnZhR3ROVUd5T0g5ZjFqZVZ5bGd4RmxfU0U4c0I0dnZ2RDhQaTBwR3VYYlVVcVZfUE5JVTZjTTJST3l2bHRFdXRPX1lWTlZWbGFkVHJLUVh6M1JFZUgyemc4bE8za2xDMUdLMWxCbmJjYw?oc=5"
+    },
+    {
       "id": "news-disaster-fb5c987df4",
-      "lat": 37.2568,
-      "lng": -78.68892,
+      "lat": 37.308,
+      "lng": -78.77183,
       "title": "Flood advisory active for Rockingham and Stokes counties until early Sunday evening",
       "category": "DISASTER",
       "time": "2026-08-16T17:33:06Z",
@@ -144,20 +166,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vcktMREh0eGhPekZydGRuMzZ4U2M4eFFMdllKTXJLd29vVDF6WjdXQlNHSzAyVFJkcXBud0gwaWpLR200SkRsZEtoMHp6T3lwdjNXYzBtVDBPR0I2ZVBPU3JlQ1VMUU56ZXBpWjhmcng0cy0yWHdWRkpOWGVxZw?oc=5"
     },
     {
-      "id": "news-disaster-d9ca93d467",
-      "lat": 4.64772,
-      "lng": -74.0974,
-      "title": "Colombian president asks Trump to suspend tariffs to help earthquake recovery",
+      "id": "news-disaster-a5fea80634",
+      "lat": 4.08182,
+      "lng": -72.85797,
+      "title": "Colombia asks Trump to suspend tariffs to help earthquake recovery",
       "category": "DISASTER",
-      "time": "2026-08-16T16:57:20Z",
-      "summary": "Colombian president asks Trump to suspend tariffs to help earthquake recovery&nbsp;&nbsp;Bozeman Daily Chronicle",
-      "source_name": "Bozeman Daily Chronicle",
-      "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPOE1GLUVaZ2JmRGZYckYxSGFIZTNUQXpXOVhIV25xemhqWElQZ2l5alV6cnpCMkVSZUlnOHJQRnc1bGptYnRTdkhvdUxzVVhxZHdqQzhIX01RRV81aFpjLXd6NTBzZnpORWdQRDBCeEV3ZzBSZThpRTZqQmpfOUNPN1hPb3B1aGQxTVFuenljdW9WdnB1REZKbkJ4VUZ6N2NyYXdkMTlQbEpCSmh3bkduZGZMYmhIaHlEQndjOHVCUjVaeFpDcHNBWVl5RG1Ob29ON25zTUh6R2lBVWw5OUdhUmVlZ1dmOXhpa2lON01KOWRTbUs1SFduTkdLZXUyWktuYVdERXhLd0R6MGZJLVJyWkVn?oc=5"
+      "time": "2026-08-16T17:14:31Z",
+      "summary": "Colombia asks Trump to suspend tariffs to help earthquake recovery&nbsp;&nbsp;NewsNation",
+      "source_name": "NewsNation",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY3ZYNkQ3b2FPVWtEN1RSck42Z0tqOWtKejBTOFNoUGktVWM4QlBHZ2wyX3BsSmFrMmRUcEp4T2Q0aEt1TllzUGlqOXp5NUlOcjEtWVBFblRfVkxrU3JBY2dNSUdyWHpCd0ZNTVRMQzVQNVNic2NIVXRkeFY4ZVRFQUU3cGpSZDBwVHFjU2tJTnVGT2loTU9udVBGREZRVGZNQWd2U0RnenBweW5SbHFkNURSbC1lVWZL0gG-AUFVX3lxTFBkZjVHQ196dW9qNXJtSFNNZHdUdERhRGFaMnVnNURSRjVQLUZ3cV9KWV9YTmRfQXhETkNiaTBpQ2ozMEVzSVZXYjZWc21wRFZSaTNfVF9ZclNLU1lYcmZCRE5KeFFXWmpaZmQ1dWhOWVE4bXNQU2VGUVdpZ0VDVFZua0pNNnFfaHhMZ1NHZ0RtekN4c05lTkhzamlQRlF6UnIyZXRGaGp1aWJQc0tyQ1pMLTMwTF9nWEdMaFBiNFE?oc=5"
     },
     {
       "id": "news-disaster-9d12f96070",
-      "lat": 4.6678,
-      "lng": -74.07353,
+      "lat": 4.65097,
+      "lng": -74.18856,
       "title": "Colombian president asks Trump to suspend tariffs to help earthquake recovery | World News | 2news.com",
       "category": "DISASTER",
       "time": "2026-08-16T16:57:20Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-cdda788d8f",
-      "lat": 38.27093,
-      "lng": -88.94129,
+      "lat": 38.34635,
+      "lng": -88.99527,
       "title": "Drivers in Denver metro area become stranded in flood waters",
       "category": "DISASTER",
       "time": "2026-08-16T16:53:19Z",
@@ -177,42 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcXF6RFRqTzlMUGdVd005N1lORjJxNDdsWWdEdlF5OU50TkE1M0ZfVHZQOENfSXlUbjJOc1hSMkZ1Y1BNQ2dCeS16OWxKUU5GN2o5Skd5elpYbEtfU2FyNGJKZzdaWWdQWE5Ia1hOV252ZjlUa1JSdmM3bnN6TFZXcE5TTmVKSWN2QU1XWER2VmUxek5KVC1mV1VyRjlwWms?oc=5"
     },
     {
-      "id": "news-disaster-485a935e07",
-      "lat": 43.19612,
-      "lng": -79.9201,
-      "title": "Hamilton County officials update on flood response and impact in communities",
-      "category": "DISASTER",
-      "time": "2026-08-16T16:49:30Z",
-      "summary": "Hamilton County officials update on flood response and impact in communities&nbsp;&nbsp;WRTV",
-      "source_name": "WRTV",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1NQLUpGVHo1WU0wVnZiR2k4UHNlcnVlX29kQnh2bTlQU0c3U0ZzUGRhYm5qVkNwajBsNExoU3Z1dW43UTBfamZXNXJuMjNhSkgtMDk2WnljMFNhZzJCWnZqV1ExNnJyLXg4MGNXMEp3UkVlNG1Pa0FBTDNRZF9MTTdsSVBfUWFZanZ1SHk0UXhVc0pLYkZsZk5kcmI3c1dTUHd4VlFIYzBGajllWVoydVVodw?oc=5"
-    },
-    {
-      "id": "news-disaster-f7b9fc713e",
-      "lat": 48.17284,
-      "lng": 16.4,
-      "title": "Cyclist dies after riding around flood barricades and onto collapsed road in New Castle",
-      "category": "DISASTER",
-      "time": "2026-08-16T16:44:56Z",
-      "summary": "Cyclist dies after riding around flood barricades and onto collapsed road in New Castle&nbsp;&nbsp;Fox 59",
-      "source_name": "Fox 59",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUJJMkJqdVNGMlB4ZWJTTkZpUkpvVXo0bHJ3aVRET0tXeE1zeG5iQW1KTlBGd1JOeklOMHQxSW9qVjUxR1J2TmV3bGU0MmZ3dDl2dGFjOWJodUlwcEkwbDFmQ1Rua1YtRnhDcDlReGtGc2hKeGh1NUNmQzBnLVZsTzMxTGJxY0pvQnU4dmlieVdQc3lHNDBDTkJDMS0wUF90c1MtOXFmRGRVaVcwc1Y3c9IBtgFBVV95cUxPWExURDgzczctUS1TUGZuRDJMV040ZDgwQkxtaGw0UG44cWdaZkR4TU8zMWtLbjVCWG03cEluMmJ3dEJIOS11R0RUdFUyVUFWSnBGT0dDZjZDSnRYMGdNWkxWVFVTbzhPM0syUlYydVFwLUxmRXVSdTVpN2lONU9uNjlabW9nWVlCVDRhNHM2Q09uajRxM3piOUJ6clRWUFZKQ2htZVZFTWhtTU1yM213OS1FYWhuZw?oc=5"
-    },
-    {
-      "id": "news-accident-f6bc6975ac",
-      "lat": 39.23941,
-      "lng": -94.43251,
-      "title": "Dangerous Holmes County intersection sees second fatal crash in less than 24 hours",
-      "category": "ACCIDENT",
-      "time": "2026-08-16T17:24:00Z",
-      "summary": "Dangerous Holmes County intersection sees second fatal crash in less than 24 hours&nbsp;&nbsp;WTVY",
-      "source_name": "WTVY",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmUyYzJ6UXVWZE1ydEptSlZ0blhhMmt1Vk92SUFVS1k3TEtla1FTT0R2YmJKZ0UxVFZJemtvQWpDR053MlF4d2hGYXNlRVM3am9YN1dCLXFBYldlOGlFdFgxT0tXNjliSnpNRmNTQjVxcGVUMjBSU1NWaHJ1X1lWWDVTbzB6S0ZoRjl6Z25fRlFmSVV6WUE5cGxKNk4yZHpEclo4R3hCeWtuZURLNnh1dlpn0gHGAUFVX3lxTE56d082LVFmOG9RZUVLUWlXMTBNZVZaOTRFRjlxMGk5UzUwck15MEI2dHdhNWtCelptTG02QnVXU29jVTRkUmx3Z2dvdkVHaXJuUTdQV2ZmbGh5bUNESE5rZ25DNFJITFFQNWM1OWhQTWRSYmt6YzdoaUtKenBrWHNzYmR1Q2hiSUNIcnc3bTVvZWpUSjBMSTF0M2Njd0NSQ3hYUkR5NEE5TmZMTzNJbWtSNnI5cEpGUTZDcEJRUlNKYXhsc2RwUQ?oc=5"
-    },
-    {
       "id": "news-accident-554c7c2b6d",
-      "lat": 33.48926,
-      "lng": -84.3664,
+      "lat": 33.52009,
+      "lng": -84.33026,
       "title": "Clayton NC woman killed in single-vehicle crash in Wake County",
       "category": "ACCIDENT",
       "time": "2026-08-16T17:15:00Z",
@@ -222,8 +211,8 @@
     },
     {
       "id": "news-accident-ce13e99321",
-      "lat": 50.35923,
-      "lng": -4.19611,
+      "lat": 50.39332,
+      "lng": -4.15419,
       "title": "Man dead after suspected drunk driving golf cart crash in Plymouth",
       "category": "ACCIDENT",
       "time": "2026-08-16T17:14:46Z",
@@ -233,19 +222,19 @@
     },
     {
       "id": "news-accident-0900f59c40",
-      "lat": 32.76437,
-      "lng": -117.106,
+      "lat": 32.77187,
+      "lng": -117.18119,
       "title": "Multiple crashes on I-87 and South Smithfield Road near Knightdale under investigation",
       "category": "ACCIDENT",
       "time": "2026-08-16T16:45:47Z",
-      "summary": "Multiple crashes on I-87 and South Smithfield Road near Knightdale under investigation&nbsp;&nbsp;wral.com",
-      "source_name": "wral.com",
+      "summary": "Multiple crashes on I-87 and South Smithfield Road near Knightdale under investigation&nbsp;&nbsp;WRAL",
+      "source_name": "WRAL",
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzJSdGEwQmIyTFlCTEo0aGNHd1Zibzl1YWtmMnFacE5vdVh1RjBZa1RoRUpjVGxqMzZHS0xqVTZqTi1kMExNUWtoSnRyY3RLMHNsSVp5YlRlTkVTWFBGV19RVU9WOGZQNjI5OHlTVFkzc0x4dnp3TGR0TWFCaTdIdkxlWGVJQmI5SnZ5Nm44OGI3Mkg0c1M3NkRId0dXQS1V?oc=5"
     },
     {
       "id": "news-accident-5e9e34471c",
-      "lat": 50.32389,
-      "lng": -4.11775,
+      "lat": 50.35698,
+      "lng": -4.14,
       "title": "One person is dead after a golf cart accident in Plymouth",
       "category": "ACCIDENT",
       "time": "2026-08-16T15:45:00Z",
@@ -255,8 +244,8 @@
     },
     {
       "id": "news-accident-4de27330cb",
-      "lat": 43.38963,
-      "lng": -89.97218,
+      "lat": 43.39274,
+      "lng": -89.96335,
       "title": "One dead, three injured in three-motorcycle collision in Sauk County: Sheriff’s Office",
       "category": "ACCIDENT",
       "time": "2026-08-16T15:30:30Z",
@@ -265,9 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakg1WkxrdEtDcFhKcnJ6amNZX19NM2s2YlA2ek4waEdsd0NVRnV2OHdpQ3dqUUFvNnI1aEd2Y2xUenNlU0l4WlR0bEh0V0hMZEp4cnl4NDllV19HOTJySXM3TTdwaWphTkJKWFJIb1FIYkNjRmZiZUsxU09Hb3FSd0JkNVZBN3Fxd21RUDBkdmlkM1BBYXZENXEzcXNiZjNiMEdxc1dn0gGrAUFVX3lxTE9qLVA5VnhiTmhac24tYjBQV2IzNGI2QkJDSGowaXJRMU1xaTB2Y2YxcXdDM1NhYjU5Yld4OXA5bVVLRnFsOFlMYzV5REp0U19HUnhCZ2IzZjJpZmhlU2Nta3NxVDVLZFVpeVNvaTQzVmVIUTd5UXFuX3M5SlRuWGh0eFQtSkhhSEQtUnJmd2ZDTElLQ2Ffa0czNXU0am13cDl1cWtSTERGcF8tSQ?oc=5"
     },
     {
+      "id": "news-accident-bc36a77372",
+      "lat": 47.21016,
+      "lng": 19.55735,
+      "title": "ハンガリーでポーランド人観光客乗せたバス 横転事故 12人死亡",
+      "category": "ACCIDENT",
+      "time": "2026-08-16T15:13:35Z",
+      "summary": "ハンガリーでポーランド人観光客乗せたバス 横転事故 12人死亡&nbsp;&nbsp;NHKニュース",
+      "source_name": "NHKニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kLVRpTi1vR2tRbXotRHlNdU5rWkRhSVJOdlhwdGhROEN3YnUxbldSMXBvNGxnS3R0SDRVYlQ2Yl9XYjk5Zk5JQm5KQl8tc05SN3pMWms5b3FLNk1IQ01B?oc=5"
+    },
+    {
       "id": "news-disease-837e5e756b",
-      "lat": 36.41202,
-      "lng": 139.28931,
+      "lat": 36.44536,
+      "lng": 139.32153,
       "title": "デング熱：熱が下がったからといって、病気が治ったわけではありません。",
       "category": "DISEASE",
       "time": "2026-08-16T04:22:09Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-98f4deafca",
-      "lat": 43.02103,
-      "lng": 141.29299,
+      "lat": 43.08251,
+      "lng": 141.3297,
       "title": "【JRA】小林美駒騎手が病気のため札幌競馬3R以降6鞍すべて乗り替わり",
       "category": "DISEASE",
       "time": "2026-08-16T02:55:25Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-d34ffdedb4",
-      "lat": 43.06696,
-      "lng": 141.29658,
+      "lat": 43.00799,
+      "lng": 141.33485,
       "title": "小林美駒騎手が「病気のため」札幌3R以降で乗り替わり　1Rは勝利、2Rも騎乗",
       "category": "DISEASE",
       "time": "2026-08-16T02:10:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-6d2d20926e",
-      "lat": 43.04586,
-      "lng": 141.39494,
+      "lat": 43.06743,
+      "lng": 141.33476,
       "title": "小林美駒騎手が「病気のため」札幌3R以降で乗り替わり 1Rは勝利、2Rも騎乗",
       "category": "DISEASE",
       "time": "2026-08-16T02:10:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-1328de4dad",
-      "lat": 43.02707,
-      "lng": 141.4008,
+      "lat": 43.02168,
+      "lng": 141.33209,
       "title": "小林美が病気のため乗り替わり 札幌1RでJRA通算98勝目も",
       "category": "DISEASE",
       "time": "2026-08-16T02:08:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-fe860df1a3",
-      "lat": 43.1016,
-      "lng": 141.37219,
+      "lat": 43.12217,
+      "lng": 141.33821,
       "title": "小林美駒が病気のため日曜札幌で3R以降乗り替わり　1Rで勝ち星マークも…",
       "category": "DISEASE",
       "time": "2026-08-16T02:07:00Z",
@@ -331,9 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3c2anJHZUwzY3NvV0dZT25wbXBYVU9DcU1uOG1CTVEwQnhGR0ZoeVZzSTFPVDNwLXUwNWRCa1laOHBpd2ZFY01YRS1WVkRWLUR4TmRIcEI2eUhBeGFVRlFxdWlyUXhsbVRoMmZQcXpFWTdwRmVTZmsxN0hYMm9YcNIBhgFBVV95cUxNOEpzTVVJVHlQV2NrWDRhcmR6UGNVcUx4aDA4dEUwbkxZdzdQWHNqeWY2aVNpdFJWbWQ5ZWd2bTFjUjRhSnZVS0x2YXhyNUZMbnVJMXFHSlFkXzdxNWxSZXRKbXNURzdycWNacUQ5Y2VMSHI3YUZEeDMwZzJpRXVYLXhVemxydw?oc=5"
     },
     {
+      "id": "news-technology-5ae3719b1c",
+      "lat": 27.65262,
+      "lng": 100.87655,
+      "title": "Zhipu AI Co-Founder Tang Jie: Tokens as the Engine of the Intelligent Economy",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-16T17:58:04Z",
+      "summary": "Zhipu AI Co-Founder Tang Jie: Tokens as the Engine of the Intelligent Economy&nbsp;&nbsp;Geopolitechs",
+      "source_name": "Geopolitechs",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PaVY3SmR5ZTdvVHlOdXdxUmltX0ZFS2lCdGZjeTZDWDZncm9oamxRQmRPamxyY3FUa2ZDTkN6aVpCUmJkMGttTEFUXzhVcV91SW83RmhzY0ExcnpoVlZCYmRHcmF5YUlSYlZwcDNUbkZpUl90?oc=5"
+    },
+    {
+      "id": "news-technology-ff02bcd031",
+      "lat": 46.75159,
+      "lng": 23.64095,
+      "title": "Tempus AI Stock (TEM) Opinions on Recent AI Model Publications and Collaborations",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-16T17:35:00Z",
+      "summary": "Tempus AI Stock (TEM) Opinions on Recent AI Model Publications and Collaborations&nbsp;&nbsp;quiverquant.com",
+      "source_name": "quiverquant.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWU1pV2tteFcxRTk1TnktOWN4dXNVU0FieGdiVlpYTHJ3SlZ3eDA3VEJENlpQNlkwZFBLNm5uUUlPbW43ZEhZUTdEb2x5R0RBWU94TFpreUp6WDRuT3ZGZG1scHRicndsRFVSdjlFRHFqX2VmWWxPUE5ZaHN2NldkTi1CQkxtdUNpY1JhVHJkNi1pdHVUMVpqM2NaaWRKR0twNnhmZWZJWkR1S1pRc1RxeWhydC1qUWNqclE?oc=5"
+    },
+    {
       "id": "news-technology-77fe147dcf",
-      "lat": 39.99897,
-      "lng": -94.781,
+      "lat": 40.02281,
+      "lng": -94.75562,
       "title": "Andrew Ng Maps The AI Skills That Decide Which Teams Ship Efficiently",
       "category": "TECHNOLOGY",
       "time": "2026-08-16T17:30:05Z",
@@ -343,8 +365,8 @@
     },
     {
       "id": "news-technology-23ea76eb6d",
-      "lat": 34.28114,
-      "lng": 71.0461,
+      "lat": 34.25239,
+      "lng": 71.00355,
       "title": "AnthropicのCEOが語る、AIへの反発を生むのはリスクより深い社会の不信",
       "category": "TECHNOLOGY",
       "time": "2026-08-16T17:27:26Z",
@@ -353,48 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hWkJwbC05RVRaMEZrR3hyTDFPM1FDR3JYM0M1bmRsM3NrdC1KLVE3Y2tYU0psQXh1cjVhbVhGOEtpdUxYMVZPdHNoNWFoaGhYQnJ1emJWaVhnVkpzajQ5MFo2WGNGZw?oc=5"
     },
     {
+      "id": "news-technology-f442e3d370",
+      "lat": 7.36018,
+      "lng": 124.24052,
+      "title": "AI Is Making Workers More Productive. So Why Aren’t Companies Performing Better?",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-16T17:05:19Z",
+      "summary": "AI Is Making Workers More Productive. So Why Aren’t Companies Performing Better?&nbsp;&nbsp;inc.com",
+      "source_name": "inc.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzNHdm9kNDd6YVhOX293TnN1U1A0Z05FaXpVUTBVOFpHc0Jfc2RPSGtLU3lCVnhiYVpNUEJwcm5YQVlUUDBDZFpNeGt4cnoxN3FzWDlVNlJmb1h6d3NoVms1TjZDTXlwQnlVcVlMMDNOSHlRWnFUc19RYllrMWQ4WWJheDVZYlREcDF1aFlkckNDLUlucXJja2lSUHRWQm1hcTN0X0Vmc01DOVhDdFdHRUVPOFdISUtNS1NBbA?oc=5"
+    },
+    {
       "id": "news-technology-60ed25753c",
-      "lat": 12.57223,
-      "lng": 99.86837,
+      "lat": 12.62415,
+      "lng": 99.92428,
       "title": "ＰＩＣＫＵＰ：スパコン理究 運用スタート AIによる研究推進",
       "category": "TECHNOLOGY",
       "time": "2026-08-16T17:00:21Z",
       "summary": "ＰＩＣＫＵＰ：スパコン理究 運用スタート AIによる研究推進&nbsp;&nbsp;毎日新聞",
       "source_name": "毎日新聞",
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOTVY2c3BDei1VaVFYT3l0dk85VzNkTGh5T0pLaEl1eTRBLTlQaTVxeUNMbk5VZ3pROXF0aVNTSjEtZmNnZ1A2eFpSR1ViV1BHbFJOMDVRdG1sOGVqblhzUjFBclNBNzRz?oc=5"
-    },
-    {
-      "id": "news-technology-84de939fa0",
-      "lat": 32.78683,
-      "lng": 130.77083,
-      "title": "鹿島新社長、AI時代も｢最後は人｣ TSMC熊本工場に技能者7500人超",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-16T17:00:00Z",
-      "summary": "鹿島新社長、AI時代も｢最後は人｣ TSMC熊本工場に技能者7500人超&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZXVJSlpwT3RzeUxwaThxY004OTh3UVI2UlcycU1ZRXFJMVRYVzVRTFBlbmdrUC1vWnVyc3JTMGkzT0lZV2xqcWxObnpjZFVkanFsY3JVbGxpX2NlTklpRUJvMzd4R3JWSmFBSQ?oc=5"
-    },
-    {
-      "id": "news-technology-2955850388",
-      "lat": 34.30263,
-      "lng": 70.99722,
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-16T16:53:51Z",
-      "summary": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’&nbsp;&nbsp;TechCrunch",
-      "source_name": "TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5"
-    },
-    {
-      "id": "news-technology-7102fd5fb4",
-      "lat": 34.30052,
-      "lng": 71.03512,
-      "title": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-16T16:30:48Z",
-      "summary": "Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer&nbsp;&nbsp;Business Insider",
-      "source_name": "Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGdIdzNVMzJUdUpkLVFwVXZGSkZPRzBlM1lRaHNSdFNYS0YyVUZGYXhVbUZ4bmFVNFZCYkVha0J5NWU4akswT1ZWZTVlUDVrYzBvS0FJQld4dXp0Y256X3VJa2w3RTktZVJrS2VrY1FNZ0NhOXJfaTgtaWxhcHpnbzhWRzhXMEJ2YlhvOWx4dlFkN2hKUGpTUmF2cw?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-16T17:40:24Z"
+  "updated_at": "2026-08-16T18:00:21Z"
 }
