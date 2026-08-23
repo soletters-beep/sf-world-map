@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-837e3363f7",
+      "lat": 38.9099,
+      "lng": -77.08142,
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "category": "POLITICS",
+      "time": "2026-08-23T17:54:34Z",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-361f1c6be2",
-      "lat": 46.59893,
-      "lng": 1.86203,
+      "lat": 46.55181,
+      "lng": 1.90583,
       "title": "France links sharp rise in drownings to heatwaves",
       "category": "POLITICS",
       "time": "2026-08-23T17:39:33Z",
@@ -12,31 +23,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-837e3363f7",
-      "lat": 38.95817,
-      "lng": -77.06202,
-      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
-      "category": "POLITICS",
-      "time": "2026-08-23T17:31:29Z",
-      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-d01d32b897",
-      "lat": 38.91226,
-      "lng": -77.05969,
-      "title": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister",
-      "category": "POLITICS",
-      "time": "2026-08-23T17:27:18Z",
-      "summary": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbDAzWWpqUlZNdUIxZjJ4LVZhbEZ6NlMxZHI0OUdHcWM0ZWlaenoyLU4yTmY0YmpkRHJrbWU2WjNzUmYtRkZiZGNJWS02c280M3lWUWV4UThFcDFwdEI0NHQwTEpCWVktczc0WkZtMWFWMnJ5UHJjSEJ3d0djemlKUnhCZmdTZWRzenV3TWZIenZrdmRNeXlWUkFXNGp2UjZkYkJOZ1VGZFA0TnhoNklpT3ZpeWpSRWgySEpLanpyZ09JZ0pybUUyOVRVZGtOUmhZM3haSk5VY0FzNXRnTTJpRGRkR2E?oc=5"
-    },
-    {
       "id": "news-politics-30d3f6f3a7",
-      "lat": 38.95126,
-      "lng": -77.00769,
+      "lat": 38.96458,
+      "lng": -77.05215,
       "title": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
       "category": "POLITICS",
       "time": "2026-08-23T17:19:24Z",
@@ -46,8 +35,8 @@
     },
     {
       "id": "news-politics-f953450b77",
-      "lat": 50.00551,
-      "lng": -97.2133,
+      "lat": 49.98108,
+      "lng": -97.11033,
       "title": "Kushner, Jeffries discuss ways White House and Democrats can collaborate",
       "category": "POLITICS",
       "time": "2026-08-23T17:09:28Z",
@@ -57,8 +46,8 @@
     },
     {
       "id": "news-politics-f52b0013ce",
-      "lat": 39.7178,
-      "lng": -76.55003,
+      "lat": 39.70055,
+      "lng": -76.64708,
       "title": "How Trump’s Republican Takeover Changed The Shape Of Politics",
       "category": "POLITICS",
       "time": "2026-08-23T17:06:28Z",
@@ -67,9 +56,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNck5PaDJtN2dBMVRuVHQzRUJyTnlHZXVZazNzSVJQODZJMWlkT1QyOUIxaWNSWUZ2Y20xUkU2dkh2T3JJWW9rVlM2TDV5bFpTa0lLQm80d0xEbzh0ai1tUC1oc1ZFcmtHQzhiZk5hQm02OFkxdWlTR21XSm42NGZUSHhIeTI3T05QaUVSX1ZNUlo2Y0N2QWFvV3dneE5LaUk2cXpmcTFOMGhXVXA2a3dtMUhn?oc=5"
     },
     {
+      "id": "news-politics-24c3a70c4e",
+      "lat": 30.81016,
+      "lng": 34.91324,
+      "title": "Israeli politicians focus on foreign threats, ignoring spiralling debt",
+      "category": "POLITICS",
+      "time": "2026-08-23T17:03:53Z",
+      "summary": "Israeli politicians focus on foreign threats, ignoring spiralling debt&nbsp;&nbsp;Al Jazeera",
+      "source_name": "Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUF3bHFGcGh4ZTBJaUpPaEZ5b2hIYXJreFF5ZTZZQ0s5U2tva3piTXh1SlFuWHdfcHdrWmhNU0NEeWxKclI1Vl9SV0lxVXRaSlRscFdlX1pOOU96amdWMFVkSXZPZTBDMlJVcmQ1bWdTdy1QQzVhRmhqc21zc2xMU3E5WnMyaXQtQXNEOURJN1NJbVp4QlJlUm1iX2dJZDFsQzNXQ3FUbWVpX2M1QTJZ0gG0AUFVX3lxTE9pYzlfaTJheThJRy1kdGVQV2ZQUVpXbGdiMmptTFBjNFBkVDE5T2xNZEs5UWN5RkJsNTZNMDRYemhLeTJTNUJhR2l4b3kxWGc4U3ZmcC1OSVZjWWdqV3REMnNwdFlLbnNqQU4xTjRMZDdtalZQZUpaUEdDOEpxUFdzUzN2eU54cmpXZXBSLTlzU3l6N1V5djF1RUFvcHh6S0dPUERkY3JsWkFjcTE2TjNHZGRtZQ?oc=5"
+    },
+    {
       "id": "news-finance-817c611b6c",
-      "lat": 38.93251,
-      "lng": -77.09277,
+      "lat": 38.86696,
+      "lng": -77.01256,
       "title": "Treasury's recent moves in the bond and currency markets add up to 'soft-form financial repression'",
       "category": "FINANCE",
       "time": "2026-08-23T17:22:00Z",
@@ -78,9 +78,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1g2Rk5FZkYtSTZueVRmMmpFTlJ4RXZtdGJnMUlEa0dFLUFKU1R4TFZWakgzQmd0S2ZseC1MdkxFUWVvZ2JRdERCQWJTUnBrT0EtVlV1NnM5aVg5WkZaQjNFelI3NE1VdGFNdE1QSktvUUh5aDJwVGxnUHVYOWVZdWROV1FUTV9VRTVEczFwQ2xwRkUxa1RsQzI5aVUwaWpPTmVWa3NUN1RRRjJxQWljZmhJRjRIT0k?oc=5"
     },
     {
+      "id": "news-finance-e7751a01c0",
+      "lat": 43.62612,
+      "lng": -1.32332,
+      "title": "Burry Says He Sold Alibaba, Calling It Pricey Before Share Sale",
+      "category": "FINANCE",
+      "time": "2026-08-23T16:49:15Z",
+      "summary": "Burry Says He Sold Alibaba, Calling It Pricey Before Share Sale&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOODRPaGZKSjJXamw5WWp0SGwzUFo4UGNnMi1QaXpvRDR0clZWNFFVVmVxV3NNSnphZ0l3cENiX0NiWU90SWQxNDdtOXhJdzgxMjA0T3lBd29ZUDhIY3dxaTZiWUFVOFU2bUtOeG5DUmw0OFdrU3ZENVN2RGhsWVRWZVdjZVpwOFNtUXU1dDdwQVktdjdlMG5XVjJsZmU?oc=5"
+    },
+    {
       "id": "news-finance-832e0513cf",
-      "lat": 18.79757,
-      "lng": -72.40035,
+      "lat": 18.75275,
+      "lng": -72.40561,
       "title": "N.Y. finance firms expand to West Palm Beach",
       "category": "FINANCE",
       "time": "2026-08-23T16:20:00Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-c97a8d3468",
-      "lat": 26.67706,
-      "lng": -80.07427,
+      "lat": 26.71675,
+      "lng": -80.03328,
       "title": "The $1.7 Trillion Job Apocalypse: Why Investors Can’t Ignore Humanoid Robots",
       "category": "FINANCE",
       "time": "2026-08-23T16:17:42Z",
@@ -100,9 +111,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb2hhOFZ1bFYwcDBJYUExcTlfQ2R6SldKZ1JILXpITnVrRDV5VmlhcV8weTVNd1RQck9QNEl2XzgyaVZJcTBGVURScnIzU1lWWmVXR3VDLWYyUTdXSlQ5dE9LMW5KV2NEQmg5NTM1T2ZCQUNMUk9YMXg0aGlmSTU3UHFrdDlCblp6aUNHd3NQRHpIekptQWc?oc=5"
     },
     {
+      "id": "news-finance-59eb655ab6",
+      "lat": 43.69012,
+      "lng": -93.31725,
+      "title": "Dropbox's CTO Is Selling on a Plan He Set 15 Months Ago. Here's What to Know",
+      "category": "FINANCE",
+      "time": "2026-08-23T16:17:21Z",
+      "summary": "Dropbox's CTO Is Selling on a Plan He Set 15 Months Ago. Here's What to Know&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1pOMWo1ZGhsa0FEbk45bWUtSlJCbTdXOW44ci05dFNCU2dmQndOSm40ZzhuRzZXeXdWdzFIOFBLQkRLQm5hVVVRZkZTRVdFeFQ3VzNicXBodTcxaWNfcWlZSnBESXZhQnBYWWNCbHlLTlpqLTRvcVkyUTlLeV9YZ1RNazRyanFqU2VjaV9ZN0pBWkFscEdrcElB?oc=5"
+    },
+    {
       "id": "news-finance-408dd437ab",
-      "lat": 50.32027,
-      "lng": 3.54553,
+      "lat": 50.33727,
+      "lng": 3.4525,
       "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
       "category": "FINANCE",
       "time": "2026-08-23T16:01:00Z",
@@ -111,31 +133,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkxpWW4zR0FzYXZWZTJCcGprWkZSSnNtblRIbV9CRFluYjhXZEtEaVUtanE1YVBCUTR1a1loUzU4Q0Z5M251M190bjhwV3pENHBpOVJneFhBczlEaEloVy1kSE43LWM1cGxObDU3VE5ZaGtjV1Q4cjBFZktkWVpncDEyZmt4cDItRUxwVzJETWxCSzIySHhXTnJpa1l2MXdGaXdRYVNfTFZkMWdsMEZ0OG9fci1DMmJvTUhLM0tB?oc=5"
     },
     {
-      "id": "news-finance-bf7ebe87c0",
-      "lat": 32.44962,
-      "lng": -85.66691,
-      "title": "Humaans Expands Into US Payroll As It Accelerates US Growth",
-      "category": "FINANCE",
-      "time": "2026-08-23T15:42:29Z",
-      "summary": "Humaans Expands Into US Payroll As It Accelerates US Growth&nbsp;&nbsp;markets.businessinsider.com",
-      "source_name": "markets.businessinsider.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPXzRrRjk2WUoyYVJTUmU3YTBrNjI3djR4d1ZjSjFSSEpWRnA3SGVTbTV6eDRycVdoNTN3YnlKeF9QTDdHcTBzMXRvRGdhY0pyS0k1ZlJPdldQRy0xMkNjZ3BKeE43WFZ0eFFDb1hXTFlEdFVaMWZzTWhRR2twaDQxa19aWEJTdVVNbllQV3U1RFI2UjVvV0VDN2NYdXJUVTRzTGxaYV9BYm5fRUlDTGQzbURZejBEOWJKb1E?oc=5"
-    },
-    {
-      "id": "news-finance-ad372482c3",
-      "lat": 35.6318,
-      "lng": 139.75586,
-      "title": "These Dubious Investments Prey on Your Worst Instincts",
-      "category": "FINANCE",
-      "time": "2026-08-23T15:07:17Z",
-      "summary": "These Dubious Investments Prey on Your Worst Instincts&nbsp;&nbsp;Morningstar",
-      "source_name": "Morningstar",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPblIwdUNIeWxHZXB1YzVnLS1yWUI0VGR0SWJnUUhMWF9LU2NzVW1WRE1BR2pJdERoNUJFNl9VdTJxdTZBbXdlSFEwa3FKamdyN3RaTTI5bWs1X3A1aThZaklNM3dfT2NVNERudGZqc1dTM2hTVm1zVmlta2dGS0NtQV9BUzhRTUNld3UxQ21EcGRWWnRK?oc=5"
-    },
-    {
       "id": "news-disaster-361f1c6be2",
-      "lat": 46.57297,
-      "lng": 1.8439,
+      "lat": 46.58052,
+      "lng": 1.92991,
       "title": "France links sharp rise in drownings to heatwaves",
       "category": "DISASTER",
       "time": "2026-08-23T17:39:33Z",
@@ -144,20 +144,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-disaster-2a918d0872",
-      "lat": 47.02283,
-      "lng": 9.16635,
+      "id": "news-disaster-1600b08deb",
+      "lat": 47.10689,
+      "lng": 9.12181,
       "title": "After the flood: Recovery underway after White River surges into homes, destroys bridge",
       "category": "DISASTER",
       "time": "2026-08-23T17:37:39Z",
       "summary": "After the flood: Recovery underway after White River surges into homes, destroys bridge&nbsp;&nbsp;Current Publishing",
       "source_name": "Current Publishing",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPei1pZDl0eExfVHcxOTJuOXFrTEpKMi1WX0pZNFlTMEVWMjdHaGZfLVlSVU1zQy1YbWNoVGpuUERGVWV3QU03VmVGTERCOXkzWVVjcEd6QWlERklGdDBzaTZwX2dDalVyQ0FOWGdFMHZjbm9iUWI3M1ZIU092MElZTkY2SEloZUJMb2tHejRwUUxSaTlWYXdmeklYb0REWUxMWTVHOGRwSi1pS2hqYVdTWXIyVGZoZUxuazRGbWZ5Q3A?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDJZdVg1dEkwVExwWEhfUnZQV2tqNU5DUGRfV3llVktjb1VmSUZwUzlBaWtPT0tSWUQ3Z2Npc1JTQ2FfM1lwbkprUl9pWXpubTdFTnRNOE5vV0ZMT2xzdDdWQmZHUGtqSHVvLXNvSUw5QlJtWE96YlZZSkI4TTNnWDJFOFpUSExWWlhDYVdOUlNialFNYTZyNVdORjdoMFhtZ2dFWm1mYk1nQkJtTk9WYWlaV3BNeFQ3a0pUMmNZYnlxWUpVRlE?oc=5"
     },
     {
       "id": "news-disaster-e5bf96a9ae",
-      "lat": 39.97424,
-      "lng": -86.08585,
+      "lat": 39.94677,
+      "lng": -86.11706,
       "title": "Magnitude 2.0 earthquake recorded near Weaverville Sunday",
       "category": "DISASTER",
       "time": "2026-08-23T17:18:37Z",
@@ -167,8 +167,8 @@
     },
     {
       "id": "news-disaster-ceb42c9aee",
-      "lat": 23.66668,
-      "lng": 90.02994,
+      "lat": 23.67427,
+      "lng": 90.05433,
       "title": "Update: Aug. 23 - 2.3 magnitude earthquake detected near Coso Junction, CA",
       "category": "DISASTER",
       "time": "2026-08-23T17:17:07Z",
@@ -177,9 +177,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xVDRJZm44VzNWLU5jc3YwWFk5Vi1YbHJ1SG91R0dPaEtiRWxnSElBWnk4OTVrcUdrbi1CcE1fM2FuR0N5aWtQdTI5SjB2YUhoMWVoaTRNSEdFTGw4V2poeEVzYkYtOGVWdzJ1ZGh5WE9JT1hhcDdOM2ZCNzM?oc=5"
     },
     {
+      "id": "news-disaster-263fba22d1",
+      "lat": 23.72003,
+      "lng": 90.00989,
+      "title": "Update: Earthquake measuring 3.5 rattles area close to Coso Junction, CA on Aug. 23",
+      "category": "DISASTER",
+      "time": "2026-08-23T16:58:09Z",
+      "summary": "Update: Earthquake measuring 3.5 rattles area close to Coso Junction, CA on Aug. 23&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5T3hyamh2aXZvNFV3VUNfdG5rRnJwREM3SW1TQ1hRaWNxQzh4RE9UcWRwcExicG9MWnc1Z1ZDRWpWNUNQaUVybVhoQTVSZW1XUWdDWkdpM2hHUHJWcEtoV0hTQ0hiNXFyS2ZQaC04UE1wR2lGOXE2SDZRUWo?oc=5"
+    },
+    {
       "id": "news-disaster-5eaa6c8d3f",
-      "lat": 46.02934,
-      "lng": -94.91444,
+      "lat": 46.0773,
+      "lng": -94.90564,
       "title": "Sen Todd Young praises rapid disaster relief response for Indiana storms",
       "category": "DISASTER",
       "time": "2026-08-23T16:53:33Z",
@@ -188,20 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTMFdWNDFta3hFejlvdmdUTlFEa0FaUkZvb0J3MkJpUUJvQ3JXamYxWXVaU0xPVE9BU3lNZ0xJbE1oc0Z6TF9XdVVyUzhwYjFvSlk5S29R?oc=5"
     },
     {
-      "id": "news-disaster-bfe63459b6",
-      "lat": -20.11043,
-      "lng": -44.54063,
-      "title": "Tropical Storm Moke Expected to Pass South of Hawaiʻi Island; Flood Watch Remains in Effect - KWXX",
-      "category": "DISASTER",
-      "time": "2026-08-23T16:39:09Z",
-      "summary": "Tropical Storm Moke Expected to Pass South of Hawaiʻi Island; Flood Watch Remains in Effect&nbsp;&nbsp;KWXX - Hawaii",
-      "source_name": "Hawaii",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNkYtM25RV2lZazRmVm5uOHNwcXFqTXFIVV82Wm9UMm9ueHM2NHdxRU1CLTcwVlF2SmpoZTVXanA4NjdqNTVETjNvQXJJUW1uTHpsYVp0RVphZlBablhIdE1fcmJsVXFsTkozT1Zvd2NQUkVoN1Y4alJObjJvU0l3YkhjTHZqUmcxY1hlUW02dVBXVmZiZGZINjRiUTIwYWJpRUpGTEtuOHoxSGlPQWNaWWhJTFhiVnJ2M1VURXltMmVNQUhORlQ0?oc=5"
-    },
-    {
       "id": "news-accident-8b8a2858d8",
-      "lat": 1.79742,
-      "lng": 102.99017,
+      "lat": 1.83841,
+      "lng": 102.91248,
       "title": "東武4人死亡事故 作業時間に電車3本通過 – Quebee キュエビー",
       "category": "ACCIDENT",
       "time": "2026-08-23T16:53:00Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-4645e725da",
-      "lat": 49.45191,
-      "lng": 1.05692,
+      "lat": 49.40179,
+      "lng": 1.04639,
       "title": "Teenagers and young men killed in wrong-way crash near Middlesbrough named by police",
       "category": "ACCIDENT",
       "time": "2026-08-23T15:52:22Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-ed2e4023ac",
-      "lat": 38.84112,
-      "lng": -80.61018,
+      "lat": 38.85694,
+      "lng": -80.60197,
       "title": "Dutch F1 grand prix red flagged after huge Max Verstappen crash",
       "category": "ACCIDENT",
       "time": "2026-08-23T15:49:20Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-a1c7806321",
-      "lat": 51.26604,
-      "lng": 5.00444,
+      "lat": 51.22481,
+      "lng": 4.98241,
       "title": "Verstappen reacts to dramatic Dutch GP crash as he sums up ‘disappointing’ home weekend",
       "category": "ACCIDENT",
       "time": "2026-08-23T15:38:00Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-dd805992d7",
-      "lat": 8.81639,
-      "lng": 13.83632,
+      "lat": 8.72873,
+      "lng": 13.77521,
       "title": "Two killed in early morning single-vehicle crash in Far North Dallas - FOX 4 News Dallas-Fort Worth",
       "category": "ACCIDENT",
       "time": "2026-08-23T15:31:07Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-e74917753e",
-      "lat": 45.83219,
-      "lng": 4.81515,
+      "lat": 45.81817,
+      "lng": 4.90939,
       "title": "Truck towing ATV involved in fatal collision affecting both sides of 215 Freeway",
       "category": "ACCIDENT",
       "time": "2026-08-23T15:20:40Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-b22543dc69",
-      "lat": 34.3678,
-      "lng": 132.36161,
+      "lat": 34.3786,
+      "lng": 132.37979,
       "title": "中国はAIに基づき、感染症流行に対応するための世界初のカスタマイズされた植物由来免疫システムを開発した。",
       "category": "DISEASE",
       "time": "2026-08-23T17:07:18Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-4846ad99d1",
-      "lat": 46.04691,
-      "lng": -94.63623,
+      "lat": 45.94269,
+      "lng": -94.62177,
       "title": "The ‘nightmare days’ of Minnesota’s 1946 polio epidemic",
       "category": "DISEASE",
       "time": "2026-08-23T14:33:46Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-fd21c95331",
-      "lat": 33.92609,
-      "lng": -117.55996,
+      "lat": 33.817,
+      "lng": -117.60413,
       "title": "子どもの発熱、どんなときに受診する？ 「いつもと違う」直感が感染症・コロナから我が子を守る【医師解説】",
       "category": "DISEASE",
       "time": "2026-08-23T14:03:45Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-7152903f83",
-      "lat": 37.31298,
-      "lng": -89.68671,
+      "lat": 37.34567,
+      "lng": -89.68969,
       "title": "1日8個は食べすぎ！エアコンや汗冷えが招く「夏風邪」の盲点と、通勤中にお腹が痛くなる\"あの病気\"の正体",
       "category": "DISEASE",
       "time": "2026-08-23T12:42:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-a7694839bb",
-      "lat": 35.1937,
-      "lng": -79.1903,
+      "lat": 35.14134,
+      "lng": -79.12335,
       "title": "[フォト] タカダ・ミソ、ニコニコ～『病気で止めた』",
       "category": "DISEASE",
       "time": "2026-08-23T12:41:51Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-ac33badcbb",
-      "lat": 35.70625,
-      "lng": 139.74641,
+      "lat": 35.68202,
+      "lng": 139.71307,
       "title": "「自分の気持ちは言えない…」病気の兄弟を持つ「きょうだい児」の心のSOSを救う新たな支援『ヒーロー集まれ！スマイルきょうだいフェスティバル』が東京都立小児総合医療センターにて開催",
       "category": "DISEASE",
       "time": "2026-08-23T12:01:43Z",
@@ -331,20 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tMmFjcEZtVUZqTHZ2aTZtRFBmSGRDTk9tQUUwcmYydnhHdW9DenhVVGdrZXBlcThIUEQ2VzFmM0JIdw?oc=5"
     },
     {
-      "id": "news-technology-64499621f3",
-      "lat": 22.43451,
-      "lng": 114.15334,
+      "id": "news-technology-605defd605",
+      "lat": 22.46369,
+      "lng": 114.21931,
       "title": "University of Kentucky supports AI literacy focus as classes begin",
       "category": "TECHNOLOGY",
       "time": "2026-08-23T17:32:00Z",
       "summary": "University of Kentucky supports AI literacy focus as classes begin&nbsp;&nbsp;Spectrum News",
       "source_name": "Spectrum News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdjFhUUVTX2F4Ty15T2JjendsSTJZOE9ycXI1UG9hQzFwSHMwX2FhbERNSnR6dHctcllUSTZVbk0tMVhYc0JSX0MyVUFDOTIzQ2NkMnVwYmJFeVdrcDJNT3Z2cTMzRVd5RzkyLTF5UmN5VGlXYmtrRlJnUFBVRXM5ZDA4ZTY5QlFuc3c?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeEMxSUI5ZWUyaWJXUHljTEUtWjJ0cDFqYnd0UnRyalE5X1dOaGtjalJHNGk5VlAyVEpJRkYySVVYaDBNYUdid0tNSWYxMHFta29vNTQ2TWJVbWFjZVhweF9tZW1lZTU2alVaTDVjcFBPY0RuNGg0a29FSUxWMmJxTHA0UnlYQQ?oc=5"
     },
     {
       "id": "news-technology-1697528486",
-      "lat": 48.0884,
-      "lng": 11.73436,
+      "lat": 48.11803,
+      "lng": 11.7162,
       "title": "Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock",
       "category": "TECHNOLOGY",
       "time": "2026-08-23T17:27:55Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-121496cd01",
-      "lat": 50.09595,
-      "lng": -107.5801,
+      "lat": 50.08107,
+      "lng": -107.57058,
       "title": "Are kids “guinea pigs for chatbots”? McMahon backs classroom AI use",
       "category": "TECHNOLOGY",
       "time": "2026-08-23T17:00:29Z",
@@ -365,8 +365,8 @@
     },
     {
       "id": "news-technology-59b430a7bb",
-      "lat": 10.86342,
-      "lng": 75.91434,
+      "lat": 10.78619,
+      "lng": 75.95164,
       "title": "10 AI Updates That Put Teenagers In Charge Of Their Own Learning",
       "category": "TECHNOLOGY",
       "time": "2026-08-23T17:00:13Z",
@@ -376,8 +376,8 @@
     },
     {
       "id": "news-technology-f6b7cf7479",
-      "lat": 26.89223,
-      "lng": -82.19091,
+      "lat": 26.88372,
+      "lng": -82.20807,
       "title": "アテニア、AI美容部員が対話で接客 肌悩み相談や商品提案",
       "category": "TECHNOLOGY",
       "time": "2026-08-23T17:00:00Z",
@@ -387,8 +387,8 @@
     },
     {
       "id": "news-technology-8052d466b8",
-      "lat": 31.28833,
-      "lng": -98.54595,
+      "lat": 31.21944,
+      "lng": -98.58356,
       "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
       "category": "TECHNOLOGY",
       "time": "2026-08-23T16:42:35Z",
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-23T17:43:31Z"
+  "updated_at": "2026-08-23T18:01:51Z"
 }
