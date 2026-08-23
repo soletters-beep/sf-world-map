@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-30d3f6f3a7",
+      "lat": 38.87997,
+      "lng": -77.02608,
+      "title": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
+      "category": "POLITICS",
+      "time": "2026-08-23T21:49:24Z",
+      "summary": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUVdSMXM4NllRVVJNbVJELTRibm4za1FoR3pxZTh3WGd5T1R6emNvejNwMVB5YW1tblRnWUxUeEFwRXRhVkkxSjhzbExpdlhkdDgxODBnRFdJVktjcTRZUFk3bFBHaDRRelVmYVRRUTh5RTBxbDg0OGw5NUp2SFVFMG94ODhGQzVkRUJJVkhGck9uaDh5M1hNQkpBSTk3MUYxV2dZZ2hDSkU1QzFqc09Ibnp1eFJqSjdnZ0I4OQ?oc=5"
+    },
+    {
+      "id": "news-politics-be6a74ea31",
+      "lat": 32.83382,
+      "lng": -96.76756,
+      "title": "Politics Now: August 22, 2026",
+      "category": "POLITICS",
+      "time": "2026-08-23T21:40:14Z",
+      "summary": "Politics Now: August 22, 2026&nbsp;&nbsp;KLAS 8 News Now",
+      "source_name": "KLAS 8 News Now",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBUzU0dlVyQW1XOFVQNDkwbU1Cei03eXFyRTdFeGdqZlE0NXliMHI3bjlqa2NucElPQTcwUXAxU1F1ZGlYTWFIOUJ6MGtmM04zc3dSeGRtOHhkbkQ1bHdmLVRfR1d2bEVwdnlpLWNuMEQ1cnJ5YXfSAXtBVV95cUxPRmNMWjljR2dJekFKRUl1U2paeEttbWQ3R3FCRUdORGtib2JMN0xlSGczeVZRTDh4ZndfNHEtam9FNHdkYVJmWlFMNGhNSHVhLW43RTZCM3lXd0FkSWZHN0ZRZ0tMc3ZCbDBKNXZLRDl5bmhkU2VocDJybUE?oc=5"
+    },
+    {
       "id": "news-politics-0c5d5b3ff7",
-      "lat": 38.75253,
-      "lng": -105.59269,
+      "lat": 38.68789,
+      "lng": -105.66058,
       "title": "Colorado measure redirects sales tax revenue from sporting goods, equipment to conservation programs",
       "category": "POLITICS",
       "time": "2026-08-23T21:34:38Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-cc28d239a5",
-      "lat": 32.81973,
-      "lng": -96.77621,
+      "lat": 32.82685,
+      "lng": -96.78459,
       "title": "The Politics Of Belonging: Understanding Anti-Immigration Violence In Northern Ireland",
       "category": "POLITICS",
       "time": "2026-08-23T21:28:52Z",
@@ -24,8 +46,8 @@
     },
     {
       "id": "news-politics-a0365ca82a",
-      "lat": 54.9701,
-      "lng": -7.88296,
+      "lat": 54.96038,
+      "lng": -7.86545,
       "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
       "category": "POLITICS",
       "time": "2026-08-23T21:27:04Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-cde0dc0dab",
-      "lat": 40.73929,
-      "lng": -73.95172,
+      "lat": 40.7413,
+      "lng": -74.00462,
       "title": "Trump’s Economic Approach Draws Concern From Some Republicans",
       "category": "POLITICS",
       "time": "2026-08-23T21:17:40Z",
@@ -45,31 +67,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYnlNWHBQanhtY1VKcTU5RlBmblA3RlZaU3lpREh4cjA5MnBZWkhHQUZJMk03MHJram9aN0VSTXcyVFZXeUFCbzJpZUl2djVaMlk0QjBQTWlJWmpCYUlsUURvZFZQTlNtaUNqSWJOTjVMSnNQd0lDQmo4R1dJZlJsQk5FZnJScmJoNEJELUxmRQ?oc=5"
     },
     {
-      "id": "news-politics-bac719c9cb",
-      "lat": 30.00614,
-      "lng": -97.85248,
-      "title": "Kyle Kirkwood wins IndyCar Freedom 250 Grand Prix",
-      "category": "POLITICS",
-      "time": "2026-08-23T20:45:40Z",
-      "summary": "Kyle Kirkwood wins IndyCar Freedom 250 Grand Prix&nbsp;&nbsp;CNN",
-      "source_name": "CNN",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbEh2cFVvakVhNVBkb3VhQ0FKbVVDQjhWOXc3ejB6S0ZUOXNBUWMyLUU2Uy1uejQ4T1NSTHJNNTcwWGwtVUFoVm9LRlZYNFdKRWpaT1IwaEZMd3luY0xiNGdHMkxpZEJNSk03NV9TRXBvek5kMjNkc0twa2xfdndKM3kwN3lhM1FOSGRSa1VrNWdiRHJuVkFIdmJlaXFzT3pGc1RDd0F1S0tIdW13T1ZrRlJTdUdJMDQ?oc=5"
+      "id": "news-finance-4d95df6a6a",
+      "lat": -19.67609,
+      "lng": -63.44551,
+      "title": "FX・為替相場の注目指標や予想を解説 - 8月24日(月)■『米国の長期金利の動向(米国債利回りの動向)』と『米国の金融政策への思惑』、そして『米ドル、日本円、ユーロの方向性』に注目！",
+      "category": "FINANCE",
+      "time": "2026-08-23T21:52:00Z",
+      "summary": "FX・為替相場の注目指標や予想を解説 - 8月24日(月)■『米国の長期金利の動向(米国債利回りの動向)』と『米国の金融政策への思惑』、そして『米ドル、日本円、ユーロの方向性』に注目！&nbsp;&nbsp;ザイFX！",
+      "source_name": "ザイFX！",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yVHVYaTVSakY1NVowWjFlejE1b056NjBtNnkxcDZmbFBEVlhsaF9rbmQ5aDJNdzg0UG02a3VfX1R3Z2dEZnhJNkEyUjc1dGRNcVE?oc=5"
     },
     {
-      "id": "news-politics-1b7f9d70b3",
-      "lat": 46.47038,
-      "lng": -121.51417,
-      "title": "Angry And Distracted: What Viral Politics Is Costing Democracy",
-      "category": "POLITICS",
-      "time": "2026-08-23T20:28:29Z",
-      "summary": "Angry And Distracted: What Viral Politics Is Costing Democracy&nbsp;&nbsp;The Organization for World Peace",
-      "source_name": "The Organization for World Peace",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVVBMalVzbUlkR2pZeHVyblNFT3k2TnhtTUlNZVExOUZGYllKN2JzcXB1Q21yb0RYcE84MWhTUmpGT0pKdHFQOU5VVXhOYTltQW1ZSXI1YVZwbEd5UG5FaUpnTFN0Wmp1TGhMVEN2Wk10ZG9kRTR2MWdBc2d5d1FZSUpySXp0XzdkelF3MjVyRW5teDA?oc=5"
+      "id": "news-finance-72b095482f",
+      "lat": 43.02606,
+      "lng": 141.34601,
+      "title": "本日のスケジュール｜FX・為替ニュース",
+      "category": "FINANCE",
+      "time": "2026-08-23T21:40:00Z",
+      "summary": "本日のスケジュール｜FX・為替ニュース&nbsp;&nbsp;ザイFX！",
+      "source_name": "ザイFX！",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFNGFDRnRoVFZqR2VjUU9scGFOMW9LV2hCVFJncG1VS1pPeGdVU0hBRXJfUUZXeVpoRm13NG9ORWduQ2lVQXEwN2JvUVFVZzBzZEE?oc=5"
+    },
+    {
+      "id": "news-finance-bbdbcd5cfa",
+      "lat": 43.04962,
+      "lng": 141.32084,
+      "title": "ドル円、軟調 158.56円まで下押し｜FX・為替ニュース",
+      "category": "FINANCE",
+      "time": "2026-08-23T21:38:00Z",
+      "summary": "ドル円、軟調 158.56円まで下押し｜FX・為替ニュース&nbsp;&nbsp;ザイFX！",
+      "source_name": "ザイFX！",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwdVZVY3lZaF9jdTNvalZhcmxqQ2J1dmZQOFJkNndiMllzU3lRSWxUQVk0c0pUZFBFNTltZkVMejh1cU5IZFhHa0tyTnZVYkw0TVE?oc=5"
     },
     {
       "id": "news-finance-5e630f2e07",
-      "lat": 32.37885,
-      "lng": -97.36145,
+      "lat": 32.43342,
+      "lng": -97.39454,
       "title": "Johnson County campaign finance reports no longer posted online",
       "category": "FINANCE",
       "time": "2026-08-23T21:08:54Z",
@@ -79,8 +112,8 @@
     },
     {
       "id": "news-finance-b235e61dc0",
-      "lat": 35.71466,
-      "lng": 139.54599,
+      "lat": 35.7148,
+      "lng": 139.53427,
       "title": "三菱重工、事業利益65％増でも株価一服…「防衛株ブーム終了」か？市場が気づいた「限界」",
       "category": "FINANCE",
       "time": "2026-08-23T20:11:43Z",
@@ -90,8 +123,8 @@
     },
     {
       "id": "news-finance-5c103b69f6",
-      "lat": -12.08657,
-      "lng": -77.03086,
+      "lat": -12.06574,
+      "lng": -77.05428,
       "title": "参天製薬の株価が3.6%安、2027年3月期1Qは当期利益2割増、売上収益は横ばい(LIMO)",
       "category": "FINANCE",
       "time": "2026-08-23T20:02:37Z",
@@ -100,42 +133,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXFwd3A5VXJld3AtRFZoc1E5NmhkUi14ajZBNTNMcy05NE1TMmpkZ2RCVGFuRGFDRDhuZ0l2TVhhcDZ1NG0zb3pJNGRpX05TazhTakFTa0pKeVNONnMtQmFLb3lOSF9TWHJ4MTY0Uk9wal9CVlZiZEdndGxyV0J5TkN3QnJRazg?oc=5"
     },
     {
-      "id": "news-finance-b7644ffa59",
-      "lat": 34.42074,
-      "lng": 135.69752,
-      "title": "シャープ、鴻海買収10年目に沈む株価最安値圏 負の遺産が成長投資能力奪う",
-      "category": "FINANCE",
-      "time": "2026-08-23T20:00:00Z",
-      "summary": "シャープ、鴻海買収10年目に沈む株価最安値圏 負の遺産が成長投資能力奪う&nbsp;&nbsp;日経ビジネス電子版",
-      "source_name": "日経ビジネス電子版",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xNWp6RE16MVlfMVpOMmlrSkt1RVJ6ZVpBTmdnM0RsTUZzREJmMFZyODBFYWxNa3B1bkw3RG1ObWZMdHM5d25OaVpZM3pGSEhlU08xX0VrM2hDS1VBb29GY3RIcWZVV28?oc=5"
-    },
-    {
-      "id": "news-finance-3437348e93",
-      "lat": 34.97426,
-      "lng": 136.56866,
-      "title": "キオクシア河村副社長、リスクマネー不足解消へ「金融庁は設計図示せ」",
-      "category": "FINANCE",
-      "time": "2026-08-23T20:00:00Z",
-      "summary": "キオクシア河村副社長、リスクマネー不足解消へ「金融庁は設計図示せ」&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qYWpUSVZ1MUFJUEFlWW9mMl9XM3A4WWkwQjUxYWFMNDVmNXRqRGlsNGkzN3VRVTU1SzBEdi1GQXFXbHpMbVRpak05dU9tdVYtSDQyMDlOMWZUcFcxNGR0cFNVNjJvdWp1dVZ0dA?oc=5"
-    },
-    {
-      "id": "news-finance-7ca91ce22b",
-      "lat": 13.01485,
-      "lng": 3.17182,
-      "title": "金融庁、海外ファンド向け与信の監視強化 「リスク波及」踏まえたストレステスト要請",
-      "category": "FINANCE",
-      "time": "2026-08-23T19:50:39Z",
-      "summary": "金融庁、海外ファンド向け与信の監視強化 「リスク波及」踏まえたストレステスト要請&nbsp;&nbsp;nikkinonline.com",
-      "source_name": "nikkinonline.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45dTJzajFTWndxdk5nLV82RkxFWUlGdVhkb09HNDNkTGpCVUJQTVphTU4tWTJkYTNYeHVGSUw2d0l3QURTMGZDeGZ2cGw2MkZUSURUbzl3?oc=5"
-    },
-    {
       "id": "news-disaster-966d964d83",
-      "lat": 46.11883,
-      "lng": -1.19046,
+      "lat": 46.18054,
+      "lng": -1.11898,
       "title": "Flash Flood Warning Issued for Apache County, Arizona Amid Heavy Rain",
       "category": "DISASTER",
       "time": "2026-08-23T21:34:00Z",
@@ -145,8 +145,8 @@
     },
     {
       "id": "news-disaster-696ac652e4",
-      "lat": -20.09397,
-      "lng": -44.56645,
+      "lat": -20.0576,
+      "lng": -44.56482,
       "title": "Tropical Storm Moke weakens but flood threat persists",
       "category": "DISASTER",
       "time": "2026-08-23T21:30:00Z",
@@ -155,9 +155,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZjlKbDJEOUZSWll0MzhGbndOMWdsUm9XS2ltbVVuUUFwN0g2T1J6RXc5ZVNzQ1V4QXFGS0V3WjRRUHoxd2VLb3ZCWThNWjNvSm92X2dzczRtcEhXMTEtallpMzFnWDRVSFhwcGF5a0dxc1dsRUlSNGVIbU5ta0UyYjdmMERIOGtiMGJEbnZ6RzZDMUxRWXVka2RuUTg3dmhoVzN3QWh3X19qZXZDcUdKdEpkaVZ0R1NZREhJTVRxQllLUWc1RXlHUGdRTm5IU3B4?oc=5"
     },
     {
+      "id": "news-disaster-f29f72dbb2",
+      "lat": 4.07734,
+      "lng": -72.89116,
+      "title": "Colombia Earthquake Concert",
+      "category": "DISASTER",
+      "time": "2026-08-23T21:29:50Z",
+      "summary": "Colombia Earthquake Concert&nbsp;&nbsp;timesdaily.com",
+      "source_name": "timesdaily.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGlTamVmNnlNQi00RjlDdVpHeHN1eF81QzFmbS1SVkVqNC1UQ0FCZkx1RURYMEpPdjROTk9xR0dZc1hXZEkxd1FDMXNiNFkya3dKa2F3TFBoXzFZY3ZSb3NSX21LdF9lVzdBTW1paDFWZlpNZzNiRHRRU2Y4Q2tnX2hvVzV1Nk8xOUtQWEdKamRYWE0xZXdVaF9EN1ExWTNKa25PTWExTWtPTWF3RUJ1REdBRUZhUk42bkxR?oc=5"
+    },
+    {
       "id": "news-disaster-3ac597323f",
-      "lat": 4.15848,
-      "lng": -72.93323,
+      "lat": 4.06773,
+      "lng": -72.86978,
       "title": "Colombia Earthquake Concert",
       "category": "DISASTER",
       "time": "2026-08-23T21:29:38Z",
@@ -166,9 +177,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHY1NFRwVWpZZ1NMZzlfdS1GOTBwZGlsZWZMSUU0SGI0SDNPME9zMDNXLWZkZ3RxWjk0ajUtZzJLZWxhcDZrYVBLel9DU0gtcmM0UHBxdWs4T1FOdE5LS3dBUEhpeGozS05Qa3pVRWZ3LUxhTl9sOWZXN3hweTZzM1FYT1ZQNWlUd2w1cC1EV2RteHVXRGlJekd4ZUl2cnY5bnlrUDZtZw?oc=5"
     },
     {
+      "id": "news-disaster-55ddc82d97",
+      "lat": 41.89782,
+      "lng": -88.12795,
+      "title": "DuPage clerk warns of ‘unprecedented disaster’ in fall election without more funding",
+      "category": "DISASTER",
+      "time": "2026-08-23T21:29:09Z",
+      "summary": "DuPage clerk warns of ‘unprecedented disaster’ in fall election without more funding&nbsp;&nbsp;Chicago Tribune",
+      "source_name": "Chicago Tribune",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWFZYzNXa2RpdFlEemJ2NV82S091YWU5MWN0SXp6bk5SbTdlV1A4RjY4M3NnanJfeXdBTnl6VlhGUjdBYVJTZWNyRThQTzVqaVVKZ1ZNTkZLa2g1NHB5d2o0dU5KVmMtVklYaGdZakJxcV9xNEdjMU5mYWMwSi0ybkp4X1dZTDZ2QTVVenphd3dlUEhOVFE?oc=5"
+    },
+    {
       "id": "news-disaster-5fb42cf819",
-      "lat": 54.60017,
-      "lng": -2.75625,
+      "lat": 54.60763,
+      "lng": -2.79144,
       "title": "NWS Issues Life‑Threatening Flash Flood Warning for Pueblo and Custer Counties",
       "category": "DISASTER",
       "time": "2026-08-23T21:28:03Z",
@@ -177,31 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xMGtNX2NZamRySkQ5bFlRZWpCSkxKdFZ0OEFmWFlPTWwzdmJqWWU5T1R4S0dteVlTRFlxZjhrTnd4d1hfbEFkaDRfb3pRWFB5VWsxM1pGVHpNV0ZLMEo3SEZn?oc=5"
     },
     {
-      "id": "news-disaster-8f7bdc2fb4",
-      "lat": 46.1268,
-      "lng": -1.17636,
-      "title": "Flash Flood Warning Issued for Garfield and Wayne Counties Amid Heavy Rain in Southern Utah",
-      "category": "DISASTER",
-      "time": "2026-08-23T21:19:00Z",
-      "summary": "Flash Flood Warning Issued for Garfield and Wayne Counties Amid Heavy Rain in Southern Utah&nbsp;&nbsp;Forth.News",
-      "source_name": "Forth.News",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kaVNEZjBscnRweGUzdU1BaWJqdlVPQXk0QXc2NDBDZEtlRFJfLUs2X3BsbklTRWxjaVlIODlRSG5iLUFMNXpqZzRqWVF0ZmZ2SnJ1WXN4TkRtRTFLNDUxSlVn?oc=5"
-    },
-    {
-      "id": "news-disaster-e4792b4009",
-      "lat": 50.72917,
-      "lng": -1.20127,
-      "title": "The Weeks | Aug. 23: Storm debris, disaster declarations, storm damage survey, Creative Future Roadshow, sports previews: football, volleyball, flag football",
-      "category": "DISASTER",
-      "time": "2026-08-23T21:12:20Z",
-      "summary": "The Weeks | Aug. 23: Storm debris, disaster declarations, storm damage survey, Creative Future Roadshow, sports previews: football, volleyball, flag football&nbsp;&nbsp;HF Chronicle",
-      "source_name": "HF Chronicle",
-      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPemRxb0hQSURyZUdkaEpRYzZ4NGZSallnbDVpdjhXMEZDYndSU1R6bVEycXpxMkYzMHg3TGx0bUtGdDBIWjVpT2ZhT3lYaU5ZbUpJM290bHRMTHVjSXdya1ppeFQtUmZ6UkhkV2NmRHRxVkw5X0VfRlRzQmJEZHAwb1k1MVU3NDdkX3QzbHYzQnVVRF9JMlRtMUFpZkhUdFFmVkJCQ09uS0FWcDBGMEhKcWZxUUQ0Vm9qcUpkNmxTTFBueHJTTmZncDhXT29MOVpwVVZoWTdIR3Y3bDgtOTFPR0ZTalVIbUxVM2gyUmEzdkt5bWVmdEVUSGxmZnBPS29PTUFBbTlUTW5YS1VFYV9JYTlPSzc?oc=5"
+      "id": "news-accident-dcf1a10cdf",
+      "lat": 32.73302,
+      "lng": 130.75377,
+      "title": "［スキャナー］イオンモール熊本爆発事故「再入館」マニュアル浸透せず…事故原因の調査続く",
+      "category": "ACCIDENT",
+      "time": "2026-08-23T21:56:08Z",
+      "summary": "［スキャナー］イオンモール熊本爆発事故「再入館」マニュアル浸透せず…事故原因の調査続く&nbsp;&nbsp;読売新聞",
+      "source_name": "読売新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZR29KRGNrZU05dzFtcXM1M1hTcjB0WUQ5cE1GMEliMVJETE9Uc2JvNEJGb0t0S25lcUhtUGRCRG8yampRWXQ1dkJWeHZENmJSQXZDbkFMdlJyOUM0YXA0YUtKbWNldw?oc=5"
     },
     {
       "id": "news-accident-7e526a92fe",
-      "lat": 42.33303,
-      "lng": -83.12001,
+      "lat": 42.40861,
+      "lng": -83.12454,
       "title": "How to Protect Your Legal Rights in Rideshare Accident Claims",
       "category": "ACCIDENT",
       "time": "2026-08-23T21:09:43Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-1de098dccf",
-      "lat": 40.04819,
-      "lng": -76.31148,
+      "lat": 40.01634,
+      "lng": -76.31357,
       "title": "Car crashes into home again at problematic intersection in Lancaster County",
       "category": "ACCIDENT",
       "time": "2026-08-23T20:58:15Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-79144fab91",
-      "lat": 59.15543,
-      "lng": 14.61032,
+      "lat": 59.10556,
+      "lng": 14.61905,
       "title": "Teen defensive driving program aims to cut crash rates",
       "category": "ACCIDENT",
       "time": "2026-08-23T20:45:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-d970de34a0",
-      "lat": 34.97952,
-      "lng": 135.74224,
+      "lat": 34.99801,
+      "lng": 135.71218,
       "title": "水上バイクのジェット噴流が直撃し死亡…水難事故ハイリスク、ウェットスーツ着用せず水着や半ズボン姿で",
       "category": "ACCIDENT",
       "time": "2026-08-23T20:00:00Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-7f895071cd",
-      "lat": 34.94269,
-      "lng": 135.72662,
+      "lat": 35.0012,
+      "lng": 135.77194,
       "title": "水上バイクのジェット噴流事故が相次ぎ、装備不足が被害を拡大 (2026年8月24日掲載)",
       "category": "ACCIDENT",
       "time": "2026-08-23T20:00:00Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wM1pFckM4UjFqZ2R5enhvZ3pEMlNSd2F3NDJUcjdQRmMtbnozU0JzRFVPX1UxaHcxeExTUXd3QXdLWFd3bW4wUUV3Q201QkdBRjlDbEJNMWhEbDE5cWc?oc=5"
     },
     {
-      "id": "news-accident-3312463f7d",
-      "lat": -12.15617,
-      "lng": -76.95917,
-      "title": "オートバイ死亡事故あわらで現場総点検 高低差や街灯指摘 | 社会 | 福井のニュース",
-      "category": "ACCIDENT",
-      "time": "2026-08-23T20:00:00Z",
-      "summary": "オートバイ死亡事故あわらで現場総点検 高低差や街灯指摘 | 社会 | 福井のニュース&nbsp;&nbsp;福井新聞社",
-      "source_name": "福井新聞社",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CTVVSVksxZktiQV9iSUJjWEdYbWZqWHE3dlBXQkxZNjdoVzMzVzFHellreTRxdXpZUXVUdHc3Z2dKRzVsX2RrQ2lHYVVnZUxLNmd4eEpSMXlrcl85bHc?oc=5"
-    },
-    {
       "id": "news-disease-b22543dc69",
-      "lat": 34.3474,
-      "lng": 132.39794,
+      "lat": 34.43496,
+      "lng": 132.39844,
       "title": "中国はAIに基づき、感染症流行に対応するための世界初のカスタマイズされた植物由来免疫システムを開発した。",
       "category": "DISEASE",
       "time": "2026-08-23T17:07:18Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-9d6a07b1e7",
-      "lat": -2.98022,
-      "lng": 23.83379,
+      "lat": -2.99749,
+      "lng": 23.76942,
       "title": "Congo to receive 70,000 Ebola vaccine doses as record outbreak worsens",
       "category": "DISEASE",
       "time": "2026-08-23T16:35:00Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-ac33badcbb",
-      "lat": 35.70382,
-      "lng": 139.78774,
+      "lat": 35.66063,
+      "lng": 139.76932,
       "title": "「自分の気持ちは言えない…」病気の兄弟を持つ「きょうだい児」の心のSOSを救う新たな支援『ヒーロー集まれ！スマイルきょうだいフェスティバル』が東京都立小児総合医療センターにて開催",
       "category": "DISEASE",
       "time": "2026-08-23T16:03:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-4846ad99d1",
-      "lat": 45.9505,
-      "lng": -94.5532,
+      "lat": 45.98903,
+      "lng": -94.59828,
       "title": "The ‘nightmare days’ of Minnesota’s 1946 polio epidemic",
       "category": "DISEASE",
       "time": "2026-08-23T14:33:46Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-fd21c95331",
-      "lat": 33.88922,
-      "lng": -117.53965,
+      "lat": 33.8735,
+      "lng": -117.61164,
       "title": "子どもの発熱、どんなときに受診する？ 「いつもと違う」直感が感染症・コロナから我が子を守る【医師解説】",
       "category": "DISEASE",
       "time": "2026-08-23T14:03:45Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-7152903f83",
-      "lat": 37.29139,
-      "lng": -89.67291,
+      "lat": 37.27654,
+      "lng": -89.66309,
       "title": "1日8個は食べすぎ！エアコンや汗冷えが招く「夏風邪」の盲点と、通勤中にお腹が痛くなる\"あの病気\"の正体",
       "category": "DISEASE",
       "time": "2026-08-23T12:42:00Z",
@@ -331,9 +331,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MdGdJQVI2SXJkT3FGSk1xeXJUTmtmRGRCblB5SXhEZ19NMDFmMXMzNVhqc2RjaXBNOTQtUzFXLVp5eTNVMmZkUThjcGphRW8?oc=5"
     },
     {
+      "id": "news-technology-c712944d3b",
+      "lat": 38.59042,
+      "lng": -90.41157,
+      "title": "Kirkwood bond would pay for needed equipment and technology upgrades for health care students",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-23T21:52:00Z",
+      "summary": "Kirkwood bond would pay for needed equipment and technology upgrades for health care students&nbsp;&nbsp;KCRG",
+      "source_name": "KCRG",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejYtcmdFcXc0aHlKMUxvRmdNNkhDNlJ1Wl9iclJWTzdvS29WWlFuSU10VGVoTFl0RFBZWlBiLVFXd2g1RmhfY0Y5V3c3NUwyVnp1YzREVXg0NGZzQ29keFFub2pvejJmZEtKZk9rVzhtdGdqRDRfVDJxMUkxVDA1R2ZLRjI1ODJWQVdaZnA5cThpQml4VnJ6T0xkdDVNX0htSkRBQktOUjBOWTZHQjRPWHctMVfSAcgBQVVfeXFMTTJWamw4OU10NGZ4NjRSZm1KaTd3X0JuNlVEOUxGcWFzd0h5ZV9EdnhqVUhLY0NGdXh2Y0ZzNzI4S1BibG1ZNTlKZklJWXVsR2FQRldmSllIbEJLYXpqcVVHWmNCZ0RES2JGSE5tNzRWUkJ2YWIxNHhkQ0dybWRuT3BPeld2VEwwMUtfRjB1SHktYy0xczlqbkh1RndtQlQyMzFQOFJYSjhMdkluQmFRdjR2U1lHNlIzNjJFdmZEcjVyVkhDR01NSnk?oc=5"
+    },
+    {
+      "id": "news-technology-491d95181c",
+      "lat": 43.94701,
+      "lng": -69.85074,
+      "title": "イーロン・マスクが断言「AIによって10年後には『お金』は不要になる」",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-23T21:50:06Z",
+      "summary": "イーロン・マスクが断言「AIによって10年後には『お金』は不要になる」&nbsp;&nbsp;クーリエ・ジャポン",
+      "source_name": "クーリエ・ジャポン",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nWUtXb3lXOFU3RHFiUzF0MXBKMm1FOHNGZEd4aVNsdE9NcUNheXdteGxZTWpuNzFBZXhycFdBeTNXRW5TV1dSTGZ6SEtxbEhtSTVn?oc=5"
+    },
+    {
+      "id": "news-technology-06bd5696ba",
+      "lat": 34.67691,
+      "lng": 135.48542,
+      "title": "Geminiで特別支援教材を作成、eboardが9月27日に大阪で無料講座（こどもとIT）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-23T21:45:38Z",
+      "summary": "Geminiで特別支援教材を作成、eboardが9月27日に大阪で無料講座（こどもとIT）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92Q1hjb3ZoamxpZHNVYWVQeEV3RTkwZUF6OUd2Wlo5RmU1bE1iUG5sYkN3MEl2VEpLdDd1V2JMRXM5dnF2S0RjQ0ZXenVpYzd2UmZnY0NTLTdDVVdYOU5vRWlyYkdpbk95bmtEWUJ6UGZFdEwxc1JGTm90aTZ2clU?oc=5"
+    },
+    {
+      "id": "news-technology-348ff14fdb",
+      "lat": 37.6795,
+      "lng": -121.96025,
+      "title": "Workday urges action in Congress on AI agents",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-23T21:42:50Z",
+      "summary": "Workday urges action in Congress on AI agents&nbsp;&nbsp;Punchbowl News",
+      "source_name": "Punchbowl News",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONjNpdS1EN3hhWkdRQ19nZGd3eU9JcVlaZ25hTHB3NUZ2dzdPdm5RZHpIdHQ4RXQ3cEIzTUhlVGc0d1UzNGp6TVdjeEpsM1BUR0l4T0FIUmF0ZVpmemZWbGJ3aUVZU0MzU1FienlpSWlrb3gycmw5Sy1acVlvT0tXQXJjY2NCdTVTMGc?oc=5"
+    },
+    {
       "id": "news-technology-278dc8867c",
-      "lat": 38.13462,
-      "lng": -81.85852,
+      "lat": 38.21796,
+      "lng": -81.85449,
       "title": "Sam Altman says he's worried about AI being controlled by a few powerful players",
       "category": "TECHNOLOGY",
       "time": "2026-08-23T21:38:55Z",
@@ -343,58 +387,14 @@
     },
     {
       "id": "news-technology-0530cfa49f",
-      "lat": 35.69142,
-      "lng": 139.77882,
+      "lat": 35.66663,
+      "lng": 139.77334,
       "title": "AIエージェント普及によって「SaaSの死」は本当に起こるのか？(東証マネ部！)",
       "category": "TECHNOLOGY",
       "time": "2026-08-23T21:31:55Z",
       "summary": "AIエージェント普及によって「SaaSの死」は本当に起こるのか？(東証マネ部！)&nbsp;&nbsp;Yahoo!ファイナンス",
       "source_name": "Yahoo!ファイナンス",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdFpSZzVPSUdxVzB0a05vcnpGRVlOdURMU21HTEdqTXZ5c25KdWJLV0pQY3RXUGdrSkhtbDB4QWdNQTA2NzVXZGNVZk9sN21yTnZSZjVWUUdCQlRIcWNkSERMaFphWnpJUldOek5keHgwMGxDMXE3UGJDdjdQMU5WTEJGYVhoNnM?oc=5"
-    },
-    {
-      "id": "news-technology-a07113cebb",
-      "lat": 52.75951,
-      "lng": -1.77996,
-      "title": "2028 Dems dodge on Bernie's push to pause AI development",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-23T21:31:31Z",
-      "summary": "2028 Dems dodge on Bernie's push to pause AI development&nbsp;&nbsp;Axios",
-      "source_name": "Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYWVU1MjJhZTR2YXNSSUpTR2pKVlJza25qOE9XYUdYcWtGNHN1eHJhMUpxMllFT1paeHdVTDBJT0dxUHFDZEJHX2FsSTljUEtuaXpZS3FJbm1PTnUtRnQtN04tSlZtb0hRTGZNQ0tnRFBzb2M?oc=5"
-    },
-    {
-      "id": "news-technology-6e4294f3e7",
-      "lat": 35.16983,
-      "lng": 137.05524,
-      "title": "AIと人間の戦争は始まったのか？ 最先端モデルが見せた“悪意なき攻撃”の正体",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-23T21:30:00Z",
-      "summary": "AIと人間の戦争は始まったのか？ 最先端モデルが見せた“悪意なき攻撃”の正体&nbsp;&nbsp;ビジネス+IT",
-      "source_name": "ビジネス+IT",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zODluaXhUVWdmcnBsWjIzNjRwYTMtRl9uYzBnenJZRzJGc2ExSEFRY2lnN2dVdWVBdFRWQ3RxN3J6Y2NSSTI3cWhvYWRjcmc?oc=5"
-    },
-    {
-      "id": "news-technology-7a338ebec2",
-      "lat": 36.31494,
-      "lng": 136.25159,
-      "title": "AI／生成AIに100万円以上の投資予定企業が約7割に到達、デル・テクノロジーズ「中堅中小企業IT投資動向調査2026」",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-23T21:30:00Z",
-      "summary": "AI／生成AIに100万円以上の投資予定企業が約7割に到達、デル・テクノロジーズ「中堅中小企業IT投資動向調査2026」&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yc2RRbHg0aXJFQlVyLTFYSXFNeVpOLWl4VVJmbGg5YWgxbDdTMDNYZnFLQS1MUWdhZ3dXRWVrazRKeGhhWk9jSnhCUmx1Skpsa1VNMHBHNFh0ZkFNRDFPTXZlODdha0FjTlNEbnRUWEs3ck5ObTFvR1NlNVBkeGc?oc=5"
-    },
-    {
-      "id": "news-technology-9167b77b9a",
-      "lat": 52.09228,
-      "lng": -3.9564,
-      "title": "freee横路CAIOと古舘氏が語る、AI活用の「順番」。約30人の伴走役を置く前に何をしたか",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-23T21:30:00Z",
-      "summary": "freee横路CAIOと古舘氏が語る、AI活用の「順番」。約30人の伴走役を置く前に何をしたか&nbsp;&nbsp;Business Insider Japan",
-      "source_name": "Business Insider Japan",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3BKQ2tmYk9VaE5wOGtlaDRmMWdZVm96b2dVT1I4OVpEZTFWOXZyVHZ3UFBiSDM1ZFNEX3B0X0poS2pwd0dkRUNBZzNWSi0tVEUzNmJzbVo1ZUxsQ3ptUTJONExsc1dxM1pBRlRRa1B1UVpTMDdrQnBpclQ4Zlp1ZWN3TQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-23T21:43:29Z"
+  "updated_at": "2026-08-23T22:01:44Z"
 }
