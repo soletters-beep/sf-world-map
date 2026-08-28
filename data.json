@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-62074d7122",
+      "lat": 37.37705,
+      "lng": -121.97509,
+      "title": "Retired political science professor discusses Michigan primary and the road to the November Election",
+      "category": "POLITICS",
+      "time": "2026-08-28T23:10:00Z",
+      "summary": "Retired political science professor discusses Michigan primary and the road to the November Election&nbsp;&nbsp;Upper Michigan's Source",
+      "source_name": "Upper Michigan's Source",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaEdyaTNCalhKVEZGRTQycG9senctRzd4QXZSQjVtOHNxVFJFVjlHXy1iTm1iR0tjdTdNTk1EaWpXSUtIVW9xYm1CVnVHdTJGcW9uQVZleGdiNjc0ZUlCNEVIYkdrRzZBb2d0SXRXZnNkMGtEbndncG80MWd4Vm1XTlNVYzhVSnBFODNwUTdtbDJUTW9iMWh1NzdFdXUzaTk1dlMzS1MyaGRlRlcyeVdvM21qY2czaDY5cWtwVHFFRHRrSGZBWVBKV3dTUi1ndUnSAeMBQVVfeXFMTzhMb3c1ZG9vUjhfZjZyTHB4a3lWWUttYVVxZlA2MDZTSU5XcDJOaHllTGdQQU1YTUsyX1p2bV84YzBEU0RUajhQRGNVa2R5TV9jc2hXY3JXMDk1djNUblVVMmx4MEFsZzRXWHloTExtaWtVWmxsSDRrSHBIRDE3Z3A3Mi0tNUtvWVdzbFpZb2JvcU9wNjVNejBxSHlTamtOSmFhSVdwY0MzOUZIUWVZdkgwOWNkVV9ER0tBODgwUExWVXlFRUNXUHBxWjUtcmYtZkJvSEZxakVsa2xPbGxZQ0dkUnc?oc=5"
+    },
+    {
+      "id": "news-politics-5ce4101cd9",
+      "lat": 38.92937,
+      "lng": -76.99319,
+      "title": "President Trump to attend Pentagon's 9/11 ceremony",
+      "category": "POLITICS",
+      "time": "2026-08-28T23:00:00Z",
+      "summary": "President Trump to attend Pentagon's 9/11 ceremony&nbsp;&nbsp;Spectrum News NY1",
+      "source_name": "Spectrum News NY1",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmtmRDM3Qmw2VTVlT0NuTFhTdjdaVE95YTMwb05oMjVhbS1qNFR5UkR1VVVnQTVMVHpNZHlwVUhmY0NtTHNHWWpSQTRnU0daMXlGa3dlbTBVRHdaVFdITXVtSDVSTFhmQjAyYWFTTnRrcU42a3JuUVpmS2JYUjZMNTJmYnFNamxzNG5lNEt1WTRyRjN1b0ZmYW9BMFFNYnMwMnc?oc=5"
+    },
+    {
       "id": "news-politics-52496352f1",
-      "lat": 50.06684,
-      "lng": -107.54225,
+      "lat": 50.0578,
+      "lng": -107.51091,
       "title": "McMahon reams Whitmer for not opting Michigan into tax credit program",
       "category": "POLITICS",
       "time": "2026-08-28T22:57:00Z",
@@ -12,9 +34,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTGZMb3M5NkZPNERWZ1NuTkhKWlliTzhfY081a3lPaWxZbHIyRjlRSmdiYlBkN3pfWHlKaHk1ZVJzVjhUbHZ3OVh4aU5KLTVCX0h0Z1dPcUVObGtnUlM2VG83MldiWGtGdlUyMm5TQWVBY1hPUHVleGRTVFgxOWFMQS1HbkJlQ2V1Z0NuN3F2RFRKcTQyY0diQUFLNTd0cFFNYnhCSlRUcC0xZy1tYWdKS00zcjlDdnVNdjh4THRPSzZUUVRKYW9IUU9DeS1fYzdYaUE1THBmWDFQdw?oc=5"
     },
     {
+      "id": "news-politics-1a532e0a0a",
+      "lat": 35.02754,
+      "lng": 138.42543,
+      "title": "【現論】移民受け入れ、現下の危機 必要性説く政治家現れず（長谷部恭男／早稲田大教授）",
+      "category": "POLITICS",
+      "time": "2026-08-28T22:47:00Z",
+      "summary": "【現論】移民受け入れ、現下の危機 必要性説く政治家現れず（長谷部恭男／早稲田大教授）&nbsp;&nbsp;静岡新聞DIGITAL",
+      "source_name": "静岡新聞DIGITAL",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KaUVGZmxUeVVLRDN0NmtTSm9nZm5EMFRfSlRqODNUc21IN3ZkWl9YUk5Qckp3ZDhHX3JDM3czcXFvLW9NUmxtU2NXdVlCdw?oc=5"
+    },
+    {
       "id": "news-politics-25ed4f6685",
-      "lat": 51.53341,
-      "lng": -0.06221,
+      "lat": 51.53129,
+      "lng": -0.12959,
       "title": "Political fight over measles leaves patients in the middle, doctors say",
       "category": "POLITICS",
       "time": "2026-08-28T22:47:00Z",
@@ -24,8 +57,8 @@
     },
     {
       "id": "news-politics-c5c15dbc82",
-      "lat": 48.98465,
-      "lng": 2.30003,
+      "lat": 48.89071,
+      "lng": 2.36171,
       "title": "沖縄県知事選 読者から候補者に質問 玉城デニー氏・古謝玄太氏が回答",
       "category": "POLITICS",
       "time": "2026-08-28T22:40:00Z",
@@ -34,42 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92M3BMcFZfcm9McUJKVUxzN3lEelNuWlNidEFiTXBFaDBoZ2loTWJfZzdaVkRna192TEVGZ25mRzhoZnJvdldRbnJFQXBFR3d4M0hMZTRnczFSc2JSWmc?oc=5"
     },
     {
-      "id": "news-politics-36edd9393e",
-      "lat": 32.93385,
-      "lng": -82.20742,
-      "title": "The debate over the debate, and Magruder steps down from green bank, in political notes",
-      "category": "POLITICS",
-      "time": "2026-08-28T22:39:42Z",
-      "summary": "The debate over the debate, and Magruder steps down from green bank, in political notes&nbsp;&nbsp;Maryland Matters",
-      "source_name": "Maryland Matters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUdGQUZYT21saWRTMzVHWllGRHEwMERHd0l2S2dNSU5QWFc5THg3TDRxZjhDNDR6LTJya0paeU5icmppOHFYaDg0N2Uxd2hJZDRmLVJDVERBYnE3bDJMWkl0djRkZTBTZUJ3NFllZWQxV1FIZlgyekJIbElJOThoZExxN3hULWdwOF9zcnBqSGNxSXBWMzhKTkI0VklzQTYwTExLQ3dtLXZ4eE5KcmFJQmJETU4tMlhaQjh1eGNqd09XVEk?oc=5"
-    },
-    {
-      "id": "news-politics-b5fa387d80",
-      "lat": 40.35407,
-      "lng": -3.76197,
-      "title": "Inside Texas Politics: What to know on Friday, Aug. 28",
-      "category": "POLITICS",
-      "time": "2026-08-28T22:37:00Z",
-      "summary": "Inside Texas Politics: What to know on Friday, Aug. 28&nbsp;&nbsp;WFAA",
-      "source_name": "WFAA",
-      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPODZlUktPNlFvYXEwd3B1RGhnSEgwVno3bzcwVlQxY0I0Uk9ZQy0yejNSTVFRMkJDZC1CZjlsMjVfRnYxbFl6WVlNcFd1SzR3blg5RG9KVE9kcFgyVWZuZ3ZwS1JDbS10TTlhZTFxTVpsazFGcXFPb25NOG94ZE9MTlFRcEVmdGdhUzVhc0dQdE5ibmFQVExkS2JnQXBLV0VGY003VmhPbjRoSVRPRUdYWDBFVUhveEVYTU5ONXE4WGpBSC1QeFNGUGk5Q0l6Ymc1SjFuVXlpRjlUYjlXX0tWMUx1cURjZHlmZnppcDBHenlDTmJyTktv?oc=5"
-    },
-    {
-      "id": "news-politics-6660172236",
-      "lat": 39.66753,
-      "lng": -76.56795,
-      "title": "Trump says he will observe the 25th anniversary of 9/11 at the Pentagon",
-      "category": "POLITICS",
-      "time": "2026-08-28T22:34:00Z",
-      "summary": "Trump says he will observe the 25th anniversary of 9/11 at the Pentagon&nbsp;&nbsp;Spectrum News",
-      "source_name": "Spectrum News",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHFnMGV5Vl82RU5uOHZTODl2U2tpZ0M5VUl5NHRxR0w1a3g5a000OVBJV0pTZjlrdXVHalhOVzY3OTNfNmFRRkF3RmlYc3NBb0xtVllHZUtnLWcxY3dqc0pmejRYOHZmMUpMMTMxbmd1dHJId1hWUUpuX3NqOWNpWTRoWVdRREQ2QVJEM3RKTDhaUGluU3lvRUlFaw?oc=5"
-    },
-    {
       "id": "news-finance-a7748c2b5f",
-      "lat": 39.73932,
-      "lng": -100.48463,
+      "lat": 39.75631,
+      "lng": -100.47962,
       "title": "States can regulate prediction markets as gambling, federal appeals court rules",
       "category": "FINANCE",
       "time": "2026-08-28T22:27:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-3bbee91650",
-      "lat": 51.39818,
-      "lng": -2.61111,
+      "lat": 51.47348,
+      "lng": -2.54169,
       "title": "Protests begin in Asheville ahead of G20 finance meetings",
       "category": "FINANCE",
       "time": "2026-08-28T22:17:10Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-7b07d85a79",
-      "lat": 27.43652,
-      "lng": 85.75559,
+      "lat": 27.44767,
+      "lng": 85.71947,
       "title": "Could Kratos Defense & Security Solutions (KTOS) Stock Outperform GE Aerospace (GE) as Next-Generation Defense Spending Accelerates?",
       "category": "FINANCE",
       "time": "2026-08-28T22:13:46Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-fcac9e6749",
-      "lat": 40.72915,
-      "lng": -73.99588,
+      "lat": 40.75783,
+      "lng": -73.95356,
       "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
       "category": "FINANCE",
       "time": "2026-08-28T22:11:48Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-be7914e1f7",
-      "lat": 51.70641,
-      "lng": 0.41049,
+      "lat": 51.66344,
+      "lng": 0.44727,
       "title": "Stock Market Today: Warsh Comments Boost Rate-Hike Bets; Yields Rise — Live Updates",
       "category": "FINANCE",
       "time": "2026-08-28T22:08:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-8802032701",
-      "lat": 51.03893,
-      "lng": -108.95215,
+      "lat": 51.01488,
+      "lng": -108.95844,
       "title": "ICC赤根所長への金融制裁の問題点とは 「支配力の濫用はアメリカの金融覇権に陰りをもたらす可能性」(マネー現代)",
       "category": "FINANCE",
       "time": "2026-08-28T22:07:38Z",
@@ -133,42 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMngzOTVXVEFqVU1UVVRIY1c3WmJlMmIxckhsdmtyRlptSTFRVTFHQTJIcTcwQ3BIc3M4aThENl9RVl9aNDlKZUJ1eFUzeV9RRnNWLXdxcURlN1c1LVh2aGdOWFF4eFVxbnNackw4eTdjWVB6ajhXanJJdjNaeHlOc0JpbE5MS00?oc=5"
     },
     {
-      "id": "news-disaster-333e5bcf50",
-      "lat": -17.83668,
-      "lng": -149.28454,
-      "title": "Bay Area tech worker among those missing after Nepal flood",
+      "id": "news-disaster-bff57aeed3",
+      "lat": 34.13373,
+      "lng": -118.363,
+      "title": "日本列島に豪雨をもたらす「逆走ノロノロ台風」は2026年はまだまだやって来る！（週プレNEWS）",
       "category": "DISASTER",
-      "time": "2026-08-28T22:54:13Z",
-      "summary": "Bay Area tech worker among those missing after Nepal flood&nbsp;&nbsp;SFGATE",
-      "source_name": "SFGATE",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHV2NWWENxY040c1lMSjJhekxNSk0tam90S0NGbFlhNlQ2Y2I3czRaV0VRWGlpR1lKVXlGb3phbTdlY001OHhsbVRWQVdNUUpJOGVJN3p1VUE2OFVpQTBvVXlzdGtBclhZNGZPZmMwUXRXam9xdWhaYVF3eEE?oc=5"
+      "time": "2026-08-28T23:06:28Z",
+      "summary": "日本列島に豪雨をもたらす「逆走ノロノロ台風」は2026年はまだまだやって来る！（週プレNEWS）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSWi1meWNrdTQxX0pvZUMyZVl3T2t5djVqSzJKNlpmcko3eVg4SXBIN01zR1MzaG1fcEt5b0lVaVAtRlpCWnhoaEdHTXlPamh2Ry1wY2J4NFhVLVJLc0tBZzlhek1iYmxYZGdwcm5HU20tRXgycTNBYjZLTnc5cWs?oc=5"
     },
     {
-      "id": "news-disaster-485c5bb41f",
-      "lat": 28.42117,
-      "lng": 84.01493,
-      "title": "Nepal flood relief: Philly's Nepalese community rallies after devastating floods",
+      "id": "news-disaster-b17ce582bb",
+      "lat": 4.74663,
+      "lng": -74.16961,
+      "title": "NH Colombian community collects supplies for earthquake victims",
       "category": "DISASTER",
-      "time": "2026-08-28T22:32:16Z",
-      "summary": "Nepal flood relief: Philly's Nepalese community rallies after devastating floods&nbsp;&nbsp;FOX 29 Philadelphia",
-      "source_name": "FOX 29 Philadelphia",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FUS1hWC14R0FhWi11UG4wUFBTQTJ2T1hHUDBMNGg3dklKOWZnMm1KVDZyT19SV2ZsWkVKMk9IWkRBdWF0U3RmTWUzRTJjSmJxNnlvcWYyc29nb3Fy0gFiQVVfeXFMTlBGMmJLYUtLVWtTV2dnZHAxWTdQSWxRYnVnVjhYUWEtRnAzeF9qekR2OWNCYy1CQ1ZMaDREdndULXBZRkpaTVpWVmJtbDhueS1QVktZMUFRM2MxU0tTWjk2QWc?oc=5"
+      "time": "2026-08-28T23:05:00Z",
+      "summary": "NH Colombian community collects supplies for earthquake victims&nbsp;&nbsp;New Hampshire Public Radio",
+      "source_name": "New Hampshire Public Radio",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWNBa2ljZ2JhUUVHRHltYnBDZ3lCODhvZkFTRzkwZVlHVG54bUUzaGxNSGhHRnB2blFhSDdvUW9MN0ZoSXZTUjlvTmtxUE9hZHlyZzVuQ0dGMTJ4LWpJSU10Q3Q1bVpyVDZuU0NkMkRuZi0wQkFSdE5MY1BxSVZlRGN2ZTc0dUhzanVRa0RwSk5zcTFrSm1VRHZ6MjhtRDNNSzBXazl3?oc=5"
     },
     {
-      "id": "news-disaster-66e06f6234",
-      "lat": 30.02358,
-      "lng": -85.24393,
-      "title": "Gulf Coast homeowners face flood insurance uncertainty as funding deadline looms",
+      "id": "news-disaster-80fbca08ff",
+      "lat": 33.99971,
+      "lng": -118.19793,
+      "title": "Los Angeles fire survivors face record wait for federal disaster aid under Trump",
       "category": "DISASTER",
-      "time": "2026-08-28T22:24:00Z",
-      "summary": "Gulf Coast homeowners face flood insurance uncertainty as funding deadline looms&nbsp;&nbsp;Gulf Coast News and Weather",
-      "source_name": "Gulf Coast News and Weather",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXNfN1pzdC1fZ1E3VWE2XzFJX3F2OUozbmFvS29zZExhNXZHYzdocnFVV2o1ZU5IV2RGczN0MnlnT3M4OEIxMWNPd0d0WXcwbVBhbFlOMFRpb2tGQl9HTjh1OHdua1hSclpPR3RiWmZ6TlVIOU1qZFpsXzUyejdCM2ZQdzE4UmJYaFJV?oc=5"
+      "time": "2026-08-28T22:41:00Z",
+      "summary": "Los Angeles fire survivors face record wait for federal disaster aid under Trump&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2dmYlpDVWQwdm5aUVFLanZ5alZYMTFJSWhycVlVcURldWhoSkdNMl84eHZXNlRjZzREbW5BYi1Ka0dmV2pKRTVMRlI3SlcyLUR1LVJDczlGT0tPYzlSWi1JZTdCQktnUE9tZEI1TnlkR3RpTTRPcUdDZV8weEpxOHlKRHB6OHdSdmxyeGM4aWVab2ZM?oc=5"
     },
     {
       "id": "news-disaster-bc4d30c5af",
-      "lat": 32.81631,
-      "lng": 130.79402,
+      "lat": 32.80311,
+      "lng": 130.76051,
       "title": "災害ボランティア、先細り懸念 要望件数増、追い付かず 熊本地震1カ月（時事通信）",
       "category": "DISASTER",
       "time": "2026-08-28T22:21:58Z",
@@ -178,8 +178,8 @@
     },
     {
       "id": "news-disaster-b6ec7749d0",
-      "lat": 37.33349,
-      "lng": -78.6974,
+      "lat": 37.33321,
+      "lng": -78.6921,
       "title": "Flood advisory for the Piedmont region until Friday night triggered by significant rain",
       "category": "DISASTER",
       "time": "2026-08-28T22:18:17Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-1de2658de5",
-      "lat": 35.7358,
-      "lng": 139.77174,
+      "lat": 35.64446,
+      "lng": 139.82523,
       "title": "災害時どうする？ 東京・江東 AEDなど親子で体験",
       "category": "DISASTER",
       "time": "2026-08-28T22:15:27Z",
@@ -200,8 +200,8 @@
     },
     {
       "id": "news-accident-adcc63a7e0",
-      "lat": 47.55866,
-      "lng": -122.28419,
+      "lat": 47.64741,
+      "lng": -122.32667,
       "title": "失明寸前の事故、イチローに臨時コーチを要請…》智弁和歌山を5年ぶり夏制覇へ導いた中谷仁監督（47）の“壮絶すぎる逆転人生”（文春オンライン",
       "category": "ACCIDENT",
       "time": "2026-08-28T22:13:16Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-e0fb35cc6f",
-      "lat": 51.46114,
-      "lng": -0.10062,
+      "lat": 51.56084,
+      "lng": -0.0725,
       "title": "Motorcyclist critical after crash northwest of Hesston",
       "category": "ACCIDENT",
       "time": "2026-08-28T22:04:00Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-89932beb83",
-      "lat": 35.67706,
-      "lng": 139.79895,
+      "lat": 35.68427,
+      "lng": 139.71332,
       "title": "サウナに非常用ブザー義務づけ、東京・港区が死亡事故受け条例改正へ [東京都]",
       "category": "ACCIDENT",
       "time": "2026-08-28T22:00:00Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-55e20764c2",
-      "lat": 35.67705,
-      "lng": 139.81383,
+      "lat": 35.61881,
+      "lng": 139.76952,
       "title": "群馬関越道 67台事故で26人書類送検 安全走行怠り操作誤ったか（テレビ朝日系（ANN））",
       "category": "ACCIDENT",
       "time": "2026-08-28T21:47:28Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-97341859c1",
-      "lat": 36.38758,
-      "lng": -79.70102,
+      "lat": 36.35252,
+      "lng": -79.77574,
       "title": "Rockingham County woman killed in two-vehicle crash; infant passenger not injured",
       "category": "ACCIDENT",
       "time": "2026-08-28T21:29:19Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-8376b3a6df",
-      "lat": 36.70628,
-      "lng": -118.72388,
+      "lat": 36.69571,
+      "lng": -118.76823,
       "title": "Big rig crash on I-80 near California-Nevada border leaves truck hanging off bridge, CHP says",
       "category": "ACCIDENT",
       "time": "2026-08-28T21:18:20Z",
@@ -265,9 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUzdkYzhraGhXT2dsOUo0SjFBWUQwZ1NBcFNKNjhRY3Z6YVlIRFkzM2RoRkRxb3k0LTBHRkVQOTZPR01jY2QyMWk4aGpLazgweUJSd2dUWVc2QXl5UWNLOTQ2bDMxNm1sazhQODN0RDI0RGVRWUtCT2ltQ2dMcExwQTZYNmdnc1Ricmh2LU80VUhZdVdFQVZnVEF0eWZjRHo4V1gwMFpPMG9zREFDTU5aRTdmbHpKWmRWNkHSAb8BQVVfeXFMTW9qNk1Wd0ZVUEFxTEZyS2loLVFacl9JMHlHV1huRkdNY0liTy1vMl9tZTdtNm1LR2hiMlR3VGNiUVVlM2ZjSG9xT3JQUmlFS2FOc3V6bnhZOUFSM1poSllidDZQS0dZNV9KZUlOdVNlcDNwQ2s4R1lESVdxeUNfU2d3SWp4OFJXS1g3LXNDSWFGUTE2UDJ2ZEY3bXFPTXhzRVFkaVlVYTZ4WWVKRWpIM3JkTFh4RVRUUG5rQldXYmc?oc=5"
     },
     {
+      "id": "news-disease-d03c0456f2",
+      "lat": 38.31636,
+      "lng": 140.88963,
+      "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
+      "category": "DISEASE",
+      "time": "2026-08-28T23:04:05Z",
+      "summary": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96YmdQX01VZWlqZDZxZW4zVmlQUXZubmYzX0dyWXNEV0pCVjlrSnBTaThKbENhdHNzRm5SendTR0h0VGg2blN2RXRsWThtbmx5VlRNd1h4YjZtVk9TUktjOXNnam9JeEM2ZGN2YzJJX21vWEp5WW15VHRPSmhqRVk?oc=5"
+    },
+    {
       "id": "news-disease-c304749877",
-      "lat": 34.86976,
-      "lng": 135.1989,
+      "lat": 34.93677,
+      "lng": 135.12607,
       "title": "歯みがきを怠ると口の中が「菌のゴミ屋敷」に！全身の病気リスクも高まる【眠れなくなるほど面白い 図解 口と歯の話】",
       "category": "DISEASE",
       "time": "2026-08-28T21:58:33Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-cd2ab2d092",
-      "lat": 35.61999,
-      "lng": 139.83461,
+      "lat": 35.66717,
+      "lng": 139.82168,
       "title": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む",
       "category": "DISEASE",
       "time": "2026-08-28T21:07:00Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-45b91e1378",
-      "lat": 3.54426,
-      "lng": 21.64623,
+      "lat": 3.55911,
+      "lng": 21.70474,
       "title": "Ebola Vaccine Rollout Begins In DR Congo Amid Continuing Outbreak",
       "category": "DISEASE",
       "time": "2026-08-28T16:02:21Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-d520d41be6",
-      "lat": 37.55222,
-      "lng": 126.95858,
+      "lat": 37.44593,
+      "lng": 126.89153,
       "title": "サンド伊達みきお、レギュラー１０本以上！病気公表で各局対応＆心配の声 ＴＢＳ「収録済み分は放送」テレ朝「今後は事務所と相談」",
       "category": "DISEASE",
       "time": "2026-08-28T14:11:00Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-41b3158fb2",
-      "lat": 37.47119,
-      "lng": 126.89449,
+      "lat": 37.52775,
+      "lng": 126.92705,
       "title": "脳梗塞のため活動休止》サンド伊達 毎日鼻血、目の焦点合わず、妻から「顔色悪い」の指摘も…半年前に訴えていた“体調の異変”（女性自身",
       "category": "DISEASE",
       "time": "2026-08-28T12:58:22Z",
@@ -320,20 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ME84ZllrdFg4Vi1zSmdmYnNzU2oybUlOcXZxY2ppbzRJYk13RmU1N2Ixb2N5QWpwZEVTRks3ZmlqSGxoMkdLV2RxRVM5eHgyWHFKUkliR0FUMWtwTm1VNzNYNGNZa2lSaExsNENaU1doTVVFMUFVTW5GcjExTzg?oc=5"
     },
     {
-      "id": "news-disease-ae176a9868",
-      "lat": 37.46141,
-      "lng": 126.99205,
-      "title": "サンド伊達みきお、レギュラー１０本以上！病気公表で各局対応＆心配の声 ＴＢＳ「収録済み分は放送」テレ朝「今後は事務所と相談」（スポーツ報知）",
-      "category": "DISEASE",
-      "time": "2026-08-28T12:29:30Z",
-      "summary": "サンド伊達みきお、レギュラー１０本以上！病気公表で各局対応＆心配の声 ＴＢＳ「収録済み分は放送」テレ朝「今後は事務所と相談」（スポーツ報知）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ST0EyN2Zkemhac0ZhYkRzRTU4OFdVS0tHVFlvSVh1aEZ2eERNaDlBTlB2RldpV1Bpd192WlgzNTRaeU8tcms3QkVRUVlwdkctdlVvdDZmcmJZcVltei1fS2tVYWxNbEVmV2g5elBPUkFzakFMNnltYncxWXN5Zk0?oc=5"
+      "id": "news-technology-623f2099a8",
+      "lat": 60.23312,
+      "lng": 24.95794,
+      "title": "タイミーとZEALS、フィジカルAI時代における「人間の新たな仕事」の在り方を共同検討",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-28T23:04:03Z",
+      "summary": "タイミーとZEALS、フィジカルAI時代における「人間の新たな仕事」の在り方を共同検討&nbsp;&nbsp;EnterpriseZine",
+      "source_name": "EnterpriseZine",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ySzBPbGxJcWRNVlloMG1xZUNzbG9YNV9RbWVmOUdPRHdFa0hwaHdiSlJjaG5IOUlodm5EdVdXZFQ4TmVNRVVGRlhvUVY0S0Q5ME9HNl9R?oc=5"
+    },
+    {
+      "id": "news-technology-2dc13a9d30",
+      "lat": 35.7187,
+      "lng": 139.73139,
+      "title": "サイバーエージェント、AI活用の成果創出まで追う新職種「ビジネスリードエンジニア」を設置",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-28T23:04:02Z",
+      "summary": "サイバーエージェント、AI活用の成果創出まで追う新職種「ビジネスリードエンジニア」を設置&nbsp;&nbsp;EnterpriseZine",
+      "source_name": "EnterpriseZine",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vQ0JNVWYwNThqQVBFSVZFOEx1TnZzdWN4dTJTdTF5cnhaQUxtTGtESE5BSXZ4dlNxNDZaZWx4Mmc2V3F0a3lRc3Q0TmUzc0RGWUpTM25B?oc=5"
     },
     {
       "id": "news-technology-a2acf5ba45",
-      "lat": 35.34381,
-      "lng": 5.41217,
+      "lat": 35.38292,
+      "lng": 5.44215,
       "title": "「ChatGPT Work」の使い方--AIエージェントを始める10のヒント",
       "category": "TECHNOLOGY",
       "time": "2026-08-28T23:01:50Z",
@@ -343,8 +365,8 @@
     },
     {
       "id": "news-technology-dfdd86a313",
-      "lat": 44.6025,
-      "lng": 38.04828,
+      "lat": 44.54415,
+      "lng": 38.13042,
       "title": "“嫌な上司”だとAI活用は進まない でも管理職に“良い人”は少ない？【調査】（ITmedia エンタープライズ）",
       "category": "TECHNOLOGY",
       "time": "2026-08-28T23:01:26Z",
@@ -353,48 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YYXJkY2JRY0tCaDBiOVBKM21KQ2JOeDFOeEhGTGdzN1JtazV6MWl5bHJ0SWJfWkE0OW40c2tncm9xV1hJS0c1d3FMeElnVVV0aHdBNGtWWGpoWkFmZWVuZW1iN2lZR1Z0VEVVeXgxWDZGY0JYMkhWaDI0Q0pjZlE?oc=5"
     },
     {
-      "id": "news-technology-acdc811717",
-      "lat": -7.65993,
-      "lng": -78.67563,
-      "title": "高市総理にAI“家庭教師” チームみらい・安野党首が指導 みらいとの連携強化したい狙いか",
+      "id": "news-technology-085b8f1c3e",
+      "lat": 34.74705,
+      "lng": 135.24245,
+      "title": "正解のない道徳の問題、AIの反論で3割超が判断覆す 神戸大が実験 [兵庫県] [AIの時代]",
       "category": "TECHNOLOGY",
-      "time": "2026-08-28T22:57:05Z",
-      "summary": "高市総理にAI“家庭教師” チームみらい・安野党首が指導 みらいとの連携強化したい狙いか&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTdWxOdFpidEdNbC00SUtaQjFQaUhzUHdxbVZMX08yTEJRZjlMenFmMVlTTEQ3eUx1bFU3RmZTZmNiTUJBa3FPeWtacGt5TG9KU0NuWFh0bUNrVTRNUElKbC16MTVscU1wejIxZW5mY21TVkxsekxLY3AwVWVPUzg?oc=5"
+      "time": "2026-08-28T23:00:00Z",
+      "summary": "正解のない道徳の問題、AIの反論で3割超が判断覆す 神戸大が実験 [兵庫県] [AIの時代]&nbsp;&nbsp;朝日新聞",
+      "source_name": "朝日新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IUmlueFVGS3lEal9UVEtzeGVoUFJVa0hNN2lyc0RaS2FKWXJsMjJqRndxa1Z0Sl9tMEs5cnVEVVBZV1V5a1hvVllrdUZLZnk3WHRnLVJjTmVCVjR2V0NJMTQ0c1gwcms?oc=5"
     },
     {
-      "id": "news-technology-960cd222b5",
-      "lat": 20.85997,
-      "lng": 85.15471,
-      "title": "アングル：ＡＩエージェントの「暴走リスク」現実に、見直し迫られるサイバー保険",
+      "id": "news-technology-b73b23bd10",
+      "lat": 35.06251,
+      "lng": 136.628,
+      "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目",
       "category": "TECHNOLOGY",
-      "time": "2026-08-28T22:52:13Z",
-      "summary": "アングル：ＡＩエージェントの「暴走リスク」現実に、見直し迫られるサイバー保険&nbsp;&nbsp;ロイター",
-      "source_name": "ロイター",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDWjQ1MzdfVC1vSzB4U2Z6T1ZkWWlIUXh2QU13X0F1MzVITm9OWkZNU0Nzbjd5ZVZlaWxaYkxtaEhMZFF5Z1N0emR5eHFmSUJlN0VRaGxLaXlXNXFuZW40LVN4aFM4eHUtQ3gzNVBCNTRYbkc3anotcA?oc=5"
-    },
-    {
-      "id": "news-technology-7edef49598",
-      "lat": 55.48321,
-      "lng": 8.58544,
-      "title": "Caregiver Lessons Bring AI, Online Safety Conversations Home",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-28T22:48:46Z",
-      "summary": "Caregiver Lessons Bring AI, Online Safety Conversations Home&nbsp;&nbsp;GovTech",
-      "source_name": "GovTech",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDBDbUZpc3BFZ29OWlpfNnVYMHBxVEZpWlU3anZqb3lUODVZcTVNRFBfaTdfTzFBWnM1ejZmQ0lUSHA5NVlWZnNQM0d4NVhtV0V1SzJBQUFQX1c4ZVpaLVZOa1BERkJWMzJwYW0tRG1TSEQ3dDlIVVY3T1JBT0V0WDVSZzNyN2ZFb0x5TGhtUVFEVlV0TTI0UURpUUdEbGM?oc=5"
-    },
-    {
-      "id": "news-technology-292546cb67",
-      "lat": 36.31723,
-      "lng": 127.40516,
-      "title": "韓国ハンファ、47年分の航空エンジンデータにAI…「開発の試行錯誤」削減へ",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-28T22:39:09Z",
-      "summary": "韓国ハンファ、47年分の航空エンジンデータにAI…「開発の試行錯誤」削減へ&nbsp;&nbsp;AFPBB News",
-      "source_name": "AFPBB News",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkMml1TzUzWW9lNTl2QjFJV2lzWmE0NHlMQkNiUGx2U1Zma2FuMFdzNkpud18yWjdUMmVEYzMzNnYzOTV4eGU3dXp2RGZOTk9JYm5BMlRCTVFvZXdzWEZCdlFXRWlwNVlCWWltaWxna0ZxUdIBVEFVX3lxTFA0azdRUkltdkRrN3JvLTVTMjJTUTRZWnUyMjhYTkl3T1VMaHRnQUFaSHM2TE95OFdBWUhqSkVCZWZfY0M5LU1rLWpGWWx1b0JHZzhaLQ?oc=5"
+      "time": "2026-08-28T23:00:00Z",
+      "summary": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "source_name": "ダイヤモンド・オンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xSXRPT1RYNmRMalVjdmlTdHNWbkNrZ3JzYl9uUk9DdUtXZHNzeXNrbzFMQS1Md0hZRWk2TGY1UktYRHhMY09yTzV0UTFuRlZJeWVV?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-28T23:03:36Z"
+  "updated_at": "2026-08-28T23:18:39Z"
 }
