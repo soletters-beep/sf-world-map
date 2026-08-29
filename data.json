@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-53b2b1e5b5",
+      "lat": 45.46839,
+      "lng": 9.16518,
+      "title": "Runaway Drug Violence Sets Off a Political Earthquake in Costa Rica",
+      "category": "POLITICS",
+      "time": "2026-08-29T01:01:49Z",
+      "summary": "Runaway Drug Violence Sets Off a Political Earthquake in Costa Rica&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbE1HQWFvNXJ4M3ZqZmxkQXhxdWhPVW5HM2JtQVRoV2ZrNG4zSTYtbHI2VVZYUDZIR0VEMkRSQ1EyWGM3bWRBei1hLXpzcmpXZjRzdWNBSWpQZ2Y4LXVCeW5KU1hDTHotQ2cwWndFQnA0WkpTRVBISkFBU3Zxb292UTY2WkxXZkJLUWQ4Z0Q5cEVBU0k?oc=5"
+    },
+    {
       "id": "news-politics-348c8a3a74",
-      "lat": 51.34541,
-      "lng": 6.74393,
+      "lat": 51.3363,
+      "lng": 6.72134,
       "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "category": "POLITICS",
       "time": "2026-08-29T00:46:02Z",
@@ -12,20 +23,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-aab599e4fd",
-      "lat": 47.22903,
-      "lng": -71.85207,
-      "title": "Jelly Roll Clarifies Political Views, Regrets Not Taking “Opportunity to Speak Up” at Grammys",
+      "id": "news-politics-361b16cf2e",
+      "lat": 39.6515,
+      "lng": -76.61518,
+      "title": "Trump's naming campaign from the Kennedy Center to Trump RX",
       "category": "POLITICS",
-      "time": "2026-08-29T00:43:22Z",
-      "summary": "Jelly Roll Clarifies Political Views, Regrets Not Taking “Opportunity to Speak Up” at Grammys&nbsp;&nbsp;hollywoodreporter.com",
-      "source_name": "hollywoodreporter.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVdDeVZfY1ZhODBpVXdqbUlELVBZY1pHMU9feFY3dGIzeWxxUHRlNjlLMHZCelF3YWZZNEk1a25Gc3BqWlhJMnRGYVU2cGRwaGVqREV0NUl3bFhGNUdhV3MtUlRrNFRyUzc3eWtoTHl5aExPSWc5V0ZWOXZqYUU0Um1YckxDc2I3bTUyV2VxbUtXbHhzZkVQM3NiQkJXQ0dXaERKV2REM08zSUpLakFCNlR4MA?oc=5"
+      "time": "2026-08-29T00:42:00Z",
+      "summary": "Trump's naming campaign from the Kennedy Center to Trump RX&nbsp;&nbsp;USA Today",
+      "source_name": "USA Today",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjk5TXhfdTJIdFBHQlJVb0M3Q3duUXhnM3VHTENKbmd3cVRMZFBHSUZSWVp6Z19pOW9ZbEQ3Q3Nhc0ZuOE5yVEVxcm9VY0xwY3VGMmVTZ2NCSWxpYVFKN3gtXzBkQ3o4VjdRZUhDRE15SVNtcHFrOFZ5QUV3MDBEeUhma2NVMm0tV2Y4QTIyTE9aUVhVbUZ5anFpSFlVajJ6SGk3b19YSjdnNnRfUGdGMkNXamlYNEtzSGc?oc=5"
     },
     {
       "id": "news-politics-47b11f641f",
-      "lat": 52.43415,
-      "lng": -1.92811,
+      "lat": 52.50732,
+      "lng": -1.93057,
       "title": "Federal judge blocks Trump mail-in voting rule challenged by WA",
       "category": "POLITICS",
       "time": "2026-08-29T00:38:31Z",
@@ -34,9 +45,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEF6RlJNcWpWM2JneU9Ka0NaM3EwaUhFaTFMb20yOVhoMWtpOUFkY3JrRkhjT21ZMHFmWG9hTG81Sk5hdjktTWgyZmUwaExiYTNjT0M0dWlpMGZvdlRwOUxkNUUtYW4wNWt4c3k4YVI5SDJ1YncxVHNSXzNqWWl0S0stT1o4NW1UcW5DX3JlR1FmVHN3ZFd4b2ZVajFGWElPQkZLSU5OT3dObWxhdWlVSVRXNGtnUQ?oc=5"
     },
     {
+      "id": "news-politics-890ef2df40",
+      "lat": 47.21159,
+      "lng": -71.83274,
+      "title": "Jelly Roll explains political beliefs after Trump roasts: I’m ‘down the middle’",
+      "category": "POLITICS",
+      "time": "2026-08-29T00:36:03Z",
+      "summary": "Jelly Roll explains political beliefs after Trump roasts: I’m ‘down the middle’&nbsp;&nbsp;WKRN News 2",
+      "source_name": "WKRN News 2",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWElNbDZpTENJS1NBOFc5bDdFTUVMVXY1cnFfRWdEYlpLOHNJMFFLS3BfOFZ5NS1VckZOazIyMU5vaHZxc3BiaWRzNkRjX2F1WEp1YW9Ka3Nrb0EzRmhqRnNKQmozWmNISGJSYW4xb0ViYm9VTDJTUFlmU01TQXA5Y1BaYUwwck5aX1dxZXRBaUpnUTVDYnpRSl9zSzJ2eEpmTzg1eUR6MnQ4Q0pLYUZFNNIBtgFBVV95cUxNVEd0MWdKaE9mVWt1ZWx3UE9zV2M0d0pLcW1aU0pUT2tDdEw4bFR1cmV0SXZWY2NQT2N1U0t0Q0x5OW5rc2xxQWYtNDdJanFfblByb0VVOElrVTBxOWFDRndtVnd3M1M0SnVWZDFIQ3A1T2RVVnJtMmZNX0NYTGRjeTlhLUpLUWhWUV9QT2hSZ2Zfb0hMOHdJU3NNZGhYNzFMMmhFNmIwMFM0SVZTUGt5QU16Mk9EZw?oc=5"
+    },
+    {
       "id": "news-politics-9320249111",
-      "lat": 47.60212,
-      "lng": -122.33066,
+      "lat": 47.65447,
+      "lng": -122.26251,
       "title": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
       "category": "POLITICS",
       "time": "2026-08-29T00:35:04Z",
@@ -45,43 +67,10 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-6d6c86cb1c",
-      "lat": 54.3936,
-      "lng": -2.30617,
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "category": "POLITICS",
-      "time": "2026-08-29T00:32:17Z",
-      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-c06ee050ab",
-      "lat": 8.03447,
-      "lng": -66.05555,
-      "title": "US and Venezuela reach 'historic' oil deal, Trump says",
-      "category": "POLITICS",
-      "time": "2026-08-29T00:25:07Z",
-      "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-finance-ec9ffadc30",
-      "lat": 8.0785,
-      "lng": -2.76987,
-      "title": "為替介入総額 月次過去最大の15兆円超（ABEMA TIMES）",
-      "category": "FINANCE",
-      "time": "2026-08-29T00:36:17Z",
-      "summary": "為替介入総額 月次過去最大の15兆円超（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdGpCSUlnYzhtQ0NidENYNGZlMjBEa3dOby1vYWdlT0c1cnVsWFctY3NlazVQVGVEWlQtVVpXRTllbERuNTlocU9EYXFUQW91UVpkRWVJMXV2QmI1eXNmWjhNaERyLS1mSEs3S2hHQ1BVQURna29tZ0tyOGZJM0E?oc=5"
-    },
-    {
       "id": "news-finance-c06ee050ab",
-      "lat": 7.97091,
-      "lng": -66.15276,
-      "title": "US and Venezuela reach 'historic' oil deal, Trump says",
+      "lat": 39.73574,
+      "lng": -76.55392,
+      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T00:25:07Z",
       "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
@@ -90,8 +79,8 @@
     },
     {
       "id": "news-finance-fe76d07684",
-      "lat": 31.1153,
-      "lng": -84.71999,
+      "lat": 31.21487,
+      "lng": -84.72699,
       "title": "Miller Industries Reaffirms 2026 Outlook, Eyes $200M-Plus Military Production Pipeline",
       "category": "FINANCE",
       "time": "2026-08-29T00:01:00Z",
@@ -101,8 +90,8 @@
     },
     {
       "id": "news-finance-bdd1ffa319",
-      "lat": 36.01078,
-      "lng": -115.25045,
+      "lat": 36.06127,
+      "lng": -115.3084,
       "title": "‘DraftKings Is Not a Blessing to Your Life’: Dave Ramsey to Gambler 31 Days Sober and $23K in Debt",
       "category": "FINANCE",
       "time": "2026-08-28T23:56:32Z",
@@ -112,8 +101,8 @@
     },
     {
       "id": "news-finance-bb611ab208",
-      "lat": 43.02478,
-      "lng": 141.31662,
+      "lat": 43.09355,
+      "lng": 141.32438,
       "title": "レーティング週報【最上位を継続＋目標株価を増額】(2) (8月24日－28日)(株探ニュース)",
       "category": "FINANCE",
       "time": "2026-08-28T23:42:31Z",
@@ -123,8 +112,8 @@
     },
     {
       "id": "news-finance-79747eb413",
-      "lat": 43.00328,
-      "lng": 141.37506,
+      "lat": 43.01453,
+      "lng": 141.28924,
       "title": "レーティング週報【最上位を継続＋目標株価を増額】(1) (8月24日－28日)(株探ニュース)",
       "category": "FINANCE",
       "time": "2026-08-28T23:42:30Z",
@@ -133,9 +122,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUdRa2Zod2RvZjB2RnhVMzZDRjUxbW5XTkpaNlFvelppQ01DWWRuVWJfNUNyZEpCZ0o2Q0lUSXctMElIUE5KemdGSkJHTjg4dmxlaE01Znp5TV9JWVIwOUxOM1JQc2VQWHRKSE5iNDh0WVhEYjVPUFFBaGEyUmd6MmRLckFST3M?oc=5"
     },
     {
+      "id": "news-finance-fcac9e6749",
+      "lat": 40.70564,
+      "lng": -74.06343,
+      "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
+      "category": "FINANCE",
+      "time": "2026-08-28T23:15:45Z",
+      "summary": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1ZyRU9leUxySFJhSkllV3dSSUVQTlV2eVVGeUNyenJzNnVsZ1dUT2JyWVFXZFFyOGJZYVdaZHdSUk0zQ1dCSG9kVkswX2ZpVHNUVkxrV1JGNHZyRTdoTGNEOUc1SjYxdVV1MWV0bVRrLWVNZmpRV21zTEZ5YTluVDByTXNrVkNvM2VNUTMtckloSEEwUEE?oc=5"
+    },
+    {
+      "id": "news-disaster-819ca65d68",
+      "lat": 33.16153,
+      "lng": -92.34203,
+      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "category": "DISASTER",
+      "time": "2026-08-29T00:53:13Z",
+      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-disaster-d8ae1f3b1d",
+      "lat": 48.62743,
+      "lng": -97.83707,
+      "title": "Mountain of broken fridges growing across England and Wales",
+      "category": "DISASTER",
+      "time": "2026-08-29T00:51:02Z",
+      "summary": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-disaster-7e1be5fbbe",
+      "lat": 35.6261,
+      "lng": 139.68062,
+      "title": "令和8年8月石川・富山豪雨緊急支援（能登復興ネットワーク）",
+      "category": "DISASTER",
+      "time": "2026-08-29T00:49:07Z",
+      "summary": "令和8年8月石川・富山豪雨緊急支援（能登復興ネットワーク）&nbsp;&nbsp;Yahoo!ネット募金",
+      "source_name": "Yahoo!ネット募金",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CM18yU2tHdm44YUwyLVNOcGV1azJKcE5wMmk3bHYzNlZ4dlc5dEZhLW9ZcmhXS2tGN2txZVJEbUNBZjVjNi0xc0xtN1dBSTJVWjFNSGNB?oc=5"
+    },
+    {
       "id": "news-disaster-55feebaa9e",
-      "lat": 52.4872,
-      "lng": -1.29428,
+      "lat": 52.53567,
+      "lng": -1.2733,
       "title": "The race to stop England running out of water",
       "category": "DISASTER",
       "time": "2026-08-29T00:46:00Z",
@@ -145,8 +178,8 @@
     },
     {
       "id": "news-disaster-a444af04e4",
-      "lat": 54.47983,
-      "lng": 50.5767,
+      "lat": 54.56827,
+      "lng": 50.56681,
       "title": "【台風情報】台風22号（アータウ）23号（バンラン）「ダブル台風」の今後の進路は?【9月8日（火）までの雨風シミュレーション】台風18号（ソウデル）は熱帯低気圧に（気象庁発表）（ＳＢＣ信越放送）",
       "category": "DISASTER",
       "time": "2026-08-29T00:18:17Z",
@@ -156,8 +189,8 @@
     },
     {
       "id": "news-disaster-64682e38c5",
-      "lat": 36.63802,
-      "lng": 138.13939,
+      "lat": 36.61496,
+      "lng": 138.13016,
       "title": "【台風情報】台風22号（アータウ）23号（バンラン）「ダブル台風」の今後の進路は？【進路予想図・9月8日（火）までの雨風シミュレーション・全国各地の週間天気】台風18号（ソウデル）は熱帯低気圧に（気象庁発表） | SBC NEWS | 長野のニュース | SBC信越放送",
       "category": "DISASTER",
       "time": "2026-08-29T00:17:00Z",
@@ -166,42 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJVmZ2WW83YkZhSmZrNTBaeHJrSVc2X08ta3lVVWJiMEdpSnh6MzY5QTR3V0dBSUVrcUV0ajMyQlJUWVhqSnhRUjRGT0Q0WExRVjgzUGFNQWNNZw?oc=5"
     },
     {
-      "id": "news-disaster-bbc7fac1ca",
-      "lat": 33.6506,
-      "lng": -116.28215,
-      "title": "Congressional proposal would shift disaster recovery burden to states",
-      "category": "DISASTER",
-      "time": "2026-08-29T00:13:00Z",
-      "summary": "Congressional proposal would shift disaster recovery burden to states&nbsp;&nbsp;My Buckhannon",
-      "source_name": "My Buckhannon",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd001QU5XS2kzYTJsMGZmeFc3bUp5Qmg4NS16YVRMWXZqRjVObEhKQUYtbFpSU19CMmYtNHQ4T0szdlg5WG9OT2hTUzFoYzAtcVpYR0NZLWNqX2Uzdkh1QjM4QW9lR1IwTjVyQjBhMldNNi16dUNTMUlMMUliVUZleWRLSkpROC1FM0ZobkxoUlMzRDNwb01KLW5OS0lzcG5FVG9WaTE4SzEtRjVOeTFHQ0VfRmIzbDZFczUtLXhSYTU?oc=5"
-    },
-    {
-      "id": "news-disaster-a235dfea20",
-      "lat": 53.93039,
-      "lng": 27.64607,
-      "title": "Researchers at USF St. Pete develop flood tracking app",
-      "category": "DISASTER",
-      "time": "2026-08-29T00:02:00Z",
-      "summary": "Researchers at USF St. Pete develop flood tracking app&nbsp;&nbsp;wtsp.com",
-      "source_name": "wtsp.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd1FvZGNOTk5tUkFpdjRuWXFKS1lLZG56aTV3VXFzZUtDMlp1blg1X3RaVHdmNXk4akF4VHFTT1BSUTVwaDEzMktOalFpUmJ5RF80OWF4RWFCeEQ5SER6ODNseEw1TkJNeEFpOWpCMHNwWGVJdVloTjdGaG5TUXdUMTVBbWUtdVZrTzd3OVFRZ2xsZkRrWHlTVXdEVjA?oc=5"
-    },
-    {
-      "id": "news-disaster-c684afb539",
-      "lat": 32.80595,
-      "lng": 130.75775,
-      "title": "【フォトルポ】熊本地震 墓石のない墓に鮮やかな生花が…被災地に戻る日常と「残された課題」（FRIDAY）",
-      "category": "DISASTER",
-      "time": "2026-08-29T00:00:44Z",
-      "summary": "【フォトルポ】熊本地震 墓石のない墓に鮮やかな生花が…被災地に戻る日常と「残された課題」（FRIDAY）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iZjVzYmRSS0hkWE5zZktKOFRRZmtHWG5KNFF5NEZBenlfUWpIUGl1aVVwQ29ZZnJpWTBLTTBseWh3WWFMMnJxeXNka3FFTmItUG5GOGFoVlhMV3hzbUowd0RpcjQxcVprbVljX1pUVDl2N2VLRjNEUXZtUWVMRzA?oc=5"
-    },
-    {
       "id": "news-accident-510a22c9a1",
-      "lat": 47.71381,
-      "lng": 4.86742,
+      "lat": 47.6461,
+      "lng": 4.83322,
       "title": "Man arrested for DUI after crash sets car on fire near Minot",
       "category": "ACCIDENT",
       "time": "2026-08-29T00:19:00Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-12979c8c61",
-      "lat": 34.9827,
-      "lng": -97.24777,
+      "lat": 34.9771,
+      "lng": -97.29489,
       "title": "Two injured in southwest Oklahoma City crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T00:11:15Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-c5ccc130b8",
-      "lat": 35.40338,
-      "lng": 139.54381,
+      "lat": 35.38039,
+      "lng": 139.57927,
       "title": "逆走車を止めた“初対面の3人”に感謝状 クラクションやパッシングでとっさの“連携プレー” 重大事故を防ぐ 岐阜",
       "category": "ACCIDENT",
       "time": "2026-08-29T00:00:00Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-5e15e422fa",
-      "lat": 36.75327,
-      "lng": -118.80831,
+      "lat": 36.6657,
+      "lng": -118.80867,
       "title": "Big rig dangles off bridge on I-80 after crash near the California-Nevada line",
       "category": "ACCIDENT",
       "time": "2026-08-28T23:20:00Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-9985dfc29e",
-      "lat": 42.96996,
-      "lng": 141.40438,
+      "lat": 42.96899,
+      "lng": 141.41375,
       "title": "カゲロウでの交通事故防止対策 9月1日から3市町の16カ所で集虫灯設置",
       "category": "ACCIDENT",
       "time": "2026-08-28T23:10:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-e8532420c6",
-      "lat": 35.14558,
-      "lng": -90.04411,
+      "lat": 35.16335,
+      "lng": -90.09029,
       "title": "1 dead, 3 injured in wreck near Memphis airport",
       "category": "ACCIDENT",
       "time": "2026-08-28T22:53:03Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.27649,
-      "lng": 140.86904,
+      "lat": 38.26489,
+      "lng": 140.87186,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
       "time": "2026-08-28T23:04:05Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-c304749877",
-      "lat": 34.85998,
-      "lng": 135.20817,
+      "lat": 34.8943,
+      "lng": 135.16393,
       "title": "歯みがきを怠ると口の中が「菌のゴミ屋敷」に！全身の病気リスクも高まる【眠れなくなるほど面白い 図解 口と歯の話】",
       "category": "DISEASE",
       "time": "2026-08-28T21:58:33Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-cd2ab2d092",
-      "lat": 35.64858,
-      "lng": 139.90726,
+      "lat": 35.66848,
+      "lng": 139.83355,
       "title": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む",
       "category": "DISEASE",
       "time": "2026-08-28T21:07:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-45b91e1378",
-      "lat": 3.54587,
-      "lng": 21.62804,
+      "lat": 3.4619,
+      "lng": 21.70067,
       "title": "Ebola Vaccine Rollout Begins In DR Congo Amid Continuing Outbreak",
       "category": "DISEASE",
       "time": "2026-08-28T16:02:21Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-d520d41be6",
-      "lat": 37.49428,
-      "lng": 126.92528,
+      "lat": 37.47063,
+      "lng": 127.00562,
       "title": "サンド伊達みきお、レギュラー１０本以上！病気公表で各局対応＆心配の声 ＴＢＳ「収録済み分は放送」テレ朝「今後は事務所と相談」",
       "category": "DISEASE",
       "time": "2026-08-28T14:11:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-41b3158fb2",
-      "lat": 37.52927,
-      "lng": 126.93237,
+      "lat": 37.53152,
+      "lng": 126.98221,
       "title": "脳梗塞のため活動休止》サンド伊達 毎日鼻血、目の焦点合わず、妻から「顔色悪い」の指摘も…半年前に訴えていた“体調の異変”（女性自身",
       "category": "DISEASE",
       "time": "2026-08-28T12:58:22Z",
@@ -331,9 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ME84ZllrdFg4Vi1zSmdmYnNzU2oybUlOcXZxY2ppbzRJYk13RmU1N2Ixb2N5QWpwZEVTRks3ZmlqSGxoMkdLV2RxRVM5eHgyWHFKUkliR0FUMWtwTm1VNzNYNGNZa2lSaExsNENaU1doTVVFMUFVTW5GcjExTzg?oc=5"
     },
     {
+      "id": "news-technology-e54d3c5e79",
+      "lat": 43.03237,
+      "lng": 141.37882,
+      "title": "競馬 - 2026年札幌日刊スポーツ杯 AI予想",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T01:01:27Z",
+      "summary": "競馬 - 2026年札幌日刊スポーツ杯 AI予想&nbsp;&nbsp;スポーツナビ",
+      "source_name": "スポーツナビ",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xMWVQVmU3Mjc3Rm1NNVV3R05mNDA1Y2w1cFRKYlNQcWxJVU84U0d5Rmh2ZU1TV3Z4V01RaWtELWF0NkFrV21aV0Z0RFU2S2o0b0xKQ1g0aHp3S2hNZDFlNVoyb2IwTmc1cWFj?oc=5"
+    },
+    {
       "id": "news-technology-28d3d506f0",
-      "lat": 34.38205,
-      "lng": -111.81211,
+      "lat": 34.33699,
+      "lng": -111.74791,
       "title": "Arizona Supreme Court rejects courtroom AI ban, opting to ‘test it and watch closely’",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T00:35:00Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-f98426229a",
-      "lat": 30.06116,
-      "lng": -99.27846,
+      "lat": 30.11345,
+      "lng": -99.33507,
       "title": "Should AI be banned from the classroom?",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T00:34:20Z",
@@ -354,8 +365,8 @@
     },
     {
       "id": "news-technology-23ee1a75e0",
-      "lat": 30.09224,
-      "lng": -99.2965,
+      "lat": 30.03734,
+      "lng": -99.2525,
       "title": "Should AI be banned from the classroom?",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T00:34:20Z",
@@ -364,37 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IN3VRV3N3NHF3dVZLTFJ3TlRKQVBEcDF5S3dLNmpsSjhsTXpyV3FmWHBVbzNycDJtUTYtWTRpcU1aOUlaaV9HMm9QeGJ6LUR6UmVjaEpxU3ZwYzdmdTU4QndMd0FUWGpMUnc?oc=5"
     },
     {
-      "id": "news-technology-0bcb4cb7af",
-      "lat": 34.07417,
-      "lng": -117.99247,
-      "title": "Industry Roundup: Gerstel Showcased New Twister Phases and Automated Liner Exchange Technology at EPRW 2026 in Rotterdam",
+      "id": "news-technology-5a55308f17",
+      "lat": 33.21392,
+      "lng": -86.8344,
+      "title": "Alabama will continue advocating for consumers amid AI data center buildout: Attorney general",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T00:33:45Z",
-      "summary": "Industry Roundup: Gerstel Showcased New Twister Phases and Automated Liner Exchange Technology at EPRW 2026 in Rotterdam&nbsp;&nbsp;Chromatography Online",
-      "source_name": "Chromatography Online",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcXBnVkRhaVljWVJ4bDJtNGdIdU81cVlWRktBS1hMNXNmYVQ0cF9zY2Q3SHZKaVR3ejk1dThrZW5hQmNSTEI3YXozLUhqUXkwczk2LTd3b0pvd1RqZ0FvekVTSzV0dzB5bnVRVzdmMHhkbmk0T2pNYmp4Y1NYbzU0Zmk2Q2VzbEtTQ3BObHdUdlh5OWJiUzRJWDhCZkpYOElCOWZnTTh0UTBKU3VBazFOcDB6cnVyRjRpSF91WHJFMVNoeWxpZ21haFl6bTBFaVdXOTFRYlo1RkZTRFprRVBkZ1AyRzRmQzRRSFU5a0RUNFl1dGc?oc=5"
+      "time": "2026-08-29T00:34:05Z",
+      "summary": "Alabama will continue advocating for consumers amid AI data center buildout: Attorney general&nbsp;&nbsp;Fox Business",
+      "source_name": "Fox Business",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BQmI0V1kxN3NNQk1Hc1pndUJwTWlZbVpOTmZ2RVhXS29LbldLSlEwbkJ0NzlfVmNBSnBuZnJVMHpaQXN0cFRQVlZGUmJUc0oyY1hkLWM1SWVJX2M?oc=5"
     },
     {
-      "id": "news-technology-ec68644db3",
-      "lat": 35.68205,
-      "lng": 139.73854,
-      "title": "AIを使いすぎると「バカになる」は真実 MITが証明した、1カ月後も消えない“脳の認知負債”の恐怖(東洋経済オンライン)",
+      "id": "news-technology-f13665a9cc",
+      "lat": 35.71225,
+      "lng": 139.71642,
+      "title": "AIを使いすぎると「バカになる」は真実 MITが証明した、1カ月後も消えない“脳の認知負債”の恐怖（東洋経済オンライン）",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T00:30:00Z",
-      "summary": "AIを使いすぎると「バカになる」は真実 MITが証明した、1カ月後も消えない“脳の認知負債”の恐怖(東洋経済オンライン)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0NsNmwxRHZfNHUzNmpMZjhoeVN0WlNnaUMyQldzdDlEaE1QejIwRE5vMUZzdFF4SmpHRVRVb3Jjckt6ZERSTEFTd3JIblVsOW1QQzNPcl9fV1RsX09JaXNTVWRKaE41VDVjLWVGamN5Qi1yWjk2REQ4SHpXamFwM25PSl9oOE0?oc=5"
-    },
-    {
-      "id": "news-technology-b37caf1d05",
-      "lat": 49.91943,
-      "lng": 21.50005,
-      "title": "動画カメラは混沌の時代へ？　ミラーレス一眼へ乗り出すアクションカムメーカーも現れた2026年前半の業界動向",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T00:16:00Z",
-      "summary": "今回は26年のカメラ界をちょっと振り返ってみたいと思う。目立つのはカメラ各社の本格的な動画カメラへの注力だ。一方でアクション／ウェアラブルカメラのメーカーも気になる動きをしている。",
-      "source_name": "ITmedia",
-      "source_url": "https://www.itmedia.co.jp/news/article/2608/29/2000000906/"
+      "time": "2026-08-29T00:30:38Z",
+      "summary": "AIを使いすぎると「バカになる」は真実 MITが証明した、1カ月後も消えない“脳の認知負債”の恐怖（東洋経済オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04R3VxNzZyN1JPS0g3bnFQYUlkcHhPYnZNeS1QV3h0VWxFSndBcVlWZ2ZPUFR4QkJTUVVjVV9ydGhrZ2FtV2pYVWFRQm9CZmRSOW9QMGZLdXF0ODlyZ0MzZEllYUp6SmNFbXluOWxBY3p2YnJxX0ZOQ09ZYzItM00?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T00:48:36Z"
+  "updated_at": "2026-08-29T01:03:31Z"
 }
