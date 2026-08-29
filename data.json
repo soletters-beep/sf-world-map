@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-352344a676",
+      "lat": 52.09809,
+      "lng": 18.75427,
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "category": "POLITICS",
+      "time": "2026-08-29T19:44:54Z",
+      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-a8433bab8f",
+      "lat": 38.94634,
+      "lng": -76.98954,
+      "title": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews",
+      "category": "POLITICS",
+      "time": "2026-08-29T19:35:51Z",
+      "summary": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTm54ZVV4YzBUcDdrYXZjcnFMN19Dc2J2ZGQ2SkpCbnlKVjJja0x5b2xuMkRjOVM3aEpaUnRIdEtmTVY2dWxaY1FFb3ZMUW1RQkk5eHN2LWU2NjNyQnNkWTVydDdnSTRjcHBDU2VjUktBSUFuenZlel9aMFE4anpzdUJBckE0RGUxejJSa0N1aHhiOVJCS2VBVkw2Rl9SblV0Q01tZUhuVWVCMlhoWlpWVzFiNXdvWHNXVXJBZw?oc=5"
+    },
+    {
       "id": "news-politics-63a6101b7e",
-      "lat": 42.71339,
-      "lng": -112.92132,
+      "lat": 42.68888,
+      "lng": -112.86174,
       "title": "Power & Politics: Data center drama; Jackson mayor receives threatening messages",
       "category": "POLITICS",
       "time": "2026-08-29T19:21:57Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-bb2459237c",
-      "lat": 60.80441,
-      "lng": -148.84451,
+      "lat": 60.79931,
+      "lng": -148.89162,
       "title": "Tom Begich withdraws from Alaska governor’s race",
       "category": "POLITICS",
       "time": "2026-08-29T19:18:45Z",
@@ -24,8 +46,8 @@
     },
     {
       "id": "news-politics-916c279d29",
-      "lat": 61.12317,
-      "lng": 8.82079,
+      "lat": 61.19294,
+      "lng": 8.80964,
       "title": "Norway's new king remembers 'my dear father' in first speech",
       "category": "POLITICS",
       "time": "2026-08-29T19:06:28Z",
@@ -34,42 +56,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-039da99b76",
-      "lat": 42.98999,
-      "lng": 1.48019,
-      "title": "Sen. Susan Collins continues drumbeat against “harmful” new Trump tariffs on Canada",
+      "id": "news-politics-64c1cabccd",
+      "lat": 59.92555,
+      "lng": 10.68363,
+      "title": "米軍三沢F16 中東展開 英メディア報道 イラン作戦3～4月",
       "category": "POLITICS",
-      "time": "2026-08-29T18:49:00Z",
-      "summary": "Sen. Susan Collins continues drumbeat against “harmful” new Trump tariffs on Canada&nbsp;&nbsp;newscentermaine.com",
-      "source_name": "newscentermaine.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZGUtNTdHc2dROHFKbGZGTUU0S0hVWmdsUnA5Y2tUUVBHY0RrSkZqYlo4WllxaEhxYTk3NDBQSEVWM1NwV09ibW1qay1ER0FhYkpZelZpN1c2SGJ4TUVIYmFkTWpfSGoza3Y3VTlTdExrT1JWWDYxSEdZRUE4TXlhX0JSX0RGN0NGT2dkS0tVSG5BRmllbDYxczZhazhROFpLZzFFY2ViRmFIZ21Ybm8xTTQyZ0dvVGNadER5OUF4M2tuXzlmbFJoREw2UkEwdVRtZmV0dVp2aGV5RFNFTTlOcFdVWjBLVHZ3eV8xdGp0MHRhUDhjMU5RSTZjQVQzTUxEejRWLTJFSDdfSlBvajcwcXQ4ZkdQV0V6RWc?oc=5"
-    },
-    {
-      "id": "news-politics-28a467ed39",
-      "lat": 20.30574,
-      "lng": 105.92511,
-      "title": "ドアン・ミン・フアン同志は、カマウ省政治学校で活動している。",
-      "category": "POLITICS",
-      "time": "2026-08-29T18:40:55Z",
-      "summary": "ドアン・ミン・フアン同志は、カマウ省政治学校で活動している。&nbsp;&nbsp;Vietnam.vn",
-      "source_name": "Vietnam.vn",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVTROYUV6SVNidHhBZXB1dGJ3dFMxVHQxTEppbXo3MjdUTWJsQnphQTZrazJHb3ozQlRGdlFvN0lMV1pEZGVuNHNWc3hKUWFweXo1ZEFqVkZwa1RrYnR6QkRTUVAtT3d3SE1PcVFvLVJ0cm0tOEloNW9DMks5dkxOVllEYVVxNUx0Tmc0dVdkdEJDMEFLMlE?oc=5"
-    },
-    {
-      "id": "news-politics-02ae663598",
-      "lat": 10.81703,
-      "lng": 106.72195,
-      "title": "ホーチミン国家政治学院院長が、党幹部に党バッジを授与する。",
-      "category": "POLITICS",
-      "time": "2026-08-29T18:40:55Z",
-      "summary": "ホーチミン国家政治学院院長が、党幹部に党バッジを授与する。&nbsp;&nbsp;Vietnam.vn",
-      "source_name": "Vietnam.vn",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkdlM1U1QUpMdXk3OE9YR3lHeWcybWEwcXU0MjhnZW1aRzNrWm9vSWJ0U3h3ek51TEJxOUkyaHlDRUJYZjVPRkRPbXI0aGVJUkl6Mi1DTUJndTVWd3RmWVZiU1NKRW1MLS1BYWpEUDFaeVR5Y2ttMmN5YVdPZ1k2cng5Qkpta0E0WXRWSGR1aDdrTWJLUDRkWUIxVHVHSThQMVhLNkw4TVhMTDJ1QmRyWU9yRmZWMXM?oc=5"
+      "time": "2026-08-29T18:58:00Z",
+      "summary": "米軍三沢F16 中東展開 英メディア報道 イラン作戦3～4月&nbsp;&nbsp;沖縄タイムス社",
+      "source_name": "沖縄タイムス社",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01cjR4QXJ6WEtmczlYUXgwMDNhOHVna1hxQjRZT0dHYTZ6Q2thZXU3QlpiTGVHNmtZNlFzSzdoRDdabkVLcS1MNC1pLTJPVXZIQXJvVWEwakxTSjBya3c?oc=5"
     },
     {
       "id": "news-finance-b1f1580d39",
-      "lat": 56.66892,
-      "lng": -3.03156,
+      "lat": 56.73369,
+      "lng": -3.00332,
       "title": "Fundraiser launched to secure crafting shop future",
       "category": "FINANCE",
       "time": "2026-08-29T18:15:54Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-b4d7c539c3",
-      "lat": 35.59574,
-      "lng": -94.44199,
+      "lat": 35.64403,
+      "lng": -94.48838,
       "title": "'Big Short' Steve Eisman Warns AI Trade Hinges On OpenAI, Anthropic: 'The Whole Tech Space Sells Off' If Spending Slows",
       "category": "FINANCE",
       "time": "2026-08-29T16:50:31Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-d426b31b7b",
-      "lat": 30.18657,
-      "lng": -82.12607,
+      "lat": 30.22743,
+      "lng": -82.09227,
       "title": "Bessent says disorderly yen moves can destabilize global markets",
       "category": "FINANCE",
       "time": "2026-08-29T16:47:43Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-ed68c7a10f",
-      "lat": 47.51583,
-      "lng": 19.06146,
+      "lat": 47.46235,
+      "lng": 19.01285,
       "title": "Nike Installs Former Foot Locker Supply Chain Chief as Converse COO",
       "category": "FINANCE",
       "time": "2026-08-29T16:37:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.72798,
-      "lng": -76.59153,
+      "lat": 39.63023,
+      "lng": -76.54569,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T16:15:56Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-abf05f9d3c",
-      "lat": -34.6612,
-      "lng": -58.64663,
+      "lat": -34.68936,
+      "lng": -58.63309,
       "title": "Personal Finance: $40 trillion and counting: How the national debt exploded",
       "category": "FINANCE",
       "time": "2026-08-29T16:00:00Z",
@@ -134,8 +134,8 @@
     },
     {
       "id": "news-disaster-8eaba7cb35",
-      "lat": 33.70599,
-      "lng": -105.72797,
+      "lat": 33.79454,
+      "lng": -105.73333,
       "title": "The Forgotten Tsunami of 1303: A Medieval Mediterranean Disaster",
       "category": "DISASTER",
       "time": "2026-08-29T19:25:52Z",
@@ -145,8 +145,8 @@
     },
     {
       "id": "news-disaster-322cd6824f",
-      "lat": 37.26899,
-      "lng": -78.69093,
+      "lat": 37.34745,
+      "lng": -78.78113,
       "title": "Flood advisory for Bertie County early Saturday evening due to intense rain",
       "category": "DISASTER",
       "time": "2026-08-29T19:23:06Z",
@@ -155,9 +155,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44NllCRTRNOENmdnMtNmZhVlFmUGttQmdQRHVNQ1hlY1JnMEd2V01jczBLSmhHUmNpTENZNERGX3NmQWJ0TThsZlcwNTllSU1Ub1kzSjlvNGFIaldiaDhYTHNmV2wzYzNHd2VMcm84ekYxWXNLbWNrSzA0cHd6dw?oc=5"
     },
     {
+      "id": "news-disaster-935fd82739",
+      "lat": 35.69221,
+      "lng": 139.73456,
+      "title": "先日レベル5大雨特別警報の北陸地方で再び災害リスク高まる 命を守る行動を（tenki.jp）",
+      "category": "DISASTER",
+      "time": "2026-08-29T19:21:22Z",
+      "summary": "先日レベル5大雨特別警報の北陸地方で再び災害リスク高まる 命を守る行動を（tenki.jp）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hWVdSVWUzWHh6TjJwUHB5WGhtalc4MmNhQk1GQkdXeWpacGI4QkVCcnZpZ0hqcnlVa2w0amdIQ2lldTRNbEhRbUZhTEE3bEZLMVpKeUZYMm0zZC0xdDZSVmREZE9pa05OQUR0aEU0ZnBNZVVMOTZxUTlZRkFORFk?oc=5"
+    },
+    {
+      "id": "news-disaster-cf052ae9b2",
+      "lat": -34.52404,
+      "lng": 149.23854,
+      "title": "Hundreds dead as over 3,000 remain missing in massive Nepal-Tibet flood",
+      "category": "DISASTER",
+      "time": "2026-08-29T19:15:08Z",
+      "summary": "Hundreds dead as over 3,000 remain missing in massive Nepal-Tibet flood&nbsp;&nbsp;Rural Radio Network",
+      "source_name": "Rural Radio Network",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTXlJRFg2WklpTEtoc3NvRG9PdEc5bXMxZGM0eWY4SGMwZkprdkV0bnFTT1lmOVA5NWM3X1lFbnNSWlhfVkJrMGZVblBwWUtyaDItclhZSE1JbzBrMlFYS1VUUWllQnl5ZUhmRjFUaldFMkJ4XzdIVHZ4YlF3dkkzQ05rVUV4cjlxMVljMVFFZm1sNllVUlo1bW9wT1ZsQklkczAwOFY0LUZlODc0UFBXR0p4OGtmY3JCMDlaRDJBM0VpUQ?oc=5"
+    },
+    {
       "id": "news-disaster-673c8063b5",
-      "lat": 37.2669,
-      "lng": -78.68445,
+      "lat": 37.24163,
+      "lng": -78.72175,
       "title": "Flood advisory issued for McCormick County Saturday evening triggered by intense rainfall",
       "category": "DISASTER",
       "time": "2026-08-29T19:13:06Z",
@@ -166,42 +188,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aNUhCV3psc1BSZVUyd2VUQ0VzRi1qX1EtRjltSjhuS3VvOGVwZEVCLXNpTU5rNG41ZWI5NmFLTllRVHNLZkdlYzc5Q2dyWHltVVNnZHR4Z09jVUw4eFNFV1Y1X0hVTnVWd243X3lXZmczT3JCWThr?oc=5"
     },
     {
-      "id": "news-disaster-bb58d20331",
-      "lat": 46.10208,
-      "lng": -1.19956,
-      "title": "Flash flood warning in place for Sampson County until early Saturday evening",
+      "id": "news-disaster-ace96b7338",
+      "lat": 51.20806,
+      "lng": -4.69194,
+      "title": "Earthquake of magnitude 2.4 recorded near Alberto Oviedo Mota, B.C., MX on Aug. 29",
       "category": "DISASTER",
-      "time": "2026-08-29T19:05:06Z",
-      "summary": "Flash flood warning in place for Sampson County until early Saturday evening&nbsp;&nbsp;Charlotte Observer",
-      "source_name": "Charlotte Observer",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40OTlfb1V4TVlFbGtUbnJDYWhqTlBSM21IcVpxdHc2LTA5TmtZME9OdTU1RW5sSXhDbGY3SUxQWURRSVQ2M1Y4czZseS11TDE4ZURIOTNCRHVhQ19ESzhjUnRaT2pOUVRvTnJLbGVxU21wVFFGcWNIcHlmRWxPZw?oc=5"
-    },
-    {
-      "id": "news-disaster-375d05e3a6",
-      "lat": 37.25862,
-      "lng": -78.73451,
-      "title": "Flood advisory for Dillon and Marion counties early Saturday evening, says the NWS",
-      "category": "DISASTER",
-      "time": "2026-08-29T18:58:08Z",
-      "summary": "Flood advisory for Dillon and Marion counties early Saturday evening, says the NWS&nbsp;&nbsp;The State",
-      "source_name": "The State",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wNkM0OVZLMUMxd3c2R1FJUWpPOUhUM2V4YWxremRvRFhwVW8tQXotQlE4RDRGb3JNb2RSSUJVSmY1MUEwaFQtRGE2MEZCNEZiREpKS1FyVGh0dFRQTUZuYm00SXo1T24zM2ZrT3p4Y3NlZw?oc=5"
-    },
-    {
-      "id": "news-disaster-fdbbd5be7f",
-      "lat": 28.4243,
-      "lng": 83.96559,
-      "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars",
-      "category": "DISASTER",
-      "time": "2026-08-29T18:43:05Z",
-      "summary": "Nepal resumes flood rescue, seeks technical help and billions of dollars&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5"
+      "time": "2026-08-29T19:13:06Z",
+      "summary": "Earthquake of magnitude 2.4 recorded near Alberto Oviedo Mota, B.C., MX on Aug. 29&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwamlqRGxlODN0M01VRHFNVVU2TVBZa01Dd21oa01hVWJWMlZob1NKcUx4SnY5a1BpQXZqT01tNWFGSHJOVXhqTjRWaFpQNVRxMVY4ZnJBZzlaMElXQTlHT1hrQjd2Rk13LXNIYVhzTzVscDJsWXBMR1lmVmU?oc=5"
     },
     {
       "id": "news-accident-7c0379a62c",
-      "lat": 1.34577,
-      "lng": 103.8088,
+      "lat": 1.30852,
+      "lng": 103.86123,
       "title": "Parksy.com Free Driver Tools In One App: Fine Appeals, Sign Scanning, Car Finding and Crash Reports",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:05:00Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-9407bb2c32",
-      "lat": -12.47036,
-      "lng": 131.02971,
+      "lat": -12.42899,
+      "lng": 131.01955,
       "title": "Driver critically ill after crash involving police car in East Ayrshire",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:58:39Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-d302983f78",
-      "lat": -18.42228,
-      "lng": 29.75099,
+      "lat": -18.40363,
+      "lng": 29.72353,
       "title": "Zimbabwe crash involving church minibus kills 27",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:50:39Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-b34cf2fb33",
-      "lat": 38.43708,
-      "lng": -95.8122,
+      "lat": 38.43391,
+      "lng": -95.89027,
       "title": "Lebo woman, 80, killed in head-on collision with semi-truck on I-35",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:37:00Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-95f1fe5481",
-      "lat": 33.57156,
-      "lng": 130.21834,
+      "lat": 33.60185,
+      "lng": 130.18994,
       "title": "新名神6人死亡 「ながら運転」トラック事故 巻き込まれ ひつぎの夫 骨だけに 悲しみ、怒り 法廷で",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:02:45Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-11a5e595a7",
-      "lat": 64.0888,
-      "lng": 11.65758,
+      "lat": 64.17697,
+      "lng": 11.61234,
       "title": "Five Hurt in Lee County School Bus Crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T16:57:03Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.88578,
-      "lng": 4.59631,
+      "lat": 46.97534,
+      "lng": 4.661,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.90955,
-      "lng": 4.62514,
+      "lat": 46.93706,
+      "lng": 4.60247,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.79532,
-      "lng": 139.51859,
+      "lat": 35.79131,
+      "lng": 139.58504,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.77245,
-      "lng": 135.59882,
+      "lat": 34.78161,
+      "lng": 135.59723,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.62784,
-      "lng": 139.76125,
+      "lat": 35.65829,
+      "lng": 139.71117,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.8433,
-      "lng": 135.59905,
+      "lat": 34.79519,
+      "lng": 135.56274,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -332,8 +332,8 @@
     },
     {
       "id": "news-technology-f7c0598255",
-      "lat": 38.90198,
-      "lng": -77.05368,
+      "lat": 38.87187,
+      "lng": -76.97964,
       "title": "OpenAI’s chief economist sees ‘care economy’ jobs growing in AI age",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T19:16:23Z",
@@ -343,8 +343,8 @@
     },
     {
       "id": "news-technology-567204f7d5",
-      "lat": 47.71118,
-      "lng": 13.65249,
+      "lat": 47.7186,
+      "lng": 13.61824,
       "title": "The Leadership Advantage AI Can’t Automate: Learning to Trust Your Inner Signals",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T19:04:44Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-8ef1138a56",
-      "lat": 34.75036,
-      "lng": 134.87758,
+      "lat": 34.71815,
+      "lng": 134.9261,
       "title": "AIのもと、電力とインフラが重要視される時代（藤野英人）",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T19:00:00Z",
@@ -365,8 +365,8 @@
     },
     {
       "id": "news-technology-3eeb80a7bf",
-      "lat": 38.90835,
-      "lng": -77.03587,
+      "lat": 38.92953,
+      "lng": -76.98571,
       "title": "AI hyperscalers issuing a flood of bonds are 'reverse crowding out' the Treasury as US debt soars",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T18:59:00Z",
@@ -376,8 +376,8 @@
     },
     {
       "id": "news-technology-94dacbb176",
-      "lat": 14.90704,
-      "lng": -3.86882,
+      "lat": 14.83233,
+      "lng": -3.84774,
       "title": "山口でセミナー「『AIに質問する』から『AIに任せる』へ」開催へ",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T18:30:40Z",
@@ -387,8 +387,8 @@
     },
     {
       "id": "news-technology-a403c74d99",
-      "lat": 12.99557,
-      "lng": 3.12542,
+      "lat": 12.98007,
+      "lng": 3.13248,
       "title": "アンドリーセン・ホロウィッツ、AIの物理的構築に11億ドル（約1,800億円）のファンドを設立",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T18:18:00Z",
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T19:33:34Z"
+  "updated_at": "2026-08-29T19:48:27Z"
 }
