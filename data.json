@@ -2,19 +2,19 @@
   "news": [
     {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.675,
-      "lng": -76.59763,
+      "lat": 39.64599,
+      "lng": -76.64342,
       "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-29T01:21:43Z",
-      "summary": "Venezuela's interim president, Delcy Rodriguez, hailed the deal as significant to her country's revival.",
+      "summary": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "news-politics-76c313ff41",
-      "lat": 8.34713,
-      "lng": 49.06017,
+      "lat": 8.35524,
+      "lng": 49.06951,
       "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
       "category": "POLITICS",
       "time": "2026-08-29T01:14:13Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-9ecbee51c6",
-      "lat": 51.74442,
-      "lng": -9.52892,
+      "lat": 51.66246,
+      "lng": -9.52078,
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "category": "POLITICS",
       "time": "2026-08-29T00:56:19Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-67a69b3950",
-      "lat": 39.74056,
-      "lng": -76.66083,
+      "lat": 39.68417,
+      "lng": -76.62898,
       "title": "Trump, Beef & Ballots",
       "category": "POLITICS",
       "time": "2026-08-29T00:50:06Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-348c8a3a74",
-      "lat": 51.35011,
-      "lng": 6.74275,
+      "lat": 51.43537,
+      "lng": 6.80855,
       "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "category": "POLITICS",
       "time": "2026-08-29T00:46:02Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-aab599e4fd",
-      "lat": 47.15847,
-      "lng": -71.90921,
+      "lat": 47.19673,
+      "lng": -71.84448,
       "title": "Jelly Roll Clarifies Political Views, Regrets Not Taking “Opportunity to Speak Up” at Grammys",
       "category": "POLITICS",
       "time": "2026-08-29T00:43:22Z",
@@ -68,19 +68,30 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.69867,
-      "lng": -76.63666,
+      "lat": 39.64413,
+      "lng": -76.57219,
       "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T01:21:43Z",
-      "summary": "Venezuela's interim president, Delcy Rodriguez, hailed the deal as significant to her country's revival.",
+      "summary": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-finance-eb16c172c5",
+      "lat": -33.86057,
+      "lng": 151.23477,
+      "title": "Is Visa’s AI Cybersecurity and New Markets Push Reshaping the Investment Case for Visa (V)?",
+      "category": "FINANCE",
+      "time": "2026-08-29T01:07:00Z",
+      "summary": "Is Visa’s AI Cybersecurity and New Markets Push Reshaping the Investment Case for Visa (V)?&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGVKVGE3UHk2Z1l2cFV6aGw3NE5zU0dsSkxwUERDVmFpTzA3VGFqRVB4a09xM25YQk1uOUIxU3NmWXRPcU5iTGdOR0VBMXBvcUZpYXJfUF9SUmJ6cGk3dDVvNndzNGR3eTlNdFlJOTV3dDctcjBJM1ZIOHJJcXZTandnc2FENnlpWUJjQTItQnpKNXE4T2tfdml0NVQ0eFU?oc=5"
+    },
+    {
       "id": "news-finance-2e507b41e9",
-      "lat": 25.21233,
-      "lng": 55.24851,
+      "lat": 25.20262,
+      "lng": 55.29398,
       "title": "ドバイ安全神話の崩壊 世界の金融ハブが直面する地政学リスク（TBS CROSS DIG with Bloomberg）",
       "category": "FINANCE",
       "time": "2026-08-29T01:00:35Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-5765688cc0",
-      "lat": 32.62931,
-      "lng": 54.53185,
+      "lat": 32.60883,
+      "lng": 54.51794,
       "title": "イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店",
       "category": "FINANCE",
       "time": "2026-08-29T00:50:00Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-fe76d07684",
-      "lat": 31.19263,
-      "lng": -84.70498,
+      "lat": 31.21195,
+      "lng": -84.7693,
       "title": "Miller Industries Reaffirms 2026 Outlook, Eyes $200M-Plus Military Production Pipeline",
       "category": "FINANCE",
       "time": "2026-08-29T00:01:00Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-bdd1ffa319",
-      "lat": 36.04291,
-      "lng": -115.25507,
+      "lat": 36.06552,
+      "lng": -115.27667,
       "title": "‘DraftKings Is Not a Blessing to Your Life’: Dave Ramsey to Gambler 31 Days Sober and $23K in Debt",
       "category": "FINANCE",
       "time": "2026-08-28T23:56:32Z",
@@ -122,20 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkFyYkZxSlFTeTQ2cWNJVzlWRmNObnRVNXVDWllXMmctU1JWT2xCRW5ub0JmcVVpYWE1d1JvXzFETmxSVUo5WE84YklobkF5Nkg0OU9WRVY2LWp0WkhxM2hwelduQm5rLXBjYk56TU0yV1BndEprdUExallfazltTjFBSW5rMWpuX0JhTm1lNFN0c0tmcmI5bDdmSDFiWkU?oc=5"
     },
     {
-      "id": "news-finance-bb611ab208",
-      "lat": 43.02534,
-      "lng": 141.40023,
-      "title": "レーティング週報【最上位を継続＋目標株価を増額】(2) (8月24日－28日)(株探ニュース)",
-      "category": "FINANCE",
-      "time": "2026-08-28T23:42:31Z",
-      "summary": "レーティング週報【最上位を継続＋目標株価を増額】(2) (8月24日－28日)(株探ニュース)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVE1TVkMzZ0w4NlV5VV80ck9VbVJodE1hekpFczhFVzd0bllmRXR3WFBCd254MHJtT2hpX21oR2huMDU0THZYSmlxSEpyRE1GdmZvYXNFck1peXdaX256UGFDdDE1OU50YzZfVUFXVXA3TVNHalpmbk5hTk9nd182Um1lUVc3TzA?oc=5"
+      "id": "news-disaster-6d2b79419f",
+      "lat": 36.47867,
+      "lng": -116.88691,
+      "title": "Death toll from catastrophic flood in Napal continues to rise",
+      "category": "DISASTER",
+      "time": "2026-08-29T01:20:00Z",
+      "summary": "Death toll from catastrophic flood in Napal continues to rise&nbsp;&nbsp;KXLY.com",
+      "source_name": "KXLY.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdTBMYU5BdFZ0b0NVRG8yanVRcEJwaE1XakNHNUZTTGNaeTI0V0xpLXlHWnFxQnBHOGdlZ2VQT2JabWtFb194ZHRiQmNOS0RCNXVpNUJzUEducG5TQVM5cnJBSkUwQ1NobzBjUE0tZVRydmVHc21pLUhRNHFhZXRFODlXdk04Zm1CcUdtTUpfOHR4VmtRUXdGRHpWOHlOemoxT1g2VzRpMWFfSTZmYXVtZ1VHNm1hQ0x4YlpTSno5STF5c2Jtd09YTmpGRmN6NER6T1E?oc=5"
     },
     {
       "id": "news-disaster-73ea3c4924",
-      "lat": 36.74097,
-      "lng": -118.73211,
+      "lat": 36.67785,
+      "lng": -118.7905,
       "title": "California couple recounts surviving deadly Nepal flood: \"I knew I was going to die\"",
       "category": "DISASTER",
       "time": "2026-08-29T01:05:00Z",
@@ -145,8 +156,8 @@
     },
     {
       "id": "news-disaster-6ca9a49d8a",
-      "lat": 35.06913,
-      "lng": 135.73643,
+      "lat": 35.05297,
+      "lng": 135.78664,
       "title": "シニア世代は「災害」とどう向かうべきなのか 「万が一」に備え「鍵」は日常的な交流（京都新聞）",
       "category": "DISASTER",
       "time": "2026-08-29T01:00:35Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-cfdcb3f5db",
-      "lat": 32.81952,
-      "lng": 130.73617,
+      "lat": 32.74747,
+      "lng": 130.72335,
       "title": "気仙沼市、熊本地震で被害の御船町に職員派遣 住居被害調査など支援（朝日新聞）",
       "category": "DISASTER",
       "time": "2026-08-29T01:00:00Z",
@@ -167,8 +178,8 @@
     },
     {
       "id": "news-disaster-1b42aff44a",
-      "lat": 46.18764,
-      "lng": -1.14833,
+      "lat": 46.1881,
+      "lng": -1.20275,
       "title": "Flash Flood Warning issued for Zion National Park, Gould Wash, Hurricane",
       "category": "DISASTER",
       "time": "2026-08-29T00:58:38Z",
@@ -178,8 +189,8 @@
     },
     {
       "id": "news-disaster-819ca65d68",
-      "lat": 33.16557,
-      "lng": -92.3161,
+      "lat": 33.1642,
+      "lng": -92.3787,
       "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
       "category": "DISASTER",
       "time": "2026-08-29T00:53:13Z",
@@ -188,20 +199,9 @@
       "source_url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-disaster-d8ae1f3b1d",
-      "lat": 48.63985,
-      "lng": -97.91843,
-      "title": "Mountain of broken fridges growing across England and Wales",
-      "category": "DISASTER",
-      "time": "2026-08-29T00:51:02Z",
-      "summary": "This year's multiple heat waves have increased the numbers of fridges and freezers breaking down.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "id": "news-accident-f606acc0e5",
-      "lat": 32.24007,
-      "lng": 70.41184,
+      "lat": 32.17663,
+      "lng": 70.401,
       "title": "米の日本製紙子会社の11人死亡事故 タンクの厚み不足指摘",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:17:50Z",
@@ -210,9 +210,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wYXA2eVQ1XzVwNjFPY3l5dWlCUmF0VlV1RXJNNF9nRkx1eWQzaXh6Q05RTGFfZDNNUFEyYXJvR2tIQXBxUTlnSEdoTTkxbF9oc3kzTlZtRlhQZWp0eWlB?oc=5"
     },
     {
+      "id": "news-accident-f7113947a0",
+      "lat": 59.52753,
+      "lng": 30.14465,
+      "title": "Crash closes Hwy 26 east of Hwy 103 junction in Clatsop State Forest",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T01:12:00Z",
+      "summary": "Crash closes Hwy 26 east of Hwy 103 junction in Clatsop State Forest&nbsp;&nbsp;KPTV",
+      "source_name": "KPTV",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUNHMVVwTlFIS2lMOEYwUEtRRHlzWDFYdkt2MmdvY3Fucm40MnU3ajlta191V3lxd282WDh5MzF2a2pEMFRZQzc0dUFSMkFEeXhTb1dNUXpSM3hXVjNtMHltdUd4Y1h3QUVsTGRPT2d4US1vNkRhZHRNV09LMWd0OUR6SW1ldVhxeHlWLTVRQ1lsNHllNnJwVGFPOA?oc=5"
+    },
+    {
+      "id": "news-accident-e7192ab556",
+      "lat": 36.02706,
+      "lng": 140.15984,
+      "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に?期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T01:00:35Z",
+      "summary": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に?期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPOVFTZFVOM053eUp0MVBZS1JNVlJ4ZFE2U3E1SzYwS1kyV1RsSWVXTDBWREdHN2FyVUJfN2lkbUNVMnUzVm9XNnBWMEVndUdsQjMzNXFXakJnNFhxZ2N4MndYNDNSNjZZYjJXVzdQa2ljRS1Gb2FiYTRXOElPWHc?oc=5"
+    },
+    {
       "id": "news-accident-994f627033",
-      "lat": -24.82581,
-      "lng": 134.73544,
+      "lat": -24.74706,
+      "lng": 134.75788,
       "title": "オーストラリア ・ライフセービング協会と日本ライフセービング協会で連携。水辺の事故を減らすために、豪日交流基金助成事業『Next Wave』プロジェクトを実施。",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:01Z",
@@ -221,31 +243,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51WG9NSEg4eDVNS3NVQWhZd1ZQMzVqOHdwZUR5YlRyWHNseGRscUNCWlQ2SE12b3loLVpHX0I0MC1abUl1TGRNV0xDa2dQWXk5YTVPelJSVFVxMUJnM2FlOEtUank4RGNfV0E?oc=5"
     },
     {
-      "id": "news-accident-1c889a88df",
-      "lat": 36.01708,
-      "lng": 140.10881,
-      "title": "【法定速度】生活道路は30キロ引き下げ　9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止　懸念は「あおり運転の増加」「タクシーへのクレーム」",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T01:00:00Z",
-      "summary": "【法定速度】生活道路は30キロ引き下げ　9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止　懸念は「あおり運転の増加」「タクシーへのクレーム」&nbsp;&nbsp;ｄメニューニュース",
-      "source_name": "ｄメニューニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05M0ktUmlGV0wyNDhad0tmUVVaNkI1ci13OHJKalFFMjgtWlcteTlFNllmN283LWlyODFqN2NYdzN0M01PaVNLMVNjMHlGZDUxUWNBb3dMSGVUelVjMThkNnhZQmRZUGxYVTd3bkJGLUdVdDRibjgxSzlWcErSAYIBQVVfeXFMT05qYnpGNWk3UkNpMXhCc2JSN3Q5Zm5aYml4NDBpdjFNc1Q4bHpQUnc4Q2kwYjF5LU1VR19OV0lKUUlERTZVbjUzRUQ1TTlQa3RvRGFMUkxTZmJ3MWc5WURfRWJka0o0aE9Sd0ljcGxSZDMxT0pkc2M2TzhKMENEdHhkQQ?oc=5"
-    },
-    {
-      "id": "news-accident-48e0d9ee69",
-      "lat": 36.02089,
-      "lng": 140.149,
-      "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T01:00:00Z",
-      "summary": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fakJvNmJ3Skpxb1JNNTE0MENWMVd5aTEyS2hCY1o4Ukdpa0pRdVZZTTdHSHZmLTRDRmJmT1F5cjFtV1ljTmg1dHR6aUZfWFhDSlhraUlaMk85Y3hDN2Zjd0diWU4?oc=5"
-    },
-    {
       "id": "news-accident-07b073be23",
-      "lat": 51.92241,
-      "lng": 15.57091,
+      "lat": 51.93809,
+      "lng": 15.5332,
       "title": "【ホラー】事故物件に霊がウヨウヨ、でも鈍感ルポライターは気づかない!?事故物件で起こる怪奇現象が笑いに変わるホラーコメディ【作者に聞く】（ウォーカープラス）",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-42ae8b3e89",
-      "lat": 36.03141,
-      "lng": 140.11672,
+      "lat": 36.03204,
+      "lng": 140.09131,
       "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」 | MBSニュース | 関西の最新ニュースを分かりやすく。",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:00Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-41b3158fb2",
-      "lat": 37.51014,
-      "lng": 126.94686,
+      "lat": 37.52495,
+      "lng": 126.89841,
       "title": "脳梗塞のため活動休止》サンド伊達 毎日鼻血、目の焦点合わず、妻から「顔色悪い」の指摘も…半年前に訴えていた“体調の異変”（女性自身",
       "category": "DISEASE",
       "time": "2026-08-29T01:18:21Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.31681,
-      "lng": 140.87281,
+      "lat": 38.31739,
+      "lng": 140.81776,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
       "time": "2026-08-28T23:04:05Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-c304749877",
-      "lat": 34.85761,
-      "lng": 135.12993,
+      "lat": 34.894,
+      "lng": 135.22333,
       "title": "歯みがきを怠ると口の中が「菌のゴミ屋敷」に！全身の病気リスクも高まる【眠れなくなるほど面白い 図解 口と歯の話】",
       "category": "DISEASE",
       "time": "2026-08-28T21:58:33Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-cd2ab2d092",
-      "lat": 35.63505,
-      "lng": 139.89673,
+      "lat": 35.63632,
+      "lng": 139.82844,
       "title": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む",
       "category": "DISEASE",
       "time": "2026-08-28T21:07:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-fbe37cb8c5",
-      "lat": 42.35163,
-      "lng": 141.02568,
+      "lat": 42.4171,
+      "lng": 141.08463,
       "title": "「来週ぐらいには戻ってたら」ソフトバンク山川穂高、右目の感染症療養からファームでの調整再開 実戦復帰は未定",
       "category": "DISEASE",
       "time": "2026-08-28T21:01:04Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-8975ca4b32",
-      "lat": 11.54026,
-      "lng": 104.83112,
+      "lat": 11.5684,
+      "lng": 104.84798,
       "title": "40万～60万円「赤ちゃんヘルメット」は本当に必要？ 絶壁頭矯正で急拡大、ビジネス化も…「病気が見落とされるリスクが」",
       "category": "DISEASE",
       "time": "2026-08-28T20:00:53Z",
@@ -331,9 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBib3p1S2sxdklWQy11VXBOS3pxa3pfNDAzUmFXSmNqQkFrcmFrZW1QSnduNnVjMl9vQlEzTS01TjZpSWFVTS15ek1keVhRcFl4dm0xVzhIMmc2cDZtTGRN?oc=5"
     },
     {
+      "id": "news-technology-f3ec9dcc58",
+      "lat": 34.60346,
+      "lng": 133.88941,
+      "title": "米タイム誌「2026年AI最重要100人」発表 黄仁勳氏、蘇姿丰氏がまさかの落選",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T01:35:00Z",
+      "summary": "米タイム誌「2026年AI最重要100人」発表 黄仁勳氏、蘇姿丰氏がまさかの落選&nbsp;&nbsp;BigGo ファイナンス",
+      "source_name": "BigGo ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mTVc5Q2ROZTNPbXY3Uk1GckhOaDFZOVVDV29UbHFqemJkV1pBejNlX2RJZENMa2RpdkFwREJVY1VjTFhQZ1FNQUpRUTFKZm5XcDA5YVZUR2I2aGp2MDZIU0tMVlZWZjZRdG5BOFBsN1h4M0hs?oc=5"
+    },
+    {
       "id": "news-technology-712d4da902",
-      "lat": -8.30126,
-      "lng": 115.54267,
+      "lat": -8.39196,
+      "lng": 115.56943,
       "title": "【AI内製化の現場とデータドリブン経営基準】 AI内製化経験者の約9割が、生成AIでのデータ活用・分析に「壁」を実感",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T01:27:22Z",
@@ -342,20 +353,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5raS0teS1VUXVHQmxNRVZ2MWlCSzJ1ZjdWSElDRE9BbmZaRjcyd2Q3eElfcXdzV0lNazdQS1ZGOGNRZlNJWDBsS1pVc2lnblBXZlNCQjJvODRiajZZbm1uSF9B?oc=5"
     },
     {
-      "id": "news-technology-573a1e96d8",
-      "lat": -7.65554,
-      "lng": -78.63362,
-      "title": "チームみらい安野党首 入閣は「ニュートラル」 高市総理にAIを“家庭教師”",
+      "id": "news-technology-a5e79d7b5c",
+      "lat": 38.92056,
+      "lng": -77.07614,
+      "title": "Opinion | The Pentagon loses a battle in its unnecessary war with Anthropic",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T01:12:13Z",
-      "summary": "チームみらい安野党首 入閣は「ニュートラル」 高市総理にAIを“家庭教師”&nbsp;&nbsp;テレ朝NEWS",
-      "source_name": "テレ朝NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45VXI5dWtWNmVfTDZhTF91U3lZeG11VHdZU0tsQmVzVkxtRTR5WUJDZjNFMGhQczNIcXBVdjZCZWg4S0F2NlFZTEF0cGdsMlBiM3RYdWEwdElCeVZtQy0tb2d5T1RNV1hRNGNMY0ZMZjhiQ0E?oc=5"
+      "time": "2026-08-29T01:22:43Z",
+      "summary": "Opinion | The Pentagon loses a battle in its unnecessary war with Anthropic&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVpaX1RfSmRzNzNYODhTLU5mRzFUYWNuT09yeFNSeUNzQlN5azlQRlhDa0JSdlRyN0ZkUmlJYXVWQjZnbTh4a2xWbHU3dWdJcnJQN0Nlazk4OG1pS1ZJTUE1MHZBSkctdlVVdktvZ2JCaFptem5BX2g5WFlzckZNQ29kV2tHbkhINU9jdFdjVWxrbVpJVkp1RFZoMEZoU1FYREdyaGFQQQ?oc=5"
+    },
+    {
+      "id": "news-technology-e82b3490cb",
+      "lat": -7.61749,
+      "lng": -78.6843,
+      "title": "チームみらい安野党首 入閣は「ニュートラル」 高市総理にAIを“家庭教師”（テレビ朝日系（ANN））",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T01:17:58Z",
+      "summary": "チームみらい安野党首 入閣は「ニュートラル」 高市総理にAIを“家庭教師”（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14WkF6ay1vSU1LRXlkbUxCU0xwUnp3ZEdaUXIzSkdGREE5ZWZPYmZSMjFsWDltRmlNZi0yRFRmVVF4eW9DVnQxOHZOZWhodkNTUmpXZ2U4b2hhZ1RQSjFIS0p4OGFoM0h1dklJSEdnNWhTTk9iMHVQWF9SVFdlSE0?oc=5"
     },
     {
       "id": "news-technology-89802f7f80",
-      "lat": 40.75577,
-      "lng": -96.64899,
+      "lat": 40.75123,
+      "lng": -96.70379,
       "title": "Lincoln Public Schools teaches AI literacy, saying critical thinking, not avoidance, is key to navigating it - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T01:09:00Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-4190b7ef5a",
-      "lat": 35.72484,
-      "lng": 139.71618,
+      "lat": 35.65655,
+      "lng": 139.81525,
       "title": "文教大学、AIと教員が共創する未来の学校を考える「教育フォーラム」を10/3に開催",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T01:05:04Z",
       "summary": "文教大学、AIと教員が共創する未来の学校を考える「教育フォーラム」を10/3に開催&nbsp;&nbsp;教育家庭新聞社",
       "source_name": "教育家庭新聞社",
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyd1R2TDV4dDFCR251dmw2WjJfQ2x0VmVWaUxVaW9oVnRaQnBXeDhGSTNNcEtjYkRGWU5XVXpWNTJpa0hnc0FiQi1sV1daT1kzQVM4?oc=5"
-    },
-    {
-      "id": "news-technology-e54d3c5e79",
-      "lat": 43.03119,
-      "lng": 141.34903,
-      "title": "競馬 - 2026年札幌日刊スポーツ杯 AI予想",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T01:01:27Z",
-      "summary": "競馬 - 2026年札幌日刊スポーツ杯 AI予想&nbsp;&nbsp;スポーツナビ",
-      "source_name": "スポーツナビ",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xMWVQVmU3Mjc3Rm1NNVV3R05mNDA1Y2w1cFRKYlNQcWxJVU84U0d5Rmh2ZU1TV3Z4V01RaWtELWF0NkFrV21aV0Z0RFU2S2o0b0xKQ1g0aHp3S2hNZDFlNVoyb2IwTmc1cWFj?oc=5"
-    },
-    {
-      "id": "news-technology-1c2656eae3",
-      "lat": 39.69232,
-      "lng": 141.17238,
-      "title": "盛岡市長「ＡＩアバター」に 市役所で窓口案内、観光情報を提供 全国初の対話型首長アバター",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T00:59:00Z",
-      "summary": "盛岡市長「ＡＩアバター」に 市役所で窓口案内、観光情報を提供 全国初の対話型首長アバター&nbsp;&nbsp;岩手日報",
-      "source_name": "岩手日報",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBySWROVmI3bU9tRnhXbWIxVG9hMFo1ZjR5N3RrNndsd0daZ2drV215VFdueThmMWpIeV8zWVl4aHVqTW9ZX2E0ZmVNcTBiS2g1cGUxdUFucDdsUlFYQ0Jodg?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T01:33:37Z"
+  "updated_at": "2026-08-29T01:48:16Z"
 }
