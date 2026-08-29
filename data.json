@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-0587307dea",
+      "lat": 50.46215,
+      "lng": 30.50251,
+      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+      "category": "POLITICS",
+      "time": "2026-08-29T09:38:07Z",
+      "summary": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-e348250488",
-      "lat": 42.16904,
-      "lng": 47.75314,
+      "lat": 42.13121,
+      "lng": 47.77038,
       "title": "US revokes visa of former Iraqi minister after watchlist listing",
       "category": "POLITICS",
       "time": "2026-08-29T09:20:21Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-a8e2caa745",
-      "lat": 35.34199,
-      "lng": 139.48645,
+      "lat": 35.40832,
+      "lng": 139.49632,
       "title": "「ワンヘルス」って何？ 地方政治を批判してもワンヘルスは嫌いにならないでください #エキスパートトピ（石田雅彦） - エキスパート",
       "category": "POLITICS",
       "time": "2026-08-29T09:19:44Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-b39be867dc",
-      "lat": 43.76191,
-      "lng": -87.92986,
+      "lat": 43.71932,
+      "lng": -87.94172,
       "title": "Sheboygan letter writer responds to GOP mailer on costs",
       "category": "POLITICS",
       "time": "2026-08-29T09:07:00Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-2f311422d3",
-      "lat": -41.4297,
-      "lng": -73.00162,
+      "lat": -41.45821,
+      "lng": -72.99767,
       "title": "Editorial: Politics muddles measles message",
       "category": "POLITICS",
       "time": "2026-08-29T09:04:40Z",
@@ -46,30 +57,41 @@
     },
     {
       "id": "news-politics-9188fcdc7f",
-      "lat": 38.88153,
-      "lng": -77.04693,
+      "lat": 38.8572,
+      "lng": -77.01607,
       "title": "This Appalachian memoir author is running as a Democratic contrast to JD Vance",
       "category": "POLITICS",
-      "time": "2026-08-29T09:04:30Z",
+      "time": "2026-08-29T09:02:42Z",
       "summary": "This Appalachian memoir author is running as a Democratic contrast to JD Vance&nbsp;&nbsp;The Washington Post",
       "source_name": "The Washington Post",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmRFNG9FNUlNM1ZFTHcybHpCX0x6TzZFSnctVk1EZUtvbkVPNVFlcDBYSkNWbjVKVWl0bV80QVpDQmdfSVlxajdnWHdaYUJ1Y19nV2NPcUpGUEF2VEY1QTludWFSUC04ckI3VXpsZ0NIVVVoLTB4YThGNE53QjJXOUl5NFZKbHd3aUNsMmh0S05LdVRrUVI2ajdBdlZibmFzZ2JrSTdnR1JOWHRCX0NVbVllYWdfTDQ?oc=5"
     },
     {
-      "id": "news-politics-6f2ae379c8",
-      "lat": 40.7273,
-      "lng": -73.96375,
-      "title": "In Georgia, Ossoff Courts Broad Appeal With an Anti-Trump Script",
-      "category": "POLITICS",
-      "time": "2026-08-29T09:02:16Z",
-      "summary": "In Georgia, Ossoff Courts Broad Appeal With an Anti-Trump Script&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmp6ZlhzNmp4OUdtQ0NzdEgtV0ZrS3JvWnVvejVubERkVXp4V3FMeGZmWENIU1lKNlpsRzNiS0p3SkNqZEJ3dU9rT19yTGI2N2hCVUttWkFMSWQ1b3JMUGZMM0tPUWdCLUZlZTN4M2V5dFhYU1loVjdtZFlwenM1cGo2c1BCdW9uV1M1NTJEbDY?oc=5"
+      "id": "news-finance-1d80f8c529",
+      "lat": 25.67312,
+      "lng": 51.45958,
+      "title": "奨学金330万円「消費者金融から借りたり夜バイトしたり」専門学校を中退した28歳女性の返済生活",
+      "category": "FINANCE",
+      "time": "2026-08-29T09:30:00Z",
+      "summary": "奨学金330万円「消費者金融から借りたり夜バイトしたり」専門学校を中退した28歳女性の返済生活&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRFVrX0dTV0xiMjgxeVk2V01IeEVWV2U0T3hIZG1Tc2N2VFBNRXlaVGNGNnVtSWljWFVHdTVtclJONlRPb0ZsRGtuMWNvc3pDWE1BR0Q5TDJVUk9QcVVGTlBXdUYycm90WktmdlZhQmdHYTRPSGRWTWRmeGhqVkY3alpxaEZZalU?oc=5"
+    },
+    {
+      "id": "news-finance-72d677ba12",
+      "lat": 40.69291,
+      "lng": -96.63384,
+      "title": "Covenant Logistics Eyes Higher-Return Growth as Freight Markets Recover",
+      "category": "FINANCE",
+      "time": "2026-08-29T09:01:55Z",
+      "summary": "Covenant Logistics Eyes Higher-Return Growth as Freight Markets Recover&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU1FuZjU4Z0pGcngyM0JXNmxrLS1qRXoyNDFJX1pudWFwWk5icThwNUFieGhfa1oxb0dLVHRldG5QTC1ucUx3M0pHcHVvRldlWl95bzNyR0xLN251TmxrcVVPNWttR0Z4bGhvckdqa3JZUUUtWXJtZG5XX19kTnRLV0xQNTMxay1GYnRsSEc4cThWSjQwMHZoTm4wVi1ZTmNkOGtzRg?oc=5"
     },
     {
       "id": "news-finance-1955098933",
-      "lat": 34.38421,
-      "lng": 132.40053,
+      "lat": 34.40018,
+      "lng": 132.41798,
       "title": "特殊詐欺防止へ 広島県警などが金融機関向けの研修会（2026年8月29日掲載）｜広テレ！NEWS NNN",
       "category": "FINANCE",
       "time": "2026-08-29T08:49:00Z",
@@ -79,8 +101,8 @@
     },
     {
       "id": "news-finance-8ba0f18cc6",
-      "lat": 39.35334,
-      "lng": -83.7471,
+      "lat": 39.37847,
+      "lng": -83.71152,
       "title": "Farmers Markets Saturday Forecast",
       "category": "FINANCE",
       "time": "2026-08-29T08:10:00Z",
@@ -90,8 +112,8 @@
     },
     {
       "id": "news-finance-a11a3a131d",
-      "lat": 34.23112,
-      "lng": 133.70068,
+      "lat": 34.23985,
+      "lng": 133.71253,
       "title": "英ポンド週間見通し：もみ合いか、英景況感の見極めも追加為替介入に警戒(フィスコ)",
       "category": "FINANCE",
       "time": "2026-08-29T07:22:00Z",
@@ -101,8 +123,8 @@
     },
     {
       "id": "news-finance-effb6c728c",
-      "lat": -19.67377,
-      "lng": -63.36832,
+      "lat": -19.58907,
+      "lng": -63.41888,
       "title": "ユーロ週間見通し：伸び悩みか、域内景況感は良好でも追加為替介入に警戒(フィスコ)",
       "category": "FINANCE",
       "time": "2026-08-29T07:22:00Z",
@@ -111,31 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1ptblp4SHhnTm9wek5pMllBaEtIY0FTWEhtY245Vy1hOWNrYkVKZHhfT3N4ckhYdk5hM1FabU5ocHljalBuRExHX0RBZlJySVZQSjVERTFodC1VWE1qQ244VzJnR1BPVGtsV0RPTEpwYXlQOU5STHI0cXFTYi1zWjlpYjlwcVk?oc=5"
     },
     {
-      "id": "news-finance-f17e40a140",
-      "lat": 52.14779,
-      "lng": 21.05748,
-      "title": "Investor Focus: Heatwaves Hit the UK Economy, FTSE 100 Reshuffle, and Where Next for Bitcoin?",
-      "category": "FINANCE",
-      "time": "2026-08-29T07:14:38Z",
-      "summary": "Investor Focus: Heatwaves Hit the UK Economy, FTSE 100 Reshuffle, and Where Next for Bitcoin?&nbsp;&nbsp;Morningstar",
-      "source_name": "Morningstar",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS2hBLS10UG9WMW9EYzhqSWNYdjVldDdDNE1OZDZtR2RQdjl6TFNSdnk5UEQydzZsbnFSUVhCZEZsM3JSWURMNVIxSWpWNVFBYnFfRlNpaXVYcUJsRjVrYVVIdXBRdlNYSjZESlRmM3JtX0Znc1hzNFJMU0hucU5VMWZoZFlad1doVjkzS2VqeXEzenZseU83WVVsN2FSenVSbmJLZFdEc0VVMHU1bVFuNmxyNnBjNFJGa0dsNXNUSQ?oc=5"
-    },
-    {
-      "id": "news-finance-d864c8c9e4",
-      "lat": 37.927,
-      "lng": 139.07874,
-      "title": "【金融機関特集】合併重ねて基盤強化…はばたき信用組合（新潟市江南区）それぞれの“強み”生かし地域経済に貢献 ゆきぐに信用組合（南魚沼市）、糸魚川信用組合（糸魚川市）紹介も",
-      "category": "FINANCE",
-      "time": "2026-08-29T06:40:00Z",
-      "summary": "【金融機関特集】合併重ねて基盤強化…はばたき信用組合（新潟市江南区）それぞれの“強み”生かし地域経済に貢献 ゆきぐに信用組合（南魚沼市）、糸魚川信用組合（糸魚川市）紹介も&nbsp;&nbsp;47NEWS",
-      "source_name": "47NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vWTZnS2h0Qlc4V1NBTDA5SXV1QXd2MnRvSmxSWnNXTzE4N01pU2hMS2I1aTJzdlNFQWxKME5JT05uRGRHOW1nNTA5VQ?oc=5"
+      "id": "news-disaster-dd907574d9",
+      "lat": 40.68688,
+      "lng": -73.96245,
+      "title": "Nepal Flood Death Toll Rises to Over 500 as New Flood Warning Clouds Search for Survivors: Live Updates",
+      "category": "DISASTER",
+      "time": "2026-08-29T09:25:16Z",
+      "summary": "Nepal Flood Death Toll Rises to Over 500 as New Flood Warning Clouds Search for Survivors: Live Updates&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84SXhPcHdJYlVSNHFudlhObU9acHZ4QVdqSnQ4TU5IUHRhUG4ySVdOTW1iR0VvZjFxcWFCNUswT2dyQ2xyQlpKM21UdkEycTlPXzdYdzdxb3ROQmNsLTlqTTFWX0pOVVhRYVMyNjVEWkJkbEptSlU0V2xR?oc=5"
     },
     {
       "id": "news-disaster-f0cceaf735",
-      "lat": 14.99773,
-      "lng": 114.95233,
+      "lat": 15.03505,
+      "lng": 115.05696,
       "title": "Chinese rescuers find ‘nothing but ruins’ at border crossing as Nepal seeks help to ID and store the dead",
       "category": "DISASTER",
       "time": "2026-08-29T09:08:00Z",
@@ -144,20 +155,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdkgxd1dfY2xOTUVYMTVmdkhLTXdmUkJEdmk1X1l4N0ZCQkR2empSN19aNl9tWXdDOHB1V3NnTU1YZEJNN19IdmZKMGRVVlNUaDNaQTJvemxIRHVRWEFWTnhCNExBTTRpNzV1ejJVWnRLUUNycWJEcW5kX1YzYk9XRklMNkFQNzAzenZXNlRvcXZfUTF6T0hWYXRSejhJT2hiT0kyT3JVaVdXSXFvejZEbUV6Uy0zUE5aV25TNlJ5VFlTNm14Y04yOURvU0kwSkVSTE82dHdNM2NBelIyWUJlTkQyYzhEOUE?oc=5"
     },
     {
-      "id": "news-disaster-dd907574d9",
-      "lat": 40.70784,
-      "lng": -73.97187,
-      "title": "Nepal Flood Death Toll Rises to Over 500 as New Flood Warning Clouds Search for Survivors: Live Updates",
-      "category": "DISASTER",
-      "time": "2026-08-29T09:06:32Z",
-      "summary": "Nepal Flood Death Toll Rises to Over 500 as New Flood Warning Clouds Search for Survivors: Live Updates&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84SXhPcHdJYlVSNHFudlhObU9acHZ4QVdqSnQ4TU5IUHRhUG4ySVdOTW1iR0VvZjFxcWFCNUswT2dyQ2xyQlpKM21UdkEycTlPXzdYdzdxb3ROQmNsLTlqTTFWX0pOVVhRYVMyNjVEWkJkbEptSlU0V2xR?oc=5"
-    },
-    {
       "id": "news-disaster-814d20d01d",
-      "lat": 40.76568,
-      "lng": -74.05801,
+      "lat": 40.70531,
+      "lng": -73.97851,
       "title": "Catastrophic Flood Exposes the Risks of Nepal’s Hydropower Bet",
       "category": "DISASTER",
       "time": "2026-08-29T09:04:01Z",
@@ -167,8 +167,8 @@
     },
     {
       "id": "news-disaster-09add83c88",
-      "lat": 32.8253,
-      "lng": 130.69272,
+      "lat": 32.82547,
+      "lng": 130.78826,
       "title": "熊本地震後初の仮設住宅が完成 氷川町に20戸整備 9月5日から入居開始へ【令和8年熊本地震】",
       "category": "DISASTER",
       "time": "2026-08-29T09:00:00Z",
@@ -178,8 +178,8 @@
     },
     {
       "id": "news-disaster-107f41b7ed",
-      "lat": 43.07413,
-      "lng": 141.39138,
+      "lat": 43.04101,
+      "lng": 141.38637,
       "title": "災害時に「どう対応？」スタンプラリーで防災訓練 災害救助犬のデモンストレーションも 札幌",
       "category": "DISASTER",
       "time": "2026-08-29T08:57:00Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-d63cd3952d",
-      "lat": 33.79847,
-      "lng": 130.45492,
+      "lat": 33.71441,
+      "lng": 130.48617,
       "title": "【気象情報】北陸地方では土砂災害に厳重警戒 西日本から北日本の広範囲で局地的に激しい雨や大雨のおそれも 土砂災害・河川の増水・低い土地の浸水に注意【雨と風のシミュレーション】（RCC中国放送）",
       "category": "DISASTER",
       "time": "2026-08-29T08:45:30Z",
@@ -199,9 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CRktsZlh4eXpKeDlkR0s5Q2lGQlE5YnF2dmtJcGZoeDFaWm5TQVQ3ZU44amYwVl9uTllMeVYtak95RlEyN2FPUjNwd1Y4c044UzV4RVlUaVBjV0JrSFBCUTd1X1JsenJTanpoY1dEYlJmc3ZnTHdfVHB6M3puVkU?oc=5"
     },
     {
+      "id": "news-accident-b1af512c22",
+      "lat": 31.57341,
+      "lng": 130.56079,
+      "title": "行方不明の中高生３人を発見 全員の死亡を確認 いちき串木野市沖海難事故（鹿児島ニュースＫＴＳ）",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T09:28:01Z",
+      "summary": "行方不明の中高生３人を発見 全員の死亡を確認 いちき串木野市沖海難事故（鹿児島ニュースＫＴＳ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93S1lwTUdVM2p5NkxvSlk1MkhTbFdia09TR0Rva0stRlN1Nk94alNSbnRDZEZTMTNwTzh1Z0paTm9Ka3FhRDU2UklqZkhBUmwwdV9idFVNcHEyV1FtT09Tb0JhUks1OEtVVXdoY0lDZ1ZaSGxhTmkzaTlmMWF4alk?oc=5"
+    },
+    {
       "id": "news-accident-7e2264d327",
-      "lat": 38.32788,
-      "lng": 140.8794,
+      "lat": 38.24757,
+      "lng": 140.84162,
       "title": "東京電力福島第一原発事故の除染土 宮城県内で利用開始 仙台合同庁舎に１立方メートル搬入し花壇の土に利用 周辺では抗議の動きも",
       "category": "ACCIDENT",
       "time": "2026-08-29T09:25:05Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-7cffd95c6c",
-      "lat": 38.25877,
-      "lng": 140.81917,
+      "lat": 38.27851,
+      "lng": 140.82035,
       "title": "東電福島第一原発事故の除染土を花壇に活用…仙台",
       "category": "ACCIDENT",
       "time": "2026-08-29T09:20:00Z",
@@ -221,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Zc1NRa2VPS08xZGJCWnRKTWFWdGwtck1JRWJlMUQ0aGR5akp4ZnZYRklScUJ6dU8xSmpWU1BNWHFkenM0dml3R2dRNzdQYjhoNXdj?oc=5"
     },
     {
+      "id": "news-accident-54e63d981a",
+      "lat": 34.17699,
+      "lng": -118.38189,
+      "title": "郡山市の死体遺棄事件 容疑者を送検「妹の死に直接関与」ほのめかす供述 | ふくしまNEWS - KFBデジタル -",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T09:16:00Z",
+      "summary": "郡山市の死体遺棄事件 容疑者を送検「妹の死に直接関与」ほのめかす供述 | ふくしまNEWS - KFBデジタル -&nbsp;&nbsp;kfb.co.jp",
+      "source_name": "kfb.co.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GNlBsZDVQNWNmN3FFYjJMSnZsQ3d2Y1VGTG1aYWNXeG5HaTlRd0FrNFRtc0hpQnFrQkxWdExZWENPMEw3WFh3UGFQS0JpbW1wSVVEMlhR?oc=5"
+    },
+    {
       "id": "news-accident-91d6988e92",
-      "lat": 37.87334,
-      "lng": 139.03092,
+      "lat": 37.93024,
+      "lng": 139.01496,
       "title": "［道路情報］新潟バイパス黒埼ＩＣ付近、事故で通行規制（8月29日）",
       "category": "ACCIDENT",
       "time": "2026-08-29T09:10:00Z",
@@ -233,8 +255,8 @@
     },
     {
       "id": "news-accident-df5550d436",
-      "lat": 34.93448,
-      "lng": 138.40187,
+      "lat": 34.96199,
+      "lng": 138.32375,
       "title": "工場でタンクが破裂する爆発事故 巻き込まれた男性従業員が背骨を折る重傷 静岡・袋井市（静岡朝日テレビ）",
       "category": "ACCIDENT",
       "time": "2026-08-29T09:09:47Z",
@@ -243,31 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rTG1FaUEwbHIwVnVUcWROaWpUaDI4Y1dCT3FYUGpNM2l3eF9sV3FnUWc4aHFUM09rTW9GdkJrN21sR25rWUtIaXJQM19kMU13UzJfTWQ1c2lCeFZpa2kzaG1LNUluZGgxc2djRnUtNVF5eWpTVG44clVpWjBKQkE?oc=5"
     },
     {
-      "id": "news-accident-ddef50f938",
-      "lat": 35.68553,
-      "lng": 139.79308,
-      "title": "「スペーシアX」4人死亡事故 見張り員「退避していると思った」（ANNニュース）",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T09:08:00Z",
-      "summary": "「スペーシアX」4人死亡事故 見張り員「退避していると思った」（ANNニュース）&nbsp;&nbsp;nagoyatv.com",
-      "source_name": "nagoyatv.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EcDlJVGdTNHhvVEs5a1B5S1JFNmRfRXAzdFlkMlI2UEhpX2FTZVhPV2ZXUnZySXhLdkM4WkxWVWRQWEJLSlp2UE9Wamt3dGNidWpNUi1lSG9JWGdvbTJSNGtJTmo?oc=5"
-    },
-    {
-      "id": "news-accident-fbbcf6c042",
-      "lat": 35.75134,
-      "lng": 139.80254,
-      "title": "「スペーシアX」4人死亡事故 見張り員「退避していると思った」",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T09:06:16Z",
-      "summary": "「スペーシアX」4人死亡事故 見張り員「退避していると思った」&nbsp;&nbsp;テレ朝NEWS",
-      "source_name": "テレ朝NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ma1hjUUNKdFQ1bWpNSnZUN041d3Z6UEJEX205bXBBZWxzdk15dmN6ei1sb2ZJczBzY1paMUFmelEyd0o5eGttUXBrbGRhR2ViUDlJX0wwdktkdDk5Q0NVZ3ZCczVLQ1dub1FyRHRkVHhrQQ?oc=5"
+      "id": "news-disease-1e07a9a95a",
+      "lat": 46.87777,
+      "lng": 4.57777,
+      "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
+      "category": "DISEASE",
+      "time": "2026-08-29T09:30:36Z",
+      "summary": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WM1VyS29EeEh0T2JubHlCWlJtS2o5N2hhSEpyMjhYT1AtYjBNVTQzVkxFYjIyaG9GZmZNMmJILXFrZE4zWFhkczN2UExBZjRpVkZZek1QNjU5N3ZPU1VJVFhrVnZrZUx4QjBZaDBhRHU0Vm5mbjZfdjN0akpBdUk?oc=5"
     },
     {
       "id": "news-disease-105bc34909",
-      "lat": 35.77208,
-      "lng": 139.54607,
+      "lat": 35.77744,
+      "lng": 139.56166,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」（日刊スポーツ）",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:14Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.81342,
-      "lng": 135.59437,
+      "lat": 34.79553,
+      "lng": 135.53925,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.62175,
-      "lng": 139.72006,
+      "lat": 35.654,
+      "lng": 139.79224,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.8664,
-      "lng": 135.59599,
+      "lat": 34.81045,
+      "lng": 135.54102,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.24087,
-      "lng": 140.8583,
+      "lat": 38.22413,
+      "lng": 140.87914,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
       "time": "2026-08-28T23:00:00Z",
@@ -320,20 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96YmdQX01VZWlqZDZxZW4zVmlQUXZubmYzX0dyWXNEV0pCVjlrSnBTaThKbENhdHNzRm5SendTR0h0VGg2blN2RXRsWThtbmx5VlRNd1h4YjZtVk9TUktjOXNnam9JeEM2ZGN2YzJJX21vWEp5WW15VHRPSmhqRVk?oc=5"
     },
     {
-      "id": "news-disease-cd2ab2d092",
-      "lat": 35.71229,
-      "lng": 139.8333,
-      "title": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む",
-      "category": "DISEASE",
-      "time": "2026-08-28T21:07:00Z",
-      "summary": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む&nbsp;&nbsp;LIMO | くらしとお金の経済メディア",
-      "source_name": "LIMO | くらしとお金の経済メディア",
-      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmOVNOTkdjLURwZkdLMGVzSy1LWWpGWHdaRDc4b19KMFZFOUhudVhmbjZkMnZxZER3TXYyaHRpeTluay1LUG9SN0ZQRWw?oc=5"
+      "id": "news-technology-1dbb6dc631",
+      "lat": 38.97687,
+      "lng": 125.7896,
+      "title": "Scientists are using AI to track permafrost thaw as Arctic lakes vanish in hours",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T09:30:00Z",
+      "summary": "Scientists are using AI to track permafrost thaw as Arctic lakes vanish in hours&nbsp;&nbsp;Fortune",
+      "source_name": "Fortune",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSzg2dllEZEw4LUJwblhkYjZ6Q1A5UzhKWE9Fa0cza1pFTVZuUENnSkhWWDRERmxDZXhjajhNSko0T0ZJcTBMdWdiYXlnV1J5UnhHTWpPV3FyV0drQmtIdlI4c2hNLV83Nng4X3N6UHhCZw?oc=5"
     },
     {
       "id": "news-technology-474fe8f30a",
-      "lat": -23.68663,
-      "lng": 21.78539,
+      "lat": -23.73555,
+      "lng": 21.76628,
       "title": "One CEO's fix for AI-generated slop: Make new hires learn their jobs without AI",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T09:22:30Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-7cde6674b1",
-      "lat": 51.5412,
-      "lng": -3.23189,
+      "lat": 51.59606,
+      "lng": -3.26213,
       "title": "What’s the difference between proprietary, open weight, and open source AI?",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T09:08:33Z",
@@ -354,8 +365,8 @@
     },
     {
       "id": "news-technology-cf89b26f46",
-      "lat": 35.13874,
-      "lng": 136.98721,
+      "lat": 35.13054,
+      "lng": 137.00905,
       "title": "AIモデル企業が100ドル稼ぐごとに35～40ドルが三大クラウドへ流出",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T09:05:00Z",
@@ -365,8 +376,8 @@
     },
     {
       "id": "news-technology-af38908efa",
-      "lat": 57.53124,
-      "lng": 12.71219,
+      "lat": 57.45648,
+      "lng": 12.74845,
       "title": "Mark Zuckerberg's Meta Just Open-Sourced Its Most Powerful AI Model to Take on OpenAI and Anthropic. Should Investors Watch Meta's AI Spending Closely?",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T09:05:00Z",
@@ -376,25 +387,14 @@
     },
     {
       "id": "news-technology-bcd1c4b3ab",
-      "lat": 21.56607,
-      "lng": 93.81996,
+      "lat": 21.57572,
+      "lng": 93.86431,
       "title": "正門良規×川島如恵留が語る“人間らしさ”。AI時代に描く『Chat Boy』の魅力（GINGER）",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T09:04:09Z",
       "summary": "正門良規×川島如恵留が語る“人間らしさ”。AI時代に描く『Chat Boy』の魅力（GINGER）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLbjB1VGdEVzhLZnMxQWlmSmk2bVJnT1J6SkNfd1A0NzN1T2xxdFZOal9pUDIyZTFpWEVXb3RESnp0Ykh5QnRpYWplZkFCSzBpTHR5TFo2SW1hRWdlcGtTYnVXa0VDbzRXejZVYmNmNlhyZWFQbW5oSUZXWnByNTA?oc=5"
-    },
-    {
-      "id": "news-technology-0c1335273c",
-      "lat": 38.90424,
-      "lng": -77.02041,
-      "title": "The Fed confronts a powerful new economic force",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T09:02:15Z",
-      "summary": "The Fed confronts a powerful new economic force&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T09:33:38Z"
+  "updated_at": "2026-08-29T09:48:30Z"
 }
