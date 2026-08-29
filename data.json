@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-a73fc3e497",
+      "lat": 57.98168,
+      "lng": 7.63435,
+      "title": "Meet the Black candidates seeking history in governor's races this fall",
+      "category": "POLITICS",
+      "time": "2026-08-29T07:00:00Z",
+      "summary": "Meet the Black candidates seeking history in governor's races this fall&nbsp;&nbsp;USA Today",
+      "source_name": "USA Today",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdFNNXzZYWk5QamkzRnMtR2xuUDFvZVV1dEtpWjVhWW1OQjQ5R2JNbzJubHk1R1Y4TWVhN1o2eDFoVGRSSWgtOEZYLTRFaWpDY1VxOVFDUEdWcTNiSXZUdmRnMEJ2Uy12blZ0SHJtSmdOY0xRb09IYXlwUVByLTBfYTh4YUhaeHVhOTBEbTBzWnBOSnJBaVpDdDM2Y25acERLd2FSMXd2d1U1QmpSbkRIZUxUUWUzeFRMQ0NobnkzdGpsMGVBTUE?oc=5"
+    },
+    {
       "id": "news-politics-7298cba6b9",
-      "lat": 33.36924,
-      "lng": -88.01217,
+      "lat": 33.35518,
+      "lng": -88.05819,
       "title": "Reform UK council leader: 'Climate emergency was gesture politics'",
       "category": "POLITICS",
       "time": "2026-08-29T06:42:22Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-c8c5fc74d0",
-      "lat": 35.65032,
-      "lng": 139.684,
+      "lat": 35.59745,
+      "lng": 139.64403,
       "title": "ダンカン村は9月2日を機に政治活動を行い、党バッジを配布した。",
       "category": "POLITICS",
       "time": "2026-08-29T05:29:41Z",
@@ -23,20 +34,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUVGLUZEcDZiQ28wNFhxd0Z3ekdRT2tULTFNOWFaWVpFWXpJRTFpWUZNT3VuaVlzX0ZLVU1TYjFkVzRLSGpLaUl0X0FzLXBzOWxZUXJDT3lEXzNDWlNYTndhVFJ0ald2RWxVdmdMaXNCd3BTalYzQ29tWGhPdzZ1TGh6QU95Ty1VaEFSX1lzaXZQeWJ2T2NpSmhiNW95MWFHanRZ?oc=5"
     },
     {
-      "id": "news-politics-d5b2249edb",
-      "lat": 37.3567,
-      "lng": -76.46432,
-      "title": "Money, Power, Politics with Stephanie Ruhle",
-      "category": "POLITICS",
-      "time": "2026-08-29T05:25:35Z",
-      "summary": "Money, Power, Politics with Stephanie Ruhle&nbsp;&nbsp;MS NOW",
-      "source_name": "MS NOW",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PTE5GQ25yZVVTRy1EenM3M2JidnlkNlNXSmllUFQwUFhMZG5zYWlGS2ltcU9kSHFrRk9YMlpHT0xpUzhJRmxUQzVQN3NXVU9O?oc=5"
-    },
-    {
       "id": "news-politics-13ac888c1f",
-      "lat": 35.06949,
-      "lng": 135.82486,
+      "lat": 34.97357,
+      "lng": 135.77501,
       "title": "コラム凡語：政治家の言葉",
       "category": "POLITICS",
       "time": "2026-08-29T04:49:18Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-3ff794d197",
-      "lat": 33.54851,
-      "lng": 130.34206,
+      "lat": 33.61859,
+      "lng": 130.45948,
       "title": "鈴木おさむ氏「追及されず、政治不信につながる」 福岡県議会・蔵内勇夫前議長の議員辞職に言及",
       "category": "POLITICS",
       "time": "2026-08-29T04:40:47Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-894393df88",
-      "lat": 33.61126,
-      "lng": 130.41204,
+      "lat": 33.62707,
+      "lng": 130.44463,
       "title": "鈴木おさむ氏「追及されず、政治不信につながる」　福岡県議会・蔵内勇夫前議長の議員辞職に言及",
       "category": "POLITICS",
       "time": "2026-08-29T04:32:00Z",
@@ -68,8 +68,8 @@
     },
     {
       "id": "news-finance-d864c8c9e4",
-      "lat": 37.84372,
-      "lng": 139.00045,
+      "lat": 37.93726,
+      "lng": 139.00601,
       "title": "【金融機関特集】合併重ねて基盤強化…はばたき信用組合（新潟市江南区）それぞれの“強み”生かし地域経済に貢献 ゆきぐに信用組合（南魚沼市）、糸魚川信用組合（糸魚川市）紹介も",
       "category": "FINANCE",
       "time": "2026-08-29T06:40:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-337872fb48",
-      "lat": 37.85361,
-      "lng": 139.04495,
+      "lat": 37.96066,
+      "lng": 138.9703,
       "title": "【金融機関特集】合併重ねて基盤強化…はばたき信用組合（新潟市江南区）それぞれの“強み”生かし地域経済に貢献",
       "category": "FINANCE",
       "time": "2026-08-29T06:30:00Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-88c5229035",
-      "lat": -20.61239,
-      "lng": 161.22487,
+      "lat": -20.63197,
+      "lng": 161.23379,
       "title": "Exclusive-Nepal Needs at Least $4 Billion for Rebuilding, Finance Minister Says",
       "category": "FINANCE",
       "time": "2026-08-29T04:49:12Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-ca3dd24fe3",
-      "lat": -20.58507,
-      "lng": 161.16514,
+      "lat": -20.60502,
+      "lng": 161.17167,
       "title": "EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild",
       "category": "FINANCE",
       "time": "2026-08-29T04:38:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-3bbee91650",
-      "lat": 50.7108,
-      "lng": -4.24008,
+      "lat": 50.71074,
+      "lng": -4.22653,
       "title": "Nearly two years after Helene, Asheville protesters say recovery unfinished as G20 meets",
       "category": "FINANCE",
       "time": "2026-08-29T04:02:10Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-1bda4653f6",
-      "lat": 38.27605,
-      "lng": 140.8484,
+      "lat": 38.28289,
+      "lng": 140.88505,
       "title": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）",
       "category": "FINANCE",
       "time": "2026-08-29T03:48:19Z",
@@ -133,20 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwS1lNd1JkSllWYUhhc1BaUktHd0ZzYTB0RzVHa0M5YzdJb3lqckNsai1NUERBcEtXRmtGdDgxblBqcEVxMkVJRkJXRlVFbU94MkE?oc=5"
     },
     {
-      "id": "news-disaster-f8b7c0d850",
-      "lat": 28.42026,
-      "lng": 83.98407,
-      "title": "Nepal-China flood rescue enters fourth day as death toll and missing count rise",
+      "id": "news-disaster-516312c643",
+      "lat": 46.06794,
+      "lng": 18.21981,
+      "title": "FEMA Review Council Recommendations for the National Flood Insurance Program",
       "category": "DISASTER",
-      "time": "2026-08-29T06:56:57Z",
-      "summary": "Nepal-China flood rescue enters fourth day as death toll and missing count rise&nbsp;&nbsp;NBC Bay Area",
-      "source_name": "NBC Bay Area",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdGt6R3lTY01LVlFUSmRNTEdmd3JzWFpCZC1ndjVzRDlEX2tYOWNLbkZyQmtsTF9aem9xX3FDNVdlcTFqOHkxOXY5aUd3VFEzNURtMlcwdFZWWGo4Z2s1d1hmdWtCeF9UcFBNNHJUM3M5Y1NTQWtjQlg0eWlyR0ZJNmFXX0drdElVWkdaRHJVSERYOUd6STk0ampBWmQtVkdMVzRuY2ZQMkU0RjR3cktzSHhhM0pCdWxncTl0Q25ibzBfVEFpTDZISdIB0AFBVV95cUxNUnhHYTJ2bHk1YjBGQzV6T2Jod2JLZWN0Sk9MTjhOMWt2eWxJOENjZlJ5QnJRTXNPbUxrYzRpVEJHM3hXcWRyY3hJcHUtX0tyLVFtbnV4LU5FLTZJQVB6T0dxbkZsUXhvZ1pmSng3R1hFS2RwaFNfcUJMZXhXWEdEdVZzRHNQVTFHalNXMVJlNHJVOFhaUmxEc3pYVkdOVlhTNDBWRDJhX09TSllqMnViemJBSEVpOVpKbXZrZG9yc2puUV9vbEdOSnZaOWw1QW5x?oc=5"
+      "time": "2026-08-29T07:08:23Z",
+      "summary": "FEMA Review Council Recommendations for the National Flood Insurance Program&nbsp;&nbsp;Every CRS Report",
+      "source_name": "Every CRS Report",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwVFpwUFc5VDA4WWdkblIxYkRpNkJ4WmVDSWRrWHlvNjF1SXlRNWxhRk05Q3JjYU8tS1BfN3c0Z0VnVzRROWstcDVEajhIdnRjNmFwS1JWRmIxSDhZQkdOVw?oc=5"
+    },
+    {
+      "id": "news-disaster-24b5829b57",
+      "lat": 28.43444,
+      "lng": 84.04145,
+      "title": "Nepal and China resume flood rescue as death toll surpasses 600",
+      "category": "DISASTER",
+      "time": "2026-08-29T07:04:12Z",
+      "summary": "Nepal and China resume flood rescue as death toll surpasses 600&nbsp;&nbsp;Al Jazeera",
+      "source_name": "Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFpCbVNKQmk1RXRwMzdtQ0lnSUVEVGQ1SVQwaTZ2N2MtRlpVTGRfRVh2ZENJM0Z4cXZSbUMwM0NGd3JnOVlhdGtaM1VZSUtsQ25Pa1owY19VLWljekVrOXVfbjg1MkN5cDZjalVrcURQdWo5MFhDaFdUS3JrWFY2aDJEVDczTHJEaDVBd1dhYnNRWk5WR2NjQlhDTVA0V2FXdUHSAacBQVVfeXFMT2pidHFmRXFDSGEwczQxQnpTcEg3a2ZJZ3RHUlFyUlBENmpnZkZQeDlZUEN4ZWVJSzRqNWYyenhvellWZWlwZjlNU2FXVXNqZWNaSWViSzhHVGM0R3VkX2J2Zkc2NEdocEthQWg4VG1yREtsS2tZMWVCSHE3TjVBdkppdE5NZVlhQnZkdV9FcTlUUzFzUkNLVFI4U0ZKenowZld6a1hvSDQ?oc=5"
+    },
+    {
+      "id": "news-disaster-9659b39592",
+      "lat": 32.74864,
+      "lng": 130.74529,
+      "title": "熊本地震の断水解消、1カ月で実現できた事情 次の課題は屋内配管",
+      "category": "DISASTER",
+      "time": "2026-08-29T07:00:00Z",
+      "summary": "熊本地震の断水解消、1カ月で実現できた事情 次の課題は屋内配管&nbsp;&nbsp;朝日新聞",
+      "source_name": "朝日新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWHhza1dsZUwzbVZmRnQtT1k5Nm9wVF9xTzduLWpxN0tzUFQ3cHlDMlJDY0VlcU43bmZsNmk1eE45RXJ0RFlXZ3B4aGRMSjdmTVJtbWdYU2hTSndPV2otTVhEMV9kSTA?oc=5"
     },
     {
       "id": "news-disaster-b012c5c906",
-      "lat": 28.42323,
-      "lng": 84.00425,
+      "lat": 28.42028,
+      "lng": 83.99958,
       "title": "Nepal flood death toll surpasses 600, with more than 3,000 missing, as poor weather hampers rescues",
       "category": "DISASTER",
       "time": "2026-08-29T06:50:11Z",
@@ -155,31 +177,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGJUTWZJUTI3S3FUSF9oSGFIVnNxQzhWVDZ3eUMzbnRjcGtJZFJJbS1TZnpveGFkOHIydU9iRlk5VE56UGJmNkY0OWloaWlKaEY5WG5jWkUwakVMUFlUSmNvOFhsb3llVkJ4QzZKaWlBTEVLR09mZG1FaHdhNkNaajgtOEg?oc=5"
     },
     {
-      "id": "news-disaster-e703df13c2",
-      "lat": 32.84338,
-      "lng": 130.76895,
-      "title": "【ボートレース】米丸乃絵が熊本地震災害復興のため初優勝の賞金を全額寄付（日刊スポーツ）",
-      "category": "DISASTER",
-      "time": "2026-08-29T06:48:22Z",
-      "summary": "【ボートレース】米丸乃絵が熊本地震災害復興のため初優勝の賞金を全額寄付（日刊スポーツ）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DU1RLRDgtY3VkN0tYeXZOTFg1N0hSYlBDRGVHTExSa2pKVTFueVFtRkNjRWZ1X3YzQW8tdnlYNUFKM2tpYXU5UkhMeDdObjNzVlRqWF9OSlNhdHNUVEQ5Um8yZGtEb0VjWmZiVmFybXhId3p4bFdEMFl4bzUzVkk?oc=5"
-    },
-    {
-      "id": "news-disaster-422445a0b1",
-      "lat": 54.48691,
-      "lng": -6.2444,
-      "title": "Risk of lake burst near China-Nepal border disaster site wanes",
-      "category": "DISASTER",
-      "time": "2026-08-29T06:10:00Z",
-      "summary": "Risk of lake burst near China-Nepal border disaster site wanes&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORE5FMUQ3cGJsTU9PeWsxdEEyR3NyRkhHQ09oQUh3MXR6XzBuUFpoYmRxcllSa0s5SkpnVWtTN0xXRy1IQTFWd0xkX2ItVHZ6ZlJIa1Zhdi1LX1ZGZV84eWdEeWhQdTZtRzhFcmhrTDBzM3MzbDRkSVZLcmNtVVdobVVzUGgxQi1hbG90aGp2RkVwcGU4NGZHMkY5QjN2ZS1fZzF2NGRXWHU2ajhnMDlZd1N2QTF0eWM?oc=5"
-    },
-    {
       "id": "news-disaster-e41d7b7d0d",
-      "lat": 34.24328,
-      "lng": -102.46722,
+      "lat": 34.18514,
+      "lng": -102.4342,
       "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
       "category": "DISASTER",
       "time": "2026-08-29T06:05:15Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-23fac33685",
-      "lat": 32.82844,
-      "lng": 130.77912,
+      "lat": 32.77894,
+      "lng": 130.73499,
       "title": "2026年熊本地震＞建設型仮設住宅が氷川町で完成 県内初、9月5日入居開始（熊本日日新聞）",
       "category": "DISASTER",
       "time": "2026-08-29T05:55:22Z",
@@ -200,8 +200,8 @@
     },
     {
       "id": "news-accident-1a4cf6d758",
-      "lat": 33.53674,
-      "lng": 130.41856,
+      "lat": 33.5446,
+      "lng": 130.36782,
       "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問（読売新聞オンライン）",
       "category": "ACCIDENT",
       "time": "2026-08-29T06:57:44Z",
@@ -210,9 +210,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jMHFUc0dMdkNNTUNJb3k0VHNLVWozZjNmOUpweFpkb2diaURDdmtKeHdTNUxlRG0zOTAwcEdVd0JYYzdncGpzaEozQlVaSFBaYkhKX3d3eVc4VnpXaWJZR3ZPTjFLOGtyNEpPMTdCckdKWUc4TDA3VHdIdDJJWXM?oc=5"
     },
     {
+      "id": "news-accident-d25d787a1b",
+      "lat": 52.35144,
+      "lng": -0.03726,
+      "title": "Over 2,000 residents were without power after a fatal crash knocks down pole",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T06:40:36Z",
+      "summary": "Over 2,000 residents were without power after a fatal crash knocks down pole&nbsp;&nbsp;kmph.com",
+      "source_name": "kmph.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamwyckQ4ZERQamdXd2t3OVB5Z05Pbm9OR3B3cWloSnFEaG9aYTduQ3ZjcWN5WFNqLUpucmkyR2NEMzAyQ1VEb0loZ3FleWdJazJjWEF6ekdiM2J5OUFnVEJiQllDUmZQMjhlRElMYko0VjRwTXZ1c1ZLMFFYVnlUTzZyYl8yREQwby1FakFQQm0zMmYtMmxfUV8zMGY?oc=5"
+    },
+    {
       "id": "news-accident-b8449169d0",
-      "lat": 34.56126,
-      "lng": -86.01777,
+      "lat": 34.52833,
+      "lng": -85.98091,
       "title": "Section of Highway 26 in Coast Range closed due to crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T05:23:16Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-c80035fe86",
-      "lat": 18.08325,
-      "lng": -66.87816,
+      "lat": 18.13973,
+      "lng": -66.88268,
       "title": "Suspected drug dealers arrested after crashing car",
       "category": "ACCIDENT",
       "time": "2026-08-29T05:20:25Z",
@@ -232,20 +243,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1X0hOd1BER21WWlMwX0RUYmFJM3RCcXFDa0VyRjhvTV95UGUxdWluTndNRndULV9JYWxYRlVZYUxYN0FVUkpQWTBub0RxdXNWak82ZGVOYw?oc=5"
     },
     {
-      "id": "news-accident-d25d787a1b",
-      "lat": 52.28573,
-      "lng": 0.04488,
-      "title": "Over 2,000 residents were without power after a fatal crash knocks down pole",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T05:18:12Z",
-      "summary": "Over 2,000 residents were without power after a fatal crash knocks down pole&nbsp;&nbsp;kmph.com",
-      "source_name": "kmph.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamwyckQ4ZERQamdXd2t3OVB5Z05Pbm9OR3B3cWloSnFEaG9aYTduQ3ZjcWN5WFNqLUpucmkyR2NEMzAyQ1VEb0loZ3FleWdJazJjWEF6ekdiM2J5OUFnVEJiQllDUmZQMjhlRElMYko0VjRwTXZ1c1ZLMFFYVnlUTzZyYl8yREQwby1FakFQQm0zMmYtMmxfUV8zMGY?oc=5"
-    },
-    {
       "id": "news-accident-6cc9420288",
-      "lat": 31.53973,
-      "lng": 130.52218,
+      "lat": 31.6165,
+      "lng": 130.58988,
       "title": "鹿児島、海で発見の2人死亡 中高生3人不明の現場近く（共同通信）",
       "category": "ACCIDENT",
       "time": "2026-08-29T05:03:56Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-bdb0cb9aaa",
-      "lat": 31.54797,
-      "lng": 130.6087,
+      "lat": 31.65127,
+      "lng": 130.53697,
       "title": "鹿児島で沖に流された中高生か、男性２人を海上で発見・いずれも死亡確認…捜索活動続く（読売新聞オンライン）",
       "category": "ACCIDENT",
       "time": "2026-08-29T04:59:26Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.78344,
-      "lng": 135.58354,
+      "lat": 34.81447,
+      "lng": 135.61928,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.71174,
-      "lng": 139.71261,
+      "lat": 35.69159,
+      "lng": 139.81852,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.80574,
-      "lng": 135.6221,
+      "lat": 34.8358,
+      "lng": 135.5995,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -299,19 +299,19 @@
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.29732,
-      "lng": 140.88434,
+      "lat": 38.31031,
+      "lng": 140.89625,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
-      "time": "2026-08-28T23:04:05Z",
+      "time": "2026-08-28T23:00:00Z",
       "summary": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96YmdQX01VZWlqZDZxZW4zVmlQUXZubmYzX0dyWXNEV0pCVjlrSnBTaThKbENhdHNzRm5SendTR0h0VGg2blN2RXRsWThtbmx5VlRNd1h4YjZtVk9TUktjOXNnam9JeEM2ZGN2YzJJX21vWEp5WW15VHRPSmhqRVk?oc=5"
     },
     {
       "id": "news-disease-cd2ab2d092",
-      "lat": 35.67385,
-      "lng": 139.90052,
+      "lat": 35.68632,
+      "lng": 139.80535,
       "title": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む",
       "category": "DISEASE",
       "time": "2026-08-28T21:07:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-fbe37cb8c5",
-      "lat": 42.37625,
-      "lng": 141.10027,
+      "lat": 42.3513,
+      "lng": 141.03135,
       "title": "「来週ぐらいには戻ってたら」ソフトバンク山川穂高、右目の感染症療養からファームでの調整再開 実戦復帰は未定",
       "category": "DISEASE",
       "time": "2026-08-28T21:01:04Z",
@@ -332,8 +332,8 @@
     },
     {
       "id": "news-technology-cb9f7822fb",
-      "lat": 34.51641,
-      "lng": 108.93794,
+      "lat": 34.52545,
+      "lng": 108.88452,
       "title": "How China’s AI Policies Avoid Painful Past Tech Crackdowns",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T06:30:00Z",
@@ -343,8 +343,8 @@
     },
     {
       "id": "news-technology-78ab47e276",
-      "lat": 49.50087,
-      "lng": -123.86598,
+      "lat": 49.57716,
+      "lng": -123.95664,
       "title": "Moomoo AI デイリーチャレンジ 9日目",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T06:20:32Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-f2b271489d",
-      "lat": 34.22467,
-      "lng": 71.06534,
+      "lat": 34.25795,
+      "lng": 71.05742,
       "title": "AI人材争奪戦が白熱 Anthropicが最も引き抜き困難な企業に",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T06:05:00Z",
@@ -365,8 +365,8 @@
     },
     {
       "id": "news-technology-499a4dd540",
-      "lat": -37.65825,
-      "lng": 145.22361,
+      "lat": -37.75175,
+      "lng": 145.1392,
       "title": "Research Solutions Targets AI-Driven Growth as High-Margin SaaS Revenue Rises",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T06:01:57Z",
@@ -376,8 +376,8 @@
     },
     {
       "id": "news-technology-6d5bba57bc",
-      "lat": -33.065,
-      "lng": -55.17597,
+      "lat": -33.14952,
+      "lng": -55.15954,
       "title": "「AI生成曲」どう区別？ 豪はチャート対象外、Spotifyも専用表示",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T06:00:00Z",
@@ -387,8 +387,8 @@
     },
     {
       "id": "news-technology-c780c919db",
-      "lat": 34.65748,
-      "lng": 133.96694,
+      "lat": 34.6536,
+      "lng": 133.96584,
       "title": "生成ＡＩ作品の禁止相次ぐ 岡山市の公募事業、線引きに困難さも",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T06:00:00Z",
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T07:03:50Z"
+  "updated_at": "2026-08-29T07:18:37Z"
 }
