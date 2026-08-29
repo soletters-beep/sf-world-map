@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-039da99b76",
+      "lat": 43.06917,
+      "lng": 1.49136,
+      "title": "Sen. Susan Collins continues drumbeat against “harmful” new Trump tariffs on Canada",
+      "category": "POLITICS",
+      "time": "2026-08-29T18:49:00Z",
+      "summary": "Sen. Susan Collins continues drumbeat against “harmful” new Trump tariffs on Canada&nbsp;&nbsp;newscentermaine.com",
+      "source_name": "newscentermaine.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZGUtNTdHc2dROHFKbGZGTUU0S0hVWmdsUnA5Y2tUUVBHY0RrSkZqYlo4WllxaEhxYTk3NDBQSEVWM1NwV09ibW1qay1ER0FhYkpZelZpN1c2SGJ4TUVIYmFkTWpfSGoza3Y3VTlTdExrT1JWWDYxSEdZRUE4TXlhX0JSX0RGN0NGT2dkS0tVSG5BRmllbDYxczZhazhROFpLZzFFY2ViRmFIZ21Ybm8xTTQyZ0dvVGNadER5OUF4M2tuXzlmbFJoREw2UkEwdVRtZmV0dVp2aGV5RFNFTTlOcFdVWjBLVHZ3eV8xdGp0MHRhUDhjMU5RSTZjQVQzTUxEejRWLTJFSDdfSlBvajcwcXQ4ZkdQV0V6RWc?oc=5"
+    },
+    {
       "id": "news-politics-28a467ed39",
-      "lat": 20.42291,
-      "lng": 105.97276,
+      "lat": 20.32505,
+      "lng": 105.94544,
       "title": "ドアン・ミン・フアン同志は、カマウ省政治学校で活動している。",
       "category": "POLITICS",
       "time": "2026-08-29T18:40:55Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-02ae663598",
-      "lat": 10.74099,
-      "lng": 106.76592,
+      "lat": 10.72083,
+      "lng": 106.71195,
       "title": "ホーチミン国家政治学院院長が、党幹部に党バッジを授与する。",
       "category": "POLITICS",
       "time": "2026-08-29T18:40:55Z",
@@ -23,9 +34,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkdlM1U1QUpMdXk3OE9YR3lHeWcybWEwcXU0MjhnZW1aRzNrWm9vSWJ0U3h3ek51TEJxOUkyaHlDRUJYZjVPRkRPbXI0aGVJUkl6Mi1DTUJndTVWd3RmWVZiU1NKRW1MLS1BYWpEUDFaeVR5Y2ttMmN5YVdPZ1k2cng5Qkpta0E0WXRWSGR1aDdrTWJLUDRkWUIxVHVHSThQMVhLNkw4TVhMTDJ1QmRyWU9yRmZWMXM?oc=5"
     },
     {
+      "id": "news-politics-52a3014736",
+      "lat": 34.25082,
+      "lng": -102.44636,
+      "title": "The Earth is sizzling, but climate isn't a hot topic for Democrats in this year's campaigns",
+      "category": "POLITICS",
+      "time": "2026-08-29T18:40:12Z",
+      "summary": "The Earth is sizzling, but climate isn't a hot topic for Democrats in this year's campaigns&nbsp;&nbsp;PBS",
+      "source_name": "PBS",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR1pRLTlLR1pOZG00d0xUS2RCWFF2Uk1oaWoyWXdpaWF4bTlvUG1RTHJiMkVLN0NlOFJfTWtiU1N4NjVRVUM2RHFJTlJ5X3BzUUR2WG84TU5GNFVjdXhwc1Z3QjF0SUo4bFNISlVhRnFLSV92YmJkSHREMTIwX04yUzNQZjVPSThuMmNMdlIxNnp5enBOQUd5XzRrZW9hZTRlbXRSZFBXQl9wYlFCODRCTFZkMlBRU1pfNUZIWC1QemxRaW1U0gHKAUFVX3lxTE4yeUloNVJ3dGw0b0lsUzIyS3FHY2EzdGVaUGdFOGNJQl90ZXFZLTJWeXJQdHpzeEEzZ3YtbS1nU0kxdG9KemViRGF3aGl5RGxTaDJqWEdmb0ZmQ3pqUV9oVlpPX1VVMUoyVmtqN1ZOS3Q3SlBrLXZTT0J5MktnS3JlcmVqenJaRFR4aVZYZmItd3VIVzFIYlAwNzU4U1ZLVGxlalNCN3Rhb191TkROUjNXMW92X21ZOEd3WjN4bFVKUWZ4NWxCVjlST0E?oc=5"
+    },
+    {
+      "id": "news-politics-f1d0405fe7",
+      "lat": 36.24379,
+      "lng": -115.14045,
+      "title": "Opponents of St. Louis data center take their fight to court",
+      "category": "POLITICS",
+      "time": "2026-08-29T18:36:00Z",
+      "summary": "Opponents of St. Louis data center take their fight to court&nbsp;&nbsp;STLPR",
+      "source_name": "STLPR",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2ViR3h5NzI4ZVFSbUNQNkhJV2RIWWx1TTh6bXpzY3czblgtQmx5bW1oRUN0WThfSWJiRmg1dW1MVXZ4X1BVaTh1MXljZnpuWW5CRnlHRFlZZEs3V0cxVnd2MTBPZm9YdVFwZlBrU0hvWFRmTFE5YU9heFh3aXZPajhZT3dTMU1tQ0lUMUY1MTdOcU96RW5nNVNOcWQ5X0ZlQkt2LXRQX3Z6ZVBmenVhZEpYdmluSE5LckRZ?oc=5"
+    },
+    {
       "id": "news-politics-8add978dbe",
-      "lat": -24.8006,
-      "lng": 134.73427,
+      "lat": -24.82098,
+      "lng": 134.80282,
       "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
       "category": "POLITICS",
       "time": "2026-08-29T18:30:32Z",
@@ -34,42 +67,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-4eabb6bacf",
-      "lat": 39.72584,
-      "lng": -76.61361,
-      "title": "Trump cannot deport students for criticizing Israel, judge rules",
-      "category": "POLITICS",
-      "time": "2026-08-29T18:20:00Z",
-      "summary": "Trump cannot deport students for criticizing Israel, judge rules&nbsp;&nbsp;Spectrum News",
-      "source_name": "Spectrum News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVENoVzdndmxFaTFDSXVRSUg2aDhFYlY0dUpZaVEtemg4OGlMd1FwMU5xVlhPbGdjR1E0clR5dEZ4Y2MyYktrNzNQQ2p2LWFXbmpLREh6Vkxmb3pSQWxyeE9yczJON2VrMXFXdFBZVkNIR24xN09sMU55MTg3aWszTVdXXzFVbmZBaG1SakxuaDRvTlF1djk5Nl9XR1h2SUQzRlE1ODdzV2o1S1o2TjRxSFVYbk1WSGQtYU5KelBHYWs?oc=5"
-    },
-    {
-      "id": "news-politics-a8433bab8f",
-      "lat": 38.96071,
-      "lng": -77.03822,
-      "title": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews",
-      "category": "POLITICS",
-      "time": "2026-08-29T18:05:51Z",
-      "summary": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTm54ZVV4YzBUcDdrYXZjcnFMN19Dc2J2ZGQ2SkpCbnlKVjJja0x5b2xuMkRjOVM3aEpaUnRIdEtmTVY2dWxaY1FFb3ZMUW1RQkk5eHN2LWU2NjNyQnNkWTVydDdnSTRjcHBDU2VjUktBSUFuenZlel9aMFE4anpzdUJBckE0RGUxejJSa0N1aHhiOVJCS2VBVkw2Rl9SblV0Q01tZUhuVWVCMlhoWlpWVzFiNXdvWHNXVXJBZw?oc=5"
-    },
-    {
-      "id": "news-politics-649946070b",
-      "lat": 30.96606,
-      "lng": -85.76643,
-      "title": "Who represents Black Florida? The answer just got complicate...",
-      "category": "POLITICS",
-      "time": "2026-08-29T18:04:49Z",
-      "summary": "Who represents Black Florida? The answer just got complicate...&nbsp;&nbsp;AFRO News",
-      "source_name": "AFRO News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUHVjTmtrY0ZuMkhQd0s3bGhoc3llS3hra3FiZk8wS0kwU1VDc1EwWDN6Y3hwekRZRTdPd2xmb25JNFp0dnh2VkZfUnlaMllZNkN1aG9mNm9EV2xxZ3l6TlRhYjhkNXZEMXowOEdrc2lKV1pRcXBLSjJHV1ZjbmM4cWwyeGxXeDZQRDU5ZDhCS1FlQUh1cTdIVVhMNDBjc2V0eTN3ZzJJbw?oc=5"
-    },
-    {
       "id": "news-finance-b1f1580d39",
-      "lat": 56.64842,
-      "lng": -3.03459,
+      "lat": 56.67451,
+      "lng": -2.97396,
       "title": "Fundraiser launched to secure crafting shop future",
       "category": "FINANCE",
       "time": "2026-08-29T18:15:54Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-b4d7c539c3",
-      "lat": 35.59434,
-      "lng": -94.47221,
+      "lat": 35.59834,
+      "lng": -94.46198,
       "title": "'Big Short' Steve Eisman Warns AI Trade Hinges On OpenAI, Anthropic: 'The Whole Tech Space Sells Off' If Spending Slows",
       "category": "FINANCE",
       "time": "2026-08-29T16:50:31Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-d426b31b7b",
-      "lat": 30.18565,
-      "lng": -82.12635,
+      "lat": 30.19221,
+      "lng": -82.12267,
       "title": "Bessent says disorderly yen moves can destabilize global markets",
       "category": "FINANCE",
       "time": "2026-08-29T16:47:43Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-ed68c7a10f",
-      "lat": 47.48065,
-      "lng": 19.07894,
+      "lat": 47.43617,
+      "lng": 19.0005,
       "title": "Nike Installs Former Foot Locker Supply Chain Chief as Converse COO",
       "category": "FINANCE",
       "time": "2026-08-29T16:37:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.63137,
-      "lng": -76.55131,
+      "lat": 39.72777,
+      "lng": -76.63935,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T16:15:56Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-abf05f9d3c",
-      "lat": -34.59125,
-      "lng": -58.62316,
+      "lat": -34.62379,
+      "lng": -58.59048,
       "title": "Personal Finance: $40 trillion and counting: How the national debt exploded",
       "category": "FINANCE",
       "time": "2026-08-29T16:00:00Z",
@@ -133,9 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3UyVFdjRHNIdXl6aFNtMjROWGd1ZjdTSElVSXQ2RGU2YW9QZ2ZuVjJhaDlRdHFBSTF0d0tQNEE2OGFzVWEwV2FUeWp0M1pjUk4taFNKM0xqTVItUTVROWxuQi1PN3NxSXlrRWZJWVdFdnFic3htNnc5bVJrbXhhbGVjZDUwcHo2cXdQNGZvcWhuM0VTVHlGNGxzN3BoOEE?oc=5"
     },
     {
+      "id": "news-disaster-412e9978a3",
+      "lat": 37.34608,
+      "lng": -78.75698,
+      "title": "Flood advisory for Dillon and Marion counties early Saturday evening, says the NWS",
+      "category": "DISASTER",
+      "time": "2026-08-29T18:58:08Z",
+      "summary": "Flood advisory for Dillon and Marion counties early Saturday evening, says the NWS&nbsp;&nbsp;Rock Hill Herald",
+      "source_name": "Rock Hill Herald",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ENEN5dFlvbmhuUVJFdjJqakhnMmZUeU9fdHpKbHFSUXYxTE1XMVZOSlpMMENjRDJSa00xRXF4NDB2Y2c3YlNzWjRmWkE2eG0zY1lleDg5aVVPdzQ3Y0xWZENIMGc0Sks0eTdMOUc5TVkzaS1UeUVj?oc=5"
+    },
+    {
+      "id": "news-disaster-14c7297276",
+      "lat": 51.14227,
+      "lng": -4.73169,
+      "title": "Earthquake shakes area near Lone Pine, CA: 2.1 magnitude recorded on Aug. 29",
+      "category": "DISASTER",
+      "time": "2026-08-29T18:52:10Z",
+      "summary": "Earthquake shakes area near Lone Pine, CA: 2.1 magnitude recorded on Aug. 29&nbsp;&nbsp;Fresno Bee",
+      "source_name": "Fresno Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzZtbVpVQWtWODBBTjB5WVJjUzVjdVMtc0ZHV2VxTXRueDNCWURnc2FmeWJic3FnZjRIVW9XOE9ZQjlZeGhUSkNXNGN1LWVvTmJYeTBoYmFadzgxaUNlUTRmTWxLOXlVVm5Rcmx6UDVuOEVReVZ5alhEX2pLelhzeg?oc=5"
+    },
+    {
+      "id": "news-disaster-fdbbd5be7f",
+      "lat": 28.36219,
+      "lng": 83.97842,
+      "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars",
+      "category": "DISASTER",
+      "time": "2026-08-29T18:43:05Z",
+      "summary": "Nepal resumes flood rescue, seeks technical help and billions of dollars&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5"
+    },
+    {
       "id": "news-disaster-33cf2bbb55",
-      "lat": 46.19797,
-      "lng": 13.66181,
+      "lat": 46.16913,
+      "lng": 13.68058,
       "title": "Scale of Flood Disaster Grows as Nepal Says 2,400 Are Missing",
       "category": "DISASTER",
       "time": "2026-08-29T18:32:22Z",
@@ -145,8 +178,8 @@
     },
     {
       "id": "news-disaster-8add978dbe",
-      "lat": -24.74075,
-      "lng": 134.73514,
+      "lat": -24.77528,
+      "lng": 134.71723,
       "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
       "category": "DISASTER",
       "time": "2026-08-29T18:30:32Z",
@@ -156,8 +189,8 @@
     },
     {
       "id": "news-disaster-30bd95c998",
-      "lat": 51.54164,
-      "lng": -3.2413,
+      "lat": 51.64194,
+      "lng": -3.24176,
       "title": "What Actually Caused the Nepal Disaster",
       "category": "DISASTER",
       "time": "2026-08-29T18:17:57Z",
@@ -166,42 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTRZYjJFQTBhT3c0RERSSTk0TlRHU01RT1l4YndkdTVWN055c3MwS3F1cGNPaEQ3elJ6SFFMR3pXT2MxVndMZ1BsM1dYRmM3UTZQWU9GdDV3dTJKUXdhTjh4Y2RUSUx3NDM1ZTQ0c2NoRzVQV1l1ZzBmUTdHa0UwVHV3?oc=5"
     },
     {
-      "id": "news-disaster-ca79438c37",
-      "lat": 40.74838,
-      "lng": -73.96927,
-      "title": "California mom makes miracle escape during Nepal flood disaster",
-      "category": "DISASTER",
-      "time": "2026-08-29T18:07:00Z",
-      "summary": "California mom makes miracle escape during Nepal flood disaster&nbsp;&nbsp;New York Post",
-      "source_name": "New York Post",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3R1amdwVEd2aFVPNGpjVHJ4OUxwZDdOeXJCckR3UHdZZ1ZiUGhEak0zRnN2ZVpnZnEyZENBOFJJbGNqWW56Zk14elJnT2RKaXN3V2d6UURQNzdpQ3AtejU5alBRMXB6Z0d5bHFVZkZYZWRDcGdONm5MeUVYVWcwbVhoOWt3U2o5Q2JUNlhENXZCV1VBUkoxa2VJcU55SndROVdRUg?oc=5"
-    },
-    {
-      "id": "news-disaster-8c7b3d1002",
-      "lat": 35.69921,
-      "lng": 139.79849,
-      "title": "【レベル４土砂災害危険警報】福井県・鯖江市に発表 03:06時点",
-      "category": "DISASTER",
-      "time": "2026-08-29T18:06:00Z",
-      "summary": "【レベル４土砂災害危険警報】福井県・鯖江市に発表 03:06時点&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zcS1oajNRZ1VVYWMtZWVXLUM3dDFiOGx0eU5SR0Rya0lsLXo2WVZSc2VVTjlnTlF2R0tQWWsxbUg2bnl3dFB2ejBSQTdOTGtvbWotVzcwOA?oc=5"
-    },
-    {
-      "id": "news-disaster-dd907574d9",
-      "lat": 40.72149,
-      "lng": -74.02997,
-      "title": "Nepal Increases Flood Toll to 1,900 Missing and Over 500 Dead: Live Updates",
-      "category": "DISASTER",
-      "time": "2026-08-29T17:58:17Z",
-      "summary": "Nepal Increases Flood Toll to 1,900 Missing and Over 500 Dead: Live Updates&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84SXhPcHdJYlVSNHFudlhObU9acHZ4QVdqSnQ4TU5IUHRhUG4ySVdOTW1iR0VvZjFxcWFCNUswT2dyQ2xyQlpKM21UdkEycTlPXzdYdzdxb3ROQmNsLTlqTTFWX0pOVVhRYVMyNjVEWkJkbEptSlU0V2xR?oc=5"
+      "id": "news-accident-9407bb2c32",
+      "lat": -12.4428,
+      "lng": 130.98805,
+      "title": "Driver critically ill after crash involving police car in East Ayrshire",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T17:58:39Z",
+      "summary": "Driver critically ill after crash involving police car in East Ayrshire&nbsp;&nbsp;BBC",
+      "source_name": "BBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NYnhJa2ZQM3dacHE2R2hRUVFNMGNnS3B6b3FtVkV6a2dOMHprYlZ5Rmt0UHg5STBPaUQ1Y3V1LUM2SW5uYmpUcWhscmRBa1BvY0hiY3E1bXlaQQ?oc=5"
     },
     {
       "id": "news-accident-d302983f78",
-      "lat": -18.4795,
-      "lng": 29.74948,
+      "lat": -18.40784,
+      "lng": 29.76109,
       "title": "Zimbabwe crash involving church minibus kills 27",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:49:50Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-b34cf2fb33",
-      "lat": 38.41518,
-      "lng": -95.87438,
+      "lat": 38.38092,
+      "lng": -95.84371,
       "title": "Lebo woman, 80, killed in head-on collision with semi-truck on I-35",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:37:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-95f1fe5481",
-      "lat": 33.61161,
-      "lng": 130.21463,
+      "lat": 33.54408,
+      "lng": 130.19103,
       "title": "新名神6人死亡 「ながら運転」トラック事故 巻き込まれ ひつぎの夫 骨だけに 悲しみ、怒り 法廷で",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:02:45Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-11a5e595a7",
-      "lat": 64.09832,
-      "lng": 11.6377,
+      "lat": 64.06975,
+      "lng": 11.68228,
       "title": "Five Hurt in Lee County School Bus Crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T16:57:03Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-efbd6ab4eb",
-      "lat": 37.89732,
-      "lng": 138.97529,
+      "lat": 37.84426,
+      "lng": 139.07281,
       "title": "村上市の住宅で3人の遺体発見 事件事故・無理心中の可能性も【新潟】（UX新潟テレビ21）",
       "category": "ACCIDENT",
       "time": "2026-08-29T16:35:26Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNFp2b1phNkhlZ2tuanhHQ3NQMFhaRWJ5RHBkY2JzNG8zbTVtVFBsM0pmUl83MW5udGFUcFlRYUgtZzh6QXVUVHFPeDVYZHV4MWQ1UmpJUjlnZVVzMlpramVQY1JnVFJ0WGE3MjctanZMVHBCY08zejJqYWZiekU?oc=5"
     },
     {
-      "id": "news-accident-af18f9e290",
-      "lat": 39.84088,
-      "lng": -80.30008,
-      "title": "2 people killed in accident on I-69 southbound in Greene County",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T15:17:00Z",
-      "summary": "2 people killed in accident on I-69 southbound in Greene County&nbsp;&nbsp;WTHR",
-      "source_name": "WTHR",
-      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZXlQbWowb2dyMDBNQWRsWWtVLXFRRkhXSFBISW43WHI2d2U0TlpLWlFSMGI3S2F2aEdoZ2NyWnN4RWxSenFfMzljeThTc3hiUG9UeTdaNGJVQnNQcTRvbV8tUTc0N3N0ekdMWHRtd3hLUGRHV0VkYWhLczkxRkphUHAxM2pabnZaOVRhS2JJSEtvRFp5ajJKUjRxTnFiUC1wUDNkZUxXSl9iZVI0alpmT2xfanFLb19uaFBJSWVFcEdsSnZlM2FTMlRWVmw0YVM1M0hWa2lEU1JRY3pLSlo1OHdvZGdqWERMcjYwejRaODdtZm1fSTMyWkp1NEJWZXRRRmFUQnFEMXJxMFJzYVE?oc=5"
-    },
-    {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.89708,
-      "lng": 4.60325,
+      "lat": 46.87064,
+      "lng": 4.61432,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.96382,
-      "lng": 4.60103,
+      "lat": 46.88175,
+      "lng": 4.613,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.80246,
-      "lng": 139.57634,
+      "lat": 35.83348,
+      "lng": 139.50957,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.83166,
-      "lng": 135.60703,
+      "lat": 34.80188,
+      "lng": 135.62912,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.62687,
-      "lng": 139.71863,
+      "lat": 35.67125,
+      "lng": 139.79068,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.82731,
-      "lng": 135.62373,
+      "lat": 34.87602,
+      "lng": 135.59643,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -331,9 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOWZ2TElvT05CYlUtUjd3UURkbjU2SEdJV2oyeEo0Wm9ZTHlYUnF6enhadHByV0lsVXZiQmllVGcyY08yYl9UdzNHeG9hbVpJV0JrRA?oc=5"
     },
     {
+      "id": "news-technology-8e2f97fbd4",
+      "lat": 38.61288,
+      "lng": -90.21853,
+      "title": "Cortex AI Gateway’s Model Routing Push Could Be A Game Changer For Snowflake (SNOW)",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T18:30:50Z",
+      "summary": "Cortex AI Gateway’s Model Routing Push Could Be A Game Changer For Snowflake (SNOW)&nbsp;&nbsp;simplywall.st",
+      "source_name": "simplywall.st",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQzhtU0lLWndDVEQ1ekVWQkdyRlhtbEMtR0tWUmxDNG9tWDdqMTVTVG56akp5bm1ZRTQ4VUFwSVJtOFFtdWJ4SUR0ZVJyVlA5X3dVelc4dWRzMURkZ28tYndENFlFc2RqTkxmR0lEamhhWkpBaDFFdHhaYWpqbjl5Zzh0aGVCcHlRUXNDU29tTVYxSEVjTzBoRmQwQnJYekJnOG9Zd1dOMWQ2cktMWm0yRVRvN2J4ZVlYNVNEcGMzYTdBanRs0gHKAUFVX3lxTE92SzBMNldlVHVEZy1iNkh1cExiejhIMUU5R0JibzhUZDk1WjRLY1Jhd0lGX3FQV3gwQ01uc0FSbmlqUmUxRWZiSzdzVy15eGdyTVlCQlFGcm1EVVkyZ2wxdlBKZDloUjAtZHhUQ2l4cTNnXzZqbmpEbDJoanRyWEtaOHVmZ3haZGt6cl9ockdhRVRlT0tjeUtYWDM5VVlfcTJGalRBenluMXRvUlczY2dqY0xoajQ3UU1QNEFWeW14UHVOcl8tY2g2bmc?oc=5"
+    },
+    {
       "id": "news-technology-94dacbb176",
-      "lat": 14.84487,
-      "lng": -3.8465,
+      "lat": 14.80786,
+      "lng": -3.79141,
       "title": "山口でセミナー「『AIに質問する』から『AIに任せる』へ」開催へ",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T18:30:40Z",
@@ -342,9 +353,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HbVB5aFdIaVVGaEtZRzI4amkyQ0h3UEswbzlQc3UwTkE2elRpRDBJSi1QX1pTb2xUaWFaU1FqNTFRY19VSHBfVWo2SS1UeG5qMjk4ckRkY2Y?oc=5"
     },
     {
+      "id": "news-technology-a403c74d99",
+      "lat": 13.00191,
+      "lng": 3.16107,
+      "title": "アンドリーセン・ホロウィッツ、AIの物理的構築に11億ドル（約1,800億円）のファンドを設立",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T18:18:00Z",
+      "summary": "アンドリーセン・ホロウィッツ、AIの物理的構築に11億ドル（約1,800億円）のファンドを設立&nbsp;&nbsp;BigGo ファイナンス",
+      "source_name": "BigGo ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95aXJxX3A2VEZEN3VOenBQVmJITzE3TTJmaWVkR09QTW1UOUxUUHJxMW9TbmtESEFGTmt3UVQ0cTZtUjNXYUQzSFU2aWFNTVpycTBrVDBLMHV2Z1E5bTRJYTVxbFh6MUZkMnRsbi1yLWdWMjlz?oc=5"
+    },
+    {
       "id": "news-technology-423949fc39",
-      "lat": 32.93935,
-      "lng": -97.55189,
+      "lat": 32.88203,
+      "lng": -97.63539,
       "title": "Sanctuary AI Built A Robot Body. Now It’s Also Selling A Robot Brain",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T18:11:59Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-6e8ebab5d3",
-      "lat": 50.44252,
-      "lng": 30.35531,
+      "lat": 50.49845,
+      "lng": 30.41299,
       "title": "How Can Oncologists Start Experimenting With AI Tools Today?",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T18:09:38Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-3c215daaa6",
-      "lat": 51.56106,
-      "lng": -3.23841,
+      "lat": 51.54676,
+      "lng": -3.18048,
       "title": "AI could become conscious. What if it wants us dead?",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T18:00:00Z",
       "summary": "AI could become conscious. What if it wants us dead?&nbsp;&nbsp;The Hill",
       "source_name": "The Hill",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEpDMnZQejJvTGY3ZTJJWVVhQ19DSTJibHl2ZVJWam1uazdrS2p3VzRFZGQ5VVhaMzFsdTJsU1F6TmpuS3BlZ2RtZGxiWHZ1ZE41akVScTNOWEhxaUEyUmFnak9Zbm5yaGFSMGg2VHBoazFNYVZzS2Nza3ZXbUNYZkd2WVJVLWfSAYwBQVVfeXFMUFdsSFBzRFBCUHprOFBnalBKM3VjOUxPY1FvLU1vYl9uQURVN0prRVV5WmYxeWs2SHJCMms4VE9PUk5ZVEJkcjhCWTd3bS1LQ3JNWFFCRGNfazZBbVppcmR2aUUzN3FZLWdhaVZfU2xRX2dXSnlxTUtCN1hvdmNPTW5mZnM1UWt2bkJDcFA?oc=5"
-    },
-    {
-      "id": "news-technology-691a8ba073",
-      "lat": 51.02611,
-      "lng": 10.05382,
-      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T17:51:10Z",
-      "summary": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?&nbsp;&nbsp;TechCrunch",
-      "source_name": "TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGtRM2RFQmlzS2Vyd0R5c0FoTzJ1aVZ0X1lVZEpzTS13YWk1Z0NVTS00WjNMaFlFckFHLW1uYjZEVno2WVVNVFhaMGFCMDV4Z1hQY0lIUjBXd1cwLVg2ZWV0bElueDNfaTJVeUt6SkRRN2RXeENyZDJGOG9peHROV1FqRDUzSXBZTHoza1luZWlyaGJCU0VHLWltaWpTVVlJRHB2aWxtQzViTTJzdnE1VXFCTmZoUQ?oc=5"
-    },
-    {
-      "id": "news-technology-92624a9c2b",
-      "lat": -8.06261,
-      "lng": -79.0599,
-      "title": "Beyond Critical Thinking: The Verification Process AI Actually Needs",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T17:48:47Z",
-      "summary": "Beyond Critical Thinking: The Verification Process AI Actually Needs&nbsp;&nbsp;Forbes",
-      "source_name": "Forbes",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEtFck5UNlNMbHZIQTlXOUdaRDRIMzlLT09zbGs1LWtiSFUwWU9rcThfckg1ZllrdWxvbkJWM29feTJjRUJZbkZsbGI5SXlPbjI2OHFCMXZ2c2djdS1CRE9xejAtdVF5ZW1vdDJTWElPOUxXYV85WEtkZmNrU1hjdHM2QTA1bmV6V2MxY1JYWDFuRFJXY2MxS3dOcGl3S19YcEZLckVTamRzalRVUjZJQ0VOUmExbnc?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T18:48:50Z"
+  "updated_at": "2026-08-29T19:03:43Z"
 }
