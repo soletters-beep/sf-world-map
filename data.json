@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-0587307dea",
+      "lat": 50.46522,
+      "lng": 30.57623,
+      "title": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
+      "category": "POLITICS",
+      "time": "2026-08-29T11:38:27Z",
+      "summary": "An investigation has been launched into whether ammunition was being stored at the site near residential buildings.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-6a30e4823a",
+      "lat": 38.96095,
+      "lng": -77.08654,
+      "title": "How states’ fight over an ICE agent could open a new political battleground",
+      "category": "POLITICS",
+      "time": "2026-08-29T11:33:00Z",
+      "summary": "How states’ fight over an ICE agent could open a new political battleground&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZpUGhJTjdORUF2ckFTcWdUVjE1akdfRGhJVkdMUmJHelducnZfT1R3V1Q2ZlhlSy1Ta1htOHc5ejEyVVJVMnd4aUdpWFB4UkFCc3M3N1B5SWRUcTc0Z2V6dDBySUg5b2ZzRFh0NGhGNXFpWDhzSEFqemM3NDFZTVVUQ0ZObTZXWXRERERRdjBKOXlBZ3FkVTFFYldlVDBPYmNIbkhnUy1iaU5pd29iNFB1ZEh6S21VVWdPNDQtQzk?oc=5"
+    },
+    {
       "id": "news-politics-cd38c7177e",
-      "lat": 50.13478,
-      "lng": 8.67417,
+      "lat": 50.13706,
+      "lng": 8.67624,
       "title": "The coming election and mischief in the making | SONDERMANN",
       "category": "POLITICS",
       "time": "2026-08-29T11:30:09Z",
@@ -13,19 +35,19 @@
     },
     {
       "id": "news-politics-95eecdf138",
-      "lat": 36.08894,
-      "lng": -77.03104,
+      "lat": 36.07804,
+      "lng": -77.11531,
       "title": "A Republican candidate for Mass. governor has slathered his campaign in blue. Experts say it might be intentional.",
       "category": "POLITICS",
-      "time": "2026-08-29T11:15:00Z",
+      "time": "2026-08-29T11:19:01Z",
       "summary": "A Republican candidate for Mass. governor has slathered his campaign in blue. Experts say it might be intentional.&nbsp;&nbsp;The Boston Globe",
       "source_name": "The Boston Globe",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWEJhdlZBdW1FNl9UcWh1STFDZVFCN2lvczlhYW1qQXRGcDJBOF9TQk5tQVR6UUhramNpN3hjbVYyUHZTVGFHVFV4QTgtTTJKYlhLdElrV0ZyMERWOVFOa0JOQmdTQnp5TWZuM2dPY2hTSm1rdUhHWUpPOWVPLTdRcUpIeUZzcUdvQ09ueVl4Vlpjdw?oc=5"
     },
     {
       "id": "news-politics-09563c075e",
-      "lat": -1.97906,
-      "lng": 30.05699,
+      "lat": -1.99798,
+      "lng": 29.94422,
       "title": "EU governments explore setting up migration return hubs in Rwanda",
       "category": "POLITICS",
       "time": "2026-08-29T11:11:36Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-2012f6acb7",
-      "lat": -28.6358,
-      "lng": 153.44245,
+      "lat": -28.66576,
+      "lng": 153.5106,
       "title": "Byron Donalds to make Doral swing with new LG pick Bryan Ávila",
       "category": "POLITICS",
       "time": "2026-08-29T11:01:05Z",
@@ -45,31 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEgwZjRINU80dF80ODB1bExkYWJ5bm1VWGZZWS10a01FMmNwQ1BuRW45bUw2N3hka2dIZWZfOXdyelRTX09EU1c1R1o0elRKcThxNFMwV0ZWeldZZnpWM0hCaXRwb1NwbnpiX2lTbW0waE1QV3ROYWh4bGdDaVNYc2hLZ01nR1p2NGhSUkNGSkFLN3NidjlNZko4b25ybURCbzR5cndZbVhxck0?oc=5"
     },
     {
-      "id": "news-politics-86a4d5e5dc",
-      "lat": -19.68638,
-      "lng": -40.71827,
-      "title": "Tancredo in Running for Dept. of Ed. Position | A LOOK BACK",
-      "category": "POLITICS",
-      "time": "2026-08-29T11:00:27Z",
-      "summary": "Tancredo in Running for Dept. of Ed. Position | A LOOK BACK&nbsp;&nbsp;Colorado Politics",
-      "source_name": "Colorado Politics",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHRQb2JGaV9naTNEMmFCdmhxWnJ6Zjd5MFZaOGFkZ0JhXzRSRmhyYS1fSUNYS0ctaVI5d2ZzZ0tubC1qS2c5OG1BZUVVWjVweUlySUtuMGc2b3BkR2g3eng1Z1lBYXVZRWxYbjRCMFpBeUdYU1VOX2ltUlRTMkJmTTRFcnFXWlBCREt2Wm9qQXJKVm5KOEg5RDF5UlNsTHRkLXc?oc=5"
-    },
-    {
-      "id": "news-politics-d83e2e8233",
-      "lat": 40.76967,
-      "lng": -73.97856,
-      "title": "Opinion | Democrats Have an Identity Politics Problem. Just Not the One You Think.",
-      "category": "POLITICS",
-      "time": "2026-08-29T11:00:11Z",
-      "summary": "Opinion | Democrats Have an Identity Politics Problem. Just Not the One You Think.&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQkR3amlBc00td3FYNldhZUdCYjNyVmJmeW5wWnpsOWc5Vl9VU1Y3bWxkaklXY0JoUnlRQlVXdXUxbldKeG44TXExejJNN1JxRTIxaU9EbklnZjhuZ05lY2E4VjFDOGpyb3d4MURraXFvbGdQMll0WUcwa2o2NE5BN2I5YUxjVUkxZ3l5NGp3?oc=5"
+      "id": "news-finance-6be86e06ef",
+      "lat": 37.22728,
+      "lng": -98.71182,
+      "title": "Barber offers free back-to-school haircuts",
+      "category": "FINANCE",
+      "time": "2026-08-29T11:47:46Z",
+      "summary": "Guildford barber Sid Gumbrell says he wants to give back and help parents with the cost of living.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c3eq38dzpe5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "news-finance-9079484e1d",
-      "lat": 40.7771,
-      "lng": -73.89614,
+      "lat": 40.68074,
+      "lng": -73.9699,
       "title": "Retailers feel the sting as cautious consumers weigh their options",
       "category": "FINANCE",
       "time": "2026-08-29T10:00:00Z",
@@ -78,20 +89,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1QyOHZHTzNPdldEdHQxQXJqWEUzU2pTZ0x3MXFfdU1hNmNHNV9pSHZvemhzUjJ4b1Ewa3UtTmFGQVp6c2JPc2x0aGx1eE5aa1ZJUldEa0drbURPS0FvaU1JaGhXMTl2Z0NhUENBNWM2WTZEWHVibENnOU5NMzl5b1lPRjA1Z1dWTnlSNDlmeHJyNHlQVHdWZ3BubFg1WTROMmxDb1MxdER2OXhTU25qWHRJdER1QQ?oc=5"
     },
     {
-      "id": "news-finance-1bda4653f6",
-      "lat": 38.28874,
-      "lng": 140.91386,
-      "title": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）",
-      "category": "FINANCE",
-      "time": "2026-08-29T09:53:52Z",
-      "summary": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwS1lNd1JkSllWYUhhc1BaUktHd0ZzYTB0RzVHa0M5YzdJb3lqckNsai1NUERBcEtXRmtGdDgxblBqcEVxMkVJRkJXRlVFbU94MkE?oc=5"
-    },
-    {
       "id": "news-finance-1d80f8c529",
-      "lat": 25.68566,
-      "lng": 51.53097,
+      "lat": 25.59305,
+      "lng": 51.50808,
       "title": "奨学金330万円「消費者金融から借りたり夜バイトしたり」専門学校を中退した28歳女性の返済生活",
       "category": "FINANCE",
       "time": "2026-08-29T09:30:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-f7742497d0",
-      "lat": 30.22089,
-      "lng": -97.83044,
+      "lat": 30.31165,
+      "lng": -97.77324,
       "title": "Intel Sold Its NAND Memory Business for About $9 Billion. Micron Is Now Worth More Than Twice What Intel Is.",
       "category": "FINANCE",
       "time": "2026-08-29T09:07:01Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-72d677ba12",
-      "lat": 40.73588,
-      "lng": -96.64873,
+      "lat": 40.79964,
+      "lng": -96.64764,
       "title": "Covenant Logistics Eyes Higher-Return Growth as Freight Markets Recover",
       "category": "FINANCE",
       "time": "2026-08-29T09:01:55Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-1955098933",
-      "lat": 34.3573,
-      "lng": 132.4062,
+      "lat": 34.37061,
+      "lng": 132.43507,
       "title": "特殊詐欺防止へ 広島県警などが金融機関向けの研修会（2026年8月29日掲載）｜広テレ！NEWS NNN",
       "category": "FINANCE",
       "time": "2026-08-29T08:49:00Z",
@@ -133,9 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObnpzY3lyTm5ocmF5TmhyWkF5U3VnQ0dHY3VjaDgtUnk0Skl5ZldsTG1yM1dGcXBDeWY1ZTJnU0cyNFYtTjRzMW5rXzNrY1pqaDk3eUxBUnBTQ29IaDhDenI3WVhlOFRIY2xLeGVsdVVudmd1bHZkOEs5SV9aSEgtbG9lUnR0QXc?oc=5"
     },
     {
+      "id": "news-disaster-4259c9ed1a",
+      "lat": 35.67295,
+      "lng": 139.78461,
+      "title": "【速報】大雨被害の石川県に再び「レベル4土砂災害危険警報」危険な場所から避難を(気象予報士 日直主任 2026年08月29日)",
+      "category": "DISASTER",
+      "time": "2026-08-29T11:32:05Z",
+      "summary": "【速報】大雨被害の石川県に再び「レベル4土砂災害危険警報」危険な場所から避難を(気象予報士 日直主任 2026年08月29日)&nbsp;&nbsp;tenki.jp",
+      "source_name": "tenki.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HSDhxWEM4VWl1bTZmVjRwcWxkSDBuYklkUGkxV0xHb1VPZzdRWWpaMEZoeTJ5a2taM2wwUDhhZldVcHJ3SGU3SEcyZlEtVzEyemFWNnRNNXR4dVhBTGpEOVZiamVFanlkVmfSAW9BVV95cUxQU2lHcmRvX0pvR2RFa2lKOXNoRnVQX2ZvbnE4bnJld0xOWmVKVC1PNldnaGpBN2VqcVl6cndqYTk2SEdDT3BZWnZRc1FGelRhTlhhV0RjQm5XT2lHR0tHQldFVWFrZV93eFlXWlFPaUE?oc=5"
+    },
+    {
+      "id": "news-disaster-c9cd69e160",
+      "lat": 35.71195,
+      "lng": 139.70904,
+      "title": "【レベル4土砂災害危険警報】石川県・加賀市に発表 20:25時点（TBS NEWS DIG Powered by JNN）",
+      "category": "DISASTER",
+      "time": "2026-08-29T11:27:16Z",
+      "summary": "【レベル4土砂災害危険警報】石川県・加賀市に発表 20:25時点（TBS NEWS DIG Powered by JNN）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YMWZHOUtwSDFKZ2RMSDdXcnBoMF9nV2d4VzJ5N3BvU0Q0ekFVWk5QZUYzWVk4Zk1KcE1zMlFERlJxLTE1dkw3OVZObElfRjFhLWRFeGFLWWItMVR6RDNCMXVBbWo1ZFFVQm5NUkZuMkJIcS1EZndGWm1jcHVMZ1E?oc=5"
+    },
+    {
+      "id": "news-disaster-8dbc168aa0",
+      "lat": 35.75037,
+      "lng": 139.77675,
+      "title": "【レベル４土砂災害危険警報】石川県・加賀市に発表 20:25時点",
+      "category": "DISASTER",
+      "time": "2026-08-29T11:25:00Z",
+      "summary": "【レベル４土砂災害危険警報】石川県・加賀市に発表 20:25時点&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ibm9xR2VTVUpQSHloTGVPcUVURXJRSHpuOF9Ea1FOd29lbjhDRWhMN0VmNHpwY2JNeXh3THY3MzE2SktjLWJUeExucWNyZEFYYVF3UnlVWQ?oc=5"
+    },
+    {
       "id": "news-disaster-3d71d23c91",
-      "lat": 35.73544,
-      "lng": 139.71961,
+      "lat": 35.72407,
+      "lng": 139.78686,
       "title": "福井県勝山市、大野市、坂井市、永平寺町にレベル4土砂災害危険警報 福井市など5市町にレベル3大雨警報 8月29日夜",
       "category": "DISASTER",
       "time": "2026-08-29T11:18:00Z",
@@ -145,8 +178,8 @@
     },
     {
       "id": "news-disaster-5b313d7a5f",
-      "lat": 35.6707,
-      "lng": 139.75395,
+      "lat": 35.69105,
+      "lng": 139.79851,
       "title": "【レベル4土砂災害危険警報】福井県・大野市、坂井市、永平寺町に発表 20:11時点（TBS NEWS DIG Powered by JNN）",
       "category": "DISASTER",
       "time": "2026-08-29T11:13:13Z",
@@ -155,53 +188,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5peDdBTUFudlFSUFp6Ulg4UDlsTWJINm1GLU0tYkY1RF9obTFhTmtuQ2plYkFCV0pvSUZDTVN0emk0UXpIejZ0UzljaUM4VWpfbjFDSUtGZS04SDhVRi15R0ZUdUFPY3ltbE92MXNudWh3V1V5Yk5OajBVTjBFU2c?oc=5"
     },
     {
-      "id": "news-disaster-7df586bb57",
-      "lat": 35.66931,
-      "lng": 139.76249,
-      "title": "福井・勝山市に「レベル4」土砂災害危険警報 早めの避難を",
+      "id": "news-disaster-c5917962fc",
+      "lat": 35.6755,
+      "lng": 139.76145,
+      "title": "【速報】勝山市にレベル4土砂災害危険警報 土砂災害に厳重警戒 福井市など5市町にレベル3大雨警報（FBC 福井放送）",
       "category": "DISASTER",
-      "time": "2026-08-29T11:08:22Z",
-      "summary": "福井・勝山市に「レベル4」土砂災害危険警報 早めの避難を&nbsp;&nbsp;テレ朝NEWS",
-      "source_name": "テレ朝NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jTEhfcGI3aDFnbm1DdmVJWTNVNXJnT1ZhTEp6cHctYS0xUGtIUjR6Yk4tUV9kUUd1ZXFVX1RIQVR1Q2pXWFlrWXdodTJPOXZ4Tlo2SHpoc1ByNjlQN3FVb3EyQ2M0VmQxM1paaWF0MVlQdw?oc=5"
-    },
-    {
-      "id": "news-disaster-fdbbd5be7f",
-      "lat": 28.31856,
-      "lng": 83.97158,
-      "title": "Nepal wants technical help for flood, billions of dollars as bad weather hampers rescue",
-      "category": "DISASTER",
-      "time": "2026-08-29T11:05:34Z",
-      "summary": "Nepal wants technical help for flood, billions of dollars as bad weather hampers rescue&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5"
-    },
-    {
-      "id": "news-disaster-e383e200e2",
-      "lat": -0.87041,
-      "lng": -89.60818,
-      "title": "Islanders asked to report sightings of rare eel",
-      "category": "DISASTER",
-      "time": "2026-08-29T11:04:45Z",
-      "summary": "The Nature Commission asks people to record sightings of the critically endangered eels.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cew91wykg2qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-disaster-40ac0128db",
-      "lat": 35.74332,
-      "lng": 139.73169,
-      "title": "【速報】福井県に「レベル4土砂災害危険警報」を発表 危険な場所から避難を（tenki.jp）",
-      "category": "DISASTER",
-      "time": "2026-08-29T10:59:19Z",
-      "summary": "【速報】福井県に「レベル4土砂災害危険警報」を発表 危険な場所から避難を（tenki.jp）&nbsp;&nbsp;Yahoo!ニュース",
+      "time": "2026-08-29T11:09:00Z",
+      "summary": "【速報】勝山市にレベル4土砂災害危険警報 土砂災害に厳重警戒 福井市など5市町にレベル3大雨警報（FBC 福井放送）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93UF8zWnZQMV9semY0U0pvVVJpT0dLbUF3UmIzY3MwOGkxVjdnWkZmWjVWS29JeS1OVTBNcnlsQkpwbnVBRFJSRG1Mdk1VUXEyVkRZZ2tsTDZXZk80dnhtZFZJSHEzaEt3eVFQOWRUdVRpRzVzZ3REWWdIQ05pRlU?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNU1PSHFXajFZUktQV0ZlVC1MVFp1c0FhZ25kam1xcmJlNU5GZlk0NkoxX3VZalh5eUtGbnZRMl9MVmVaVzAtR0hteF9fc2VycjlxUjROYTNGSUZQWi00M2JMRjNJMEpuRUNiTXZWLTVuQ1VNdVpzS0ljUXNMSGd3RnNFTE91YTdRMVZFRVlxbGFUbmVfVG84d2MzUlpDZnpIczVLX21rTnZkcW5HWFQzOW9PMWNBNDFqdktWMXN5dENTTTJlZDQzQTZLNno?oc=5"
     },
     {
       "id": "news-accident-966af325ee",
-      "lat": 31.31016,
-      "lng": -84.87042,
+      "lat": 31.36839,
+      "lng": -84.86836,
       "title": "Early morning crash shuts down multiple lanes on I-90 westbound in Cleveland",
       "category": "ACCIDENT",
       "time": "2026-08-29T11:12:00Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-0e0736154e",
-      "lat": 56.96273,
-      "lng": 24.11398,
+      "lat": 56.98603,
+      "lng": 24.09658,
       "title": "「人生のどん底」事故で夢絶たれた元Jリーガー「何度も無理」と思いながら芽生えた使命感で車いすバスケ日本代表に",
       "category": "ACCIDENT",
       "time": "2026-08-29T11:00:37Z",
@@ -221,9 +221,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFUmNoNXBMNVZhckpQTFBMNXB3WHRiUUJKdG1LR05ESDJYLVdwN2hUenYxOG9XMS1SRzQ5WXFQRmp2d2tBVzdCcEg0VV9TTDNCOXlTNDJKQk0xaF9SM0NpWTI3XzNSRFk5c3lCTTlZWE14d2NSN2tUV3R4VHk0dVk?oc=5"
     },
     {
+      "id": "news-accident-b1af512c22",
+      "lat": 31.57605,
+      "lng": 130.50412,
+      "title": "行方不明の中高生３人を発見 全員の死亡を確認 いちき串木野市沖海難事故（鹿児島ニュースＫＴＳ）",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T10:57:02Z",
+      "summary": "行方不明の中高生３人を発見 全員の死亡を確認 いちき串木野市沖海難事故（鹿児島ニュースＫＴＳ）&nbsp;&nbsp;Yahoo!ニュース鹿児島 いちき串木野市の水難事故 沖合で発見の中高生3人死亡&nbsp;&nbsp;NHKニュース海保が３人死亡事故で訂正&nbsp;&nbsp;福井新聞社",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93S1lwTUdVM2p5NkxvSlk1MkhTbFdia09TR0Rva0stRlN1Nk94alNSbnRDZEZTMTNwTzh1Z0paTm9Ka3FhRDU2UklqZkhBUmwwdV9idFVNcHEyV1FtT09Tb0JhUks1OEtVVXdoY0lDZ1ZaSGxhTmkzaTlmMWF4alk?oc=5"
+    },
+    {
       "id": "news-accident-a6ce82bce3",
-      "lat": 34.09881,
-      "lng": -118.30293,
+      "lat": 34.16438,
+      "lng": -118.37172,
       "title": "北海道大雨 白老町で4400世帯の断水解除 脱線事故など交通への影響は続く（2026年8月29日掲載）｜日テレNEWS NNN",
       "category": "ACCIDENT",
       "time": "2026-08-29T10:36:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-5cc6f5b3b6",
-      "lat": 8.13301,
-      "lng": -2.79529,
+      "lat": 8.15204,
+      "lng": -2.82351,
       "title": "東武4人死亡事故 見張り員「退避していると思った」（ABEMA TIMES）",
       "category": "ACCIDENT",
       "time": "2026-08-29T10:30:38Z",
@@ -244,30 +255,19 @@
     },
     {
       "id": "news-accident-ea14e05b43",
-      "lat": 37.91823,
-      "lng": 138.99168,
-      "title": "［道路情報］北陸道上り線の巻潟東ICー三条燕IC間が事故で渋滞発生（8月29日）",
+      "lat": 37.88613,
+      "lng": 139.06738,
+      "title": "［道路情報］北陸道上り線の巻潟東ＩＣー三条燕ＩＣ間、事故で一時通行止め（8月29日）",
       "category": "ACCIDENT",
       "time": "2026-08-29T10:00:00Z",
-      "summary": "［道路情報］北陸道上り線の巻潟東ICー三条燕IC間が事故で渋滞発生（8月29日）&nbsp;&nbsp;新潟日報",
+      "summary": "［道路情報］北陸道上り線の巻潟東ＩＣー三条燕ＩＣ間、事故で一時通行止め（8月29日）&nbsp;&nbsp;新潟日報",
       "source_name": "新潟日報",
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDa0dBNGsxTDhQYnNaMlFuY0p5clFfS3hicnhoeUpxTTFGcG9iUzd6dTZVQWs2SjJ6ZFhoWHhObFp3eEFYOXFhYVh0ejhvcWxMSmhiWmxuR3pJYXlyQ0E?oc=5"
     },
     {
-      "id": "news-accident-8a0454d7a1",
-      "lat": 31.61378,
-      "lng": 130.54805,
-      "title": "鹿児島沖で中高生が流された事故、現場近くで３人を発見・いずれも死亡確認",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T09:50:00Z",
-      "summary": "鹿児島沖で中高生が流された事故、現場近くで３人を発見・いずれも死亡確認&nbsp;&nbsp;読売新聞",
-      "source_name": "読売新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BbzVJOFRZVUpWVjNpRFRXNVdkLURxdkt0UVNZMDNRajZDdHhJVXNtLWRFTWItdm5NZk5ZRXJ2ZC1LYWg1V1V2ZENncG5nTHRUS25jb2xZNThCZzFPZkIxYUZWdVdNQQ?oc=5"
-    },
-    {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.953,
-      "lng": 4.60278,
+      "lat": 46.94562,
+      "lng": 4.62688,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-b683e4e58b",
-      "lat": 35.73418,
-      "lng": 139.49091,
+      "lat": 35.72412,
+      "lng": 139.47496,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:27:18Z",
@@ -287,20 +287,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0lQam9WY05Tdjc0SVBxVkRTMVdxREYxaUt5VWZJNVRvYlh2eWVnVnZXWFQ0RzloQk0tb2tTTVlrd3NMdUhvY2M2VXZibC1IUWhzOVFGS253aFVFUTlSTEJ6bTVNaVZCd1BPV0ZkOFBNRXVrbDBraVNyemJXNE5YRGJmYlpkYWdncFoycG9YY09BMXh6Wnc?oc=5"
     },
     {
-      "id": "news-disease-105bc34909",
-      "lat": 35.80787,
-      "lng": 139.58522,
-      "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」（日刊スポーツ）",
+      "id": "news-disease-efa276ec34",
+      "lat": 35.8267,
+      "lng": 139.47604,
+      "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
-      "time": "2026-08-29T09:10:14Z",
-      "summary": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」（日刊スポーツ）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSlNfaFA3SmZEb2piU3FIaFl1bmZuVy0tZkczVEpGTmdVSVVYeXBjell3UThWTTRZdnRlbVRHV1AwZDJUZlpvdWI1dUVXXzQweEs1dDE3Z1NpQjhGZnplaUVTNzd5dlVkSWdiaExaYWd4M2JJQjlOQy1teF9XMjA?oc=5"
+      "time": "2026-08-29T09:10:17Z",
+      "summary": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」&nbsp;&nbsp;日刊スポーツ",
+      "source_name": "日刊スポーツ",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yaGhOZ3VHUVJSVk9zSVQ0dndUUDFCX3Z3OXFQZ2Vyb1Y2VlluWWNFLWx6Y1RROFBId3pRZ1VOaFdfQ2EzR2k2cU9ydGNNUjVjYUlSUUpSVzJwNDNxczF0cGxSaUxqakFSMnYteWNralA3WmJWOFU40gF_QVVfeXFMUGJhcWxoT1VrRWJVOWFfTkpGOGM3a09mdGRwWjJ3X2xhYkNkOW9BSTNjSnZEdlBTRktNbFFqZGpRa0dGVC1sa1Q5WmdISzY5aVNLQlVZcmVzdnlfSGNPNWJmOU5vWmkzR2t5Vl94TC1HY0F3ODNkN2hHZVJIQkhIaw?oc=5"
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.81391,
-      "lng": 135.61873,
+      "lat": 34.84749,
+      "lng": 135.52881,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.69795,
-      "lng": 139.77314,
+      "lat": 35.69664,
+      "lng": 139.81554,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.79798,
-      "lng": 135.6079,
+      "lat": 34.77322,
+      "lng": 135.5361,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -331,20 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOWZ2TElvT05CYlUtUjd3UURkbjU2SEdJV2oyeEo0Wm9ZTHlYUnF6enhadHByV0lsVXZiQmllVGcyY08yYl9UdzNHeG9hbVpJV0JrRA?oc=5"
     },
     {
+      "id": "news-technology-bb10eb166a",
+      "lat": 41.4381,
+      "lng": -88.04016,
+      "title": "How Will AI Impact the Future of the Clinical Workforce?",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T11:40:55Z",
+      "summary": "How Will AI Impact the Future of the Clinical Workforce?&nbsp;&nbsp;WCM Newsroom",
+      "source_name": "WCM Newsroom",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmlJdXJiM1BDMk9KNk1PWVlXVmVaUG1QcnB2YzZuR1FyeUlxaW51WHNUeEYta25VaHBlMTNxY3YySkxkRVFzY0ZCRjF3eDRLNHJQUHI0TGpZS2dRVUUzQ1VJWC1GSmg0OFllSGlSSVFGQ3dUVDdLbEMxbHZReFJaYi1WWjFqN2k5ZFZSTzBacjRQWGVxQWZTRXphX0N3eWJ2?oc=5"
+    },
+    {
+      "id": "news-technology-0f6d3bfe13",
+      "lat": 41.40116,
+      "lng": -87.96431,
+      "title": "Will You Shape AI Or Will AI Shape You?",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T11:39:00Z",
+      "summary": "Will You Shape AI Or Will AI Shape You?&nbsp;&nbsp;Forbes",
+      "source_name": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSzVxNVBwVXZzZ0hpWUNCTV9CU0tybmZDVjluaEFuYlhDQjhkTHBWeXdwT3RGM1lTajU2TkFhdlRUc29ITmZJUHFnSjYwSDJSVk1ESklYT1kybDlqRUx4bjcxMDFPX2cyR3JYVWg5Qk5ENldvQ3c0Y1FtcTUtLTBXNGN4azJYLXFmMk1OdXF5NngtZndtZnc?oc=5"
+    },
+    {
       "id": "news-technology-c8c6ecf5f7",
-      "lat": 45.30266,
-      "lng": -75.80553,
+      "lat": 45.26432,
+      "lng": -75.88499,
       "title": "We’re Now Relying on AI to Police AI",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T11:30:25Z",
+      "time": "2026-08-29T11:34:53Z",
       "summary": "We’re Now Relying on AI to Police AI&nbsp;&nbsp;Mother Jones",
       "source_name": "Mother Jones",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTDZFZnRHWXF2TFVlSWJnbVhld1pjc2E3M3JWSnJsbFM1VzVOLWt0X1o0X2NGMmpxMXhydWJrU1JteDRCdzNzVWJLUUV3UDR2TDFmNl9rajZHOEVZTmlMRjJhZ093VkExMGw2V3hRS0E2V05GbWJQM0NhZ3pkeXp2aDRfWnVYZkdXU1ljMHp5bjJXa3RCWGNxUVNQMA?oc=5"
     },
     {
       "id": "news-technology-1853589e8d",
-      "lat": 35.32793,
-      "lng": 139.48499,
+      "lat": 35.39761,
+      "lng": 139.50842,
       "title": "ビル・ゲイツ氏のAI課税・国際規制提言、実効性の焦点は #エキスパートトピ（八田真行） - エキスパート",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T11:21:27Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-8f95b5af1a",
-      "lat": 53.38386,
-      "lng": -6.18381,
+      "lat": 53.38006,
+      "lng": -6.25558,
       "title": "DocuSign (DOCU) Stock Looks Above Fair Value After AI Optimism",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T11:07:28Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-af1e1418de",
-      "lat": 37.84567,
-      "lng": 139.05632,
+      "lat": 37.91892,
+      "lng": 138.96417,
       "title": "【AI予想・新潟記念】強敵相手も能力発揮ならチャンスは十分！ 人工知能が重賞初制覇に期待した馬とは（netkeiba）",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T11:00:02Z",
       "summary": "【AI予想・新潟記念】強敵相手も能力発揮ならチャンスは十分！ 人工知能が重賞初制覇に期待した馬とは（netkeiba）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wMmJlWlNKdHRPWDBSekVhbU9PVDNOdS1VQWtxSjBBMi1ZMDBXUXlmc2JFLVEwRGRUa0RLeXl3TmtMUVBWMTJtVktwd091NUpiS3ZIX25oWS0zVFY0YndlRUFTVXotSkIwNFJBekpiS2t4OUNIdDhGMUhBZ2lZMTA?oc=5"
-    },
-    {
-      "id": "news-technology-0b515f1fd1",
-      "lat": 51.58017,
-      "lng": -3.27167,
-      "title": "What Is Emotional Intelligence? The New Definition For The AI Era",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T10:53:00Z",
-      "summary": "What Is Emotional Intelligence? The New Definition For The AI Era&nbsp;&nbsp;Forbes",
-      "source_name": "Forbes",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUJUaXJpM05aU2lqa0R5RW5fUXpPRlZKT0diTU00bzJlby1qUEY2TXRKYl8zUTBFdnNEeHkydlBoRXp5N0Q3aEpLMnJEaHMwRDBGQk9xZEZNNGRaMExFSUpjempCUGpaVkNsaVc1c05nbGxxWDRHLXI3ZXU1OU1EM1YzQ3NzMWFiZzhXd0dTemxwblgwdE9nSkZ3TWotdEMyRmFBelJPWlduSk44c1pyYVdXQlZKZGs?oc=5"
-    },
-    {
-      "id": "news-technology-e78a17cae3",
-      "lat": 40.66242,
-      "lng": -73.9553,
-      "title": "Bill Gates is loudly warning that A.I. poses a grave threat to jobs and human life, and that addressing the risks should be “the world’s top priority.” In an interview with The New York Times, Gates said the tech industry was knowingly downplaying those threats. h",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T10:40:03Z",
-      "summary": "Bill Gates is loudly warning that A.I. poses a grave threat to jobs and human life, and that addressing the risks should be “the world’s top priority.” In an interview with The New York Times, Gates said the tech industry was knowingly downplaying those threats. h&nbsp;&nbsp;face",
-      "source_name": "facebook.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRk02ZlQtQzZEMm5SbV9Hd3h1X0xDcXg4UklOMzdIZkZ1dFFmaXJuZXFlVk5WQ0tVWGZjcHZhU2t1Njd1VURHb1BVVWNOSFA3YlZqVktjVXBReGFCUnk2THVaNHNYSFFZRHpINnRXVlZOOEJYaUJGM2U1Q29Yd3N5VzRBWmJkMU42TllYaDVhMVhEd09qM19qa1E3b2xwQWd0a01lVkhOb2xFWUhZVnlVUUN4dlhYZmNUNWpVS1B1ZGtVUUVoN0VPVGx3UzlnMzZUVV9r?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T11:33:38Z"
+  "updated_at": "2026-08-29T11:48:48Z"
 }
