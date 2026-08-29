@@ -1,9 +1,42 @@
 {
   "news": [
     {
+      "id": "news-politics-7d0b7e06c5",
+      "lat": 39.70874,
+      "lng": -76.6097,
+      "title": "USA-TRUMP/CANADA",
+      "category": "POLITICS",
+      "time": "2026-08-29T12:29:50Z",
+      "summary": "USA-TRUMP/CANADA&nbsp;&nbsp;news8000.com",
+      "source_name": "news8000.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSjFveTlvNEE5cXEtTEl0ckJBSmtMVldfYTZfQ1J0eDd5QXNyaGpBZnlEb0dpYnJISXJZckZlbE9nRUdqWEY0OUpTU2I0TDlaY2tOdUpUcmttQmhYQUVoNTU2X0dKUk5LTktoTXRMYkdLSWs2LWNZeWpfblEtRGFYM1V5NS15eVRodFpSUU5GckpmV1Y5czVZc0JRQXZPeDFaMUFhOW1Oby1IMDJDLWxtTWF2bHFNOXhuSE1pN1Nn?oc=5"
+    },
+    {
+      "id": "news-politics-0587307dea",
+      "lat": 50.43135,
+      "lng": 30.52252,
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+      "category": "POLITICS",
+      "time": "2026-08-29T12:22:53Z",
+      "summary": "An investigation has been launched into the storage of weapons in the deopt near a residential area.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-c63bdcf858",
+      "lat": -28.64914,
+      "lng": 153.42706,
+      "title": "Byron Donalds, Bill Maher discuss Lindsay Clancy, Jed York",
+      "category": "POLITICS",
+      "time": "2026-08-29T12:13:34Z",
+      "summary": "Byron Donalds, Bill Maher discuss Lindsay Clancy, Jed York&nbsp;&nbsp;Florida Politics",
+      "source_name": "Florida Politics",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JNHpwQThUX21JcV9CSU56eFRwMDVROHJhcVdpYjJpYS1obl9ZeEladWk0Ujl4emNySHZnNkU0T2E4S1BhaVNMM3B2Vk5oNjNtX0dfMVZycWVpaGVjVmo0THpISnZBSlBWWWM3dGFqLW5fSE1GS3pOVFNn?oc=5"
+    },
+    {
       "id": "news-politics-9188fcdc7f",
-      "lat": 38.9166,
-      "lng": -77.05673,
+      "lat": 38.87401,
+      "lng": -77.04919,
       "title": "This Appalachian memoir author is running as a Democratic contrast to JD Vance",
       "category": "POLITICS",
       "time": "2026-08-29T12:02:42Z",
@@ -12,20 +45,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmRFNG9FNUlNM1ZFTHcybHpCX0x6TzZFSnctVk1EZUtvbkVPNVFlcDBYSkNWbjVKVWl0bV80QVpDQmdfSVlxajdnWHdaYUJ1Y19nV2NPcUpGUEF2VEY1QTludWFSUC04ckI3VXpsZ0NIVVVoLTB4YThGNE53QjJXOUl5NFZKbHd3aUNsMmh0S05LdVRrUVI2ajdBdlZibmFzZ2JrSTdnR1JOWHRCX0NVbVllYWdfTDQ?oc=5"
     },
     {
-      "id": "news-politics-0587307dea",
-      "lat": 50.46226,
-      "lng": 30.50697,
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+      "id": "news-politics-4e33912a86",
+      "lat": 39.3089,
+      "lng": -81.58699,
+      "title": "One question about the Constitution puts liberals’ appetite for sweeping change to the test",
       "category": "POLITICS",
-      "time": "2026-08-29T11:53:37Z",
-      "summary": "An investigation has been launched into whether ammunition was being stored at the site.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+      "time": "2026-08-29T12:00:06Z",
+      "summary": "One question about the Constitution puts liberals’ appetite for sweeping change to the test&nbsp;&nbsp;Fox News",
+      "source_name": "Fox News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXJoMzgxMnZsYk9iUy1wS21remNDMnRhRDJWekZkRTM5VG5jaVJEbGZyZUFYbUNDTllodnc0MkZ0SkZYRVBRaVNvQ0lFZTJ4WXB5WVpmT3FpQWFoTm5WbjliRnZNZWxtNGZ4RDVscUNrd3E0aVJRTHBCTlg1dHEtcGVJMG5EWlh6dmZEZENwQmhXbE9haTZFclhFTW8zOGJGMG1MYdIBqgFBVV95cUxQdURxbXF1Mlo3YjZBX2d0el9wa0N1MnBSTXF2bDAxTlZaMkhZanlrMnpvYWpIdzVnNlFrc1VaWDl0Z1JXSWZzUUFZRTB6LUVLcmN4YlctV2RoZHJqNmRNTW5URzAtTmdoekRCTTFpZ3QzV0NhUEdOanYtbnVzNEVsc0VGenJyMTF6SWdFVmNtcFNxeFFYYXFkX0Y5V1FRX0VtQ282MTltZ2Nldw?oc=5"
     },
     {
       "id": "news-politics-86a4d5e5dc",
-      "lat": -19.63798,
-      "lng": -40.75042,
+      "lat": -19.65917,
+      "lng": -40.7292,
       "title": "Tancredo in Running for Dept. of Ed. Position | A LOOK BACK",
       "category": "POLITICS",
       "time": "2026-08-29T11:48:45Z",
@@ -34,42 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHRQb2JGaV9naTNEMmFCdmhxWnJ6Zjd5MFZaOGFkZ0JhXzRSRmhyYS1fSUNYS0ctaVI5d2ZzZ0tubC1qS2c5OG1BZUVVWjVweUlySUtuMGc2b3BkR2g3eng1Z1lBYXVZRWxYbjRCMFpBeUdYU1VOX2ltUlRTMkJmTTRFcnFXWlBCREt2Wm9qQXJKVm5KOEg5RDF5UlNsTHRkLXc?oc=5"
     },
     {
-      "id": "news-politics-4ad6fe6b6a",
-      "lat": 34.25995,
-      "lng": -102.44781,
-      "title": "The Earth is sizzling, but climate isn't a hot topic for Democrats in this year's campaigns",
-      "category": "POLITICS",
-      "time": "2026-08-29T11:44:43Z",
-      "summary": "The Earth is sizzling, but climate isn't a hot topic for Democrats in this year's campaigns&nbsp;&nbsp;News4JAX",
-      "source_name": "News4JAX",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTlFuN3dod1RvV1FFd0F5RmpYalFSeUVPQmladHF6Q3FOTndtZEpfYnpqRVIzS2s4LWlVUkllSTg2dGZTeVZFdXdKQ1BKUXZPMi1wcUFJclhNR1lSMWJSdWxCY2x4TWN2bE5Tc2N4SktIWmtWQnJRVU52ZUdwOFdmNmpfTUVFQVIwM0gxSWt5aGJmdWl5S2oxM25QRnNmN3R6THdISGNZeDRlcHNYMWo2UERpaGlFemFyMTU1RmtLVF8ycE96dFNHQjZvTkpYUjRRSHB4dl9B?oc=5"
-    },
-    {
-      "id": "news-politics-6a30e4823a",
-      "lat": 38.89697,
-      "lng": -77.07529,
-      "title": "How states’ fight over an ICE agent could open a new political battleground",
-      "category": "POLITICS",
-      "time": "2026-08-29T11:33:00Z",
-      "summary": "How states’ fight over an ICE agent could open a new political battleground&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZpUGhJTjdORUF2ckFTcWdUVjE1akdfRGhJVkdMUmJHelducnZfT1R3V1Q2ZlhlSy1Ta1htOHc5ejEyVVJVMnd4aUdpWFB4UkFCc3M3N1B5SWRUcTc0Z2V6dDBySUg5b2ZzRFh0NGhGNXFpWDhzSEFqemM3NDFZTVVUQ0ZObTZXWXRERERRdjBKOXlBZ3FkVTFFYldlVDBPYmNIbkhnUy1iaU5pd29iNFB1ZEh6S21VVWdPNDQtQzk?oc=5"
-    },
-    {
-      "id": "news-politics-cd38c7177e",
-      "lat": 50.17042,
-      "lng": 8.70394,
-      "title": "The coming election and mischief in the making | SONDERMANN",
-      "category": "POLITICS",
-      "time": "2026-08-29T11:30:09Z",
-      "summary": "The coming election and mischief in the making | SONDERMANN&nbsp;&nbsp;Colorado Politics",
-      "source_name": "Colorado Politics",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS01fVjh5Z2lrSWRlNXE1bXlvck9SVDl1UWJrTEw4eEZzM1Y1d0tJSjNPNHkzejJHdE9vZTZFZXdZckhiQmY0YjVRbzlxZEZDV3F4czgzWGxKMmY1TEJFZmpyMHc5RmZwemZIX0lyZFFhU1pnbWNkX0czUC0yRy1ISU9NZlN2TTZSRDFsQ09xcC1HZGNobEJLWmdEem9iUzRUd1MzSA?oc=5"
-    },
-    {
       "id": "news-finance-7da566d80f",
-      "lat": 36.88141,
-      "lng": -80.18956,
+      "lat": 36.94835,
+      "lng": -80.14395,
       "title": "Smart Investor: Warsh Talks Tough, Bitcoin’s Bounce, Top Managers’ Stock Picks",
       "category": "FINANCE",
       "time": "2026-08-29T12:11:15Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-76a2e4b69f",
-      "lat": 52.52698,
-      "lng": 13.40567,
+      "lat": 52.51571,
+      "lng": 13.43055,
       "title": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
       "category": "FINANCE",
       "time": "2026-08-29T11:51:18Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-6be86e06ef",
-      "lat": 37.24254,
-      "lng": -98.69093,
+      "lat": 37.26365,
+      "lng": -98.68483,
       "title": "Barber offers free back-to-school haircuts",
       "category": "FINANCE",
       "time": "2026-08-29T11:47:46Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-b376e4ffd5",
-      "lat": 6.88747,
-      "lng": 124.62173,
+      "lat": 6.88073,
+      "lng": 124.61694,
       "title": "Red Violet Eyes M&A Growth as AI Identity Platform Expands Across Key Markets",
       "category": "FINANCE",
       "time": "2026-08-29T11:01:59Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-9079484e1d",
-      "lat": 40.71063,
-      "lng": -73.99515,
+      "lat": 40.71585,
+      "lng": -73.92219,
       "title": "Retailers feel the sting as cautious consumers weigh their options",
       "category": "FINANCE",
       "time": "2026-08-29T10:00:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-1bda4653f6",
-      "lat": 38.21051,
-      "lng": 140.94517,
+      "lat": 38.27416,
+      "lng": 140.91909,
       "title": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）",
       "category": "FINANCE",
       "time": "2026-08-29T09:53:52Z",
@@ -133,31 +133,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwS1lNd1JkSllWYUhhc1BaUktHd0ZzYTB0RzVHa0M5YzdJb3lqckNsai1NUERBcEtXRmtGdDgxblBqcEVxMkVJRkJXRlVFbU94MkE?oc=5"
     },
     {
-      "id": "news-disaster-52a3b0cc44",
-      "lat": 32.81807,
-      "lng": 130.76515,
+      "id": "news-disaster-dbb01cc124",
+      "lat": 4.12333,
+      "lng": -72.89971,
+      "title": "Colombia ups vaccination efforts post earthquake",
+      "category": "DISASTER",
+      "time": "2026-08-29T12:17:59Z",
+      "summary": "Colombia ups vaccination efforts post earthquake&nbsp;&nbsp;Outbreak News Today",
+      "source_name": "Outbreak News Today",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oTDVqdjN4RUJlanZyaHA3M1NtcUgzaFQ2Q3ZGdG1nWEZpXzdQQmJIMEVhbXR2dzlGNDRtQTNrd0huRFVnSkpMaXNrVk1CbURRamlkWXhSQnhYd2JEbWNsdzlGZGlDS1dDRy1JTnpKeVY1QnBJdWtzLTNQR3NzQQ?oc=5"
+    },
+    {
+      "id": "news-disaster-45392df76d",
+      "lat": 35.67817,
+      "lng": 139.76846,
+      "title": "レベル4土砂災害危険警報 石川県、福井県（ABEMA TIMES）",
+      "category": "DISASTER",
+      "time": "2026-08-29T12:09:16Z",
+      "summary": "レベル4土砂災害危険警報 石川県、福井県（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3WXcwaGhQZVdlSVo5Q0xmT3BtbGlMU1RpZ1Joc1RhT2Rtb0kxSlBaLXd6QlZwOS1pWk5WVW55UERwVm1iTmktYmNCVEt4eUp0cFFLTkZMRS1HdWxvajl3WWFHcmIySlFIV2dOYjZmb01xQnVPUEtmcnM4bjhGcW8?oc=5"
+    },
+    {
+      "id": "news-disaster-7510aa3e07",
+      "lat": 32.7305,
+      "lng": 130.78473,
       "title": "熊本地震から1か月 データで見えた「隠れ避難所」と支援の届きにくさ ガソリン供給なぜ災害のたび滞る【報道特集】",
       "category": "DISASTER",
-      "time": "2026-08-29T12:10:24Z",
-      "summary": "熊本地震から1か月 データで見えた「隠れ避難所」と支援の届きにくさ ガソリン供給なぜ災害のたび滞る【報道特集】&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NNGNpSTVHMHE5cE5vSDhGQ3U2M1hYOXpLbmNDTHNYOVFmSkdfQ2FTT3JmcGNFNmJQcEtjVUt5bEZiaGhieGRvSGNqWWhVSnlYMjNUMU1HZEZTRXVSNmFhNU4xbWpVWGc1cVhlaWt1MDVfY2cyU05lUVJ6SW1LbTg?oc=5"
+      "time": "2026-08-29T12:09:00Z",
+      "summary": "熊本地震から1か月 データで見えた「隠れ避難所」と支援の届きにくさ ガソリン供給なぜ災害のたび滞る【報道特集】&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcDIyZnNxM1dRdVZkNmRRTzQ3NXF4Z0JhWE41ZGNERVhzQXpxMUpHcE1yeXZkRkg3YkVmbXlMUHRud0ZUTlgtcFRGRy1VU0dxMkljTWRaLXpBemxBRFhZTFk0TGo?oc=5"
     },
     {
       "id": "news-disaster-3ec2917ee5",
-      "lat": 28.3437,
-      "lng": 84.02919,
+      "lat": 28.41089,
+      "lng": 84.02721,
       "title": "Why Nepal's rare, deadly flood struck without warning",
       "category": "DISASTER",
-      "time": "2026-08-29T12:02:23Z",
+      "time": "2026-08-29T12:01:25Z",
       "summary": "Why Nepal's rare, deadly flood struck without warning&nbsp;&nbsp;Axios",
       "source_name": "Axios",
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0ySWYwejZlRmprSXltZHlobXF0cHhtTHRKdlQ4MnBPWEFESXRnOFNUYmJLZXRwalNuWnUwalhDWGpoT2JYOFdSU2hHX2JZU1dwajdHTHhKUHBRaVJDb2lETmtkQTU5eERvZGpiUEhja182NGdOQV9tQnUwRQ?oc=5"
     },
     {
       "id": "news-disaster-0a44e2947d",
-      "lat": 35.03006,
-      "lng": 138.42447,
+      "lat": 35.01633,
+      "lng": 138.41324,
       "title": "熊本地震発生１カ月…いまだ642人が避難生活の宇城市に職員派遣 市長「酷暑の中、多くの避難者がいる」 静岡・沼津市",
       "category": "DISASTER",
       "time": "2026-08-29T11:50:26Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-0a8cabccc8",
-      "lat": 35.71859,
-      "lng": 139.74985,
+      "lat": 35.68453,
+      "lng": 139.72264,
       "title": "石川県と福井県に「レベル4」土砂災害危険警報 早めの避難を",
       "category": "DISASTER",
       "time": "2026-08-29T11:49:35Z",
@@ -177,31 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKVmFKRVNHX3dQM3lZMVNWeldCQW5MR2V4SmV6eUNvTWZTWkl4bzRjeEVRWEdkMVhRRUNBSjU1MVV1SjJKaDhUazBVNVR5NER0MF9JQXkyLUYzYXRRMzNNeUVIVDBRanBvZVBMaTgwd2JTZw?oc=5"
     },
     {
-      "id": "news-disaster-d551a44317",
-      "lat": 35.69974,
-      "lng": 139.78009,
-      "title": "石川県と福井県に「レベル4」土砂災害危険警報 早めの避難を（テレビ朝日系（ANN））",
-      "category": "DISASTER",
-      "time": "2026-08-29T11:49:35Z",
-      "summary": "石川県と福井県に「レベル4」土砂災害危険警報 早めの避難を（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4RzRvdFk0NkFsejRhUXhlSFhhTWRlUU1TZjJRZGFHUEZWbC0zQXdLVlJJMXhueGhsT25HeWl6OXA1NzVUS2NaOG1TLVZrVlBnelM1UFZpbDBhT2MxWmpvMnBiUzUxcWVFcmRxMFF0SjZpNHVCaU1SeS1fbnY1cWM?oc=5"
-    },
-    {
-      "id": "news-disaster-4259c9ed1a",
-      "lat": 35.65945,
-      "lng": 139.80671,
-      "title": "【速報】大雨被害の石川県に再び「レベル4土砂災害危険警報」危険な場所から避難を(気象予報士 日直主任 2026年08月29日)",
-      "category": "DISASTER",
-      "time": "2026-08-29T11:32:05Z",
-      "summary": "【速報】大雨被害の石川県に再び「レベル4土砂災害危険警報」危険な場所から避難を(気象予報士 日直主任 2026年08月29日)&nbsp;&nbsp;tenki.jp",
-      "source_name": "tenki.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HSDhxWEM4VWl1bTZmVjRwcWxkSDBuYklkUGkxV0xHb1VPZzdRWWpaMEZoeTJ5a2taM2wwUDhhZldVcHJ3SGU3SEcyZlEtVzEyemFWNnRNNXR4dVhBTGpEOVZiamVFanlkVmfSAW9BVV95cUxQU2lHcmRvX0pvR2RFa2lKOXNoRnVQX2ZvbnE4bnJld0xOWmVKVC1PNldnaGpBN2VqcVl6cndqYTk2SEdDT3BZWnZRc1FGelRhTlhhV0RjQm5XT2lHR0tHQldFVWFrZV93eFlXWlFPaUE?oc=5"
-    },
-    {
       "id": "news-accident-4aa619c0fc",
-      "lat": 43.00473,
-      "lng": 141.30867,
+      "lat": 43.04954,
+      "lng": 141.40363,
       "title": "「海に車が落ちている」唐津市唐房の漁港で、水没車両から50代男性の遺体 | 事件・事故 | 佐賀県のニュース",
       "category": "ACCIDENT",
       "time": "2026-08-29T12:09:16Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-e0b1691c6a",
-      "lat": 35.59051,
-      "lng": 139.76183,
+      "lat": 35.63637,
+      "lng": 139.79219,
       "title": "一度は途絶えた福島・浪江町の畜産 原発事故を乗り越え、未来を拓く2人の若き女性酪農家（福島テレビ）",
       "category": "ACCIDENT",
       "time": "2026-08-29T12:00:01Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-9b82f3994c",
-      "lat": 43.0085,
-      "lng": 141.29238,
+      "lat": 43.09043,
+      "lng": 141.38119,
       "title": "一度は途絶えた福島・浪江町の畜産 原発事故を乗り越え、未来を拓く2人の若き女性酪農家：ニュース",
       "category": "ACCIDENT",
       "time": "2026-08-29T12:00:00Z",
@@ -232,20 +232,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxa1BiV1BuWks2SmtES3pkN1VMNWhzRGl6V0d2YnN6UnlYWjNGV3FtaVN4YmRQTzRXZ3NMUGpvcE9iSmxrRk5VX2loSXNkY0JYN2lCUENYYmV6QUlvT0N0Sjg3SVRkdUJUajBCZHRIeFdMQjNSRFgyVndn?oc=5"
     },
     {
-      "id": "news-accident-c1c8b1fadc",
-      "lat": 43.11602,
-      "lng": 141.37471,
-      "title": "海保が３人死亡事故で訂正 「遊泳禁止区域」は誤り｜全国のニュース｜Web東奥",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T11:21:43Z",
-      "summary": "海保が３人死亡事故で訂正 「遊泳禁止区域」は誤り｜全国のニュース｜Web東奥&nbsp;&nbsp;東奥日報社",
-      "source_name": "東奥日報社",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WN213ZkY5bG8yc3dadDgwN1ZfanVZNENuM3FSX25tQldHbWg3dEVZdER6T1BqLXlfTGpxTzNLU0Z2b1g5WjNjVnV5VURYYUV4TEREVFR1Z3I?oc=5"
-    },
-    {
       "id": "news-accident-966af325ee",
-      "lat": 31.3128,
-      "lng": -84.91265,
+      "lat": 31.38108,
+      "lng": -84.87729,
       "title": "Early morning crash shuts down multiple lanes on I-90 westbound in Cleveland",
       "category": "ACCIDENT",
       "time": "2026-08-29T11:12:00Z",
@@ -255,8 +244,8 @@
     },
     {
       "id": "news-accident-0e0736154e",
-      "lat": 56.91357,
-      "lng": 24.14831,
+      "lat": 56.90773,
+      "lng": 24.13491,
       "title": "「人生のどん底」事故で夢絶たれた元Jリーガー「何度も無理」と思いながら芽生えた使命感で車いすバスケ日本代表に",
       "category": "ACCIDENT",
       "time": "2026-08-29T11:00:37Z",
@@ -265,9 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFUmNoNXBMNVZhckpQTFBMNXB3WHRiUUJKdG1LR05ESDJYLVdwN2hUenYxOG9XMS1SRzQ5WXFQRmp2d2tBVzdCcEg0VV9TTDNCOXlTNDJKQk0xaF9SM0NpWTI3XzNSRFk5c3lCTTlZWE14d2NSN2tUV3R4VHk0dVk?oc=5"
     },
     {
+      "id": "news-accident-b1af512c22",
+      "lat": 31.54122,
+      "lng": 130.52245,
+      "title": "行方不明の中高生３人を発見 全員の死亡を確認 いちき串木野市沖海難事故（鹿児島ニュースＫＴＳ）",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T10:57:02Z",
+      "summary": "行方不明の中高生３人を発見 全員の死亡を確認 いちき串木野市沖海難事故（鹿児島ニュースＫＴＳ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93S1lwTUdVM2p5NkxvSlk1MkhTbFdia09TR0Rva0stRlN1Nk94alNSbnRDZEZTMTNwTzh1Z0paTm9Ka3FhRDU2UklqZkhBUmwwdV9idFVNcHEyV1FtT09Tb0JhUks1OEtVVXdoY0lDZ1ZaSGxhTmkzaTlmMWF4alk?oc=5"
+    },
+    {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.97286,
-      "lng": 4.62217,
+      "lat": 46.89992,
+      "lng": 4.63269,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -276,20 +276,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WM1VyS29EeEh0T2JubHlCWlJtS2o5N2hhSEpyMjhYT1AtYjBNVTQzVkxFYjIyaG9GZmZNMmJILXFrZE4zWFhkczN2UExBZjRpVkZZek1QNjU5N3ZPU1VJVFhrVnZrZUx4QjBZaDBhRHU0Vm5mbjZfdjN0akpBdUk?oc=5"
     },
     {
-      "id": "news-disease-b683e4e58b",
-      "lat": 35.72542,
-      "lng": 139.54798,
-      "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
-      "category": "DISEASE",
-      "time": "2026-08-29T09:27:18Z",
-      "summary": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」&nbsp;&nbsp;日刊スポーツ",
-      "source_name": "日刊スポーツ",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0lQam9WY05Tdjc0SVBxVkRTMVdxREYxaUt5VWZJNVRvYlh2eWVnVnZXWFQ0RzloQk0tb2tTTVlrd3NMdUhvY2M2VXZibC1IUWhzOVFGS253aFVFUTlSTEJ6bTVNaVZCd1BPV0ZkOFBNRXVrbDBraVNyemJXNE5YRGJmYlpkYWdncFoycG9YY09BMXh6Wnc?oc=5"
-    },
-    {
       "id": "news-disease-efa276ec34",
-      "lat": 35.75183,
-      "lng": 139.5087,
+      "lat": 35.81854,
+      "lng": 139.47256,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +288,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.86092,
-      "lng": 135.61125,
+      "lat": 34.81479,
+      "lng": 135.60185,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +299,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.71179,
-      "lng": 139.8128,
+      "lat": 35.71658,
+      "lng": 139.78787,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +310,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.87568,
-      "lng": 135.52871,
+      "lat": 34.83291,
+      "lng": 135.64208,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -331,9 +320,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOWZ2TElvT05CYlUtUjd3UURkbjU2SEdJV2oyeEo0Wm9ZTHlYUnF6enhadHByV0lsVXZiQmllVGcyY08yYl9UdzNHeG9hbVpJV0JrRA?oc=5"
     },
     {
+      "id": "news-disease-d03c0456f2",
+      "lat": 38.30595,
+      "lng": 140.90351,
+      "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
+      "category": "DISEASE",
+      "time": "2026-08-28T23:00:00Z",
+      "summary": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96YmdQX01VZWlqZDZxZW4zVmlQUXZubmYzX0dyWXNEV0pCVjlrSnBTaThKbENhdHNzRm5SendTR0h0VGg2blN2RXRsWThtbmx5VlRNd1h4YjZtVk9TUktjOXNnam9JeEM2ZGN2YzJJX21vWEp5WW15VHRPSmhqRVk?oc=5"
+    },
+    {
+      "id": "news-technology-15aab8aab5",
+      "lat": 35.02509,
+      "lng": 136.58874,
+      "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目(ダイヤモンド・ザイ)",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T12:20:00Z",
+      "summary": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目(ダイヤモンド・ザイ)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYlh6NTh4RW1qVk9KRHVvVmhqSVV6NXM1QUYwOTk5LVVlbmliLVhfNlVKZU9OMHZjWjJvQ3dLNjd3U2tibG9uS1lBNlZJVWhoMEVQWkF4amx2S2RLLXBqa0Nna3JlN1J5QnRoTVZXV054aEIyamRHYjJselJJVDhLVzJYdEgxc2c?oc=5"
+    },
+    {
       "id": "news-technology-c8c6ecf5f7",
-      "lat": 45.33391,
-      "lng": -75.85038,
+      "lat": 45.32509,
+      "lng": -75.87373,
       "title": "We’re Now Relying on AI to Police AI",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T12:08:03Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-0c1335273c",
-      "lat": 38.96434,
-      "lng": -76.98548,
+      "lat": 38.9489,
+      "lng": -76.99525,
       "title": "The Fed confronts a powerful new economic force",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T12:02:50Z",
@@ -353,9 +364,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5"
     },
     {
+      "id": "news-technology-00e14f54d9",
+      "lat": 50.78343,
+      "lng": 15.05159,
+      "title": "Qnity Electronics Sees AI, Advanced Packaging Fueling Its Next Growth Phase",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T12:01:59Z",
+      "summary": "Qnity Electronics Sees AI, Advanced Packaging Fueling Its Next Growth Phase&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVndmazFSOC1fZ0N0QlV5SVpiN1R2aTVQNEVuRHExTzNqYTdSVHlIQXd6TlZBWjBrbXI1Rkp6dVQybE13d2gtVUtaS1JPTldoVjlSTmhNbHlQWHdDb2ZJV2VzMEU1QkZBS1h0czVTRHdRWG1hOFF1a1VvbllSVlYzdGpoZWc1ZkJVQ19tSVU4V1BLZGw3RUI3b2NuNHkyR28?oc=5"
+    },
+    {
       "id": "news-technology-2c5c448bda",
-      "lat": 5.71286,
-      "lng": 0.02363,
+      "lat": 5.68304,
+      "lng": -0.02049,
       "title": "次回9/5(土)のテーマはAIです！謎解き問題はこちら！ - 「真相の館」お知らせ - 真相の館",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T12:00:04Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-6882dfd11c",
-      "lat": 40.65601,
-      "lng": -74.05424,
+      "lat": 40.70014,
+      "lng": -74.0128,
       "title": "Thievery or Innovation? The Music Industry Grapples With A.I.",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T12:00:03Z",
       "summary": "Thievery or Innovation? The Music Industry Grapples With A.I.&nbsp;&nbsp;The New York Times",
       "source_name": "The New York Times",
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEdNbVd5QVY2V2FOLUViNV8xZUhaZjBBcXVyNWk3T0xVZFNVUzN0bExLU3poRmtsQmxKZmtEOV93MFdhVmNHdExpM05Oa2dPNlNsUGxVM2FjT0dlZTcyMXQ1MVhhdjl0T3FxSmZwSjZ4MmtVV3Fzanotakl5ai1oaWxR?oc=5"
-    },
-    {
-      "id": "news-technology-81a3168740",
-      "lat": 37.8592,
-      "lng": -122.30792,
-      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T12:00:01Z",
-      "summary": "Tech backlash reaches fever pitch as AI angst collides with social media fears&nbsp;&nbsp;CNBC",
-      "source_name": "CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVVyS25EMUpKT2NCRlBlT1ZWMmkxME9CbUhrRm1FcHBpUlU2dmxaX1NfWXE4VDNjREVHWjY3UEt5d3dCMGZKR3JrOWxQalJibkRHdDU4YjliUEViVmVDVVMzT0xaUTdtd3o0dFppaVJxRkJVMDRtakoxa0ZQTjZkSTR30gGHAUFVX3lxTE5zSjRrVktpSnZfc1JZc0NCdl9oZnRodnZTM3ZFRGdsQVlJVlhUakxRSEFqOVB0R1gzQ3NQd1dLTWZROUpobkpnXzg2cGhfYUZSX3hJcW5aSWNLWktqSXB2QWV6VnZiR0JPMzA5NWJLNnhyRHRBQ05sX3lWVUFrZmUyTmRCMkI4TQ?oc=5"
-    },
-    {
-      "id": "news-technology-2a779eb434",
-      "lat": -35.20438,
-      "lng": 149.08873,
-      "title": "Commentary: There’s only one way to make AI safe for kids - Union-Bulletin",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T12:00:00Z",
-      "summary": "Commentary: There’s only one way to make AI safe for kids&nbsp;&nbsp;Union-Bulletin",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOUtZOHNQY013WGNFZDQxc0taekVXZFRpNEZmWmJRUXpKMHVJVV9ScjNBRE0tbk5uSHNUbExudmRzcmdRSVgyb3pBRDJ0c1RsYlA2N29hVFVudU4wU3ZDcnduQUs2aWhjeFRJWjV2SzRzVFM5VWg5UXFsaVZCekNXYlR6T3dCNEp6NkhBZXVpcEJ1ZWdvVk9HZmxQSTVtbjFSRjVDeExBRV83NjhqRVh0R2hqQ2xWd3lDMm9QdUMwMWhLa2ItU2ZLSFlmbWk0NmY3UnhXdFMxVjl0UkxGRDRQZ0xXX3NDSHVNWU5qN1hRWmZxLWs?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T12:18:40Z"
+  "updated_at": "2026-08-29T12:33:34Z"
 }
