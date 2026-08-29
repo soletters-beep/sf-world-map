@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-0587307dea",
+      "lat": 50.44296,
+      "lng": 30.46378,
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "category": "POLITICS",
+      "time": "2026-08-29T15:27:56Z",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.68005,
-      "lng": -76.60793,
+      "lat": 39.69948,
+      "lng": -76.60127,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-29T15:13:42Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-9188fcdc7f",
-      "lat": 38.90293,
-      "lng": -77.03073,
+      "lat": 38.96093,
+      "lng": -77.0641,
       "title": "This Appalachian memoir author is running as a Democratic contrast to JD Vance",
       "category": "POLITICS",
       "time": "2026-08-29T15:02:42Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-af13d6e807",
-      "lat": 32.74047,
-      "lng": -97.27728,
+      "lat": 32.72672,
+      "lng": -97.37817,
       "title": "Tarrant County to vote on whether to close 140 Election Day polling locations",
       "category": "POLITICS",
       "time": "2026-08-29T15:00:00Z",
@@ -34,20 +45,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3VoMUUtNUQ1YzVoM1VnVWNoWHdaR0hWNEs1VVBZcHJBWU0wMGpVa1RkU2h0NHJzWnlIcUJrTUdPMUV4YkVoRHo2RkFraldCOUcxOHdzNG1LSjRpRWNmNnZTMzgtQk0tZnpXYjdzajN6RjF4eGdWTldGQjhtSWYxZF9iUkhSNzNKemlfUFNkOFk3Qi1XTW9ZTjNUeWZCVHdUR2ozMDNESmNSQ3VTM2hsblRRZ2hRZ2tWbzJ5dElB?oc=5"
     },
     {
-      "id": "news-politics-0587307dea",
-      "lat": 50.42798,
-      "lng": 30.51363,
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "category": "POLITICS",
-      "time": "2026-08-29T14:43:04Z",
-      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "id": "news-politics-6a30e4823a",
-      "lat": 38.89674,
-      "lng": -77.05246,
+      "lat": 38.91889,
+      "lng": -77.02573,
       "title": "How states’ fight over an ICE agent could open a new political battleground",
       "category": "POLITICS",
       "time": "2026-08-29T14:33:00Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-d85ce9e683",
-      "lat": 9.59171,
-      "lng": 0.84386,
+      "lat": 9.49425,
+      "lng": 0.78224,
       "title": "Kara Swisher: ‘It’s a stunt presidency’",
       "category": "POLITICS",
       "time": "2026-08-29T14:30:29Z",
@@ -68,8 +68,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.70339,
-      "lng": -76.59978,
+      "lat": 39.68324,
+      "lng": -76.64044,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T15:13:42Z",
@@ -78,9 +78,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-finance-deab557e38",
+      "lat": 50.20036,
+      "lng": -125.52969,
+      "title": "IDT Highlights Growth Engines, Delays net2phone Spin-Off Until Markets Improve",
+      "category": "FINANCE",
+      "time": "2026-08-29T15:01:55Z",
+      "summary": "IDT Highlights Growth Engines, Delays net2phone Spin-Off Until Markets Improve&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUk3YTlKaHM3ZzJTYS1KQ3JyR3BWOVR5SE5xWHZWYVZnMjd3ZGU5Vlh4MExfZVZ0TXlJS3I1TTZMNkhKeVZKckJucTBQUXgyWGdTT2xteHRZVnM5QVBGc29YcWRZT2d0cHNZMVo3eXdETGVXaXpLWDNYVWxhUXJKWGFqNGs0WFVITVU5NzRHNGVLYkhkMVRXR3JBOXNvTkg5bDQw?oc=5"
+    },
+    {
       "id": "news-finance-f28ff3529e",
-      "lat": 51.54528,
-      "lng": -0.15743,
+      "lat": 51.45518,
+      "lng": -0.13312,
       "title": "History Says All Bear Markets Have 1 Trait in Common -- and It's Fantastic News for Investors",
       "category": "FINANCE",
       "time": "2026-08-29T14:40:00Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-09b25efda4",
-      "lat": -29.89377,
-      "lng": 31.01134,
+      "lat": -29.83595,
+      "lng": 31.03476,
       "title": "Fed Chairman Warsh shows courage with Jackson Hole speech, defying political pressure, says Harvard's Rogoff",
       "category": "FINANCE",
       "time": "2026-08-29T14:09:51Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-9b2ce649b7",
-      "lat": 14.72739,
-      "lng": 121.08388,
+      "lat": 14.75129,
+      "lng": 121.02525,
       "title": "Honda Is Opening a New Dealership Down the Road. Its Longtime Dealer Says That's Not Even the Worst Part",
       "category": "FINANCE",
       "time": "2026-08-29T14:00:00Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-6304ba573f",
-      "lat": 45.78541,
-      "lng": 4.92035,
+      "lat": 45.73953,
+      "lng": 4.8557,
       "title": "Interface Eyes Growth as One Interface Strategy Targets Commercial Flooring Share",
       "category": "FINANCE",
       "time": "2026-08-29T13:01:54Z",
@@ -122,20 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeDdVSzlnbk0xUWZlR3JadmNaWEtxOXpWWmRQSmxhYVZQOGdmT2lkMlU2TEFSRWxPLWxsS29JU1RIOE54aXRYaDd3YUMwNUJXOE9vM0l4RThpR1FLRFpudk55RWVVUEUyTl9Ba3pxdzBxNkhEaC1MNFdSdUFUdXpPQ0s5anJ4cWJCU1Juc0hRR2pXQnd4UFptUXpnUHAwaDI0QWc?oc=5"
     },
     {
-      "id": "news-finance-24bb604985",
-      "lat": 35.04023,
-      "lng": 136.60886,
-      "title": "AI半導体で業績拡大続くキオクシアとアドバンテスト、株価乱高下でも成長期待根強い",
-      "category": "FINANCE",
-      "time": "2026-08-29T12:55:00Z",
-      "summary": "AI半導体で業績拡大続くキオクシアとアドバンテスト、株価乱高下でも成長期待根強い&nbsp;&nbsp;BigGo ファイナンス",
-      "source_name": "BigGo ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JTHV2SUFwTXhiaEZxWmp6SGc1eWpWY2JoQktXMFhSZWd0eDlSaEtVN1J2RnlMYzE0cGdHUEt4UlM0S0VJS2ZfaHJ1b2c1X0paUUs0OUIxLXhTT1BTbkxLeVJhVEVpaEl5SnpWdW9YX191ZGJm?oc=5"
+      "id": "news-disaster-b81cd477cb",
+      "lat": 35.62204,
+      "lng": 139.77648,
+      "title": "茨城県で最大震度4の地震 茨城県・南部（FNNプライムオンライン（フジテレビ系））",
+      "category": "DISASTER",
+      "time": "2026-08-29T15:19:21Z",
+      "summary": "茨城県で最大震度4の地震 茨城県・南部（FNNプライムオンライン（フジテレビ系））&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTzFKaWJFRzkzUkVRQUlMSkg0V2JTWlhBQ0lrTDhiaG1tdERWVC1sQ3pOVXllMVJBQnVoVmlkQjZBS0QxYmZ2NEFaMTBvTnRMVDUxdTQ1TXppYjRscFZYQ2x4U2JpZlgxY1FrS19vRGd5TGZ3bnJ0a0s5WVVyeWM?oc=5"
+    },
+    {
+      "id": "news-disaster-5ae3bab3a9",
+      "lat": 43.07018,
+      "lng": 141.39426,
+      "title": "茨城県で最大震度4の地震 茨城県・南部(放送局のニュース )",
+      "category": "DISASTER",
+      "time": "2026-08-29T15:19:00Z",
+      "summary": "茨城県で最大震度4の地震 茨城県・南部(放送局のニュース )&nbsp;&nbsp;tenki.jp",
+      "source_name": "tenki.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YS0lDTmFJQjE2MmV6bjl5aVVJdHBqa3d1OHRyckVaVDJIUTVtRnE3emxwQ1BRTU4zejN2MGVXOFg0V3JNVUxaOElyaXF1Yk1xT3hBeVRMdUtaSWZjelBQWXI2ZFZSaElReXE3UG5jNUhWRUpyQ1E?oc=5"
+    },
+    {
+      "id": "news-disaster-584c45d411",
+      "lat": 35.70096,
+      "lng": 139.81304,
+      "title": "【レベル4土砂災害危険警報】福井県・福井市に発表 00:08時点（TBS NEWS DIG Powered by JNN）",
+      "category": "DISASTER",
+      "time": "2026-08-29T15:14:10Z",
+      "summary": "【レベル4土砂災害危険警報】福井県・福井市に発表 00:08時点（TBS NEWS DIG Powered by JNN）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUklSVm9zdk5sclcyYkF6TVg2cDhqbmo4MUVkSmFzaVZ4UVVOVEx4OFota01OYW1aSXRwTHRSV1FwV0VQa3ZJVXhHTU5ZUE15UVdrVkFZWXNacGxJWC1GMXdvM3MycGdmLWJFM3llX1N6bnpGYWtPWml6dHltR1k?oc=5"
     },
     {
       "id": "news-disaster-f135142c33",
-      "lat": 28.40446,
-      "lng": 83.98115,
+      "lat": 28.35996,
+      "lng": 84.02313,
       "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars",
       "category": "DISASTER",
       "time": "2026-08-29T15:12:54Z",
@@ -145,8 +178,8 @@
     },
     {
       "id": "news-disaster-78d37e4943",
-      "lat": 35.73664,
-      "lng": 139.74329,
+      "lat": 35.68525,
+      "lng": 139.72146,
       "title": "【レベル４土砂災害危険警報】福井県・福井市に発表 00:08時点",
       "category": "DISASTER",
       "time": "2026-08-29T15:08:00Z",
@@ -156,8 +189,8 @@
     },
     {
       "id": "news-disaster-be93fdc3ed",
-      "lat": 28.3264,
-      "lng": 83.97425,
+      "lat": 28.41726,
+      "lng": 83.98929,
       "title": "Nepal: 626 dead, more than 3,000 missing in flash flood",
       "category": "DISASTER",
       "time": "2026-08-29T15:00:02Z",
@@ -166,42 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3lybWZianpFa0x4QTFHR09PVkwtSEZOLUMzLWtsX2xmQUFib1RJRjN3Skh6VFJzWUlIdWhETnVUdHVOMXM1ZHFQa2xzMDRLQ2huaGtDWHo1dE1UMi1hQVNkMVFMY2E3YW9Cc3AwUXlqc0xPZGNqMkZGVUpvTVpzNlRWWlFPTFhrdGdCWVJRemEtV09uUFpxZm1mQ204c2xveXMwSVJPRkjSAa4BQVVfeXFMUFVpMVo0NlJnbWlyVFR0VVpKTklCbU9iSVBxSEJCbm9pNndsMFQ4eER2UTJ4MXgyRWs3Wkc2UzBPMHZobHQ3TTd0bEdRdElrckdaLWdkMlZOc3RJWUs4RGZXck1oazZNUTlSQ3M2YUNoVEgtbkw0dWY0SUZ4QWVCaGUzS2RlQVZJdlo1R2I5bWlzcTJqVXkzNXYwd3F0SVR6Vmd0cUUwbXJySldTYktn?oc=5"
     },
     {
-      "id": "news-disaster-1d17e309f8",
-      "lat": 34.18434,
-      "lng": -118.35468,
-      "title": "千葉県で最大震度1の地震 千葉県・多古町（TBS NEWS DIG Powered by JNN）",
-      "category": "DISASTER",
-      "time": "2026-08-29T14:59:14Z",
-      "summary": "千葉県で最大震度1の地震 千葉県・多古町（TBS NEWS DIG Powered by JNN）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtZnhyMVo1N0o2ckZFeWYzNm5IcWx1ZE1NbldzMHJEOUZTQ2x3ZVk1bUczaVNUdVZuaVNUbC1wUzBEZzhRQXFQNmUyN3lrS0pBUXVveVEtTUxveEprWVg3REw0MzBZODZVbjY1bEx6RFVKdG9yci1vUW9yYUZraUk?oc=5"
-    },
-    {
-      "id": "news-disaster-55feebaa9e",
-      "lat": 52.51499,
-      "lng": -1.31429,
-      "title": "The race to stop England running out of water",
-      "category": "DISASTER",
-      "time": "2026-08-29T14:50:35Z",
-      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-disaster-a0d56c381e",
-      "lat": 10.55435,
-      "lng": 76.18753,
-      "title": "Clinic in Nepal with WNY roots prepares to help Nepal flood victims",
-      "category": "DISASTER",
-      "time": "2026-08-29T14:24:11Z",
-      "summary": "Clinic in Nepal with WNY roots prepares to help Nepal flood victims&nbsp;&nbsp;WKBW",
-      "source_name": "WKBW",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUZ4ZFAzTnd3VFlIeDJlUnY2SHFNaFVOWFRQeGNLeHQ3aVd1WEJ3UUNITTJDRW5TVVhSU2ZDN2dIX3h4c3dFYUZ0TDBqQTFFZFRMNGRPM0trd0xfdFJCd3RuM0FFRmJUZDA3N2RlZHFGYm1TX2dJQ1gtOFZBNmVVOW05SDItdHc2SVBJWVgtTFlRNFBEMUpzbTdXNFcxTWlwUDhaYV9ldTE2UGg2cHpMSGh3?oc=5"
+      "id": "news-accident-af18f9e290",
+      "lat": 39.89462,
+      "lng": -80.23919,
+      "title": "2 people killed in accident on I-69 southbound in Greene County",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T15:17:00Z",
+      "summary": "2 people killed in accident on I-69 southbound in Greene County&nbsp;&nbsp;WTHR",
+      "source_name": "WTHR",
+      "source_url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZXlQbWowb2dyMDBNQWRsWWtVLXFRRkhXSFBISW43WHI2d2U0TlpLWlFSMGI3S2F2aEdoZ2NyWnN4RWxSenFfMzljeThTc3hiUG9UeTdaNGJVQnNQcTRvbV8tUTc0N3N0ekdMWHRtd3hLUGRHV0VkYWhLczkxRkphUHAxM2pabnZaOVRhS2JJSEtvRFp5ajJKUjRxTnFiUC1wUDNkZUxXSl9iZVI0alpmT2xfanFLb19uaFBJSWVFcEdsSnZlM2FTMlRWVmw0YVM1M0hWa2lEU1JRY3pLSlo1OHdvZGdqWERMcjYwejRaODdtZm1fSTMyWkp1NEJWZXRRRmFUQnFEMXJxMFJzYVE?oc=5"
     },
     {
       "id": "news-accident-1021a2aa60",
-      "lat": -12.51822,
-      "lng": 130.91449,
+      "lat": -12.53086,
+      "lng": 130.95851,
       "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
       "category": "ACCIDENT",
       "time": "2026-08-29T14:16:00Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-ce15b27320",
-      "lat": 36.34469,
-      "lng": -98.49444,
+      "lat": 36.32772,
+      "lng": -98.452,
       "title": "Major crash shuts down portions of Highway 68",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:54:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-c4791916e7",
-      "lat": 39.78984,
-      "lng": -86.509,
+      "lat": 39.74073,
+      "lng": -86.53329,
       "title": "Hendricks County Sheriff's Office investigating fatal crash near Plainfield",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:44:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-53a5adf1bb",
-      "lat": 32.80703,
-      "lng": -117.1905,
+      "lat": 32.79254,
+      "lng": -117.1852,
       "title": "Multiple lanes blocked on I-10 after west Phoenix crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:07:00Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-95f1f72c53",
-      "lat": 35.67824,
-      "lng": 140.04951,
+      "lat": 35.68413,
+      "lng": 140.02234,
       "title": "ＪＲ復旧急ピッチ 室蘭線脱線、事故調査官が状況確認",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:00:00Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMWkxqeUJzb2tib2o2bFNOcWNzWk1MYk9IUlQ5LXFKLUowMUlET1FzTFI0Mm13eFN2dDIzUjlXdHBXeFF1WXdoaVpyYw?oc=5"
     },
     {
-      "id": "news-accident-99e11a339f",
-      "lat": 34.82928,
-      "lng": -82.37581,
-      "title": "SCDOT: Crash blocking all northbound lanes of I-85 in Anderson County",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T13:00:00Z",
-      "summary": "SCDOT: Crash blocking all northbound lanes of I-85 in Anderson County&nbsp;&nbsp;FOX Carolina News",
-      "source_name": "FOX Carolina News",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFFKRWhnaFpMcnM0aGtHX3JaOHVBcDZUZjE4bnhwRXBScFY3LUNpUDhWbjdPcDA0UmJVUDl4UFpYRUtUTGFFdjRrZ1J0czVJdVprVTdXQmV3WUIwSVIxQkxWMzVKMlNwZU01aFloUWtaR0tyRkx5RHhaUXhMZE9KMm1ZRWpuUldiVWdyS2JTRGJyV3dmM3dzWmZBRWF0YlhXS01INA?oc=5"
-    },
-    {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.97136,
-      "lng": 4.60725,
+      "lat": 46.97,
+      "lng": 4.64574,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.93782,
-      "lng": 4.66975,
+      "lat": 46.86918,
+      "lng": 4.64947,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.75069,
-      "lng": 139.47768,
+      "lat": 35.79972,
+      "lng": 139.56145,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.87219,
-      "lng": 135.59222,
+      "lat": 34.84341,
+      "lng": 135.624,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.70093,
-      "lng": 139.71665,
+      "lat": 35.69032,
+      "lng": 139.81094,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.83094,
-      "lng": 135.60224,
+      "lat": 34.86233,
+      "lng": 135.62088,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -331,9 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOWZ2TElvT05CYlUtUjd3UURkbjU2SEdJV2oyeEo0Wm9ZTHlYUnF6enhadHByV0lsVXZiQmllVGcyY08yYl9UdzNHeG9hbVpJV0JrRA?oc=5"
     },
     {
+      "id": "news-technology-c46812cd61",
+      "lat": 42.31967,
+      "lng": -71.03565,
+      "title": "AI時代の検索最適化——Googleだけでは勝てない新常識",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T15:23:00Z",
+      "summary": "AI時代の検索最適化——Googleだけでは勝てない新常識&nbsp;&nbsp;Forbes JAPAN",
+      "source_name": "Forbes JAPAN",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UWU9xTDc2WFQ2ZVo1VW8wRGxxaVZoODNxTjkzME15UEoyV1JGc1VtTjZlUmQ0Tm9URXJmaXk3azlrX2VMZFg1MDJQVTNFc0RUSkN5bldHR2E1UQ?oc=5"
+    },
+    {
+      "id": "news-technology-8265b25c30",
+      "lat": 34.90748,
+      "lng": 135.17109,
+      "title": "企業が看過できない評判リスクとなりつつある「AIウォッシング」",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T15:12:00Z",
+      "summary": "企業が看過できない評判リスクとなりつつある「AIウォッシング」&nbsp;&nbsp;Forbes JAPAN",
+      "source_name": "Forbes JAPAN",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhX29zZko3Z1NkZlAtYzdyb2tub3hkNlVYdEJldkVONnFaQnpHYkFqNTN2RGkydllZTUZFVnlUbUZ5Q1FSYmczQks3OHg4RE80aTRWMnotd3J2UQ?oc=5"
+    },
+    {
       "id": "news-technology-efbe5d57f8",
-      "lat": 51.0124,
-      "lng": 6.98939,
+      "lat": 51.12611,
+      "lng": 7.05184,
       "title": "CreddX AI Brings AI-Powered Trading Automation to the Digital Asset Ecosystem",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T15:04:15Z",
@@ -343,8 +365,8 @@
     },
     {
       "id": "news-technology-0c1335273c",
-      "lat": 38.94456,
-      "lng": -77.07839,
+      "lat": 38.88939,
+      "lng": -77.06555,
       "title": "The Fed confronts a powerful new economic force",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T15:02:50Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-13cc89c254",
-      "lat": 33.5879,
-      "lng": 133.44267,
+      "lat": 33.57131,
+      "lng": 133.45461,
       "title": "AIによる経済急成長が、ソフトウェアではなく「ロボット」を待つ理由",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T15:01:00Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-1bd620a01e",
-      "lat": 35.63249,
-      "lng": 139.32517,
+      "lat": 35.70679,
+      "lng": 139.37676,
       "title": "テクノロジー禁止の罠：なぜ規制だけでは子どもを守れないのか",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T14:51:00Z",
       "summary": "テクノロジー禁止の罠：なぜ規制だけでは子どもを守れないのか&nbsp;&nbsp;Forbes JAPAN",
       "source_name": "Forbes JAPAN",
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SmNvV1NtbXNHaVRxTGdfbjFnT1I0amk2dGJ0bHlhM3FoWEh0cXQ1TnByMHVGU2FBNThmdmpza1lUbEozZ3lGU0lnTXkxVHRkTFlzb3hkbW1mUQ?oc=5"
-    },
-    {
-      "id": "news-technology-c615faa035",
-      "lat": 45.03774,
-      "lng": 7.64079,
-      "title": "IREN's Powerful AI Milestones Could Reshape Valuation, With Critical Risk",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T14:37:56Z",
-      "summary": "IREN's Powerful AI Milestones Could Reshape Valuation, With Critical Risk&nbsp;&nbsp;The Motley Fool",
-      "source_name": "The Motley Fool",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEV2MmtEaDluMTBrdkNrbFNnMUZfQkp5RWZYMU1ZQWF0UVRHSF8tYmdIRWNrbDB1Mno3WTVIRGU5THBLNU9GX1dRUTk4cVlwWU5vNExUOE1scXo5NEY1VTJYTFRscnlrYVA4bmw5T2lRMy1yUmpiVl9wOENBNl9RN0xhTEltODMtMkVnYWxQRTQ2VE9YTGh2Tg?oc=5"
-    },
-    {
-      "id": "news-technology-1853589e8d",
-      "lat": 35.38149,
-      "lng": 139.47504,
-      "title": "ビル・ゲイツ氏のAI課税・国際規制提言、実効性の焦点は #エキスパートトピ（八田真行） - エキスパート",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T14:16:12Z",
-      "summary": "ビル・ゲイツ氏のAI課税・国際規制提言、実効性の焦点は #エキスパートトピ（八田真行） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUozTVlWNGhOcGlIT2g5OVFhSFVOY2ZBWU9SRVljYmRZclM5SzN0TW1LN0tXRk5EMWRpZkNZdDVEOFgtYlJUMnI0WmtTbkx0cXJNTW5sXzRyQ3kzNnVDc3d2LXN1bmRmcUVOb1RXVE9RZjNYUzBkNEZlc2dVeDEtZ1Q1RnV1N3k0?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T15:18:36Z"
+  "updated_at": "2026-08-29T15:33:30Z"
 }
