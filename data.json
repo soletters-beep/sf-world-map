@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-6a30e4823a",
+      "lat": 38.88288,
+      "lng": -77.07878,
+      "title": "How states’ fight over an ICE agent could open a new political battleground",
+      "category": "POLITICS",
+      "time": "2026-08-29T16:31:51Z",
+      "summary": "How states’ fight over an ICE agent could open a new political battleground&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZpUGhJTjdORUF2ckFTcWdUVjE1akdfRGhJVkdMUmJHelducnZfT1R3V1Q2ZlhlSy1Ta1htOHc5ejEyVVJVMnd4aUdpWFB4UkFCc3M3N1B5SWRUcTc0Z2V6dDBySUg5b2ZzRFh0NGhGNXFpWDhzSEFqemM3NDFZTVVUQ0ZObTZXWXRERERRdjBKOXlBZ3FkVTFFYldlVDBPYmNIbkhnUy1iaU5pd29iNFB1ZEh6S21VVWdPNDQtQzk?oc=5"
+    },
+    {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.71874,
-      "lng": -76.58896,
+      "lat": 39.72745,
+      "lng": -76.60434,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-29T16:15:56Z",
@@ -12,31 +23,31 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-6a30e4823a",
-      "lat": 38.89471,
-      "lng": -77.02415,
-      "title": "How states’ fight over an ICE agent could open a new political battleground",
-      "category": "POLITICS",
-      "time": "2026-08-29T16:03:00Z",
-      "summary": "How states’ fight over an ICE agent could open a new political battleground&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZpUGhJTjdORUF2ckFTcWdUVjE1akdfRGhJVkdMUmJHelducnZfT1R3V1Q2ZlhlSy1Ta1htOHc5ejEyVVJVMnd4aUdpWFB4UkFCc3M3N1B5SWRUcTc0Z2V6dDBySUg5b2ZzRFh0NGhGNXFpWDhzSEFqemM3NDFZTVVUQ0ZObTZXWXRERERRdjBKOXlBZ3FkVTFFYldlVDBPYmNIbkhnUy1iaU5pd29iNFB1ZEh6S21VVWdPNDQtQzk?oc=5"
-    },
-    {
       "id": "news-politics-9188fcdc7f",
-      "lat": 38.86802,
-      "lng": -77.05156,
+      "lat": 38.88988,
+      "lng": -77.00064,
       "title": "This Appalachian memoir author is running as a Democratic contrast to JD Vance",
       "category": "POLITICS",
-      "time": "2026-08-29T15:51:27Z",
+      "time": "2026-08-29T16:00:00Z",
       "summary": "This Appalachian memoir author is running as a Democratic contrast to JD Vance&nbsp;&nbsp;The Washington Post",
       "source_name": "The Washington Post",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmRFNG9FNUlNM1ZFTHcybHpCX0x6TzZFSnctVk1EZUtvbkVPNVFlcDBYSkNWbjVKVWl0bV80QVpDQmdfSVlxajdnWHdaYUJ1Y19nV2NPcUpGUEF2VEY1QTludWFSUC04ckI3VXpsZ0NIVVVoLTB4YThGNE53QjJXOUl5NFZKbHd3aUNsMmh0S05LdVRrUVI2ajdBdlZibmFzZ2JrSTdnR1JOWHRCX0NVbVllYWdfTDQ?oc=5"
     },
     {
+      "id": "news-politics-fc821847ad",
+      "lat": 40.70855,
+      "lng": -74.00151,
+      "title": "Political Campaigns Are Quietly Paying Influencers to Support Candidates",
+      "category": "POLITICS",
+      "time": "2026-08-29T15:31:44Z",
+      "summary": "Political Campaigns Are Quietly Paying Influencers to Support Candidates&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzBVQTdNcGpadmRlT2tRUjJ3bUp4MUhKVzNPQnZnZHM4S3RDanJleDJkYWNmU3lrZFJXQ29OVFJnNzFrc2xwc2dqaWd4cFZzMGtvZUdCUkVTb2hFZzBnUEl1Slk2b29YdHdZdWlSYTEwZWdzTnRtc0EyWkRvWGNldFE5aDk?oc=5"
+    },
+    {
       "id": "news-politics-0587307dea",
-      "lat": 50.50137,
-      "lng": 30.50627,
+      "lat": 50.40727,
+      "lng": 30.50017,
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "category": "POLITICS",
       "time": "2026-08-29T15:27:56Z",
@@ -45,31 +56,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-6f2ae379c8",
-      "lat": 40.68495,
-      "lng": -73.9654,
-      "title": "In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race",
+      "id": "news-politics-96ce9fcf9e",
+      "lat": 59.62481,
+      "lng": 14.51789,
+      "title": "Sweden’s Far-Right Leader Seeks a Fightback As Election Nears",
       "category": "POLITICS",
-      "time": "2026-08-29T15:25:22Z",
-      "summary": "In Georgia, Jon Ossoff Courts Broad Appeal With an Anti-Trump Script for Senate Race&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmp6ZlhzNmp4OUdtQ0NzdEgtV0ZrS3JvWnVvejVubERkVXp4V3FMeGZmWENIU1lKNlpsRzNiS0p3SkNqZEJ3dU9rT19yTGI2N2hCVUttWkFMSWQ1b3JMUGZMM0tPUWdCLUZlZTN4M2V5dFhYU1loVjdtZFlwenM1cGo2c1BCdW9uV1M1NTJEbDY?oc=5"
-    },
-    {
-      "id": "news-politics-af13d6e807",
-      "lat": 32.76141,
-      "lng": -97.27733,
-      "title": "Tarrant County to vote on whether to close 140 Election Day polling locations",
-      "category": "POLITICS",
-      "time": "2026-08-29T15:00:00Z",
-      "summary": "Tarrant County to vote on whether to close 140 Election Day polling locations&nbsp;&nbsp;Spectrum News",
-      "source_name": "Spectrum News",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR3VoMUUtNUQ1YzVoM1VnVWNoWHdaR0hWNEs1VVBZcHJBWU0wMGpVa1RkU2h0NHJzWnlIcUJrTUdPMUV4YkVoRHo2RkFraldCOUcxOHdzNG1LSjRpRWNmNnZTMzgtQk0tZnpXYjdzajN6RjF4eGdWTldGQjhtSWYxZF9iUkhSNzNKemlfUFNkOFk3Qi1XTW9ZTjNUeWZCVHdUR2ozMDNESmNSQ3VTM2hsblRRZ2hRZ2tWbzJ5dElB?oc=5"
+      "time": "2026-08-29T15:24:27Z",
+      "summary": "Sweden’s Far-Right Leader Seeks a Fightback As Election Nears&nbsp;&nbsp;Bloomberg.com",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3FiZ0NhQ3ZwLVp6dmVQczNzTEdTWEVQUHJHdVB3TVM0WmdhOFlDcjVwcm9SNXM0bnpjSnI0djdpUWI1dEJfMFEyLU52OE92Ym0zQS1ySjNLdG80eUVpM2FQTHo5ZVZBZkdVR0NnRERTa0JDTVM3Sm1La3hUZlpaSERGOVhJdUtYZkJsVWFhTEhmSDgwakdDM2hicmM4QWFYR1ZnUngtVWlLMmc3VUpFMHpR?oc=5"
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.67049,
-      "lng": -76.55174,
+      "lat": 39.65177,
+      "lng": -76.61194,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T16:15:56Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-abf05f9d3c",
-      "lat": -34.65991,
-      "lng": -58.58846,
+      "lat": -34.62305,
+      "lng": -58.60139,
       "title": "Personal Finance: $40 trillion and counting: How the national debt exploded",
       "category": "FINANCE",
       "time": "2026-08-29T16:00:00Z",
@@ -89,9 +89,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3UyVFdjRHNIdXl6aFNtMjROWGd1ZjdTSElVSXQ2RGU2YW9QZ2ZuVjJhaDlRdHFBSTF0d0tQNEE2OGFzVWEwV2FUeWp0M1pjUk4taFNKM0xqTVItUTVROWxuQi1PN3NxSXlrRWZJWVdFdnFic3htNnc5bVJrbXhhbGVjZDUwcHo2cXdQNGZvcWhuM0VTVHlGNGxzN3BoOEE?oc=5"
     },
     {
+      "id": "news-finance-c0acf1a41a",
+      "lat": 51.6214,
+      "lng": 0.66154,
+      "title": "The Next Palantir? 100 Federal Agencies Already Use Cloudflare, and It’s Cleared For More",
+      "category": "FINANCE",
+      "time": "2026-08-29T15:35:44Z",
+      "summary": "The Next Palantir? 100 Federal Agencies Already Use Cloudflare, and It’s Cleared For More&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3JxU09qRUdnVWlnSlkxZTJuWHUtV2V6NzJac1ZCRnZDVGVuNThhcERGZTUxOU1ZNFhaendXU3htZnBNOU1yNU81Y2tzTnVnYmlMWFhhME1UcGxVYlM3Q0ZlNVBtNjA3dGtJNmlNQU5KRDhpTHd1d0dBTkVEem1XXzdoNUMxVkhvdThEQ3pvRkFoR3JDdWZoWVpVX2RXSUk?oc=5"
+    },
+    {
       "id": "news-finance-d4548fb2bb",
-      "lat": -34.62339,
-      "lng": -58.5277,
+      "lat": -34.63165,
+      "lng": -58.49285,
       "title": "As bitcoin soars people ask who is Giancarlo Devasini, Italy's richest man?",
       "category": "FINANCE",
       "time": "2026-08-29T15:25:21Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-0ce9827e0d",
-      "lat": 40.34363,
-      "lng": -3.77093,
+      "lat": 40.37358,
+      "lng": -3.72783,
       "title": "Inside Jackson Hole’s Big Question: Can Central Banks Modernize Tokenized Markets?",
       "category": "FINANCE",
       "time": "2026-08-29T15:16:00Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-0fb4464fa6",
-      "lat": 46.9428,
-      "lng": 9.59692,
+      "lat": 46.93347,
+      "lng": 9.61683,
       "title": "Tom Lee Says Nvidia Just Broke Wall Street's Most Unusual Pattern",
       "category": "FINANCE",
       "time": "2026-08-29T15:04:46Z",
@@ -122,20 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3l1ZFdIOGlwUVRoTlRJdTRTRF9fYWdtNVMzdTlCT25rMHhPck1DYUV5UjJhSDhoQlRCTkZKcS1Xcjc4T19kNzlZNWh5ejRMMUFUanZrU3lnNF9zbjVtWkVnM21nbWlsZDBGc0NjY1JGQjJmUmdzYVk0RXNsd3FQQngxMjZfMnJUTk1tODVpSDJ4dXc?oc=5"
     },
     {
-      "id": "news-finance-deab557e38",
-      "lat": 50.19257,
-      "lng": -125.53936,
-      "title": "IDT Highlights Growth Engines, Delays net2phone Spin-Off Until Markets Improve",
-      "category": "FINANCE",
-      "time": "2026-08-29T15:01:55Z",
-      "summary": "IDT Highlights Growth Engines, Delays net2phone Spin-Off Until Markets Improve&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVUk3YTlKaHM3ZzJTYS1KQ3JyR3BWOVR5SE5xWHZWYVZnMjd3ZGU5Vlh4MExfZVZ0TXlJS3I1TTZMNkhKeVZKckJucTBQUXgyWGdTT2xteHRZVnM5QVBGc29YcWRZT2d0cHNZMVo3eXdETGVXaXpLWDNYVWxhUXJKWGFqNGs0WFVITVU5NzRHNGVLYkhkMVRXR3JBOXNvTkg5bDQw?oc=5"
+      "id": "news-disaster-844abef325",
+      "lat": -4.71766,
+      "lng": -40.06262,
+      "title": "Video Preventing potential disasters like the Nepal flood - ABC News",
+      "category": "DISASTER",
+      "time": "2026-08-29T16:40:44Z",
+      "summary": "Video Preventing potential disasters like the Nepal flood&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "source_name": "Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTBOVi1YZE1ZSWlwRDIzdFdEY2ZKS0w4TzdPb3JCckpCQ0xweUdPdnJ4bkFJM1ZOdW1VdUQ4azdYckZBd1VjNjJhSlN1cFhJYUlQa1E5a256T3VCUnRydVdlNDdrbm10V1BCRGJyd1VSYV9tcFdlTExHanJjN0V1RTdzbUpySkN6UklIYzZXeXZwMlBTVnRZ?oc=5"
+    },
+    {
+      "id": "news-disaster-e5fdae9c2f",
+      "lat": 28.32658,
+      "lng": 84.0104,
+      "title": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
+      "category": "DISASTER",
+      "time": "2026-08-29T16:27:00Z",
+      "summary": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing&nbsp;&nbsp;AP News",
+      "source_name": "AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5"
     },
     {
       "id": "news-disaster-0c544fe928",
-      "lat": 46.17953,
-      "lng": 13.7036,
+      "lat": 46.10868,
+      "lng": 13.61484,
       "title": "Scale of Flood Disaster Grows as Nepal Says 2,400 Are Missing",
       "category": "DISASTER",
       "time": "2026-08-29T16:26:13Z",
@@ -145,8 +167,8 @@
     },
     {
       "id": "news-disaster-c76c85c464",
-      "lat": 32.74989,
-      "lng": -79.97112,
+      "lat": 32.82539,
+      "lng": -79.90733,
       "title": "Charleston nonprofit Water Mission dispatches disaster team to Nepal for clean water aid",
       "category": "DISASTER",
       "time": "2026-08-29T16:24:37Z",
@@ -155,20 +177,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOHlQbU1iWnktMThiR1ZMRVBoVHRiVGJhTTlRYk9scEtiSllqRnE5Q0VoNTR5Q281eUFwN1kyWUJqYzVJLVJ1STdMcHRST1ZFb2tXQ2RsdF9hM1NYS09kZ2ZJYjVzRTFKelQ5N0VaY0N3U185QXR5bWRaWDhqd3ZqU0pEeXp1Tm9MVko0R0RERm5SYXVlWUhtYWxyd1QtRnZObWJFV2g1VEhzYl9RbGR4MGJ4VURaOEVyRlNzVA?oc=5"
     },
     {
-      "id": "news-disaster-f3559f9f6e",
-      "lat": 40.67083,
-      "lng": -74.02225,
-      "title": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
-      "category": "DISASTER",
-      "time": "2026-08-29T15:43:21Z",
-      "summary": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WMzFVQnVmLWFzV3BkNXdYNXJsbWhydzZEbllZcDhYVzN0UzdxWC1rd0ZyZlBFT2cwWUtKelBzQm9SaE1DVGl3cC1tbUNiNjVHWkEyTEpMVGpOaWh6aTRUeW5iaW5MUUhaTkNYcFFtMjlPbTU3QzRUUw?oc=5"
-    },
-    {
       "id": "news-disaster-dd6c4e1b51",
-      "lat": 34.19984,
-      "lng": -118.3509,
+      "lat": 34.1308,
+      "lng": -118.37974,
       "title": "関東地方で震度4の地震（日テレNEWS NNN）",
       "category": "DISASTER",
       "time": "2026-08-29T15:28:36Z",
@@ -177,31 +188,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93YmEwMkd2QnRrNDVOV0RuRmlQYXFZRHBJazg2NVI3Q3ZNWUJPUTRfOWtXZXp4alhNeVVNeHFFQXNhYUtBQkRVVjZjbTMxZHFwNGpHc0F5OTVJMXNyTHpJSjZjY0hZM0JsdGV6WkdyY1BPMXVuQjhJRUNaZ1BzQXc?oc=5"
     },
     {
-      "id": "news-disaster-5ae3bab3a9",
-      "lat": 43.05366,
-      "lng": 141.39065,
-      "title": "茨城県で最大震度4の地震 茨城県・南部(放送局のニュース )",
+      "id": "news-disaster-c97865e53e",
+      "lat": 35.62487,
+      "lng": 139.75095,
+      "title": "【速報】関東・東北で地震 Ｍ４．８ 東京、神奈川、埼玉、千葉、茨城などで揺れ 最大震度４ 震源は千葉県東方沖 地震が及んだ地域人口１６１１万人",
       "category": "DISASTER",
-      "time": "2026-08-29T15:19:00Z",
-      "summary": "茨城県で最大震度4の地震 茨城県・南部(放送局のニュース )&nbsp;&nbsp;tenki.jp",
-      "source_name": "tenki.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YS0lDTmFJQjE2MmV6bjl5aVVJdHBqa3d1OHRyckVaVDJIUTVtRnE3emxwQ1BRTU4zejN2MGVXOFg0V3JNVUxaOElyaXF1Yk1xT3hBeVRMdUtaSWZjelBQWXI2ZFZSaElReXE3UG5jNUhWRUpyQ1E?oc=5"
+      "time": "2026-08-29T15:24:01Z",
+      "summary": "【速報】関東・東北で地震 Ｍ４．８ 東京、神奈川、埼玉、千葉、茨城などで揺れ 最大震度４ 震源は千葉県東方沖 地震が及んだ地域人口１６１１万人&nbsp;&nbsp;千葉日報オンライン",
+      "source_name": "千葉日報オンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ORHJIbTVPUGNfT3NMdURnN3RRanVtU3NNZ1J5UnZ3RmJYb3hTaXNwWnV6MDNnTGdGVGhCUnZOZDZ6LVpXY1JwTmc1NEk3ZFdQdHpNZlUtRHY?oc=5"
     },
     {
-      "id": "news-disaster-523f12ff7a",
-      "lat": 34.10262,
-      "lng": -118.40226,
-      "title": "関東地方で震度4の地震（2026年8月29日掲載）｜日テレNEWS NNN",
-      "category": "DISASTER",
-      "time": "2026-08-29T15:18:57Z",
-      "summary": "関東地方で震度4の地震（2026年8月29日掲載）｜日テレNEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-      "source_name": "日テレNEWS NNN",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Uam8yeWxxcFdTUnUtdGQ2NE9yc2ctUVVKSkcwYWtfcHFVZU5uRUtfck92a3ZnMlNKMVJmSUhCOGJ3SEgxblA0Z3IwbVpaWlM3TjVpVDJVQXdnYldKb2NIZkJVUkk0dHppRVphUEgxMVlob2V2bEEzR1JXMXo?oc=5"
+      "id": "news-accident-efbd6ab4eb",
+      "lat": 37.84915,
+      "lng": 139.03116,
+      "title": "村上市の住宅で3人の遺体発見 事件事故・無理心中の可能性も【新潟】（UX新潟テレビ21）",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T16:35:26Z",
+      "summary": "村上市の住宅で3人の遺体発見 事件事故・無理心中の可能性も【新潟】（UX新潟テレビ21）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNFp2b1phNkhlZ2tuanhHQ3NQMFhaRWJ5RHBkY2JzNG8zbTVtVFBsM0pmUl83MW5udGFUcFlRYUgtZzh6QXVUVHFPeDVYZHV4MWQ1UmpJUjlnZVVzMlpramVQY1JnVFJ0WGE3MjctanZMVHBCY08zejJqYWZiekU?oc=5"
     },
     {
       "id": "news-accident-af18f9e290",
-      "lat": 39.84246,
-      "lng": -80.26811,
+      "lat": 39.79331,
+      "lng": -80.27277,
       "title": "2 people killed in accident on I-69 southbound in Greene County",
       "category": "ACCIDENT",
       "time": "2026-08-29T15:17:00Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-1021a2aa60",
-      "lat": -12.48149,
-      "lng": 131.02056,
+      "lat": -12.45676,
+      "lng": 130.9645,
       "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
       "category": "ACCIDENT",
       "time": "2026-08-29T14:16:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-ce15b27320",
-      "lat": 36.23212,
-      "lng": -98.47914,
+      "lat": 36.33686,
+      "lng": -98.52354,
       "title": "Major crash shuts down portions of Highway 68",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:54:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-c4791916e7",
-      "lat": 39.78667,
-      "lng": -86.50081,
+      "lat": 39.72293,
+      "lng": -86.56675,
       "title": "Hendricks County Sheriff's Office investigating fatal crash near Plainfield",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:44:00Z",
@@ -243,31 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaFJQd19iTzJYdHBHak1LS1lDN1haMERlTlJXX2wxMGZiaUxnOXNTZ0lWcFduWWRWa042Z0JQa29abi1HaDBSSGN2d285VGc3cmZWdFdvWnNWbVlnWjQ2QnQ5RHpKa0kzOU03LVQ3dGFiTXk5aDlKYmt2cHZ1QXZEUkZNZjJIbGUxTnR2YzZNSW1vRG5QdExmTzhMak9SdHRrcDNPcWRERUlSY2lLZHlSWnBrQWUzaUZ0SWtlRlNpYzNnLWhjRjdORXc1MldUYXJFeUt6Y2V2b3Rxd1RIMFdqMUFQOU1tRUJXYjd5V1FwazV0STNQR1Y3eEhCMnh3SUlxYjU5SkxJNnEwS2pCT182eThTWmJDSURyR1d6TFJPeU5ON09xNHFTTmdCaWFFNWFYZlJXZHgyYk5WVTloeFh6Z1pxejQwVFk?oc=5"
     },
     {
-      "id": "news-accident-53a5adf1bb",
-      "lat": 32.78363,
-      "lng": -117.10319,
-      "title": "Multiple lanes blocked on I-10 after west Phoenix crash",
+      "id": "news-accident-8e5b9e6df2",
+      "lat": 36.29464,
+      "lng": -98.52454,
+      "title": "Major crash shuts down eastbound lanes of US 80 near Forney",
       "category": "ACCIDENT",
-      "time": "2026-08-29T13:07:00Z",
-      "summary": "Multiple lanes blocked on I-10 after west Phoenix crash&nbsp;&nbsp;AZ Family",
-      "source_name": "AZ Family",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFZkSEpLYTdkSGtocTE3ajlWNzZsdUU5T2g0Z3Z6V0x4dmdkb2FjajRuT191cWxUY2VBRGIzeWU4dXljX1J4SFdyOHcxb3JJT2F1WjFfMnZqMjJIWkFocHV5c043ZUZfYXJ5bmxrcF9tNG5udFdlVkpCb0NZRXBJbGM0N0ZIUTBubVIxc2ZYajk4UDg?oc=5"
-    },
-    {
-      "id": "news-accident-f94b151049",
-      "lat": -25.43494,
-      "lng": 28.11065,
-      "title": "Deadly three-vehicle crash under investigation in Horry County",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T13:06:00Z",
-      "summary": "Deadly three-vehicle crash under investigation in Horry County&nbsp;&nbsp;Live 5 News",
-      "source_name": "Live 5 News",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFM0ZjZLZnRMZkk2OFlKYXZKeGtfZk1LbXVnUjJhcV93NXIzWUZHTFFPazQ3ZE0zYnFNNlhaVE84c3N4Mkt1YzhKdmJpUkN1U2FPejl5TkRwMTRuam5sLWVSdjBUNXNRY2ZVVHgwX1BUaVNjUHlFT201R0VGam1ocEN6dV8zNWxBdDYyeEVzYmJnRnVsUnFiM2pRZENJZw?oc=5"
+      "time": "2026-08-29T13:27:00Z",
+      "summary": "Major crash shuts down eastbound lanes of US 80 near Forney&nbsp;&nbsp;WFAA",
+      "source_name": "WFAA",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQklUVE5XM0tEMTdSYmQ3NEp1RzFnYkNLc1BxUFBtckk0NFhPYVlHODlzZmZnXzBhWWtiNGplWlIyd3d5T211WEdLY09CQXh0NjlRVGMyeWp6dWttSVlKM3VVMUdGdzBIakhNRS1qSDM4cDJ0cHcxQXF4OUNDMHdXaG1TeUl1dnZHMTJhbV9IZlBsOEJ1V2F5YlNDOGZ4YjM4b0hMS1l0b0VtV1plQWgtemwzUDhPczVNU0wzT0d6WHpyMUhyQUE0Tm8zaWs3Nmp5a3RhdTNSSlM?oc=5"
     },
     {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.98638,
-      "lng": 4.64175,
+      "lat": 46.96479,
+      "lng": 4.59001,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.98502,
-      "lng": 4.62286,
+      "lat": 46.98842,
+      "lng": 4.6731,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.77666,
-      "lng": 139.46984,
+      "lat": 35.72798,
+      "lng": 139.51217,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.77147,
-      "lng": 135.54186,
+      "lat": 34.82215,
+      "lng": 135.54014,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.73015,
-      "lng": 139.76965,
+      "lat": 35.64507,
+      "lng": 139.73215,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.8793,
-      "lng": 135.52305,
+      "lat": 34.79776,
+      "lng": 135.56561,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -331,9 +331,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOWZ2TElvT05CYlUtUjd3UURkbjU2SEdJV2oyeEo0Wm9ZTHlYUnF6enhadHByV0lsVXZiQmllVGcyY08yYl9UdzNHeG9hbVpJV0JrRA?oc=5"
     },
     {
+      "id": "news-technology-6116ba5fec",
+      "lat": 35.04634,
+      "lng": -89.32644,
+      "title": "I'd Rather Bet on AI's Electric Bill Than Its Chips. Here's Why.",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T16:40:21Z",
+      "summary": "I'd Rather Bet on AI's Electric Bill Than Its Chips. Here's Why.&nbsp;&nbsp;The Motley Fool",
+      "source_name": "The Motley Fool",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOC1GcGh6RHlZeVNFUFZjN0RIeW83ek9BUzhBVkRmaW42djF3bXdKZjF3RVVzeExUTk9zUTVraEZSVTZDandsSFlVT09yeHd2TnhpQ1hKcHg2Sk9pYjNSU0V3M1BQMENjOGlDVllKQkljZC1GOFpvVFJOeUVOXzcyUmVpVHRFS1V2VjgzV1psWDdPa1JxM0xz?oc=5"
+    },
+    {
+      "id": "news-technology-6882dfd11c",
+      "lat": 40.75848,
+      "lng": -74.04593,
+      "title": "Thievery or Innovation? The Music Industry Grapples With A.I.",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T16:28:06Z",
+      "summary": "Thievery or Innovation? The Music Industry Grapples With A.I.&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTEdNbVd5QVY2V2FOLUViNV8xZUhaZjBBcXVyNWk3T0xVZFNVUzN0bExLU3poRmtsQmxKZmtEOV93MFdhVmNHdExpM05Oa2dPNlNsUGxVM2FjT0dlZTcyMXQ1MVhhdjl0T3FxSmZwSjZ4MmtVV3Fzanotakl5ai1oaWxR?oc=5"
+    },
+    {
+      "id": "news-technology-6eff0953eb",
+      "lat": 1.3609,
+      "lng": 103.77568,
+      "title": "Runjian Co., Ltd. Showcases Token-as-a-Service and AI Innovations at AIMX Singapore 2026",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T16:27:00Z",
+      "summary": "Runjian Co., Ltd. Showcases Token-as-a-Service and AI Innovations at AIMX Singapore 2026&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWRfOFJkZjhETUt5S043MHJKVDd4WElWai0tNzN1UzAwUFJTVFhsemotc2QtcG9LY18wXzlpM3BNRUZXdjllNVR4UG5VaUp0UDRXVmNSN21Yb2ZLMWpfa2ZYZm9FckV0a0RfOWFqenU4eHNTTTByUEpabzZNN1BLQWFTWDh1VDQtSVdMZ292UWZEbU53Tjh4V1N3?oc=5"
+    },
+    {
+      "id": "news-technology-33fc071163",
+      "lat": 43.66395,
+      "lng": 7.27352,
+      "title": "NICE (TASE:NICE) Turns A Healthcare Contact Center Toward AI With CXone",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T16:15:41Z",
+      "summary": "NICE (TASE:NICE) Turns A Healthcare Contact Center Toward AI With CXone&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVVsaVNoZnJaMXNiXzFEYy1NMFRMWWhreVZSRHRYV3V4QU5MS2JfSkcwTzg4Nk9jZHRQS2lvUF80WjZCX2ZEMzlIU0dQSUg1RGtzajlmMmQ4dkRnVF90Qy1yTHFzaGVReE5pZU0wSHZydmxLRW1UMnBXUjB5cG1LTEdxaXl1eTlrakRzNUhsUUdqaWdKS2p3?oc=5"
+    },
+    {
       "id": "news-technology-71d7225f23",
-      "lat": 55.7604,
-      "lng": 37.60796,
+      "lat": 55.75008,
+      "lng": 37.5538,
       "title": "Elastic (ESTC) Is Up 16.3% After AI-Fueled Q1 Beat And Higher 2027 Revenue Guidance – Has The Bull Case Changed?",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T16:14:52Z",
@@ -343,58 +387,14 @@
     },
     {
       "id": "news-technology-cc3b4c44a8",
-      "lat": 54.21624,
-      "lng": 23.82671,
+      "lat": 54.18193,
+      "lng": 23.7696,
       "title": "Why Okta (OKTA) Is Up 23.0% After Raising 2027 Outlook On AI-Agent Security Demand – And What's Next",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T16:14:09Z",
       "summary": "Why Okta (OKTA) Is Up 23.0% After Raising 2027 Outlook On AI-Agent Security Demand – And What's Next&nbsp;&nbsp;Yahoo Finance",
       "source_name": "Yahoo Finance",
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVdkVmUtb3RPQV9nN3kwMlR6M2U2dm15dHItZ0dKcFFxOGRqSEk1MU1FbkNjZ1NINDVlbkZXWWJjQWFqYzljWFFiRWNaMGZhZWdCT0J0dnZyRmtjZzRmWWFVYnFfOUpfeFJzSG9Zd1JHNTYwbFk2MG1QU3VHRzc0eHhMRUE5YXVKUFE?oc=5"
-    },
-    {
-      "id": "news-technology-cb08f7ae9e",
-      "lat": 34.36351,
-      "lng": -119.80071,
-      "title": "UCSB Researchers Unveil 10 Rules for Generative AI in Science",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T16:00:46Z",
-      "summary": "UCSB Researchers Unveil 10 Rules for Generative AI in Science&nbsp;&nbsp;edhat",
-      "source_name": "edhat",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOXzNZS0RocEFSZ0c5ZDJjUjVYaDhWVjM2LVpYUW1Nd2hmczU1NWpkMHpBcGU1YVMwSV8xVTVYRHBzWlQ1eFhBNXpNRWViMTBjdUFFeUpVZVEyeUMzN2FDbERlYnQtb3lGS2FxeklMdFVNQ0I2Q25hRDNlUm5IUTdBdDB4Tk1FcTQ?oc=5"
-    },
-    {
-      "id": "news-technology-0c1335273c",
-      "lat": 38.86681,
-      "lng": -77.09482,
-      "title": "The Fed confronts a powerful new economic force",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T16:00:00Z",
-      "summary": "The Fed confronts a powerful new economic force&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5"
-    },
-    {
-      "id": "news-technology-58182ac8fc",
-      "lat": 40.74989,
-      "lng": -73.99415,
-      "title": "New York politicians are using AI to write their op-eds",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T16:00:00Z",
-      "summary": "New York politicians are using AI to write their op-eds&nbsp;&nbsp;TheDailyNewsOnline.com",
-      "source_name": "TheDailyNewsOnline.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNWJpaXVSZWlab1ItY1AxeGZKUkJyOHpCMEVQT1pDRmtOTXJ5aksxRzhEeDBncEVEa0RGU3R4QXVIc1gxdHY0VFo4LTVWR2RjQzBoa1MyTGNpWDR4cmU1YmljTWljRWRqSmZSQWJJYzVhaTRhQ0dka1BLUzMyWmRKTHlwTXBPOUlJVzBLTVdhN1FNZ0FjWUIxVXBNeTBJOWg0N0dKNEM5dko4WW8xdWFOLVQ0a0J3bWtNNUVES0dGVGd1RENqMUpGdnBTd3R0Rk5hRmtrQXZ2c0puQUxuWGc?oc=5"
-    },
-    {
-      "id": "news-technology-3750589f86",
-      "lat": 33.419,
-      "lng": -117.16014,
-      "title": "衛星×AIで雨を「見る」、Rainbowが気象予測の常識を変える",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T15:58:00Z",
-      "summary": "衛星×AIで雨を「見る」、Rainbowが気象予測の常識を変える&nbsp;&nbsp;Forbes JAPAN",
-      "source_name": "Forbes JAPAN",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2NFBOS1l0OHZVb3pjMENRd2U5YVZQLVVISGZRNmhoSDdqcm4zajY4T0JaUzlFQ2VETkxQWU9HQy1laHlMUGk1elQyUXFtU0JmXzdQd3k3OUt0UQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T16:33:45Z"
+  "updated_at": "2026-08-29T16:48:44Z"
 }
