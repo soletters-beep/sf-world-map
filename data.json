@@ -1,9 +1,42 @@
 {
   "news": [
     {
+      "id": "news-politics-0587307dea",
+      "lat": 50.4954,
+      "lng": 30.54208,
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "category": "POLITICS",
+      "time": "2026-08-29T20:13:16Z",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-613ae82fdf",
+      "lat": 26.77369,
+      "lng": 18.16418,
+      "title": "Can international diplomacy find a way forward in Libya?",
+      "category": "POLITICS",
+      "time": "2026-08-29T20:05:33Z",
+      "summary": "Can international diplomacy find a way forward in Libya?&nbsp;&nbsp;Al Jazeera",
+      "source_name": "Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGxNT0tLNXAzaHRhYkNaeTFuR0xBRS1WRTAzZHZyaUk1ZTVpVVJGbUJuemY5cEp6SWJqX3BqcE1rRzJGekFoVW9NQ1VxbU1YNEgwWXdMaG95NUJqT25UMm10UmlsNERjckxCX25vTndFOHJIWlo5WE9aR0VsaE9Yd3p6RDR1ekdINXMzeVdkVVMwUm9TR3dwMEZRN1JLam43T054eXdXaDBreEpGU2400gG0AUFVX3lxTE1tZmlTWkZPSUppdXNzZW8zVFdRTWJ6T1puSVcxTWNBR2pGSm1WVTNZWjhaZjhkX3FzV3pJLVBuNnZCeWhsWWhxWFB3aTZiRVNuWDVSNnZRc284cFBjektPV2dLTXlqV0laX0RJZkNYUy1ZUWdvaDg5ME1fakhiMW1ORlZfUzVQRURNMlVlZHhQeUhQRHRLNDhpWnhwTTJBaVZ2UFA4V0lwblR3WDFwajB5dVpINw?oc=5"
+    },
+    {
+      "id": "news-politics-0c1e2c3715",
+      "lat": 43.10368,
+      "lng": 141.39576,
+      "title": "６０億円規模、地域未来基金 県創設、地場産業振興へ 半導体、食文化・観光など４分野｜政治｜石川のニュース",
+      "category": "POLITICS",
+      "time": "2026-08-29T20:00:00Z",
+      "summary": "６０億円規模、地域未来基金 県創設、地場産業振興へ 半導体、食文化・観光など４分野｜政治｜石川のニュース&nbsp;&nbsp;北國新聞",
+      "source_name": "北國新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZRkFqSjVPbXVOTWs2MmRhYURrcks3Q1l2bmVOVmJzdE5CdWxhZjdjNURJeG1OOEVMRnZlSnFod080QU5qMTZ5Uk9qbTE0RWxXQWt4VThQTQ?oc=5"
+    },
+    {
       "id": "news-politics-352344a676",
-      "lat": 52.12916,
-      "lng": 18.74194,
+      "lat": 52.13574,
+      "lng": 18.69075,
       "title": "Former Ecuadorian president imprisoned for corruption",
       "category": "POLITICS",
       "time": "2026-08-29T19:44:54Z",
@@ -13,8 +46,8 @@
     },
     {
       "id": "news-politics-73b61e585a",
-      "lat": 34.98957,
-      "lng": 138.40138,
+      "lat": 34.99728,
+      "lng": 138.34853,
       "title": "2026年8月29日は、１．2026連合静岡政治連盟政治セミナーに参加",
       "category": "POLITICS",
       "time": "2026-08-29T19:41:23Z",
@@ -24,8 +57,8 @@
     },
     {
       "id": "news-politics-a8433bab8f",
-      "lat": 38.88003,
-      "lng": -77.00915,
+      "lat": 38.91939,
+      "lng": -77.0563,
       "title": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews",
       "category": "POLITICS",
       "time": "2026-08-29T19:35:51Z",
@@ -34,42 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTm54ZVV4YzBUcDdrYXZjcnFMN19Dc2J2ZGQ2SkpCbnlKVjJja0x5b2xuMkRjOVM3aEpaUnRIdEtmTVY2dWxaY1FFb3ZMUW1RQkk5eHN2LWU2NjNyQnNkWTVydDdnSTRjcHBDU2VjUktBSUFuenZlel9aMFE4anpzdUJBckE0RGUxejJSa0N1aHhiOVJCS2VBVkw2Rl9SblV0Q01tZUhuVWVCMlhoWlpWVzFiNXdvWHNXVXJBZw?oc=5"
     },
     {
-      "id": "news-politics-1d114cb21b",
-      "lat": 50.38507,
-      "lng": 4.27487,
-      "title": "Twin Falls group hosts ‘All Parties Party’ to bridge political divides and celebrate community",
-      "category": "POLITICS",
-      "time": "2026-08-29T19:34:00Z",
-      "summary": "Twin Falls group hosts ‘All Parties Party’ to bridge political divides and celebrate community&nbsp;&nbsp;KMVT",
-      "source_name": "KMVT",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1p1bGRtdF9KcXJVNjJVNmJ6MVZEd1Rya0VNaHBMWThXUFVsZlN3VU44ZVVUeTc3bllsa2k2WGpTUEgzbVRZejNsa0d0R01ILW5IWWctWUJiaUlfLTlnYnZiOHFuaS0wVjMzam52bUFibFVZaWxmaG1kcDhBbDI1a0w0SU9TS0prWjVST0xQUldVR3czX3I5SDU0NVNmMjZ0U2tqSG1yWk5NZmxsc2thZllqcWZ5eWRYTGfSAc4BQVVfeXFMUHVpelVpM05VOEpBMnZhZGFseHFqR2ljNXl0WHhfcWlkSDNUbWJmQkNFYjBOWFFheTY3YS1JVG1DRGd3Mzk4WWhUcldMc0JoUGw2Q2VwN0RvUUc2bkE0R3JIYmNqOWJ6eVYxSmlvb0dLbndzeHJJdklpYnUzRWlZU2VNSUFsUDVMTEZSQzkzRzhEWWI0Z0ZVNUxUdWN6cjlfdXpOLUFkb0lFeno1NkFQRS1Qd2VFX0NaVVljbnpQVkxURmJXNXBpVFh5bGJDcHc?oc=5"
-    },
-    {
-      "id": "news-politics-63a6101b7e",
-      "lat": 42.65646,
-      "lng": -112.9171,
-      "title": "Power & Politics: Data center drama; Jackson mayor receives threatening messages",
-      "category": "POLITICS",
-      "time": "2026-08-29T19:21:57Z",
-      "summary": "Power & Politics: Data center drama; Jackson mayor receives threatening messages&nbsp;&nbsp;News12 | New Jersey",
-      "source_name": "News12 | New Jersey",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbjgzODZhREdGTXNKbnJrSWdoU3hJUXcyYl9iRFhSang3R21HTG5fYXdCQjNIZm83dmNqUjVGVmdudTVBSjdWSFNEUnhJTUJPanJCRFZQVW5PeE92QTgyTDlJSjVnRlg5aWxoRzVaazlHYmx6ekN0T2JPYXlET3RKdndzUmdGeWx4WGpkb3h4czFtcm9GX3JibXRoSUlDTzlDb2tHNUhpX0E?oc=5"
-    },
-    {
-      "id": "news-politics-bb2459237c",
-      "lat": 60.76803,
-      "lng": -148.80941,
-      "title": "Tom Begich withdraws from Alaska governor’s race",
-      "category": "POLITICS",
-      "time": "2026-08-29T19:18:45Z",
-      "summary": "Tom Begich withdraws from Alaska governor’s race&nbsp;&nbsp;Anchorage Daily News",
-      "source_name": "Anchorage Daily News",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWlwQy1aV2JoOUlhM3RWa2lBMGxYVVd4a2hScUtiamZmMTVOREJXSjlaRGxiWDNfOXNLdF9oaF83YlhWZk51UWNGbGEwdjV6X24xM25zQmYzMVlHUDAyMzJIV1RFNWRYUHl6MXNjWGFHajZ1ZUJ6MURCWDNzelpBdjNyU2Z5WTBfRVlTaDNoZTMxMl91YVR4MjQwd09KRUlZd3c?oc=5"
+      "id": "news-finance-0d7cbb0ae0",
+      "lat": -12.08876,
+      "lng": -77.00648,
+      "title": "東邦亜鉛、1カ月で4割超上げた株価が当日は反落。2026年3月期通期は当期利益が黒字転換(LIMO)",
+      "category": "FINANCE",
+      "time": "2026-08-29T20:03:36Z",
+      "summary": "東邦亜鉛、1カ月で4割超上げた株価が当日は反落。2026年3月期通期は当期利益が黒字転換(LIMO)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONzdUeWNIV3JpdWpHRDM3bjQxYWlaZ1U4ay1NV05rTldpLTdQUjd5VUI0U0M0ek1RNXFpb1RlUWppdVJhRUZ3SGVMTTdjYWNCTkdaYmZCSFRpTEpYT05LbGdqV3NSRHY1ZUtCeVVrUEZpOXVnWUVBdnhhZm15OHlONnNseXRLSFE?oc=5"
     },
     {
       "id": "news-finance-b1f1580d39",
-      "lat": 56.64699,
-      "lng": -2.98387,
+      "lat": 56.66819,
+      "lng": -3.02826,
       "title": "Fundraiser launched to secure crafting shop future",
       "category": "FINANCE",
       "time": "2026-08-29T18:15:54Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-b4d7c539c3",
-      "lat": 35.5573,
-      "lng": -94.51375,
+      "lat": 35.62808,
+      "lng": -94.46785,
       "title": "'Big Short' Steve Eisman Warns AI Trade Hinges On OpenAI, Anthropic: 'The Whole Tech Space Sells Off' If Spending Slows",
       "category": "FINANCE",
       "time": "2026-08-29T16:50:31Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-d426b31b7b",
-      "lat": 30.21856,
-      "lng": -82.09508,
+      "lat": 30.26621,
+      "lng": -82.12869,
       "title": "Bessent says disorderly yen moves can destabilize global markets",
       "category": "FINANCE",
       "time": "2026-08-29T16:47:43Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-ed68c7a10f",
-      "lat": 47.47217,
-      "lng": 19.00291,
+      "lat": 47.45889,
+      "lng": 18.99489,
       "title": "Nike Installs Former Foot Locker Supply Chain Chief as Converse COO",
       "category": "FINANCE",
       "time": "2026-08-29T16:37:00Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.71457,
-      "lng": -76.64425,
+      "lat": 39.66782,
+      "lng": -76.59467,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T16:15:56Z",
@@ -122,20 +133,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-finance-abf05f9d3c",
-      "lat": -34.67154,
-      "lng": -58.63429,
-      "title": "Personal Finance: $40 trillion and counting: How the national debt exploded",
-      "category": "FINANCE",
-      "time": "2026-08-29T16:00:00Z",
-      "summary": "Personal Finance: $40 trillion and counting: How the national debt exploded&nbsp;&nbsp;Chattanooga Times Free Press",
-      "source_name": "Chattanooga Times Free Press",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3UyVFdjRHNIdXl6aFNtMjROWGd1ZjdTSElVSXQ2RGU2YW9QZ2ZuVjJhaDlRdHFBSTF0d0tQNEE2OGFzVWEwV2FUeWp0M1pjUk4taFNKM0xqTVItUTVROWxuQi1PN3NxSXlrRWZJWVdFdnFic3htNnc5bVJrbXhhbGVjZDUwcHo2cXdQNGZvcWhuM0VTVHlGNGxzN3BoOEE?oc=5"
+      "id": "news-disaster-e611352607",
+      "lat": 32.74385,
+      "lng": 130.72447,
+      "title": "(熊本地震2026)災害弱者どう守る 在宅避難・福祉施設ルポ 2026.8.30付",
+      "category": "DISASTER",
+      "time": "2026-08-29T20:03:45Z",
+      "summary": "(熊本地震2026)災害弱者どう守る 在宅避難・福祉施設ルポ 2026.8.30付&nbsp;&nbsp;公明新聞電子版プラス",
+      "source_name": "公明新聞電子版プラス",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NS0VLWVlMelZueUtZaWpVU0djWWRUWS1uQThOUGpFM2Jqd2ZxSU9IYW9CYjFrRmI2d0ZqYjVjdFhKbEZabXdGclpvd1FTOXZiVUhmRThZQ0ltSm1vcHpOdm5STmUtWGZmVUpDU2R3?oc=5"
     },
     {
       "id": "news-disaster-d0bbb2d2b5",
-      "lat": 32.73022,
-      "lng": 130.74482,
+      "lat": 32.75407,
+      "lng": 130.73575,
       "title": "熊本地震で見えた課題 耐震化遅れや避難所の運営、識者に聞く",
       "category": "DISASTER",
       "time": "2026-08-29T20:00:00Z",
@@ -144,9 +155,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xcy1GMG13djB0Tlh2NEdhVkFYVzZMV3YtTUtjNVB5Y0pLNTI2UHhMVjJaQjgzVnhNNnRrRWV4cXB4TDFJOXVEV1pLSW40eWw0MFVpNkdMOHdUTklVRFp2SDVVNEtkRlVDQ3hPQw?oc=5"
     },
     {
+      "id": "news-disaster-091006d9e6",
+      "lat": 32.75864,
+      "lng": 130.75409,
+      "title": "（２０２６年熊本地震）断水が解消 自治体・業者、大挙応援 家庭の配管修繕、時間かかる恐れ",
+      "category": "DISASTER",
+      "time": "2026-08-29T20:00:00Z",
+      "summary": "（２０２６年熊本地震）断水が解消 自治体・業者、大挙応援 家庭の配管修繕、時間かかる恐れ&nbsp;&nbsp;朝日新聞",
+      "source_name": "朝日新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVV3VvdDhSdmJDMGRNN1NJNXJMTXh5OUc5Zkx6eUJkNW1mT0ZxY1d0QU03a0o4dW0xWTZHRFlWNml3bll6MGd4Vjg5S3lDZl9YSTVQRzlyR3FPR09S?oc=5"
+    },
+    {
       "id": "news-disaster-efa3ae0d7f",
-      "lat": 35.73434,
-      "lng": 139.80656,
+      "lat": 35.64034,
+      "lng": 139.79671,
       "title": "【速報】福井県に「レベル5大雨特別警報」を発表　命を守る行動を(気象予報士 日直主任 2026年08月30日)",
       "category": "DISASTER",
       "time": "2026-08-29T19:40:40Z",
@@ -155,53 +177,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rODFXSzAyMDBiQ0NldzdCNzlKTm9HUDlaQkEzV3pKTmxXWjF3MHZXb3B1N0NuUkNHMS12c1RtZjM5VzV3NW9CZ0NvZExmM3RGWE9ieHM3eVA1ZXFuRlVIa1pkb1BZVWQyVVHSAW9BVV95cUxNN0c2MlJJbnV0T1EwNTU5VnpGMVI5empWUW96ejR0eXJRWjRDbkVPYlU0aGQ0QkhoNktyRTdYeGFNLWFUOERfU2lUdy1NeURHU3cyclNoeEVUOHdQaTJScVc2NkZWQVF6RDYxaUtMa1E?oc=5"
     },
     {
-      "id": "news-disaster-8eaba7cb35",
-      "lat": 33.79731,
-      "lng": -105.69999,
-      "title": "The Forgotten Tsunami of 1303: A Medieval Mediterranean Disaster",
+      "id": "news-disaster-286fb43e06",
+      "lat": 28.36428,
+      "lng": 84.05439,
+      "title": "Nepal flood death toll rises to 675 as nearly 2,500 remain missing",
       "category": "DISASTER",
-      "time": "2026-08-29T19:25:52Z",
-      "summary": "The Forgotten Tsunami of 1303: A Medieval Mediterranean Disaster&nbsp;&nbsp;Medievalists.net",
-      "source_name": "Medievalists.net",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGRKMUhpcVhrUFkwcTJtT0Y0RUFKYTJ5NEE4enpCRndCN2xQeW4tNjduR3RuLXA2N1JUdGpTQzduU3NTVGJvN255VzgxcFhJNkFYQmstdEFyRjFOS05ST2F6RVZIV3lhVGxvMmtRU3BIbHhRQUU4Y21BZmN1aHc1N0ZMMA?oc=5"
+      "time": "2026-08-29T19:36:31Z",
+      "summary": "Nepal flood death toll rises to 675 as nearly 2,500 remain missing&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlhDSkRCbjF3VHg4eTZ2X2VwcndGdW5Yclh2a3BiZUx3RlZ2cDk0Vzd3Q2Y0dFhsa2ZjUThLeWQxTlZqMzhGclhIMXlFWWtsc2JYblJxVjRZNXB1dGtZU0NWR3BGNTR2NzNQMU1fdmxpY2NWTHFyODBCczBjXzdLZW82T3pkaHpLYjRDYzQ5RURacVo1N3RLX2F1TV8zRVVs?oc=5"
     },
     {
-      "id": "news-disaster-322cd6824f",
-      "lat": 37.32955,
-      "lng": -78.68303,
-      "title": "Flood advisory for Bertie County early Saturday evening due to intense rain",
+      "id": "news-disaster-b37360a5ac",
+      "lat": 40.75589,
+      "lng": -74.05074,
+      "title": "Rescuers in Nepal Bore Through Mud and Tunnels to Reach 900 Missing Workers",
       "category": "DISASTER",
-      "time": "2026-08-29T19:23:06Z",
-      "summary": "Flood advisory for Bertie County early Saturday evening due to intense rain&nbsp;&nbsp;Charlotte Observer",
-      "source_name": "Charlotte Observer",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44NllCRTRNOENmdnMtNmZhVlFmUGttQmdQRHVNQ1hlY1JnMEd2V01jczBLSmhHUmNpTENZNERGX3NmQWJ0TThsZlcwNTllSU1Ub1kzSjlvNGFIaldiaDhYTHNmV2wzYzNHd2VMcm84ekYxWXNLbWNrSzA0cHd6dw?oc=5"
-    },
-    {
-      "id": "news-disaster-935fd82739",
-      "lat": 35.64932,
-      "lng": 139.81395,
-      "title": "先日レベル5大雨特別警報の北陸地方で再び災害リスク高まる 命を守る行動を（tenki.jp）",
-      "category": "DISASTER",
-      "time": "2026-08-29T19:21:22Z",
-      "summary": "先日レベル5大雨特別警報の北陸地方で再び災害リスク高まる 命を守る行動を（tenki.jp）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hWVdSVWUzWHh6TjJwUHB5WGhtalc4MmNhQk1GQkdXeWpacGI4QkVCcnZpZ0hqcnlVa2w0amdIQ2lldTRNbEhRbUZhTEE3bEZLMVpKeUZYMm0zZC0xdDZSVmREZE9pa05OQUR0aEU0ZnBNZVVMOTZxUTlZRkFORFk?oc=5"
-    },
-    {
-      "id": "news-disaster-ace96b7338",
-      "lat": 51.14079,
-      "lng": -4.61725,
-      "title": "Earthquake of magnitude 2.4 recorded near Alberto Oviedo Mota, B.C., MX on Aug. 29",
-      "category": "DISASTER",
-      "time": "2026-08-29T19:13:06Z",
-      "summary": "Earthquake of magnitude 2.4 recorded near Alberto Oviedo Mota, B.C., MX on Aug. 29&nbsp;&nbsp;Sacramento Bee",
-      "source_name": "Sacramento Bee",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwamlqRGxlODN0M01VRHFNVVU2TVBZa01Dd21oa01hVWJWMlZob1NKcUx4SnY5a1BpQXZqT01tNWFGSHJOVXhqTjRWaFpQNVRxMVY4ZnJBZzlaMElXQTlHT1hrQjd2Rk13LXNIYVhzTzVscDJsWXBMR1lmVmU?oc=5"
+      "time": "2026-08-29T19:35:02Z",
+      "summary": "Rescuers in Nepal Bore Through Mud and Tunnels to Reach 900 Missing Workers&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM09FdWlrekRkcE5mODl3RFVuVDd3blIxb2N1eU1Rd0hLS1JfT2pJcEotc1dLOGNiRTVtSjVHd0lMQV9UWEh1Ui1XRFFVQXdtTFNmTlZza2pQdTBKWmdxbjAwWHFBUGwxRks0SFpZR3hxUDhUWTdZTUhZbjhxVEhwZ1k1T1UxdDZfWlV2eGZPc0NDSWlSejJEd0tZbk4zZVR1SWRHZ1R2Yw?oc=5"
     },
     {
       "id": "news-accident-c9b0a239e0",
-      "lat": 33.9394,
-      "lng": -118.25913,
+      "lat": 33.8444,
+      "lng": -118.30928,
       "title": "Gardena, CA – Man on Electric Scooter Hospitalized after Colliding with Vehicle at Redondo Beach Blvd and Gardena AveAccording to the Gardena Police Department, the accident took place around 10 p.m. on August 28, 2026, at Redondo Beach Boulevard",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:46:51Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-cfb4b045f3",
-      "lat": 34.99433,
-      "lng": -89.69966,
+      "lat": 35.09583,
+      "lng": -89.61737,
       "title": "Collierville Police diverting traffic after multi-car crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:42:00Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-7c0379a62c",
-      "lat": 1.33077,
-      "lng": 103.87082,
+      "lat": 1.31746,
+      "lng": 103.82098,
       "title": "Parksy.com Free Driver Tools In One App: Fine Appeals, Sign Scanning, Car Finding and Crash Reports",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:05:00Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-9407bb2c32",
-      "lat": -12.52336,
-      "lng": 130.94058,
+      "lat": -12.43309,
+      "lng": 131.00422,
       "title": "Driver critically ill after crash involving police car in East Ayrshire",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:58:39Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-d302983f78",
-      "lat": -18.42396,
-      "lng": 29.74114,
+      "lat": -18.40273,
+      "lng": 29.77495,
       "title": "Zimbabwe crash involving church minibus kills 27",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:50:39Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-b34cf2fb33",
-      "lat": 38.46192,
-      "lng": -95.84992,
+      "lat": 38.39991,
+      "lng": -95.79413,
       "title": "Lebo woman, 80, killed in head-on collision with semi-truck on I-35",
       "category": "ACCIDENT",
       "time": "2026-08-29T17:37:00Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.98008,
-      "lng": 4.62551,
+      "lat": 46.95487,
+      "lng": 4.64493,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.94592,
-      "lng": 4.66176,
+      "lat": 46.8925,
+      "lng": 4.66177,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.76534,
-      "lng": 139.55083,
+      "lat": 35.73655,
+      "lng": 139.50006,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.81807,
-      "lng": 135.56497,
+      "lat": 34.82237,
+      "lng": 135.61719,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.73241,
-      "lng": 139.8206,
+      "lat": 35.69255,
+      "lng": 139.77403,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.82234,
-      "lng": 135.52483,
+      "lat": 34.82335,
+      "lng": 135.53007,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -331,9 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOWZ2TElvT05CYlUtUjd3UURkbjU2SEdJV2oyeEo0Wm9ZTHlYUnF6enhadHByV0lsVXZiQmllVGcyY08yYl9UdzNHeG9hbVpJV0JrRA?oc=5"
     },
     {
+      "id": "news-technology-13217a23d2",
+      "lat": 35.7069,
+      "lng": 139.72478,
+      "title": "品種開発、ＡＩで高速化 イチゴ「１０年」を２年で 東京の新興企業",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T20:02:09Z",
+      "summary": "品種開発、ＡＩで高速化 イチゴ「１０年」を２年で 東京の新興企業&nbsp;&nbsp;日本農業新聞",
+      "source_name": "日本農業新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zRzg4VEU4M25BaHljZmk4elJxNmJidDVhV3FOVzNpVXl6d2dpNzRYZXRNMVlXYkZSY1ZfekM5eGlqY3VTNXc4X3o2NWdCdk4xdFdwS05zMA?oc=5"
+    },
+    {
+      "id": "news-technology-46d4a7f5e5",
+      "lat": 52.10846,
+      "lng": 4.50732,
+      "title": "AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T20:02:00Z",
+      "summary": "AI vaginas, customisable personalities and fake bruises: the sex doll market is booming. Does it matter how the dolls are treated?&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVS1jQkxZQ3hVdHd6OXZpYUpQSW91X0F4ZmRaVTJBcXZhV0VEV1Jlek94MFYzRXlxR1FOdnU2NmtIeElpSTE1NXp5ZGFWVF9VbDZHWVYyZ1ZlMnFWaXdHZk95eU1MdVdzdG1XWWdQRFFKaEVNdjU3T19OcnVibFNmdThrOUw1ejRNUy1YWjZsWlkweUZlR0k5YzJ6cUVlMVRtUDdGT1hyNzl5VU11ZmJXanJPMXd3ZzZRQTYtcWJ6WlZYUzdkd2c?oc=5"
+    },
+    {
       "id": "news-technology-569298d1d9",
-      "lat": 40.5402,
-      "lng": 140.50673,
+      "lat": 40.63514,
+      "lng": 140.57929,
       "title": "濱田式AI品質スタンダード_匠ナレッジコア構想：大学・学生の皆さんへ――共同研究のお願い、企業の皆さんへ――実証実験へのご協力のお願い - mbp-japan.com",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T20:01:24Z",
@@ -342,9 +364,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fR2EwY1Jva0pDdEFDcjV6ek5XQ0FUcTV1cEliWURvSHFYcENlTXBzalRSaDRGLWZpS3F1WFY2aGJmV0JSZHlUcElTRDRZdk0tbXNNaVRON1BXQWprYjkxalNxOUJGVEd4NXJZTzNBZ0g?oc=5"
     },
     {
+      "id": "news-technology-30d6efe25a",
+      "lat": 35.66737,
+      "lng": 139.39541,
+      "title": "AI時代のCEOに必要な力とは ヘッドハンターに聞く甘くない未来",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T20:00:00Z",
+      "summary": "AI時代のCEOに必要な力とは ヘッドハンターに聞く甘くない未来&nbsp;&nbsp;朝日新聞",
+      "source_name": "朝日新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OQzVaZDBoVG81QW41dFN1eGNwVkNLWnEwLVJ4VEVyVlE1WUtGUWhiMFRTamNCOVBReHBOa053eU1XMS02dmNOYnk2cWx6SDNiYWNJaTZ5RVhuVjRiclN6Wnl6LXVIWGM?oc=5"
+    },
+    {
       "id": "news-technology-18ecae43b3",
-      "lat": 35.54069,
-      "lng": 139.75836,
+      "lat": 35.49758,
+      "lng": 139.66422,
       "title": "トヨタやノリタケが駆ける「製造王国の道」 AIが工場の現場パートナー",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T20:00:00Z",
@@ -353,48 +386,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VcnEySlUydmt6UGxWakRvQ0JHYVdJNkR4RGdEUWV2X2hqbE9HVWoxTjR6WkJSeDMtcTZIOTA4UGxuRGlUR3JFSW1qZjlEM1NxZkw0YzdRLTcwbFo0dnY2VXlKWWt4U0xOU2E3VA?oc=5"
     },
     {
-      "id": "news-technology-eab76da465",
-      "lat": -16.51778,
-      "lng": -68.19417,
-      "title": "Visualizing Eugenio Suárez's swing using bat tracking technology",
+      "id": "news-technology-ec6557a031",
+      "lat": 35.68047,
+      "lng": 139.75783,
+      "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、AnthropicをAI訓練データの海賊行為で提訴——数十億ドルの損害賠償を請求",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T19:44:32Z",
-      "summary": "Visualizing Eugenio Suárez's swing using bat tracking technology&nbsp;&nbsp;MLB.com",
-      "source_name": "MLB.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRHQyeVRqNTk1di0xTG9oNUV0YThyRjdRem5MU3ZuSGR6eHZTR0FHR19aOFJSUjF2dFJpNk1uekY1NFJwSmlUNFJFbHhpNS1EMDhTdW1IUUxnZlpxMW9mNzdKSFJFbzhycnVNNzh6ZmU2UEN0MlZ1UWtzVHFlYjJlLWxXaXcxbGtpRFFPYkg5bTBCd2RjLXpyWUZlWk1mUTJtcTZB?oc=5"
-    },
-    {
-      "id": "news-technology-f7c0598255",
-      "lat": 38.86786,
-      "lng": -76.99969,
-      "title": "OpenAI’s chief economist sees ‘care economy’ jobs growing in AI age",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T19:16:23Z",
-      "summary": "OpenAI’s chief economist sees ‘care economy’ jobs growing in AI age&nbsp;&nbsp;NBC News",
-      "source_name": "NBC News",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbldPb3BLVzR0azR3ZDJ5TVR1V1BTM0VGTXY5V2xvUGhWdGhfcEtybXpjS3F1Y3F3UnBlNTI4emFBTHdJc1ZnTEZFR25va0hhY2pLR1VfTVhGQXdUTmE3ay01YW1qc0NCZHo1WGhVUTZ4Yy1YY3F6b2dxMjJPQU9vMDduU0FELUZaUUt3?oc=5"
-    },
-    {
-      "id": "news-technology-567204f7d5",
-      "lat": 47.6809,
-      "lng": 13.61999,
-      "title": "The Leadership Advantage AI Can’t Automate: Learning to Trust Your Inner Signals",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T19:04:44Z",
-      "summary": "The Leadership Advantage AI Can’t Automate: Learning to Trust Your Inner Signals&nbsp;&nbsp;inc.com",
-      "source_name": "inc.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkhvbWhVWlRSdDVxSDJaVUNIODNfeFI2U2YwSVE1czdzWWZ0eHJOVl9hQlh2SWFaU3BnSTRvcDVWUHVUamtwbjQ5MjNoMFMyM3FrcjdxZnBnQ3E2cUJTWXVrR0E2Y3VFU2UwcDY3U2VVdzhvR21ySlNLdzUwZV85LXRERnpNX2hlSkgtU1VxZ2NEc01XZTlWa1VpV0E1NFphV3dDNXNPV0tWTGVleUhuMHZDSnNma3RfTUoxQ0h3Zjc?oc=5"
-    },
-    {
-      "id": "news-technology-8ef1138a56",
-      "lat": 34.7255,
-      "lng": 134.90798,
-      "title": "AIのもと、電力とインフラが重要視される時代（藤野英人）",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T19:00:00Z",
-      "summary": "AIのもと、電力とインフラが重要視される時代（藤野英人）&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iTmpFZFBSTWtqeGgwVzhIRDlsRzhSYVBUWXh0c1lJYXFlckhGbHhXVkdWT3NLaURQRXZ2WC1sN01tTG5nWDNjMnlmTlN2dUV0THczYlJiUmF3TDdtUmJiMDlRRHpLVWZXM0RKTQ?oc=5"
+      "time": "2026-08-29T19:55:00Z",
+      "summary": "ソニー・ミュージックパブリッシングとワーナー・チャペル、AnthropicをAI訓練データの海賊行為で提訴——数十億ドルの損害賠償を請求&nbsp;&nbsp;BigGo ファイナンス",
+      "source_name": "BigGo ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aR09TWjhPakZ6d2w4dHdBckFSYXJNT3NyMjVwQjhJREdERF9nTnlBSlpPODRiYldCTUdFYkNiODJCR1dManRoVTFoWDdsQ1FmWUoxUDU5bGlScFFQT1FOT2pzdEJaWjc1aWtuTHBMX045c1RE?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T20:03:44Z"
+  "updated_at": "2026-08-29T20:18:29Z"
 }
