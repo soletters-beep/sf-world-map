@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-bf995edb8a",
+      "lat": 42.62522,
+      "lng": 12.70034,
+      "title": "イタリアの元ロイヤル、交際を認める お相手の極右の若手政治家は、有力党首の姪と交際して大出世",
+      "category": "POLITICS",
+      "time": "2026-08-29T21:12:19Z",
+      "summary": "イタリアの元ロイヤル、交際を認める お相手の極右の若手政治家は、有力党首の姪と交際して大出世&nbsp;&nbsp;ELLE",
+      "source_name": "ELLE",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVhRVURldVlIVi11bDVsNFlMWWpGZ0ZENE5ObXBQUmQ3ay1nRnFORmRfQUpzM1BuZ1NUSWRRelplQU0yTWlQY0VVUHZWb21TZC1DUl94VzdWZjhUOXhwcHZ5ZG1QckRjTnduM0lPNkpQdXRIUXY1LWx1SVBtaXpMRWJzcVdIbnRLRC01TGlqcUlPc2poVVVocjJWSXgtVU81Rnc?oc=5"
+    },
+    {
       "id": "news-politics-a8433bab8f",
-      "lat": 38.85848,
-      "lng": -77.02283,
+      "lat": 38.91875,
+      "lng": -77.05669,
       "title": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews",
       "category": "POLITICS",
       "time": "2026-08-29T21:05:51Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-5eb4bef9a3",
-      "lat": 35.70407,
-      "lng": 139.7963,
+      "lat": 35.6752,
+      "lng": 139.76913,
       "title": "〈政治まんが〉「大きく咲かない野党」 佐藤正明傑作選「一笑両断2」販売中",
       "category": "POLITICS",
       "time": "2026-08-29T21:02:31Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-cdb6f0fc61",
-      "lat": 39.64765,
-      "lng": -76.57127,
+      "lat": 39.72515,
+      "lng": -76.64874,
       "title": "Trump cannot deport students for criticizing Israel, judge rules",
       "category": "POLITICS",
       "time": "2026-08-29T20:34:00Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-9c38ec338d",
-      "lat": 33.58552,
-      "lng": 130.40876,
+      "lat": 33.62344,
+      "lng": 130.38101,
       "title": "【一問一答】自民党福岡県連 会長職辞任について松本会長「声あれば考えていかねばならない」 来春の県議選「非公認」めぐり幹部が対応協議",
       "category": "POLITICS",
       "time": "2026-08-29T20:30:00Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-2c82153035",
-      "lat": 40.30118,
-      "lng": -3.73037,
+      "lat": 40.36794,
+      "lng": -3.73051,
       "title": "Inside Texas Politics | Full Interview on US-Canada trade war with Congressman Roger Williams",
       "category": "POLITICS",
       "time": "2026-08-29T20:30:00Z",
@@ -56,20 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNVS1RTXRXUGZObHJYaE5yZEhKQ2VIb1prbmQyLXBwZmIxMjNib1ZZZ25pR3hSSnhxQTZzbHFjSXhiMHFtS3NaSVhOd21GYTVDbmtCaS1LUENfQnlEWXk3alhJUm15eDlFdVdGOThkU2Y5S21nSmxRVkZwUTBRclV3MVQ2MThWdWh1Y2NSSGktb0Y1Z010a2hMZ1R6WTdyU0RMZl80UkVTYm1jNnNsQi1CMmZGVUhMaFJaMDNlVWFyRVRobGo5WmdqLTNuMHlVck9sM3JJaWpXcEFuNm0xa3dXRVRaTWpXWkJiRW9JT1I0QlV0bDltQlpucDJvLVRiVTdYeWRxUjN5ODJEc0VrcVpZTU0xTkx0Vmw1MEQyeHl6cTU0MVpTdDJ5a2JEQTk?oc=5"
     },
     {
-      "id": "news-politics-d18523b17a",
-      "lat": 51.59561,
-      "lng": -3.22855,
-      "title": "What courageous citizenship really looks like | Vince Bzdek",
-      "category": "POLITICS",
-      "time": "2026-08-29T20:25:16Z",
-      "summary": "What courageous citizenship really looks like | Vince Bzdek&nbsp;&nbsp;Colorado Politics",
-      "source_name": "Colorado Politics",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3UtdHBFOUl3ak0yNEx5dV9ueGV6aEFRNFpOTFE5LURXcmktTUFaWEIwc240US1VYzVZazlpZ0QzNmE0X2o3bjY2VHpjZ0d2R1U3RG1TWXcwSHZiUmU5QUI5RmJCYXYwNEdSWG43bU5IV3c4WGJ4UDhualFTY0VkWjI1SXFBbEh2RWVUdl8wTTBzYXlOLVlYRlZKMEF4dUZRSFNfcg?oc=5"
-    },
-    {
       "id": "news-finance-75d28925f4",
-      "lat": 43.05189,
-      "lng": 141.29,
+      "lat": 43.02844,
+      "lng": 141.3577,
       "title": "【最新FX・為替ニュース生解説】2026年8月31日～9月4日 YouTubeライブ配信スケジュール｜リアルマーケット分析",
       "category": "FINANCE",
       "time": "2026-08-29T21:00:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-401f425c1c",
-      "lat": -28.60015,
-      "lng": 153.25823,
+      "lat": -28.57789,
+      "lng": 153.32435,
       "title": "Protesters line Merrimon Avenue as G20 finance ministerial comes to Asheville",
       "category": "FINANCE",
       "time": "2026-08-29T20:41:45Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-75caac2b74",
-      "lat": 18.64488,
-      "lng": 77.16255,
+      "lat": 18.60224,
+      "lng": 77.11862,
       "title": "Viral SEO Launches AI Assistant for Google Search Console Insights",
       "category": "FINANCE",
       "time": "2026-08-29T20:07:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-1f723793e4",
-      "lat": -12.09917,
-      "lng": -77.02407,
+      "lat": -12.10533,
+      "lng": -77.05663,
       "title": "東邦亜鉛、1カ月で4割超上げた株価が当日は反落。2026年3月期通期は当期利益が黒字転換（LIMO）",
       "category": "FINANCE",
       "time": "2026-08-29T20:05:12Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-dee43e684f",
-      "lat": 42.29877,
-      "lng": -87.8517,
+      "lat": 42.33873,
+      "lng": -87.82451,
       "title": "AbbVie vs. Eli Lilly and: Which Healthcare Stock Is a Better Buy in 2026?",
       "category": "FINANCE",
       "time": "2026-08-29T19:35:01Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-b1f1580d39",
-      "lat": 56.71866,
-      "lng": -3.03869,
+      "lat": 56.72235,
+      "lng": -2.95807,
       "title": "Fundraiser launched to secure crafting shop future",
       "category": "FINANCE",
       "time": "2026-08-29T18:15:54Z",
@@ -133,9 +133,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cz0zr3577glo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-disaster-e4d8a27d11",
+      "lat": 33.73863,
+      "lng": 130.47977,
+      "title": "【台風情報】最大瞬間風速40m/s・990hPa「台風23号（バンラン）」...今後の進路は?9月9日までの雨・風シミュレーションで確認【気象庁30日3時45分発表】 (RSK山陽放送)",
+      "category": "DISASTER",
+      "time": "2026-08-29T21:28:09Z",
+      "summary": "【台風情報】最大瞬間風速40m/s・990hPa「台風23号（バンラン）」...今後の進路は?9月9日までの雨・風シミュレーションで確認【気象庁30日3時45分発表】 (RSK山陽放送)&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1gzOHA1S0tfS1hvV25MZXRwY0xvcHFnNTY4djVGSnpaN1NyQUhQS0d0clpaZXJCRERLTGItQWU5emswWXBsUnU2anV5cUh1MHc1d0EzNUpLMGF3dXF1OGtMMG5fMS1MQWkwR3J2emlFUlZGZERSQnJ3ZDNWUS02OGFPU0kzY0tNQ3VyUU5n?oc=5"
+    },
+    {
       "id": "news-disaster-b4f4519930",
-      "lat": 35.7073,
-      "lng": 139.74951,
+      "lat": 35.73347,
+      "lng": 139.75147,
       "title": "【レベル3土砂災害警報】富山県・南砺市に発表 06:04時点（TBS NEWS DIG Powered by JNN）",
       "category": "DISASTER",
       "time": "2026-08-29T21:09:24Z",
@@ -144,20 +155,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tMXdIU2ZqY29GTzBEczk3SlAtaXRZdUpWdzR1NkRVTm40eTZ4RjA2ZUE3UDhSZDA1R3ZnXzBKTlhUYkVjNHRmb3NUODQtY2h0WjMwekttNk56MkxEMmQ5YnB1b2s4TWdpRG5jSERMd2tKbmdZdFY0TzZHbmFvbGM?oc=5"
     },
     {
-      "id": "news-disaster-2124ab40b6",
-      "lat": 32.8066,
-      "lng": 130.69216,
-      "title": "熊本地震では死者も…真夏の車中泊避難、何が必要？車はガソリン切れで「ただの危険な箱」に、命を守る重要ポイントは？",
-      "category": "DISASTER",
-      "time": "2026-08-29T21:07:00Z",
-      "summary": "熊本地震では死者も…真夏の車中泊避難、何が必要？車はガソリン切れで「ただの危険な箱」に、命を守る重要ポイントは？&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2aXZSQ3REdGhlYlllV2FnaEliNFk5MHgzV3VwQ05KYjg3ZGVKanJwOHVLdDVFZ2haUkNaZS1Hbk95Nlp1YUd0UDM4NTRnWDNzMHJPOTc1dlNGSUxqbWlabTFiT3U?oc=5"
-    },
-    {
       "id": "news-disaster-7061ae9894",
-      "lat": 35.69211,
-      "lng": 139.56984,
+      "lat": 35.6683,
+      "lng": 139.55279,
       "title": "自然災害が相次ぐ日本で重要なカギに…「ボランティア活動」の参加者数が多い企業ランキング（東洋経済オンライン）",
       "category": "DISASTER",
       "time": "2026-08-29T21:03:39Z",
@@ -167,8 +167,8 @@
     },
     {
       "id": "news-disaster-e23f0be9c6",
-      "lat": 35.64608,
-      "lng": 139.80718,
+      "lat": 35.67361,
+      "lng": 139.79476,
       "title": "171億円で建て替えた新庁舎が熊本地震で損傷、震度7に耐え得る「復興の象徴」が…汚職事件との関わりは",
       "category": "DISASTER",
       "time": "2026-08-29T21:00:00Z",
@@ -178,8 +178,8 @@
     },
     {
       "id": "news-disaster-e68623f9ed",
-      "lat": 36.11039,
-      "lng": -79.40418,
+      "lat": 36.07148,
+      "lng": -79.40848,
       "title": "Alamance and Guilford counties placed under a flood advisory until Saturday evening",
       "category": "DISASTER",
       "time": "2026-08-29T20:56:06Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-8bc3fb34ed",
-      "lat": 35.72272,
-      "lng": 139.71352,
+      "lat": 35.74097,
+      "lng": 139.7645,
       "title": "【防災気象情報】レベル4土砂災害危険警報：福井市、大野市、勝山市、鯖江市、あわら市、坂井市、永平寺町、越前町 レベル4大雨危険警報：福井市、大野市、勝山市、坂井市、永平寺町（2026年8月29日掲載）｜FBC NEWS NNN",
       "category": "DISASTER",
       "time": "2026-08-29T20:40:00Z",
@@ -200,8 +200,8 @@
     },
     {
       "id": "news-accident-543d2071bf",
-      "lat": 34.95218,
-      "lng": 135.1834,
+      "lat": 34.883,
+      "lng": 135.13829,
       "title": "なぜ「電動キックボード」の安全性がここまで問われるのか？ 13車種すべて「推奨せず」！ 6月都内初の死亡事故、直立乗車に潜むリスクとは（Merkmal）",
       "category": "ACCIDENT",
       "time": "2026-08-29T20:52:38Z",
@@ -210,20 +210,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xczFxaXA2Z3ljUUxOSDlCendQbDJYNzBHZmx3QUJ3eEJNOHZUanhndmlyaWlDdkR0NkptZVUwaVVLVTRhb0t2Y0p2Z0ROa1VXdHBqQzJVOEREVDlGMzlGMjhlM00tQ0xqSXdwRmNKNmdyM0ktcTdFR1k2UE9JeXM?oc=5"
     },
     {
-      "id": "news-accident-323ed6838f",
-      "lat": 42.31772,
-      "lng": -71.14733,
-      "title": "辺野古沖転覆事故、反基地、反自衛隊…沖縄の「反基地無罪」の源流に迫る　〈産経BOOKS〉『紅い沖縄認知戦』仲新城誠著",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T20:33:39Z",
-      "summary": "辺野古沖転覆事故、反基地、反自衛隊…沖縄の「反基地無罪」の源流に迫る　〈産経BOOKS〉『紅い沖縄認知戦』仲新城誠著&nbsp;&nbsp;ｄメニューニュース",
-      "source_name": "ｄメニューニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNHdmNEJILWN4RkpNNFhFNDBtS2FKR2VyakFwd3BYdGRlYjdoNS14cFZYXzdoYVBYUDBxRWVDLTlCTm1qRVdjSnViS3V0QUwzZ3U1MWZMa1d5RlVXNzJwZDF4TlZjYXAzTk8tamNaTHFfRmkxVld3SllHQlBGdk1VaWNkaElIckd3V3NxbGh0LUtDai05b1dpU2JTaVpwd9IBowFBVV95cUxNWmxDZTZUYTFYaUFGUnNxRVZoVHpVd2FMRlE4Q2NHRW1ZTUtJR3JienRtWk9rSDczMlVJeWtJREFxMXRfd2tlX0FGaEpyakpyc085TWFtd180MmdOTDFHUDNKSDBmd1doNDBMZ0xMRzBLcWNWQXJRTHpEalFJbllyaDdDNExhbEJMQVBzdU5GTnQ3b2swbG9VQ3lPR0o5UWxvMnIw?oc=5"
-    },
-    {
       "id": "news-accident-a84d9980d7",
-      "lat": 45.50647,
-      "lng": 9.29051,
+      "lat": 45.48685,
+      "lng": 9.23157,
       "title": "名誉ベルト、弟が戦った証 ボクシング、死亡事故から１年 風化と再発の防止願う",
       "category": "ACCIDENT",
       "time": "2026-08-29T20:00:00Z",
@@ -233,8 +222,8 @@
     },
     {
       "id": "news-accident-c9b0a239e0",
-      "lat": 33.89292,
-      "lng": -118.26066,
+      "lat": 33.86093,
+      "lng": -118.35175,
       "title": "Gardena, CA – Man on Electric Scooter Hospitalized after Colliding with Vehicle at Redondo Beach Blvd and Gardena AveAccording to the Gardena Police Department, the accident took place around 10 p.m. on August 28, 2026, at Redondo Beach Boulevard",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:46:51Z",
@@ -244,8 +233,8 @@
     },
     {
       "id": "news-accident-9cf8c23797",
-      "lat": 35.05595,
-      "lng": -89.62005,
+      "lat": 35.04411,
+      "lng": -89.67065,
       "title": "Collierville Police diverting traffic after multi-car crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:42:00Z",
@@ -255,8 +244,8 @@
     },
     {
       "id": "news-accident-7c0379a62c",
-      "lat": 1.32222,
-      "lng": 103.86763,
+      "lat": 1.38881,
+      "lng": 103.83924,
       "title": "Parksy.com Free Driver Tools In One App: Fine Appeals, Sign Scanning, Car Finding and Crash Reports",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:05:00Z",
@@ -265,9 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDVld0txRHRJc015bGRPSTJsWHg4V0s5Ty1OM0VmekxMUHRudVIyZ0dQNEJtYmJ6VG5BUXRpNHRFYS1PUmQ1a3lVbDVfaDlXWEJhSTlRdUhIU1NQRnN3VEVuN2pENVlOX2JUbl9tSV9NLUhaOVVtZkZUMkotd3o3NjE5VQ?oc=5"
     },
     {
+      "id": "news-accident-9407bb2c32",
+      "lat": -12.44473,
+      "lng": 130.97745,
+      "title": "Driver critically ill after crash involving police car in East Ayrshire",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T17:58:39Z",
+      "summary": "Driver critically ill after crash involving police car in East Ayrshire&nbsp;&nbsp;BBC",
+      "source_name": "BBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NYnhJa2ZQM3dacHE2R2hRUVFNMGNnS3B6b3FtVkV6a2dOMHprYlZ5Rmt0UHg5STBPaUQ1Y3V1LUM2SW5uYmpUcWhscmRBa1BvY0hiY3E1bXlaQQ?oc=5"
+    },
+    {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.2663,
-      "lng": 66.12956,
+      "lat": 34.25661,
+      "lng": 66.10755,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
       "time": "2026-08-29T21:14:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.97209,
-      "lng": 4.64848,
+      "lat": 46.92492,
+      "lng": 4.69211,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.87475,
-      "lng": 4.57867,
+      "lat": 46.88769,
+      "lng": 4.6782,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.79108,
-      "lng": 139.57909,
+      "lat": 35.75201,
+      "lng": 139.55439,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.77908,
-      "lng": 135.56598,
+      "lat": 34.85702,
+      "lng": 135.56796,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.69284,
-      "lng": 139.76083,
+      "lat": 35.69406,
+      "lng": 139.79369,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -332,8 +332,8 @@
     },
     {
       "id": "news-technology-69b3decfb5",
-      "lat": 35.56623,
-      "lng": 139.36176,
+      "lat": 35.58527,
+      "lng": 139.33269,
       "title": "空冷の限界に直面するAIデータセンターはダイレクト・ツー・チップ液冷へ舵を切るのか：『ビジネス2.0』の視点",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T21:08:12Z",
@@ -343,8 +343,8 @@
     },
     {
       "id": "news-technology-d85ae3e66d",
-      "lat": 34.72455,
-      "lng": 135.63666,
+      "lat": 34.65565,
+      "lng": 135.58031,
       "title": "AIスキルがあると給与62％増？ 10億件の求人データから読み解く“AI時代の市場価値”（AMP［アンプ］）",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T21:06:37Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-9498f73f4c",
-      "lat": 51.52121,
-      "lng": -0.05898,
+      "lat": 51.45487,
+      "lng": 0.01868,
       "title": "Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T21:03:59Z",
@@ -365,8 +365,8 @@
     },
     {
       "id": "news-technology-49ad382a3f",
-      "lat": 34.96359,
-      "lng": -3.01437,
+      "lat": 34.98559,
+      "lng": -3.02148,
       "title": "Tariffs Finally Showing Up In Inflation Stats—And So Is AI",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T21:00:57Z",
@@ -376,8 +376,8 @@
     },
     {
       "id": "news-technology-5cdd2ec877",
-      "lat": 35.79377,
-      "lng": 139.35034,
+      "lat": 35.81972,
+      "lng": 139.28746,
       "title": "フィジカルAI開発活発化 職人技継承、ロボットに託す 担い手不足、人型も挑戦",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T21:00:00Z",
@@ -386,15 +386,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QQVR0aHhCMzV2ci1TOVk3RW1aa19tZkJQTEVYUGdzWjl4bm9ac3QtY1BTeXo0YUhzS2JRQTlDaTNGY0ZlajRxR1p1VTB1cVhOaW9NaFFR?oc=5"
     },
     {
-      "id": "news-technology-a6ce2c3af8",
-      "lat": 35.83686,
-      "lng": -78.58373,
-      "title": "Visualizing Cal Raleigh's swing using bat tracking technology",
+      "id": "news-technology-d716ae5c06",
+      "lat": 38.27942,
+      "lng": -121.30388,
+      "title": "Need spiritual guidance? Gurus join chatbot trend as people turn to AI for answers",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T20:46:42Z",
-      "summary": "Visualizing Cal Raleigh's swing using bat tracking technology&nbsp;&nbsp;MLB.com",
-      "source_name": "MLB.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWE9PR3NuUXdTTS11aGkxNG9EMjJmVmFOblU4c2ZlM25zYWVuZzJSXzhRY042MnZCNDFGYmdWMnlZVF9nalc1TVY3VVlHMkxfYnV4YWRuVW9vMXRYYUN6VHAtVENoamdLdEJEdEJKNlVwM0UwemRXZmQ1WGliRG9EZllNc2hxQTJlZXBsT3JaZTB6SHhLYWxMZ1ZPOUNBRWY4bTFoQw?oc=5"
+      "time": "2026-08-29T20:55:00Z",
+      "summary": "Need spiritual guidance? Gurus join chatbot trend as people turn to AI for answers&nbsp;&nbsp;Japan Today",
+      "source_name": "Japan Today",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlRrc25vanBRemw4MkFFVEdwNHpfSEp2R1lkUVNyLWs1cHlOanJabGVueng5NUlWVWtSdUNoTjQ1TjlTdnh6T3dhenUyMVNpTDVPcmFXNExSWVJ2OTl2cUpVY0l5Q1lPSWVCSk9PZVh6YkxUeXEzbVFWYzNoQVJqcXZKbi1EYm56RkwtQUdXcURwNHJwUnhkMU1PY05CbktiNkZwd1ZrT0I2S2pZYTdKYnZSOGc1dnhyOGc?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T21:18:35Z"
+  "updated_at": "2026-08-29T21:33:35Z"
 }
