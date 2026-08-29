@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-aff3c506c1",
+      "lat": 34.76304,
+      "lng": 135.20816,
+      "title": "「入閣はニュートラル」チームみらい安野党首",
+      "category": "POLITICS",
+      "time": "2026-08-29T02:14:00Z",
+      "summary": "「入閣はニュートラル」チームみらい安野党首&nbsp;&nbsp;ABEMA TIMES",
+      "source_name": "ABEMA TIMES",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TNE5rbS0zLVVFRXIweWxGMG9RN3ZySUVLQ2NPeUMyeXVOTWk4dFhtejRhWXFCRkR2Y1Y2Q3VhMDMxN3hkLXRmOTZZZHZIMFRFTEt6Qg?oc=5"
+    },
+    {
       "id": "news-politics-b54a86dde9",
-      "lat": 40.68564,
-      "lng": -74.05031,
+      "lat": 40.75932,
+      "lng": -74.05925,
       "title": "Judge Rules Trump Unlawfully Targeted Foreign Students Who Criticized Israel",
       "category": "POLITICS",
       "time": "2026-08-29T01:40:28Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-be98814627",
-      "lat": 52.20558,
-      "lng": 18.70337,
+      "lat": 52.09533,
+      "lng": 18.76745,
       "title": "Former White House teleprompter operator ordered to turn over profits, pay fine over insider trading",
       "category": "POLITICS",
       "time": "2026-08-29T01:39:00Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-d4cab06f46",
-      "lat": 35.70535,
-      "lng": 139.58565,
+      "lat": 35.66909,
+      "lng": 139.55535,
       "title": "暴露系Ｘアカウント創業者、アイドル活動再開と政界進出表明…過去には父は政治家と自称（日刊スポーツ）",
       "category": "POLITICS",
       "time": "2026-08-29T01:37:15Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.73701,
-      "lng": -76.61051,
+      "lat": 39.70127,
+      "lng": -76.65496,
       "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-29T01:21:43Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-76c313ff41",
-      "lat": 8.41153,
-      "lng": 49.05761,
+      "lat": 8.32399,
+      "lng": 49.03732,
       "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
       "category": "POLITICS",
       "time": "2026-08-29T01:14:13Z",
@@ -56,31 +67,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-848172b147",
-      "lat": 38.94044,
-      "lng": -77.08713,
-      "title": "Trump announces creation of U.S. Space Academy",
-      "category": "POLITICS",
-      "time": "2026-08-29T01:00:00Z",
-      "summary": "Trump announces creation of U.S. Space Academy&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFUtQVk0bUY2TGZKSG10SkdhLWdiNzJUN0x0RE94a3lzdS1BTG54aG1XaDQxZTI3WUJkMHZBNlVNRUZiOTZTMlczVFB0X0UyVWNtZWpsQTJETTk1VFdRUTdXV2o3Z3RBS3NucGdPMC1iWWNSeFM3cFRZWUlZUlBfNlFGZG5zTzZFYW1ycTZsdmV1ZnFfYUM5Sw?oc=5"
-    },
-    {
-      "id": "news-finance-62d877d582",
-      "lat": 35.75948,
-      "lng": 139.75832,
-      "title": "Ｊトラスト(株)【8508】：株価・株式情報（夜間PTS含む）",
+      "id": "news-finance-5765688cc0",
+      "lat": 32.69402,
+      "lng": 54.61984,
+      "title": "イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店",
       "category": "FINANCE",
-      "time": "2026-08-29T01:31:53Z",
-      "summary": "Ｊトラスト(株)【8508】：株価・株式情報（夜間PTS含む）&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IcHpYd1ZNUDB0Y2NRQ2tHelVvcVpTVVhlUnNWTjZrUzFwajJnazI2MGtJUzBYbUNLMEZKb3VvTjFhbzZHelo1V01fME8tNkE0Rmc?oc=5"
+      "time": "2026-08-29T02:20:17Z",
+      "summary": "イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店&nbsp;&nbsp;読売新聞",
+      "source_name": "読売新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUFdwV3FjZkJPclZPa3AzSWc2bXBCbzZjU0FUOTFfUUlWUEl4RG1WOU9ZaC1jZnozbjJjLWVYSlJBSzdBSVU5VmllaU8zdWowZzR5VjRkVGw1SmNhcmtLdkV3?oc=5"
     },
     {
       "id": "news-finance-6e89dd8ccc",
-      "lat": 42.86121,
-      "lng": -73.93289,
+      "lat": 42.89064,
+      "lng": -73.94135,
       "title": "GE Vernova’s New JV Could Unlock its Next Big Growth Engine",
       "category": "FINANCE",
       "time": "2026-08-29T01:30:00Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.68096,
-      "lng": -76.56123,
+      "lat": 39.73973,
+      "lng": -76.60982,
       "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T01:21:43Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-eb16c172c5",
-      "lat": -33.90301,
-      "lng": 151.20786,
+      "lat": -33.89575,
+      "lng": 151.17163,
       "title": "Is Visa’s AI Cybersecurity and New Markets Push Reshaping the Investment Case for Visa (V)?",
       "category": "FINANCE",
       "time": "2026-08-29T01:07:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-2e507b41e9",
-      "lat": 25.25451,
-      "lng": 55.2379,
+      "lat": 25.1861,
+      "lng": 55.30204,
       "title": "ドバイ安全神話の崩壊 世界の金融ハブが直面する地政学リスク（TBS CROSS DIG with Bloomberg）",
       "category": "FINANCE",
       "time": "2026-08-29T01:00:35Z",
@@ -122,20 +122,75 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MR3lPajM3YS11NDFoQ3hjQ0pqbUYxdDVvN2V3WXJRcGNPdm5aN2M1N1BoTm9jbzMtUF9GRV9FWE9pZjQ5WEE5MGJ4N2Rya25WOTJSWU03cGl0Qi1VREVQN0NDdGZrSGVwMkxTeGdPY1B1OVNCdkdMekYzemh5ZE0?oc=5"
     },
     {
-      "id": "news-finance-5765688cc0",
-      "lat": 32.66906,
-      "lng": 54.56043,
-      "title": "イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店",
+      "id": "news-finance-fe76d07684",
+      "lat": 31.16898,
+      "lng": -84.69496,
+      "title": "Miller Industries Reaffirms 2026 Outlook, Eyes $200M-Plus Military Production Pipeline",
       "category": "FINANCE",
-      "time": "2026-08-29T00:50:00Z",
-      "summary": "イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店&nbsp;&nbsp;読売新聞",
-      "source_name": "読売新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUFdwV3FjZkJPclZPa3AzSWc2bXBCbzZjU0FUOTFfUUlWUEl4RG1WOU9ZaC1jZnozbjJjLWVYSlJBSzdBSVU5VmllaU8zdWowZzR5VjRkVGw1SmNhcmtLdkV3?oc=5"
+      "time": "2026-08-29T00:01:00Z",
+      "summary": "Miller Industries Reaffirms 2026 Outlook, Eyes $200M-Plus Military Production Pipeline&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTzYxdExwVmczYzRNQWg3THE3cFJYYWluX2hmMGNHeGgzNW9CMVNpSTNOVjI3TlBDdUlRTmNwMVRuQXAtTmhqZUJmV3NocURrTUNpUFFickVBNEVMTG91QnlfUkJOSEJBcDRpU18tNEM2OUVRQUhNOFk5alAyLVo5UldoQjBwYlpVenliMWw2bF9EQ0JyX3JoSnlZdjdiSWMyTUJGYWE1Tlg?oc=5"
+    },
+    {
+      "id": "news-disaster-181e8caf0a",
+      "lat": -21.01902,
+      "lng": 27.4994,
+      "title": "Northeast Ohio Medical University mobilizes aid for Nepal flash flood recovery efforts",
+      "category": "DISASTER",
+      "time": "2026-08-29T02:27:00Z",
+      "summary": "Northeast Ohio Medical University mobilizes aid for Nepal flash flood recovery efforts&nbsp;&nbsp;WKYC",
+      "source_name": "WKYC",
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObWdnOEVVcXRsN2U0RjNUM0t4REExclQ4M2tnckRKOVQ2NFV2eHV0TXZYMDNLSk1LVUJoSHhMNWRvdnFwUFZaYzBkQXR5bW5XYTlpZWNVczF6MGpfbmlDLTZCQ3cwR0t5UldXNE1zcFZpRF9oZkJzbnU0QlA1OTd0SjJQOEFKUjFKWExPbVBESTIydWVEZ1hZUlFEc244NE9sQ2xhU2lsRVFiSFZ4LUs3NFE3YkE3RGVXZXlfVFFRNl9iRXVRR241ZlBERl8xZWFFalYxTFQ3VTVoTHZqUEROUFNxM2ptZlRuYk1RUlNxendKWFUtX2duRjJOQklzcEZKSGpSNWtxdkhBZw?oc=5"
+    },
+    {
+      "id": "news-disaster-cf902c2773",
+      "lat": 41.02355,
+      "lng": -74.15853,
+      "title": "No home football, soccer games at Ridgewood High School due to flood damage",
+      "category": "DISASTER",
+      "time": "2026-08-29T02:19:20Z",
+      "summary": "No home football, soccer games at Ridgewood High School due to flood damage&nbsp;&nbsp;ABC7 Eyewitness News",
+      "source_name": "ABC7 Eyewitness News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDJEMnpfX1REZ3VTMnpqazlNV3BjMHY1RzR5U1piX0FtVEM5QUd4ZlYxSUQ0b3NrSUtaZHYxancxS2pWWEhfM3VZNmlCaGdCYkV5VFlQRW1YSXhENzNLVWxnTmkxM0gzM0RtUEQ4Um9Yb1g2VUdJNnNNaWRnM0YwdnY2WGdIVkotYW1KWlhPTS1XQlRRTkMzMm9pRTBxUkstcEYtWNIBqgFBVV95cUxOOC0tV2ZUaVZCdGl2VlhFQlNwQW9GXzU1TXh6TjhGdGx1bGY3M0dCX3cwdXlwd1BBVExZWjVvV2xJUEsxOTdfQ1FUQ1k4T0ZRZTVRZDN5TTB5RDBiR2RLSERaN1pnckR5eThqZkNDS3BhUWtqOEliTGtmbF93YU1QTkhmSHk2Zm9SZ2p2VFZOSmZyZmZqa2ZEYVZPaUgxdjJzVWk4MHluQ2owUQ?oc=5"
+    },
+    {
+      "id": "news-disaster-b56b3fbe58",
+      "lat": 40.23761,
+      "lng": -82.74221,
+      "title": "Ohio medical school preparing students to help with Nepal flood recovery",
+      "category": "DISASTER",
+      "time": "2026-08-29T02:14:00Z",
+      "summary": "Ohio medical school preparing students to help with Nepal flood recovery&nbsp;&nbsp;Cleveland 19 News",
+      "source_name": "Cleveland 19 News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVEg3UlpNc0RXSkh2WXA4NUliYzB3eXlRQklNdzlkQ2NSRllNV2Q4S0VsdXBRZW43eU5TTHY2clNJZ0c2UG9GYWYwdXFwZzFzUEQyTlR4WWNZY2Y5UjZSYl8xRlhmM2xuT3NDeHpsMXpreFJXcXJMS1lVMGhyOXpFY2xGN3A2Y1JvX0k4XzBKZFRtclNsNkJYeWVpb0NaRTdKX1ZPcmRRaTZIUlBxbmc?oc=5"
+    },
+    {
+      "id": "news-disaster-f3a99993ad",
+      "lat": 39.24598,
+      "lng": -83.13156,
+      "title": "Storms in San Antonio: Flash Flood Warning in effect, thousands without power on Friday night",
+      "category": "DISASTER",
+      "time": "2026-08-29T02:14:00Z",
+      "summary": "Storms in San Antonio: Flash Flood Warning in effect, thousands without power on Friday night&nbsp;&nbsp;kens5.com",
+      "source_name": "kens5.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWFNRTXZQOEFmR1p2Qk1QX3dRNHlCTVpuc2ZaalQ2M1JOcUZTZEp0djhOajZRYXR2cGRnOVlhZTZ1SGdiOXRvenpUVUJXUDk0T2JDNDRXcmJQMExXYzh5bmRRNHJ6Tjk4UHBXMEF1NFdPQ0oyQXRsVm5GdWpxSXVIdFlrMURLUndWUkZla0dSSW9iU0VsYVdObHFCbW5qRkVhb0dCalhJX2JLbkFPT1VUNkVNSkFWWUZYR0d3NDJkV1NLVTd6V0hrbjNiRFlEd0NmXzlrUmdKVU9pZ2w5dXFjTXdHVmk?oc=5"
+    },
+    {
+      "id": "news-disaster-450e27424a",
+      "lat": 34.1366,
+      "lng": -118.36854,
+      "title": "北陸、あすにかけ再び大雨のおそれ…土砂災害に厳重警戒を 27日に記録的大雨（日テレNEWS NNN）",
+      "category": "DISASTER",
+      "time": "2026-08-29T02:13:00Z",
+      "summary": "北陸、あすにかけ再び大雨のおそれ…土砂災害に厳重警戒を 27日に記録的大雨（日テレNEWS NNN）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00YVgyTTF0U2FIdmlPNW90Y3ZBSlU3QXNxblY3b3h6RG5fbTREajJQbEx2cFFYbzZGYzJ5X0VUanQyOUpLbDV3a1p5RFR2dUJ6dk5rX1hTak11OFpBanpoVm5aZUJkNzVhSDg5N0RXTlU0Z3hYZndJTzBJNHUwZUU?oc=5"
     },
     {
       "id": "news-disaster-c4a3db476b",
-      "lat": 54.50184,
-      "lng": 50.50606,
+      "lat": 54.4719,
+      "lng": 50.55713,
       "title": "【台風情報・大雨情報】台風22号（アータウ）と台風23号（バンラン）はともに日本のはるか東を北上へ 一方で秋雨前線の影響で再び大雨の所も 北陸地方は30日にかけ土砂災害に厳重に警戒【雨風シミュレーション29日〜9月3日】（tbc東北放送）",
       "category": "DISASTER",
       "time": "2026-08-29T02:09:16Z",
@@ -144,64 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rS2U3QXZsaHIwbUIzTnJIYzExc3BlZXV0LWlRT1NnMkxIVHZyV1cybDBBQTh6UWNOUnIzTkxud2k2c3lkMDB4STFfLWRCcnltUWJQeExaRW1xYVd6TUdGNnVmZ2VqeFo3ZUpOcEx6V21TZ19KeHlnbnJteExrY3c?oc=5"
     },
     {
-      "id": "news-disaster-097429414f",
-      "lat": 32.74034,
-      "lng": 130.79081,
-      "title": "熊本地震から１か月 元の生活遠く… 井戸の不具合続く八代市 猛暑の中 暮らし支える給水支援",
-      "category": "DISASTER",
-      "time": "2026-08-29T02:00:00Z",
-      "summary": "熊本地震から１か月 元の生活遠く… 井戸の不具合続く八代市 猛暑の中 暮らし支える給水支援&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wdmFOOWRxZGtwU3R3bnNQWElwX2ZWajI2cGo5ZEc0S3BYdjIxSEZub2t5T0pXcGpxOTV6bnpQMVhyd0Jnd0FsQU1BQ1cxNjdfaDdldEx4ZVUwUQ?oc=5"
-    },
-    {
-      "id": "news-disaster-895f3527ed",
-      "lat": 32.78388,
-      "lng": 130.75936,
-      "title": "熊本地震から１か月 元の生活遠く… 井戸の不具合続く八代市 猛暑の中 暮らし支える給水支援",
-      "category": "DISASTER",
-      "time": "2026-08-29T02:00:00Z",
-      "summary": "熊本地震から１か月 元の生活遠く… 井戸の不具合続く八代市 猛暑の中 暮らし支える給水支援&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Vb2prbnFUcTFQNUxqTTVFbXJWVHhTVFVFcV8wRUJ0VDlhSWdyRTRNUFdsMlQ5YzJzdDJoSWdZN3YwaTdSUmhBSHVtcTVSSXpaTjVpYWFxeno3WVZYNVNQa2V6Y1A?oc=5"
-    },
-    {
-      "id": "news-disaster-6699a6c2ff",
-      "lat": 32.78604,
-      "lng": 130.73031,
-      "title": "熊本地震 日奈久断層帯未破壊の領域も地震活動活発 地震予知連",
-      "category": "DISASTER",
-      "time": "2026-08-29T01:49:04Z",
-      "summary": "熊本地震 日奈久断層帯未破壊の領域も地震活動活発 地震予知連&nbsp;&nbsp;NHKニュース",
-      "source_name": "NHKニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrbHVBWTFSU0xfWjZqa3RLWWhKNkpqSnhQUThZS0RlcnZWU1J6NXhwOG9YZ3E0clRiOEI4WnZHbmg2c1NFWk4yN2xtb2F6LXVJOUktcDdfTWVEaTlTLWVB?oc=5"
-    },
-    {
-      "id": "news-disaster-d81586791d",
-      "lat": 33.7639,
-      "lng": 130.42629,
-      "title": "【土壌雨量指数】少雨でも土砂災害おそれ 土壌中に大量の水分残る 県西部29日夕方まで土砂災害警戒 氷見は降り始めから488.0mm観測 富山【雨のシミュレーション】",
-      "category": "DISASTER",
-      "time": "2026-08-29T01:27:00Z",
-      "summary": "【土壌雨量指数】少雨でも土砂災害おそれ 土壌中に大量の水分残る 県西部29日夕方まで土砂災害警戒 氷見は降り始めから488.0mm観測 富山【雨のシミュレーション】&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQdkxPdDZxLUM1QUpUaG02cVdRMHNoUEhQVjlGeVRXX1p5TFdXQTNOQ3R3bEFRNGNRb1hmN21YMVRPNmhqR3k2dUZqMkdlb3VhX1hDeGVlLUw2UQ?oc=5"
-    },
-    {
-      "id": "news-disaster-73ea3c4924",
-      "lat": 36.65763,
-      "lng": -118.74888,
-      "title": "California couple recounts surviving deadly Nepal flood: \"I knew I was going to die\"",
-      "category": "DISASTER",
-      "time": "2026-08-29T01:05:00Z",
-      "summary": "California couple recounts surviving deadly Nepal flood: \"I knew I was going to die\"&nbsp;&nbsp;CBS News",
-      "source_name": "CBS News",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWw0NDZGdFZGRTcwOUk2eWFmY2hHR2o4WFA1WnBFNVFsVFZDa0xlcmhlRnBEbjNScnlUd0ozaGtwNUFqUTU4cGpqM0U1ejkzR3N3N2F4S2FyZFFPSzlxM09KenplUkQwZTRDX1hSc3ZWYWZKdHhNcGFDdDlBUWV2eQ?oc=5"
-    },
-    {
       "id": "news-accident-8376b3a6df",
-      "lat": 36.66723,
-      "lng": -118.73333,
+      "lat": 36.73345,
+      "lng": -118.72135,
       "title": "Big rig crash on I-80 near California-Nevada border leaves truck hanging off bridge, CHP says",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:57:52Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-f606acc0e5",
-      "lat": 32.20404,
-      "lng": 70.42936,
+      "lat": 32.20089,
+      "lng": 70.3316,
       "title": "米の日本製紙子会社の11人死亡事故 タンクの厚み不足指摘",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:17:50Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-f7113947a0",
-      "lat": 59.48662,
-      "lng": 30.20757,
+      "lat": 59.54043,
+      "lng": 30.2152,
       "title": "Crash closes Hwy 26 east of Hwy 103 junction in Clatsop State Forest",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:12:00Z",
@@ -232,20 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUNHMVVwTlFIS2lMOEYwUEtRRHlzWDFYdkt2MmdvY3Fucm40MnU3ajlta191V3lxd282WDh5MzF2a2pEMFRZQzc0dUFSMkFEeXhTb1dNUXpSM3hXVjNtMHltdUd4Y1h3QUVsTGRPT2d4US1vNkRhZHRNV09LMWd0OUR6SW1ldVhxeHlWLTVRQ1lsNHllNnJwVGFPOA?oc=5"
     },
     {
-      "id": "news-accident-994f627033",
-      "lat": -24.79914,
-      "lng": 134.69802,
-      "title": "オーストラリア ・ライフセービング協会と日本ライフセービング協会で連携。水辺の事故を減らすために、豪日交流基金助成事業『Next Wave』プロジェクトを実施。",
+      "id": "news-accident-e7192ab556",
+      "lat": 35.96513,
+      "lng": 140.0759,
+      "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に?期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」",
       "category": "ACCIDENT",
-      "time": "2026-08-29T01:00:01Z",
-      "summary": "オーストラリア ・ライフセービング協会と日本ライフセービング協会で連携。水辺の事故を減らすために、豪日交流基金助成事業『Next Wave』プロジェクトを実施。&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51WG9NSEg4eDVNS3NVQWhZd1ZQMzVqOHdwZUR5YlRyWHNseGRscUNCWlQ2SE12b3loLVpHX0I0MC1abUl1TGRNV0xDa2dQWXk5YTVPelJSVFVxMUJnM2FlOEtUank4RGNfV0E?oc=5"
+      "time": "2026-08-29T01:00:35Z",
+      "summary": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に?期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPOVFTZFVOM053eUp0MVBZS1JNVlJ4ZFE2U3E1SzYwS1kyV1RsSWVXTDBWREdHN2FyVUJfN2lkbUNVMnUzVm9XNnBWMEVndUdsQjMzNXFXakJnNFhxZ2N4MndYNDNSNjZZYjJXVzdQa2ljRS1Gb2FiYTRXOElPWHc?oc=5"
     },
     {
       "id": "news-accident-07b073be23",
-      "lat": 51.98671,
-      "lng": 15.56467,
+      "lat": 51.87607,
+      "lng": 15.56444,
       "title": "【ホラー】事故物件に霊がウヨウヨ、でも鈍感ルポライターは気づかない!?事故物件で起こる怪奇現象が笑いに変わるホラーコメディ【作者に聞く】（ウォーカープラス）",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-42ae8b3e89",
-      "lat": 35.94402,
-      "lng": 140.19301,
+      "lat": 36.02327,
+      "lng": 140.08988,
       "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」 | MBSニュース | 関西の最新ニュースを分かりやすく。",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:00Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.82921,
-      "lng": 135.53329,
+      "lat": 34.86729,
+      "lng": 135.58918,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-41b3158fb2",
-      "lat": 37.44397,
-      "lng": 126.91166,
+      "lat": 37.5416,
+      "lng": 126.99329,
       "title": "脳梗塞のため活動休止》サンド伊達 毎日鼻血、目の焦点合わず、妻から「顔色悪い」の指摘も…半年前に訴えていた“体調の異変”（女性自身",
       "category": "DISEASE",
       "time": "2026-08-29T01:18:21Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.23606,
-      "lng": 140.87102,
+      "lat": 38.25662,
+      "lng": 140.90527,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
       "time": "2026-08-28T23:04:05Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-c304749877",
-      "lat": 34.95304,
-      "lng": 135.16407,
+      "lat": 34.84757,
+      "lng": 135.13166,
       "title": "歯みがきを怠ると口の中が「菌のゴミ屋敷」に！全身の病気リスクも高まる【眠れなくなるほど面白い 図解 口と歯の話】",
       "category": "DISEASE",
       "time": "2026-08-28T21:58:33Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-cd2ab2d092",
-      "lat": 35.67822,
-      "lng": 139.87017,
+      "lat": 35.68519,
+      "lng": 139.84522,
       "title": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む",
       "category": "DISEASE",
       "time": "2026-08-28T21:07:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-fbe37cb8c5",
-      "lat": 42.38038,
-      "lng": 141.08457,
+      "lat": 42.42717,
+      "lng": 141.0725,
       "title": "「来週ぐらいには戻ってたら」ソフトバンク山川穂高、右目の感染症療養からファームでの調整再開 実戦復帰は未定",
       "category": "DISEASE",
       "time": "2026-08-28T21:01:04Z",
@@ -331,20 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CQW81dy1vLVRFdU9mV1ZCXzRyQ3NHZUlVZmxrX1NIcnR3ZzJXdFI1bjB0NWI3WW5UU1YwUlBoSm9EZEFFUkFxTWY3X3R0blFUaVN5cnVLZUFwRVhLZk0xbjVwTXlBSUJBcEsyUmpEN3BhdDVUcmNHWXhkNjdaSjg?oc=5"
     },
     {
-      "id": "news-technology-f8026c51fc",
-      "lat": 35.81538,
-      "lng": 139.33715,
-      "title": "水中のマイクロプラスチックを検出するAI搭載「カメ型ロボット」…カナダの高校生が5万ドルの奨学金を獲得（海外）",
+      "id": "news-technology-7a6ec0a63e",
+      "lat": -8.28502,
+      "lng": 115.64138,
+      "title": "韓国、AI開発への「生データ」活用を容認へ、個人情報法を改正…企業に追い風、審査厳格化が条件",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T02:10:01Z",
-      "summary": "水中のマイクロプラスチックを検出するAI搭載「カメ型ロボット」…カナダの高校生が5万ドルの奨学金を獲得（海外）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15eDBzWGtueW84elRHMnVGel96ZC1kNE0tSXdIOWl0a0cxbnV5VjFYUHBfaDlrQWJWY0N6RmZYaUdmaDZ6Z3JUOUwwbWNWX3hnLUVHRUZuVXZBcXhmeGpiMGRua0JoZll3RHBoNFB5dnlnT3pnenNVVnF0bzVGeG8?oc=5"
+      "time": "2026-08-29T02:31:44Z",
+      "summary": "韓国、AI開発への「生データ」活用を容認へ、個人情報法を改正…企業に追い風、審査厳格化が条件&nbsp;&nbsp;AFPBB News",
+      "source_name": "AFPBB News",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vU1lDOWhoR0JKYk1scXBSanE2SHMtWUpMbUoyQXI4dF9MMmRFSV80NDBRQkdiSmtkeDNfNDEtZXdka2YzbXlkQXpJVDQtQWIxMFhMTk9pcGlQZ2VCLWc5TGN4TmVqVEVkQXZzcGp2ZDRyQdIBVEFVX3lxTE00SDU2NTVVR25Rd0JPUUJTUEgzcElYOEFpWEZIVFp0MWZ5ZDlURlN6bm9iUUNVYlY1OFc5WDJXUWQ2VllDWkE2YWZsZU5tVzBCYTRSQw?oc=5"
     },
     {
       "id": "news-technology-a5e79d7b5c",
-      "lat": 38.90615,
-      "lng": -77.00734,
+      "lat": 38.90469,
+      "lng": -77.08161,
       "title": "Opinion | The Pentagon loses a battle in its unnecessary war with Anthropic",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T02:07:27Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-7826180420",
-      "lat": 35.62737,
-      "lng": 139.67265,
+      "lat": 35.70965,
+      "lng": 139.63772,
       "title": "転職活動、6割がAIを活用 面接練習や書類作成…実は企業側も見ている？【コラム】（福井新聞ＯＮＬＩＮＥ）",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T02:02:32Z",
@@ -365,8 +365,8 @@
     },
     {
       "id": "news-technology-833efc5067",
-      "lat": 35.63283,
-      "lng": 139.68224,
+      "lat": 35.67713,
+      "lng": 139.74845,
       "title": "【配信版①】エヌビディア 80兆円“ツケ払い”！？／中国製AI「Kimi K3」の衝撃 米中開発競争は消耗戦へ？【橋本幸治の理系通信】",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T02:00:00Z",
@@ -376,8 +376,8 @@
     },
     {
       "id": "news-technology-0505cb5ced",
-      "lat": 35.69927,
-      "lng": 139.68503,
+      "lat": 35.62474,
+      "lng": 139.73649,
       "title": "【配信版②】エヌビディアの牙城を崩す！プリファードのAI半導体とは？／世界シェアトップ目指すキオクシアの超高速SSDとは？キーマンに直撃！【橋本幸治の理系通信】",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T02:00:00Z",
@@ -387,8 +387,8 @@
     },
     {
       "id": "news-technology-08b2c6e01c",
-      "lat": 64.71255,
-      "lng": 97.74118,
+      "lat": 64.7069,
+      "lng": 97.78341,
       "title": "ニセ情報の黄金時代 ロシアのAI工作と「物語のロンダリング」",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T02:00:00Z",
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T02:18:33Z"
+  "updated_at": "2026-08-29T02:33:36Z"
 }
