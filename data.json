@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-0587307dea",
-      "lat": 50.44296,
-      "lng": 30.46378,
+      "lat": 50.48458,
+      "lng": 30.55258,
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "category": "POLITICS",
       "time": "2026-08-29T15:27:56Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.69948,
-      "lng": -76.60127,
+      "lat": 39.70679,
+      "lng": -76.61625,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-29T15:13:42Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-9188fcdc7f",
-      "lat": 38.96093,
-      "lng": -77.0641,
+      "lat": 38.89055,
+      "lng": -77.04087,
       "title": "This Appalachian memoir author is running as a Democratic contrast to JD Vance",
       "category": "POLITICS",
       "time": "2026-08-29T15:02:42Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-af13d6e807",
-      "lat": 32.72672,
-      "lng": -97.37817,
+      "lat": 32.71865,
+      "lng": -97.31414,
       "title": "Tarrant County to vote on whether to close 140 Election Day polling locations",
       "category": "POLITICS",
       "time": "2026-08-29T15:00:00Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-6a30e4823a",
-      "lat": 38.91889,
-      "lng": -77.02573,
+      "lat": 38.90061,
+      "lng": -77.06944,
       "title": "How states’ fight over an ICE agent could open a new political battleground",
       "category": "POLITICS",
       "time": "2026-08-29T14:33:00Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-d85ce9e683",
-      "lat": 9.49425,
-      "lng": 0.78224,
+      "lat": 9.52309,
+      "lng": 0.80202,
       "title": "Kara Swisher: ‘It’s a stunt presidency’",
       "category": "POLITICS",
       "time": "2026-08-29T14:30:29Z",
@@ -67,9 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSlExajBoV3ptUVVTd3EwMXpvb1pSdU5iRnZOc0JRYWh4LUppNTlKSF9fOEpaN2JHV2VCdTUzdnBNS0hzQ1BuRHI4RkZDS3ltaUI2bzFjSjJwLVhkWHVISHh5ekhZV18zdjdFQThIUkFkcFpJaDZjck03ZXpPRjhqRHUwdEV1SlE0?oc=5"
     },
     {
+      "id": "news-finance-0ce9827e0d",
+      "lat": 40.2893,
+      "lng": -3.68914,
+      "title": "Inside Jackson Hole’s Big Question: Can Central Banks Modernize Tokenized Markets?",
+      "category": "FINANCE",
+      "time": "2026-08-29T15:16:00Z",
+      "summary": "Inside Jackson Hole’s Big Question: Can Central Banks Modernize Tokenized Markets?&nbsp;&nbsp;Barron's",
+      "source_name": "Barron's",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONXJsN2QyOTRzR0ZwcGxjeHpIT1k2UEdiVVJBdkNlZjRtSi03a1hLbnI1c3c5YjJ1MnViTy1tb0RISG9fWThfRWUtblpHSFlfU2lmQVhZbHBBdFctcnE3WFhtQWpKbklrdVBXNUF4b0ZVODRNNk1ZTk5mdTBxMVZqdzVBYVhKd2ZTYkg3Rmp4VkphU090NTZOd1VhYmJrUQ?oc=5"
+    },
+    {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.68324,
-      "lng": -76.64044,
+      "lat": 39.64607,
+      "lng": -76.60968,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T15:13:42Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-deab557e38",
-      "lat": 50.20036,
-      "lng": -125.52969,
+      "lat": 50.21203,
+      "lng": -125.46162,
       "title": "IDT Highlights Growth Engines, Delays net2phone Spin-Off Until Markets Improve",
       "category": "FINANCE",
       "time": "2026-08-29T15:01:55Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-f28ff3529e",
-      "lat": 51.45518,
-      "lng": -0.13312,
+      "lat": 51.538,
+      "lng": -0.14515,
       "title": "History Says All Bear Markets Have 1 Trait in Common -- and It's Fantastic News for Investors",
       "category": "FINANCE",
       "time": "2026-08-29T14:40:00Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-09b25efda4",
-      "lat": -29.83595,
-      "lng": 31.03476,
+      "lat": -29.91777,
+      "lng": 31.03892,
       "title": "Fed Chairman Warsh shows courage with Jackson Hole speech, defying political pressure, says Harvard's Rogoff",
       "category": "FINANCE",
       "time": "2026-08-29T14:09:51Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-9b2ce649b7",
-      "lat": 14.75129,
-      "lng": 121.02525,
+      "lat": 14.7835,
+      "lng": 121.06922,
       "title": "Honda Is Opening a New Dealership Down the Road. Its Longtime Dealer Says That's Not Even the Worst Part",
       "category": "FINANCE",
       "time": "2026-08-29T14:00:00Z",
@@ -122,31 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTEozUXN5RU5OSUtDR0lsYWhuV3YzTmpGTXJ3MEhZRUNRR0RSUmEydEFFMFJkaUFiZlhXMXpPNW1HOHByVmpCYWhhOUtVRHpKSUJMWG5wYUQwaXVnREFxZnlUWmVHOFkxVzBRWGJQNGdmZ0V1WWRJWkxOR1FzdUE1WFcxS1BYZXBuaF9jT3g4MFVueG13ekRTeUQ4ekJ1ZDZF?oc=5"
     },
     {
-      "id": "news-finance-6304ba573f",
-      "lat": 45.73953,
-      "lng": 4.8557,
-      "title": "Interface Eyes Growth as One Interface Strategy Targets Commercial Flooring Share",
-      "category": "FINANCE",
-      "time": "2026-08-29T13:01:54Z",
-      "summary": "Interface Eyes Growth as One Interface Strategy Targets Commercial Flooring Share&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeDdVSzlnbk0xUWZlR3JadmNaWEtxOXpWWmRQSmxhYVZQOGdmT2lkMlU2TEFSRWxPLWxsS29JU1RIOE54aXRYaDd3YUMwNUJXOE9vM0l4RThpR1FLRFpudk55RWVVUEUyTl9Ba3pxdzBxNkhEaC1MNFdSdUFUdXpPQ0s5anJ4cWJCU1Juc0hRR2pXQnd4UFptUXpnUHAwaDI0QWc?oc=5"
+      "id": "news-disaster-6c503ea93f",
+      "lat": -42.89675,
+      "lng": 147.3852,
+      "title": "Hobart, Indiana FEMA disaster assistance center opens weeks after severe weather caused storm damage, NIPSCO power outage issues",
+      "category": "DISASTER",
+      "time": "2026-08-29T15:33:45Z",
+      "summary": "Hobart, Indiana FEMA disaster assistance center opens weeks after severe weather caused storm damage, NIPSCO power outage issues&nbsp;&nbsp;ABC7 Chicago",
+      "source_name": "ABC7 Chicago",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMlBsYnBPX1FaU2xIUjJDdlM4TFY4aWJIN01vOFVzUzZ5cVJwQkxhWmZVMk1uY280eEtrOERxdDE0Y2NfYzlOUmpMb0UzUmpaRjNlZkxfVVhRR1JfQ2YwSjVJMkt5NFJwTW56dWpqSHBMdWRyNE43TmhkN3lONWpPdExhQzU2cFNWelpXd2Fxd1lMNFdLNWRwWmRFMUhJbXJmdE02dUZoaV94Vmlkdi1WS2dUb2IyRHpjRjRxbUVEb2VDTFZVOXpSaVZyRFVIY3gwc2tDblRCeVJUN2xRVks0RUhVLVdkZTlIamgyQ0x2Q3XSAfYBQVVfeXFMT1A1TjRJWmlNWEVQa2ZaX0RFV3JUZG1iQjlTY1QxbWIwTU52aGhYdThoN0U1WHVBRFYzZ0tWR0pubG5yQUhIbmR3dFllMkhQc3FDWmhvYXBpTFVhbkNObkI1WTQ0RWlPUHAxYWFmdnV1SHl6U0RRSkNhRWp6ZUlYSVcyZ3dIWXhRdnE4OGE3Uk8tRmpNYlFicGMzTG0tYW1KWmNLdUdZSkszai1UT3VuTHJhTTBfQ21UNEtkWmp0N1N2Yk9fYkk2c2p1cWJFVlYyaE42dTlEakQ5VVJ5QUVoaFlSTFctWjh3MW1nOF9GNUNiSVpWVWFB?oc=5"
     },
     {
-      "id": "news-disaster-b81cd477cb",
-      "lat": 35.62204,
-      "lng": 139.77648,
-      "title": "茨城県で最大震度4の地震 茨城県・南部（FNNプライムオンライン（フジテレビ系））",
+      "id": "news-disaster-dd6c4e1b51",
+      "lat": 34.1194,
+      "lng": -118.36451,
+      "title": "関東地方で震度4の地震（日テレNEWS NNN）",
       "category": "DISASTER",
-      "time": "2026-08-29T15:19:21Z",
-      "summary": "茨城県で最大震度4の地震 茨城県・南部（FNNプライムオンライン（フジテレビ系））&nbsp;&nbsp;Yahoo!ニュース",
+      "time": "2026-08-29T15:28:36Z",
+      "summary": "関東地方で震度4の地震（日テレNEWS NNN）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YTzFKaWJFRzkzUkVRQUlMSkg0V2JTWlhBQ0lrTDhiaG1tdERWVC1sQ3pOVXllMVJBQnVoVmlkQjZBS0QxYmZ2NEFaMTBvTnRMVDUxdTQ1TXppYjRscFZYQ2x4U2JpZlgxY1FrS19vRGd5TGZ3bnJ0a0s5WVVyeWM?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93YmEwMkd2QnRrNDVOV0RuRmlQYXFZRHBJazg2NVI3Q3ZNWUJPUTRfOWtXZXp4alhNeVVNeHFFQXNhYUtBQkRVVjZjbTMxZHFwNGpHc0F5OTVJMXNyTHpJSjZjY0hZM0JsdGV6WkdyY1BPMXVuQjhJRUNaZ1BzQXc?oc=5"
     },
     {
       "id": "news-disaster-5ae3bab3a9",
-      "lat": 43.07018,
-      "lng": 141.39426,
+      "lat": 43.04142,
+      "lng": 141.31153,
       "title": "茨城県で最大震度4の地震 茨城県・南部(放送局のニュース )",
       "category": "DISASTER",
       "time": "2026-08-29T15:19:00Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-584c45d411",
-      "lat": 35.70096,
-      "lng": 139.81304,
+      "lat": 35.75627,
+      "lng": 139.78458,
       "title": "【レベル4土砂災害危険警報】福井県・福井市に発表 00:08時点（TBS NEWS DIG Powered by JNN）",
       "category": "DISASTER",
       "time": "2026-08-29T15:14:10Z",
@@ -166,9 +177,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JUklSVm9zdk5sclcyYkF6TVg2cDhqbmo4MUVkSmFzaVZ4UVVOVEx4OFota01OYW1aSXRwTHRSV1FwV0VQa3ZJVXhHTU5ZUE15UVdrVkFZWXNacGxJWC1GMXdvM3MycGdmLWJFM3llX1N6bnpGYWtPWml6dHltR1k?oc=5"
     },
     {
+      "id": "news-disaster-beb36497f2",
+      "lat": 47.56792,
+      "lng": 12.15731,
+      "title": "Water Mission sends team to aid Nepal flood victims",
+      "category": "DISASTER",
+      "time": "2026-08-29T15:13:12Z",
+      "summary": "Water Mission sends team to aid Nepal flood victims&nbsp;&nbsp;WCBD News 2",
+      "source_name": "WCBD News 2",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUW80TjF4bjZObEg4QWhhTjI3QW5ycGJuWlhQX3JwQ2xMUnI0dGVrdjMzMVRLd055OW5VME5pSlpfSWJuYU1TWjhDVXFoVDJ5T1NRREpBWXlfaC0zTDZyTVh6bTN6OXlkWU5hRERtQkhxaDNQcmhzOVBzY25vaTNyX044dlNJRmhUSDZsZEVpbUZ0N3NacEo4WkRDR1dKMlRucFlGRlBvS0s5LXBsdXN5ZDlwTHNKRmtQ0gG-AUFVX3lxTE1VRERtZnp6N29mNlEyQXprWERQZkVEVUFaem1CeWNGX3ZwQlZ2bW8tYVQtS3Foby1oUUItTUdmNnhKMWg0bzFrMUdqWlRiZmZqeFdYSGo2WDBsXzRvekkxeV9GMGhKelJaQmJMSXktQl81ajJndjdXZ2owZ2p1Q0xoRVhxLTZ6WkdvN1puRW9mWk1fYlc5ZTN3VXplLW55bUpxNTdJWDVPbEtHSXV0OUZubUdQdjl5N25pbklXanc?oc=5"
+    },
+    {
       "id": "news-disaster-f135142c33",
-      "lat": 28.35996,
-      "lng": 84.02313,
+      "lat": 28.34753,
+      "lng": 83.99646,
       "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars",
       "category": "DISASTER",
       "time": "2026-08-29T15:12:54Z",
@@ -177,31 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjdfNEtrbWhacHFVYkcyZjF3a0JBNmVhdGFkVlJBYmN4LVJWczZiWmhJRDZfdnNtcFRPOEFreGNPV1ZCZF83WGtMbjRSaEh1dGVFcVc1MTdMT1cxcW5ZSzJUWm1DV1hnMmhVVk1oV2ZoMFo1LWYwWTk3VG1qeHdwWEZJR0VMSDBWaXJsX2JBaWllVlZzUFhRaXRtWDFKNU02cjNUYUx1eEJlT3dsV09QX2JBTmFBd2No?oc=5"
     },
     {
-      "id": "news-disaster-78d37e4943",
-      "lat": 35.68525,
-      "lng": 139.72146,
-      "title": "【レベル４土砂災害危険警報】福井県・福井市に発表 00:08時点",
-      "category": "DISASTER",
-      "time": "2026-08-29T15:08:00Z",
-      "summary": "【レベル４土砂災害危険警報】福井県・福井市に発表 00:08時点&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iMHhBWG45UUw5T0FVN1lwSndnelQ0ZzNUM3JmX1M0a2YxSHJVYUREeDFxdXpCWGV3bWNSVWhVcmhVc0JDU29xeDYyeUs4Zl81SHFJWEN4aw?oc=5"
-    },
-    {
-      "id": "news-disaster-be93fdc3ed",
-      "lat": 28.41726,
-      "lng": 83.98929,
-      "title": "Nepal: 626 dead, more than 3,000 missing in flash flood",
-      "category": "DISASTER",
-      "time": "2026-08-29T15:00:02Z",
-      "summary": "Nepal: 626 dead, more than 3,000 missing in flash flood&nbsp;&nbsp;upi.com",
-      "source_name": "upi.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3lybWZianpFa0x4QTFHR09PVkwtSEZOLUMzLWtsX2xmQUFib1RJRjN3Skh6VFJzWUlIdWhETnVUdHVOMXM1ZHFQa2xzMDRLQ2huaGtDWHo1dE1UMi1hQVNkMVFMY2E3YW9Cc3AwUXlqc0xPZGNqMkZGVUpvTVpzNlRWWlFPTFhrdGdCWVJRemEtV09uUFpxZm1mQ204c2xveXMwSVJPRkjSAa4BQVVfeXFMUFVpMVo0NlJnbWlyVFR0VVpKTklCbU9iSVBxSEJCbm9pNndsMFQ4eER2UTJ4MXgyRWs3Wkc2UzBPMHZobHQ3TTd0bEdRdElrckdaLWdkMlZOc3RJWUs4RGZXck1oazZNUTlSQ3M2YUNoVEgtbkw0dWY0SUZ4QWVCaGUzS2RlQVZJdlo1R2I5bWlzcTJqVXkzNXYwd3F0SVR6Vmd0cUUwbXJySldTYktn?oc=5"
-    },
-    {
       "id": "news-accident-af18f9e290",
-      "lat": 39.89462,
-      "lng": -80.23919,
+      "lat": 39.79165,
+      "lng": -80.24978,
       "title": "2 people killed in accident on I-69 southbound in Greene County",
       "category": "ACCIDENT",
       "time": "2026-08-29T15:17:00Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-1021a2aa60",
-      "lat": -12.53086,
-      "lng": 130.95851,
+      "lat": -12.42925,
+      "lng": 130.96515,
       "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
       "category": "ACCIDENT",
       "time": "2026-08-29T14:16:00Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-ce15b27320",
-      "lat": 36.32772,
-      "lng": -98.452,
+      "lat": 36.34549,
+      "lng": -98.46046,
       "title": "Major crash shuts down portions of Highway 68",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:54:00Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-c4791916e7",
-      "lat": 39.74073,
-      "lng": -86.53329,
+      "lat": 39.72529,
+      "lng": -86.47828,
       "title": "Hendricks County Sheriff's Office investigating fatal crash near Plainfield",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:44:00Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-53a5adf1bb",
-      "lat": 32.79254,
-      "lng": -117.1852,
+      "lat": 32.78507,
+      "lng": -117.17402,
       "title": "Multiple lanes blocked on I-10 after west Phoenix crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:07:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-95f1f72c53",
-      "lat": 35.68413,
-      "lng": 140.02234,
+      "lat": 35.6816,
+      "lng": 140.0006,
       "title": "ＪＲ復旧急ピッチ 室蘭線脱線、事故調査官が状況確認",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:00:00Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.97,
-      "lng": 4.64574,
+      "lat": 46.97712,
+      "lng": 4.65008,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.86918,
-      "lng": 4.64947,
+      "lat": 46.92941,
+      "lng": 4.67352,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.79972,
-      "lng": 139.56145,
+      "lat": 35.79236,
+      "lng": 139.50725,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.84341,
-      "lng": 135.624,
+      "lat": 34.88557,
+      "lng": 135.62124,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.69032,
-      "lng": 139.81094,
+      "lat": 35.71084,
+      "lng": 139.79492,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.86233,
-      "lng": 135.62088,
+      "lat": 34.81021,
+      "lng": 135.52548,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -331,70 +331,70 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOWZ2TElvT05CYlUtUjd3UURkbjU2SEdJV2oyeEo0Wm9ZTHlYUnF6enhadHByV0lsVXZiQmllVGcyY08yYl9UdzNHeG9hbVpJV0JrRA?oc=5"
     },
     {
+      "id": "news-technology-c3bc902114",
+      "lat": 44.70787,
+      "lng": -63.38461,
+      "title": "Is BigBear.ai (BBAI) Using High‑Profile Defense Talent To Redefine Its Applied AI Edge?",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T15:47:41Z",
+      "summary": "Is BigBear.ai (BBAI) Using High‑Profile Defense Talent To Redefine Its Applied AI Edge?&nbsp;&nbsp;simplywall.st",
+      "source_name": "simplywall.st",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXFuS2ZUNmctdVlBNUl2RHhpN3VvdFp0YXQwUFlpOEUzcC1SWk9Hc0wyY3hsbks3bzNEOGlFaC1zcUpqT3FyWWROTy1fWDFKUkdoLWFyU2N3LVU0eGxuUk8zV3pkZnRDTi01SE5TUWRFSk1IamFfV0k2bnJLX3ZoZEgxZzFjQkcxb0lPZU9UeXJ2Z0xCTmlwTGdVYlVFaWV5YkJjNS00OHQ5V3NDaEE4X3EyU2N3NUhzX3dBRHRxYm9lZEFjWEkwak5wcTE4RUxf0gHWAUFVX3lxTE5ycW9JaWdCX1pnZnlRSnB2Ulg5V1gwalJWUXhaUVUxREtBaVc1aEwzSjlCWjFSS2lTanhIbkZvRDdQTUxKZTdacVJQOWdYVnJCcHA4cGhpbmdyVUszN1NkbmxvTVgyb3QwenBrVlE4QzhWLUlCdDBzbmwyYkRIaUw2NzNETFBPZ1NxX1dnTVhrRXYzdkVfQnRmU254dlJnQXZTdDR5X0paVlNzdWNjSGZIQkF2Q01fUEZ0Vk9zdE1YV1hZYzlhUUJIdWl6anY4aFl6bFhNZnc?oc=5"
+    },
+    {
+      "id": "news-technology-4992c5455e",
+      "lat": -4.69952,
+      "lng": -40.1353,
+      "title": "Video Growing concerns with AI in the classroom - ABC News",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T15:42:32Z",
+      "summary": "Video Growing concerns with AI in the classroom&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "source_name": "Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mOG9ycnBLbzlTVWFJVG54allaOUc5RF9JaThGSGgyWmxyR3c0S1dtQWRxYkJZOUxBdG10aEk2SWRueF91NmJVZXhMZUo?oc=5"
+    },
+    {
+      "id": "news-technology-a4929ab671",
+      "lat": 38.93773,
+      "lng": -77.07242,
+      "title": "OpenAI cuts off Cursor's AI models, deepening feud with Musk",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T15:39:41Z",
+      "summary": "OpenAI cuts off Cursor's AI models, deepening feud with Musk&nbsp;&nbsp;Mashable",
+      "source_name": "Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNjlZN3dyVVp2allXQktrV3N1dko5b1N5aVVCQ0VPWElkdERtT3k0VS1wSW16YzcyQlppNUtGWTRpbmpvQS16X3g1eXhLazlIdVBmNGxZbC1jc2JKVWVFSFRjcjRUYkxaMkRFZ3kyMHlQUDVUVzBNYjJCbm5iZ25sYjlYLWFlQQ?oc=5"
+    },
+    {
+      "id": "news-technology-986c05eb27",
+      "lat": 38.89336,
+      "lng": -77.12563,
+      "title": "Representative Gabe Evans introduces H.R. 10152: Open-Source AI Leadership Act",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T15:38:00Z",
+      "summary": "Representative Gabe Evans introduces H.R. 10152: Open-Source AI Leadership Act&nbsp;&nbsp;Quiver Quantitative",
+      "source_name": "Quiver Quantitative",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlRBenlieEtlTEtPXzNyalhuRW1ITmJmeVE4QVJZRjhwY2F5MXEyVGhOZVRHSEVWWWVFZTB0YjlFclhuaGQ3Q0I5RW1hSnotMk5DZy1WNFQ4dDRPNEhUb1lHeGROZGd1WV9sZUx1N01vclFFNFFBRkdwUEVXN2JaazlyVmdldW9pWE4wbUREV1pWWkZINHZVZS1ERVE4NmVTZjdIX20yZWI0cXo5NkJCUGlQRQ?oc=5"
+    },
+    {
+      "id": "news-technology-0c1335273c",
+      "lat": 38.94021,
+      "lng": -77.04954,
+      "title": "The Fed confronts a powerful new economic force",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T15:33:20Z",
+      "summary": "The Fed confronts a powerful new economic force&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5"
+    },
+    {
       "id": "news-technology-c46812cd61",
-      "lat": 42.31967,
-      "lng": -71.03565,
+      "lat": 42.3631,
+      "lng": -71.12762,
       "title": "AI時代の検索最適化——Googleだけでは勝てない新常識",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T15:23:00Z",
       "summary": "AI時代の検索最適化——Googleだけでは勝てない新常識&nbsp;&nbsp;Forbes JAPAN",
       "source_name": "Forbes JAPAN",
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UWU9xTDc2WFQ2ZVo1VW8wRGxxaVZoODNxTjkzME15UEoyV1JGc1VtTjZlUmQ0Tm9URXJmaXk3azlrX2VMZFg1MDJQVTNFc0RUSkN5bldHR2E1UQ?oc=5"
-    },
-    {
-      "id": "news-technology-8265b25c30",
-      "lat": 34.90748,
-      "lng": 135.17109,
-      "title": "企業が看過できない評判リスクとなりつつある「AIウォッシング」",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T15:12:00Z",
-      "summary": "企業が看過できない評判リスクとなりつつある「AIウォッシング」&nbsp;&nbsp;Forbes JAPAN",
-      "source_name": "Forbes JAPAN",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhX29zZko3Z1NkZlAtYzdyb2tub3hkNlVYdEJldkVONnFaQnpHYkFqNTN2RGkydllZTUZFVnlUbUZ5Q1FSYmczQks3OHg4RE80aTRWMnotd3J2UQ?oc=5"
-    },
-    {
-      "id": "news-technology-efbe5d57f8",
-      "lat": 51.12611,
-      "lng": 7.05184,
-      "title": "CreddX AI Brings AI-Powered Trading Automation to the Digital Asset Ecosystem",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T15:04:15Z",
-      "summary": "CreddX AI Brings AI-Powered Trading Automation to the Digital Asset Ecosystem&nbsp;&nbsp;markets.businessinsider.com",
-      "source_name": "markets.businessinsider.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOUJEanJZT2NjYnA0VUxaamthdURtTXBnaE5xNUZrRE41eEMtSmVDbFFJWVF2MUxKZDJyTkFEdnVrall1d1hpSHJfX2hWMWpHakNnaGltU2YwQjR2MDMtUVBHMTk1Ry1RYXpySUIxNzZMTVQ4bVRULTU4d0pPTUZBSXJhcUNnckxaSE1zY1UtbDRac3dDN0JIS195U3pGb3FwVldSMk1wbS1INDdnbzdlS1JXZ2RIalZZV1Q0VWVPbTBFMjVVRkdEVjhwTDRXME1fOHc?oc=5"
-    },
-    {
-      "id": "news-technology-0c1335273c",
-      "lat": 38.88939,
-      "lng": -77.06555,
-      "title": "The Fed confronts a powerful new economic force",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T15:02:50Z",
-      "summary": "The Fed confronts a powerful new economic force&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5"
-    },
-    {
-      "id": "news-technology-13cc89c254",
-      "lat": 33.57131,
-      "lng": 133.45461,
-      "title": "AIによる経済急成長が、ソフトウェアではなく「ロボット」を待つ理由",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T15:01:00Z",
-      "summary": "AIによる経済急成長が、ソフトウェアではなく「ロボット」を待つ理由&nbsp;&nbsp;Forbes JAPAN",
-      "source_name": "Forbes JAPAN",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45anhfNUVWWkZLdHhkWDBHWVhsWTI0Tlg4Y0o4dndDV3JPZlREVlhGdTY0VVA1X1RZS2tKcEU3a2x4d3VnbmVhNU1Nam8xN1NyNUhsekV2RjB1Zw?oc=5"
-    },
-    {
-      "id": "news-technology-1bd620a01e",
-      "lat": 35.70679,
-      "lng": 139.37676,
-      "title": "テクノロジー禁止の罠：なぜ規制だけでは子どもを守れないのか",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T14:51:00Z",
-      "summary": "テクノロジー禁止の罠：なぜ規制だけでは子どもを守れないのか&nbsp;&nbsp;Forbes JAPAN",
-      "source_name": "Forbes JAPAN",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SmNvV1NtbXNHaVRxTGdfbjFnT1I0amk2dGJ0bHlhM3FoWEh0cXQ1TnByMHVGU2FBNThmdmpza1lUbEozZ3lGU0lnTXkxVHRkTFlzb3hkbW1mUQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T15:33:30Z"
+  "updated_at": "2026-08-29T15:48:32Z"
 }
