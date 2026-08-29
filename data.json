@@ -1,20 +1,53 @@
 {
   "news": [
     {
+      "id": "news-politics-204e0b54f6",
+      "lat": 33.80991,
+      "lng": 35.91116,
+      "title": "How Zohran Mamdani ended up in a fight over Hindu nationalism",
+      "category": "POLITICS",
+      "time": "2026-08-29T10:30:00Z",
+      "summary": "How Zohran Mamdani ended up in a fight over Hindu nationalism&nbsp;&nbsp;vox.com",
+      "source_name": "vox.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWFlUZUVkeXNfU0lwb2hsdEdtYWJ3Vk9BMzd4bWpLOGd5dTdMdllOZU9SSm9vbGlTX1JBM1d1NmpraHh0SHF1WFRKcHZVaXV3cXo5ajNKSUFyOVloU0Nkc1VzS1I4ZUdHaFJkNmp6Yld2Qml2NjRkTlBaTERHMkxyLUI0UVpMQVNvUUR3TDVFaTh1YmZqc0NlUHI1Q0l5anY1MGM5cXdQdVI5NE83cWtLNS1YY19aQkd5dGxKaDk3SHVUQkZn?oc=5"
+    },
+    {
+      "id": "news-politics-0587307dea",
+      "lat": 50.46515,
+      "lng": 30.52003,
+      "title": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
+      "category": "POLITICS",
+      "time": "2026-08-29T10:28:41Z",
+      "summary": "The attack sparked a series of explosions, prompting an investigation into whether ammunition was being stored on site.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-9188fcdc7f",
+      "lat": 38.88415,
+      "lng": -77.07624,
+      "title": "This Appalachian memoir author is running as a Democratic contrast to JD Vance",
+      "category": "POLITICS",
+      "time": "2026-08-29T10:10:38Z",
+      "summary": "This Appalachian memoir author is running as a Democratic contrast to JD Vance&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmRFNG9FNUlNM1ZFTHcybHpCX0x6TzZFSnctVk1EZUtvbkVPNVFlcDBYSkNWbjVKVWl0bV80QVpDQmdfSVlxajdnWHdaYUJ1Y19nV2NPcUpGUEF2VEY1QTludWFSUC04ckI3VXpsZ0NIVVVoLTB4YThGNE53QjJXOUl5NFZKbHd3aUNsMmh0S05LdVRrUVI2ajdBdlZibmFzZ2JrSTdnR1JOWHRCX0NVbVllYWdfTDQ?oc=5"
+    },
+    {
       "id": "news-politics-6a30e4823a",
-      "lat": 38.95116,
-      "lng": -77.05377,
+      "lat": 38.9174,
+      "lng": -77.01307,
       "title": "How states’ fight over an ICE agent could open a new political battleground",
       "category": "POLITICS",
-      "time": "2026-08-29T10:04:35Z",
+      "time": "2026-08-29T10:03:00Z",
       "summary": "How states’ fight over an ICE agent could open a new political battleground&nbsp;&nbsp;The Washington Post",
       "source_name": "The Washington Post",
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZpUGhJTjdORUF2ckFTcWdUVjE1akdfRGhJVkdMUmJHelducnZfT1R3V1Q2ZlhlSy1Ta1htOHc5ejEyVVJVMnd4aUdpWFB4UkFCc3M3N1B5SWRUcTc0Z2V6dDBySUg5b2ZzRFh0NGhGNXFpWDhzSEFqemM3NDFZTVVUQ0ZObTZXWXRERERRdjBKOXlBZ3FkVTFFYldlVDBPYmNIbkhnUy1iaU5pd29iNFB1ZEh6S21VVWdPNDQtQzk?oc=5"
     },
     {
       "id": "news-politics-14c306b074",
-      "lat": 54.94389,
-      "lng": -125.01343,
+      "lat": 54.97228,
+      "lng": -124.98397,
       "title": "ICE detains British political commentator Milo Yiannopoulos in US state of Louisiana",
       "category": "POLITICS",
       "time": "2026-08-29T09:58:32Z",
@@ -23,20 +56,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORG55Q2lZT3ozTnZqbWMxWGpiZWs2YUZWWEtnRUhleF9IYjNwVldTYWpOMDAzdng5N1pIMk1KSk9pT3dTTFd4UjN1U0tXU1BsWlY3TTFRTVJZUF9RLU82cExicE5FRFY5Z19OeTBFcXNWcV9KR0Q2Y3E3dUJXOWZtUENGTlRrUjdWaV9CTW5DY1ZGVWdvUHpJV3lfZWlpRVhZS2xUaGZSNTdNcnJiVkR4VHFnVzNfTFhSdjhHdzFFQm9zVXVf?oc=5"
     },
     {
-      "id": "news-politics-80c4eee8a7",
-      "lat": 45.56127,
-      "lng": 9.04675,
-      "title": "Are We Sure Trump Wants Republicans to Win the Midterms?",
-      "category": "POLITICS",
-      "time": "2026-08-29T09:45:00Z",
-      "summary": "Are We Sure Trump Wants Republicans to Win the Midterms?&nbsp;&nbsp;Slate",
-      "source_name": "Slate",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZnduZHlldnliZk9TcHpLbnU0cHlZM0dzSEJCQmVwdVRRdlIwM01qc2tmZWJ6VE45X1lsOUUwODJ1WXJDU3pzOTJRRm1oRWI2NTBWNnZpSzlDQUZlNXpsYjl3VU1TXzlkWDg3Zi00MEhNdUFxRktUQjlCeWt4THNxb3FidXFyUlJMaFBTS1V2TzhHbFdVX3c?oc=5"
-    },
-    {
       "id": "news-politics-d0dcf5f173",
-      "lat": 42.33843,
-      "lng": -71.09302,
+      "lat": 42.34309,
+      "lng": -71.03284,
       "title": "Boston Mayor Wu-aligned Super PAC spent $84K on challengers to senators she opposes",
       "category": "POLITICS",
       "time": "2026-08-29T09:44:56Z",
@@ -45,31 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQM0xnR050cF9UYXk5RnVDVFpWQ0ZfRmlZQmZ2N3ptYkRtQzltTW56MHRMbkhkYjQwTURlLThsVzRXSTA2TlI5SGkyVTdyVzExbzA2WnJjXzlfRFJuOF9FUDNaMUtLR1Q1dl9GMU1rTnhFWXhWakxtb1BQMVd4TVo2MDVDS21admVEU2JuRzg5ZkwtQkFoYjA3akdhZW9rNUxXcEJBQzFvMm9lRW0yN2xQb185NEFsZW5NdG9MT2Q4WUFQVnc4VXl2dmdoMmZOeDhfakd3Z0NMaHVGajFfQlE?oc=5"
     },
     {
-      "id": "news-politics-0587307dea",
-      "lat": 50.4468,
-      "lng": 30.52529,
-      "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
-      "category": "POLITICS",
-      "time": "2026-08-29T09:38:07Z",
-      "summary": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-e348250488",
-      "lat": 42.17018,
-      "lng": 47.75239,
-      "title": "US revokes visa of former Iraqi minister after watchlist listing",
-      "category": "POLITICS",
-      "time": "2026-08-29T09:20:21Z",
-      "summary": "US revokes visa of former Iraqi minister after watchlist listing&nbsp;&nbsp;Al Jazeera",
-      "source_name": "Al Jazeera",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaEp4WEZVbnIzcHJiT0lXX2JSSERxUmNHREhtYW9sUmhTMVNnZ3FaN2NTc0MzWjRkX1RUZmlNTngtUTZPYmpJRUhjcHNOcUpSUnN0UmhJTjl5Q1FrWHhxTGc4SVhDNmNaaFdUTmQ1SEpIX3E5TGdENXFmVE95MkpndmpxZVdsTno3SW1kbjlFZllqWXc3N1ZwNS1iTDZma3NLcVFWOHBxOVVOMWJZOEpHU0hIRE5id9IBuwFBVV95cUxQQ21BTzZqWHJibm9FYjg3bERiUlJoTXJWWDhPLWhmdjN6RmxMdnRxM01BTWcwdDYtNWR2aGp5elo2OUJfOGZXSUNXeWlacFhjOUFfRm5EY3Q2YlJHbkl4a195b2RJNXRZYWpfcnptUmVmNUt5SWRncGFxb3ppenNUdHY4R0c1SUJaVnF3ejJrUEpOalptYUlwcDVnclljVDBmSXdOT05lS19fLWhDN1NoLWV4QTA5VkZucXJz?oc=5"
-    },
-    {
       "id": "news-finance-1d80f8c529",
-      "lat": 25.64509,
-      "lng": 51.42924,
+      "lat": 25.61081,
+      "lng": 51.50394,
       "title": "奨学金330万円「消費者金融から借りたり夜バイトしたり」専門学校を中退した28歳女性の返済生活",
       "category": "FINANCE",
       "time": "2026-08-29T09:30:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-f7742497d0",
-      "lat": 30.3096,
-      "lng": -97.83147,
+      "lat": 30.30038,
+      "lng": -97.76136,
       "title": "Intel Sold Its NAND Memory Business for About $9 Billion. Micron Is Now Worth More Than Twice What Intel Is.",
       "category": "FINANCE",
       "time": "2026-08-29T09:07:01Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-72d677ba12",
-      "lat": 40.71381,
-      "lng": -96.60009,
+      "lat": 40.75493,
+      "lng": -96.59281,
       "title": "Covenant Logistics Eyes Higher-Return Growth as Freight Markets Recover",
       "category": "FINANCE",
       "time": "2026-08-29T09:01:55Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-1955098933",
-      "lat": 34.3648,
-      "lng": 132.44045,
+      "lat": 34.37147,
+      "lng": 132.49307,
       "title": "特殊詐欺防止へ 広島県警などが金融機関向けの研修会（2026年8月29日掲載）｜広テレ！NEWS NNN",
       "category": "FINANCE",
       "time": "2026-08-29T08:49:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-8ba0f18cc6",
-      "lat": 39.33045,
-      "lng": -83.72685,
+      "lat": 39.36769,
+      "lng": -83.71677,
       "title": "Farmers Markets Saturday Forecast",
       "category": "FINANCE",
       "time": "2026-08-29T08:10:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-a11a3a131d",
-      "lat": 34.21416,
-      "lng": 133.77431,
+      "lat": 34.24428,
+      "lng": 133.72885,
       "title": "英ポンド週間見通し：もみ合いか、英景況感の見極めも追加為替介入に警戒(フィスコ)",
       "category": "FINANCE",
       "time": "2026-08-29T07:22:00Z",
@@ -134,8 +134,8 @@
     },
     {
       "id": "news-disaster-090cef1c6d",
-      "lat": 54.53592,
-      "lng": 50.54422,
+      "lat": 54.55293,
+      "lng": 50.54358,
       "title": "【台風情報】「台風22号（アータウ）」最大瞬間風速30m/s・994hPa...ウェーク島近海を北上中、今後の進路は？9月9日までの雨・風シミュレーションで確認【気象庁29日19時05分発表】",
       "category": "DISASTER",
       "time": "2026-08-29T10:12:00Z",
@@ -145,8 +145,8 @@
     },
     {
       "id": "news-disaster-6fe34af603",
-      "lat": 37.55031,
-      "lng": 126.94896,
+      "lat": 37.64205,
+      "lng": 127.01218,
       "title": "台風やゲリラ豪雨で車が水没したら… JAFが明かした恐怖「困難になります」 命を守るために常備するべきアイテムとは",
       "category": "DISASTER",
       "time": "2026-08-29T10:10:34Z",
@@ -156,8 +156,8 @@
     },
     {
       "id": "news-disaster-c8edd6f439",
-      "lat": 32.76201,
-      "lng": 130.74531,
+      "lat": 32.79506,
+      "lng": 130.72961,
       "title": "熊本地震 被災住宅の公費解体で相談窓口設置 宇土市役所",
       "category": "DISASTER",
       "time": "2026-08-29T10:07:56Z",
@@ -167,8 +167,8 @@
     },
     {
       "id": "news-disaster-dd907574d9",
-      "lat": 40.68803,
-      "lng": -74.02966,
+      "lat": 40.65928,
+      "lng": -74.04634,
       "title": "Nepal Increases Flood Toll to 1,900 Missing and Over 500 Dead: Live Updates",
       "category": "DISASTER",
       "time": "2026-08-29T10:04:27Z",
@@ -178,8 +178,8 @@
     },
     {
       "id": "news-disaster-813c770153",
-      "lat": 34.09311,
-      "lng": -118.31782,
+      "lat": 34.18431,
+      "lng": -118.39483,
       "title": "令和8年8月千葉豪雨チャリティーアクリルキーホルダー販売のお知らせ / NEWS /",
       "category": "DISASTER",
       "time": "2026-08-29T10:03:36Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-c00f11db7b",
-      "lat": 37.95641,
-      "lng": 138.98686,
+      "lat": 37.90518,
+      "lng": 139.00215,
       "title": "［熊本地震1カ月］新潟から支援の輪広がる チーム中越、加茂市、新潟市が現地で活動 中越、中越沖地震の被災者がメッセージ",
       "category": "DISASTER",
       "time": "2026-08-29T10:00:00Z",
@@ -199,9 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KLWtzQ21naGxCazRrMURDQVFOVUJZT0NGbnE5OWV0aFIzcUVRYTZmOC1tTjBKNnVyWnlPMUNiV2I2RFhXWDBlcHRVOWxPSnhSRzF0Z3FJVENCZk5TOEE?oc=5"
     },
     {
+      "id": "news-accident-f7c09f4f02",
+      "lat": 31.64611,
+      "lng": 130.51568,
+      "title": "鹿児島の水難事故 行方不明の男子中高生3人を発見、死亡を確認 [鹿児島県]",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T10:21:05Z",
+      "summary": "鹿児島の水難事故 行方不明の男子中高生3人を発見、死亡を確認 [鹿児島県]&nbsp;&nbsp;朝日新聞",
+      "source_name": "朝日新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05bHZrQnp4ZzVwdmdmdnl6NkpYRzItQ0tfOGdzbkIwRjB5U0wzTzJPZEZ3QTJrcEJWb3JIUWNoaXJGUVRNYVhIYjJQRVcySE15M0lQZkNnRkdadXJySG9kc3FqTDdRbEU?oc=5"
+    },
+    {
       "id": "news-accident-ea14e05b43",
-      "lat": 37.88301,
-      "lng": 139.06223,
+      "lat": 37.86483,
+      "lng": 139.04851,
       "title": "［道路情報］北陸道上り線の巻潟東ICー三条燕IC間が事故で渋滞発生（8月29日）",
       "category": "ACCIDENT",
       "time": "2026-08-29T10:00:00Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-1760934930",
-      "lat": 31.65194,
-      "lng": 130.59372,
+      "lat": 31.63557,
+      "lng": 130.58492,
       "title": "鹿児島沖で中高生が流された事故、現場近くで３人を発見・いずれも死亡確認",
       "category": "ACCIDENT",
       "time": "2026-08-29T09:50:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-8a0454d7a1",
-      "lat": 31.54341,
-      "lng": 130.55854,
+      "lat": 31.60347,
+      "lng": 130.57983,
       "title": "鹿児島沖で中高生が流された事故、現場近くで３人を発見・いずれも死亡確認",
       "category": "ACCIDENT",
       "time": "2026-08-29T09:50:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-b1af512c22",
-      "lat": 31.54862,
-      "lng": 130.54097,
+      "lat": 31.63917,
+      "lng": 130.5348,
       "title": "行方不明の中高生３人を発見 全員の死亡を確認 いちき串木野市沖海難事故（鹿児島ニュースＫＴＳ）",
       "category": "ACCIDENT",
       "time": "2026-08-29T09:28:01Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-7cffd95c6c",
-      "lat": 38.31487,
-      "lng": 140.83075,
+      "lat": 38.23893,
+      "lng": 140.84408,
       "title": "東電福島第一原発事故の除染土を花壇に活用…仙台",
       "category": "ACCIDENT",
       "time": "2026-08-29T09:20:00Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Zc1NRa2VPS08xZGJCWnRKTWFWdGwtck1JRWJlMUQ0aGR5akp4ZnZYRklScUJ6dU8xSmpWU1BNWHFkenM0dml3R2dRNzdQYjhoNXdj?oc=5"
     },
     {
-      "id": "news-accident-91d6988e92",
-      "lat": 37.94706,
-      "lng": 139.02363,
-      "title": "［道路情報］新潟バイパス黒埼ＩＣ付近、事故で通行規制（8月29日）",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T09:10:00Z",
-      "summary": "［道路情報］新潟バイパス黒埼ＩＣ付近、事故で通行規制（8月29日）&nbsp;&nbsp;47NEWS",
-      "source_name": "47NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5iSEZjOWptN2EyM1dtNGdmcW8wTUxwcU1jUk5jVXU3cUxueE9nc1gtUGRNUkNibGRHc0owN01QUlE2dUpFRlFIM0dldw?oc=5"
-    },
-    {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.88712,
-      "lng": 4.67812,
+      "lat": 46.97712,
+      "lng": 4.59467,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-105bc34909",
-      "lat": 35.73234,
-      "lng": 139.55222,
+      "lat": 35.77503,
+      "lng": 139.54315,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」（日刊スポーツ）",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:14Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.79318,
-      "lng": 135.55599,
+      "lat": 34.87838,
+      "lng": 135.59457,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.62291,
-      "lng": 139.7216,
+      "lat": 35.66994,
+      "lng": 139.79145,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.79508,
-      "lng": 135.62054,
+      "lat": 34.79558,
+      "lng": 135.59012,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.3014,
-      "lng": 140.84181,
+      "lat": 38.23639,
+      "lng": 140.83986,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
       "time": "2026-08-28T23:00:00Z",
@@ -332,8 +332,8 @@
     },
     {
       "id": "news-technology-29ca7d7dfa",
-      "lat": 7.21903,
-      "lng": -8.92684,
+      "lat": 7.27774,
+      "lng": -9.03817,
       "title": "AI in the Catholic classroom: As a new school year starts, what role does it play?",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T10:08:00Z",
@@ -343,19 +343,19 @@
     },
     {
       "id": "news-technology-ef90a7acf4",
-      "lat": 7.66948,
-      "lng": 124.83034,
+      "lat": 7.69433,
+      "lng": 124.83573,
       "title": "Public can testify Monday at AI and data center committee",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T10:05:29Z",
+      "time": "2026-08-29T10:05:15Z",
       "summary": "Public can testify Monday at AI and data center committee&nbsp;&nbsp;North Dakota Monitor",
       "source_name": "North Dakota Monitor",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGp5d3EtUktRS0M1dUpPWW8zZTdDLWhpUlJ4YzdrbU5GVUhuUE5JblpQVS16R0FIUmNQQV9GWVhkMUczSGlzOU1KZzFveF9MNWxlcnltMjdLczkyZGtncENiVFVQREhDNlc0WnowWEJBYlVfRzZtbnFLSW9MVElWMld6U2xOaHpPbTAxc3lqVWg5Snl5SHRkRDZJdkttRi1XYnc?oc=5"
     },
     {
       "id": "news-technology-f76e31cd33",
-      "lat": 37.79161,
-      "lng": -122.30224,
+      "lat": 37.81196,
+      "lng": -122.21328,
       "title": "There’s only one way to make AI safe for kids (Opinion)",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T10:00:31Z",
@@ -364,20 +364,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQVc5aExFTkVxV2RhQlotOFpSUHRwOVNPaWFTOGpLQnljMUhzalBzVkt5X00zaHJzRnZCUjhmaGEyUVFZSndPNmdDMEh6YXFscUoxX25mRGw1TF9JMFZ5d1R4NXVPY3BXMWwxeGU5OS1rNGhodHZYQ1ZhRkEyZVk3NFhub01qdjgzcHlKU25qX0lVcXpfUTJz?oc=5"
     },
     {
-      "id": "news-technology-14ea110768",
-      "lat": 35.35786,
-      "lng": 5.33042,
+      "id": "news-technology-0e7b8e8116",
+      "lat": 35.39585,
+      "lng": 5.43416,
       "title": "ChatGPT said you’d lose your jobs right now — it’s more like 3% of workers",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T10:00:00Z",
       "summary": "ChatGPT said you’d lose your jobs right now — it’s more like 3% of workers&nbsp;&nbsp;Fortune",
       "source_name": "Fortune",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NSXFkOGhGU0k5UVlJWUE0M1ZGcnNITkxlVGp0NndsdUk5N0JQZkxfeEM5Y0FzelRGV2lTUFlOM0xwb0dQaWl4eGlNTFRvMDduU2xpTU1iZV83VlVSWDFtcWNxS0dKd3BqUko2N1M2MHMzdw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yNlVBanl4YWV3Skt1VUhNblBMcVZDNks3NGxLVkNWZE43eFI1ZkZvajZ5OXhoU0Z2ckxsS1Jlb0FNVVZkLVVLeWRUajhxVXE4QUtNckFXMVRpSHRTZVNKU1RROEM5RWZqT1d4Xzhtbm8zV0k?oc=5"
     },
     {
       "id": "news-technology-92545f27dd",
-      "lat": 51.60417,
-      "lng": -0.73434,
+      "lat": 51.67289,
+      "lng": -0.68338,
       "title": "Penn State Extension’s Tilva AI App Generates Fast, Expert Advice",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T10:00:00Z",
@@ -387,8 +387,8 @@
     },
     {
       "id": "news-technology-1dbb6dc631",
-      "lat": 38.99191,
-      "lng": 125.78162,
+      "lat": 38.96851,
+      "lng": 125.67525,
       "title": "Scientists are using AI to track permafrost thaw as Arctic lakes vanish in hours",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T09:30:00Z",
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T10:19:37Z"
+  "updated_at": "2026-08-29T10:33:54Z"
 }
