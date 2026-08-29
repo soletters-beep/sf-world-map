@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-bb172e227a",
+      "lat": 32.80397,
+      "lng": -96.72332,
+      "title": "Politics Unplugged Podcast: Headline roundup with Jim Small",
+      "category": "POLITICS",
+      "time": "2026-08-29T03:25:00Z",
+      "summary": "Politics Unplugged Podcast: Headline roundup with Jim Small&nbsp;&nbsp;fox10tv.com",
+      "source_name": "fox10tv.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWW41MzBTVDItY2Flb18taGdUUkZzX08xdS1CVjhIaGo3RzVhQkVJQUJwSlI4X1Myd2RXRkI3Z2xGR1JSWWo2YnhaSlpDclIwd09IS1laT2x0ZFFxaEJBVUVWVFNoV3ZQZWFFSnZaUzFvd1RNWTlGR3VoQnEzT3F1eUo5dmJUN3IyU25kVHhFYVNyNktyS1VRUVNUb2FZVjY1SEE?oc=5"
+    },
+    {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.72282,
-      "lng": -76.5423,
+      "lat": 39.73717,
+      "lng": -76.59442,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-29T02:42:27Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-ae6f244eb7",
-      "lat": 34.19668,
-      "lng": -118.41898,
+      "lat": 34.18335,
+      "lng": -118.39614,
       "title": "中道の公明出身議員が離脱検討 中道は分裂公算 | ふくしまNEWS - KFBデジタル -",
       "category": "POLITICS",
       "time": "2026-08-29T02:38:00Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-589c250e25",
-      "lat": 31.58113,
-      "lng": 130.57286,
+      "lat": 31.57919,
+      "lng": 130.60504,
       "title": "鹿児島・阿久根市長の西平氏、今期限りで退任へ 分断の街を融和 [鹿児島県]",
       "category": "POLITICS",
       "time": "2026-08-29T02:30:01Z",
@@ -34,20 +45,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GZ0MzdjI2RnJHLVYzLS12ZlVOajloZGRyTk9PVTRBQU1EbFFzY3dMNXFQN0dWLVdaQjE4cWo4S2tBSENibjNIQzc5OGdIV0UxQXgxZVFHaWg0bHkwejR4VUZqX3pvbWM?oc=5"
     },
     {
-      "id": "news-politics-aff3c506c1",
-      "lat": 34.73244,
-      "lng": 135.25572,
-      "title": "「入閣はニュートラル」チームみらい安野党首",
-      "category": "POLITICS",
-      "time": "2026-08-29T02:14:00Z",
-      "summary": "「入閣はニュートラル」チームみらい安野党首&nbsp;&nbsp;ABEMA TIMES",
-      "source_name": "ABEMA TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TNE5rbS0zLVVFRXIweWxGMG9RN3ZySUVLQ2NPeUMyeXVOTWk4dFhtejRhWXFCRkR2Y1Y2Q3VhMDMxN3hkLXRmOTZZZHZIMFRFTEt6Qg?oc=5"
-    },
-    {
       "id": "news-politics-5d5c081492",
-      "lat": 40.69648,
-      "lng": -74.03955,
+      "lat": 40.73873,
+      "lng": -74.05809,
       "title": "Hegseth Blocks Promotions of Four Army Officers as Purge Widens",
       "category": "POLITICS",
       "time": "2026-08-29T02:10:16Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-0e0080da83",
-      "lat": 51.55596,
-      "lng": -0.12761,
+      "lat": 51.5641,
+      "lng": -0.07084,
       "title": "Political Connections Florida August 28 2028",
       "category": "POLITICS",
       "time": "2026-08-29T01:50:00Z",
@@ -68,8 +68,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.64045,
-      "lng": -76.58047,
+      "lat": 39.65306,
+      "lng": -76.54391,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T02:42:27Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-6cb65f6be0",
-      "lat": 52.15625,
-      "lng": 18.6761,
+      "lat": 52.15669,
+      "lng": 18.73712,
       "title": "Former Hyundai CMO Resurfaces At Lucid",
       "category": "FINANCE",
       "time": "2026-08-29T02:26:00Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-5765688cc0",
-      "lat": 32.67495,
-      "lng": 54.57809,
+      "lat": 32.70276,
+      "lng": 54.52168,
       "title": "イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店",
       "category": "FINANCE",
       "time": "2026-08-29T02:20:17Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-b52f2aae94",
-      "lat": 11.74939,
-      "lng": 75.67376,
+      "lat": 11.77127,
+      "lng": 75.64971,
       "title": "PPDAI Group Q2 Earnings Call Highlights",
       "category": "FINANCE",
       "time": "2026-08-29T02:01:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-62d877d582",
-      "lat": 35.70231,
-      "lng": 139.78986,
+      "lat": 35.72511,
+      "lng": 139.81548,
       "title": "Ｊトラスト(株)【8508】：株価・株式情報（夜間PTS含む）",
       "category": "FINANCE",
       "time": "2026-08-29T01:31:53Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-6e89dd8ccc",
-      "lat": 42.8971,
-      "lng": -73.93912,
+      "lat": 42.85496,
+      "lng": -73.87807,
       "title": "GE Vernova’s New JV Could Unlock its Next Big Growth Engine",
       "category": "FINANCE",
       "time": "2026-08-29T01:30:00Z",
@@ -133,9 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcy1wRnNfOHY1dEtMN0Q1ZzVHanJpamV3Ny1lYktBbW9TWVB3aDZaaTE0Q2pzdXh6MTVwbmhwNzlsd3l0dnJRUnR3cU1XUVlkbDRvUW9kU0c5QjRzVjlBdWxST0thNGRyamxZRVZEYzFlbkVvYVR6aV9TVHRnbHNfeDhyb0lJNkFNUHFJ?oc=5"
     },
     {
+      "id": "news-disaster-e1fce32fbc",
+      "lat": 56.98078,
+      "lng": 22.6698,
+      "title": "Buses and beats | Broad Ripple comes together to support flood survivors",
+      "category": "DISASTER",
+      "time": "2026-08-29T03:23:00Z",
+      "summary": "Buses and beats | Broad Ripple comes together to support flood survivors&nbsp;&nbsp;WTHR",
+      "source_name": "WTHR",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLUpzeGJWaDVKWldNbVpaQ3hjY0o4cjNpYzJhUV9POHYyVFVQQkNCQkVxRWxsaFVyUmJzZkRhY09oUXduWnZMNU5MQ2lYLUM5LXpweWlnQTE2RTZ5QWpld2xXRS1rUzd4djR6SEZrY3luVmtjcURVbVhsZXdpV05ZLVNQTzlaMXJZckp5THFkTHBTeEdLOEd4X2FLZFVlTEU1RDRrclNZdU54Q0trQXpXYklod2ZHeUZVT3lPamJzUG5weFlnMlNpUVkyYkx6bEJGemRRREdvQms0LTBQd1pCc01nQ09lRld2aXc?oc=5"
+    },
+    {
+      "id": "news-disaster-58770bd04c",
+      "lat": 23.73593,
+      "lng": 90.02164,
+      "title": "Update: 4.9 magnitude earthquake shakes near Petrolia, CA on Aug. 28",
+      "category": "DISASTER",
+      "time": "2026-08-29T03:20:10Z",
+      "summary": "Update: 4.9 magnitude earthquake shakes near Petrolia, CA on Aug. 28&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxNkE4QmNjSThxZUJOR1laR1Y3a1pWWG1Ob1k5cGExakVmZWFvNVVzUDROejJVVUhRMW5PTk1xRWlUNXM3NnUyYjJCNmlSZFYybHNMYzBCV00wV2hSYUlmNzQxOHZFWWRlUXM0cEZnOG1VMW5wZkJPbEdpRGs?oc=5"
+    },
+    {
       "id": "news-disaster-5cdd8c023e",
-      "lat": 35.71003,
-      "lng": 139.76916,
+      "lat": 35.73338,
+      "lng": 139.7999,
       "title": "災害が少ない県＞とは言われるが…近畿の活断層調査で地震発生確率や規模の想定が拡大「人ごとではない、常日頃から備えを」（読売新聞オンライン）",
       "category": "DISASTER",
       "time": "2026-08-29T03:12:21Z",
@@ -145,8 +167,8 @@
     },
     {
       "id": "news-disaster-85f53060ca",
-      "lat": 39.98299,
-      "lng": -86.13457,
+      "lat": 39.93485,
+      "lng": -86.10756,
       "title": "Magnitude 4.8 earthquake strikes off the coast of Northern California",
       "category": "DISASTER",
       "time": "2026-08-29T03:10:34Z",
@@ -156,8 +178,8 @@
     },
     {
       "id": "news-disaster-57a3962b8b",
-      "lat": 32.77596,
-      "lng": 130.79844,
+      "lat": 32.80554,
+      "lng": 130.74132,
       "title": "熊本地震１か月、地元の地方銀行が被災事業者へ支援本格化…復旧に必要な人材紹介や販路確保「非融資分野」も",
       "category": "DISASTER",
       "time": "2026-08-29T03:04:40Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-0aee64ea85",
-      "lat": 38.07489,
-      "lng": -84.48357,
+      "lat": 38.01892,
+      "lng": -84.52131,
       "title": "Lexington, Massachusetts woman among thousands missing after Nepal flash flood: \"It's unbearable\"",
       "category": "DISASTER",
       "time": "2026-08-29T02:59:23Z",
@@ -177,31 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNk9ZcXllZUtYMXNHNlh3RHZ6bTEzVG90Rkdlb3BiaERZRnJETEUwUmkzbTYwODBBNm1hcGltTnNYWkJlV0tVZEI3RW1qMmpkTDJId0w1Y1JwdW5CUVVVQkRPNXRtY2ZNdFN4VjY1MnpnMTJ4aDlfMzVwd2huNjhiNzZDaDBwanRyaFpkYk5DSkowX1NmcGc?oc=5"
     },
     {
-      "id": "news-disaster-df881036d9",
-      "lat": 32.78328,
-      "lng": 130.73609,
-      "title": "熊本地震、学校外で子どもに遊び場 長引く避難生活のストレス緩和",
-      "category": "DISASTER",
-      "time": "2026-08-29T02:37:41Z",
-      "summary": "熊本地震、学校外で子どもに遊び場 長引く避難生活のストレス緩和&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ybHRjeHZySldjUnBtTzNxNzlKaXU0WVc4ZDd4WUZoeU9HVHpvSG10ZTVKZW80aTE1WS13SXdSbUFseWEyTGFFUS1UM1FOMXBZM3p3bEFSdVBxWWRNUUM5NlJVZjNjeVVyRGZ2SA?oc=5"
-    },
-    {
-      "id": "news-disaster-761ea9279a",
-      "lat": 32.73955,
-      "lng": 130.79155,
-      "title": "大工技術生かし力に 熊本地震発災翌日から現地へ 後方支援の拠点を整備／兵庫・丹波篠山市（丹波新聞）",
-      "category": "DISASTER",
-      "time": "2026-08-29T02:30:10Z",
-      "summary": "大工技術生かし力に 熊本地震発災翌日から現地へ 後方支援の拠点を整備／兵庫・丹波篠山市（丹波新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZMG9aYU9wWWdYZHRjOUV2YWJBTmREaFlSYmRwNmxtQ2MzOUdkQmRDTE5VbkoxTDN3NXVCeWo3TkNZTVMyenF6S1Itb011MHRkRWJhT3p3Z2tIcXMyTWIxRkFCcHNqWGl0WjdROVd5QjVrcUFVNzRpdFpiRkdmUDQ?oc=5"
-    },
-    {
       "id": "news-accident-b88151fcc3",
-      "lat": 34.65414,
-      "lng": 135.17294,
+      "lat": 34.67633,
+      "lng": 135.20921,
       "title": "なでしこFW吉田莉胡が交通事故…所属するI神戸が謝罪「深くお詫び申し上げます」（ゲキサカ）",
       "category": "ACCIDENT",
       "time": "2026-08-29T03:11:01Z",
@@ -210,9 +210,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UNFN1dzZsT2NOM09QSEgyNlFlekE3aS1RZDVHc0t4bmJvZ0s0U04xY0ZRaV9YZXc1VnZWRXhyamFoWUZLMDhXM3RVZDI2Y3hxS3NKZVhwZGlfdjlMSkloSVV4MXJ3bnY0S3l2ZjBZM1JaZUY5eVpYaURkdjBFWUU?oc=5"
     },
     {
+      "id": "news-accident-608c4d1f8f",
+      "lat": 34.9707,
+      "lng": 138.34763,
+      "title": "【再発防止へ】｢按針祭 海の花火大会｣観客エリアへの花火落下事故受け市長は検証委設置し報告へ(静岡･伊東市)",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T03:11:00Z",
+      "summary": "【再発防止へ】｢按針祭 海の花火大会｣観客エリアへの花火落下事故受け市長は検証委設置し報告へ(静岡･伊東市)&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RRk5lVTdoOERSdHM3S0Ntb18tXzJ4ZUVfMm5nZlhKemxxOWJ6YXd2NWtIUVJPR1FScTZrTVBuQXpqTTJzMzd1TTdKUkZrbDB0Z1g4d2hqT1ZtX3lhb2hndkJpY2lwTVMxODlLSlN1cmlmT0NGQmI4TjdiRU9FTWs?oc=5"
+    },
+    {
+      "id": "news-accident-ba75aee298",
+      "lat": 32.83745,
+      "lng": 130.6911,
+      "title": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル 熊本地震1カ月（時事通信）",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T03:02:34Z",
+      "summary": "爆発7人死亡、刑事責任は イオン事故、立件に高いハードル 熊本地震1カ月（時事通信）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XNWQwSzFRdFVfZkpHUXRabEFxaUtoYXRkc05iSkNlbkRSbjNKOTVwZUdpM2NKN3llOU1Sckx3OW54ZFV6bkY1Zk1vejEwY1NHUnJ3Nml4ZTZNTHFLbkdERzFYNmRKVE9seEtUTVZVcjd3b0VMeHAtM2hZQ3NKblU?oc=5"
+    },
+    {
+      "id": "news-accident-aee54fc0e2",
+      "lat": 31.64061,
+      "lng": 130.54968,
+      "title": "鹿児島の海で3人不明の事故、2人目発見",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T02:45:32Z",
+      "summary": "鹿児島の海で3人不明の事故、2人目発見&nbsp;&nbsp;nippon.com",
+      "source_name": "nippon.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BdndkZW84YlhWTWU1UjZrNmpZYkZnWDBRMTFCODhlM051V3AzWjc4QnZuTVRYbFlpU01LSVoyWFhOeEZDdDdqQzdPbTVLOGdILXN5N1VuY2VhckNxS0kxR2F2UQ?oc=5"
+    },
+    {
       "id": "news-accident-fb8ecc3d1c",
-      "lat": 34.86049,
-      "lng": 135.13698,
+      "lat": 34.92184,
+      "lng": 135.20766,
       "title": "暑い車内で検証。発熱・液漏れ・発火事故リスクを軽減したモバイルバッテリー",
       "category": "ACCIDENT",
       "time": "2026-08-29T02:45:00Z",
@@ -222,8 +255,8 @@
     },
     {
       "id": "news-accident-663d69bd32",
-      "lat": 31.57374,
-      "lng": 130.51807,
+      "lat": 31.55749,
+      "lng": 130.51307,
       "title": "【速報】鹿児島の海で3人不明の事故、2人目発見",
       "category": "ACCIDENT",
       "time": "2026-08-29T02:44:51Z",
@@ -232,42 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1meVpLSTJaR2VzbnpuMXpwRVRsRERuY3d1bVdPWE5JVlgzNTdBcGZhTVZWZ25WaEZzWXJGZ0FhakJvMVpuUEJRVnl1QQ?oc=5"
     },
     {
-      "id": "news-accident-862c7c3e13",
-      "lat": 31.60587,
-      "lng": 130.58708,
-      "title": "鹿児島の海で３人不明の事故、２人目発見",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T02:44:51Z",
-      "summary": "鹿児島の海で３人不明の事故、２人目発見&nbsp;&nbsp;京都新聞デジタル",
-      "source_name": "京都新聞デジタル",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UNkNJUElFQkczUDFGNDg0X00zSUdHbGl3ZFNxaC1nTThPVUZPUVVqdGNfYkt6SDFHUlJDNW9aM0tpc0RGSzd1eUQ2ZlRlSlJ5VE81cnYwMS0?oc=5"
-    },
-    {
-      "id": "news-accident-215192f434",
-      "lat": 31.62743,
-      "lng": 130.52898,
-      "title": "鹿児島の海で３人不明の事故、２人目発見",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T02:44:00Z",
-      "summary": "鹿児島の海で３人不明の事故、２人目発見&nbsp;&nbsp;佐賀新聞",
-      "source_name": "佐賀新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5waUNmdDhUUG1ReGdHUEYxWkdaMTNqY29sOGF4SzZiM1JBQTBWWG84Uld6NXlLYlNyRFBWN0kyaGZsOWczOEFieUhtWl9UUkl4b2Z3WjR3?oc=5"
-    },
-    {
-      "id": "news-accident-927fc14b43",
-      "lat": 39.79135,
-      "lng": 141.06786,
-      "title": "「なぜそのスピードで」「事故のところに突っ込んだ」19歳新星の“思わぬハードヒット”に苦言「今のままでは心配」",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T02:42:17Z",
-      "summary": "「なぜそのスピードで」「事故のところに突っ込んだ」19歳新星の“思わぬハードヒット”に苦言「今のままでは心配」&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZVk9Ham9STlpwNFBvbWVXX3dLSjd5bkg3WjBsQWdKUDdEMWRuNGlOX0JpaUpRekV6a29iQWprV09IbUY3dWR3T2xxQTYyR0R1RWNONHN2cG9DZHZLTVFxcDl0c3JRSkRFWHZla1R4al8teEZmcENyUDJjVnVXejg?oc=5"
-    },
-    {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.70447,
-      "lng": 139.8077,
+      "lat": 35.71267,
+      "lng": 139.77124,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-3c48931252",
-      "lat": 39.79556,
-      "lng": 17.41637,
+      "lat": 39.74151,
+      "lng": 17.40097,
       "title": "保護犬活動する75歳タレント 関東を襲った地震で愛犬の腰が抜けた→歩こうとしても倒れ変な病気かと",
       "category": "DISEASE",
       "time": "2026-08-29T02:40:06Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.86653,
-      "lng": 135.62138,
+      "lat": 34.86431,
+      "lng": 135.62903,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-41b3158fb2",
-      "lat": 37.56127,
-      "lng": 126.95812,
+      "lat": 37.45069,
+      "lng": 126.95901,
       "title": "脳梗塞のため活動休止》サンド伊達 毎日鼻血、目の焦点合わず、妻から「顔色悪い」の指摘も…半年前に訴えていた“体調の異変”（女性自身",
       "category": "DISEASE",
       "time": "2026-08-29T01:18:21Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.31632,
-      "lng": 140.82534,
+      "lat": 38.32428,
+      "lng": 140.90229,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
       "time": "2026-08-28T23:04:05Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-c304749877",
-      "lat": 34.95425,
-      "lng": 135.23276,
+      "lat": 34.92892,
+      "lng": 135.17475,
       "title": "歯みがきを怠ると口の中が「菌のゴミ屋敷」に！全身の病気リスクも高まる【眠れなくなるほど面白い 図解 口と歯の話】",
       "category": "DISEASE",
       "time": "2026-08-28T21:58:33Z",
@@ -331,20 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CeXd2c3BRbHV4ZW5aNnVrOHI2UTItbXhOZ0RWYzBjMThKOEVrS2p2S1Bvay1SMy1oZ2gtejJ2c20tbFJMWFkza2dxN2NoR1BGQ3J2ZE5HTjRaNVY2WTdN?oc=5"
     },
     {
-      "id": "news-technology-910fc3a03a",
-      "lat": 35.44454,
-      "lng": 139.60634,
-      "title": "ＡＩ時代にラブレター代筆業 川崎・小林さん「話を聴くことに価値」３００通超える思い伝え（カナロコ by 神奈川新聞）",
+      "id": "news-technology-8110be2a4d",
+      "lat": 37.65085,
+      "lng": -121.91575,
+      "title": "Workday (WDAY) Says AI Drove 25% of New Annual Contract Value. Why Did Total Subscription Backlog Grow Only 8%?",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T03:11:02Z",
-      "summary": "ＡＩ時代にラブレター代筆業 川崎・小林さん「話を聴くことに価値」３００通超える思い伝え（カナロコ by 神奈川新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91YkhxWl8xQjVRLVg5Q1ppRnNNVDFzZngwVXgtdkRPc20wTFdlYVVvVXhvS29pZjRYRmJtSVlGNVk1T0kzOTREQjZncXZheEdXRGdUVC12azZWUUxSS3RUcGUzNkRkbDNfemlkWmliVEtVNmdEaWllWjBGejZDZG8?oc=5"
+      "time": "2026-08-29T03:17:00Z",
+      "summary": "Workday (WDAY) Says AI Drove 25% of New Annual Contract Value. Why Did Total Subscription Backlog Grow Only 8%?&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkFmRDNqN0JyX3ZSblRGZU9GaGVkOVBrTjRaVmZfWkRtT0hUSHVYVW51VGZwMlhnRmxxWVJ0UVNuMkFONG56YnlRUEVTUHFOU0VqMXRJSTdvelFhZlNWTTJpakpHZ21ld09KLTRScWlidmRPTzFFSFpQYTJWTGsweXVVU0VMbmEtMTI3amY5LUkzWWlo?oc=5"
     },
     {
       "id": "news-technology-889c17cd49",
-      "lat": 42.19776,
-      "lng": -8.65555,
+      "lat": 42.2391,
+      "lng": -8.61528,
       "title": "Penis Enlargement Surgery in Mexico: What to Know Before Considering It",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T03:10:01Z",
@@ -353,9 +353,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOa2QweFp6ZHN2UVdvWk1jN2VSSkJhNWdxRVFrLXEzT2h0anYxTklPbHNaUU9SVXZwWWRtVUdFN0UyQzdsSW9pWkZGSld5SzlHWEVOX0JRX2xNQjBrbXZaRXE3QU9OX3dZQzZVa0xfRDJvQk4yaHZHZl8zc1dQaVlxek9lSEVMbzA5a2FKQjVWZnlxQlphQl9PZ081LXVGN2RobnYwYmh2THZOUk54SDl3M2JXaDFxUUtuM3ZHUC1tNUwtZk05Qm5ERGRDaGdMcEpCYVh6UU1Oek1jb3JBR1NTSHlyeXVjeXowbnJ5MXJ5WTZsdEctT19EUmlJSTFVVW5uMWhaRHlvd3lYM0w5Sm1uQWh1eWhtM0gzek9OclMxa1FnRlhibU5MV3BzYmg0TUtSLUM4eExRd3lBRDlGNG5JWUxvSkFlMWZzODVvTUVFZkZwV0JaYlBmeDV6cWozLWRV?oc=5"
     },
     {
+      "id": "news-technology-33207c2a99",
+      "lat": 35.45568,
+      "lng": 139.55641,
+      "title": "ＡＩ時代にラブレター代筆業 川崎・小林さん「話を聴くことに価値」",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T03:10:00Z",
+      "summary": "ＡＩ時代にラブレター代筆業 川崎・小林さん「話を聴くことに価値」&nbsp;&nbsp;カナロコ",
+      "source_name": "カナロコ",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vdlU4bUxYYjZOUDZ5SlNBaElUM1NGY211YXByZG5TZV9LVDA0X0w0SEZYN0lzbWZpSXNVWXdHcnktbm9HOWNieGx0bEtGMXZCUnpUYUpiWUFvU3cxQWM5ejdWN1A?oc=5"
+    },
+    {
       "id": "news-technology-1717535cce",
-      "lat": 12.77099,
-      "lng": 77.74916,
+      "lat": 12.76888,
+      "lng": 77.81969,
       "title": "Photographer defends work against AI claims at Kentucky State Fair",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T03:06:00Z",
@@ -365,8 +376,8 @@
     },
     {
       "id": "news-technology-319020820e",
-      "lat": 42.32054,
-      "lng": -71.08857,
+      "lat": 42.35607,
+      "lng": -71.02695,
       "title": "Google DeepMind、23年続く宇宙MMORPG「EVE Online」をAI研究環境に 経済・戦争・外交が続く永続世界で長期学習",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T03:03:02Z",
@@ -376,25 +387,14 @@
     },
     {
       "id": "news-technology-c18135abc5",
-      "lat": 64.68893,
-      "lng": 97.75565,
+      "lat": 64.62964,
+      "lng": 97.74982,
       "title": "親ロシア勢力は生成AIとSNSをどう使うのか――投稿生成・発信偽装・反応に応じた調整で情報工作を継続 #エキスパートトピ",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T03:00:54Z",
       "summary": "親ロシア勢力は生成AIとSNSをどう使うのか――投稿生成・発信偽装・反応に応じた調整で情報工作を継続 #エキスパートトピ&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOTRKRTBPcUhLLVI3YS0wQ2hYQ1ZBOHgyb2hXNHJfOV9ibWFBTklfbXFIQjFRdGNTX3pmdnR5MnlBZUF1MmQtdUVHZERZdjY3bGxLWWNCcGFRQzI2dWs0MkpZRjROYnNEV1BfSjZYU1ZnU1FobXFRTWw5UXhxM0hlNzlENmltaDBl?oc=5"
-    },
-    {
-      "id": "news-technology-d4a653f232",
-      "lat": 48.79448,
-      "lng": 2.35556,
-      "title": "AI時代に「エンタメは勝ち組」である理由　今井翔太が語る、人間固有の“差分”と創作の未来",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T03:00:38Z",
-      "summary": "AI時代に「エンタメは勝ち組」である理由　今井翔太が語る、人間固有の“差分”と創作の未来&nbsp;&nbsp;リアルサウンド",
-      "source_name": "リアルサウンド",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JOVJ2aUxPNkhrYW5Ta290UXdBYXVRaDRUcUp4ZlVaNWJhQzlGaEtVUlBjSzQ1MTZaRi1YcGtmY2lmWWd0RERDQ2VuaXFWbGlXRmR4NFdXNHBBUjFhZUxId9IBZkFVX3lxTE13MlJ6Z2p6STNKTVcxR3VZZ0tIR19vUXE2Zl9JbFJzU1J5aldiVVloeEJSLVFYUXltc2xQb1RJUENMQlJqWFJPbkJOaVFRb2o2R2FFTUF2V2xheDdNTUFvdUdSczhhZw?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T03:18:40Z"
+  "updated_at": "2026-08-29T03:33:41Z"
 }
