@@ -2,19 +2,19 @@
   "news": [
     {
       "id": "news-politics-9d03702455",
-      "lat": 51.42089,
-      "lng": 6.79814,
+      "lat": 51.38553,
+      "lng": 6.72729,
       "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
       "category": "POLITICS",
-      "time": "2026-08-29T17:25:01Z",
+      "time": "2026-08-29T17:38:31Z",
       "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "news-politics-babe24db40",
-      "lat": 37.77085,
-      "lng": 15.12101,
+      "lat": 37.67127,
+      "lng": 15.08372,
       "title": "Milo Yiannopoulos deported to UK after ICE arrest in New Orleans",
       "category": "POLITICS",
       "time": "2026-08-29T17:17:00Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-7169863d6b",
-      "lat": 42.81823,
-      "lng": -76.87235,
+      "lat": 42.72879,
+      "lng": -76.8766,
       "title": "Seneca Nation Calls on Trump to Reverse ‘Lake America’ Name Change: ‘Lake Ontario Is Not a Political Pawn’",
       "category": "POLITICS",
       "time": "2026-08-29T17:00:54Z",
@@ -34,9 +34,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQS1tVEN3Z2tLREhFOUVtRFpuMFpBMkVyNnpCX2VXNzhQU0NMVHZYSTBKMzdwLThFZW5KUjc1Wkx5VDRiaDdGdGpBMUJGX3VlbVhpbXY4MmI5Q0xxSlJleUlTOTlENVM0eE5tQmxWajB3SHVNNlNTQWJXSGNwY3RBa3FPQWVsak9HYWNOd0FuTTNYMV9BWVpGT09SR3J3UDF3V1FocDE5MUQ?oc=5"
     },
     {
+      "id": "news-politics-6a30e4823a",
+      "lat": 38.8571,
+      "lng": -76.99351,
+      "title": "How states’ fight over an ICE agent could open a new political battleground",
+      "category": "POLITICS",
+      "time": "2026-08-29T17:00:01Z",
+      "summary": "How states’ fight over an ICE agent could open a new political battleground&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZpUGhJTjdORUF2ckFTcWdUVjE1akdfRGhJVkdMUmJHelducnZfT1R3V1Q2ZlhlSy1Ta1htOHc5ejEyVVJVMnd4aUdpWFB4UkFCc3M3N1B5SWRUcTc0Z2V6dDBySUg5b2ZzRFh0NGhGNXFpWDhzSEFqemM3NDFZTVVUQ0ZObTZXWXRERERRdjBKOXlBZ3FkVTFFYldlVDBPYmNIbkhnUy1iaU5pd29iNFB1ZEh6S21VVWdPNDQtQzk?oc=5"
+    },
+    {
       "id": "news-politics-cab43305fb",
-      "lat": 40.77012,
-      "lng": -73.94696,
+      "lat": 40.66581,
+      "lng": -74.03723,
       "title": "Hindu na­tion­alist leader spurs protests and calls for sanctions ahead of New York City speech",
       "category": "POLITICS",
       "time": "2026-08-29T16:38:00Z",
@@ -45,20 +56,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYnhmOWpQOFl1QUZkcjhPUkVmSHFOSzBYMk5tNTVTdUlCNlQ5NEdRWjVKUi1Tay1aeWhhR2tuVl9mUm0zV3VjakVsY2ZKcEZLSDl5ZFNXVDFxWmEtcmtVWkhfUGNyVlpXRGVvbzF3MDZEd0RTM0tpcm94S0Q1QmRtaHVUUzhuMTVDMUl2THpGc3kwV0JqaWtWTlJZN2FERG93d19nbmpCaWxlUjg3Smo2MW4wRWdoMlBtbE0yYnM2S2NZdUlXWWVyT1pQSjVZQjdGMXFRcVJXYUZLQQ?oc=5"
     },
     {
-      "id": "news-politics-6a30e4823a",
-      "lat": 38.92247,
-      "lng": -77.03686,
-      "title": "How states’ fight over an ICE agent could open a new political battleground",
-      "category": "POLITICS",
-      "time": "2026-08-29T16:31:51Z",
-      "summary": "How states’ fight over an ICE agent could open a new political battleground&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZpUGhJTjdORUF2ckFTcWdUVjE1akdfRGhJVkdMUmJHelducnZfT1R3V1Q2ZlhlSy1Ta1htOHc5ejEyVVJVMnd4aUdpWFB4UkFCc3M3N1B5SWRUcTc0Z2V6dDBySUg5b2ZzRFh0NGhGNXFpWDhzSEFqemM3NDFZTVVUQ0ZObTZXWXRERERRdjBKOXlBZ3FkVTFFYldlVDBPYmNIbkhnUy1iaU5pd29iNFB1ZEh6S21VVWdPNDQtQzk?oc=5"
-    },
-    {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.63795,
-      "lng": -76.60708,
+      "lat": 39.65465,
+      "lng": -76.59172,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-29T16:15:56Z",
@@ -68,8 +68,8 @@
     },
     {
       "id": "news-finance-fb0d73dd11",
-      "lat": 42.91541,
-      "lng": -95.36936,
+      "lat": 42.94797,
+      "lng": -95.34497,
       "title": "Peterson Institute's Posen: It's fine for the Fed not to give forward guidance, but a forecast is critical",
       "category": "FINANCE",
       "time": "2026-08-29T17:07:58Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-b4d7c539c3",
-      "lat": 35.63643,
-      "lng": -94.55273,
+      "lat": 35.56949,
+      "lng": -94.47197,
       "title": "'Big Short' Steve Eisman Warns AI Trade Hinges On OpenAI, Anthropic: 'The Whole Tech Space Sells Off' If Spending Slows",
       "category": "FINANCE",
       "time": "2026-08-29T16:50:31Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-d426b31b7b",
-      "lat": 30.18277,
-      "lng": -82.13856,
+      "lat": 30.17966,
+      "lng": -82.12413,
       "title": "Bessent says disorderly yen moves can destabilize global markets",
       "category": "FINANCE",
       "time": "2026-08-29T16:47:43Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.70063,
-      "lng": -76.55655,
+      "lat": 39.6366,
+      "lng": -76.60546,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T16:15:56Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-abf05f9d3c",
-      "lat": -34.60361,
-      "lng": -58.64856,
+      "lat": -34.61026,
+      "lng": -58.59717,
       "title": "Personal Finance: $40 trillion and counting: How the national debt exploded",
       "category": "FINANCE",
       "time": "2026-08-29T16:00:00Z",
@@ -122,31 +122,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY3UyVFdjRHNIdXl6aFNtMjROWGd1ZjdTSElVSXQ2RGU2YW9QZ2ZuVjJhaDlRdHFBSTF0d0tQNEE2OGFzVWEwV2FUeWp0M1pjUk4taFNKM0xqTVItUTVROWxuQi1PN3NxSXlrRWZJWVdFdnFic3htNnc5bVJrbXhhbGVjZDUwcHo2cXdQNGZvcWhuM0VTVHlGNGxzN3BoOEE?oc=5"
     },
     {
-      "id": "news-finance-c0acf1a41a",
-      "lat": 51.62639,
-      "lng": 0.69894,
-      "title": "The Next Palantir? 100 Federal Agencies Already Use Cloudflare, and It’s Cleared For More",
+      "id": "news-finance-1bda4653f6",
+      "lat": 38.2743,
+      "lng": 140.83776,
+      "title": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）",
       "category": "FINANCE",
-      "time": "2026-08-29T15:35:44Z",
-      "summary": "The Next Palantir? 100 Federal Agencies Already Use Cloudflare, and It’s Cleared For More&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3JxU09qRUdnVWlnSlkxZTJuWHUtV2V6NzJac1ZCRnZDVGVuNThhcERGZTUxOU1ZNFhaendXU3htZnBNOU1yNU81Y2tzTnVnYmlMWFhhME1UcGxVYlM3Q0ZlNVBtNjA3dGtJNmlNQU5KRDhpTHd1d0dBTkVEem1XXzdoNUMxVkhvdThEQ3pvRkFoR3JDdWZoWVpVX2RXSUk?oc=5"
-    },
-    {
-      "id": "news-disaster-f7f288c550",
-      "lat": 34.01424,
-      "lng": -98.28865,
-      "title": "2.9 magnitude earthquake recorded near Petrolia, CA on Aug. 29",
-      "category": "DISASTER",
-      "time": "2026-08-29T17:30:07Z",
-      "summary": "2.9 magnitude earthquake recorded near Petrolia, CA on Aug. 29&nbsp;&nbsp;San Luis Obispo Tribune",
-      "source_name": "San Luis Obispo Tribune",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU3I1WWRrbW1zdVJHSnh1aFllQ21EVk0xZWtvOTh6RU4zMElhRlBDcFRhNWhJM2RqUi0xVW1oWDBJSVAxa3NWYzU0clJZcFJqMHBBbmpDNEN5ejFoQzdseUVNVlBPMGtmZ3lSYWR5X0VONHVLRHpwSzVtTElHOFNEZUJ1eUdmQQ?oc=5"
+      "time": "2026-08-29T15:56:43Z",
+      "summary": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwS1lNd1JkSllWYUhhc1BaUktHd0ZzYTB0RzVHa0M5YzdJb3lqckNsai1NUERBcEtXRmtGdDgxblBqcEVxMkVJRkJXRlVFbU94MkE?oc=5"
     },
     {
       "id": "news-disaster-7cf0cfd646",
-      "lat": 38.95248,
-      "lng": -77.05884,
+      "lat": 38.93636,
+      "lng": -77.05324,
       "title": "Flood advisory for Tyrrell and Washington counties Saturday afternoon",
       "category": "DISASTER",
       "time": "2026-08-29T17:20:11Z",
@@ -156,8 +145,8 @@
     },
     {
       "id": "news-disaster-dbb0600fce",
-      "lat": 40.75572,
-      "lng": -74.02049,
+      "lat": 40.74483,
+      "lng": -74.03552,
       "title": "‘The world needs to pay attention’: Nepalis and Tibetans in New York respond to the Himalayan disaster",
       "category": "DISASTER",
       "time": "2026-08-29T16:59:00Z",
@@ -167,8 +156,8 @@
     },
     {
       "id": "news-disaster-b012c5c906",
-      "lat": 28.36353,
-      "lng": 84.02498,
+      "lat": 28.36244,
+      "lng": 83.97535,
       "title": "Nepal flood death toll surpasses 600, with more than 3,000 missing, as poor weather hampers rescues",
       "category": "DISASTER",
       "time": "2026-08-29T16:57:56Z",
@@ -178,8 +167,8 @@
     },
     {
       "id": "news-disaster-9a88f5bcb4",
-      "lat": 6.26001,
-      "lng": -10.43046,
+      "lat": 6.19931,
+      "lng": -10.4474,
       "title": "When a mountain falls: How ice and rock triggered Nepal’s catastrophic flood – and why climate change is raising the risks",
       "category": "DISASTER",
       "time": "2026-08-29T16:57:04Z",
@@ -189,8 +178,8 @@
     },
     {
       "id": "news-disaster-7277c2dd02",
-      "lat": 35.6985,
-      "lng": 139.79346,
+      "lat": 35.72473,
+      "lng": 139.79999,
       "title": "【レベル４土砂災害危険警報】岐阜県・郡上市、白川村に発表 01:53時点",
       "category": "DISASTER",
       "time": "2026-08-29T16:53:00Z",
@@ -199,9 +188,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1JMURiRE5ma3kyOXpmbU5RMlZ1czRCR3JiUE9KVVJGSDJMTzlZU0NiU3RhT3RFdW55c21RbGR4Ni02SDRtSGR4UHNxTjNxaGl4VC1DVVJ4Yw?oc=5"
     },
     {
+      "id": "news-disaster-256879507b",
+      "lat": 8.77967,
+      "lng": 13.79019,
+      "title": "North Carolina under a flood advisory until Saturday afternoon triggered by prolonged rain",
+      "category": "DISASTER",
+      "time": "2026-08-29T16:42:06Z",
+      "summary": "North Carolina under a flood advisory until Saturday afternoon triggered by prolonged rain&nbsp;&nbsp;Charlotte Observer",
+      "source_name": "Charlotte Observer",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jOFlMMWowLVpJUkFJRERWY1BuVU5lTWJaekFfWkhVRHU2dGVXSVhTcFNFSGswMWRpU1ZCU281bHo5VmxQcXNIUlRIWkQyUHREcDZvMzBubEg5czM5dFkyU2J0bXpPQmJDMUh1d0dhenZ3OEJxdlo2eF9EOVF1UQ?oc=5"
+    },
+    {
+      "id": "news-accident-b34cf2fb33",
+      "lat": 38.38484,
+      "lng": -95.80004,
+      "title": "Lebo woman, 80, killed in head-on collision with semi-truck on I-35",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T17:37:00Z",
+      "summary": "Lebo woman, 80, killed in head-on collision with semi-truck on I-35&nbsp;&nbsp;WIBW",
+      "source_name": "WIBW",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0prT1FvWGo1dmVaalRIeXpoYW40VEpoaF84UVZ4bi1DS043aDFXdHlZWlp2a19INlFmMjk4dTNKeDdrV1NpYTBrZGxvWHpNdUdhYkp6S1NFQ3FYVXd0d1dwdzNwelloblV6UkxMaTRmbF91ZUtxN3NmQ3VMZnVrZjhVcy1NM0lEUGlFZlJnd2xzcEVDeU5Z?oc=5"
+    },
+    {
       "id": "news-accident-efbd6ab4eb",
-      "lat": 37.88637,
-      "lng": 139.03951,
+      "lat": 37.93685,
+      "lng": 139.00245,
       "title": "村上市の住宅で3人の遺体発見 事件事故・無理心中の可能性も【新潟】（UX新潟テレビ21）",
       "category": "ACCIDENT",
       "time": "2026-08-29T16:35:26Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-af18f9e290",
-      "lat": 39.79479,
-      "lng": -80.20656,
+      "lat": 39.81327,
+      "lng": -80.29465,
       "title": "2 people killed in accident on I-69 southbound in Greene County",
       "category": "ACCIDENT",
       "time": "2026-08-29T15:17:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-f6369eb308",
-      "lat": 29.19468,
-      "lng": 86.4213,
+      "lat": 29.2454,
+      "lng": 86.45472,
       "title": "Semi-truck crash closes eastbound I-94 lanes in St. Paul",
       "category": "ACCIDENT",
       "time": "2026-08-29T14:49:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-1021a2aa60",
-      "lat": -12.44574,
-      "lng": 131.01149,
+      "lat": -12.44348,
+      "lng": 130.97365,
       "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
       "category": "ACCIDENT",
       "time": "2026-08-29T14:16:00Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-ce15b27320",
-      "lat": 36.28505,
-      "lng": -98.54922,
+      "lat": 36.25429,
+      "lng": -98.45723,
       "title": "Major crash shuts down portions of Highway 68",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:54:00Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aSHFGWUtyMFNOM1VETXJPN0xrLTlyYlNvUThPV0liLW5YdmhjVlNkTTdqT2x2UENxWnUzeWxDYm5keGc4anZidzVNNDZySUpDVjZCdVhGQzJEemNCb2x0d214T0otRjFGTmNMVHFjXzRjWVpWdlk3TzNIMTNHU3c?oc=5"
     },
     {
-      "id": "news-accident-c4791916e7",
-      "lat": 39.69786,
-      "lng": -86.53048,
-      "title": "Hendricks County Sheriff's Office investigating fatal crash near Plainfield",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T13:44:00Z",
-      "summary": "Hendricks County Sheriff's Office investigating fatal crash near Plainfield&nbsp;&nbsp;WTHR",
-      "source_name": "WTHR",
-      "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaFJQd19iTzJYdHBHak1LS1lDN1haMERlTlJXX2wxMGZiaUxnOXNTZ0lWcFduWWRWa042Z0JQa29abi1HaDBSSGN2d285VGc3cmZWdFdvWnNWbVlnWjQ2QnQ5RHpKa0kzOU03LVQ3dGFiTXk5aDlKYmt2cHZ1QXZEUkZNZjJIbGUxTnR2YzZNSW1vRG5QdExmTzhMak9SdHRrcDNPcWRERUlSY2lLZHlSWnBrQWUzaUZ0SWtlRlNpYzNnLWhjRjdORXc1MldUYXJFeUt6Y2V2b3Rxd1RIMFdqMUFQOU1tRUJXYjd5V1FwazV0STNQR1Y3eEhCMnh3SUlxYjU5SkxJNnEwS2pCT182eThTWmJDSURyR1d6TFJPeU5ON09xNHFTTmdCaWFFNWFYZlJXZHgyYk5WVTloeFh6Z1pxejQwVFk?oc=5"
-    },
-    {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.94023,
-      "lng": 4.62251,
+      "lat": 46.93861,
+      "lng": 4.60958,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.86994,
-      "lng": 4.60235,
+      "lat": 46.95882,
+      "lng": 4.57694,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.71989,
-      "lng": 139.53366,
+      "lat": 35.78158,
+      "lng": 139.58028,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.88506,
-      "lng": 135.60538,
+      "lat": 34.85456,
+      "lng": 135.59935,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.71443,
-      "lng": 139.7799,
+      "lat": 35.7063,
+      "lng": 139.73264,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.78132,
-      "lng": 135.63226,
+      "lat": 34.88536,
+      "lng": 135.55344,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -331,9 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOWZ2TElvT05CYlUtUjd3UURkbjU2SEdJV2oyeEo0Wm9ZTHlYUnF6enhadHByV0lsVXZiQmllVGcyY08yYl9UdzNHeG9hbVpJV0JrRA?oc=5"
     },
     {
+      "id": "news-technology-b86dca2209",
+      "lat": 26.24417,
+      "lng": -98.22456,
+      "title": "Goodwill Central Texas completes 11 store renovations, announces AI pricing",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T17:42:25Z",
+      "summary": "Goodwill Central Texas completes 11 store renovations, announces AI pricing&nbsp;&nbsp;KXAN Austin",
+      "source_name": "KXAN Austin",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdmpNeTNETzI2OHJjeVY2T3Qzc2dTMTNZdG4tZWotd25sWkZTR2Q4a2M3M1dFejVlb1RhNWdwa3FuOVpBZ3JPcDR2MVpwZHc2Uy1IUXNfU0hUMzA3czdndGFHd2owY1RzeDdENkN1SEpYYWhZcFVBanJlRXoxMjM1dWVtNVVIRHBLLVp2UjA4VXJmSFNRNUFUSTJiRkdQdjVOUmdMV1dKMG5lX2xqaHdR0gG0AUFVX3lxTFBaVXhSak5BRk5GX1R2dUotYklMMlhXM01ZZXVCZ1JoQ3dqV2Q3S19RdExkejBOVkVycUE1cnZPZjJMYWVNVXdxdWhmOVgyODhBZ3BGanFIU2laSDNkRm9sbVBIZF9EWWZOUVhieFNGZ0VIRW5EZ0tLR0ZsdVgwb3NmWUFmdFlaRlZ0TjhQbDJBUjV1MVpQZ2pld3dIMGJnaWd0Q3RFR0N2OEZ1WmhhbW85Yzh5SQ?oc=5"
+    },
+    {
       "id": "news-technology-1cec3f4ddb",
-      "lat": 42.23968,
-      "lng": 3.1413,
+      "lat": 42.30529,
+      "lng": 3.16486,
       "title": "LEAPカンファレンスで、AIや新興技術が注目を集める",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T17:32:01Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-1853589e8d",
-      "lat": 35.38504,
-      "lng": 139.47278,
+      "lat": 35.3965,
+      "lng": 139.50416,
       "title": "ビル・ゲイツ氏のAI課税・国際規制提言、実効性の焦点は #エキスパートトピ（八田真行） - エキスパート",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T17:15:16Z",
@@ -354,8 +365,8 @@
     },
     {
       "id": "news-technology-c58073e3d2",
-      "lat": 33.37819,
-      "lng": -117.5456,
+      "lat": 33.40721,
+      "lng": -117.57145,
       "title": "I Spent $500 on AI in a Weekend. Here’s What I’d Do Differently",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T17:05:39Z",
@@ -364,37 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSVRNNXZocVk4UHNtTTFQVUxONlF3ZUlQLU5aVGVmRGpnbk9lOXhzR3QyTDY2TlBjV1JiMDRzYTFHZUM1dTR2dTVDRHhPMDFnSm0tVkdnancyS00tbnYyQ01sY3dUaHdRVEdHaklTUWp2Nm9PTFJZemhGYUFvMzlQUFhIb2lZeFZ6ZEd6YlJQMWR0V3hIeFBtbS1BYjBGN0FleUZlZmdjTkx2VUtrRHA3RzJPdlpob205?oc=5"
     },
     {
+      "id": "news-technology-bdae98b110",
+      "lat": 42.35362,
+      "lng": -71.12855,
+      "title": "Sigenergy Technology (SEHK:6656) Put AI Products At The Center Of H1 2026",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T17:04:50Z",
+      "summary": "Sigenergy Technology (SEHK:6656) Put AI Products At The Center Of H1 2026&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenB2QU5lcm10S2poLUJocFktQ2tEN3VOMEFVNE1HaUxoQ2JVM2pXVjd0UjdVLXdaWGpQb0VTQ2EtVzZiOUh1RDZxUkZOck5KY2daVFlJZXFWMWZYMHNINjZNdGg0aWppYVowa3JSNHRPbkdSUDVyVDVCWldiclAyVTk1M1Z2ZTA2ZEpoSTRvd0tmV253a0dPQ1Vhc2E4akU?oc=5"
+    },
+    {
       "id": "news-technology-0574a69de6",
-      "lat": 35.76221,
-      "lng": 139.34073,
+      "lat": 35.73492,
+      "lng": 139.33888,
       "title": "昆虫の歩き方をAI解析しロボットで再現 東北大学、災害で活用期待",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T17:00:00Z",
       "summary": "昆虫の歩き方をAI解析しロボットで再現 東北大学、災害で活用期待&nbsp;&nbsp;日本経済新聞",
       "source_name": "日本経済新聞",
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvakFDXzM2bUNyWWtRUmFnMUFyUzV3S0VJU2VUM0t6MXB6cTRTM1pjdExwbGwwSm92dnA0U19lVzZyeTlOaXdqSG0tbWRhN3JFdHpnSmxfaXViTjBKSHZHR0ZZWmRNb2RtZ1NDZA?oc=5"
-    },
-    {
-      "id": "news-technology-3f2714c269",
-      "lat": 42.231,
-      "lng": 3.139,
-      "title": "LEAP conference puts AI, emerging technologies in spotlight",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T16:59:55Z",
-      "summary": "LEAP conference puts AI, emerging technologies in spotlight&nbsp;&nbsp;arabnews.jp",
-      "source_name": "arabnews.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00VkJWMWpHX1ZIUTcwQ010dkVlM0pSU0hNWHhjSEVQQ2RuV3Q5NGtOODY0c2JITVJzcUFwN2h0NzhTUkRxTzJOdmtnU2JKWTUwVWhtel9nNXk5VXFhbzdFdDJhbUNHUQ?oc=5"
-    },
-    {
-      "id": "news-technology-9387b8c661",
-      "lat": 34.74257,
-      "lng": 135.47065,
-      "title": "【追跡】「海の黒いダイヤ」狙う密漁 暴力団や匿流関与か AI活用の監視も",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T16:54:36Z",
-      "summary": "【追跡】「海の黒いダイヤ」狙う密漁 暴力団や匿流関与か AI活用の監視も&nbsp;&nbsp;北海道新聞デジタル",
-      "source_name": "北海道新聞デジタル",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBeVdhQ3pvaHNRZGpWc0xaSHZBQlRJYnNINEUtcHpNQWhvR0k5clFFNlZxNGxxVG91NzkyQkVQNWtGNUEzM3hOQUtkdlg5Uzc1Tm9GRHVVNlhPQQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T17:33:48Z"
+  "updated_at": "2026-08-29T17:48:39Z"
 }
