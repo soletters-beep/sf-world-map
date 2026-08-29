@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-17d108ecf1",
+      "lat": 35.01495,
+      "lng": 135.88771,
+      "title": "元政治局員で元中央委員会常務書記のチャン・クオック・ヴオン同志と、中央委員会員で省党委員会書記のファム・クアン・ゴック同志は、ティエンハイ村の革命活動家たちに党バッジと表彰状を授与した。",
+      "category": "POLITICS",
+      "time": "2026-08-29T07:35:53Z",
+      "summary": "元政治局員で元中央委員会常務書記のチャン・クオック・ヴオン同志と、中央委員会員で省党委員会書記のファム・クアン・ゴック同志は、ティエンハイ村の革命活動家たちに党バッジと表彰状を授与した。&nbsp;&nbsp;Vietnam.vn",
+      "source_name": "Vietnam.vn",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVTB1M0N2RGN3YmZ3WHJ6V0phUWg4TmFJbnBHb0dBd0xNR2ZfcVNVM2IzN3dVSlRjZnFwU3hNNlVXdkF4bXRRR2pHZEVLSVpLMVR3R1FjV2FNd283dmVXTllmRHJ2NnJrbUVuWldpNVBINk0zZHdEcXhUaWJxY2V1Vlg5QURBTVFsNWx6akZaanVjVHd0WGpDWXBmelVoUjY4WVh3V201Nng3Z2MxalVJd1BaTTNlRkh4M0kydU1TaG94MnoxZDh3Sy1WdjAtNnZuZ0E2SFo0Q0RRRy03MW9jT1pXWUlfZGVGWFZRQk4xZ1ppRnNHMlJvMFlmZXhVTkJnbC02ZGdsOHpVbHVCYmxTeEVXSlVSMlFBTmhCOWFGZnBWSktnTmQ2Z1hFY1pUN1lEd1BOUS1UX2FZUGpXNXU2ZzEyUUg0ZXFRbmgtM0FPN25aWlQ5MkllcV9HZ3JqVFJMa0libGxaLXhnLVFEamRRUjdsV09HMUE?oc=5"
+    },
+    {
       "id": "news-politics-b9fca20f59",
-      "lat": 38.11056,
-      "lng": -88.13981,
+      "lat": 38.0204,
+      "lng": -88.11201,
       "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
       "category": "POLITICS",
       "time": "2026-08-29T07:11:04Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-a73fc3e497",
-      "lat": 58.01811,
-      "lng": 7.53757,
+      "lat": 58.00412,
+      "lng": 7.63647,
       "title": "Meet the Black candidates seeking history in governor's races this fall",
       "category": "POLITICS",
       "time": "2026-08-29T07:00:00Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-7298cba6b9",
-      "lat": 33.36676,
-      "lng": -87.96662,
+      "lat": 33.38903,
+      "lng": -87.96041,
       "title": "Reform council leader: 'Climate emergency was gesture politics'",
       "category": "POLITICS",
       "time": "2026-08-29T06:42:22Z",
@@ -34,9 +45,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WZTlSb2wwTUxlTjR1WERHbFRaZHpFcktUZ1BzZDY1c29jNFU0Z2dUNW1PbEZuRWc3clQ5b0EtZ3R5SElNSVRPVGczWEM4dEpQWXFGVkd4VQ?oc=5"
     },
     {
+      "id": "news-politics-ee50b4f3e6",
+      "lat": -21.92801,
+      "lng": -48.24636,
+      "title": "黄川田沖北大臣「断じて許すものではない」 プーチン大統領の択捉島訪問受け北方領土返還運動の拡大訴え",
+      "category": "POLITICS",
+      "time": "2026-08-29T06:23:00Z",
+      "summary": "黄川田沖北大臣「断じて許すものではない」 プーチン大統領の択捉島訪問受け北方領土返還運動の拡大訴え&nbsp;&nbsp;FNNプライムオンライン",
+      "source_name": "FNNプライムオンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SQ25uMG9ub0NqTTRxUGJUaFVhQS1YNG5YeFk0TTJCOE1lLVRjZ3ItWTd0TXZ4QkI4WXZQQWI3SXhBWjRRLXh2d2s2LTZfUQ?oc=5"
+    },
+    {
       "id": "news-politics-c8c5fc74d0",
-      "lat": 35.68664,
-      "lng": 139.63951,
+      "lat": 35.59498,
+      "lng": 139.63035,
       "title": "ダンカン村は9月2日を機に政治活動を行い、党バッジを配布した。",
       "category": "POLITICS",
       "time": "2026-08-29T05:29:41Z",
@@ -45,31 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUUVGLUZEcDZiQ28wNFhxd0Z3ekdRT2tULTFNOWFaWVpFWXpJRTFpWUZNT3VuaVlzX0ZLVU1TYjFkVzRLSGpLaUl0X0FzLXBzOWxZUXJDT3lEXzNDWlNYTndhVFJ0ald2RWxVdmdMaXNCd3BTalYzQ29tWGhPdzZ1TGh6QU95Ty1VaEFSX1lzaXZQeWJ2T2NpSmhiNW95MWFHanRZ?oc=5"
     },
     {
-      "id": "news-politics-250a18cf0e",
-      "lat": 64.50072,
-      "lng": -149.68023,
-      "title": "Alaska campaign watchdog says Treg Taylor should not be allowed to run for governor",
-      "category": "POLITICS",
-      "time": "2026-08-29T05:06:04Z",
-      "summary": "Alaska campaign watchdog says Treg Taylor should not be allowed to run for governor&nbsp;&nbsp;Anchorage Daily News",
-      "source_name": "Anchorage Daily News",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjBaWVZSa0NTWlNlREVyUDhmZi1FYWJrZG41V1Y1QjBlbGNpUDR2eVA0eTBiSjVfNGNvZFRrOXZhc0JUelY4cWRBLVpCUlBWc2NaUkNuRTVGeGxwWC1oMU9TTnNsbkVxaUN4QTl0RFNTajhaU0k5TWZpbkRJVHozMER2bDh2QlJBMHRPZlhpNkhOa19mcGRZUERZRExZOXZiMTNxaU9CVzZKUHo2V3RZdGNxWHdyTl9fY2ZwZ2JNUmthZw?oc=5"
-    },
-    {
-      "id": "news-politics-13ac888c1f",
-      "lat": 35.057,
-      "lng": 135.81241,
-      "title": "コラム凡語：政治家の言葉",
-      "category": "POLITICS",
-      "time": "2026-08-29T04:49:18Z",
-      "summary": "コラム凡語：政治家の言葉&nbsp;&nbsp;京都新聞デジタル",
-      "source_name": "京都新聞デジタル",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yZ09Ed2VtVVBuT1hYa2NTaEhmVEVja2JJOGNKdy0tOUl3V0tMbnNIZEg1YUQza3BaX05obTNLVXZsbzBRTkVjTGJOSlgxSHVGRlpmOGR4Z2Y?oc=5"
-    },
-    {
       "id": "news-finance-a11a3a131d",
-      "lat": 34.2697,
-      "lng": 133.78185,
+      "lat": 34.32066,
+      "lng": 133.77931,
       "title": "英ポンド週間見通し：もみ合いか、英景況感の見極めも追加為替介入に警戒(フィスコ)",
       "category": "FINANCE",
       "time": "2026-08-29T07:22:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-effb6c728c",
-      "lat": -19.58873,
-      "lng": -63.44488,
+      "lat": -19.66615,
+      "lng": -63.42921,
       "title": "ユーロ週間見通し：伸び悩みか、域内景況感は良好でも追加為替介入に警戒(フィスコ)",
       "category": "FINANCE",
       "time": "2026-08-29T07:22:00Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-d864c8c9e4",
-      "lat": 37.89796,
-      "lng": 139.02465,
+      "lat": 37.85375,
+      "lng": 139.05613,
       "title": "【金融機関特集】合併重ねて基盤強化…はばたき信用組合（新潟市江南区）それぞれの“強み”生かし地域経済に貢献 ゆきぐに信用組合（南魚沼市）、糸魚川信用組合（糸魚川市）紹介も",
       "category": "FINANCE",
       "time": "2026-08-29T06:40:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-337872fb48",
-      "lat": 37.9555,
-      "lng": 139.0787,
+      "lat": 37.84358,
+      "lng": 138.98891,
       "title": "【金融機関特集】合併重ねて基盤強化…はばたき信用組合（新潟市江南区）それぞれの“強み”生かし地域経済に貢献",
       "category": "FINANCE",
       "time": "2026-08-29T06:30:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-88c5229035",
-      "lat": -20.69618,
-      "lng": 161.15942,
+      "lat": -20.66902,
+      "lng": 161.18712,
       "title": "Exclusive-Nepal Needs at Least $4 Billion for Rebuilding, Finance Minister Says",
       "category": "FINANCE",
       "time": "2026-08-29T04:49:12Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-ca3dd24fe3",
-      "lat": -20.65045,
-      "lng": 161.25329,
+      "lat": -20.58263,
+      "lng": 161.24909,
       "title": "EXCLUSIVE: Nepal's flood damage may cost up to a tenth of economy to rebuild",
       "category": "FINANCE",
       "time": "2026-08-29T04:38:00Z",
@@ -133,20 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkx4Y1VqOVNVN0xscmF1aHRFZDF6RXUzc2w3WS1pN0RvQVItZWZVcWxJbE5wMklVUFJ4V01FekhWVzhQcGRyZG9sc0laTkFVQnQtbGxJNzBjN3FCN0pPeVJCbUNLeGpXYm42Z2wxb1JmZ2REVmxBUHNKdW5VT1hsU2xwWGczMlNJM24yUjNNMHVnWnJRTzFNWk5fZERtVjlIaFZpS2h5SVNrOS1J?oc=5"
     },
     {
-      "id": "news-disaster-319b6e2e3c",
-      "lat": 38.31602,
-      "lng": -81.51038,
-      "title": "Kanawha County families continue flood cleanup; residents urged to report property damage",
+      "id": "news-disaster-73ea3c4924",
+      "lat": 36.66971,
+      "lng": -118.74575,
+      "title": "California couple recounts surviving deadly Nepal flood: \"I knew I was going to die\"",
       "category": "DISASTER",
-      "time": "2026-08-29T07:18:45Z",
-      "summary": "Kanawha County families continue flood cleanup; residents urged to report property damage&nbsp;&nbsp;WCHS",
-      "source_name": "WCHS",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmRlZ2xjT3hRN1VtTUR1MFRnYTdNYWFFdjl5UDdNRU5rX0J3TkpHZGdWT0RxajVURUVBMC1JTEZkQW5sLW1Ua2kwbmNoVG5KWDR3enVGNHJuNWJkVHNNTEVKb2RZUjBCRHM4UDRQblJ5czEycDlrWV9UT2doaFRuZS1oaXRSOXJ4b0RfNDBsV1RxMGRnRDJBV0hpbkE5MnRKclVKVVJpX1lKX2s?oc=5"
+      "time": "2026-08-29T07:30:37Z",
+      "summary": "California couple recounts surviving deadly Nepal flood: \"I knew I was going to die\"&nbsp;&nbsp;CBS News",
+      "source_name": "CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWw0NDZGdFZGRTcwOUk2eWFmY2hHR2o4WFA1WnBFNVFsVFZDa0xlcmhlRnBEbjNScnlUd0ozaGtwNUFqUTU4cGpqM0U1ejkzR3N3N2F4S2FyZFFPSzlxM09KenplUkQwZTRDX1hSc3ZWYWZKdHhNcGFDdDlBUWV2eQ?oc=5"
+    },
+    {
+      "id": "news-disaster-58770bd04c",
+      "lat": 23.69583,
+      "lng": 90.03835,
+      "title": "Update: 4.8 magnitude earthquake shakes near Petrolia, CA on Aug. 28",
+      "category": "DISASTER",
+      "time": "2026-08-29T07:28:09Z",
+      "summary": "Update: 4.8 magnitude earthquake shakes near Petrolia, CA on Aug. 28&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxNkE4QmNjSThxZUJOR1laR1Y3a1pWWG1Ob1k5cGExakVmZWFvNVVzUDROejJVVUhRMW5PTk1xRWlUNXM3NnUyYjJCNmlSZFYybHNMYzBCV00wV2hSYUlmNzQxOHZFWWRlUXM0cEZnOG1VMW5wZkJPbEdpRGs?oc=5"
+    },
+    {
+      "id": "news-disaster-66445783f4",
+      "lat": 28.37996,
+      "lng": 83.97774,
+      "title": "Son of US couple who narrowly escaped Nepal flood says he’s ‘grateful for the miracle’",
+      "category": "DISASTER",
+      "time": "2026-08-29T07:22:33Z",
+      "summary": "Son of US couple who narrowly escaped Nepal flood says he’s ‘grateful for the miracle’&nbsp;&nbsp;CNN",
+      "source_name": "CNN",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN1E1aFhtR2xraWhSdDVqbFE5QjJ4RVlfZGRGMmJVYjluN1cwam9kaHN4T1dib3BBeS1UNDdrYVBOZ3hOZUNmeTJVcEVyRGVrNVlxd3VnMWdvUjdpVllWVXNzNC1pMTRpclNzR21fTHVyV181Qjh1ZkhnUFhPb1FXQmxsYXBmQ3dVeGRzWGRpYUxIUDM1NWx1RDBNYjhsZw?oc=5"
     },
     {
       "id": "news-disaster-516312c643",
-      "lat": 46.02968,
-      "lng": 18.2328,
+      "lat": 45.99455,
+      "lng": 18.17656,
       "title": "FEMA Review Council Recommendations for the National Flood Insurance Program",
       "category": "DISASTER",
       "time": "2026-08-29T07:08:23Z",
@@ -156,8 +178,8 @@
     },
     {
       "id": "news-disaster-24b5829b57",
-      "lat": 28.3656,
-      "lng": 83.96879,
+      "lat": 28.31923,
+      "lng": 83.94961,
       "title": "Nepal and China resume flood rescue as death toll surpasses 600",
       "category": "DISASTER",
       "time": "2026-08-29T07:04:12Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-d2bd5243d3",
-      "lat": 32.74641,
-      "lng": 130.75615,
+      "lat": 32.81553,
+      "lng": 130.77121,
       "title": "熊本地震、猛暑日25日で突出 発生1カ月、迅速な復旧妨げ（共同通信）",
       "category": "DISASTER",
       "time": "2026-08-29T07:02:03Z",
@@ -177,31 +199,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xTHNWV19objhlWmxSdnBXTmc2VFdGcHFKalpPSmJnQlNhamtFdzZZRTNQNTZoS1p1eFlQakRxdUdMWjg1NXB3cUJ0eFE2SHUxdVd1R0ZiNWhvVEdQYktIdHBsLVNZdm56Zzd5UzZnU0ZvSXg5Vi1Mc3k4TWdzRFE?oc=5"
     },
     {
-      "id": "news-disaster-9659b39592",
-      "lat": 32.78978,
-      "lng": 130.69017,
-      "title": "熊本地震の断水解消、1カ月で実現できた事情 次の課題は屋内配管",
-      "category": "DISASTER",
-      "time": "2026-08-29T07:00:00Z",
-      "summary": "熊本地震の断水解消、1カ月で実現できた事情 次の課題は屋内配管&nbsp;&nbsp;朝日新聞",
-      "source_name": "朝日新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JWHhza1dsZUwzbVZmRnQtT1k5Nm9wVF9xTzduLWpxN0tzUFQ3cHlDMlJDY0VlcU43bmZsNmk1eE45RXJ0RFlXZ3B4aGRMSjdmTVJtbWdYU2hTSndPV2otTVhEMV9kSTA?oc=5"
+      "id": "news-accident-1c3d283421",
+      "lat": 34.99898,
+      "lng": 135.79575,
+      "title": "東武死亡事故、見張り員は当時移動中と説明",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T07:43:38Z",
+      "summary": "東武死亡事故、見張り員は当時移動中と説明&nbsp;&nbsp;京都新聞デジタル",
+      "source_name": "京都新聞デジタル",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EQkE1Tm5HSU15X05jcVNPWmZiNm90UjkzRklZdVZ3di1KQnNwZ0V0dU9VRURNWWdfVzlDbVNmX2tfQk1IeWZhR2dOSzZQOWFSVW9uME9IZU0?oc=5"
     },
     {
-      "id": "news-disaster-521a41c168",
-      "lat": 35.04585,
-      "lng": 135.73362,
-      "title": "社説：熊本地震１カ月 心身守る息の長い支援こそ",
-      "category": "DISASTER",
-      "time": "2026-08-29T07:00:00Z",
-      "summary": "社説：熊本地震１カ月 心身守る息の長い支援こそ&nbsp;&nbsp;京都新聞デジタル",
-      "source_name": "京都新聞デジタル",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2TjM0V0FEV0RZb25OdWZHNlBkVWp2Ry1CV0ZVcFlDTm5XMmphRHZPV1dlMnlqajhGc0gtTmd1NlZLdDNab3ZPMDUyYkhqdngxSFlnUlpzV1c?oc=5"
+      "id": "news-accident-6449e56ed1",
+      "lat": 43.05674,
+      "lng": 141.32141,
+      "title": "「生活道路」速度上限３０キロに ９月施行、事故抑止狙い | | 全国のニュース",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T07:39:00Z",
+      "summary": "「生活道路」速度上限３０キロに ９月施行、事故抑止狙い | | 全国のニュース&nbsp;&nbsp;佐賀新聞",
+      "source_name": "佐賀新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00eUpETEwzSDZMODFmbzJtZXFRWWkyc0p6eGtHQURTYkc0RmM2dTBMU3RYd0pnczAtc0JwRW50SHowYnUyYjdHRFd3bjlPUW1DWUZtRG53?oc=5"
+    },
+    {
+      "id": "news-accident-2d0688eeea",
+      "lat": 31.61449,
+      "lng": 130.54569,
+      "title": "鹿児島 いちき串木野市の水難事故 沖合で新たに1人見つかる",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T07:32:11Z",
+      "summary": "鹿児島 いちき串木野市の水難事故 沖合で新たに1人見つかる&nbsp;&nbsp;NHKニュース",
+      "source_name": "NHKニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wdnZ4RzR4TkxGckdTTmNtWHVpUHFLNzNkN3VDQllheWIzclk5eHk4THBwREh2Y3NWQnVqSXUzbkRMQlJ1X0NCZnVWbVZfTGMyUHdKU1RlUFBaZkNNcHBN?oc=5"
     },
     {
       "id": "news-accident-7033b234c5",
-      "lat": 34.00528,
-      "lng": -118.28406,
+      "lat": 34.0336,
+      "lng": -118.22847,
       "title": "Los Angeles County, CA – 1 Person Killed, 1 Injured in Multi-Vehicle Accident near Rosecrans Ave and Main StAround 2:10 p.m. on August 28, 2026, police officers and Los Angeles County firefighters and paramedics responded to Rosecrans Avenue near M",
       "category": "ACCIDENT",
       "time": "2026-08-29T07:17:40Z",
@@ -211,8 +244,8 @@
     },
     {
       "id": "news-accident-5a7ca5e2d6",
-      "lat": 34.7617,
-      "lng": 135.39779,
+      "lat": 34.68557,
+      "lng": 135.39664,
       "title": "【ボクシング】リング禍死亡事故から１年 トレーナーの兄が語った思い「弟は亡くなりましたけど、それでもボクシングは素晴らしいスポーツ」「大事なことは風化させないこと」…悲劇起きた後楽園ホールで、故・神足茂利さんに東洋太平洋ベルト贈呈（スポーツ報知）",
       "category": "ACCIDENT",
       "time": "2026-08-29T07:04:53Z",
@@ -221,53 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUmFMckJnT0FRTFBGOVNUWElmcEV3ZlJSenU4LW5nTnJCWDBJa0tyUUVHY1NaRXZ6VGlyV0JLbTVFNDRuaGVwT2p6bGRMbjJDcjZYU0Rtd2pBdlRIbkdFbzJSckpFVW93UDR5MEZUbEVCU2FLR2xWOC1JQUlPcjQ?oc=5"
     },
     {
-      "id": "news-accident-1a4cf6d758",
-      "lat": 33.64853,
-      "lng": 130.42454,
-      "title": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問（読売新聞オンライン）",
+      "id": "news-accident-2bec1eb5e2",
+      "lat": 34.73886,
+      "lng": 135.4179,
+      "title": "【ボクシング】リング禍死亡事故から１年　トレーナーの兄が語った想い「弟は亡くなりましたけど、それでもボクシングは素晴らしいスポーツ」「大事なことは風化させないこと」…悲劇起きた後楽園ホールで、故・神足茂利さんに東洋太平洋ベルト贈呈",
       "category": "ACCIDENT",
-      "time": "2026-08-29T06:57:44Z",
-      "summary": "福岡市３児死亡飲酒事故２０年、宮崎県警の一斉取り締まりで酒気帯び運転３件摘発…１３か所で検問（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jMHFUc0dMdkNNTUNJb3k0VHNLVWozZjNmOUpweFpkb2diaURDdmtKeHdTNUxlRG0zOTAwcEdVd0JYYzdncGpzaEozQlVaSFBaYkhKX3d3eVc4VnpXaWJZR3ZPTjFLOGtyNEpPMTdCckdKWUc4TDA3VHdIdDJJWXM?oc=5"
-    },
-    {
-      "id": "news-accident-d25d787a1b",
-      "lat": 52.30225,
-      "lng": 0.00807,
-      "title": "Over 2,000 residents were without power after a fatal crash knocks down pole",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T06:40:36Z",
-      "summary": "Over 2,000 residents were without power after a fatal crash knocks down pole&nbsp;&nbsp;kmph.com",
-      "source_name": "kmph.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamwyckQ4ZERQamdXd2t3OVB5Z05Pbm9OR3B3cWloSnFEaG9aYTduQ3ZjcWN5WFNqLUpucmkyR2NEMzAyQ1VEb0loZ3FleWdJazJjWEF6ekdiM2J5OUFnVEJiQllDUmZQMjhlRElMYko0VjRwTXZ1c1ZLMFFYVnlUTzZyYl8yREQwby1FakFQQm0zMmYtMmxfUV8zMGY?oc=5"
-    },
-    {
-      "id": "news-accident-b8449169d0",
-      "lat": 34.56626,
-      "lng": -85.95562,
-      "title": "Section of Highway 26 in Coast Range closed due to crash",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T05:23:16Z",
-      "summary": "Section of Highway 26 in Coast Range closed due to crash&nbsp;&nbsp;KATU",
-      "source_name": "KATU",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQzZYQTMzaUFfSWx2dWM2bG8zVjJHSVRaYjd4NGs4T3NBTXZNa2UtQnQxeDJiN2dWOTJYRTFudUtDeHZud1RJdHVvS3J3RDNXemdwalc4N3BwSlpsb3EyZVp2dGxPUU5yTHplaTdEYm9aZnVydmlWc0NqWm1CRWxTSHBQa010bUhIeHRZZQ?oc=5"
-    },
-    {
-      "id": "news-accident-c80035fe86",
-      "lat": 18.18348,
-      "lng": -66.89117,
-      "title": "Suspected drug dealers arrested after crashing car",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T05:20:25Z",
-      "summary": "Suspected drug dealers arrested after crashing car&nbsp;&nbsp;BBC",
-      "source_name": "BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1X0hOd1BER21WWlMwX0RUYmFJM3RCcXFDa0VyRjhvTV95UGUxdWluTndNRndULV9JYWxYRlVZYUxYN0FVUkpQWTBub0RxdXNWak82ZGVOYw?oc=5"
+      "time": "2026-08-29T07:04:00Z",
+      "summary": "【ボクシング】リング禍死亡事故から１年　トレーナーの兄が語った想い「弟は亡くなりましたけど、それでもボクシングは素晴らしいスポーツ」「大事なことは風化させないこと」…悲劇起きた後楽園ホールで、故・神足茂利さんに東洋太平洋ベルト贈呈&nbsp;&nbsp;ｄメニューニュース",
+      "source_name": "ｄメニューニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQblhMNURfVXRZZEJPeF82Uk4xXy04cmxaNXRac3gxZlY5UHRMdk11eDQ0Ylc0Rk1Sd3dJMVY4bElWNkhyb0NJOXhqcjdFajJ3enl2NnZYU2QxUnhScTRUR194TThHUnE2azVvR2FFRGc3M2hYWjJhSEh3RDhpaUdMQ1Y4clfSAYoBQVVfeXFMT0ZMNlpnWjhXNXJxdU9JUW56SlFNa0szNzZXQjExaFBYejVvRzVwemF2MHdfYU85RWY5alJOVUdUWDk1aE9nOW04Y1BvZ1RTdWttR1lTc1RyZWoyVGdtMjIyMzI4U1NNdmhoQUQ1Rm5jTTBjLVo5OUZDb0tNRWczTWotb1dhSENYaFNn?oc=5"
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.79971,
-      "lng": 135.5712,
+      "lat": 34.77425,
+      "lng": 135.565,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.71681,
-      "lng": 139.82487,
+      "lat": 35.66374,
+      "lng": 139.77717,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.83842,
-      "lng": 135.54971,
+      "lat": 34.79626,
+      "lng": 135.54008,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.29925,
-      "lng": 140.90425,
+      "lat": 38.27003,
+      "lng": 140.8428,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
       "time": "2026-08-28T23:00:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-cd2ab2d092",
-      "lat": 35.68504,
-      "lng": 139.83521,
+      "lat": 35.63863,
+      "lng": 139.89079,
       "title": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む",
       "category": "DISEASE",
       "time": "2026-08-28T21:07:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-fbe37cb8c5",
-      "lat": 42.37676,
-      "lng": 141.0643,
+      "lat": 42.41606,
+      "lng": 141.09832,
       "title": "「来週ぐらいには戻ってたら」ソフトバンク山川穂高、右目の感染症療養からファームでの調整再開 実戦復帰は未定",
       "category": "DISEASE",
       "time": "2026-08-28T21:01:04Z",
@@ -331,9 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CQW81dy1vLVRFdU9mV1ZCXzRyQ3NHZUlVZmxrX1NIcnR3ZzJXdFI1bjB0NWI3WW5UU1YwUlBoSm9EZEFFUkFxTWY3X3R0blFUaVN5cnVLZUFwRVhLZk0xbjVwTXlBSUJBcEsyUmpEN3BhdDVUcmNHWXhkNjdaSjg?oc=5"
     },
     {
+      "id": "news-technology-f28a453b18",
+      "lat": 37.8939,
+      "lng": 139.06457,
+      "title": "国政政党のチームみらいがＡＩ体験会【新潟市】",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T07:40:10Z",
+      "summary": "国政政党のチームみらいがＡＩ体験会【新潟市】&nbsp;&nbsp;UX新潟テレビ21",
+      "source_name": "UX新潟テレビ21",
+      "source_url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOQnp2bktfNk9IbDlJb2RwMTFtRUd3aFYwTFYzVlkxN2NiRXk3OFB3R3J0bUxmWWtwVEZFd3BZS0poY1VmVzNZRWxJSVJIc3Z4TmNleGxTR3ZmY291YnZRYlFiVmhtU0ZrTjBmUkw1WE9UZm9xQ0ZuU3pJckREcXRBTTUxTU1OTjBaeWFPUl9hNjVNZWtIZkdTRmRTRDB3Q0VDaGh6TWJBMW9Lcjg3Z0pPay1SWE1CRXVwT3hWQ05yUktxUEZiNmpqQWYzY0owb3NvNlBTaGVTNVpyS3VvQm45eEZ1QnJ1MS1BZ2UzYzh5MGJ1dU43Q242ak1kVkJ4VGFTbnVUeXpmcGlFOUNoTlpFMzhvS1BPZ1NBdXM1ektzaENBRlRZd3N3U3FMN0tTM0E2TlpKU05hSzNhNERsY3lMY3Q4dkd3dUZGY1NJ?oc=5"
+    },
+    {
+      "id": "news-technology-ea3898aa57",
+      "lat": 37.9057,
+      "lng": 139.01359,
+      "title": "国政政党のチームみらいがＡＩ体験会【新潟市】（UX新潟テレビ21）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T07:35:38Z",
+      "summary": "国政政党のチームみらいがＡＩ体験会【新潟市】（UX新潟テレビ21）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0NjJtUk9sYmh1bmtRTV9OaHV1V3VMQk1QTXRMWHJMMURNT2tpcFBra1hHbWxEWW9jZDQweUNGMlBMSGJpdHU4dG04WTdYY2dLRmN4ODQ0ZVRfcV96X2Y0UHFIZ3hzQkY0dlRFenlGdHBTSThKRU9YTEtrdE1PYlk?oc=5"
+    },
+    {
+      "id": "news-technology-7ae3b9904c",
+      "lat": 5.69879,
+      "lng": 0.04746,
+      "title": "伝説のプロが注目する、成長株の四大テーマとは？ 「AI×日本」など（GOETHE）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T07:30:55Z",
+      "summary": "伝説のプロが注目する、成長株の四大テーマとは？ 「AI×日本」など（GOETHE）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwU1QyR05VdUdlZFMtUW9Lb2dFa2YzNzBDYWhSdTRrMzA4UDMtUVFiUVEyYmhLMGRYTjRqOG9jSWRPMHFlRFoxcEN4bm04VGVyQi04OG1JQk41c0xIRmI3TDI0YTdDT1hwWFNIaktjd3JmcUlLdUpLajdOdWFKb0k?oc=5"
+    },
+    {
       "id": "news-technology-d2601ad13d",
-      "lat": 53.42532,
-      "lng": -2.03522,
+      "lat": 53.51187,
+      "lng": -2.0194,
       "title": "AI Stocks for Higher Rates Why Meta Oracle and Alphabet Stand Out",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T07:29:35Z",
@@ -343,8 +376,8 @@
     },
     {
       "id": "news-technology-9321895f48",
-      "lat": 22.28264,
-      "lng": 114.14234,
+      "lat": 22.30487,
+      "lng": 114.17811,
       "title": "DELF 2026: Hong Kong Advances AI Integration Across Arts and Entertainment",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T07:26:23Z",
@@ -354,47 +387,14 @@
     },
     {
       "id": "news-technology-4f4257047b",
-      "lat": 35.71258,
-      "lng": 139.77231,
+      "lat": 35.74457,
+      "lng": 139.81171,
       "title": "決算:中国メモリーCXMTの1〜6月、黒字1.8兆円に AI需要で価格上昇",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T07:23:44Z",
       "summary": "決算:中国メモリーCXMTの1〜6月、黒字1.8兆円に AI需要で価格上昇&nbsp;&nbsp;日本経済新聞",
       "source_name": "日本経済新聞",
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCMlRVWXIwSFJvVXhkQ0ctS3NWRUQ1VkZJU0drVk1Ha0ExN25NRmFzYTk4WUpNNzd6R3hvN2hGaGZWRks0Y3BETHBRbTVaa1ZYSmZUMWZQWlVQbXdRZVlJNzlPOExwODFCaTdmQQ?oc=5"
-    },
-    {
-      "id": "news-technology-5b0c89e40a",
-      "lat": 50.42513,
-      "lng": 30.54535,
-      "title": "AIと人間が協力の「ペア碁」新たなeスポーツ目指す",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T07:22:14Z",
-      "summary": "AIと人間が協力の「ペア碁」新たなeスポーツ目指す&nbsp;&nbsp;NHKニュース",
-      "source_name": "NHKニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nY0xvcEVFQ25hbHJxSG9hZ3FvUW5WTndEdTU2dUZZcF9wdkRBempKcEhUTTNIVTFKNGNNaldXdUN5dHNnNnZnTkdZSVBiRzJwN0xiRFZOZ0xXUnk5dzdB?oc=5"
-    },
-    {
-      "id": "news-technology-cb9f7822fb",
-      "lat": 34.55467,
-      "lng": 108.92816,
-      "title": "How China’s AI Policies Avoid Painful Past Tech Crackdowns",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T06:30:00Z",
-      "summary": "How China’s AI Policies Avoid Painful Past Tech Crackdowns&nbsp;&nbsp;Barron's",
-      "source_name": "Barron's",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTHJGbTU5Rkg2MDRKZlhpY190SGpnZ0F0TkZLSm1mTzhGNG5vMnZMNGxZdTh0VF9YZFhmdHJsTlpoMUVtM3VpcTZlckdWUnJydEJDeGFvTDdaRTFUYnlud1BZNU1KUnZFc1FXR3NrMFFIekM3QWlMYXJjVkI0MUVFTVlfZjlOUmM?oc=5"
-    },
-    {
-      "id": "news-technology-78ab47e276",
-      "lat": 49.48787,
-      "lng": -123.92857,
-      "title": "Moomoo AI デイリーチャレンジ 9日目",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T06:20:32Z",
-      "summary": "Moomoo AI デイリーチャレンジ 9日目&nbsp;&nbsp;Moomoo",
-      "source_name": "Moomoo",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUU4wWXpNVDRvbEUydk1CV1NEZF9zdngtZEpKaG1wVzFzNmMyTFdiaXB3LU4zaVlLVHJ2MzVSTEhfSnZtYi0tZ24xRzBpdnFSc3FYRi15OEoyODF6dFJtT19WQzJIbGlHaFFKVVQ1cW83RWpicG5mb2dicGNwN3d3dm8zdmllZDM1ck5RWXloMDc?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T07:33:34Z"
+  "updated_at": "2026-08-29T07:48:34Z"
 }
