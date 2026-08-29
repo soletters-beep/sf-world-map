@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-c06ee050ab",
+      "lat": 39.675,
+      "lng": -76.59763,
+      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "category": "POLITICS",
+      "time": "2026-08-29T01:21:43Z",
+      "summary": "Venezuela's interim president, Delcy Rodriguez, hailed the deal as significant to her country's revival.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-76c313ff41",
-      "lat": 8.40434,
-      "lng": 49.13148,
+      "lat": 8.34713,
+      "lng": 49.06017,
       "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
       "category": "POLITICS",
       "time": "2026-08-29T01:14:13Z",
@@ -12,20 +23,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-53b2b1e5b5",
-      "lat": 45.49794,
-      "lng": 9.17186,
-      "title": "Runaway Drug Violence Sets Off a Political Earthquake in Costa Rica",
-      "category": "POLITICS",
-      "time": "2026-08-29T01:01:49Z",
-      "summary": "Runaway Drug Violence Sets Off a Political Earthquake in Costa Rica&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbE1HQWFvNXJ4M3ZqZmxkQXhxdWhPVW5HM2JtQVRoV2ZrNG4zSTYtbHI2VVZYUDZIR0VEMkRSQ1EyWGM3bWRBei1hLXpzcmpXZjRzdWNBSWpQZ2Y4LXVCeW5KU1hDTHotQ2cwWndFQnA0WkpTRVBISkFBU3Zxb292UTY2WkxXZkJLUWQ4Z0Q5cEVBU0k?oc=5"
-    },
-    {
       "id": "news-politics-9ecbee51c6",
-      "lat": 51.74365,
-      "lng": -9.54062,
+      "lat": 51.74442,
+      "lng": -9.52892,
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "category": "POLITICS",
       "time": "2026-08-29T00:56:19Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-67a69b3950",
-      "lat": 39.62655,
-      "lng": -76.656,
+      "lat": 39.74056,
+      "lng": -76.66083,
       "title": "Trump, Beef & Ballots",
       "category": "POLITICS",
       "time": "2026-08-29T00:50:06Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-348c8a3a74",
-      "lat": 51.41704,
-      "lng": 6.80072,
+      "lat": 51.35011,
+      "lng": 6.74275,
       "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "category": "POLITICS",
       "time": "2026-08-29T00:46:02Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-aab599e4fd",
-      "lat": 47.18863,
-      "lng": -71.83822,
+      "lat": 47.15847,
+      "lng": -71.90921,
       "title": "Jelly Roll Clarifies Political Views, Regrets Not Taking “Opportunity to Speak Up” at Grammys",
       "category": "POLITICS",
       "time": "2026-08-29T00:43:22Z",
@@ -67,9 +67,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVdDeVZfY1ZhODBpVXdqbUlELVBZY1pHMU9feFY3dGIzeWxxUHRlNjlLMHZCelF3YWZZNEk1a25Gc3BqWlhJMnRGYVU2cGRwaGVqREV0NUl3bFhGNUdhV3MtUlRrNFRyUzc3eWtoTHl5aExPSWc5V0ZWOXZqYUU0Um1YckxDc2I3bTUyV2VxbUtXbHhzZkVQM3NiQkJXQ0dXaERKV2REM08zSUpLakFCNlR4MA?oc=5"
     },
     {
+      "id": "news-finance-c06ee050ab",
+      "lat": 39.69867,
+      "lng": -76.63666,
+      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "category": "FINANCE",
+      "time": "2026-08-29T01:21:43Z",
+      "summary": "Venezuela's interim president, Delcy Rodriguez, hailed the deal as significant to her country's revival.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-finance-2e507b41e9",
+      "lat": 25.21233,
+      "lng": 55.24851,
+      "title": "ドバイ安全神話の崩壊 世界の金融ハブが直面する地政学リスク（TBS CROSS DIG with Bloomberg）",
+      "category": "FINANCE",
+      "time": "2026-08-29T01:00:35Z",
+      "summary": "ドバイ安全神話の崩壊 世界の金融ハブが直面する地政学リスク（TBS CROSS DIG with Bloomberg）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MR3lPajM3YS11NDFoQ3hjQ0pqbUYxdDVvN2V3WXJRcGNPdm5aN2M1N1BoTm9jbzMtUF9GRV9FWE9pZjQ5WEE5MGJ4N2Rya25WOTJSWU03cGl0Qi1VREVQN0NDdGZrSGVwMkxTeGdPY1B1OVNCdkdMekYzemh5ZE0?oc=5"
+    },
+    {
       "id": "news-finance-5765688cc0",
-      "lat": 32.65443,
-      "lng": 54.61169,
+      "lat": 32.62931,
+      "lng": 54.53185,
       "title": "イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店",
       "category": "FINANCE",
       "time": "2026-08-29T00:50:00Z",
@@ -78,20 +100,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUFdwV3FjZkJPclZPa3AzSWc2bXBCbzZjU0FUOTFfUUlWUEl4RG1WOU9ZaC1jZnozbjJjLWVYSlJBSzdBSVU5VmllaU8zdWowZzR5VjRkVGw1SmNhcmtLdkV3?oc=5"
     },
     {
-      "id": "news-finance-c06ee050ab",
-      "lat": 39.73769,
-      "lng": -76.54472,
-      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
-      "category": "FINANCE",
-      "time": "2026-08-29T00:25:07Z",
-      "summary": "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "id": "news-finance-fe76d07684",
-      "lat": 31.16741,
-      "lng": -84.77714,
+      "lat": 31.19263,
+      "lng": -84.70498,
       "title": "Miller Industries Reaffirms 2026 Outlook, Eyes $200M-Plus Military Production Pipeline",
       "category": "FINANCE",
       "time": "2026-08-29T00:01:00Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-bdd1ffa319",
-      "lat": 36.07977,
-      "lng": -115.30427,
+      "lat": 36.04291,
+      "lng": -115.25507,
       "title": "‘DraftKings Is Not a Blessing to Your Life’: Dave Ramsey to Gambler 31 Days Sober and $23K in Debt",
       "category": "FINANCE",
       "time": "2026-08-28T23:56:32Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-bb611ab208",
-      "lat": 43.07047,
-      "lng": 141.396,
+      "lat": 43.02534,
+      "lng": 141.40023,
       "title": "レーティング週報【最上位を継続＋目標株価を増額】(2) (8月24日－28日)(株探ニュース)",
       "category": "FINANCE",
       "time": "2026-08-28T23:42:31Z",
@@ -122,31 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVE1TVkMzZ0w4NlV5VV80ck9VbVJodE1hekpFczhFVzd0bllmRXR3WFBCd254MHJtT2hpX21oR2huMDU0THZYSmlxSEpyRE1GdmZvYXNFck1peXdaX256UGFDdDE1OU50YzZfVUFXVXA3TVNHalpmbk5hTk9nd182Um1lUVc3TzA?oc=5"
     },
     {
-      "id": "news-finance-79747eb413",
-      "lat": 43.10739,
-      "lng": 141.33352,
-      "title": "レーティング週報【最上位を継続＋目標株価を増額】(1) (8月24日－28日)(株探ニュース)",
-      "category": "FINANCE",
-      "time": "2026-08-28T23:42:30Z",
-      "summary": "レーティング週報【最上位を継続＋目標株価を増額】(1) (8月24日－28日)(株探ニュース)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUdRa2Zod2RvZjB2RnhVMzZDRjUxbW5XTkpaNlFvelppQ01DWWRuVWJfNUNyZEpCZ0o2Q0lUSXctMElIUE5KemdGSkJHTjg4dmxlaE01Znp5TV9JWVIwOUxOM1JQc2VQWHRKSE5iNDh0WVhEYjVPUFFBaGEyUmd6MmRLckFST3M?oc=5"
+      "id": "news-disaster-73ea3c4924",
+      "lat": 36.74097,
+      "lng": -118.73211,
+      "title": "California couple recounts surviving deadly Nepal flood: \"I knew I was going to die\"",
+      "category": "DISASTER",
+      "time": "2026-08-29T01:05:00Z",
+      "summary": "California couple recounts surviving deadly Nepal flood: \"I knew I was going to die\"&nbsp;&nbsp;CBS News",
+      "source_name": "CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWw0NDZGdFZGRTcwOUk2eWFmY2hHR2o4WFA1WnBFNVFsVFZDa0xlcmhlRnBEbjNScnlUd0ozaGtwNUFqUTU4cGpqM0U1ejkzR3N3N2F4S2FyZFFPSzlxM09KenplUkQwZTRDX1hSc3ZWYWZKdHhNcGFDdDlBUWV2eQ?oc=5"
     },
     {
-      "id": "news-disaster-5b3070926f",
-      "lat": 32.72995,
-      "lng": 130.75369,
-      "title": "気仙沼市、熊本地震で被害の御船町に職員派遣 住居被害調査など支援",
+      "id": "news-disaster-6ca9a49d8a",
+      "lat": 35.06913,
+      "lng": 135.73643,
+      "title": "シニア世代は「災害」とどう向かうべきなのか 「万が一」に備え「鍵」は日常的な交流（京都新聞）",
+      "category": "DISASTER",
+      "time": "2026-08-29T01:00:35Z",
+      "summary": "シニア世代は「災害」とどう向かうべきなのか 「万が一」に備え「鍵」は日常的な交流（京都新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OU292b09TZ2VFWTVOaEtPeldiT2NrenpBaEJDeG81NmtsNlQxdEZ0dkx3LW5DbE9NY1A3RGJ1RnR4akw5Y0RMMVZ5RnVnMVdCTEROXzFmVFJ6MktxQTR1dlEzVnNrZG9TUlRvMzkyaW5MVmRhNE10aWptYVh4MDg?oc=5"
+    },
+    {
+      "id": "news-disaster-cfdcb3f5db",
+      "lat": 32.81952,
+      "lng": 130.73617,
+      "title": "気仙沼市、熊本地震で被害の御船町に職員派遣 住居被害調査など支援（朝日新聞）",
       "category": "DISASTER",
       "time": "2026-08-29T01:00:00Z",
-      "summary": "気仙沼市、熊本地震で被害の御船町に職員派遣 住居被害調査など支援&nbsp;&nbsp;朝日新聞",
-      "source_name": "朝日新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ycjY4ZWR5cFQ4YWxacXhRbXN6WXJNSW9CYXBIYWdvTXdyNjRCd1FZclhvLU5NVl83dE5zT2VEVV8zS05lMFZNWDJnMENYR1c4U1dwa202a09yZGx0WjAwQUJiZUZKVkE?oc=5"
+      "summary": "気仙沼市、熊本地震で被害の御船町に職員派遣 住居被害調査など支援（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84RTBqOXp4bmxLWXEzQmdETjhJelJxRDIzX0RQNzY2SkNieGpZdF9pNHJ3VnFId3Vyb0o1YndjQ2hCSl8ySG5mdzlMRTUxQm1xMU04R2I5QXBXeHFjd1pmXzQyeEpuYVdlU3BIdE05YTZLblVsek84QjkwbFNhZG8?oc=5"
     },
     {
       "id": "news-disaster-1b42aff44a",
-      "lat": 46.14201,
-      "lng": -1.13622,
+      "lat": 46.18764,
+      "lng": -1.14833,
       "title": "Flash Flood Warning issued for Zion National Park, Gould Wash, Hurricane",
       "category": "DISASTER",
       "time": "2026-08-29T00:58:38Z",
@@ -156,8 +178,8 @@
     },
     {
       "id": "news-disaster-819ca65d68",
-      "lat": 33.10891,
-      "lng": -92.35657,
+      "lat": 33.16557,
+      "lng": -92.3161,
       "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
       "category": "DISASTER",
       "time": "2026-08-29T00:53:13Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-d8ae1f3b1d",
-      "lat": 48.62467,
-      "lng": -97.81726,
+      "lat": 48.63985,
+      "lng": -97.91843,
       "title": "Mountain of broken fridges growing across England and Wales",
       "category": "DISASTER",
       "time": "2026-08-29T00:51:02Z",
@@ -177,31 +199,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c23x8k1ry27o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-disaster-7e1be5fbbe",
-      "lat": 35.61785,
-      "lng": 139.77107,
-      "title": "令和8年8月石川・富山豪雨緊急支援（能登復興ネットワーク）",
-      "category": "DISASTER",
-      "time": "2026-08-29T00:49:07Z",
-      "summary": "令和8年8月石川・富山豪雨緊急支援（能登復興ネットワーク）&nbsp;&nbsp;Yahoo!ネット募金",
-      "source_name": "Yahoo!ネット募金",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CM18yU2tHdm44YUwyLVNOcGV1azJKcE5wMmk3bHYzNlZ4dlc5dEZhLW9ZcmhXS2tGN2txZVJEbUNBZjVjNi0xc0xtN1dBSTJVWjFNSGNB?oc=5"
-    },
-    {
-      "id": "news-disaster-55feebaa9e",
-      "lat": 52.51577,
-      "lng": -1.23895,
-      "title": "The race to stop England running out of water",
-      "category": "DISASTER",
-      "time": "2026-08-29T00:46:00Z",
-      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss"
+      "id": "news-accident-f606acc0e5",
+      "lat": 32.24007,
+      "lng": 70.41184,
+      "title": "米の日本製紙子会社の11人死亡事故 タンクの厚み不足指摘",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T01:17:50Z",
+      "summary": "米の日本製紙子会社の11人死亡事故 タンクの厚み不足指摘&nbsp;&nbsp;NHKニュース",
+      "source_name": "NHKニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wYXA2eVQ1XzVwNjFPY3l5dWlCUmF0VlV1RXJNNF9nRkx1eWQzaXh6Q05RTGFfZDNNUFEyYXJvR2tIQXBxUTlnSEdoTTkxbF9oc3kzTlZtRlhQZWp0eWlB?oc=5"
     },
     {
       "id": "news-accident-994f627033",
-      "lat": -24.74352,
-      "lng": 134.80435,
+      "lat": -24.82581,
+      "lng": 134.73544,
       "title": "オーストラリア ・ライフセービング協会と日本ライフセービング協会で連携。水辺の事故を減らすために、豪日交流基金助成事業『Next Wave』プロジェクトを実施。",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:01Z",
@@ -210,20 +221,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51WG9NSEg4eDVNS3NVQWhZd1ZQMzVqOHdwZUR5YlRyWHNseGRscUNCWlQ2SE12b3loLVpHX0I0MC1abUl1TGRNV0xDa2dQWXk5YTVPelJSVFVxMUJnM2FlOEtUank4RGNfV0E?oc=5"
     },
     {
-      "id": "news-accident-aa0492ae78",
-      "lat": 35.96815,
-      "lng": 140.17904,
-      "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T01:00:00Z",
-      "summary": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hbElSNHhpRk9jZ1NoOHl3RkdWXzFfLVlVMnhUNTV6ZWpndFZsUHRvaFVLWE9mYlA1VjUyel9mcGdlV3l1RGZzTmJ1TU04NnBCbm5rbk9BX2V2dUs4OS1HN1h6ZjRNU1U?oc=5"
-    },
-    {
       "id": "news-accident-1c889a88df",
-      "lat": 35.97395,
-      "lng": 140.14181,
+      "lat": 36.01708,
+      "lng": 140.10881,
       "title": "【法定速度】生活道路は30キロ引き下げ　9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止　懸念は「あおり運転の増加」「タクシーへのクレーム」",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:00Z",
@@ -232,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05M0ktUmlGV0wyNDhad0tmUVVaNkI1ci13OHJKalFFMjgtWlcteTlFNllmN283LWlyODFqN2NYdzN0M01PaVNLMVNjMHlGZDUxUWNBb3dMSGVUelVjMThkNnhZQmRZUGxYVTd3bkJGLUdVdDRibjgxSzlWcErSAYIBQVVfeXFMT05qYnpGNWk3UkNpMXhCc2JSN3Q5Zm5aYml4NDBpdjFNc1Q4bHpQUnc4Q2kwYjF5LU1VR19OV0lKUUlERTZVbjUzRUQ1TTlQa3RvRGFMUkxTZmJ3MWc5WURfRWJka0o0aE9Sd0ljcGxSZDMxT0pkc2M2TzhKMENEdHhkQQ?oc=5"
     },
     {
+      "id": "news-accident-48e0d9ee69",
+      "lat": 36.02089,
+      "lng": 140.149,
+      "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T01:00:00Z",
+      "summary": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fakJvNmJ3Skpxb1JNNTE0MENWMVd5aTEyS2hCY1o4Ukdpa0pRdVZZTTdHSHZmLTRDRmJmT1F5cjFtV1ljTmg1dHR6aUZfWFhDSlhraUlaMk85Y3hDN2Zjd0diWU4?oc=5"
+    },
+    {
       "id": "news-accident-07b073be23",
-      "lat": 51.92785,
-      "lng": 15.51836,
+      "lat": 51.92241,
+      "lng": 15.57091,
       "title": "【ホラー】事故物件に霊がウヨウヨ、でも鈍感ルポライターは気づかない!?事故物件で起こる怪奇現象が笑いに変わるホラーコメディ【作者に聞く】（ウォーカープラス）",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:00Z",
@@ -243,31 +254,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00MnotZlhUa2xzZ2ZUOXFEQm5WUWhZT0N4V3R6YnhMbXhsUG02RGZhZVpfN2FDbEdfZU82VmVMQnVCZXBQWk1MTEhuY09IM0hsRl8zb1Q2eVRGZkstWGdieWwwQkVINmZicFJ4bDhGT2t3R3ZCMV9KYVpHM0ZkQmM?oc=5"
     },
     {
-      "id": "news-accident-510a22c9a1",
-      "lat": 47.67934,
-      "lng": 4.90573,
-      "title": "Man arrested for DUI after crash sets car on fire near Minot",
+      "id": "news-accident-42ae8b3e89",
+      "lat": 36.03141,
+      "lng": 140.11672,
+      "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」 | MBSニュース | 関西の最新ニュースを分かりやすく。",
       "category": "ACCIDENT",
-      "time": "2026-08-29T00:19:00Z",
-      "summary": "Man arrested for DUI after crash sets car on fire near Minot&nbsp;&nbsp;Valley News Live",
-      "source_name": "Valley News Live",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1l1LUhvTXU5VHRWSzFMMGk0a1JmUG01dW1EYWdJVzdhaGtfVUxWZUsyRExTZEdZNlh0MURrbVROMzZXNHRZMUpIeDBFdFJSSV9rekVQRHc2Mkg3NGh6YkFtNzQxaWNQbWNsRi0za1BsOUJGVkJRQVlHZENKLXh2TXhmZnREMHNXeDg1b25HbHF3UnhWRkJpclVnbDc?oc=5"
+      "time": "2026-08-29T01:00:00Z",
+      "summary": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」 | MBSニュース | 関西の最新ニュースを分かりやすく。&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sWWNmY3ZrMnlST2U4a0JpVkY1S1I4bm85aDRwaWt1MTJiMjhlYVVpQkwzS1dhX2x3bkFKR2h1bnFKZkZEVDU4amlZTExOek1vVDRDdGtYYWJ3dw?oc=5"
     },
     {
-      "id": "news-accident-12979c8c61",
-      "lat": 34.97031,
-      "lng": -97.26701,
-      "title": "Two injured in southwest Oklahoma City crash",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T00:11:15Z",
-      "summary": "Two injured in southwest Oklahoma City crash&nbsp;&nbsp;KOKH",
-      "source_name": "KOKH",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5naWEyWlB0cFQyNHMtWk15dTY4MWFHOFRuVWRxTkZfNy1jX0NqOUM5SFMyQVV1Z2ZXdjhZZnEyNU85bUFxZk5ITk9NQUtXLXIzOUVzeXQ4dFI0bWE2czhSOWtrSlpfU3RuaTF5SVRWbk1Xcnh5SHZVenNmOWVfbTA?oc=5"
+      "id": "news-disease-41b3158fb2",
+      "lat": 37.51014,
+      "lng": 126.94686,
+      "title": "脳梗塞のため活動休止》サンド伊達 毎日鼻血、目の焦点合わず、妻から「顔色悪い」の指摘も…半年前に訴えていた“体調の異変”（女性自身",
+      "category": "DISEASE",
+      "time": "2026-08-29T01:18:21Z",
+      "summary": "脳梗塞のため活動休止》サンド伊達 毎日鼻血、目の焦点合わず、妻から「顔色悪い」の指摘も…半年前に訴えていた“体調の異変”（女性自身&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ME84ZllrdFg4Vi1zSmdmYnNzU2oybUlOcXZxY2ppbzRJYk13RmU1N2Ixb2N5QWpwZEVTRks3ZmlqSGxoMkdLV2RxRVM5eHgyWHFKUkliR0FUMWtwTm1VNzNYNGNZa2lSaExsNENaU1doTVVFMUFVTW5GcjExTzg?oc=5"
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.23644,
-      "lng": 140.89926,
+      "lat": 38.31681,
+      "lng": 140.87281,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
       "time": "2026-08-28T23:04:05Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-c304749877",
-      "lat": 34.8898,
-      "lng": 135.13285,
+      "lat": 34.85761,
+      "lng": 135.12993,
       "title": "歯みがきを怠ると口の中が「菌のゴミ屋敷」に！全身の病気リスクも高まる【眠れなくなるほど面白い 図解 口と歯の話】",
       "category": "DISEASE",
       "time": "2026-08-28T21:58:33Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-cd2ab2d092",
-      "lat": 35.7004,
-      "lng": 139.87696,
+      "lat": 35.63505,
+      "lng": 139.89673,
       "title": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む",
       "category": "DISEASE",
       "time": "2026-08-28T21:07:00Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-fbe37cb8c5",
-      "lat": 42.33032,
-      "lng": 141.06036,
+      "lat": 42.35163,
+      "lng": 141.02568,
       "title": "「来週ぐらいには戻ってたら」ソフトバンク山川穂高、右目の感染症療養からファームでの調整再開 実戦復帰は未定",
       "category": "DISEASE",
       "time": "2026-08-28T21:01:04Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-8975ca4b32",
-      "lat": 11.5764,
-      "lng": 104.85235,
+      "lat": 11.54026,
+      "lng": 104.83112,
       "title": "40万～60万円「赤ちゃんヘルメット」は本当に必要？ 絶壁頭矯正で急拡大、ビジネス化も…「病気が見落とされるリスクが」",
       "category": "DISEASE",
       "time": "2026-08-28T20:00:53Z",
@@ -320,20 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBib3p1S2sxdklWQy11VXBOS3pxa3pfNDAzUmFXSmNqQkFrcmFrZW1QSnduNnVjMl9vQlEzTS01TjZpSWFVTS15ek1keVhRcFl4dm0xVzhIMmc2cDZtTGRN?oc=5"
     },
     {
-      "id": "news-disease-45b91e1378",
-      "lat": 3.49018,
-      "lng": 21.68995,
-      "title": "Ebola Vaccine Rollout Begins In DR Congo Amid Continuing Outbreak",
-      "category": "DISEASE",
-      "time": "2026-08-28T16:02:21Z",
-      "summary": "Ebola Vaccine Rollout Begins In DR Congo Amid Continuing Outbreak&nbsp;&nbsp;Forbes",
-      "source_name": "Forbes",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzBZWFE3aXJlZXVtZEFCdHFfbmhDXzIydFoyWHVEdno0aktqQUhyMERTT2NFVmtCRGlmbmNsMnpiXzh4bUl6TmZrVllUdzRTcjBNMWFSRjhXVWlNcHNLckpWTXgxdjNmdllwMTE0OWMzOF8wclk4WVp1aTFERFlRdWYzV2lRR3Z5TldLaThJdHdzN1pnTWh5UEdZX1dZaXR0czEycnE2dFpYY0xrTk91bFF2RWdCLW5tSWpQelpsNA?oc=5"
+      "id": "news-technology-712d4da902",
+      "lat": -8.30126,
+      "lng": 115.54267,
+      "title": "【AI内製化の現場とデータドリブン経営基準】 AI内製化経験者の約9割が、生成AIでのデータ活用・分析に「壁」を実感",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T01:27:22Z",
+      "summary": "【AI内製化の現場とデータドリブン経営基準】 AI内製化経験者の約9割が、生成AIでのデータ活用・分析に「壁」を実感&nbsp;&nbsp;ウイングアーク１ｓｔ",
+      "source_name": "ウイングアーク１ｓｔ",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5raS0teS1VUXVHQmxNRVZ2MWlCSzJ1ZjdWSElDRE9BbmZaRjcyd2Q3eElfcXdzV0lNazdQS1ZGOGNRZlNJWDBsS1pVc2lnblBXZlNCQjJvODRiajZZbm1uSF9B?oc=5"
+    },
+    {
+      "id": "news-technology-573a1e96d8",
+      "lat": -7.65554,
+      "lng": -78.63362,
+      "title": "チームみらい安野党首 入閣は「ニュートラル」 高市総理にAIを“家庭教師”",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T01:12:13Z",
+      "summary": "チームみらい安野党首 入閣は「ニュートラル」 高市総理にAIを“家庭教師”&nbsp;&nbsp;テレ朝NEWS",
+      "source_name": "テレ朝NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45VXI5dWtWNmVfTDZhTF91U3lZeG11VHdZU0tsQmVzVkxtRTR5WUJDZjNFMGhQczNIcXBVdjZCZWg4S0F2NlFZTEF0cGdsMlBiM3RYdWEwdElCeVZtQy0tb2d5T1RNV1hRNGNMY0ZMZjhiQ0E?oc=5"
+    },
+    {
+      "id": "news-technology-89802f7f80",
+      "lat": 40.75577,
+      "lng": -96.64899,
+      "title": "Lincoln Public Schools teaches AI literacy, saying critical thinking, not avoidance, is key to navigating it - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T01:09:00Z",
+      "summary": "Lincoln Public Schools teaches AI literacy, saying critical thinking, not avoidance, is key to navigating it&nbsp;&nbsp;KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYjVuOXBNUWRwQy15ZDdTdXBBS3V5cnJhVV9tTnVZWFk2bGpZRXlIMVBHcUdvNnFkei1iWUJtVWZiVVh0bmxwT2hqQU1fN0dJaHZrS1JYUGt5bFA2M3doNVc3QTNuXy1wRFBSUF9hMUh5SExkQ2pyR0NOUkhhVTlYTGZlazFfdFJLYkh1X0lJM0RlYkltRmR0dTA3M0lZVWI1SW1xcmpxcUxnYzR6UElnNlBkelczYXVkMXpzLVVRTnV4SlI4aXVwXzhtMF80dnVmMGZ2S21tNnRqNUJF?oc=5"
     },
     {
       "id": "news-technology-4190b7ef5a",
-      "lat": 35.70385,
-      "lng": 139.73626,
+      "lat": 35.72484,
+      "lng": 139.71618,
       "title": "文教大学、AIと教員が共創する未来の学校を考える「教育フォーラム」を10/3に開催",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T01:05:04Z",
@@ -343,8 +376,8 @@
     },
     {
       "id": "news-technology-e54d3c5e79",
-      "lat": 43.04164,
-      "lng": 141.3695,
+      "lat": 43.03119,
+      "lng": 141.34903,
       "title": "競馬 - 2026年札幌日刊スポーツ杯 AI予想",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T01:01:27Z",
@@ -354,47 +387,14 @@
     },
     {
       "id": "news-technology-1c2656eae3",
-      "lat": 39.7431,
-      "lng": 141.18772,
+      "lat": 39.69232,
+      "lng": 141.17238,
       "title": "盛岡市長「ＡＩアバター」に 市役所で窓口案内、観光情報を提供 全国初の対話型首長アバター",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T00:59:00Z",
       "summary": "盛岡市長「ＡＩアバター」に 市役所で窓口案内、観光情報を提供 全国初の対話型首長アバター&nbsp;&nbsp;岩手日報",
       "source_name": "岩手日報",
       "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBySWROVmI3bU9tRnhXbWIxVG9hMFo1ZjR5N3RrNndsd0daZ2drV215VFdueThmMWpIeV8zWVl4aHVqTW9ZX2E0ZmVNcTBiS2g1cGUxdUFucDdsUlFYQ0Jodg?oc=5"
-    },
-    {
-      "id": "news-technology-28d3d506f0",
-      "lat": 34.37502,
-      "lng": -111.72627,
-      "title": "Arizona Supreme Court rejects courtroom AI ban, opting to ‘test it and watch closely’",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T00:35:00Z",
-      "summary": "Arizona Supreme Court rejects courtroom AI ban, opting to ‘test it and watch closely’&nbsp;&nbsp;KOLD",
-      "source_name": "KOLD",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHdtN0dPZklGMUdsUWZYNFY1WVRIdHQtUUkxTFF3Z3NsM0t2YllnZHpkNUVPcFV6RmlSRVI0MUZ6ZHhLanVKMlBsV0pXbkl6ZFNnMldJeDhFR1V4NkRFVUJJemt4cU1fa2psbmtwVHhhalpfTHVDVlFDN0VqejVVc1ZST25iM21iSzc0N1NtTUVkM19XeXVIUkRlZmozdk5NUVFGMldFRFpGQkt20gHAAUFVX3lxTE1TNEJuV05kNEVWQnhBZVhDWWZMNzB2NXNrUUhtT2NhSm9rVGZjaW41WXRVdGFrSzJxT3pwU0FNWmV1NEN3NlNmcVV6XzVpV2t0YklqLTUzd0ViMTAtZERrOVY4Zld3bUFSUXVOSGRzNHY4YXJMRDlNcjFpZEJETVlsTTNzSjUwREJYdlFoSGtEYzRFZTJEMlVpRkE5NjU1bm1HSmZhYzh4TG9EdS04OENfZEgxR3hpT2NTbGxMaUFoNw?oc=5"
-    },
-    {
-      "id": "news-technology-f98426229a",
-      "lat": 30.09796,
-      "lng": -99.26484,
-      "title": "Should AI be banned from the classroom?",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T00:34:20Z",
-      "summary": "Should AI be banned from the classroom?&nbsp;&nbsp;ABC15 Arizona",
-      "source_name": "ABC15 Arizona",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UelJfQzJ6LWw2dDhKUERFVk1Tekw5eEhYdWRxdjdEZVRzMkVXcDBxQk1NdjFsS0tDb3dibEhnbmFXYlVrNEQ3MkdIalg5TTBjOXg3UjNkcUgzT0Uzb0JDM0RobWZtZ19BMkRR?oc=5"
-    },
-    {
-      "id": "news-technology-24ac698ebf",
-      "lat": 30.04529,
-      "lng": -99.29106,
-      "title": "Should AI be banned from the classroom?",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T00:34:20Z",
-      "summary": "Should AI be banned from the classroom?&nbsp;&nbsp;KSBY News",
-      "source_name": "KSBY News",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZOE5kSU1BWFI3VnRubnZ4Ui0wUnNWMktWQXJJTWZZSFg5Z0NuRGZWMnFtdlRXQ1lJUGdNckxSWFJhN2VUTDhPdnUxMzVaeURLa19UZW8tbjVuM0UtWlJKYnZ6QXZXQUo0WkE?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T01:18:29Z"
+  "updated_at": "2026-08-29T01:33:37Z"
 }
