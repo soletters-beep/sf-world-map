@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-b54a86dde9",
+      "lat": 40.68484,
+      "lng": -73.95714,
+      "title": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel",
+      "category": "POLITICS",
+      "time": "2026-08-29T01:40:28Z",
+      "summary": "Judge Rules Trump Unlawfully Targeted Stanford Students Who Criticized Israel&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnI2ZEVpMkNqOHFhMnU5MDBRMmdfdFFCMkpCS3FRTW4wM3JDOG1wenVQVjlNcGlpT1dDeFRvWkRwTmtPdzk5M0Z2blIxRWVZcVJ2QjYtZUh2TFB3VlBpdHhHMzJmeHdaOVRTclBDQnd5aVR0MmpZUTJFZGJXSUtMS3JsUVdERkxoZURVUVhYOEhlUVpLWmZFUTAtNA?oc=5"
+    },
+    {
+      "id": "news-politics-d4cab06f46",
+      "lat": 35.62898,
+      "lng": 139.60031,
+      "title": "暴露系Ｘアカウント創業者、アイドル活動再開と政界進出表明…過去には父は政治家と自称（日刊スポーツ）",
+      "category": "POLITICS",
+      "time": "2026-08-29T01:37:15Z",
+      "summary": "暴露系Ｘアカウント創業者、アイドル活動再開と政界進出表明…過去には父は政治家と自称（日刊スポーツ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbV8ybmxEcERTeld5RXdIdXdBTEFGcW94RXRLRUEtRm15S3JocXNTWVRkZ3kxR2NxMVR1WEhlR016UHRWdXpGbS1VTGZuTkp5LWtwTlpGaFJLWjhNR2JNT3VPUUVjNW5fZTRBLUMwQUxJTFJWREFDczdXazRhc0U?oc=5"
+    },
+    {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.64599,
-      "lng": -76.64342,
+      "lat": 39.66741,
+      "lng": -76.60007,
       "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-29T01:21:43Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-76c313ff41",
-      "lat": 8.35524,
-      "lng": 49.06951,
+      "lat": 8.31272,
+      "lng": 49.14043,
       "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
       "category": "POLITICS",
       "time": "2026-08-29T01:14:13Z",
@@ -23,9 +45,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-politics-848172b147",
+      "lat": 38.89412,
+      "lng": -76.98425,
+      "title": "Trump announces creation of U.S. Space Academy",
+      "category": "POLITICS",
+      "time": "2026-08-29T01:00:00Z",
+      "summary": "Trump announces creation of U.S. Space Academy&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFUtQVk0bUY2TGZKSG10SkdhLWdiNzJUN0x0RE94a3lzdS1BTG54aG1XaDQxZTI3WUJkMHZBNlVNRUZiOTZTMlczVFB0X0UyVWNtZWpsQTJETTk1VFdRUTdXV2o3Z3RBS3NucGdPMC1iWWNSeFM3cFRZWUlZUlBfNlFGZG5zTzZFYW1ycTZsdmV1ZnFfYUM5Sw?oc=5"
+    },
+    {
       "id": "news-politics-9ecbee51c6",
-      "lat": 51.66246,
-      "lng": -9.52078,
+      "lat": 51.68964,
+      "lng": -9.55692,
       "title": "Close race as Iceland votes on whether to restart talks on joining EU",
       "category": "POLITICS",
       "time": "2026-08-29T00:56:19Z",
@@ -34,42 +67,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-67a69b3950",
-      "lat": 39.68417,
-      "lng": -76.62898,
-      "title": "Trump, Beef & Ballots",
-      "category": "POLITICS",
-      "time": "2026-08-29T00:50:06Z",
-      "summary": "Trump, Beef & Ballots&nbsp;&nbsp;Houston Public Media",
-      "source_name": "Houston Public Media",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3NJSlN0S2VXdGFlaS0tbUl2S3dTOEFwTTliajZncTE4Wk5Ic2ZSZnZ1TzZNdUxfMzkzVVRIclJENW9QZkVNUy1STnlsYi1JelM1LXhUbWk0amRSeEFHb3VyaEp3OGRYY0FFOFFVU3RzTzA4OVFXLXZUWDIxMUluRTV0SXJUYVFMUUhVcjF2SDJYNVJqWU5qb1JZTDB6NU82ZkpaNNIBrAFBVV95cUxOT1J0UV8yNThULUFqdXdqSlMwcFdaaERWY3VjOWFna0tOMFNCMVVRRzZDcUpVN29qT1hreFRSNGJzU29sTW9FYjJXb1NzZ093NFhEMFBFbE95TEZJd1dwRWIzbGRyOWFCMXFzZzhnNk92eWFMX05menJBb09GOTZTZk1hdElOZWhpY1hTTkh0TUpISHlVVi00SklRLXZIMUE4SG9vWHVXcjhRZFhQ?oc=5"
-    },
-    {
-      "id": "news-politics-348c8a3a74",
-      "lat": 51.43537,
-      "lng": 6.80855,
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "category": "POLITICS",
-      "time": "2026-08-29T00:46:02Z",
-      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-aab599e4fd",
-      "lat": 47.19673,
-      "lng": -71.84448,
-      "title": "Jelly Roll Clarifies Political Views, Regrets Not Taking “Opportunity to Speak Up” at Grammys",
-      "category": "POLITICS",
-      "time": "2026-08-29T00:43:22Z",
-      "summary": "Jelly Roll Clarifies Political Views, Regrets Not Taking “Opportunity to Speak Up” at Grammys&nbsp;&nbsp;hollywoodreporter.com",
-      "source_name": "hollywoodreporter.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVdDeVZfY1ZhODBpVXdqbUlELVBZY1pHMU9feFY3dGIzeWxxUHRlNjlLMHZCelF3YWZZNEk1a25Gc3BqWlhJMnRGYVU2cGRwaGVqREV0NUl3bFhGNUdhV3MtUlRrNFRyUzc3eWtoTHl5aExPSWc5V0ZWOXZqYUU0Um1YckxDc2I3bTUyV2VxbUtXbHhzZkVQM3NiQkJXQ0dXaERKV2REM08zSUpLakFCNlR4MA?oc=5"
-    },
-    {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.64413,
-      "lng": -76.57219,
+      "lat": 39.70466,
+      "lng": -76.6341,
       "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T01:21:43Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-eb16c172c5",
-      "lat": -33.86057,
-      "lng": 151.23477,
+      "lat": -33.89631,
+      "lng": 151.22383,
       "title": "Is Visa’s AI Cybersecurity and New Markets Push Reshaping the Investment Case for Visa (V)?",
       "category": "FINANCE",
       "time": "2026-08-29T01:07:00Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-2e507b41e9",
-      "lat": 25.20262,
-      "lng": 55.29398,
+      "lat": 25.16125,
+      "lng": 55.22671,
       "title": "ドバイ安全神話の崩壊 世界の金融ハブが直面する地政学リスク（TBS CROSS DIG with Bloomberg）",
       "category": "FINANCE",
       "time": "2026-08-29T01:00:35Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-5765688cc0",
-      "lat": 32.60883,
-      "lng": 54.51794,
+      "lat": 32.58867,
+      "lng": 54.55491,
       "title": "イラン指導部「金融の生命線」、トランプ政権が経済制裁の対象に…エジプト大手ミスル銀行のＵＡＥの支店",
       "category": "FINANCE",
       "time": "2026-08-29T00:50:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-fe76d07684",
-      "lat": 31.21195,
-      "lng": -84.7693,
+      "lat": 31.15042,
+      "lng": -84.78172,
       "title": "Miller Industries Reaffirms 2026 Outlook, Eyes $200M-Plus Military Production Pipeline",
       "category": "FINANCE",
       "time": "2026-08-29T00:01:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-bdd1ffa319",
-      "lat": 36.06552,
-      "lng": -115.27667,
+      "lat": 36.08247,
+      "lng": -115.2872,
       "title": "‘DraftKings Is Not a Blessing to Your Life’: Dave Ramsey to Gambler 31 Days Sober and $23K in Debt",
       "category": "FINANCE",
       "time": "2026-08-28T23:56:32Z",
@@ -133,9 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkFyYkZxSlFTeTQ2cWNJVzlWRmNObnRVNXVDWllXMmctU1JWT2xCRW5ub0JmcVVpYWE1d1JvXzFETmxSVUo5WE84YklobkF5Nkg0OU9WRVY2LWp0WkhxM2hwelduQm5rLXBjYk56TU0yV1BndEprdUExallfazltTjFBSW5rMWpuX0JhTm1lNFN0c0tmcmI5bDdmSDFiWkU?oc=5"
     },
     {
+      "id": "news-disaster-6699a6c2ff",
+      "lat": 32.73857,
+      "lng": 130.7091,
+      "title": "熊本地震 日奈久断層帯未破壊の領域も地震活動活発 地震予知連",
+      "category": "DISASTER",
+      "time": "2026-08-29T01:49:04Z",
+      "summary": "熊本地震 日奈久断層帯未破壊の領域も地震活動活発 地震予知連&nbsp;&nbsp;NHKニュース",
+      "source_name": "NHKニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrbHVBWTFSU0xfWjZqa3RLWWhKNkpqSnhQUThZS0RlcnZWU1J6NXhwOG9YZ3E0clRiOEI4WnZHbmg2c1NFWk4yN2xtb2F6LXVJOUktcDdfTWVEaTlTLWVB?oc=5"
+    },
+    {
+      "id": "news-disaster-d81586791d",
+      "lat": 33.74993,
+      "lng": 130.43621,
+      "title": "【土壌雨量指数】少雨でも土砂災害おそれ 土壌中に大量の水分残る 県西部29日夕方まで土砂災害警戒 氷見は降り始めから488.0mm観測 富山【雨のシミュレーション】",
+      "category": "DISASTER",
+      "time": "2026-08-29T01:27:00Z",
+      "summary": "【土壌雨量指数】少雨でも土砂災害おそれ 土壌中に大量の水分残る 県西部29日夕方まで土砂災害警戒 氷見は降り始めから488.0mm観測 富山【雨のシミュレーション】&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQdkxPdDZxLUM1QUpUaG02cVdRMHNoUEhQVjlGeVRXX1p5TFdXQTNOQ3R3bEFRNGNRb1hmN21YMVRPNmhqR3k2dUZqMkdlb3VhX1hDeGVlLUw2UQ?oc=5"
+    },
+    {
       "id": "news-disaster-6d2b79419f",
-      "lat": 36.47867,
-      "lng": -116.88691,
+      "lat": 36.41855,
+      "lng": -116.93515,
       "title": "Death toll from catastrophic flood in Napal continues to rise",
       "category": "DISASTER",
       "time": "2026-08-29T01:20:00Z",
@@ -145,8 +167,8 @@
     },
     {
       "id": "news-disaster-73ea3c4924",
-      "lat": 36.67785,
-      "lng": -118.7905,
+      "lat": 36.69716,
+      "lng": -118.69604,
       "title": "California couple recounts surviving deadly Nepal flood: \"I knew I was going to die\"",
       "category": "DISASTER",
       "time": "2026-08-29T01:05:00Z",
@@ -155,9 +177,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTWw0NDZGdFZGRTcwOUk2eWFmY2hHR2o4WFA1WnBFNVFsVFZDa0xlcmhlRnBEbjNScnlUd0ozaGtwNUFqUTU4cGpqM0U1ejkzR3N3N2F4S2FyZFFPSzlxM09KenplUkQwZTRDX1hSc3ZWYWZKdHhNcGFDdDlBUWV2eQ?oc=5"
     },
     {
+      "id": "news-disaster-fa6240634b",
+      "lat": 50.61149,
+      "lng": -4.22565,
+      "title": "Nearly 2,000 people missing in Nepal flood disaster",
+      "category": "DISASTER",
+      "time": "2026-08-29T01:02:17Z",
+      "summary": "Nearly 2,000 people missing in Nepal flood disaster&nbsp;&nbsp;WPSD Local 6",
+      "source_name": "WPSD Local 6",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcUdpMEZYMUhOSlpseTg3ZEdlblY5eFBwYW1wNnBma0R5OWxaMVpPbG9hWEQ0aC1Ibk0ydkJ4TEFIZTRFQVVJVlo5M01mdDVHSEtNNnhJSWVZWFgzZ19BRHFkOGVxQlBkZXQzMDFfbWxzcWtYd2F1eVlheXZWWk9ZNGtzcDdmNlV2UW5iVDJwR3BvaDBtanBCbjMxenpJRG9FbkNtS0FOeHRkNGhwbFROd2J1WHpuMktITFlReldvU1Bta2Y3T2gycXZn?oc=5"
+    },
+    {
       "id": "news-disaster-6ca9a49d8a",
-      "lat": 35.05297,
-      "lng": 135.78664,
+      "lat": 35.05672,
+      "lng": 135.72877,
       "title": "シニア世代は「災害」とどう向かうべきなのか 「万が一」に備え「鍵」は日常的な交流（京都新聞）",
       "category": "DISASTER",
       "time": "2026-08-29T01:00:35Z",
@@ -166,42 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OU292b09TZ2VFWTVOaEtPeldiT2NrenpBaEJDeG81NmtsNlQxdEZ0dkx3LW5DbE9NY1A3RGJ1RnR4akw5Y0RMMVZ5RnVnMVdCTEROXzFmVFJ6MktxQTR1dlEzVnNrZG9TUlRvMzkyaW5MVmRhNE10aWptYVh4MDg?oc=5"
     },
     {
-      "id": "news-disaster-cfdcb3f5db",
-      "lat": 32.74747,
-      "lng": 130.72335,
-      "title": "気仙沼市、熊本地震で被害の御船町に職員派遣 住居被害調査など支援（朝日新聞）",
-      "category": "DISASTER",
-      "time": "2026-08-29T01:00:00Z",
-      "summary": "気仙沼市、熊本地震で被害の御船町に職員派遣 住居被害調査など支援（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84RTBqOXp4bmxLWXEzQmdETjhJelJxRDIzX0RQNzY2SkNieGpZdF9pNHJ3VnFId3Vyb0o1YndjQ2hCSl8ySG5mdzlMRTUxQm1xMU04R2I5QXBXeHFjd1pmXzQyeEpuYVdlU3BIdE05YTZLblVsek84QjkwbFNhZG8?oc=5"
-    },
-    {
-      "id": "news-disaster-1b42aff44a",
-      "lat": 46.1881,
-      "lng": -1.20275,
-      "title": "Flash Flood Warning issued for Zion National Park, Gould Wash, Hurricane",
-      "category": "DISASTER",
-      "time": "2026-08-29T00:58:38Z",
-      "summary": "Flash Flood Warning issued for Zion National Park, Gould Wash, Hurricane&nbsp;&nbsp;KUTV",
-      "source_name": "KUTV",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWpac3BuRE1KUjFHVG5FS3RpX3pCeUtYSS1IbUpLWHhZYjl1ZHRYTDJ2MDJkVjE0c0hPWVNRSWI3NW5HUERkdEwweE9VdEJvNHphb1BfM0xqM1NRM3lSQUNzWnlSUDRabHc3T3BKQ0swV0dBVlNPbDRvTzVoYkNNRko2bURxakt4bnl6UEFRdmd5Z09zV09MRzN3U3U3NFE?oc=5"
-    },
-    {
-      "id": "news-disaster-819ca65d68",
-      "lat": 33.1642,
-      "lng": -92.3787,
-      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
-      "category": "DISASTER",
-      "time": "2026-08-29T00:53:13Z",
-      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "id": "news-accident-f606acc0e5",
-      "lat": 32.17663,
-      "lng": 70.401,
+      "lat": 32.16962,
+      "lng": 70.4096,
       "title": "米の日本製紙子会社の11人死亡事故 タンクの厚み不足指摘",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:17:50Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-f7113947a0",
-      "lat": 59.52753,
-      "lng": 30.14465,
+      "lat": 59.49954,
+      "lng": 30.20128,
       "title": "Crash closes Hwy 26 east of Hwy 103 junction in Clatsop State Forest",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:12:00Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-e7192ab556",
-      "lat": 36.02706,
-      "lng": 140.15984,
+      "lat": 36.00862,
+      "lng": 140.11322,
       "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に?期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:35Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-994f627033",
-      "lat": -24.74706,
-      "lng": 134.75788,
+      "lat": -24.80826,
+      "lng": 134.76182,
       "title": "オーストラリア ・ライフセービング協会と日本ライフセービング協会で連携。水辺の事故を減らすために、豪日交流基金助成事業『Next Wave』プロジェクトを実施。",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:01Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-07b073be23",
-      "lat": 51.93809,
-      "lng": 15.5332,
+      "lat": 51.87715,
+      "lng": 15.54706,
       "title": "【ホラー】事故物件に霊がウヨウヨ、でも鈍感ルポライターは気づかない!?事故物件で起こる怪奇現象が笑いに変わるホラーコメディ【作者に聞く】（ウォーカープラス）",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-42ae8b3e89",
-      "lat": 36.03204,
-      "lng": 140.09131,
+      "lat": 35.9632,
+      "lng": 140.17949,
       "title": "【法定速度】生活道路は30キロ引き下げ 9/1から60キロ超で一発免停に？期待される“裏道使い”抑止・死亡事故抑止 懸念は「あおり運転の増加」「タクシーへのクレーム」 | MBSニュース | 関西の最新ニュースを分かりやすく。",
       "category": "ACCIDENT",
       "time": "2026-08-29T01:00:00Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-41b3158fb2",
-      "lat": 37.52495,
-      "lng": 126.89841,
+      "lat": 37.55955,
+      "lng": 126.95957,
       "title": "脳梗塞のため活動休止》サンド伊達 毎日鼻血、目の焦点合わず、妻から「顔色悪い」の指摘も…半年前に訴えていた“体調の異変”（女性自身",
       "category": "DISEASE",
       "time": "2026-08-29T01:18:21Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-d03c0456f2",
-      "lat": 38.31739,
-      "lng": 140.81776,
+      "lat": 38.24889,
+      "lng": 140.89757,
       "title": "「早期発見できればほぼ100％近く治る病気」大腸がん 初期症状と最新手術＜宮城・仙台市＞（ミヤギテレビ）",
       "category": "DISEASE",
       "time": "2026-08-28T23:04:05Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-c304749877",
-      "lat": 34.894,
-      "lng": 135.22333,
+      "lat": 34.89526,
+      "lng": 135.18164,
       "title": "歯みがきを怠ると口の中が「菌のゴミ屋敷」に！全身の病気リスクも高まる【眠れなくなるほど面白い 図解 口と歯の話】",
       "category": "DISEASE",
       "time": "2026-08-28T21:58:33Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-cd2ab2d092",
-      "lat": 35.63632,
-      "lng": 139.82844,
+      "lat": 35.67224,
+      "lng": 139.89664,
       "title": "【保護犬】高齢と病気で捨てられた犬、心優しいカップルに引き取られ温かな家族の絆を育む",
       "category": "DISEASE",
       "time": "2026-08-28T21:07:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-fbe37cb8c5",
-      "lat": 42.4171,
-      "lng": 141.08463,
+      "lat": 42.3394,
+      "lng": 141.01754,
       "title": "「来週ぐらいには戻ってたら」ソフトバンク山川穂高、右目の感染症療養からファームでの調整再開 実戦復帰は未定",
       "category": "DISEASE",
       "time": "2026-08-28T21:01:04Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-8975ca4b32",
-      "lat": 11.5684,
-      "lng": 104.84798,
+      "lat": 11.52244,
+      "lng": 104.8305,
       "title": "40万～60万円「赤ちゃんヘルメット」は本当に必要？ 絶壁頭矯正で急拡大、ビジネス化も…「病気が見落とされるリスクが」",
       "category": "DISEASE",
       "time": "2026-08-28T20:00:53Z",
@@ -331,9 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBib3p1S2sxdklWQy11VXBOS3pxa3pfNDAzUmFXSmNqQkFrcmFrZW1QSnduNnVjMl9vQlEzTS01TjZpSWFVTS15ek1keVhRcFl4dm0xVzhIMmc2cDZtTGRN?oc=5"
     },
     {
+      "id": "news-technology-833efc5067",
+      "lat": 35.68889,
+      "lng": 139.75393,
+      "title": "【配信版①】エヌビディア 80兆円“ツケ払い”！？／中国製AI「Kimi K3」の衝撃 米中開発競争は消耗戦へ？【橋本幸治の理系通信】",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T02:00:00Z",
+      "summary": "【配信版①】エヌビディア 80兆円“ツケ払い”！？／中国製AI「Kimi K3」の衝撃 米中開発競争は消耗戦へ？【橋本幸治の理系通信】&nbsp;&nbsp;テレ東BIZ",
+      "source_name": "テレ東BIZ",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YM1IyRmNMa3ZHek9oajJIWDB6cnBLYmRIUFhkN2FYdkZYUE1HdXVPeHVQYjJUOTdVSjZ2YXYwa1g0aDVycXZJXzg1OURQcXJKZWNERjVqYUsxSTcyaVlJ?oc=5"
+    },
+    {
+      "id": "news-technology-0505cb5ced",
+      "lat": 35.6603,
+      "lng": 139.77519,
+      "title": "【配信版②】エヌビディアの牙城を崩す！プリファードのAI半導体とは？／世界シェアトップ目指すキオクシアの超高速SSDとは？キーマンに直撃！【橋本幸治の理系通信】",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T02:00:00Z",
+      "summary": "【配信版②】エヌビディアの牙城を崩す！プリファードのAI半導体とは？／世界シェアトップ目指すキオクシアの超高速SSDとは？キーマンに直撃！【橋本幸治の理系通信】&nbsp;&nbsp;テレ東BIZ",
+      "source_name": "テレ東BIZ",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wdURTRm81TjFuY0cwYm5GcGtZQm5YdlgweDBRTDQ3MmkyVEpkb2FoRHNnWS1YdTM1SFE4NlV5cDI2R0J0YUczbmZ5MERMTmVxSXA1dGpCbGpZZk5VbkdJ?oc=5"
+    },
+    {
       "id": "news-technology-f3ec9dcc58",
-      "lat": 34.60346,
-      "lng": 133.88941,
+      "lat": 34.5632,
+      "lng": 133.90111,
       "title": "米タイム誌「2026年AI最重要100人」発表 黄仁勳氏、蘇姿丰氏がまさかの落選",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T01:35:00Z",
@@ -343,8 +365,8 @@
     },
     {
       "id": "news-technology-712d4da902",
-      "lat": -8.39196,
-      "lng": 115.56943,
+      "lat": -8.33023,
+      "lng": 115.62249,
       "title": "【AI内製化の現場とデータドリブン経営基準】 AI内製化経験者の約9割が、生成AIでのデータ活用・分析に「壁」を実感",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T01:27:22Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-a5e79d7b5c",
-      "lat": 38.92056,
-      "lng": -77.07614,
+      "lat": 38.85807,
+      "lng": -77.0265,
       "title": "Opinion | The Pentagon loses a battle in its unnecessary war with Anthropic",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T01:22:43Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-e82b3490cb",
-      "lat": -7.61749,
-      "lng": -78.6843,
+      "lat": -7.64479,
+      "lng": -78.59408,
       "title": "チームみらい安野党首 入閣は「ニュートラル」 高市総理にAIを“家庭教師”（テレビ朝日系（ANN））",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T01:17:58Z",
       "summary": "チームみらい安野党首 入閣は「ニュートラル」 高市総理にAIを“家庭教師”（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14WkF6ay1vSU1LRXlkbUxCU0xwUnp3ZEdaUXIzSkdGREE5ZWZPYmZSMjFsWDltRmlNZi0yRFRmVVF4eW9DVnQxOHZOZWhodkNTUmpXZ2U4b2hhZ1RQSjFIS0p4OGFoM0h1dklJSEdnNWhTTk9iMHVQWF9SVFdlSE0?oc=5"
-    },
-    {
-      "id": "news-technology-89802f7f80",
-      "lat": 40.75123,
-      "lng": -96.70379,
-      "title": "Lincoln Public Schools teaches AI literacy, saying critical thinking, not avoidance, is key to navigating it - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T01:09:00Z",
-      "summary": "Lincoln Public Schools teaches AI literacy, saying critical thinking, not avoidance, is key to navigating it&nbsp;&nbsp;KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYjVuOXBNUWRwQy15ZDdTdXBBS3V5cnJhVV9tTnVZWFk2bGpZRXlIMVBHcUdvNnFkei1iWUJtVWZiVVh0bmxwT2hqQU1fN0dJaHZrS1JYUGt5bFA2M3doNVc3QTNuXy1wRFBSUF9hMUh5SExkQ2pyR0NOUkhhVTlYTGZlazFfdFJLYkh1X0lJM0RlYkltRmR0dTA3M0lZVWI1SW1xcmpxcUxnYzR6UElnNlBkelczYXVkMXpzLVVRTnV4SlI4aXVwXzhtMF80dnVmMGZ2S21tNnRqNUJF?oc=5"
-    },
-    {
-      "id": "news-technology-4190b7ef5a",
-      "lat": 35.65655,
-      "lng": 139.81525,
-      "title": "文教大学、AIと教員が共創する未来の学校を考える「教育フォーラム」を10/3に開催",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T01:05:04Z",
-      "summary": "文教大学、AIと教員が共創する未来の学校を考える「教育フォーラム」を10/3に開催&nbsp;&nbsp;教育家庭新聞社",
-      "source_name": "教育家庭新聞社",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyd1R2TDV4dDFCR251dmw2WjJfQ2x0VmVWaUxVaW9oVnRaQnBXeDhGSTNNcEtjYkRGWU5XVXpWNTJpa0hnc0FiQi1sV1daT1kzQVM4?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T01:48:16Z"
+  "updated_at": "2026-08-29T02:03:37Z"
 }
