@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-c06ee050ab",
+      "lat": 39.64712,
+      "lng": -76.57649,
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "category": "POLITICS",
+      "time": "2026-08-29T14:18:11Z",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-73b61e585a",
-      "lat": 34.95439,
-      "lng": 138.32381,
+      "lat": 34.92586,
+      "lng": 138.36758,
       "title": "2026年8月29日は、１．2026連合静岡政治連盟政治セミナーに参加",
       "category": "POLITICS",
       "time": "2026-08-29T14:02:12Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-b70bce25ca",
-      "lat": 50.4644,
-      "lng": 30.53536,
+      "lat": 50.49574,
+      "lng": 30.51199,
       "title": "Deadly strike on Kyiv warehouse prompts evacuations",
       "category": "POLITICS",
       "time": "2026-08-29T13:55:55Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-fad1a8539f",
-      "lat": 30.77037,
-      "lng": 34.87717,
+      "lat": 30.80959,
+      "lng": 34.8057,
       "title": "Israel’s opposition needs an answer for the day after Benjamin Netanyahu",
       "category": "POLITICS",
       "time": "2026-08-29T13:49:30Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-9188fcdc7f",
-      "lat": 38.9473,
-      "lng": -76.98251,
+      "lat": 38.85551,
+      "lng": -77.0869,
       "title": "This Appalachian memoir author is running as a Democratic contrast to JD Vance",
       "category": "POLITICS",
       "time": "2026-08-29T13:32:42Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-6a30e4823a",
-      "lat": 38.95665,
-      "lng": -76.97828,
+      "lat": 38.96427,
+      "lng": -77.049,
       "title": "How states’ fight over an ICE agent could open a new political battleground",
       "category": "POLITICS",
       "time": "2026-08-29T13:30:07Z",
@@ -56,31 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdXZpUGhJTjdORUF2ckFTcWdUVjE1akdfRGhJVkdMUmJHelducnZfT1R3V1Q2ZlhlSy1Ta1htOHc5ejEyVVJVMnd4aUdpWFB4UkFCc3M3N1B5SWRUcTc0Z2V6dDBySUg5b2ZzRFh0NGhGNXFpWDhzSEFqemM3NDFZTVVUQ0ZObTZXWXRERERRdjBKOXlBZ3FkVTFFYldlVDBPYmNIbkhnUy1iaU5pd29iNFB1ZEh6S21VVWdPNDQtQzk?oc=5"
     },
     {
-      "id": "news-politics-4e84f3a4ac",
-      "lat": 32.76823,
-      "lng": 129.90877,
-      "title": "「減税メガネ」佐藤沙織里都議、突然の議員辞職表明「命を優先。今を生きる」任期3年残し（産経新聞）",
-      "category": "POLITICS",
-      "time": "2026-08-29T13:28:06Z",
-      "summary": "「減税メガネ」佐藤沙織里都議、突然の議員辞職表明「命を優先。今を生きる」任期3年残し（産経新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wWnhFMk5rX3h4Wi1wZkFCVG52cnJnYWw4MUdJSGtrSnM4WW94REhUWXdFTzdOZWxtVGMweUxVRExnbDhuTHhNSmRGamJ2eW02WUdRUklwbkVLTkY0OG02aDhsd1JLbDFQNFdPTEZrbUJ6YW5KNmpCanpQVkFoR1U?oc=5"
-    },
-    {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.63265,
-      "lng": -76.57877,
+      "lat": 39.67994,
+      "lng": -76.54684,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
-      "time": "2026-08-29T13:16:43Z",
+      "time": "2026-08-29T14:18:11Z",
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "news-finance-7caf4c0542",
-      "lat": 31.95453,
-      "lng": 118.53198,
+      "lat": 32.0334,
+      "lng": 118.52777,
       "title": "TSMC vs. ASML: Which Semiconductor Giant Is the Better Stock Buy?",
       "category": "FINANCE",
       "time": "2026-08-29T13:05:00Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-6304ba573f",
-      "lat": 45.75042,
-      "lng": 4.85222,
+      "lat": 45.73413,
+      "lng": 4.90831,
       "title": "Interface Eyes Growth as One Interface Strategy Targets Commercial Flooring Share",
       "category": "FINANCE",
       "time": "2026-08-29T13:01:54Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-24bb604985",
-      "lat": 34.98723,
-      "lng": 136.58856,
+      "lat": 34.98268,
+      "lng": 136.56044,
       "title": "AI半導体で業績拡大続くキオクシアとアドバンテスト、株価乱高下でも成長期待根強い",
       "category": "FINANCE",
       "time": "2026-08-29T12:55:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-1bda4653f6",
-      "lat": 38.26064,
-      "lng": 140.94358,
+      "lat": 38.3134,
+      "lng": 140.89263,
       "title": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）",
       "category": "FINANCE",
       "time": "2026-08-29T12:53:42Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-009b9b5a1d",
-      "lat": 34.99712,
-      "lng": 136.62543,
+      "lat": 35.06449,
+      "lng": 136.59043,
       "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目（ダイヤモンド・ザイ）",
       "category": "FINANCE",
       "time": "2026-08-29T12:20:32Z",
@@ -133,9 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQThNMzVwTHYwc1FmLW5YY1MzNDFfNnJTdW90SS1UQmtFdGhYZlRSakdzSXM1TmVYYjhKSmpLVTl4YnZjRzUzdEZSb3JuN3NJdGtFWk81cTdJbHZkOVU5UWRTR0hEUTVobE15MWRtSHVQTFh0cTlpS1R6VTJEMlU?oc=5"
     },
     {
+      "id": "news-disaster-8fff8695f3",
+      "lat": 52.88906,
+      "lng": -1.22481,
+      "title": "Search efforts continue as deaths pass 600 in Nepal flood disaster",
+      "category": "DISASTER",
+      "time": "2026-08-29T14:12:24Z",
+      "summary": "Search efforts continue as deaths pass 600 in Nepal flood disaster&nbsp;&nbsp;Yahoo",
+      "source_name": "Yahoo",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTnZSNEVRbFNsWURqOWhqdGZ5V2djT0JqSjJraHdHcDU3T0lpanNaUjlXdlRKbXlxdkt2bWU1dllTTllqaDljQnpLaWY4aWpNYWJNQ052Sno4bkxPWE5XRmt5amJVWlJiTEdiTDBYWWRiMS1jVmhHcl93VHpaTVkxeGFZcVVEUk1zakg5LVU0YVdpSHg5cUJF?oc=5"
+    },
+    {
       "id": "news-disaster-31d8e3f635",
-      "lat": 35.55916,
-      "lng": 139.43567,
+      "lat": 35.57856,
+      "lng": 139.48598,
       "title": "【台風情報】台風23号（バンラン）ウェーク島近海を北東へ（29日午後9時現在）【雨風シミュレーション:8月30日〜】（tbc東北放送）",
       "category": "DISASTER",
       "time": "2026-08-29T14:07:14Z",
@@ -144,20 +155,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xN1JlN1VBSEg0VmE0R25BWTJ6NG5lWDNpX0pWVXU4LWs1UTB3dmJROHd3ckV4YzV6Q08xVGstSWpkSVd2LVliOXlkSXJTdUNqRTV6UnhIbjVqclJ5RmdrYk55bFNpZHFYb2p5T0ZfdDMtT2VRSXNCd3V1WmVqX1E?oc=5"
     },
     {
-      "id": "news-disaster-94dc51071f",
-      "lat": 35.57682,
-      "lng": 139.47962,
-      "title": "【台風情報】台風23号（バンラン）ウェーク島近海を北東へ（29日午後9時現在）【雨風シミュレーション：8月30日～】",
+      "id": "news-disaster-6afd1f4246",
+      "lat": 32.75884,
+      "lng": 130.74729,
+      "title": "熊本県で最大震度2の地震 熊本県・熊本南区、八代市、宇土市、宇城市、上天草市、芦北町",
       "category": "DISASTER",
-      "time": "2026-08-29T13:45:00Z",
-      "summary": "【台風情報】台風23号（バンラン）ウェーク島近海を北東へ（29日午後9時現在）【雨風シミュレーション：8月30日～】&nbsp;&nbsp;TBS NEWS DIG",
+      "time": "2026-08-29T13:46:00Z",
+      "summary": "熊本県で最大震度2の地震 熊本県・熊本南区、八代市、宇土市、宇城市、上天草市、芦北町&nbsp;&nbsp;TBS NEWS DIG",
       "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JaEhSVU1TaTJTcUtVWFctc1V3WlNrNkFLT092VE51XzI3T1VISG1Cbl9rU09VR01jaDdjckJyNTJUaEhnX2dyc2lmS1pESzFVRXp2UG13elRKakRmRzZ3TzRuRVg?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51WjNwemJrVDlzWlo2Nm56d0FfcE02MVJtM3JHRG1JM2JnZ0ZnY0xaNkdiajBaOG44bk5ZWmtDR0YtTURoVm1YYVk3TklFc1dSQjhpV0w1QQ?oc=5"
+    },
+    {
+      "id": "news-disaster-da008ae7b0",
+      "lat": 28.38412,
+      "lng": 83.95303,
+      "title": "土石流死者６８２人、行方不明３０００人 復興に８０００億円試算―発生から７２時間・ネパールと中国",
+      "category": "DISASTER",
+      "time": "2026-08-29T13:42:00Z",
+      "summary": "土石流死者６８２人、行方不明３０００人 復興に８０００億円試算―発生から７２時間・ネパールと中国&nbsp;&nbsp;時事ドットコム",
+      "source_name": "時事ドットコム",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04T0ZrYlJXUE91MjcyZnNDMFA4aDNidUhzekl3UHpWMzExZmJwaWtvN3pNVzNIcnY1aUJUdUo1alV5ZUhTMk1sS3BsdW1EUmhtQmFVNmNtR0FBS25qNEJpZXNsNA?oc=5"
     },
     {
       "id": "news-disaster-4f068a85a7",
-      "lat": 28.38545,
-      "lng": 84.02694,
+      "lat": 28.39359,
+      "lng": 83.95906,
       "title": "If you haven't seen the flash-flood footage from Nepal and Tibet, brace yourself",
       "category": "DISASTER",
       "time": "2026-08-29T13:41:22Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-7902a26669",
-      "lat": 34.73494,
-      "lng": 137.66951,
+      "lat": 34.73176,
+      "lng": 137.64286,
       "title": "【台風情報】ダブル台風 台風22号(アータウ)・台風23号(バンラン)の今後の進路予想は",
       "category": "DISASTER",
       "time": "2026-08-29T13:37:00Z",
@@ -177,31 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wMnZ1VU94dUczRjRWcFlBNUIwWllqWmdkeml0Qkthb0hUNkttNGN5ZWZUcU94MzRmWkZLQUFqVlZOdFFWS2h2eGR1U3UzQQ?oc=5"
     },
     {
-      "id": "news-disaster-9ff6651e9e",
-      "lat": 37.29306,
-      "lng": -78.70773,
-      "title": "Flood advisory issued for Eastern North Carolina Saturday midday caused by intense rainfall",
-      "category": "DISASTER",
-      "time": "2026-08-29T13:26:06Z",
-      "summary": "Flood advisory issued for Eastern North Carolina Saturday midday caused by intense rainfall&nbsp;&nbsp;Charlotte Observer",
-      "source_name": "Charlotte Observer",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41UjJoNUpyWTdmMEU1ZzZ6cTNWdERSOVFHVllZdHo3UTV0OEpLd09IUTY0SWgzRGw1TWItbGk3TzJYdFJxOTlrUnVIbTVpeHRPSEo1WFp0RWJqSVdOY3NDV0FXY1o0c0FYU3V0Y0VNZ1pnSlhRMW8xNHdpT2JEdw?oc=5"
-    },
-    {
-      "id": "news-disaster-286fb43e06",
-      "lat": 28.40274,
-      "lng": 83.96236,
-      "title": "Nepal floods death toll climbs to 626, with 2,400 still missing as rescue efforts continue",
-      "category": "DISASTER",
-      "time": "2026-08-29T13:12:20Z",
-      "summary": "Nepal floods death toll climbs to 626, with 2,400 still missing as rescue efforts continue&nbsp;&nbsp;NBC News",
-      "source_name": "NBC News",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlhDSkRCbjF3VHg4eTZ2X2VwcndGdW5Yclh2a3BiZUx3RlZ2cDk0Vzd3Q2Y0dFhsa2ZjUThLeWQxTlZqMzhGclhIMXlFWWtsc2JYblJxVjRZNXB1dGtZU0NWR3BGNTR2NzNQMU1fdmxpY2NWTHFyODBCczBjXzdLZW82T3pkaHpLYjRDYzQ5RURacVo1N3RLX2F1TV8zRVVs?oc=5"
+      "id": "news-accident-1021a2aa60",
+      "lat": -12.4999,
+      "lng": 130.93487,
+      "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T14:16:00Z",
+      "summary": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say&nbsp;&nbsp;Atlanta News First",
+      "source_name": "Atlanta News First",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUFMMmNLYUprR2R0bk9DbWtoZVdWS2hpdmN3cWVCOTB1elIyUURJbDRvX1lseWk2Q0JnWHFiTWxPSlU5WjFmNWcxN05GVmdQT3lFYWhvUWRxWElXOEpzV1Z1M25pdDhpaS1qY2hWMVpjR3RwZ2ExOXR4OC1LNDYxNEM4bWtuMlR5LWYySzh0dUhxX2c1bVM1dTNCU0lqLTZQMFo5NXdvRTdHc1NvdVJB?oc=5"
     },
     {
       "id": "news-accident-ce15b27320",
-      "lat": 36.24667,
-      "lng": -98.53601,
+      "lat": 36.30483,
+      "lng": -98.50863,
       "title": "Major crash shuts down portions of Highway 68",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:54:00Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-c4791916e7",
-      "lat": 39.76755,
-      "lng": -86.47797,
+      "lat": 39.77209,
+      "lng": -86.52628,
       "title": "Hendricks County Sheriff's Office investigating fatal crash near Plainfield",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:44:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-53a5adf1bb",
-      "lat": 32.75784,
-      "lng": -117.17637,
+      "lat": 32.84164,
+      "lng": -117.15006,
       "title": "Multiple lanes blocked on I-10 after west Phoenix crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:07:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-95f1f72c53",
-      "lat": 35.6806,
-      "lng": 140.03311,
+      "lat": 35.603,
+      "lng": 140.02935,
       "title": "ＪＲ復旧急ピッチ 室蘭線脱線、事故調査官が状況確認",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:00:00Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-99e11a339f",
-      "lat": 34.88636,
-      "lng": -82.41851,
+      "lat": 34.82396,
+      "lng": -82.42358,
       "title": "SCDOT: Crash blocking all northbound lanes of I-85 in Anderson County",
       "category": "ACCIDENT",
       "time": "2026-08-29T13:00:00Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFFKRWhnaFpMcnM0aGtHX3JaOHVBcDZUZjE4bnhwRXBScFY3LUNpUDhWbjdPcDA0UmJVUDl4UFpYRUtUTGFFdjRrZ1J0czVJdVprVTdXQmV3WUIwSVIxQkxWMzVKMlNwZU01aFloUWtaR0tyRkx5RHhaUXhMZE9KMm1ZRWpuUldiVWdyS2JTRGJyV3dmM3dzWmZBRWF0YlhXS01INA?oc=5"
     },
     {
-      "id": "news-accident-30aec63de7",
-      "lat": 39.9791,
-      "lng": -82.94157,
-      "title": "Man dies after two-vehicle crash on Columbus' Far West Side",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T12:53:00Z",
-      "summary": "Man dies after two-vehicle crash on Columbus' Far West Side&nbsp;&nbsp;The Columbus Dispatch",
-      "source_name": "The Columbus Dispatch",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGswVEcxNC1LdkJEcE9fZEQ5MWs0TTlMSFI5ejRzdkVKN3YzM3E0Ym9FSU9qSlkxUmx2NVFXZG5RaEpjMi1MdHhONnpQT1I4cFFFTDZfZ3Vsaml4UGdybnhVR19hXzVCc3otRkdtLTdtQXNGbVQwalk3TEJzNW9ZNVJuV2lVaElKaFJZN29EVlNJSnFYNnBPQm5HQTBEQUhXMzlMeGw4emFEbXNOTGlpYU93Zl95a1VUVU5ybG9TSkxyYmpMcndMUkNUR0x6NnpqOVFQUWpR?oc=5"
-    },
-    {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.91836,
-      "lng": 4.65618,
+      "lat": 46.9322,
+      "lng": 4.62948,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.87457,
-      "lng": 4.63159,
+      "lat": 46.93494,
+      "lng": 4.66024,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.76291,
-      "lng": 139.57993,
+      "lat": 35.71945,
+      "lng": 139.51153,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.86969,
-      "lng": 135.54847,
+      "lat": 34.8485,
+      "lng": 135.59693,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.67677,
-      "lng": 139.74375,
+      "lat": 35.68148,
+      "lng": 139.77286,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a55816df23",
-      "lat": 34.79781,
-      "lng": 135.52338,
+      "lat": 34.82131,
+      "lng": 135.58649,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T02:00:00Z",
@@ -332,8 +332,8 @@
     },
     {
       "id": "news-technology-1853589e8d",
-      "lat": 35.33949,
-      "lng": 139.53783,
+      "lat": 35.40417,
+      "lng": 139.52923,
       "title": "ビル・ゲイツ氏のAI課税・国際規制提言、実効性の焦点は #エキスパートトピ（八田真行） - エキスパート",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T14:16:12Z",
@@ -343,8 +343,8 @@
     },
     {
       "id": "news-technology-c6020570f7",
-      "lat": 32.78604,
-      "lng": -79.97709,
+      "lat": 32.79321,
+      "lng": -79.99469,
       "title": "MUSC receives grant to develop AI system for youth suicide prevention",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T14:06:00Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-ea2a345fa0",
-      "lat": 35.62396,
-      "lng": 139.30053,
+      "lat": 35.61904,
+      "lng": 139.27747,
       "title": "G20で米国が提案するAI規制抑制は投資をどう動かすか―半導体・データセンター・基盤モデルを巡る競争 #エキスパートトピ",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T14:01:39Z",
@@ -365,8 +365,8 @@
     },
     {
       "id": "news-technology-35c7921570",
-      "lat": 18.26259,
-      "lng": -73.86246,
+      "lat": 18.30205,
+      "lng": -73.83034,
       "title": "South Korea’s ‘AI for All’ Push Gives Free Access to Every Citizen",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T13:39:36Z",
@@ -376,8 +376,8 @@
     },
     {
       "id": "news-technology-0c1335273c",
-      "lat": 38.92343,
-      "lng": -77.05331,
+      "lat": 38.86591,
+      "lng": -77.06447,
       "title": "The Fed confronts a powerful new economic force",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T13:32:50Z",
@@ -386,15 +386,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5"
     },
     {
-      "id": "news-technology-08adfcb1c0",
-      "lat": 34.54194,
-      "lng": 135.5277,
-      "title": "【厳選AIマスター】小松島競輪 競輪投票サービスＢｅｔｉｍｏ杯 F2 2026年8月29日 4R 一般 競輪予想 | 【ウマい車券】競輪予想",
+      "id": "news-technology-493dd1c763",
+      "lat": 45.52034,
+      "lng": -122.87192,
+      "title": "Nvidia revenue more than doubles to $96.2B in Q2 on surging AI demand",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T13:21:59Z",
-      "summary": "【厳選AIマスター】小松島競輪 競輪投票サービスＢｅｔｉｍｏ杯 F2 2026年8月29日 4R 一般 競輪予想 | 【ウマい車券】競輪予想&nbsp;&nbsp;netkeirin",
-      "source_name": "netkeirin",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMUzQ0UnllNGVUSTk5LVNKWnVOdl9VQV9MR2JOWTEtVFBFZE5sTzN5YzM4Z1JyZHlJREwzT2c5elR5Q21BNDE5c2pBNXcwaXExa05NZ05HN1Zac0U0cHBTQlJRNDFSdFhObC1ubHJjdjByVkNnVjk3TXJR?oc=5"
+      "time": "2026-08-29T13:28:45Z",
+      "summary": "Nvidia revenue more than doubles to $96.2B in Q2 on surging AI demand&nbsp;&nbsp;Anadolu Ajansı",
+      "source_name": "Anadolu Ajansı",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0lZTG9kZl9xUWpTM2hxSDlXSGZyRzFkR0ZKclhUQUV4b2pQazFsTGVZUlpfMGNvRjVfMU1feXA3VkxFaU5OeGtfSkhvRm9lVlE2RTlRelg3enlXUmtPdGJoMXpDd096ZmlscmRDQ0RNY1EwQ0I5OVBDNVBsTTdodkpMYkV0OUwxZmQ1OWNPVnVhd3RWMUNsYVNkRndWbW95N1dsTzg4bkJjVHhJa2dRNzZPOElBNGlWX1Nr?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T14:18:33Z"
+  "updated_at": "2026-08-29T14:33:44Z"
 }
