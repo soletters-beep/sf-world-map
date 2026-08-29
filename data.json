@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-a8433bab8f",
+      "lat": 38.85848,
+      "lng": -77.02283,
+      "title": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews",
+      "category": "POLITICS",
+      "time": "2026-08-29T21:05:51Z",
+      "summary": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTm54ZVV4YzBUcDdrYXZjcnFMN19Dc2J2ZGQ2SkpCbnlKVjJja0x5b2xuMkRjOVM3aEpaUnRIdEtmTVY2dWxaY1FFb3ZMUW1RQkk5eHN2LWU2NjNyQnNkWTVydDdnSTRjcHBDU2VjUktBSUFuenZlel9aMFE4anpzdUJBckE0RGUxejJSa0N1aHhiOVJCS2VBVkw2Rl9SblV0Q01tZUhuVWVCMlhoWlpWVzFiNXdvWHNXVXJBZw?oc=5"
+    },
+    {
+      "id": "news-politics-5eb4bef9a3",
+      "lat": 35.70407,
+      "lng": 139.7963,
+      "title": "〈政治まんが〉「大きく咲かない野党」 佐藤正明傑作選「一笑両断2」販売中",
+      "category": "POLITICS",
+      "time": "2026-08-29T21:02:31Z",
+      "summary": "〈政治まんが〉「大きく咲かない野党」 佐藤正明傑作選「一笑両断2」販売中&nbsp;&nbsp;東京新聞",
+      "source_name": "東京新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VM0tKMUVVeUFobmpjUlBOS2hwdko2T2hVeGRQNkNPRmFCS3dKWTJpUk41SEpwNDZjT2E2ZGczOEplMzFHTWtpdU1OX2RudHExa2ow?oc=5"
+    },
+    {
       "id": "news-politics-cdb6f0fc61",
-      "lat": 39.69483,
-      "lng": -76.62629,
+      "lat": 39.64765,
+      "lng": -76.57127,
       "title": "Trump cannot deport students for criticizing Israel, judge rules",
       "category": "POLITICS",
       "time": "2026-08-29T20:34:00Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-9c38ec338d",
-      "lat": 33.64517,
-      "lng": 130.4013,
+      "lat": 33.58552,
+      "lng": 130.40876,
       "title": "【一問一答】自民党福岡県連 会長職辞任について松本会長「声あれば考えていかねばならない」 来春の県議選「非公認」めぐり幹部が対応協議",
       "category": "POLITICS",
       "time": "2026-08-29T20:30:00Z",
@@ -24,8 +46,8 @@
     },
     {
       "id": "news-politics-2c82153035",
-      "lat": 40.37448,
-      "lng": -3.78358,
+      "lat": 40.30118,
+      "lng": -3.73037,
       "title": "Inside Texas Politics | Full Interview on US-Canada trade war with Congressman Roger Williams",
       "category": "POLITICS",
       "time": "2026-08-29T20:30:00Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-d18523b17a",
-      "lat": 51.56726,
-      "lng": -3.25952,
+      "lat": 51.59561,
+      "lng": -3.22855,
       "title": "What courageous citizenship really looks like | Vince Bzdek",
       "category": "POLITICS",
       "time": "2026-08-29T20:25:16Z",
@@ -45,31 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc3UtdHBFOUl3ak0yNEx5dV9ueGV6aEFRNFpOTFE5LURXcmktTUFaWEIwc240US1VYzVZazlpZ0QzNmE0X2o3bjY2VHpjZ0d2R1U3RG1TWXcwSHZiUmU5QUI5RmJCYXYwNEdSWG43bU5IV3c4WGJ4UDhualFTY0VkWjI1SXFBbEh2RWVUdl8wTTBzYXlOLVlYRlZKMEF4dUZRSFNfcg?oc=5"
     },
     {
-      "id": "news-politics-271dbb8b89",
-      "lat": 40.2829,
-      "lng": -3.75954,
-      "title": "Inside Texas Politics | Full Interview on GOP Convention with Council Member Gay Donnell Willis",
-      "category": "POLITICS",
-      "time": "2026-08-29T20:24:00Z",
-      "summary": "Inside Texas Politics | Full Interview on GOP Convention with Council Member Gay Donnell Willis&nbsp;&nbsp;WFAA",
-      "source_name": "WFAA",
-      "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPdHRvWUV4czBGMFA1cTRhanQyc2JUenc0SnlhN3ZsVndPUW5iaDNmc3JjZnVmOXF1WDlhVmVEaVVDaTVJUWxNcXhhLVFQODZzOGtQNXlLVjN2VHFUZXZtamplcHF6QTIwOFp5ZjdKMG5TTlJHMDE2d29MZ2g4VFZQVWF4bDg3RXlHRjJDYTZHNWpGQ1ItRHVjcjhVblNSdDVfWl8wWHAyZUVBZ1B1RWJFVVNYazVLMF80U2FqMUFJSzM4TnR1bUFBRzNISEZPaHNNZHFLbWkxaXQ5dGxaVVNUdVA3SzVsQmlaZFA5ZWE2OVlnNnZ0bks3UmNBX1B1blU2cmxubDc3cHItbkdLMGM0akgxek1VN3FDNXk5WElPX2RXZExBVVIta0l1QnFXQ0E?oc=5"
-    },
-    {
-      "id": "news-politics-af5d2253cd",
-      "lat": -37.8276,
-      "lng": 144.66655,
-      "title": "Reflections on Colorado Springs candidate political debates | Tom Cronin",
-      "category": "POLITICS",
-      "time": "2026-08-29T20:23:08Z",
-      "summary": "Reflections on Colorado Springs candidate political debates | Tom Cronin&nbsp;&nbsp;Denver Gazette",
-      "source_name": "Denver Gazette",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3FFeUlUVHV0OEFGZklfNDZaYzNkczk5LWZYZU12YnozNFRkc1NSeTRFb0sxM2E0c0wxUG0zVUdqMnJFQkwwZUdFWnVQeDA0NDloU0hRTHpqYWFKOTZTSDNnUDlkYlZISmtfenJsZVV2SlBxeXkxdV9kQ250cmVFMGw4akl4NHJQRmtRSnU5aUFxWGpzRFVjX3d5MEVVU0x6eDlMTnhOVThqMGNDRHA1ckJR?oc=5"
-    },
-    {
       "id": "news-finance-75d28925f4",
-      "lat": 43.07769,
-      "lng": 141.28905,
+      "lat": 43.05189,
+      "lng": 141.29,
       "title": "【最新FX・為替ニュース生解説】2026年8月31日～9月4日 YouTubeライブ配信スケジュール｜リアルマーケット分析",
       "category": "FINANCE",
       "time": "2026-08-29T21:00:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-401f425c1c",
-      "lat": -28.595,
-      "lng": 153.27957,
+      "lat": -28.60015,
+      "lng": 153.25823,
       "title": "Protesters line Merrimon Avenue as G20 finance ministerial comes to Asheville",
       "category": "FINANCE",
       "time": "2026-08-29T20:41:45Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-75caac2b74",
-      "lat": 18.57307,
-      "lng": 77.10875,
+      "lat": 18.64488,
+      "lng": 77.16255,
       "title": "Viral SEO Launches AI Assistant for Google Search Console Insights",
       "category": "FINANCE",
       "time": "2026-08-29T20:07:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-1f723793e4",
-      "lat": -12.00284,
-      "lng": -77.03105,
+      "lat": -12.09917,
+      "lng": -77.02407,
       "title": "東邦亜鉛、1カ月で4割超上げた株価が当日は反落。2026年3月期通期は当期利益が黒字転換（LIMO）",
       "category": "FINANCE",
       "time": "2026-08-29T20:05:12Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-dee43e684f",
-      "lat": 42.30384,
-      "lng": -87.82705,
+      "lat": 42.29877,
+      "lng": -87.8517,
       "title": "AbbVie vs. Eli Lilly and: Which Healthcare Stock Is a Better Buy in 2026?",
       "category": "FINANCE",
       "time": "2026-08-29T19:35:01Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-b1f1580d39",
-      "lat": 56.67105,
-      "lng": -3.02218,
+      "lat": 56.71866,
+      "lng": -3.03869,
       "title": "Fundraiser launched to secure crafting shop future",
       "category": "FINANCE",
       "time": "2026-08-29T18:15:54Z",
@@ -133,9 +133,53 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cz0zr3577glo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-disaster-b4f4519930",
+      "lat": 35.7073,
+      "lng": 139.74951,
+      "title": "【レベル3土砂災害警報】富山県・南砺市に発表 06:04時点（TBS NEWS DIG Powered by JNN）",
+      "category": "DISASTER",
+      "time": "2026-08-29T21:09:24Z",
+      "summary": "【レベル3土砂災害警報】富山県・南砺市に発表 06:04時点（TBS NEWS DIG Powered by JNN）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tMXdIU2ZqY29GTzBEczk3SlAtaXRZdUpWdzR1NkRVTm40eTZ4RjA2ZUE3UDhSZDA1R3ZnXzBKTlhUYkVjNHRmb3NUODQtY2h0WjMwekttNk56MkxEMmQ5YnB1b2s4TWdpRG5jSERMd2tKbmdZdFY0TzZHbmFvbGM?oc=5"
+    },
+    {
+      "id": "news-disaster-2124ab40b6",
+      "lat": 32.8066,
+      "lng": 130.69216,
+      "title": "熊本地震では死者も…真夏の車中泊避難、何が必要？車はガソリン切れで「ただの危険な箱」に、命を守る重要ポイントは？",
+      "category": "DISASTER",
+      "time": "2026-08-29T21:07:00Z",
+      "summary": "熊本地震では死者も…真夏の車中泊避難、何が必要？車はガソリン切れで「ただの危険な箱」に、命を守る重要ポイントは？&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2aXZSQ3REdGhlYlllV2FnaEliNFk5MHgzV3VwQ05KYjg3ZGVKanJwOHVLdDVFZ2haUkNaZS1Hbk95Nlp1YUd0UDM4NTRnWDNzMHJPOTc1dlNGSUxqbWlabTFiT3U?oc=5"
+    },
+    {
+      "id": "news-disaster-7061ae9894",
+      "lat": 35.69211,
+      "lng": 139.56984,
+      "title": "自然災害が相次ぐ日本で重要なカギに…「ボランティア活動」の参加者数が多い企業ランキング（東洋経済オンライン）",
+      "category": "DISASTER",
+      "time": "2026-08-29T21:03:39Z",
+      "summary": "自然災害が相次ぐ日本で重要なカギに…「ボランティア活動」の参加者数が多い企業ランキング（東洋経済オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xeXVNQ2FXdUNEMXRiWHV5RTBtRHBfVWI1YlZSbGhZeGVUQm5qMHMzOF9XMGo1WEVCemFxRHZVaXdIejRIYkZPT3F1cHg0Mnc5bHJ0NkRvNWhTRkdhOE90TzNPN0JwYVNadkQyTGNLTDFDcDhpd3VTRF9hSW9nR2s?oc=5"
+    },
+    {
+      "id": "news-disaster-e23f0be9c6",
+      "lat": 35.64608,
+      "lng": 139.80718,
+      "title": "171億円で建て替えた新庁舎が熊本地震で損傷、震度7に耐え得る「復興の象徴」が…汚職事件との関わりは",
+      "category": "DISASTER",
+      "time": "2026-08-29T21:00:00Z",
+      "summary": "171億円で建て替えた新庁舎が熊本地震で損傷、震度7に耐え得る「復興の象徴」が…汚職事件との関わりは&nbsp;&nbsp;東京新聞",
+      "source_name": "東京新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KY2dkcHRCaVkyOGRoQXlsU1dfY0M1YTRCbnBZNTYxcUVmTWZrUkQzWTh0RktmNFprdUVEN2JXMnhBaHhSZ05TaENFQ2dvVlpCTkRV?oc=5"
+    },
+    {
       "id": "news-disaster-e68623f9ed",
-      "lat": 36.06271,
-      "lng": -79.44389,
+      "lat": 36.11039,
+      "lng": -79.40418,
       "title": "Alamance and Guilford counties placed under a flood advisory until Saturday evening",
       "category": "DISASTER",
       "time": "2026-08-29T20:56:06Z",
@@ -145,8 +189,8 @@
     },
     {
       "id": "news-disaster-8bc3fb34ed",
-      "lat": 35.69825,
-      "lng": 139.77245,
+      "lat": 35.72272,
+      "lng": 139.71352,
       "title": "【防災気象情報】レベル4土砂災害危険警報：福井市、大野市、勝山市、鯖江市、あわら市、坂井市、永平寺町、越前町 レベル4大雨危険警報：福井市、大野市、勝山市、坂井市、永平寺町（2026年8月29日掲載）｜FBC NEWS NNN",
       "category": "DISASTER",
       "time": "2026-08-29T20:40:00Z",
@@ -155,64 +199,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFJ4ME5GZy1FVUR6SnFpOGNiVXdxb0x4X2ZyazRONmVlRzRrMkM4aU4tZV9BS21Ucl9CbzZFbnE3UWdneFNWUXNKN1NhWjZ1R3dYS2RjTm5MdDlVZFJiWWNTR1VBS0czZHRHaEFGT2d6VHhycGNQZjNpd2R6ZXFxWEMxamNWbG8?oc=5"
     },
     {
-      "id": "news-disaster-ac64e306b5",
-      "lat": 61.84077,
-      "lng": -149.73745,
-      "title": "2.2 magnitude earthquake struck near Willow Creek, CA on Aug. 29",
-      "category": "DISASTER",
-      "time": "2026-08-29T20:33:06Z",
-      "summary": "2.2 magnitude earthquake struck near Willow Creek, CA on Aug. 29&nbsp;&nbsp;Sacramento Bee",
-      "source_name": "Sacramento Bee",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kOHdKQTQwSjVhc3hCNGM3cTBjNU96WV9zdUNsRHl6RVNWZHNjVVFXTXRQeWlQRGZXZTJxWGZndkNUZ0RIYUpPalRQR0h4NTAzdzBveWQwcXhKOEVxajhoRHJ1OFk4akNrSUJ6SU9nNDJZNUZsTUd2RkdLb1c?oc=5"
-    },
-    {
-      "id": "news-disaster-03f09504d7",
-      "lat": 35.70535,
-      "lng": 139.71079,
-      "title": "【レベル４土砂災害危険警報】福井県・越前町に発表 05:32時点",
-      "category": "DISASTER",
-      "time": "2026-08-29T20:32:00Z",
-      "summary": "【レベル４土砂災害危険警報】福井県・越前町に発表 05:32時点&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5Ym1VYUtjU3NYWmRwZi1OLXFvN1ZFZndhQkN4X05waENvSHJtUjNqUmNSYTNyZThPbzF2Y1VKN09PbkNyQ1VFc0tKNnFZaURBNmRqVkUtUQ?oc=5"
-    },
-    {
-      "id": "news-disaster-29e905bf5d",
-      "lat": 34.64355,
-      "lng": 133.94011,
-      "title": "【台風情報】最大瞬間風速40m/s・990hPa「台風23号（バンラン）」...今後の進路は？9月9日までの雨・風シミュレーションで確認【気象庁30日3時45分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)",
-      "category": "DISASTER",
-      "time": "2026-08-29T20:25:00Z",
-      "summary": "【台風情報】最大瞬間風速40m/s・990hPa「台風23号（バンラン）」...今後の進路は？9月9日までの雨・風シミュレーションで確認【気象庁30日3時45分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40YzltZUZjaXhEQ2lVazNtZHFCbDFiSW01MERfZXRKZjFvNkhmbV90akhYNFR1Ym0yWG84Y0dqdWU3b3NETHlrZEZwSTBHZ094bFpBSkxZZEJnQlh6QUxUd05hd18zN1k?oc=5"
-    },
-    {
-      "id": "news-disaster-d0bd8dec42",
-      "lat": 23.68356,
-      "lng": 89.96551,
-      "title": "UPDATE: Bladen and Robeson counties placed under a flood advisory Saturday evening",
-      "category": "DISASTER",
-      "time": "2026-08-29T20:20:07Z",
-      "summary": "UPDATE: Bladen and Robeson counties placed under a flood advisory Saturday evening&nbsp;&nbsp;Charlotte Observer",
-      "source_name": "Charlotte Observer",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5lZ05PQlFZNVoxXzltTFR3US1jeGd2aWNjcE9VQjJMMlFVUmJWMkdyUHZvM084UDNZMzhzZjc3NWZLTVJyU3BRVkN1WkJLMHkxY2l4QkVRQkRvbEUyOXFjZTVPaHo5S19sY05PUXNSVThXTlZQMVhGMVRWZmdpQQ?oc=5"
-    },
-    {
-      "id": "news-accident-af8d96beb7",
-      "lat": 34.90917,
-      "lng": 135.19699,
-      "title": "なぜ「電動キックボード」の安全性がここまで問われるのか？ 13車種すべて「推奨せず」！ 6月都内初の死亡事故、直立乗車に潜むリスクとは",
+      "id": "news-accident-543d2071bf",
+      "lat": 34.95218,
+      "lng": 135.1834,
+      "title": "なぜ「電動キックボード」の安全性がここまで問われるのか？ 13車種すべて「推奨せず」！ 6月都内初の死亡事故、直立乗車に潜むリスクとは（Merkmal）",
       "category": "ACCIDENT",
-      "time": "2026-08-29T20:59:41Z",
-      "summary": "なぜ「電動キックボード」の安全性がここまで問われるのか？ 13車種すべて「推奨せず」！ 6月都内初の死亡事故、直立乗車に潜むリスクとは&nbsp;&nbsp;ｄメニューニュース",
+      "time": "2026-08-29T20:52:38Z",
+      "summary": "なぜ「電動キックボード」の安全性がここまで問われるのか？ 13車種すべて「推奨せず」！ 6月都内初の死亡事故、直立乗車に潜むリスクとは（Merkmal）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xczFxaXA2Z3ljUUxOSDlCendQbDJYNzBHZmx3QUJ3eEJNOHZUanhndmlyaWlDdkR0NkptZVUwaVVLVTRhb0t2Y0p2Z0ROa1VXdHBqQzJVOEREVDlGMzlGMjhlM00tQ0xqSXdwRmNKNmdyM0ktcTdFR1k2UE9JeXM?oc=5"
+    },
+    {
+      "id": "news-accident-323ed6838f",
+      "lat": 42.31772,
+      "lng": -71.14733,
+      "title": "辺野古沖転覆事故、反基地、反自衛隊…沖縄の「反基地無罪」の源流に迫る　〈産経BOOKS〉『紅い沖縄認知戦』仲新城誠著",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T20:33:39Z",
+      "summary": "辺野古沖転覆事故、反基地、反自衛隊…沖縄の「反基地無罪」の源流に迫る　〈産経BOOKS〉『紅い沖縄認知戦』仲新城誠著&nbsp;&nbsp;ｄメニューニュース",
       "source_name": "ｄメニューニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTjRHenNkOFpiXzFmNFhLWkF6YklPT3B1eWdfd1E1aERhcVFhZ1pRcUVYMWdTdVEyNXp1Nk8tUWp2VDc2ZFZHQ29lTWs2T21IbzUyOUVwQmdpekt5SDFuU2tQOEw5REktbmZXWUlxdGR4M1BENXJTdGhRUVdDVTdKRmdjRdIBiAFBVV95cUxQbVpzemoxTFBiTGpBbHpxS1dKNmtUOF85ekZKUmtZMnptV1l4bk81N1NKeEdvOHhURlZMWkh3WmU5SkFWdnBzbzBfTnVEX0hZbjRuX1A1NVNQSnV1UW4zRHBDcVEydUs5N0dwRG9yaHgtX1JEblVIWnZrWlUtNEd2YndtM0VoeXpy?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNHdmNEJILWN4RkpNNFhFNDBtS2FKR2VyakFwd3BYdGRlYjdoNS14cFZYXzdoYVBYUDBxRWVDLTlCTm1qRVdjSnViS3V0QUwzZ3U1MWZMa1d5RlVXNzJwZDF4TlZjYXAzTk8tamNaTHFfRmkxVld3SllHQlBGdk1VaWNkaElIckd3V3NxbGh0LUtDai05b1dpU2JTaVpwd9IBowFBVV95cUxNWmxDZTZUYTFYaUFGUnNxRVZoVHpVd2FMRlE4Q2NHRW1ZTUtJR3JienRtWk9rSDczMlVJeWtJREFxMXRfd2tlX0FGaEpyakpyc085TWFtd180MmdOTDFHUDNKSDBmd1doNDBMZ0xMRzBLcWNWQXJRTHpEalFJbllyaDdDNExhbEJMQVBzdU5GTnQ3b2swbG9VQ3lPR0o5UWxvMnIw?oc=5"
     },
     {
       "id": "news-accident-a84d9980d7",
-      "lat": 45.46047,
-      "lng": 9.25804,
+      "lat": 45.50647,
+      "lng": 9.29051,
       "title": "名誉ベルト、弟が戦った証 ボクシング、死亡事故から１年 風化と再発の防止願う",
       "category": "ACCIDENT",
       "time": "2026-08-29T20:00:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-c9b0a239e0",
-      "lat": 33.93048,
-      "lng": -118.25555,
+      "lat": 33.89292,
+      "lng": -118.26066,
       "title": "Gardena, CA – Man on Electric Scooter Hospitalized after Colliding with Vehicle at Redondo Beach Blvd and Gardena AveAccording to the Gardena Police Department, the accident took place around 10 p.m. on August 28, 2026, at Redondo Beach Boulevard",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:46:51Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-9cf8c23797",
-      "lat": 35.07458,
-      "lng": -89.6633,
+      "lat": 35.05595,
+      "lng": -89.62005,
       "title": "Collierville Police diverting traffic after multi-car crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:42:00Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-7c0379a62c",
-      "lat": 1.31348,
-      "lng": 103.83281,
+      "lat": 1.32222,
+      "lng": 103.86763,
       "title": "Parksy.com Free Driver Tools In One App: Fine Appeals, Sign Scanning, Car Finding and Crash Reports",
       "category": "ACCIDENT",
       "time": "2026-08-29T19:05:00Z",
@@ -254,20 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUDVld0txRHRJc015bGRPSTJsWHg4V0s5Ty1OM0VmekxMUHRudVIyZ0dQNEJtYmJ6VG5BUXRpNHRFYS1PUmQ1a3lVbDVfaDlXWEJhSTlRdUhIU1NQRnN3VEVuN2pENVlOX2JUbl9tSV9NLUhaOVVtZkZUMkotd3o3NjE5VQ?oc=5"
     },
     {
-      "id": "news-accident-9407bb2c32",
-      "lat": -12.52765,
-      "lng": 130.9945,
-      "title": "Driver critically ill after crash involving police car in East Ayrshire",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T17:58:39Z",
-      "summary": "Driver critically ill after crash involving police car in East Ayrshire&nbsp;&nbsp;BBC",
-      "source_name": "BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NYnhJa2ZQM3dacHE2R2hRUVFNMGNnS3B6b3FtVkV6a2dOMHprYlZ5Rmt0UHg5STBPaUQ1Y3V1LUM2SW5uYmpUcWhscmRBa1BvY0hiY3E1bXlaQQ?oc=5"
+      "id": "news-disease-c8d592ee55",
+      "lat": 34.2663,
+      "lng": 66.12956,
+      "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
+      "category": "DISEASE",
+      "time": "2026-08-29T21:14:00Z",
+      "summary": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbHJCRmFEeUVndmlERW14NnFzQU4zYmNWNmw3OG5xMVB4M21tUnhMXzFIdlkxVXV0VnY2SlB2aFdhSlltbWl5NjB0UWJXbnJMYnFTWXd6Qnd2cFM1b19rTFhra2w2NlEwS0hCdEJsWFZrRERKaWtlYWxiZkkyeDg?oc=5"
     },
     {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.96483,
-      "lng": 4.60624,
+      "lat": 46.97209,
+      "lng": 4.64848,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.87911,
-      "lng": 4.61996,
+      "lat": 46.87475,
+      "lng": 4.57867,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.78624,
-      "lng": 139.50763,
+      "lat": 35.79108,
+      "lng": 139.57909,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.81722,
-      "lng": 135.5228,
+      "lat": 34.77908,
+      "lng": 135.56598,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-4c01ddd588",
-      "lat": 35.6501,
-      "lng": 139.77186,
+      "lat": 35.69284,
+      "lng": 139.76083,
       "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
       "category": "DISEASE",
       "time": "2026-08-29T03:12:17Z",
@@ -320,81 +331,70 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MamM4dkZXZUZKMjJ1elRZQVhQeXZ4WmFRTHQxVXU5YXd0YzJNbmt4U0pVY09IT05SaTRWXzlqbkMxYXlnUUlwbW05UmlocDNVWTljLURQVVV1NHdDRkhVNDBOTUNpQUx6MXd6ZWE3M0VJSGFUWlllTEhqZFhjbWc?oc=5"
     },
     {
-      "id": "news-disease-a55816df23",
-      "lat": 34.81009,
-      "lng": 135.58092,
-      "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
-      "category": "DISEASE",
-      "time": "2026-08-29T02:00:00Z",
-      "summary": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」&nbsp;&nbsp;ABEMA TIMES",
-      "source_name": "ABEMA TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KOWZ2TElvT05CYlUtUjd3UURkbjU2SEdJV2oyeEo0Wm9ZTHlYUnF6enhadHByV0lsVXZiQmllVGcyY08yYl9UdzNHeG9hbVpJV0JrRA?oc=5"
+      "id": "news-technology-69b3decfb5",
+      "lat": 35.56623,
+      "lng": 139.36176,
+      "title": "空冷の限界に直面するAIデータセンターはダイレクト・ツー・チップ液冷へ舵を切るのか：『ビジネス2.0』の視点",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T21:08:12Z",
+      "summary": "空冷の限界に直面するAIデータセンターはダイレクト・ツー・チップ液冷へ舵を切るのか：『ビジネス2.0』の視点&nbsp;&nbsp;オルタナティブ・ブログ",
+      "source_name": "オルタナティブ・ブログ",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zZUstQXEydVhTTUNuNllvVzlPZ3hLTTB4NFRHUnpTSDExQ2R4SGc1VW9lYVhBZzF4aG1tU3l0TEp6eDU1Nk9jaEdEVEJpVzZQX0UzLW5fck9NM0kyYzlmQVc0M3BCWENfYUVz?oc=5"
+    },
+    {
+      "id": "news-technology-d85ae3e66d",
+      "lat": 34.72455,
+      "lng": 135.63666,
+      "title": "AIスキルがあると給与62％増？ 10億件の求人データから読み解く“AI時代の市場価値”（AMP［アンプ］）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T21:06:37Z",
+      "summary": "AIスキルがあると給与62％増？ 10億件の求人データから読み解く“AI時代の市場価値”（AMP［アンプ］）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aeGhZMDRGUkFodlduemNsOG9VUlVNV1ozSmV3U1pYeC1SUGtkenVIZXNPZllxSEprOUV1Znc2UG81S2NTR1h5NTBRamxmVVE2UDQ3T0FhUFNjd3pZcktFNzFKOU5SQ0VCU2pDYUc1dVBBdEJPaVV0a3o3d203MlE?oc=5"
+    },
+    {
+      "id": "news-technology-9498f73f4c",
+      "lat": 51.52121,
+      "lng": -0.05898,
+      "title": "Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T21:03:59Z",
+      "summary": "Here's why old-school San Jose barber Taiyadi 'Magic' Day is now teaching robots to cut hair with AI by Instawork Robotics&nbsp;&nbsp;ABC7 Bay Area",
+      "source_name": "ABC7 Bay Area",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd0ItTmV5ZmMzXzctQ3Uxd25rR0g3empBU3pqaVdpWkVRdEd5VjZWczgzNXA4endFQk5QcHNUMS1hTnZXVGQ3RTA5cHVtWEViYTFYM2laMmNQdkdvaExqUk40em1ZSDNtRW9VMWN5OC01TnZPakFXb2l2d3pnMTZxeVQ5c19vSzFwcHJkOEQ4X2oxNFFPSmQ0M25UWElzY3RVamlHcUxrcDJYZHlnM3JOVVpObGdWdzlmeWc2V2VZMGFKaWhDRmtWNXVyQXBqMk1sOW9MdWdfZ9IB3AFBVV95cUxNZUltYTZtbnI5S2EyUE1Xdm43UjY4MllsNlFxVGluYVVycEs1R05ObEI4R243SWZRdUZKSVpfTVNWQmNrOXhnTk90NjVLZ3NFd21CaEN1a3I1RTdfeWs1T1NpZmNqdC0tX3JfeEhBX0xYSGhpb3pNR2pjd09rVmVidERpZmlBbTYtQmdZTXR4cHNsRkFVWVJyTXVSanpoRE5XMTNQMm5URUQ5UGM5d3J6SkdTLXNtaThVcThqVmI1bHRMOWhFblk5NW1XUGVhTXA3cnc0S1JUUDB3bFQy?oc=5"
+    },
+    {
+      "id": "news-technology-49ad382a3f",
+      "lat": 34.96359,
+      "lng": -3.01437,
+      "title": "Tariffs Finally Showing Up In Inflation Stats—And So Is AI",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T21:00:57Z",
+      "summary": "Tariffs Finally Showing Up In Inflation Stats—And So Is AI&nbsp;&nbsp;Forbes",
+      "source_name": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkp1X215T0pvR0ZTcGY2RFI0aVZEZE54Uk9RTzk2LWQ5ckdPR0plWVNXQVhvZERsaGU2enYySGtTa0dUaVFmRzNVT1lhZVV3ZkliUU00R2JaM0Nyb25qZWVnMlB2TjNoNDRKNWNEaEExVGVBc2dNUEFYckluaXlzWF84elhJMXdxUU1rTEFad1JXeW1udGF4MzFCSUk1ejM3NmZxS3lWNlAtRWkyVlQxdWtJeVh3M1R5?oc=5"
+    },
+    {
+      "id": "news-technology-5cdd2ec877",
+      "lat": 35.79377,
+      "lng": 139.35034,
+      "title": "フィジカルAI開発活発化 職人技継承、ロボットに託す 担い手不足、人型も挑戦",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T21:00:00Z",
+      "summary": "フィジカルAI開発活発化 職人技継承、ロボットに託す 担い手不足、人型も挑戦&nbsp;&nbsp;西日本新聞me",
+      "source_name": "西日本新聞me",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QQVR0aHhCMzV2ci1TOVk3RW1aa19tZkJQTEVYUGdzWjl4bm9ac3QtY1BTeXo0YUhzS2JRQTlDaTNGY0ZlajRxR1p1VTB1cVhOaW9NaFFR?oc=5"
     },
     {
       "id": "news-technology-a6ce2c3af8",
-      "lat": 35.82905,
-      "lng": -78.65454,
+      "lat": 35.83686,
+      "lng": -78.58373,
       "title": "Visualizing Cal Raleigh's swing using bat tracking technology",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T20:46:42Z",
       "summary": "Visualizing Cal Raleigh's swing using bat tracking technology&nbsp;&nbsp;MLB.com",
       "source_name": "MLB.com",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWE9PR3NuUXdTTS11aGkxNG9EMjJmVmFOblU4c2ZlM25zYWVuZzJSXzhRY042MnZCNDFGYmdWMnlZVF9nalc1TVY3VVlHMkxfYnV4YWRuVW9vMXRYYUN6VHAtVENoamdLdEJEdEJKNlVwM0UwemRXZmQ1WGliRG9EZllNc2hxQTJlZXBsT3JaZTB6SHhLYWxMZ1ZPOUNBRWY4bTFoQw?oc=5"
-    },
-    {
-      "id": "news-technology-bc6dbca6a2",
-      "lat": 34.03772,
-      "lng": -118.40354,
-      "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T20:38:18Z",
-      "summary": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead&nbsp;&nbsp;The Motley Fool",
-      "source_name": "The Motley Fool",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHlnMzVUNjdNYWo2UHgyRmE2U20tRmxZNVZZbEZ5WmxHUUV1eFNQYldYRnFGbzhtRlJaVUtJLVFmQzMzSlJIT05WVUVHNXQ4U2xjVUZxTE9ZeGNUNDNVc1VwMVEwNUhhT0E2OEc2TU1pMXBRNTNSOHJMQ3p6MWpwV3FXR0FjQWpBYmdSVk9kT3BjMjlOVlNnMA?oc=5"
-    },
-    {
-      "id": "news-technology-dc14d98f44",
-      "lat": 37.9359,
-      "lng": 139.00036,
-      "title": "【新潟記念】AI予想 ステレンボッシュ2000メートルで能力全開（スポニチアネックス）",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T20:29:00Z",
-      "summary": "【新潟記念】AI予想 ステレンボッシュ2000メートルで能力全開（スポニチアネックス）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92TnNiYVY2NnVnYk9jNE1KeXg4Unk2SEtiSWR3eHZtRkxDZ2h3eXhQblMyWWtvRndVNXZMQUhuRGxaUFp1VEtJblJsMmFXYkVMbThLMjNKaU0wamd0SXI3ZXdsczVlVFdlWVhnb1Q0bWttTzRMbWRUY3VTallnbk0?oc=5"
-    },
-    {
-      "id": "news-technology-1853589e8d",
-      "lat": 35.38513,
-      "lng": 139.44559,
-      "title": "ビル・ゲイツ氏のAI課税・国際規制提言、実効性の焦点は #エキスパートトピ（八田真行） - エキスパート",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T20:23:16Z",
-      "summary": "ビル・ゲイツ氏のAI課税・国際規制提言、実効性の焦点は #エキスパートトピ（八田真行） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUozTVlWNGhOcGlIT2g5OVFhSFVOY2ZBWU9SRVljYmRZclM5SzN0TW1LN0tXRk5EMWRpZkNZdDVEOFgtYlJUMnI0WmtTbkx0cXJNTW5sXzRyQ3kzNnVDc3d2LXN1bmRmcUVOb1RXVE9RZjNYUzBkNEZlc2dVeDEtZ1Q1RnV1N3k0?oc=5"
-    },
-    {
-      "id": "news-technology-75caac2b74",
-      "lat": 18.6399,
-      "lng": 77.10688,
-      "title": "Viral SEO Launches AI Assistant for Google Search Console Insights",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T20:07:00Z",
-      "summary": "Viral SEO Launches AI Assistant for Google Search Console Insights&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUlNkdWxfY000cG5EZlpPUFVwQTRxbU9pV24zUGkxSGdGeEZxQUN1bVAwbzNRMGVVd0VORGtLckk0U0E0alduSkVHamhCR0YtX2JsSXh3anNNSlh3cGwybGNqdGJJNUVBVXgxRjZlQ3NKT2FYbXhna1FYMHFuRnlCeTV5TUdXd2w5MVQyRVRxb2xQaG9jQ25iSV94YnE?oc=5"
-    },
-    {
-      "id": "news-technology-13217a23d2",
-      "lat": 35.6825,
-      "lng": 139.81919,
-      "title": "品種開発、ＡＩで高速化 イチゴ「１０年」を２年で 東京の新興企業",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T20:02:09Z",
-      "summary": "品種開発、ＡＩで高速化 イチゴ「１０年」を２年で 東京の新興企業&nbsp;&nbsp;日本農業新聞",
-      "source_name": "日本農業新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zRzg4VEU4M25BaHljZmk4elJxNmJidDVhV3FOVzNpVXl6d2dpNzRYZXRNMVlXYkZSY1ZfekM5eGlqY3VTNXc4X3o2NWdCdk4xdFdwS05zMA?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T21:03:39Z"
+  "updated_at": "2026-08-29T21:18:35Z"
 }
