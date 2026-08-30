@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-9ec0f62611",
+      "lat": 61.03743,
+      "lng": -108.02568,
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "category": "POLITICS",
+      "time": "2026-08-30T14:25:43Z",
+      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-8bdfd71734",
+      "lat": 26.8319,
+      "lng": 18.09216,
+      "title": "Libya's political rivals welcome final deal to restructure election commission",
+      "category": "POLITICS",
+      "time": "2026-08-30T14:17:32Z",
+      "summary": "Libya's political rivals welcome final deal to restructure election commission&nbsp;&nbsp;Anadolu Ajansı",
+      "source_name": "Anadolu Ajansı",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFl2c0xSUzBFTk9icWxfVHlodlJ5UzRuTXpNQ0RrVFRRbkxuZFB5UklsRVU1SDJQVWh4azJHamZ3djQ5ZXFBd3FodEhDYnF3SGFoeG9wZi1ZWEtvcFYwVkd6V2tUUVNuYjN4Wk1YUE93NUdIZS1rUjBxRDRzdGNZTU5iYWFvMnJwN19qZTJfd19PRVk3bzZzTG9wSWRuMDc1dm5xX2lGTDMwMGFPWnMzWEc3RUJYQ1pwYWo0?oc=5"
+    },
+    {
       "id": "news-politics-e3677043ea",
-      "lat": 30.86138,
-      "lng": 34.80052,
+      "lat": 30.85557,
+      "lng": 34.87818,
       "title": "Israel’s Youngest Political Candidate Shuns ‘Petty Politics,’ Represents War Generation",
       "category": "POLITICS",
       "time": "2026-08-30T14:07:10Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-3adfa5d27c",
-      "lat": 40.71615,
-      "lng": -74.03524,
+      "lat": 40.73955,
+      "lng": -74.00881,
       "title": "Why the United States Can’t Quit Its Wars",
       "category": "POLITICS",
       "time": "2026-08-30T14:05:19Z",
@@ -24,8 +46,8 @@
     },
     {
       "id": "news-politics-14ec1e876b",
-      "lat": 39.63161,
-      "lng": -76.64846,
+      "lat": 39.71515,
+      "lng": -76.65847,
       "title": "Trump says 'Meet the Press' host Kristen Welker will be reported to FCC",
       "category": "POLITICS",
       "time": "2026-08-30T13:50:00Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-b97de650c0",
-      "lat": 26.80432,
-      "lng": 18.1092,
+      "lat": 26.78727,
+      "lng": 18.08637,
       "title": "Libya's political rivals welcome final deal to restructure election commission",
       "category": "POLITICS",
       "time": "2026-08-30T13:49:22Z",
@@ -45,31 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUTFKb2Z2U0J3LVJkdHJlMlNJQ3NDOHZzdmRUSEpzU0Ixb1dSTmRFRVF2YXViS3VEeVBHZWJHY3RxbGQ2dWJBd2ItdUVreUQxVnRhRDNzSEtWbk4tdHU1ZndpdGlUTXJyQWdfOXFnLXdkeHROTHlWZ3YzWUpPVFlVR3g4Q3oyTU5sRzFBYk5JOUl4cE91cEFUMjVCdUo0VDQ4ZDI2dmQyOXpMcnR0cWNBakV3a1VmRXdB?oc=5"
     },
     {
-      "id": "news-politics-39789fdb18",
-      "lat": 38.96416,
-      "lng": -76.98735,
-      "title": "These Democrats used to be Republicans — and hope that will help them win midterms",
-      "category": "POLITICS",
-      "time": "2026-08-30T13:32:42Z",
-      "summary": "These Democrats used to be Republicans — and hope that will help them win midterms&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR29TTVBWekJhNFc2b2JvWlB2OWtpZV9tMUE0Zi01NXhRRHVScExDZG9xVnFmM3dyVkJGSW1ka0pQeFdoaXJ4QUtVLWVwQUEwd3pXZUpkcjlZTWFfTzZOamhJWnJTOS1rSmk1QjZra0Mta0RxYWJyZE0xVkVIMlBIMGJWbUtGVm5zSVJaMUhHSmV0RVB2b0NiWm9IRzh4RmRfTU1NNFFR?oc=5"
-    },
-    {
-      "id": "news-politics-9dd7f87f4c",
-      "lat": 38.89967,
-      "lng": -77.09436,
-      "title": "An 80-year-old senator says he’s the voice of his state’s youth. Many believe him.",
-      "category": "POLITICS",
-      "time": "2026-08-30T13:32:40Z",
-      "summary": "An 80-year-old senator says he’s the voice of his state’s youth. Many believe him.&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWZYMlJPbS0xLUNUZ1ZuZWNHT0VfQ1llY1NxZVRXSkRxRDFNeWtQamFRdU40RzlGbnUxTW5aRm5Ya2NQU056SDIzaVhIbDFOemdES3ZPbS0yek5ZLVR4a3BSZE40aWxBOTI0d2I0bE4wX241TGJESjBnRXpOVUpIRlk0enFqQ25CMUVna040NjhRNFprTWY1RHpFTEdSUnhRUzkxcUJkWXNpeUYyQnptazJMclZfQ2hkNlJHaVVpNVV4d2hfeC05WDFiNmxHbVE?oc=5"
+      "id": "news-finance-ac2bde427a",
+      "lat": 1.32472,
+      "lng": 103.84357,
+      "title": "Global Times: How Chinese NEVs gain ground in global markets, providing greener, smarter mobility",
+      "category": "FINANCE",
+      "time": "2026-08-30T14:12:00Z",
+      "summary": "Global Times: How Chinese NEVs gain ground in global markets, providing greener, smarter mobility&nbsp;&nbsp;Yahoo Finance Singapore",
+      "source_name": "Yahoo Finance Singapore",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnVYNHBvejdMWGVIdzg4OXBfSk9KQlBfOUhBYUNQSEh5RzJiYnhyRG1QRDV2R3FWbjVOUnpHaWhKSVRDM3psUnZvR1dSR0dGYk9KX2xWTDFXdGRfdldqOWUtMEtYVFJSRlJBM0FWU1VPVHhiUFBMSm9PVHg4Y253dWI3ZEYzZw?oc=5"
     },
     {
       "id": "news-finance-64811a5c25",
-      "lat": 59.17886,
-      "lng": 10.25259,
+      "lat": 59.09951,
+      "lng": 10.25158,
       "title": "From India’s BRICS Chairship to the 2027 NDB Annual Meeting: Economic resilience, trade and climate finance",
       "category": "FINANCE",
       "time": "2026-08-30T14:07:51Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-bb1fc5822c",
-      "lat": 30.86341,
-      "lng": 34.81709,
+      "lat": 30.8562,
+      "lng": 34.89869,
       "title": "Israel US Apache helicopter deal delayed by IDF Finance Ministry budget dispute",
       "category": "FINANCE",
       "time": "2026-08-30T13:23:09Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-aa6b8b653c",
-      "lat": 34.96551,
-      "lng": 135.76915,
+      "lat": 35.06733,
+      "lng": 135.78771,
       "title": "ソニー生命に立ち入り検討 金融庁、不正の実態把握へ｜全国の記事｜京都新聞 ON BUSINESS",
       "category": "FINANCE",
       "time": "2026-08-30T12:59:25Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-67709401a8",
-      "lat": 35.68208,
-      "lng": 139.74651,
+      "lat": 35.72819,
+      "lng": 139.6953,
       "title": "ソニー生命に立ち入り検討 金融庁、不正の実態把握へ（共同通信）",
       "category": "FINANCE",
       "time": "2026-08-30T12:59:22Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-edd1c5d0aa",
-      "lat": 35.74159,
-      "lng": 139.75159,
+      "lat": 35.67761,
+      "lng": 139.78278,
       "title": "ソニー生命に立ち入り検討 金融庁、不正の実態把握へ | | 全国のニュース",
       "category": "FINANCE",
       "time": "2026-08-30T12:59:00Z",
@@ -122,31 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zVEhtbEJ4OTZXRXVIZjJPTk91MFRpV0YyVW9tTUxoUUVNN3R4R09YRmVZM3hQY3p6U3o4Y1dUSGNIRllHUTRsSjE3MVp1R2hzcnNZR0JR?oc=5"
     },
     {
-      "id": "news-finance-0b896f126b",
-      "lat": 35.64995,
-      "lng": 139.72127,
-      "title": "金融庁、ソニー生命に立ち入り検査検討",
-      "category": "FINANCE",
-      "time": "2026-08-30T12:31:03Z",
-      "summary": "金融庁、ソニー生命に立ち入り検査検討&nbsp;&nbsp;nippon.com",
-      "source_name": "nippon.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uaUN3Z0lrblJGZFQ4bm9ubmllNGpSZWJ1RnE3VzNnc3F6MnlVd2MtQTVQMF9qb2N5YXhjZnNTU08yYmRhdFJjTkYxY0NLMzk5YUlNanRETkVnZnRWbWlIQW1vMA?oc=5"
-    },
-    {
-      "id": "news-disaster-05eb3186d7",
-      "lat": 37.31287,
-      "lng": -78.75965,
+      "id": "news-disaster-1da6e051c6",
+      "lat": 37.27864,
+      "lng": -78.77571,
       "title": "Flood advisory affecting Jasper County Sunday afternoon due to substantial rain",
       "category": "DISASTER",
       "time": "2026-08-30T14:13:06Z",
-      "summary": "Flood advisory affecting Jasper County Sunday afternoon due to substantial rain&nbsp;&nbsp;Hilton Head Island Packet",
-      "source_name": "Hilton Head Island Packet",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wVnJHdmUwMHp3WlZVNDNrZC1lMVQtWmNib2NPanhoc18xNFdsTnl2ajFtU1lucWROYWhJM2p6bTlMSEswMUdqa1RyUnBNX3JJVlJwVkg4Uk0xN2dBVFl3X0F2dkd0QmZweWpXaHJ4ZjdCNDZQSnpZ?oc=5"
+      "summary": "Flood advisory affecting Jasper County Sunday afternoon due to substantial rain&nbsp;&nbsp;The State",
+      "source_name": "The State",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sVkluWUNSWXROQ3MyckhkRUJNdHpWdEY2T0lrTDVTZ1EwYjVoRWo5X2YwRmMzMGJSd2g3Qkt0OEpoYjkySDdrbjdDcEJzOTVTSkIzS2lsbzhVLVlqQ01IOWtiVDZaWFB6cTE4NXhTT2N5QQ?oc=5"
     },
     {
       "id": "news-disaster-405e35c492",
-      "lat": 37.31935,
-      "lng": -78.78264,
+      "lat": 37.3388,
+      "lng": -78.73909,
       "title": "Flood threat continues with showers and thunderstorms likely",
       "category": "DISASTER",
       "time": "2026-08-30T14:00:00Z",
@@ -155,20 +155,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFYtbXF0X21qWXJxZ1c4V0xsa2l1VEs0eGlaSFZ2UEFGWHBGLWotRXhyQmJsaktQN25HbDM3QjUzNml5UjRRSnN3N3Mzd3l0YmZ3dzVXQXRqZERvUjdTUTRyblU0RTNNWVlPWVBOeEkzakxybEo2WjZiRjNfU29Qa2Y1dUg3bWfSAYwBQVVfeXFMUDRwdlBCT3ZxTUl2Wjd1eGg3Qm56c0dDUjVtdzNXS1IyOGtlWkd2SDVQY3p5WTlYRHEtV2ptaUpOM3dLTVlUeXJjU2pkcFoxZDdNeUdKeERMalNJcEpNeVB0bjJOb3pQZXZPd194QlRiNkRCaGRnQ2tWTXFVSkdyOHRBR0d4QVMzX2ctbnQ?oc=5"
     },
     {
-      "id": "news-disaster-0045daf1a9",
-      "lat": 53.93243,
-      "lng": 27.63362,
-      "title": "Rescuers race to find thousands missing after Nepal-China glacier collapse",
-      "category": "DISASTER",
-      "time": "2026-08-30T13:51:35Z",
-      "summary": "Rescuers race to find thousands missing after Nepal-China glacier collapse&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5"
-    },
-    {
       "id": "news-disaster-3aa40a26e6",
-      "lat": 34.19096,
-      "lng": -118.40699,
+      "lat": 34.08576,
+      "lng": -118.40211,
       "title": "“記録尽くめ”8月の気象 台風10個・記録的大雨・猛暑… （TBS NEWS DIG Powered by JNN）",
       "category": "DISASTER",
       "time": "2026-08-30T13:39:38Z",
@@ -178,8 +167,8 @@
     },
     {
       "id": "news-disaster-8416fc4a0c",
-      "lat": 40.95423,
-      "lng": -72.87595,
+      "lat": 40.91076,
+      "lng": -72.83189,
       "title": "Ridge-riding storms set to hammer soaked Northern Tier with renewed flood threat extending into Northeast",
       "category": "DISASTER",
       "time": "2026-08-30T13:36:00Z",
@@ -189,8 +178,8 @@
     },
     {
       "id": "news-disaster-432f7ca71b",
-      "lat": 28.41453,
-      "lng": 83.94777,
+      "lat": 28.32137,
+      "lng": 84.05461,
       "title": "Nepal warns of more possible floods as communities grapple with devastation",
       "category": "DISASTER",
       "time": "2026-08-30T13:29:00Z",
@@ -199,9 +188,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5"
     },
     {
+      "id": "news-disaster-d09704431b",
+      "lat": 35.63096,
+      "lng": 139.62197,
+      "title": "豪雨被災地の倉敷・真備に「灯りポスト」 故人への思い手紙に 公認心理師名合さん設置（山陽新聞デジタル）",
+      "category": "DISASTER",
+      "time": "2026-08-30T12:51:29Z",
+      "summary": "豪雨被災地の倉敷・真備に「灯りポスト」 故人への思い手紙に 公認心理師名合さん設置（山陽新聞デジタル）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aYkZ0Z0Y5bFJLd0tmbnl0MlpsVDJBOWlYVURhQUxsdVdZQlFKcUhYckRiUHdmVXQ3cTJGWlctZjc5bFVTZS1qLXk2a3Y4RWJwcVoyYXdoRlFkbUxrOW1rdW41WW5tSUZOeHFHVGFIUXd4ZDN0eUNYemVpMFVBQTQ?oc=5"
+    },
+    {
+      "id": "news-accident-8291584691",
+      "lat": 35.69573,
+      "lng": 139.80939,
+      "title": "スタントマンで交通事故再現など交通安全イベント 自動車学校で“夏祭り”",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T14:26:12Z",
+      "summary": "スタントマンで交通事故再現など交通安全イベント 自動車学校で“夏祭り”&nbsp;&nbsp;テレ朝NEWS",
+      "source_name": "テレ朝NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlUTNScU8xcDhuZEdHS0tlQVgxM3RfRHpHOGdIckpCWHVGVEN0ZWptOFl6SGpwVW9aeGk1OTY4R3VFNl9xWk5uSHFMNzZrQTAtNi1qQnRTWmRrZkN0M1Vha0M4Z1JQUmswcno0MFFfYjBxUQ?oc=5"
+    },
+    {
       "id": "news-accident-8c92e076e3",
-      "lat": 69.19333,
-      "lng": -153.34116,
+      "lat": 69.18852,
+      "lng": -153.3534,
       "title": "Three Seriously Injured in Wrong-Way Crash on I-295",
       "category": "ACCIDENT",
       "time": "2026-08-30T13:50:00Z",
@@ -210,9 +221,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDJDaWlfRVluN2t4T1RtSWN0STEzYmJWRFgzRnFiSng1NUJjV2lqSWZaRWx1WE1YV1dTUzJ1YmttZG1HdUd4aUNyZjdiSmJiUS1uZ1I1bFd1TkJCQmpvZHBxNkZrRFE0N3MtYUtkMjZnckU5RFUtbXNkTGdxYTQ2cFdydG9ZQVB0?oc=5"
     },
     {
+      "id": "news-accident-079f8df483",
+      "lat": 33.52046,
+      "lng": -111.95223,
+      "title": "5-vehicle crash closes L101 lanes in Scottsdale",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T12:57:00Z",
+      "summary": "5-vehicle crash closes L101 lanes in Scottsdale&nbsp;&nbsp;AZ Family",
+      "source_name": "AZ Family",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZUpCUVZuTjZDVGdfV0FvMFlIZXVnaVBJdGR6Rjhyd2FFM0RscURGLVBaQ1U1amx5NVJMcDNFblhEeW9RS1FuVEdjdVNUVmdwVklhUE9qYmZVWTZwd2lKemRMY3pBaXhYMnlCNEtJMVFLX2pmTjhtUlVwTmFjVGJMNWhsSnNScTdu?oc=5"
+    },
+    {
       "id": "news-accident-43a89f1570",
-      "lat": 34.98373,
-      "lng": 135.82483,
+      "lat": 35.0294,
+      "lng": 135.75559,
       "title": "【速報】国道161号で乗用車と中型トラックが衝突、少なくとも3人が重体の模様（京都新聞）",
       "category": "ACCIDENT",
       "time": "2026-08-30T12:45:29Z",
@@ -222,8 +244,8 @@
     },
     {
       "id": "news-accident-95f04eb7f8",
-      "lat": -12.43634,
-      "lng": 131.01347,
+      "lat": -12.47251,
+      "lng": 130.96532,
       "title": "Driver killed in high-speed crash on Houston's South Loop feeder road",
       "category": "ACCIDENT",
       "time": "2026-08-30T12:24:25Z",
@@ -233,8 +255,8 @@
     },
     {
       "id": "news-accident-647871dc81",
-      "lat": 34.19076,
-      "lng": -118.39121,
+      "lat": 34.11464,
+      "lng": -118.35784,
       "title": "【速報】いわき市小名浜の中之作港で車が落水の事故 60代男性が意識不明（ふくしまNEWS -KFBデジタル-）",
       "category": "ACCIDENT",
       "time": "2026-08-30T11:12:35Z",
@@ -243,31 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42TGlOV2FEYThCc29XZno1UmllcDFiSkdrQkJwN29nNlZoSmdGd2MzQWVxZWlMYnFFQ0hvUUxfMldremNRQjdDUXlnVmZTemllQnZnVFFweXFYb3RjcVpIM1lNM29QblpiQmdkcElZLWFpVmtnbV93Y0tjQnZfdG8?oc=5"
     },
     {
-      "id": "news-accident-da69d4f379",
-      "lat": -12.51926,
-      "lng": 131.00406,
-      "title": "Driver seriously injured in I-75 crash near Shiloh Road in Cobb County",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T10:58:01Z",
-      "summary": "Driver seriously injured in I-75 crash near Shiloh Road in Cobb County&nbsp;&nbsp;Cobb Courier",
-      "source_name": "Cobb Courier",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcllmVHp6Vnl6VndVRzZGQ3ZMOVRERDdBbHI5WFI0SUJXa2VMRXZmU2pTaF9KREMxOXdlY0w5bTFJc3J4b3hmRzVOLU91NTZ1SnJCRVVQaWpoUFFFR1JCSU95OTFrVG1SOVgzUlFLQ0p5Nl9zVVFXU09uOHc2TEROamd1NllnUmlzUEdrejZPbWdvT0FXSTQxU0ZzV3JVbjNkWFAxWWNuTEpGcERLdmc?oc=5"
-    },
-    {
-      "id": "news-accident-fa40468e2e",
-      "lat": -4.42715,
-      "lng": 15.36877,
-      "title": "Commercial vehicle crash causes major detour on I-10 westbound in Mobile County",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T10:49:00Z",
-      "summary": "Commercial vehicle crash causes major detour on I-10 westbound in Mobile County&nbsp;&nbsp;fox10tv.com",
-      "source_name": "fox10tv.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmZZYU5FRU1ULWNZMkd1MEtURFFoR3VVaHl5ZGRmZmZtMGNlTUNzQ3ZVdGVkc283Q2Z0N2Z6YUpuNVpxeVhIanFObkxHLU9ZdHlQRUpvNktJUXhJd2xraHdGbmtMVXhRU01fU0tNN096WWVhUVE5M1BBTmRsbkwtUTcyOTdfUno2NlpOd0VjSkFKSE1RNlAtVm52V0FyZzdxTU9uMEpTTThCbHprekE?oc=5"
-    },
-    {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.75776,
-      "lng": 106.77495,
+      "lat": 10.83262,
+      "lng": 106.74785,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-a529d6b2d0",
-      "lat": 50.46912,
-      "lng": 30.52936,
+      "lat": 50.40737,
+      "lng": 30.47086,
       "title": "３０キロ減告白から３年…華原朋美 現在の姿に驚き「かわいいです！」「元気で良かった」昨年末に手術も（スポーツ報知）",
       "category": "DISEASE",
       "time": "2026-08-30T07:49:54Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.03697,
-      "lng": 106.24276,
+      "lat": 10.02899,
+      "lng": 106.34746,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.76854,
-      "lng": 139.90031,
+      "lat": 35.80254,
+      "lng": 139.90823,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 40.96006,
-      "lng": 28.99188,
+      "lat": 41.02724,
+      "lng": 28.9786,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.8601,
-      "lng": 131.45338,
+      "lat": 31.9301,
+      "lng": 131.40277,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -331,9 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUcll0QnBpdlZESmEzLXRfZnFaekh0VEVmODVVc1Fwejdfc2VxbzBxMWpVeXlMdW9ZSjZqTzFyT3VKQTJnaE9mRE44dTRYdVMyeHA2bmgxb2ZzWFhPdUFzQzN3WTZQeF82b0NqR0o2NFNRRkxPeXlibVFWVmdqQUk?oc=5"
     },
     {
+      "id": "news-technology-b96f2a2b1a",
+      "lat": 47.63009,
+      "lng": -122.12938,
+      "title": "CrowdStrike、AIエージェントがサイバー脅威を変容させる中、トークンベースのFlexモデルを発表",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T14:25:00Z",
+      "summary": "CrowdStrike、AIエージェントがサイバー脅威を変容させる中、トークンベースのFlexモデルを発表&nbsp;&nbsp;BigGo ファイナンス",
+      "source_name": "BigGo ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQUhrSVRpY1lNd0ZiY0ZQaTVQRDlUNzBWTGlGUkg1bUp1cnNaT2dOQTV1YjJYb0lTUkRSNEZsLW01bFJKdW9VZTh3cGNwMWF0U3FGMGdhcFF4eWV3Y0JWNjJDeU1SVG9ETDVqRV9FVWUtVTYy?oc=5"
+    },
+    {
       "id": "news-technology-144e23afed",
-      "lat": 39.91203,
-      "lng": -75.24714,
+      "lat": 39.97123,
+      "lng": -75.22003,
       "title": "How Can Solving Data Fragmentation Help Unlock AI's Potential in Oncology?",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T14:07:08Z",
@@ -342,9 +353,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFdNUUpfTzJlalFnWG1aLVllRGdIMzQ1ak5iTnJiT24wSFdCSGx1ZHdQcmtLb09SMjQ0MEpBaEdiWEdCNkhidnBubTg3aldLVHI3YUo2c3p0UEFNeXAyTUJvRVo5TDdHRFdmT1pDRzFVY1VxNkR0YVVVQjg3Tk8wZ0M4UmdBM21tUFlTdE1lMjR5OTN5V0RRUG03QzVaQVFycGlUTmhiYTZFV3RhS1pkMw?oc=5"
     },
     {
+      "id": "news-technology-7f3f44bb99",
+      "lat": 46.79474,
+      "lng": 23.58788,
+      "title": "Tempus AI Stock (TEM) Opinions on Moderna Merck Cancer Vaccine News",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T14:03:00Z",
+      "summary": "Tempus AI Stock (TEM) Opinions on Moderna Merck Cancer Vaccine News&nbsp;&nbsp;Quiver Quantitative",
+      "source_name": "Quiver Quantitative",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRzF5U2pmOTVhNkZKTld6bmhJM3c5dWctOUdra3JtRUt4eXNVRFV1NzlLMmk4bXRfaXFWRXJGTl93VEdhZzJIZGJIczdnUnQ3alpfRy14ai1QRFR4ZWtKejl1Zzc5Ry15M2R4S3g4TTFzT3YwS1hvOFhKaTY3NGtUOG5MdDJJd0p6V2tueVlHaW1fRDNDcXJtZWJuaFZ5U1REUXBqaGk3OA?oc=5"
+    },
+    {
+      "id": "news-technology-643ebb672b",
+      "lat": 47.63423,
+      "lng": -0.77359,
+      "title": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T14:02:00Z",
+      "summary": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTd3ZIRk5RSmpFMEo5QXd1aG5Xb3ZlcEwtb2w5M1FvR1F5SmMtcTllaEdKZXhoRGVrT1hKZERGVHFXLXkxZ0NNSHpZQVZuS2FtRVVhUWE2azRKbWRMUTcwREF4MkR6aVFCYUdITzQ0aXY4YTduRGZz?oc=5"
+    },
+    {
       "id": "news-technology-45759a7caf",
-      "lat": 33.99296,
-      "lng": -118.21481,
+      "lat": 34.04116,
+      "lng": -118.26902,
       "title": "Letters to the Editor: If we’re in the ‘AI era,’ college students must grapple with digital ethics",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T14:00:00Z",
@@ -353,48 +386,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOXJKTFlVY2lLWElHTnlaZC1uNnVIOXZyR1E2Q2xuMk5TaTBmY0haVTZsem1BRnZBejZDTmxycGhrc3lTUm9EdW9FWFhUUzFEWWR5NWlPWlRBR2ZkY2QybFJFZ1FoNEpkYmxhMVBZSFFNNDQxbmlSUGpXZHVvY1dyb1JhZ25maXdrTGdwNWJpTUN0b2JEdGdZNFV5SW1NUQ?oc=5"
     },
     {
-      "id": "news-technology-47d819221e",
-      "lat": 54.11034,
-      "lng": -4.55276,
-      "title": "AI Infrastructure Stocks Riding Data Center Demand Beyond Nvidia",
+      "id": "news-technology-42b49dccaf",
+      "lat": 38.95319,
+      "lng": -104.73854,
+      "title": "How Apple Stumbled Into AI Hardware Success With the Mac",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T13:47:19Z",
-      "summary": "AI Infrastructure Stocks Riding Data Center Demand Beyond Nvidia&nbsp;&nbsp;simplywall.st",
-      "source_name": "simplywall.st",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVJhZHc1bHdOX3F1Y2V1bG8yaGdHcXdFb2pycWd4OEVjY2NZRG1iM2p1ZktnQ2NNSDNPT2U1eWlwazA1eWM1T0czckhodkZ1M09fakRfbWdkeUdWRlpnS3M0b19ieGxVc1FSd3VtZFhmVVBYbTNJUmpyS2tHMEsxVkFMRUpVR3VweTZVdVphQ2dfTUpraXlYcTcwazRYb2pOVHJhVjlVZ29MdzdTVWROWXVxV2g3MnpoWm14aldYTmFDaUVTV0F1ZWVCQdIB0AFBVV95cUxQN05PbnBORWNmd09feVpYZVducTFta3ZWTlA5c1NhNlpaeFVCZUFoUTlhUExTeUNWQVV1OWUwSG5ZVmlSLTNjUHFndGVjaE1teXVQNjJhN1ladXk0Ul9iTDgtbm1iVUR5dFJnSjkyVHluWENlZE1YMVhzTWtSWk1uWE1FblZBRXlVaHU0a0YxSUkxSWZKaHVrSFRKM1NiaTEtT0dfZnM5ZDMyOGNIbkdLWGlKblVuMDE1ZmFyNDZ2bEhibG1JZ3hOV3pzaXhOUXd5?oc=5"
-    },
-    {
-      "id": "news-technology-a22f920675",
-      "lat": 40.41358,
-      "lng": 66.3937,
-      "title": "Josh Brown Says ‘Take a Break From AI CapEx World,’ Highlights His 2 Top Healthcare Stock Picks",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T13:45:07Z",
-      "summary": "Josh Brown Says ‘Take a Break From AI CapEx World,’ Highlights His 2 Top Healthcare Stock Picks&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0lXVFdSanlfcEJzUHdhN0lOZzJjTVNndDF4MWtfSll1dTR2VlNCRG9fMGEzVVdwd0JTYXhaQjcwSUJ6cFNhOWJ3R1FwSGRONTZJYjM5YTdCMndoTlJCSXZoWW9BdTNUQzdMTGplUmt6VUVWX2JERWJIWnhCXzdSWFlBQWY0UmZSYkpUOS1B?oc=5"
-    },
-    {
-      "id": "news-technology-b8e7588ba4",
-      "lat": 35.70942,
-      "lng": 139.71111,
-      "title": "AI Isn’t Coming for Our Jobs. It’s Coming for Our Wages.",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T13:36:07Z",
-      "summary": "AI Isn’t Coming for Our Jobs. It’s Coming for Our Wages.&nbsp;&nbsp;Jacobin",
-      "source_name": "Jacobin",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5la2hRQTI2UXI5WFp3QjhpcUk1ZnBsMzJBMTNrRHAtTjRQVk04MHhfOG93cGIwQ1c0bHk0b24ySlcxQ3ZGZWVKQXgwekt4QjZRWE51dEJWU0l1RHJvaFdSZGZIcw?oc=5"
-    },
-    {
-      "id": "news-technology-b4a7e56503",
-      "lat": 38.966,
-      "lng": 125.71255,
-      "title": "Scientists Are Using AI And Viruses To Help Defeat Superbugs",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T13:30:00Z",
-      "summary": "Scientists Are Using AI And Viruses To Help Defeat Superbugs&nbsp;&nbsp;Forbes",
-      "source_name": "Forbes",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkktdGwxZzZUZkVoR0IzMUZZbFFuRTVHWVRCblpNRXFUS0VXUTBEYVhKRzRsVzdhYlk3S1VsUGxITHUyRGlQSGlHUy1jbEE4VWJrMWF6dlNjTTM0Y1BsbWhickM1SWdSTURtemNMUk81TXhzbS1oZ1dyN1NXZkRHZFlGNk9nelE3Q0s4d3RVdkNhLU5fMkJiY3YybVNmYmlCV2VIeW4xdnZ4RXp3aXc?oc=5"
+      "time": "2026-08-30T14:00:00Z",
+      "summary": "How Apple Stumbled Into AI Hardware Success With the Mac&nbsp;&nbsp;The Information",
+      "source_name": "The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3RrWEdyd0s3WmxFQjA3Wk9DUDl3b213LUVfaU9rYkpBMVFqb2p5VFBtNmY4QmMtXzZfQ05LQzJDdU13WERFeUdvanZOWmtnRGJtVmxjelN3WUZ1WWtqMlRlSF9qYXNtc1dzUFB5Yk1kVkp1UzlSWXBnVXdCMnI4WDg0eXE?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T14:18:31Z"
+  "updated_at": "2026-08-30T14:33:37Z"
 }
