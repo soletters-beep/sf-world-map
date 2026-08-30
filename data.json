@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-3ad2b85435",
+      "lat": 35.34725,
+      "lng": 139.478,
+      "title": "【沖縄県知事選2026】4年で1万5000票縮まった差、勝敗を左右する「下地票」と投票率（大濱崎卓真） - エキスパート",
+      "category": "POLITICS",
+      "time": "2026-08-30T01:29:04Z",
+      "summary": "【沖縄県知事選2026】4年で1万5000票縮まった差、勝敗を左右する「下地票」と投票率（大濱崎卓真） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnpESU5Gb3N1VnFBMDNjZEdBVFZlU0hMS2hEZXhoeWdwNUgwTjVoRUNLbFZfNVBUYlNlVXIyNTFOOWQweUd5aUlfTWF5bWVEZzFCWTIyMjhYa3RiRW1pbGI5VUROLU5DOUYtNUYtTE9VdDV1S0F5Wmg3RlRDSjBfQ01XMEtibi00?oc=5"
+    },
+    {
       "id": "news-politics-bb115b625f",
-      "lat": 35.02815,
-      "lng": 138.40498,
+      "lat": 34.97417,
+      "lng": 138.32286,
       "title": "2026連合静岡政治連盟の政治セミナーに出席しました。",
       "category": "POLITICS",
       "time": "2026-08-30T00:51:23Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-a8433bab8f",
-      "lat": 38.87105,
-      "lng": -77.04979,
+      "lat": 38.91473,
+      "lng": -77.03008,
       "title": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews",
       "category": "POLITICS",
       "time": "2026-08-30T00:37:35Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-c97c7098e1",
-      "lat": 48.60695,
-      "lng": 3.70779,
+      "lat": 48.58664,
+      "lng": 3.76071,
       "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図 - tv-tokyo.co.jp",
       "category": "POLITICS",
       "time": "2026-08-30T00:27:21Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-9ec0f62611",
-      "lat": 61.01874,
-      "lng": -107.93597,
+      "lat": 61.1249,
+      "lng": -107.94289,
       "title": "Canada installs large Lake Ontario sign in latest jab at US",
       "category": "POLITICS",
       "time": "2026-08-30T00:17:25Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-a3c56500bc",
-      "lat": 40.50729,
-      "lng": -79.97456,
+      "lat": 40.41048,
+      "lng": -79.94264,
       "title": "Gov. Andy Beshear: 'People are looking at Kentucky' (Video)",
       "category": "POLITICS",
       "time": "2026-08-30T00:12:40Z",
@@ -56,20 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81eXdORm9YaXVqckJfeWJIejRvTzBPMk9VRUdjUWl5UHFaNVZWeHI0OTBrd0s1T01FWm9aLVNqUWhlbkZjdG1YX1BjUUpTQXlDTmpXVGZNSGZaTWhOU1kzUDhOcVJVOUJwOWtLMGJvSmFsUldIc2VTZ0VxWQ?oc=5"
     },
     {
-      "id": "news-politics-5f67a79e79",
-      "lat": 35.73988,
-      "lng": 139.78646,
-      "title": "改憲 一緒に止めよう/田村氏・ＪＣＰサポが対話宣伝/東京・池袋 | しんぶん赤旗",
-      "category": "POLITICS",
-      "time": "2026-08-30T00:08:43Z",
-      "summary": "改憲 一緒に止めよう/田村氏・ＪＣＰサポが対話宣伝/東京・池袋 | しんぶん赤旗&nbsp;&nbsp;jcp.or.jp",
-      "source_name": "jcp.or.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nY1ZCZklST0o1aVRrZ0k0bk9udjA2VDU2U1Y3dEw3ZWJpNmpET3ZXSjIwY2x5ekhETGNWXzNjWnlXMDkybmVKVk9Sa1NUeTdfQUhmUFhJY1RyUGFZNHhrNXZTMjlfUWtIRGFFU3FYZmVVX1VT?oc=5"
+      "id": "news-finance-b7e2b6e0cb",
+      "lat": 40.70147,
+      "lng": -74.00507,
+      "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
+      "category": "FINANCE",
+      "time": "2026-08-29T23:20:50Z",
+      "summary": "Treasury Bars Some Reporters From G20 Finance Meeting&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGJ5VDNjaTdCWHJCaFhCM2JlMC0tNlFIN0E0UzJNZG5vNGk2dWpYenpYRVdESjlOc2hsVXFReURMQ2dkSFUwWGR5VVRIbElrUUh5YXRtdHpBTGd0a0ZxUjRwOU41ODFsZDdrMXJqY19QX1pLbTFKQjFia3p5Y1JXMnI1MA?oc=5"
     },
     {
       "id": "news-finance-401f425c1c",
-      "lat": -28.52241,
-      "lng": 153.3745,
+      "lat": -28.60219,
+      "lng": 153.32069,
       "title": "Protesters line Merrimon Avenue as G20 finance ministerial comes to Asheville",
       "category": "FINANCE",
       "time": "2026-08-29T23:17:18Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.62546,
-      "lng": -76.65743,
+      "lat": 39.6806,
+      "lng": -76.60218,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T22:40:51Z",
@@ -89,31 +100,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-finance-b7e2b6e0cb",
-      "lat": 40.7328,
-      "lng": -73.98789,
-      "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
-      "category": "FINANCE",
-      "time": "2026-08-29T22:22:32Z",
-      "summary": "Treasury Bars Some Reporters From G20 Finance Meeting&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGJ5VDNjaTdCWHJCaFhCM2JlMC0tNlFIN0E0UzJNZG5vNGk2dWpYenpYRVdESjlOc2hsVXFReURMQ2dkSFUwWGR5VVRIbElrUUh5YXRtdHpBTGd0a0ZxUjRwOU41ODFsZDdrMXJqY19QX1pLbTFKQjFia3p5Y1JXMnI1MA?oc=5"
-    },
-    {
-      "id": "news-finance-1bda4653f6",
-      "lat": 38.22137,
-      "lng": 140.84018,
-      "title": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）",
-      "category": "FINANCE",
-      "time": "2026-08-29T21:59:53Z",
-      "summary": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwS1lNd1JkSllWYUhhc1BaUktHd0ZzYTB0RzVHa0M5YzdJb3lqckNsai1NUERBcEtXRmtGdDgxblBqcEVxMkVJRkJXRlVFbU94MkE?oc=5"
-    },
-    {
       "id": "news-finance-75d28925f4",
-      "lat": 43.06386,
-      "lng": 141.29251,
+      "lat": 43.01919,
+      "lng": 141.33925,
       "title": "【最新FX・為替ニュース生解説】2026年8月31日～9月4日 YouTubeライブ配信スケジュール｜リアルマーケット分析",
       "category": "FINANCE",
       "time": "2026-08-29T21:00:00Z",
@@ -123,8 +112,8 @@
     },
     {
       "id": "news-finance-36c1c3a863",
-      "lat": -12.0555,
-      "lng": -77.04215,
+      "lat": -12.09664,
+      "lng": -77.05107,
       "title": "太陽誘電の株価が当日4%高。2027年3月期1Qは営業利益+53%、直近のPERは40倍台（LIMO）",
       "category": "FINANCE",
       "time": "2026-08-29T20:31:09Z",
@@ -133,9 +122,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xd2kwSk9yeWROelBYeWxQMDNKZzZMUGRNS1pIMDVSeFFzQVNUdXpBaFRyWmREcmVybzNCNmQ1OTBFZ1ZOWnhmd2tUM3U4OTh2dUZpVVJjX1loZ0RQdE5zaTdlUU4xUFVMYWJxREhPSFhCbGJRaFJoYWR4Z0lMTmc?oc=5"
     },
     {
+      "id": "news-finance-1f723793e4",
+      "lat": -12.09375,
+      "lng": -77.05093,
+      "title": "東邦亜鉛、1カ月で4割超上げた株価が当日は反落。2026年3月期通期は当期利益が黒字転換（LIMO）",
+      "category": "FINANCE",
+      "time": "2026-08-29T20:05:12Z",
+      "summary": "東邦亜鉛、1カ月で4割超上げた株価が当日は反落。2026年3月期通期は当期利益が黒字転換（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uQXE4eW40Wlp0N2J6ay1sZlJhRTExQnBpSU11YnozRjYtZFI5X3NMOWFqc1hVaXdFR3RoZ3d3b091OUZTTHB4VlRMXzlWa0pxYlVZWFVhWnNnb2VJWHhtVlA2Si1lWExGMlA0VXZScWFqWVlvOVFIT1VqM01oRTA?oc=5"
+    },
+    {
+      "id": "news-disaster-b012c5c906",
+      "lat": 28.34236,
+      "lng": 83.99158,
+      "title": "Nepal flood death toll nears 700, with more than 3,000 missing, as poor weather hampers rescues",
+      "category": "DISASTER",
+      "time": "2026-08-30T01:17:51Z",
+      "summary": "Nepal flood death toll nears 700, with more than 3,000 missing, as poor weather hampers rescues&nbsp;&nbsp;CBS News",
+      "source_name": "CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGJUTWZJUTI3S3FUSF9oSGFIVnNxQzhWVDZ3eUMzbnRjcGtJZFJJbS1TZnpveGFkOHIydU9iRlk5VE56UGJmNkY0OWloaWlKaEY5WG5jWkUwakVMUFlUSmNvOFhsb3llVkJ4QzZKaWlBTEVLR09mZG1FaHdhNkNaajgtOEg?oc=5"
+    },
+    {
       "id": "news-disaster-b1c9c1b10d",
-      "lat": 38.40192,
-      "lng": -122.88907,
+      "lat": 38.47473,
+      "lng": -122.85606,
       "title": "2.3 magnitude earthquake recorded close to Graton, CA on Aug. 29",
       "category": "DISASTER",
       "time": "2026-08-30T01:13:06Z",
@@ -144,9 +155,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9neDJsN1M1VDlqRDhkbms3c01XdlkyNmpheW5HczR0QTlEMnJSTmtzaFk4UkNWWXB4bGNSZkpUWGJCazg2VVZ0Ty11dzJkVkc1d2RuQ0dOTGVQbEpVT2dBRjNmSWp2dWdKOTV2TUJMU0dfWWl3MmRpMklRRTA?oc=5"
     },
     {
+      "id": "news-disaster-e4a297c295",
+      "lat": 34.65828,
+      "lng": 133.92138,
+      "title": "【台風情報】日本のはるか東にある「台風23号（バンラン）」...今後の進路は？9月9日までの雨・風シミュレーションで確認【気象庁30日9時45分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
+      "category": "DISASTER",
+      "time": "2026-08-30T00:55:00Z",
+      "summary": "【台風情報】日本のはるか東にある「台風23号（バンラン）」...今後の進路は？9月9日までの雨・風シミュレーションで確認【気象庁30日9時45分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MUhOVUZNSUNhQ01kYzliMjEzM2xNemFHUm02Ym5DYVhBcWJ3T2Q4T28xVVV4aWtmeG1pT18zUTNDVE8xcGdjZGZjVm1yZnBFcVBLemJWcWVzdw?oc=5"
+    },
+    {
+      "id": "news-disaster-a8a60a5a18",
+      "lat": 35.7383,
+      "lng": 139.75141,
+      "title": "【レベル４】出雲市に大雨と土砂災害危険警報 島根県（2026年8月29日掲載）",
+      "category": "DISASTER",
+      "time": "2026-08-30T00:47:00Z",
+      "summary": "【レベル４】出雲市に大雨と土砂災害危険警報 島根県（2026年8月29日掲載）&nbsp;&nbsp;日テレNEWS NNN",
+      "source_name": "日テレNEWS NNN",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oYzdKZjE1YVNYQWY3RE5Ed0tobXZVT0h0N3RLTG9TTDRoUlcxdERyUzMtMkJRT2ttQ1FwUFJqS1k1YmF6S2NzR2VCemstZ2JWZzktVllYcnlWbHBEX1RlRU1TRkJmMVRjLXJmZEVJSXUycWZybFFySmNsUWpvZFU?oc=5"
+    },
+    {
       "id": "news-disaster-4ee1ae2adb",
-      "lat": 35.74792,
-      "lng": 139.81931,
+      "lat": 35.69841,
+      "lng": 139.79098,
       "title": "【速報】島根県にレベル4大雨・土砂災害危険警報",
       "category": "DISASTER",
       "time": "2026-08-30T00:18:19Z",
@@ -155,31 +188,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ud3lLTGZHNVhNeVk4bl9HS2tDUjdYNE56aXJHdEtkVUplcm9JVE15MUh4Q0F1WGtieXJTOVBRUmFRS0xNSGNTN09DOGZJanh0NldnUHN5NUV2ODVWcUVZVHlsZUk5Vkl3c20zZ1QyQWJYZw?oc=5"
     },
     {
-      "id": "news-disaster-1d9ccc8f74",
-      "lat": 35.68724,
-      "lng": 139.78294,
-      "title": "【速報】島根県にレベル4大雨・土砂災害危険警報（テレビ朝日系（ANN））",
-      "category": "DISASTER",
-      "time": "2026-08-30T00:18:19Z",
-      "summary": "【速報】島根県にレベル4大雨・土砂災害危険警報（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15QkhuZ2g1U3BVTTJwY2pWempOM1lKSG1DU2RUOFpUakR3TVp2MHdLMHV0R0wyS1lBR013STFKRm9qTTE2cUVET0lvOUV0RGZQRDYzQTZxWk5kMzlzYUNKX0RHd1c1Q3ZCNXRVbloxaXluWTk3a0FGXzUzRWttcUE?oc=5"
-    },
-    {
-      "id": "news-disaster-33e141cef7",
-      "lat": 34.39703,
-      "lng": 132.51491,
-      "title": "北海道で最大震度1の地震 北海道・恵庭市、北広島市、函館市、安平町、新ひだか町、浦河町、青森県・東通村",
-      "category": "DISASTER",
-      "time": "2026-08-30T00:17:00Z",
-      "summary": "北海道で最大震度1の地震 北海道・恵庭市、北広島市、函館市、安平町、新ひだか町、浦河町、青森県・東通村&nbsp;&nbsp;FNNプライムオンライン",
-      "source_name": "FNNプライムオンライン",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNm1uZjZYZUFaVXNLdXFBMHRPeXdHOG5HcThtdHJISFRMVG9jN19hRkJfTktBVGtuSEZpdFdvTnNZbHNIRVl3QW5nVktnUQ?oc=5"
-    },
-    {
       "id": "news-disaster-39248c3b3a",
-      "lat": 35.65621,
-      "lng": 139.7923,
+      "lat": 35.71639,
+      "lng": 139.78903,
       "title": "【レベル4土砂災害危険警報】島根県・松江市、雲南市に発表 09:01時点（TBS NEWS DIG Powered by JNN）",
       "category": "DISASTER",
       "time": "2026-08-30T00:03:17Z",
@@ -188,20 +199,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DLVBfYjRScEFZeTNXcnJNbGQ1Ym5VOWZYemhVRms5Q0hiMEpGcHVoRDBlV3FrT2ZtcndSYzZBTVhGTnRBdHhZZ3dDeGdaR1VMeTRIZnZjRmZFMUJBc2xPS1lZTDZ2eXdDeVN4d2JjMkZUMmFaLTQyZlYzTWJaajA?oc=5"
     },
     {
-      "id": "news-disaster-60cde604c4",
-      "lat": 27.72289,
-      "lng": 85.27587,
-      "title": "NC Nepalese community rallies after deadly Nepal-Tibet border flood",
-      "category": "DISASTER",
-      "time": "2026-08-29T23:55:40Z",
-      "summary": "NC Nepalese community rallies after deadly Nepal-Tibet border flood&nbsp;&nbsp;ABC11 News",
-      "source_name": "ABC11 News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXMzXy04dmhNdUhwMWtBcV9sZE9hYm0xMXd5b2RrRmlSMTIwYmRYcXBPVGlaR3NoMHRSeE5tQTRTOThzZzJSMU50ejZkb3ZUeUM4SU8yWDdOdFdZYVpwZm1UWVhDS2tCTzFXUmg5dVZFU2o3U0VaaVVrTkNsSEs2ZkxhRjBMUjBDNmoyZ19BalJob0JDRjFTaC1n0gGfAUFVX3lxTE9LVk9vNFAxalEyOGtmYUtZQUJHVFkwWEtvLTZPUGRraTVYenhPZHZ2OVV2N1I4SmtCWGpQeGNxWW01UWQydHUxMm9IY21vQmNkNG9DSU9GNllTUVczc2JXNjU2UURvMDhnVk1ycG5KdW9HTWFqdjY1NGMycUFmbUZCclphTFFLOFh6STJYM0pJQUdDYkF2bE5BSnNDSjU1cw?oc=5"
+      "id": "news-accident-230f37f1b6",
+      "lat": 40.82863,
+      "lng": -73.85088,
+      "title": "ラガーディア空港の航空機と消防車の衝突事故、FAAが管制官2名を解雇へ 勤務中の無断早退が発覚 - sky-budget.com",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T01:15:33Z",
+      "summary": "ラガーディア空港の航空機と消防車の衝突事故、FAAが管制官2名を解雇へ 勤務中の無断早退が発覚&nbsp;&nbsp;sky-budget.com",
+      "source_name": "Google News (日本語)",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVlVSajlOanNDdXJ4Y3RHYURDZzFjM0QtNWEzT21XTXdyWDhjbjVwU25wc05keUp5aXhOMk93UnVkR1RxQkh5X0N2cGV2YjJyYjg1eklRUXN3dnUzQkUwQWpES2l6N24zRHc4UVpXcW9oQi1TT0Z6WGVJcUtUNzdtWFIxNUxvcjQ4SXR0V2IxZmFTRGREem0yTXUzZXd4TUstZEg4UFVJUkl5X3BKTmtIOUt1d0JaVDNtVFpiVjBtRk1WTmZiQmpSR0pnOEVzaVNfSW5xZjB3RDl4bG9x?oc=5"
+    },
+    {
+      "id": "news-accident-65d51a7cc9",
+      "lat": 32.32627,
+      "lng": -86.27875,
+      "title": "Two killed in wrong-way crash on I-270 in Montgomery County",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T01:12:51Z",
+      "summary": "Two killed in wrong-way crash on I-270 in Montgomery County&nbsp;&nbsp;WJLA",
+      "source_name": "WJLA",
+      "source_url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPNVRvT1ppdnNQeFEzdzlQR2ZKdF8zcTZsQ0JGUkJNbTJyS3B3cVRIaTlzQTdJcmxWZ3NGdTdYcUM0Rl9oTXlRdzRFUm9JWGFXNmpGMVU4dE0zZkZsdUNMa052Zi1ua3FLdXhhSUFpR2pydVF3RDdoTEZKTFpXcktZLTlvNEU3MjdHVEJJNWhSY1BWS193UF9JRUJ1MkZzRHFEQXAxQnlZXzBHS29rNXpwaE95ZmtVcm12SDNzOUNwWTIzbDNNNGxhZTJ1RG5pM3B4QTVuaEtSNEFadDVycU1JcTZUanRHQzkzZW5VN1prc1lLWE1ac19WcWNJeXJnMWVUZFJGSjJITnpzWTlDUkM5Y0xKQXM5cmxRUDBxRlNNVFg0TlNORFhlcU45RTF1U09VZTRKRlFnWDYxTmx1T3lpaW1yZE1qMzZUUTd5czNFeno5eVpFRWhxWXNfdlhRaVFYdGRWLUJSU2hSUXh0NFVvSXZNS0Fpc0FZUGFNeXBVLWVpRFpSZ19j?oc=5"
     },
     {
       "id": "news-accident-03c480a8c5",
-      "lat": 48.44847,
-      "lng": 1.79698,
+      "lat": 48.41677,
+      "lng": 1.79756,
       "title": "1 dead after vehicle crash during Tour de Fat",
       "category": "ACCIDENT",
       "time": "2026-08-30T00:20:00Z",
@@ -210,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWFwRGk4N1pKZ2VkaFN2YjdGM2s2ZkpyUGtmTzFhWWRGZU11UkhVUU1FcGlrYjNzZ1JiZW11c0ZtR1k1TFh5WGd6RHMxdHliay1uUjh3Uks2TkdEYi1JSFZLNnAtRDd0c3h5Qk90emhmVlZYMFFpRUhDQUgtaGZORV9vSHVWakhGal9aS3JTT2hiaHVoSDNKRFpGcTJtQlM1M0c2X1EzRlhLdTVheUJlQktjS3R4YmxoYUlqVFFPd3BYakR4eE9jOEpYdUk?oc=5"
     },
     {
+      "id": "news-accident-dc7c13fb43",
+      "lat": 35.47439,
+      "lng": 139.60383,
+      "title": "横浜市旭区で25歳の男性が車にひかれ死亡“白っぽい色のミニバンタイプの車”逃走か 死亡ひき逃げ事件とみて捜査",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T00:18:58Z",
+      "summary": "横浜市旭区で25歳の男性が車にひかれ死亡“白っぽい色のミニバンタイプの車”逃走か 死亡ひき逃げ事件とみて捜査&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JN25PSFNLckp6T3hBdG9uWUl3VWZfS21TV2JYYU52aVk5UDBoRHhaNURGbHpmQTBoaGZMMDJEZmgxWlhZNURGdXRPTWxTVGNuSnRCMEJ5WE40M0FCU3FTY296TmVzOHNua0FoLXFtcDBHQjlHS1pPeWw0Zm9aM2M?oc=5"
+    },
+    {
       "id": "news-accident-370d35d45a",
-      "lat": 33.61559,
-      "lng": 130.34976,
+      "lat": 33.58975,
+      "lng": 130.37368,
       "title": "福岡の住宅街で起きた「謎の事故」 なぜマンホールのふたは吹き飛んだのか ゴキブリ退治のバーナー、漂うガス臭…原因を追う",
       "category": "ACCIDENT",
       "time": "2026-08-30T00:12:00Z",
@@ -221,53 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EWmVtYm41TGNOVjRoNkxWRXRQbEx3c18yN1Z1cl9iNm16YUROQlFaV0JMRTFhZzJjRVgyWGx2ZC1UdlJDdVR4TU0yeTVETnpjUjM1ZmZB?oc=5"
     },
     {
-      "id": "news-accident-b2dd8ae355",
-      "lat": 31.54342,
-      "lng": 130.50168,
-      "title": "高校生1人・中学生2人が死亡 いちき串木野市沖で水難事故、波1.5mで遊泳中に行方不明【鹿児島】（FNNプライムオンライン）",
+      "id": "news-accident-da4daca716",
+      "lat": 41.57935,
+      "lng": -75.98181,
+      "title": "Tunkhannock family of four killed in Susquehanna County crash on Saturday",
       "category": "ACCIDENT",
-      "time": "2026-08-29T23:43:19Z",
-      "summary": "高校生1人・中学生2人が死亡 いちき串木野市沖で水難事故、波1.5mで遊泳中に行方不明【鹿児島】（FNNプライムオンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DSXc3OXlONlE2NnJCcE1Hd2lqakJDUktYYlNZWE5tZWZsVEFhdkh2eGpGNXZSVWNnSVJZUVBJdkE0WmxHcDZwSUtRX1ZhQjBFRTV0bVVrVkJDNWZoNEtrXzRwc0tBVVVTX2liaDhVNTQ0a01BVC16d01EdWVVZWc?oc=5"
-    },
-    {
-      "id": "news-accident-0c4172c97a",
-      "lat": 31.64818,
-      "lng": 130.61316,
-      "title": "高校生1人・中学生2人が死亡 いちき串木野市沖で水難事故、波1.5mで遊泳中に行方不明【鹿児島】",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T23:42:00Z",
-      "summary": "高校生1人・中学生2人が死亡 いちき串木野市沖で水難事故、波1.5mで遊泳中に行方不明【鹿児島】&nbsp;&nbsp;FNNプライムオンライン",
-      "source_name": "FNNプライムオンライン",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WSGVJX1dhNEhRSWtxRFFUdHo3MDI0UW5sTWtidEd6ZXJNMm1EMjFBT2lfOGhTWVdGMC1fZ0pZVkFqSGhETUk1VlMzZkNHUQ?oc=5"
-    },
-    {
-      "id": "news-accident-e4b4ad8f6e",
-      "lat": 59.07718,
-      "lng": -135.17022,
-      "title": "Prayers and donations sought for family after tragic accident",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T22:49:00Z",
-      "summary": "Prayers and donations sought for family after tragic accident&nbsp;&nbsp;starvedrock.media",
-      "source_name": "starvedrock.media",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3daT1RkUkhhbnZ6TEk5VkJjanlETnljWEZ0X0o0NVFXbnJVOFRjbUhlUGRRektFd091NTIwREtNVExiNU9vWmNZSnB4WUh6aDBWUmVPTlRiamFTd1BId1gyTlRtN2R4Sl8wQllVaTZaNFItYjRKa0UtbE0tYmxzZjFnNEJvRFlidnlaQUdRQ0QxRHNNNDVhNVc0ZklYSTNQdmNDc19vcU9ReUdrcVo1NmlRVlprWG0weDZQUFFkajhUOTNTM2I5LWJQdjFNM1YxX3FSa25YbEM2NFRaMGZr?oc=5"
-    },
-    {
-      "id": "news-accident-dc057338a8",
-      "lat": 38.28708,
-      "lng": 140.91073,
-      "title": "テスラ今度は木の切り株に激突しイーロンマスクもショック 人間の遠隔操作で事故",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T22:42:33Z",
-      "summary": "テスラ今度は木の切り株に激突しイーロンマスクもショック 人間の遠隔操作で事故&nbsp;&nbsp;自動運転ラボ",
-      "source_name": "自動運転ラボ",
-      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuM1BtcXhKYzUzTGEwem1aaXExOWV6akVGTWUzS0V4U0RTajBRbmI4ck9QYWMybDZfVFdQX3lVM1NEV2diTUN4MQ?oc=5"
+      "time": "2026-08-29T23:59:14Z",
+      "summary": "Tunkhannock family of four killed in Susquehanna County crash on Saturday&nbsp;&nbsp;Wyoming County Examiner",
+      "source_name": "Wyoming County Examiner",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVAyV0ZJd1Rmb2tzYXYzMHFXdEtsVVFHQXFUaEtSbGczbXNkZmRYNm1OWDc1WG1PRllGZ2w1S0xUbEsxcTJ4aGJyZmxJeV9ZeTFOcWFMem1lRTEtQ1Nuckg0SlFiZWZVM25KOVZneUhHYWZyY2lib2pFbDVLTjdpbnRFZUtzYUZxeWNhOWRlVXdKZE5qbV8xd1Jybm5uTnp4Yk10ZUh0dUd4Q2FFYmlkaGJ3?oc=5"
     },
     {
       "id": "news-disease-f0113312b6",
-      "lat": 34.01656,
-      "lng": -5.05634,
+      "lat": 34.01657,
+      "lng": -5.03418,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.27252,
-      "lng": 66.08448,
+      "lat": 34.22848,
+      "lng": 66.15324,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-d7e083a328",
-      "lat": 34.21269,
-      "lng": 66.16603,
+      "lat": 34.26047,
+      "lng": 66.11596,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.9806,
-      "lng": 4.65699,
+      "lat": 46.94742,
+      "lng": 4.67491,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.97227,
-      "lng": 4.60661,
+      "lat": 46.93725,
+      "lng": 4.63322,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.81263,
-      "lng": 139.52463,
+      "lat": 35.74123,
+      "lng": 139.50273,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -331,9 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yaGhOZ3VHUVJSVk9zSVQ0dndUUDFCX3Z3OXFQZ2Vyb1Y2VlluWWNFLWx6Y1RROFBId3pRZ1VOaFdfQ2EzR2k2cU9ydGNNUjVjYUlSUUpSVzJwNDNxczF0cGxSaUxqakFSMnYteWNralA3WmJWOFU40gF_QVVfeXFMUGJhcWxoT1VrRWJVOWFfTkpGOGM3a09mdGRwWjJ3X2xhYkNkOW9BSTNjSnZEdlBTRktNbFFqZGpRa0dGVC1sa1Q5WmdISzY5aVNLQlVZcmVzdnlfSGNPNWJmOU5vWmkzR2t5Vl94TC1HY0F3ODNkN2hHZVJIQkhIaw?oc=5"
     },
     {
+      "id": "news-technology-fb47448a32",
+      "lat": 35.19078,
+      "lng": 137.0791,
+      "title": "AIの勝負はモデルでは終わらない、Genspark創業者が描く「次のAIサービス」の条件",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T01:30:00Z",
+      "summary": "AIの勝負はモデルでは終わらない、Genspark創業者が描く「次のAIサービス」の条件&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tUXNRU0RmT1JWU1cxUWdUQU1POTFERWVUNGRPMGFRM2FVRVRRcDNBZnlYSVJ3RHhBb2tQay1IdWluR19qakxKcTYxcXpzWnllakd5d3ZJczVfbHB6WXlzZnlpYWdHWFNGc1B6RGZ0RjlibktQa1NKSWhIMHhfRkk?oc=5"
+    },
+    {
+      "id": "news-technology-490594a3f6",
+      "lat": 37.85643,
+      "lng": 139.03136,
+      "title": "地域の未来、新潟日報生成ＡＩと共に考え…新潟市でワークショップ最終回 デジタルノマド誘致などアイデア続々",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T01:30:00Z",
+      "summary": "地域の未来、新潟日報生成ＡＩと共に考え…新潟市でワークショップ最終回 デジタルノマド誘致などアイデア続々&nbsp;&nbsp;新潟日報",
+      "source_name": "新潟日報",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBieko3T0ZPdUdYNGVxSWpuc2FuZjZaenhXYnlpNzFHSWh2QlFUZTVwZ0dRRWRybEF2aWFmNk1uR1RoQjJ3V0EyYlQ1UEpoY2xwZVhzR3NVdm51Ni1LblE?oc=5"
+    },
+    {
+      "id": "news-technology-6ea5f64835",
+      "lat": 12.99034,
+      "lng": 3.09834,
+      "title": "米VC、フィジカルAI関連の新ファンド設立 総額11億ドル",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T01:28:37Z",
+      "summary": "米VC、フィジカルAI関連の新ファンド設立 総額11億ドル&nbsp;&nbsp;株式会社エクサウィザーズ",
+      "source_name": "株式会社エクサウィザーズ",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iaDlFTzh5SWh3d01MQTg3bUxZZTI5X2xJa0hlWkFkVFhBdTFvamF3cjFKZ1ZqMUJRWFJkVHV0YU1VUDNqVmVKNFlQOWpKck9qY016SFdvV21YaGFTbFRMZ2xlbGVqQQ?oc=5"
+    },
+    {
       "id": "news-technology-0bfdd80a7d",
-      "lat": 51.26411,
-      "lng": -115.84514,
+      "lat": 51.16647,
+      "lng": -115.79373,
       "title": "Massive AI data center near Philly accused of running unpermitted generators",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T01:05:46Z",
@@ -343,8 +376,8 @@
     },
     {
       "id": "news-technology-335d46335e",
-      "lat": 38.91192,
-      "lng": -76.98065,
+      "lat": 38.86807,
+      "lng": -77.02405,
       "title": "「AI暴走」論への異論 OpenAI侵入事件で問われるべき組織的責任 #エキスパートトピ（八田真行） - エキスパート",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T00:45:18Z",
@@ -354,47 +387,14 @@
     },
     {
       "id": "news-technology-0d85f532c1",
-      "lat": 35.19397,
-      "lng": 137.01746,
+      "lat": 35.17755,
+      "lng": 136.98752,
       "title": "Z.aiが320Bのモデル「GLM-5.3-Flash」を発表／OpenAIの自社チップ「ハラペーニョ」の性能が明らかに（ITmedia PC USER）",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T00:45:12Z",
       "summary": "Z.aiが320Bのモデル「GLM-5.3-Flash」を発表／OpenAIの自社チップ「ハラペーニョ」の性能が明らかに（ITmedia PC USER）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUXN4dnE0R25LN2tNSHNRaENZdkNCSGZFajJ0RGhjMVBxMEw5UGRPeHEtcXdaV2xvdkNucUNFQjJnY3NuQ2pPeW4tOXEwQ3lyRTUxQnIwaTJRazRTOGtEWWlFWC1fd282LWNYeFQ4QzRvaklGOEc2b015VTl6M0k?oc=5"
-    },
-    {
-      "id": "news-technology-d4c77c96c4",
-      "lat": 29.99073,
-      "lng": 31.45684,
-      "title": "How Investors Are Reacting To Cisco Systems (CSCO) Expanding Its Secure AI Factory And Sovereign Infrastructure",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T00:44:38Z",
-      "summary": "How Investors Are Reacting To Cisco Systems (CSCO) Expanding Its Secure AI Factory And Sovereign Infrastructure&nbsp;&nbsp;simplywall.st",
-      "source_name": "simplywall.st",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeTk4RUc3VlM4dldoMDVDMXpHMzlGM05WZnN1SmlKT1gzZFlabm53MHc5b2pETFlWSzFPMXAwdVNGNWtiNXpmYkdLbkZFOVYwY0JEbmdQdDN3djhCa21paUlEbUVCT01oZTlaNndFX3F3SVd4a3hKLWVVVjhpVzFIeUw1S0xNb2lkVjgxMTNzOHVhbmN4RmpiTWtic0lZd3Z5RGpXMzNtd01lbUk4Ym1mWmVvVXhCckpJdHlXYjVvVXg4VDBJZXVZ0gHMAUFVX3lxTE91T3k1U2x4YlJBZ0hCaG5jUnlnbW9uSG1lYnJXR0s5SFgtU1NBMHNQVUp5dUVHUE1YNnk0bHMwVEFFamZIVXJHNVhlY0VJR0VZcHFJa3ZVVjJvaXFsRXI5aXhBZVpWUTRsa0dwZzVZTDduQnpXNGd6NGJIT3o4eVNTLXZCV1l1Sl9jMDFhaWZYdS1LelZ3RlVsZVZ5aWdDZTltVUxIcUFWTFlxTHpaRDEwZEljY3RDNFNxbVZDaVR6ZTJfODVhLVVESkFJSw?oc=5"
-    },
-    {
-      "id": "news-technology-f8078da586",
-      "lat": 35.70952,
-      "lng": 139.67021,
-      "title": "AI時代の「判断デザイン 100問セルフサーベイ」を無料公開、有料の実践診断も開始",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T00:44:23Z",
-      "summary": "AI時代の「判断デザイン 100問セルフサーベイ」を無料公開、有料の実践診断も開始&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Jb0VPVEdBMDNMMVJaNFJ2bGxiZkVLOE5FVzRNMFFNUkprdHcyTDdBVzY3dXk5dnZLcmJXOWJSQUVZR2NYVFNaMVF3TnlfZERXRGtNZm5tSko0MHBjeU1HVXowU3h2dVpuTGc?oc=5"
-    },
-    {
-      "id": "news-technology-05da162210",
-      "lat": 35.72478,
-      "lng": 139.72952,
-      "title": "AI時代の新スマホは正方形？ 中国市場で増殖する「スクエアAIスマホ」",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T00:30:03Z",
-      "summary": "AI時代の新スマホは正方形？ 中国市場で増殖する「スクエアAIスマホ」&nbsp;&nbsp;レスポンス（Response.jp）",
-      "source_name": "レスポンス（Response.jp）",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zdnVTcTc4dkxSbDREd2ZmTUFWYjNEcHZKTDF4ODYyYVV3ay04dzJJYWhWY2JFQ2lQZG81c1RyaUJmRnFGZmpCYkx2bTV3VnItYm9oRXJFVjhjMkZ3UEtQX0ZB?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T01:18:37Z"
+  "updated_at": "2026-08-30T01:33:56Z"
 }
