@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-8e2022f8f1",
+      "lat": 40.28296,
+      "lng": -86.12326,
+      "title": "'All INdiana Politics': Ballard proposes replacing Indiana Recount Commission with retired judges - WISH-TV",
+      "category": "POLITICS",
+      "time": "2026-08-30T21:28:41Z",
+      "summary": "'All INdiana Politics': Ballard proposes replacing Indiana Recount Commission with retired judges&nbsp;&nbsp;WISH-TV",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNjBpOHFZSThwMy0yUjk4TzB2Q0hydXQ5Rk9sTTUwUHIzYnpxVEdvNTF0cS1SNlRxNExjQUNGV3ZSNnpPVTBQM3pDNHRZWnNSeTNhbVNxRVdNX2tHVGVERVRhUEtYOGRPS2pROU5wU01abDBJdkplQUV2OHk4bUlvZV9uSWJ3TllLWlRfcFZCUTFyZi1LQzBDN2VQZVhPd0JXSXRMdHpaZ1VLNjMzN0VIX0MwWnBlMllaM3FIbW14YkJuV09teS11TkViR2NHNXJmdzJlVmdBNWY0UQ?oc=5"
+    },
+    {
       "id": "news-politics-6c241bee5f",
-      "lat": 32.94115,
-      "lng": 57.0432,
+      "lat": 32.99182,
+      "lng": 57.02857,
       "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
       "category": "POLITICS",
       "time": "2026-08-30T21:15:42Z",
@@ -12,20 +23,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-aa421a2e9a",
-      "lat": 8.45195,
-      "lng": -82.40535,
-      "title": "David M. Shribman: Politics fuels a push for separatism in Canada - Pittsburgh Post-Gazette",
-      "category": "POLITICS",
-      "time": "2026-08-30T21:14:45Z",
-      "summary": "David M. Shribman: Politics fuels a push for separatism in Canada&nbsp;&nbsp;Pittsburgh Post-Gazette",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWEVNdDZHYjRla1ZuZjA3Z3dHS0VrOHFMWmFjRjhaYTFtNkpNbktSTDMzLW84a3VWR3V0SnZIazY5Y3pLVFZUc0VObGQxR2NKSlpab09NNmFURkl5bzR0ZlN3M09sVGM3YXFINnhPUTZubUs2YklyLWhLbDkwdkNMdm80SmVXLTBxZk5zNk1DM0pRZ0lzMHA0Sk9NMnc0czR0UDdCb1JWbENUeEtNRGRXSXVwOFVXMTVPZ0pqbzdVYkQ4NkJSQllmeWdmX2dSWFlGbHRZTVVNangwcjg?oc=5"
-    },
-    {
       "id": "news-politics-ff5b063d19",
-      "lat": 49.42946,
-      "lng": 31.29429,
+      "lat": 49.50365,
+      "lng": 31.27007,
       "title": "現職国会議員も関与か…ウクライナで政治腐敗問題が続く深刻背景",
       "category": "POLITICS",
       "time": "2026-08-30T21:03:27Z",
@@ -34,9 +34,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qT3EyOGs0aXRkYkI3V1V1TmxObjV6Uy11YU52alZxQktuYlIydVEzRXlsX3JxQVpyWWNEUFN2cmJkSDBoVzcwWTllTTVKSXc?oc=5"
     },
     {
+      "id": "news-politics-9c19529ac9",
+      "lat": 28.43779,
+      "lng": 83.95502,
+      "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
+      "category": "POLITICS",
+      "time": "2026-08-30T20:40:02Z",
+      "summary": "Heavy rain has hampered relief efforts in Nepal where thousands remain missing after flash floods hit its border with Tibet.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-e100a42f7d",
-      "lat": 28.34112,
-      "lng": -81.56539,
+      "lat": 28.40319,
+      "lng": -81.58345,
       "title": "WATCH: Politics Today for the week of Aug. 30, 2026",
       "category": "POLITICS",
       "time": "2026-08-30T20:36:24Z",
@@ -45,20 +56,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTDlJQkNEVkI2cHpwMmdlR0VnWGFnaGs3UnR2NHl5Z2EwbFF5dlg1V0FGRXExdVF3a2tDSXNXUGdsdmluME5EaFFIcDg3d3NGODNSRkgtUnlKTGxic3VUaGF6V1RhVnJFZ2cyMzJHNHlNbVIxeGZMdEJhTElTX0JWLTRDRW93YVBPSDVVM0RfazBWX2JjeEd0X0NodTFCYVnSAaQBQVVfeXFMUElPdmdIZnQxbnJmNEhUV1hOOW02ZFg5amMyZDdMUkZ2OFkybGJ5bjZ4N01BOUxGc0dpN2dGbnR4MW96Zl9ZU0taLXpLVmFzYkhFYWdROEdwM3FwSWRMM2o1d2JRbHhRN3J4cThyMktSV0JUd3luZmtuX21ZeGYwMTZfdU5PSGt3bUFFZXRiODE0Mlhka0lyemV2ZDN2aTM2ZFVKcVo?oc=5"
     },
     {
-      "id": "news-politics-f1214e8b76",
-      "lat": 38.95728,
-      "lng": -77.01932,
-      "title": "Trump says he will report NBC host to FCC for ‘rebuke or punishment’",
-      "category": "POLITICS",
-      "time": "2026-08-30T20:17:34Z",
-      "summary": "Trump says he will report NBC host to FCC for ‘rebuke or punishment’&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmk1bDFUTmpSM2M2VnVwUXBBWHdRYllnaUdpUWdvZWcwVy1abmhGTWhLTWpXVEpIa3NNSENxX1BzbUN6WEg4czlfRkgyam5mVGg4UGR1cWtIbGxMcVk2SVNPZmNac0JoV1FQdmtNY0dRLU5CRVN3akY4YUs3bVEwb1hFZDdzWUxNczAxQnktNDBqa045UlhmSlhOMklJMkNEV2dpYnpfY3JielpPalVFQg?oc=5"
-    },
-    {
       "id": "news-politics-843e6c39e3",
-      "lat": 42.6566,
-      "lng": -112.85626,
+      "lat": 42.63668,
+      "lng": -112.90042,
       "title": "Power & Politics: NYC covers child care fees for low-income families; New effort to prevent SNAP benefits loss",
       "category": "POLITICS",
       "time": "2026-08-30T20:13:23Z",
@@ -67,9 +67,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV0RwZGFHa0FPXzY4R3ltUl90S085c0NCR1dpZUFfdVdEOFBZR0NXTE9WWjYtYjM0VVJXNy1nVEdMS0x3bWlRQ2hPZkpSTjFMTDNkTmFsU3N4V1BhTVQ1SEFwckJvaVpCSkIyeE9iREdxZjR2U1RyMFdhRV9LRzg3Wl85UC1PdDVWNjJlY0w2NG90TnZtZGotWkRELWlsTUhJbUdyUXM2dFhOT0tnMGhHUlJUa05jc2lMMW9mRFNpSDVSLWg4Tm1hVTdBWC1GSnRKd2c?oc=5"
     },
     {
+      "id": "news-finance-2214493407",
+      "lat": 43.11042,
+      "lng": 141.36871,
+      "title": "本日のスケジュール｜FX・為替ニュース",
+      "category": "FINANCE",
+      "time": "2026-08-30T21:40:00Z",
+      "summary": "本日のスケジュール｜FX・為替ニュース&nbsp;&nbsp;ザイFX！",
+      "source_name": "ザイFX！",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QR0dMNEgxQ3J2SGhobGVNX2RLLVBGY0NCNjVjbEFZMjhUeGhraVYzQ1E0MUNJSk5FdzUyWDFxd2tWeUNXSUFHRVAyQjdhUnFkX1E?oc=5"
+    },
+    {
+      "id": "news-finance-b73b23bd10",
+      "lat": 35.02691,
+      "lng": 136.56807,
+      "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目",
+      "category": "FINANCE",
+      "time": "2026-08-30T21:37:35Z",
+      "summary": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "source_name": "ダイヤモンド・オンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xSXRPT1RYNmRMalVjdmlTdHNWbkNrZ3JzYl9uUk9DdUtXZHNzeXNrbzFMQS1Md0hZRWk2TGY1UktYRHhMY09yTzV0UTFuRlZJeWVV?oc=5"
+    },
+    {
       "id": "news-finance-0564cb8585",
-      "lat": 35.56376,
-      "lng": -82.58836,
+      "lat": 35.55686,
+      "lng": -82.563,
       "title": "Asheville Hosts G20 Meeting, Bringing Global Leaders and Economic Boost to Western North Carolina",
       "category": "FINANCE",
       "time": "2026-08-30T21:17:56Z",
@@ -79,8 +101,8 @@
     },
     {
       "id": "news-finance-796dde08fb",
-      "lat": -1.26692,
-      "lng": 36.83951,
+      "lat": -1.23528,
+      "lng": 36.85444,
       "title": "ハウス食品【2810】下落トレンド転換、株価3割高も「買い」は続くか？ 株主還元の裏にある業績不振に迫る",
       "category": "FINANCE",
       "time": "2026-08-30T21:15:02Z",
@@ -90,8 +112,8 @@
     },
     {
       "id": "news-finance-2a944d5028",
-      "lat": 44.56601,
-      "lng": -72.45673,
+      "lat": 44.57988,
+      "lng": -72.49519,
       "title": "Vermont First Innovation Grant Helps Local Producers Reach Institutional Markets",
       "category": "FINANCE",
       "time": "2026-08-30T21:10:55Z",
@@ -101,8 +123,8 @@
     },
     {
       "id": "news-finance-67c5a938fe",
-      "lat": 35.05115,
-      "lng": 135.8206,
+      "lat": 35.05651,
+      "lng": 135.74501,
       "title": "為替相場 ３１日（日本時間 ６時）",
       "category": "FINANCE",
       "time": "2026-08-30T21:00:45Z",
@@ -111,64 +133,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWT0g3QlBBOVozdmRvSmhFOGszWFc0cmZzbVV0dmJGemQ2UTkzdnRrMDcwdGQ0eURSdktZM2dVTU1Na09BQmFXTGZKQWFYWWJ0VmpmOVYtM1c?oc=5"
     },
     {
-      "id": "news-finance-efab39760d",
-      "lat": 43.05594,
-      "lng": 141.29949,
-      "title": "為替相場 ３１日（日本時間 ６時）｜全国のニュース｜Web東奥",
-      "category": "FINANCE",
-      "time": "2026-08-30T21:00:45Z",
-      "summary": "為替相場 ３１日（日本時間 ６時）｜全国のニュース｜Web東奥&nbsp;&nbsp;東奥日報社",
-      "source_name": "東奥日報社",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0U0xlNlZzUGlVckJSZGJyMFpYVjI5aUVIbVVkRDRoMmhKSGRGdlB5c0J4dURxYmpabVczN002UzFyanlzNnIxWFk3cGIyamlkeE1nMHFOd20?oc=5"
-    },
-    {
-      "id": "news-finance-e938a482b4",
-      "lat": 35.68991,
-      "lng": 139.81315,
-      "title": "金融ニッポン「大転換期の金融 AIが迫る変革」 10月8日開催",
-      "category": "FINANCE",
-      "time": "2026-08-30T20:04:06Z",
-      "summary": "金融ニッポン「大転換期の金融 AIが迫る変革」 10月8日開催&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnbFJKb0t4UnZ3Zk42OGZpcUZxbDZrRzh3WFJfUjVSVHcxTDBZdEZxN1p4MjdLYW90NWJ3V2h5YnhoQk9yR2s1bUVvWlN6cDQyS2l3X2w4bXJ3bnZHR3NVXzBtMTBzN05xSDVTcw?oc=5"
+      "id": "news-disaster-c3458cbd85",
+      "lat": 46.15924,
+      "lng": -1.14369,
+      "title": "Flash flood in Grand Canyon National Park leaves at least 20 missing, 62 evacuated",
+      "category": "DISASTER",
+      "time": "2026-08-30T21:39:43Z",
+      "summary": "Flash flood in Grand Canyon National Park leaves at least 20 missing, 62 evacuated&nbsp;&nbsp;The Jerusalem Post",
+      "source_name": "The Jerusalem Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GZTBJbVlKRHg0R1BOOW82Q29IYzJPVThSWTJDVllzTjdUMHRlMWZJVXdoZ1dKdWNBYk1ZWjcySE5UWlN5QnNOMENIbUxqemh3aGY4THJJQ1RKTGhNMk9r?oc=5"
     },
     {
       "id": "news-disaster-8307a6e423",
-      "lat": 37.24123,
-      "lng": -78.70088,
+      "lat": 37.31747,
+      "lng": -78.73424,
       "title": "A Catastrophic Flood Hit the Grand Canyon. More than 20 People Are Missing.",
       "category": "DISASTER",
-      "time": "2026-08-30T21:32:09Z",
+      "time": "2026-08-30T21:31:23Z",
       "summary": "A Catastrophic Flood Hit the Grand Canyon. More than 20 People Are Missing.&nbsp;&nbsp;Outside Magazine",
       "source_name": "Outside Magazine",
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzZNVXN1YU9vVVFVd2NJX2hGTlVMNUVTeURwanA4cWQ5RzMzNFJwUTJwWTVzaGg0a1ljaGhLa2QwSkRtc3BBMGEybkRrdDVINzdBZ1VxclYtWEZERFBBcVk3YXNUVEpYQmpuUFNtNnJsSno5aW9vaTdOX2xBRkRoWWY4MzItM0dnRVotd19LMnlCczY3dHVGam41MHVPVXRMbXdZOExfaXcteHMyOC1kMlV0ZGtrVnBpZGZUOFFB?oc=5"
     },
     {
-      "id": "news-disaster-c70c99ddde",
-      "lat": 48.4399,
-      "lng": 5.47058,
-      "title": "At least 20 people missing after Grand Canyon flash flood near Bright Angel Canyon, Phantom Ranch",
-      "category": "DISASTER",
-      "time": "2026-08-30T21:24:00Z",
-      "summary": "At least 20 people missing after Grand Canyon flash flood near Bright Angel Canyon, Phantom Ranch&nbsp;&nbsp;KJZZ",
-      "source_name": "KJZZ",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMVg4RkVTOFpkWXZiSnVHbGpkWGxHc3ZyZjNxUTlOc0c4UnNLWUtvNlhMRWgycEs5b2EtLThxeTh5ZzAzdWctdEN5ekZwcG4tOHBaQ2I5SjVZS1c3bEMzS2NRRWVjX0l2R1ZqSXF0S2o2a1lXM0dBaUgwSFZNd2VKZjlYMTVyVWx6eFFISFRSN1JtdmVKZzd3ZDlZendmWTJTaFI5Y3FfT3BVZEdaQ2pOMTR0MGdaZHExcGpLTVp6VWw0dVFfY2NVVzloM2NpOVNmNkxGQUpEQVBVZDQ?oc=5"
-    },
-    {
       "id": "news-disaster-219a39cf28",
-      "lat": 52.50357,
-      "lng": -3.00384,
+      "lat": 52.56313,
+      "lng": -2.93735,
       "title": "More than 20 'missing or unaccounted for' in Grand Canyon after flash flood: Officials - ABC News",
       "category": "DISASTER",
-      "time": "2026-08-30T21:20:01Z",
+      "time": "2026-08-30T21:30:37Z",
       "summary": "More than 20 'missing or unaccounted for' in Grand Canyon after flash flood: Officials&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
       "source_name": "Breaking News, Latest News and Videos",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzdGOXVKdE1wT2MzYzZlbDVqRWtreE51eHJxa3I4RUEzRGhJaVBUSEwyTktnTUxDNDhSN1oyTy1VY3U0UVJxVEROWFV4Vk9mSklfaTFVOXVuQVBWVzEwbHdhQlZZc3VvcFYwZzNVSUxFR2ZmTW5iZGIwWHlVeXhQS0RDajh3U19YWDdVZzJJTG11MV9IN2NURWtERdIBoAFBVV95cUxONmo0cjJLNUwyQ08wZUFGNXFXQktvWVlJTzRWLV9NTHJQUEx0SV9TRDZsUURHMEJBSi1oNkthVkNTMU9jX2NjMEo2cXlramd4QTdoQmtsV3g4dDRZT3pzVlJDanRjcUpQeGowdXRJRGluZXcyVDhUOG1TR0VFdWhGTks0V0dicGpmS09UMUlCT21VYlFGbVZUMHVEMXY5bEJt?oc=5"
     },
     {
+      "id": "news-disaster-e8c2d887e6",
+      "lat": 48.36831,
+      "lng": 5.45548,
+      "title": "Grand Canyon flash floods leave around 15 missing as dozens are evacuated, park officials say",
+      "category": "DISASTER",
+      "time": "2026-08-30T21:28:23Z",
+      "summary": "Grand Canyon flash floods leave around 15 missing as dozens are evacuated, park officials say&nbsp;&nbsp;CBS News",
+      "source_name": "CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1BkYW1VTWRSR18yU2xPdHZrdDl5R2ZPcGRTNEVPZjJrWUNMTzc4LVFLbmNpSjFEellpZ1FyZTZCMjVCTE5YMWp4RW4yQTlfX2JXaEZraWdfcDl3NHJFMnNWdVgxVTk5aUNmNEktaXVrN21tMlFEM0loSElTTnhqZjdvd2VuYjNxZEpSV3p5OURxZmNRLUNnSTlUa05YdXk3ZmxSNnZmdkE?oc=5"
+    },
+    {
       "id": "news-disaster-8bfd145f5b",
-      "lat": 40.65334,
-      "lng": -74.05711,
+      "lat": 40.72632,
+      "lng": -73.95739,
       "title": "15 People May Be Missing at Grand Canyon After Flash Flood",
       "category": "DISASTER",
       "time": "2026-08-30T21:16:43Z",
@@ -178,8 +189,8 @@
     },
     {
       "id": "news-disaster-91770a51f4",
-      "lat": 17.20529,
-      "lng": 96.02532,
+      "lat": 17.22101,
+      "lng": 95.97721,
       "title": "大地震、洪水、空爆 復興進まぬミャンマーを支援 NGOの目標",
       "category": "DISASTER",
       "time": "2026-08-30T21:15:00Z",
@@ -188,20 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CWDFWSEhlSXFQQmo4bVNoRnBTc3RZT182VzgtRW9UcWMzWHdldHV2ekdIcUx5TjNDSXZaYWx3Nm9VZVdXWGdrWE80RVRyMHZEbldSWEk0dXhkNFN0TEdHejNteXZRVXRC?oc=5"
     },
     {
-      "id": "news-disaster-90d5d26a63",
-      "lat": 38.84961,
-      "lng": -77.05653,
-      "title": "Grand Canyon flooding leaves more than 20 missing, unaccounted for; dozens evacuated",
-      "category": "DISASTER",
-      "time": "2026-08-30T21:12:02Z",
-      "summary": "Grand Canyon flooding leaves more than 20 missing, unaccounted for; dozens evacuated&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5"
+      "id": "news-accident-835132e1cf",
+      "lat": 49.25871,
+      "lng": 8.15978,
+      "title": "Fatal motorcycle accident in Rocky Hill",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T21:33:00Z",
+      "summary": "Fatal motorcycle accident in Rocky Hill&nbsp;&nbsp;WFSB",
+      "source_name": "WFSB",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3dzkxVndMT283WnEyOHJ5RlVOS2FaZDFTd0s4dWJhM0NKVWcxZm9qR3htNkRBcFl6UzZUT09uREkxNjE1OGNDRWlkdEtjTS1PVDFWOGhJVHBFblZGOW9CcEZhdDhkM01vVkZEZXF3RWVkT1pUcWRjNw?oc=5"
     },
     {
       "id": "news-accident-1c3bdacc7d",
-      "lat": 39.92436,
-      "lng": 32.77528,
+      "lat": 39.92976,
+      "lng": 32.81228,
       "title": "「これって放送に耐えられるんですか」亡き妻と娘の遺品に触れて嗚咽、同席したカメラマンまで涙…《池袋暴走事故》TBS記者が驚いた「すべてをさらけ出す」遺族・松永拓也さんの覚悟（文春オンライン）",
       "category": "ACCIDENT",
       "time": "2026-08-30T21:00:39Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-344ce4ea53",
-      "lat": 33.54337,
-      "lng": 130.45795,
+      "lat": 33.59863,
+      "lng": 130.37698,
       "title": "福岡・筑後市で4台が絡む事故 大型オートバイが国道を逆走",
       "category": "ACCIDENT",
       "time": "2026-08-30T21:00:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-8b50ab941e",
-      "lat": 29.54793,
-      "lng": -98.64173,
+      "lat": 29.47011,
+      "lng": -98.68496,
       "title": "'Reckless driver' arrested after high-speed chase and head-on crash in Warner Robins",
       "category": "ACCIDENT",
       "time": "2026-08-30T21:00:00Z",
@@ -232,9 +243,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQMUlqRi1oTVV1MG5jSURrcGVLRmdNNjB6VUpiSkNBYXoxWl81SzdYa2hTYURqQWdXaFJ1UWtXWEtKTFE4VTBtX0RzZ0pzQllhclVhRTV3TGRkQ0pEa25xenlINndMSS1SUTN6bnRUaUlMZzZySWxvcWQ1RnhiU0V1bWo2ZFNENThxbzltRmZvZnYtSE55N1M3bWlMQ3NPby1SaWx1XzB5bkN1OXRHamRpR1oxdFl0SUdMdjhjNXBvM3hGVWRZUWRNZE5LWXhMNU4ySFJ4RjJ4N2JraGwxcU9rN0JsM21Nazh6aEtiM3hBVEtneHdiNzUxT3ZRNXNhQ3VOS19EZUJyeXY2a2VnN0laNG9ORG9DVUtXMjZOYWN1Q2J6NnNWYmV4YnVZempyanFiTERMT2JIdXoxaTFIVGh5VElLUTRrMzR0SnBEQVBRSU43X244WHVDd1FVaGhLTTdfVmpRX3hKbEgyVUFETTlwczZJZ2trYmp1Wktma1VUcnFmUFpmdlcySTZ2UjVQNlhk?oc=5"
     },
     {
+      "id": "news-accident-cd10dd1eed",
+      "lat": 1.81247,
+      "lng": 102.95686,
+      "title": "沖縄・読谷村のダムで水難事故 中学生が意識不明 60代男性は死亡 – Quebee キュエビー",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T20:55:50Z",
+      "summary": "沖縄・読谷村のダムで水難事故 中学生が意識不明 60代男性は死亡 – Quebee キュエビー&nbsp;&nbsp;QAB 琉球朝日放送",
+      "source_name": "QAB 琉球朝日放送",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hcC1xXzhvZnVEazd3cy1DenlGNXFMQWlvNGFNU3VYMkFnLVoxTGdzSkZkTkt3bUhLQkNraUlJRWdyLUxuaVdqMTdxeWlILVhxX0lSX2JQN2c?oc=5"
+    },
+    {
       "id": "news-accident-4bc3b4c8e6",
-      "lat": 21.40457,
-      "lng": 72.22106,
+      "lat": 21.36394,
+      "lng": 72.13177,
       "title": "Breaking: Car crash, two Calumet homes struck",
       "category": "ACCIDENT",
       "time": "2026-08-30T20:43:00Z",
@@ -243,31 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMElGSkxMY3RDWTMxTS1lcnlySWVSZTkwYTVkeWxkSkdWb0pZeUhidjBFWERLZHIzVWxNbWdIR2R0aHVRWTlhdDJhazA2WVZ6NnkwdzA0b3h4dEtTNEZPZy1qY1dJbjlhQ0RBOUFac2dCWVk3SmZzSjYwVFZodFhxV0M0YkR6UDdoZl9CTENHUmQwYmh4b2hIazVZbw?oc=5"
     },
     {
-      "id": "news-accident-6cee8f080f",
-      "lat": -5.15762,
-      "lng": 139.93275,
-      "title": "Woman taken to hospital for evaluation after Portland Avenue crash",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T20:26:22Z",
-      "summary": "Woman taken to hospital for evaluation after Portland Avenue crash&nbsp;&nbsp;13wham.com",
-      "source_name": "13wham.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEo3UTA1Z3c3MHFKd25fOHV6TWZDQ1VwajhGMGV6U1M4V0FHMVFGWWwzM0JiVk0zdENtX3pPWXRwRUtSNlRIVC1hUFhRekRhVTVLX1ZWbnV6NEotdkJUQm1jOEZaeFNaRlFmNWtyY0pLLTdySWE3cG13d2g2OC10NHNPRXRwNlFDQ3VUMFdqOUxWRTg3ZmFDOTBYX1g?oc=5"
-    },
-    {
-      "id": "news-accident-8cbcc3ef61",
-      "lat": 35.64689,
-      "lng": 139.77458,
-      "title": "「ふるさとを奪われたという実感を自分の言葉で語ることは難しい」原発事故から15年　生後5カ月で避難した少女が訴える「無関心への危機感」　原発避難者が国と東京電力の責任問うた裁判　大阪地裁で判決へ",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T20:10:42Z",
-      "summary": "「ふるさとを奪われたという実感を自分の言葉で語ることは難しい」原発事故から15年　生後5カ月で避難した少女が訴える「無関心への危機感」　原発避難者が国と東京電力の責任問うた裁判　大阪地裁で判決へ&nbsp;&nbsp;ｄメニューニュース",
-      "source_name": "ｄメニューニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91LTNhbTZlSkZnSEJwQTIwbmc5Ym1DejAyWi1yWlpSQlV2VjFMZzVPOUVHdUg0QmptTEVMSTFNLXRyRkZQbkJINjA4M0RiZ0pFd0R3UG1vSTNpUnh4WjhETXRNMlFEa2RyOG8wRFloRUx6a3RsWVhUTGVB0gF_QVVfeXFMUFZCWkVFa1Rfb3A1VGE3V0FkQW5SNzdCX1I4MDU1LVBDYW4yejV4TTJsRjB2aVBCTnpLUUY4TGd0bVFSa05zNVFhX29teEdrVjZrTDdOMGZfN0s1aE5VMVp6TWlaZEZwR2ZxX2NnZW16bmNIWUJ1RDl6enhPMFRRUQ?oc=5"
-    },
-    {
       "id": "news-disease-368a151612",
-      "lat": 35.56277,
-      "lng": 139.56956,
+      "lat": 35.56113,
+      "lng": 139.55188,
       "title": "インフルエンザ様疾患による学級閉鎖等の報告状況（2026/2027シーズン）",
       "category": "DISEASE",
       "time": "2026-08-30T15:07:48Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.81636,
-      "lng": 106.68283,
+      "lat": 10.719,
+      "lng": 106.66869,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.09636,
-      "lng": 106.29424,
+      "lat": 9.99903,
+      "lng": 106.27952,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.78858,
-      "lng": 139.90583,
+      "lat": 35.69473,
+      "lng": 139.849,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 40.9656,
-      "lng": 28.93453,
+      "lat": 41.04907,
+      "lng": 28.98829,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.9369,
-      "lng": 131.41571,
+      "lat": 31.87342,
+      "lng": 131.42251,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -331,9 +331,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUcll0QnBpdlZESmEzLXRfZnFaekh0VEVmODVVc1Fwejdfc2VxbzBxMWpVeXlMdW9ZSjZqTzFyT3VKQTJnaE9mRE44dTRYdVMyeHA2bmgxb2ZzWFhPdUFzQzN3WTZQeF82b0NqR0o2NFNRRkxPeXlibVFWVmdqQUk?oc=5"
     },
     {
+      "id": "news-technology-e042fa72b0",
+      "lat": 48.821,
+      "lng": 2.35501,
+      "title": "Interim Chancellor Eric Wilcots discusses AI in curriculum, new developments for upcoming academic year in student interview",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T21:38:54Z",
+      "summary": "Interim Chancellor Eric Wilcots discusses AI in curriculum, new developments for upcoming academic year in student interview&nbsp;&nbsp;The Badger Herald",
+      "source_name": "The Badger Herald",
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdktaTkFIMS1HSFU2cHRFQWtoQzBPSDRsdFNPTVNiM2lsMVpZN2dwZUQ5U202VzRyNGhRRGNxcGowTHExY0VHVGdzWHBJR2tNX1NDeTVNTWpIN0Z5UkkzTFl5ck44TmlNNXlVUHdOVzZiRzQ4RTItSDdrMElHMkJhLWpTMUwzWnp2WFNFTWNQRkhlWnYxMVN2QjlhUkdRRjh1bk1XMkRPYXREOE9sandxVkdfOXc2anhYc3NkMDZBdnNSUThZeE9uWXNVVEhHVTMtWXdSMlZMSS1oam9KejkyWFBOcjNESl9zY29FclN2TGVUalU0QWxIN1c2WUlRT1R4MXc?oc=5"
+    },
+    {
+      "id": "news-technology-b73b23bd10",
+      "lat": 35.04062,
+      "lng": 136.59199,
+      "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T21:37:35Z",
+      "summary": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "source_name": "ダイヤモンド・オンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xSXRPT1RYNmRMalVjdmlTdHNWbkNrZ3JzYl9uUk9DdUtXZHNzeXNrbzFMQS1Md0hZRWk2TGY1UktYRHhMY09yTzV0UTFuRlZJeWVV?oc=5"
+    },
+    {
+      "id": "news-technology-f63954bbb3",
+      "lat": 42.32826,
+      "lng": -71.13328,
+      "title": "Man accused of posing as NFL player to scam women tricked AI, Google: Court docs",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T21:31:45Z",
+      "summary": "Man accused of posing as NFL player to scam women tricked AI, Google: Court docs&nbsp;&nbsp;WANE 15",
+      "source_name": "WANE 15",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWo0N3ZzX3JVLVlGWEs3TG9ScFF2X2pTTjhwYmdkV3hOVDk5bS13QkJXS0VmVXNPZW02alJTZkdhVEQzcDZpSC1EMC1vQTN2NG5EeFh0NE5vREExbGxGdFdVTW5fSFpQMTh4RFVqTG9oY1BKVDg5ME5mcllmOU5BenRGWDRoMVFYOEdTbHFXME16QjdfeWdOVW1GcklQWmZrdTFNdzItazXSAa4BQVVfeXFMT0FRamNoTk1yUGxLc2dqelNJVnRucTd4LU5sVk5PWV9NaWMyWVVtSkxYWE9YaDRPNnRMTzI1Umg1R1VVOGNGaVlnbVVQa3c5a05QMWlqR0ZvNmFnYmFPZzE5X2d3Vnh2Qmp2cVlCWnM1Rk5BS2RBS2JCa1YzdzhFVDc4ZXZPQXhFNFpPT3F4Z3B3VzZ3LVJLQm1EQ0xFaXlwVG8tVU5SdmZBRmFITEtR?oc=5"
+    },
+    {
+      "id": "news-technology-cfb8d13d83",
+      "lat": 3.17707,
+      "lng": 101.61457,
+      "title": "AI猫で写真を楽しく！Meowster「世界猫の日」特別企画を開催！（スマホライフPLUS）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T21:31:31Z",
+      "summary": "AI猫で写真を楽しく！Meowster「世界猫の日」特別企画を開催！（スマホライフPLUS）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41WFRuWUp2VUFaN0xtNnYteW5PYnlyQTlYYjluRlVKM3VWUXA4WDVKQmw2d3ItOWR4X0x2Y0pEOGVXNWdnS3BJT2dJX0dPTmJPRU5mSUtMZjgtazZOT2lLMVlZQk1iWUJYNmd3bFFRdHVSTlZuelNxdFdFRFFvZHM?oc=5"
+    },
+    {
       "id": "news-technology-78a75cefa0",
-      "lat": 36.3258,
-      "lng": 139.14814,
+      "lat": 36.28377,
+      "lng": 139.1611,
       "title": "AIでイノベーターは育つ？大手製造業3社の調査で見えた「社員を動かす」意外な条件（ビジネス＋IT）",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T21:31:11Z",
@@ -343,58 +387,14 @@
     },
     {
       "id": "news-technology-10427e60d9",
-      "lat": 22.38103,
-      "lng": 114.21537,
+      "lat": 22.37461,
+      "lng": 114.18015,
       "title": "University Computer Science department remains hopeful in the age of AI",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T21:30:19Z",
       "summary": "University Computer Science department remains hopeful in the age of AI&nbsp;&nbsp;The Cavalier Daily",
       "source_name": "The Cavalier Daily",
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1BvM1FaU2d5NmdrR1VxMGdqUUhQV3Zzcmd2eGdLT3pmaUNFTm90bHNtNlp0NXVLZ25jRnNaU1dvbElnM0JvTjA1aWlscjNtdXdFYi1YNFJYaFVVeTg3bklmU0hmRDNDeU41bWZ6MzR3WDVzSmdkX2JUelVqX0JFSU5yYmQ2YklSUlRVczY5VnBMcThrZ05uOHRYTDNIZ1J4WUxZMlJDTFZnQnhaZFptejRNUXZvRHFl?oc=5"
-    },
-    {
-      "id": "news-technology-e43eed5a77",
-      "lat": 59.06242,
-      "lng": 5.63654,
-      "title": "LINEヤフー、AIエージェントを「10倍量産」へ。新たなプロトタイプの体験会を実施",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T21:30:00Z",
-      "summary": "LINEヤフー、AIエージェントを「10倍量産」へ。新たなプロトタイプの体験会を実施&nbsp;&nbsp;INTERNET Watch",
-      "source_name": "INTERNET Watch",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zazNBZ3lYSm9qdnRSOEpJZ1lBc3BSdWZsdkhEOXhLQ2dKd0pudXRaNXVVOF8yODU0dmJ2aDBlVnV0Q1ZSOU9qZWw2ZjNINVNfNmpkREtuNzRNV0pMMVgybXNEd0tzUGJPdDRJ?oc=5"
-    },
-    {
-      "id": "news-technology-55372c0d83",
-      "lat": 34.7963,
-      "lng": 135.69373,
-      "title": "AIでウォール街を変えたスタートアップ、存続を懸けて再び勝負へ",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T21:15:00Z",
-      "summary": "AIでウォール街を変えたスタートアップ、存続を懸けて再び勝負へ&nbsp;&nbsp;Business Insider Japan",
-      "source_name": "Business Insider Japan",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRG5LVHZHRFk5TDlCQm80VzRiWlZxNVlXR2tncHZiN0R5MjlaMWJBUkpEZm8xNlF1MWo2c1B5UjI2OUllTEI4ZzdpV0lwVFo1RWM4N2lLdUxFdTRFemNkTDItbDhuYlo1bEFHeXRxMkl1Rm53TzFyR1hNaTlOY2VEVk1MZlhGaTBCbU1qVFE3Q2tfUQ?oc=5"
-    },
-    {
-      "id": "news-technology-6ba4083d95",
-      "lat": -8.30048,
-      "lng": 115.63136,
-      "title": "「仲間のため捨て駒に」「誤解で迷走」1,206体AI暴走、データ7万件超から見える「人間もどき社会」（平和博） - エキスパート",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T21:05:13Z",
-      "summary": "「仲間のため捨て駒に」「誤解で迷走」1,206体AI暴走、データ7万件超から見える「人間もどき社会」（平和博） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnR4bnpsVkZYY1FvUnZ5Ul9UYmFZWXVGTV9YZDhPbERZSzRTR2RCd2ZsSnItWVQwcld5SGd3ZG1CTEl0MDFHX1N5elZpSUhTWlhCVldDOFQyeHI4V0tmTm9jZXRpNmtKU3RsRnFncndyLW9VY3h6N2dQbUN5SHhSck4yRVUyMkFE?oc=5"
-    },
-    {
-      "id": "news-technology-01df2dd31e",
-      "lat": 34.6429,
-      "lng": 135.17348,
-      "title": "京セラや神戸製鋼所など製造業20社、フィジカルAIの実用化へ独自プロジェクト立ち上げ - LOGI-BIZ online",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T21:00:29Z",
-      "summary": "京セラや神戸製鋼所など製造業20社、フィジカルAIの実用化へ独自プロジェクト立ち上げ&nbsp;&nbsp;LOGI-BIZ online",
-      "source_name": "Google News (日本語)",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qTm45ZHl4MzdXb3NqeHZoWnd4enAtRlhjTm5CMkZMUDY1LXlscWpUS1k2Q09KMEFDRkF5X2N6amFXNi1rTzNwOVA4RQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T21:33:31Z"
+  "updated_at": "2026-08-30T21:48:48Z"
 }
