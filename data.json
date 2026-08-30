@@ -1,20 +1,31 @@
 {
   "news": [
     {
-      "id": "news-politics-3d24b56bcc",
-      "lat": 46.82222,
-      "lng": 8.23058,
-      "title": "One dead and five injured in Swiss shooting, police say",
+      "id": "news-politics-b74bf82d06",
+      "lat": -37.86602,
+      "lng": 144.69155,
+      "title": "Reflections on Weiser-Lopez, Crank-Killian debates | Tom Cronin",
       "category": "POLITICS",
-      "time": "2026-08-30T06:27:12Z",
-      "summary": "\"The manhunt for the unknown perpetrator is under way,\" local police said.",
+      "time": "2026-08-30T06:45:17Z",
+      "summary": "Reflections on Weiser-Lopez, Crank-Killian debates | Tom Cronin&nbsp;&nbsp;Colorado Politics",
+      "source_name": "Colorado Politics",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY09CYTdBZUxIR3ItMUE2a1JnRV96R1NaVzBWaDBCMTFXZDhuNTNEbFpXRXhpTjVMME1Pa19jRE1fTnNHb1JpM0VZa3doYXQ1MzFIT2E2SmNyMjFycXNZanhJbUFSa0VWdThKQkRfQk9iUFdFRjNMdWpJeXBvSkRXeUpoUl9BN3FYdmhXampuc2tRM0l6cWpIejlCN20zN29SUkNONHlrbi0?oc=5"
+    },
+    {
+      "id": "news-politics-3d24b56bcc",
+      "lat": 40.77112,
+      "lng": -73.06696,
+      "title": "Manhunt after one killed and five injured in Swiss shooting, police say",
+      "category": "POLITICS",
+      "time": "2026-08-30T06:43:26Z",
+      "summary": "A major police operation has been launched after the shooting at an event near Zurich overnight.",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "news-politics-f8da8b0d9b",
-      "lat": 46.04688,
-      "lng": 13.99339,
+      "lat": 46.0467,
+      "lng": 14.04246,
       "title": "The Informal Constitution of Access: What a Greek Minister’s Defense of Political Favors Reveals About Equal Citizenship",
       "category": "POLITICS",
       "time": "2026-08-30T06:05:59Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-8b61a0f8e6",
-      "lat": 40.74087,
-      "lng": -74.03231,
+      "lat": 40.70798,
+      "lng": -74.03818,
       "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
       "category": "POLITICS",
       "time": "2026-08-30T05:29:20Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-693d95a57c",
-      "lat": 39.68606,
-      "lng": -76.55812,
+      "lat": 39.73034,
+      "lng": -76.6453,
       "title": "Trump’s Oil Deal Riles Both Sides of Venezuelan Politics",
       "category": "POLITICS",
       "time": "2026-08-30T05:18:56Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-c748eaf92a",
-      "lat": -4.33259,
-      "lng": 15.31487,
+      "lat": -4.35768,
+      "lng": 15.35333,
       "title": "WhatsApp chat used to send cash for crime and extremism",
       "category": "POLITICS",
       "time": "2026-08-30T04:59:56Z",
@@ -56,20 +67,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-ce7ce4c25a",
-      "lat": 10.39037,
-      "lng": -66.92641,
-      "title": "US oil deal denounced by both sides of Venezuelan politics",
-      "category": "POLITICS",
-      "time": "2026-08-30T04:57:00Z",
-      "summary": "US oil deal denounced by both sides of Venezuelan politics&nbsp;&nbsp;AFR",
-      "source_name": "AFR",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUdsSnNBRlhMdl9OTHRZd0JzbHUwWjNZM0J4UkdIQWpMcXBSNFl6Rk9VX0FWS3FhM1hXeUs3LWRubGYxdEEwY3hNN0szbWNxYnp5czdwb1ItWF9oLXZvQUhHemRnbTE0dUtZcFgxVVF3WHNXU25JZlVEdElCNUZjV0R6NWt6d1VxSHlET0I1RXE0SWp1UFZfeXlXdy1IZkNFZmN4TUpzY2pORFdSclRTTE9PY0k?oc=5"
-    },
-    {
       "id": "news-finance-1e03533eff",
-      "lat": -11.99748,
-      "lng": -77.04188,
+      "lat": -12.02822,
+      "lng": -77.04292,
       "title": "50歳代の貯蓄は平均1908万円・中央値700万円｜金融資産非保有18.2％と3000万円以上18.8％が並ぶ（LIMO）",
       "category": "FINANCE",
       "time": "2026-08-30T06:10:53Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-8b61a0f8e6",
-      "lat": 40.67989,
-      "lng": -74.00801,
+      "lat": 40.65985,
+      "lng": -74.01753,
       "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
       "category": "FINANCE",
       "time": "2026-08-30T05:29:20Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-f1ee546654",
-      "lat": 22.52942,
-      "lng": 88.31526,
+      "lat": 22.57591,
+      "lng": 88.35251,
       "title": "【和島英樹のマーケット・フォーキャスト】─日米金融政策と金利動向を注視、物色の主軸は好業績銘柄",
       "category": "FINANCE",
       "time": "2026-08-30T05:00:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-46f7026242",
-      "lat": 34.79349,
-      "lng": 135.61501,
+      "lat": 34.88193,
+      "lng": 135.54909,
       "title": "違法私金融の被害申告をワンストップ化…31日から窓口稼働",
       "category": "FINANCE",
       "time": "2026-08-30T04:25:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-067f0e4213",
-      "lat": 36.62776,
-      "lng": 138.62454,
+      "lat": 36.62075,
+      "lng": 138.62388,
       "title": "3 Japanese AI Stocks With Real Revenue Growth Potential",
       "category": "FINANCE",
       "time": "2026-08-30T04:24:21Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-1bda4653f6",
-      "lat": 38.24504,
-      "lng": 140.9315,
+      "lat": 38.28273,
+      "lng": 140.85883,
       "title": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）",
       "category": "FINANCE",
       "time": "2026-08-30T04:02:00Z",
@@ -134,8 +134,8 @@
     },
     {
       "id": "news-disaster-5fc9db0aa6",
-      "lat": 40.67866,
-      "lng": -74.0565,
+      "lat": 40.66082,
+      "lng": -74.03939,
       "title": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
       "category": "DISASTER",
       "time": "2026-08-30T06:25:52Z",
@@ -144,9 +144,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbDJXQ1A0Z0pCWElCSVNrNzVQWVMzMmxTaWtQMnAwanNWNGVnMGxwQnpiVEFKUjRPYTNhOXJvN3BIdjZUV3Z0RjlDNXlteUp5aGxXMS05d1FPS2xvbEdpVFg2M1p2eHZJTHRhRFladzkySVlPcUMxZ3MxUFc4Nmt2TEM4UGtJUy1BdlNGaThB?oc=5"
     },
     {
+      "id": "news-disaster-58b030b27b",
+      "lat": 40.85738,
+      "lng": -73.91106,
+      "title": "Renee was at Gyirong Port minutes before flood struck, now her family want to travel from Australia to help search",
+      "category": "DISASTER",
+      "time": "2026-08-30T06:21:00Z",
+      "summary": "Renee was at Gyirong Port minutes before flood struck, now her family want to travel from Australia to help search&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzBHdExRblBBQkp5aXdITGRVXzR1alFjMGIyUERYNjJZYi1mem15QVlqTG9WS1YybzhLcHRGWm0zMkQyOFpRaVZyQVBpN1BXWnFYRHpSbjVRQXBJdVp4bDYzQVVXRm5qMmZqd29oSEItOG5kUWt0YURXeG9CX3RQYmtnSVFaRGlsT3J3VzgxNzZhc1lPWFZBeW4zLVRXOGFHczJqQWZJbk4?oc=5"
+    },
+    {
       "id": "news-disaster-2fd489260c",
-      "lat": 33.77272,
-      "lng": 130.46101,
+      "lat": 33.73783,
+      "lng": 130.45839,
       "title": "【台風のたまご】新たな「熱帯低気圧」2つ出現...今後の進路、日本への影響は?台風情報に注意...9月6日までの雨・風シミュレーションで確認【気象庁30日天気図】（RSK山陽放送）",
       "category": "DISASTER",
       "time": "2026-08-30T06:20:27Z",
@@ -155,9 +166,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBMjNuWXVpN2FvS1hVZlpsdG90eW9IR3pJM0pQMkxad1ZXem5WbHdORmEtMkw1RHE5VnVza3RzRjJBd1l2LTlhMEZ2MEd6b2RBb0l0QkhzU3BfLVd2ZV93WE9iaDZibDZ5NW1oNDFsdXIxcXZlRGtiUEItYThPcEE?oc=5"
     },
     {
+      "id": "news-disaster-006008be48",
+      "lat": 34.00923,
+      "lng": -118.28073,
+      "title": "Nepali temple in Norwalk hosts vigil for flood victims",
+      "category": "DISASTER",
+      "time": "2026-08-30T06:15:11Z",
+      "summary": "Nepali temple in Norwalk hosts vigil for flood victims&nbsp;&nbsp;NBC Los Angeles",
+      "source_name": "NBC Los Angeles",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEY0ajBwek1WV1loM0tmQ0s4TzZvSjdkR3g1WFhfNE94RHZJTk9fdlVoX2h3QUViRkJ5WWcwaGdFY202UlRYUi1lNXF2dGU5cUZOOFpQX1h0M0hVdzNYZjJScjdtWkFKLW9jUE85RW9UNHNIYjA0cjF2djJDajNTd1dudzN2aGUwX0REN2JLbUFqWXIyZWVuVVZxVTFYcGpvVDFYMXJVdzRzMDZqMlNn0gG3AUFVX3lxTE05eC1RdDVURV85VG5xNzJ3bVhOQlJaLW5OS3ViVkswNWlLMzhVdUJPcXFyYXdObXVULTR6dFJYM2QwYXkzakRxbUp0TjV1Sms3b1doVkFXYWRfUXI5RjYyalN3S3dsR0kteUtIMnFoamRGVE01eFdvRHBsbXNFZHNLX0dRd1prX3JIM25kMDdDR2J4cGROdzJrMnVLY1A0YUJtX0c0X3hueDFCXzVEXzY4YjljbUR0RQ?oc=5"
+    },
+    {
       "id": "news-disaster-81cff8528c",
-      "lat": 32.73618,
-      "lng": 130.68993,
+      "lat": 32.83614,
+      "lng": 130.76579,
       "title": "高良健吾＆行定勲監督、熊本地震・被災地に思い チャリティ上映会に登壇（シネマトゥデイ）",
       "category": "DISASTER",
       "time": "2026-08-30T06:13:01Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-e8b3efc021",
-      "lat": 7.41591,
-      "lng": -58.60493,
+      "lat": 7.36818,
+      "lng": -58.564,
       "title": "Charity thanks inmates for work to save hedgehogs",
       "category": "DISASTER",
       "time": "2026-08-30T06:12:56Z",
@@ -177,31 +199,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cly4v6qr5e9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-disaster-23ae3bf93e",
-      "lat": 28.35515,
-      "lng": 84.00472,
-      "title": "Nepal flood death toll climbs as 4 Texans remain missing",
-      "category": "DISASTER",
-      "time": "2026-08-30T06:07:00Z",
-      "summary": "Nepal flood death toll climbs as 4 Texans remain missing&nbsp;&nbsp;cbs19.tv",
-      "source_name": "cbs19.tv",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlhobXEwalZpdDh6cWtYYTFYVFQ0UmRQd1Q0aXlWYlFjWlF3LTYyRGdNRjVBUzZQMmxTODJydDRjSVlRZW5TZUxibEZsZV9oVGN0T212OGJPcGF2OEdra0JFdk5XUEZrc0RkWTNINGF3TFZndVhPdE5DNlE3bldxdDlUUExvcm1ZeXd6QTZkUFUwMVIwSHFmY0lvOUtROUt4UHhzc254NEIyb2lpUUtldmZ0bmxfUnZKZEF5THhVRlRyYktaeWpmbEFXMV9OQ2lm?oc=5"
-    },
-    {
-      "id": "news-disaster-52edc55548",
-      "lat": 32.77252,
-      "lng": 130.71352,
-      "title": "熊本地震 旧耐震基準の建物で被害大か 日本建築学会が調査",
-      "category": "DISASTER",
-      "time": "2026-08-30T06:06:34Z",
-      "summary": "熊本地震 旧耐震基準の建物で被害大か 日本建築学会が調査&nbsp;&nbsp;NHKニュース",
-      "source_name": "NHKニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DMHM3NU1FT0RYekRtT3lDQVdiQUsxdWhRc19WM2NOQ3Y4YzFpbkhXNGdLWmNpT1BkTWh2SE1YYmtNQlJTUGxjOUdueHNZY2ZGOWdpWllHM1J4aVBsNXVr?oc=5"
+      "id": "news-accident-0f8b66e3a9",
+      "lat": 44.8464,
+      "lng": 20.55579,
+      "title": "【MotoGP】復帰戦でポイント獲得のザルコ、”恐怖心”はなし？「慎重になったのは事故が理由ではない」",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T06:32:38Z",
+      "summary": "【MotoGP】復帰戦でポイント獲得のザルコ、”恐怖心”はなし？「慎重になったのは事故が理由ではない」&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wZENERU1MNlVFNW5aV05KR25lb21ZXzgwRWtDYVhfWDlnNXZXbjRtb3daZnpRbzgwTUczZVI4QWVWbDV3NXdFazJVLVN1WVE5LWlvTnhQN1RBQ1VtbHU5dmYtRVNWNHVaYXgwRzViNVhvQ2lGNW5EcXVUSnJnOTg?oc=5"
     },
     {
       "id": "news-accident-b9e87ce89f",
-      "lat": 37.91023,
-      "lng": 139.02385,
+      "lat": 37.84703,
+      "lng": 138.97158,
       "title": "【9月13日（日）山形戦】新潟県警察による啓発活動―アイシテル事故のないニイガタ。",
       "category": "ACCIDENT",
       "time": "2026-08-30T06:02:28Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-6605d173c2",
-      "lat": 34.17514,
-      "lng": -118.36857,
+      "lat": 34.11928,
+      "lng": -118.38534,
       "title": "福島第一原発事故の“除染土” 再生利用のためさいたま市の合同庁舎に搬入 （TBS NEWS DIG Powered by JNN）",
       "category": "ACCIDENT",
       "time": "2026-08-30T05:55:23Z",
@@ -221,20 +232,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yaXJlOXo0NVFCRWFjU2NuZEtIRFBsXzRfOVZ4M19LNW1sbzRwY1JycWFJNjY5amlGMFl5RUxDUldJcGVpYVpLY3NzelFzUHJrOHozR0t5bmJWWmphUmR2bjRYNjd5eTFsdlhwX3NRZ1p1MzhaY0VZSWcyNC05cFk?oc=5"
     },
     {
-      "id": "news-accident-7e52ec9d22",
-      "lat": 33.88432,
-      "lng": -117.49571,
-      "title": "Norco, CA – 2 People Injured in Rollover Collision on 15 Freeway near Sixth StreetThe crash occurred around 4:48 p.m. on the northbound 15 Freeway south of Sixth Street. Norco, CA – Two people were injured in a rollover collision that happened Saturday a",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T05:30:09Z",
-      "summary": "Norco, CA – 2 People Injured in Rollover Collision on 15 Freeway near Sixth StreetThe crash occurred around 4:48 p.m. on the northbound 15 Freeway south of Sixth Street. Norco, CA – Two people were injured in a rollover collision that happened Saturday a&nbsp;&nbsp;facebook.com",
-      "source_name": "facebook.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTUlXV2dld0dob1IyeUlVQkhVWnhVOUJpbG1IbUFJQldtUi1CLXRfM3ZqT3dvTE5EdTU2Z3E1NW9zdGhKc2RWbnFMZHJCUDV4WXlTMkRuTGdNT3ExeV9ENjE3S1JMV3RhWHFzOU9aMVB0UWd5dEJucDE2cjVZb1NwTGpIajhLZmlQaDRVQWFEYUxPOVpMMHRlcm1wSTRySmNPTG1WR1lvZHF1MjhTQlFKQ3gxQWJONTh2NjhXMkNGdkw5QjZ0dlowOUVYUUJRVDJiQkhxdVVwLXJoUjZpUE8w?oc=5"
-    },
-    {
       "id": "news-accident-95de8f2482",
-      "lat": 34.51689,
-      "lng": 108.90124,
+      "lat": 34.53073,
+      "lng": 108.97057,
       "title": "2 People Injured in Norco Car Accident on 15 Freeway",
       "category": "ACCIDENT",
       "time": "2026-08-30T05:29:59Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-b63ebbc8f0",
-      "lat": 35.72987,
-      "lng": 139.73719,
+      "lat": 35.6301,
+      "lng": 139.75695,
       "title": "東京・田園調布高校の生徒が福島の震災と原発事故の現場を巡るツアーを実現させた校長の願い",
       "category": "ACCIDENT",
       "time": "2026-08-30T05:00:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-d0143eb7f6",
-      "lat": 36.7632,
-      "lng": -85.04972,
+      "lat": 36.76384,
+      "lng": -85.00069,
       "title": "Why Did 49ers Wait 11 Days To Disclose Kyle Shanahan’s Car Crash? Latest Update Reveals San Francisco’s Plan of Action",
       "category": "ACCIDENT",
       "time": "2026-08-30T04:47:00Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.72351,
-      "lng": 139.84121,
+      "lat": 35.76085,
+      "lng": 139.85703,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -276,20 +276,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wM2xmOFprQVRLTElwTVpOTHN5T2FfNll1dThLZDQ0X2hNdHhMblFPTHRTWjliN0gzUTVhY0h2TUtyQ18yb2FnSFk4VU91a2FiVkxPODh5TnV5UWVka3E0X215X0dqQnd1bHhtMnh2QkRiWTdtR0RYdDN1dXE?oc=5"
     },
     {
-      "id": "news-disease-25d7dc1e73",
-      "lat": 41.00124,
-      "lng": 29.019,
-      "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
-      "category": "DISEASE",
-      "time": "2026-08-30T03:30:00Z",
-      "summary": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表&nbsp;&nbsp;Newscast.jp",
-      "source_name": "Newscast.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kV0hJN3NNbnA3Wk05UkpZdDFBY2lSdzU4bEZLUDJaX2ppOWlPQjNKZ3ZPWTJ5TEkyRTdMNHdpWVBxMWE3TC1zeUZma24xYkE?oc=5"
-    },
-    {
       "id": "news-disease-bc3d2edfcf",
-      "lat": 31.97082,
-      "lng": 131.37779,
+      "lat": 31.86458,
+      "lng": 131.46584,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験",
       "category": "DISEASE",
       "time": "2026-08-30T02:50:00Z",
@@ -299,8 +288,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 35.07221,
-      "lng": 135.71716,
+      "lat": 35.03296,
+      "lng": 135.7892,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -310,8 +299,8 @@
     },
     {
       "id": "news-disease-f0113312b6",
-      "lat": 34.03448,
-      "lng": -4.99321,
+      "lat": 34.05926,
+      "lng": -5.04919,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -321,8 +310,8 @@
     },
     {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.31025,
-      "lng": 66.07571,
+      "lat": 34.29427,
+      "lng": 66.17043,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -331,9 +320,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbHJCRmFEeUVndmlERW14NnFzQU4zYmNWNmw3OG5xMVB4M21tUnhMXzFIdlkxVXV0VnY2SlB2aFdhSlltbWl5NjB0UWJXbnJMYnFTWXd6Qnd2cFM1b19rTFhra2w2NlEwS0hCdEJsWFZrRERKaWtlYWxiZkkyeDg?oc=5"
     },
     {
+      "id": "news-disease-d7e083a328",
+      "lat": 34.28739,
+      "lng": 66.14995,
+      "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)",
+      "category": "DISEASE",
+      "time": "2026-08-29T21:10:44Z",
+      "summary": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT05DN1didjVRU1pEenl5dXRmZVM5dUE1QWRjZmZxQTVsZngzRllqbEtqdjNNTnpkTERMN0hsTFRwV3RObUZqZzZ6dTJldkFhbDkzdmliV19PcU1yUDkyenpQcFN0cUtHR2xWMVVZSlYycFI2WjRLQkN1UUw5NFBDeTZwekwyNkVGZTM1MjdR?oc=5"
+    },
+    {
       "id": "news-technology-a20385621d",
-      "lat": 42.42351,
-      "lng": -123.23811,
+      "lat": 42.41371,
+      "lng": -123.29741,
       "title": "【シュウのAI指数極】前橋競輪 三山王冠争奪戦 G3 2026年8月30日 9R 特選 競輪予想 | 【ウマい車券】競輪予想",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T06:14:08Z",
@@ -343,8 +343,8 @@
     },
     {
       "id": "news-technology-670bcf7a38",
-      "lat": 38.32338,
-      "lng": -121.38067,
+      "lat": 38.33428,
+      "lng": -121.27,
       "title": "Need spiritual guidance? Gurus join chatbot trend as people turn to AI for answers",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T06:00:00Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-5cf6d22d1e",
-      "lat": 39.00825,
-      "lng": 125.76291,
+      "lat": 39.00692,
+      "lng": 125.78532,
       "title": "Scientists use AI to invent viruses never seen in nature, fueling hope for medical breakthrough",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T05:43:00Z",
@@ -365,8 +365,8 @@
     },
     {
       "id": "news-technology-ac016ff655",
-      "lat": 38.90344,
-      "lng": -76.96639,
+      "lat": 38.93304,
+      "lng": -76.9772,
       "title": "OpenAIがCursorへのモデル提供契約を終了へ、マスク氏のSpaceXによる買収を理由に",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T05:15:34Z",
@@ -375,26 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcFRQelZmYnU2ajlVVEpOajJnbDBhRlFraDl4OU8yM0EwVkR1RnRFazJVY0E2VGZWZm1XUVNRNV9IN0s4NmNGWS1IMEdhMjVhS2VF?oc=5"
     },
     {
-      "id": "news-technology-f7d861f375",
-      "lat": 35.71234,
-      "lng": 139.76473,
-      "title": "AIエージェントは「文明」をつくるのか：OpenAI内部で生まれた協調と自己組織化｜Trans-N",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T05:14:33Z",
-      "summary": "AIエージェントは「文明」をつくるのか：OpenAI内部で生まれた協調と自己組織化｜Trans-N&nbsp;&nbsp;note",
-      "source_name": "note",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIWXhBcUUxZkVEb1ZQU0hNQmVGNmlVdDRvS2c0WWJVdE5FMGdiYUZIeW91MnIwYjFRSEE2czVYOERaNWJJS0wtZ2RqN2hFQVB6Y0RRUVR3?oc=5"
-    },
-    {
       "id": "news-technology-59ae2c1109",
-      "lat": 35.58293,
-      "lng": 139.4074,
+      "lat": 35.50394,
+      "lng": 139.44022,
       "title": "トランプ、「ドナルドダック」とジョークにされた後、自分そっくりの“鳥”のAI動画を投稿（ハフポスト日本版）",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T05:09:17Z",
       "summary": "トランプ、「ドナルドダック」とジョークにされた後、自分そっくりの“鳥”のAI動画を投稿（ハフポスト日本版）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jMWJVdlRlVEh3S0YwTWhEUGhYZS1nOG9Rc1FRdHdrM0NDSGhMWFQ4Y1BhNzV1a0NTaXp1Y3JIdzAxNlMzbE1nLVRoeVBPYnRBQkFYSTA2anVMckZ0dFdWOVZ4TGlIQXBPV1VLdWRDQVd1UW8wV3dXOXNCQVZ3RXM?oc=5"
+    },
+    {
+      "id": "news-technology-73ad7869fb",
+      "lat": 34.66703,
+      "lng": 135.22649,
+      "title": "バイトダンスなど新手法「DiffusionOPSD」、画像生成AIの学習GPU時間を最大63％減 20条件中19条件で最高スコア",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T04:52:28Z",
+      "summary": "バイトダンスなど新手法「DiffusionOPSD」、画像生成AIの学習GPU時間を最大63％減 20条件中19条件で最高スコア&nbsp;&nbsp;Ledge.ai",
+      "source_name": "Ledge.ai",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94SWdnQkhfTFV6NzNUSTNXV1VxcmlqMFg4eE1ld3ZEaUh1SHltdzR6dTdhQ0t4UFVjMHVzWEo1Q3NWSWJGWHZzMXcwR1NDdzVFSnI5eVoyaGp3a2ZXZ3c?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T06:33:58Z"
+  "updated_at": "2026-08-30T06:48:47Z"
 }
