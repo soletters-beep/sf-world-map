@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-74e87d8956",
+      "lat": 43.33166,
+      "lng": -99.88387,
+      "title": "Winner and Loser of the Week in Florida politics — Week of 8.23.26",
+      "category": "POLITICS",
+      "time": "2026-08-30T09:32:05Z",
+      "summary": "Winner and Loser of the Week in Florida politics — Week of 8.23.26&nbsp;&nbsp;Florida Politics",
+      "source_name": "Florida Politics",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYm5sNFdIdE1QUElZNkhqWW85RlplZDNwaVFfQ2JpVFdFWjFCOENucjgyU3hQSmYtRThGNkJJYnVicXBqMER5R2NhU2Z0N05sc09GMWhDeGVxWUpfZ05PUUZWd3NyMHR4U2pRbHJGUnVNb3Z3cWo5LW5IN3JKWkYyaEM4TGx0WFNPeEd6NzJrWEJrNFhCd1pjSUJZczJWRXBCX1BKQmJLZHM5WjNJdEE?oc=5"
+    },
+    {
+      "id": "news-politics-5ae95d5f28",
+      "lat": 11.24719,
+      "lng": 75.78214,
+      "title": "Proposed CT gas line project roils new debate. It’s amid politics over role of natural gas in energy",
+      "category": "POLITICS",
+      "time": "2026-08-30T09:17:01Z",
+      "summary": "Proposed CT gas line project roils new debate. It’s amid politics over role of natural gas in energy&nbsp;&nbsp;Hartford Courant",
+      "source_name": "Hartford Courant",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdEZ6YklyenV1V3pCRHZEMDE3bmY1UVBDZUVJeFJlWklGTGFLUmw2eHllWkR5bmFZVkoybkdKZW5hbkRRdTVCYXRpYUozRUdwNDVJTzZ5cnBpejhKSDB0Z0d1MzVCWDJMSmp2d1M2TTE3SFBnUzU2YnhwS29xdnRvdHk2RFpkYWMyS0J2N0prUGVvNXZIenhVQjVnMGowT0kyUVpRVWgwRVE4elRxajU5TzJYOHZZUHR6cm9xZE1zRjdVU0hEdDFlQnlGT3g5UU0?oc=5"
+    },
+    {
       "id": "news-politics-3d24b56bcc",
-      "lat": 40.80408,
-      "lng": -73.12389,
+      "lat": 40.80308,
+      "lng": -73.07773,
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "category": "POLITICS",
       "time": "2026-08-30T09:15:35Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-83534bc972",
-      "lat": -15.34594,
-      "lng": 28.272,
+      "lat": -15.34873,
+      "lng": 28.24372,
       "title": "Zambian opposition leader charged with treason",
       "category": "POLITICS",
       "time": "2026-08-30T09:08:23Z",
@@ -23,9 +45,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-politics-d3c5f2a1c3",
+      "lat": 56.05557,
+      "lng": 2.81529,
+      "title": "German Olympics great Pechstein could see herself in politics",
+      "category": "POLITICS",
+      "time": "2026-08-30T09:03:37Z",
+      "summary": "German Olympics great Pechstein could see herself in politics&nbsp;&nbsp;Yahoo Sports",
+      "source_name": "Yahoo Sports",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0RHY0ZuZmZaY2Q4b2IzX1NVX3J2azFHLU1KaVFkWkpTSTJILTkyOVNVTDJGOWVmUVNRd1Z3OFpzR2RsYjdRckRJMkQ1VkhfUEFBNzRfa211MUpDSDRmZGJUSmdRamFWQlI3OUlMb2hHMGNZUXVKU045UjJaVUc3VWRWVk1vTmtwWk1hcndaZw?oc=5"
+    },
+    {
       "id": "news-politics-39789fdb18",
-      "lat": 38.85601,
-      "lng": -77.04561,
+      "lat": 38.8648,
+      "lng": -77.04593,
       "title": "These Democrats used to be Republicans — and hope that will help them win midterms",
       "category": "POLITICS",
       "time": "2026-08-30T09:03:17Z",
@@ -34,42 +67,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR29TTVBWekJhNFc2b2JvWlB2OWtpZV9tMUE0Zi01NXhRRHVScExDZG9xVnFmM3dyVkJGSW1ka0pQeFdoaXJ4QUtVLWVwQUEwd3pXZUpkcjlZTWFfTzZOamhJWnJTOS1rSmk1QjZra0Mta0RxYWJyZE0xVkVIMlBIMGJWbUtGVm5zSVJaMUhHSmV0RVB2b0NiWm9IRzh4RmRfTU1NNFFR?oc=5"
     },
     {
-      "id": "news-politics-9dd7f87f4c",
-      "lat": 38.91583,
-      "lng": -76.98588,
-      "title": "An 80-year-old senator says he’s the voice of his state’s youth. Many believe him.",
-      "category": "POLITICS",
-      "time": "2026-08-30T09:03:17Z",
-      "summary": "An 80-year-old senator says he’s the voice of his state’s youth. Many believe him.&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUWZYMlJPbS0xLUNUZ1ZuZWNHT0VfQ1llY1NxZVRXSkRxRDFNeWtQamFRdU40RzlGbnUxTW5aRm5Ya2NQU056SDIzaVhIbDFOemdES3ZPbS0yek5ZLVR4a3BSZE40aWxBOTI0d2I0bE4wX241TGJESjBnRXpOVUpIRlk0enFqQ25CMUVna040NjhRNFprTWY1RHpFTEdSUnhRUzkxcUJkWXNpeUYyQnptazJMclZfQ2hkNlJHaVVpNVV4d2hfeC05WDFiNmxHbVE?oc=5"
+      "id": "news-finance-b73b23bd10",
+      "lat": 35.07842,
+      "lng": 136.60776,
+      "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目",
+      "category": "FINANCE",
+      "time": "2026-08-30T09:28:01Z",
+      "summary": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "source_name": "ダイヤモンド・オンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xSXRPT1RYNmRMalVjdmlTdHNWbkNrZ3JzYl9uUk9DdUtXZHNzeXNrbzFMQS1Md0hZRWk2TGY1UktYRHhMY09yTzV0UTFuRlZJeWVV?oc=5"
     },
     {
-      "id": "news-politics-99e00a4ba3",
-      "lat": 40.71395,
-      "lng": -74.06385,
-      "title": "Postal Service Rule Could Bar Millions From Voting By Mail",
-      "category": "POLITICS",
-      "time": "2026-08-30T09:01:03Z",
-      "summary": "Postal Service Rule Could Bar Millions From Voting By Mail&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjNOT1BNSkxYVmFGR2lCeEdFcU5zZUh1bDRrOU1XOUdrUnlPVV81UGFGdTNxSDExTUtFdWxGb0Q0TW9VZHVrajNnOVJ6M1VpeDQ3QWsxdHY5OGJWU3hfRUl1MjZ4VjdmU2dCRHpNSnB4cUVJTlNhd0JuRmo0OXNHeTVldzJjWHc0SHRXZW4zVmlNbTJlamVj?oc=5"
-    },
-    {
-      "id": "news-politics-bab4c11014",
-      "lat": 40.72584,
-      "lng": -74.05782,
-      "title": "Ed Markey Defends Transgender Athletes in Massachusetts Senate Race",
-      "category": "POLITICS",
-      "time": "2026-08-30T09:00:53Z",
-      "summary": "Ed Markey Defends Transgender Athletes in Massachusetts Senate Race&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlljYWtBZUNva2JGUlZscmdOYUpSbnc0aXk2M0xTbWJzZExyYWRGNGJFc094ZU50VGZPd1hPb25pdWNMYnlHZVp4ekdheDlPTVR3dnBkYjVoQjNLMFA1anZwQjNtTHljRk9RMm5pRDd1bWg2UWhiLV8yZWsxUE4zZXk2ckFFTW4waE9oTWMzYUVIOGhkTGZhNklhaGh5Ui1IN1dCWEVoOEY3OXRCMkE?oc=5"
+      "id": "news-finance-2d740bac06",
+      "lat": 34.67851,
+      "lng": 135.23244,
+      "title": "投資や貯蓄の仕組みを学ぼう 尼崎で親子向けの金融教室/兵庫県（サンテレビ）",
+      "category": "FINANCE",
+      "time": "2026-08-30T09:22:28Z",
+      "summary": "投資や貯蓄の仕組みを学ぼう 尼崎で親子向けの金融教室/兵庫県（サンテレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lVm9GVlRHUmo3ZjRvVEpPX3ZweEV2YUdZRW5DWGRpNHNHMXdjWlNNYmVTcndMd1JGeGxrbnU5cDZDZzIzLXNfbkVzOVg2WUNVVG9ISDAwX3FFb2E4NU1TMFBwOWpoUmpHV3NpNU42ZnlHc3BPVkF4NlBMTzJaMTg?oc=5"
     },
     {
       "id": "news-finance-2939235548",
-      "lat": 35.67816,
-      "lng": 139.73534,
+      "lat": 35.737,
+      "lng": 139.6796,
       "title": "ソニー生命に立ち入り検査へ 不祥事で金融庁、プルデンシャルに続き",
       "category": "FINANCE",
       "time": "2026-08-30T09:00:00Z",
@@ -79,8 +101,8 @@
     },
     {
       "id": "news-finance-8b61a0f8e6",
-      "lat": 40.73885,
-      "lng": -74.03312,
+      "lat": 40.66475,
+      "lng": -73.98379,
       "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
       "category": "FINANCE",
       "time": "2026-08-30T08:29:21Z",
@@ -90,8 +112,8 @@
     },
     {
       "id": "news-finance-6c4441b306",
-      "lat": 40.74528,
-      "lng": -74.09469,
+      "lat": 40.66215,
+      "lng": -74.16897,
       "title": "アマゾンの2,200億ドルAI投資：歴史が示す巨額投資の年は株価急騰の前触れとなる傾向",
       "category": "FINANCE",
       "time": "2026-08-30T08:25:00Z",
@@ -101,8 +123,8 @@
     },
     {
       "id": "news-finance-b37b90acb8",
-      "lat": 31.25708,
-      "lng": 121.43855,
+      "lat": 31.21261,
+      "lng": 121.53317,
       "title": "株価指数先物 【週間展望】―25日線と75日線とのレンジを放れる可能性(株探ニュース)",
       "category": "FINANCE",
       "time": "2026-08-30T08:00:00Z",
@@ -111,53 +133,64 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1Y0dDRWRENwTmRSRU9kWkI3VDlYU3Q4aF9xUUw1dmxVYTJXZ3ZyQ2gzVEF2ZVQ3YnJDcko1LWRfODhjZUJTOEpWdXdPVjRoRW5nMDZ5QUR6QWYwLTFvbVQtR1I5NG1XNWNqTGVlcDVncW01UUVHWU5XUXNoWkpJZWQzUGtzZzQ?oc=5"
     },
     {
-      "id": "news-finance-55a6177179",
-      "lat": 54.54186,
-      "lng": -5.90412,
-      "title": "Markets Brace for Possible Rate Hike After Kevin Warsh’s Hawkish Turn",
-      "category": "FINANCE",
-      "time": "2026-08-30T07:14:17Z",
-      "summary": "Markets Brace for Possible Rate Hike After Kevin Warsh’s Hawkish Turn&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd21XY0p2U19xZjhVVUdnMUNXUHpJT0c5bGxHdzRGaVpBckhWSmtRRENmaWVKZDVzY0J0VllrWDFmOC1NMXhlMnQ4bEEwZG1SeHczVWhfMC1sZGRUMjBPeVU5ZWZBdW1yMTZpa1NsUy1Ra2lBUEwwMHJyYXRHRThha2ZvQXF2d2pNME9KY3BCRTRFZkVPZjJzUHM3Rng0ZXZJYTBDalVtTDRTZDVxcldtSEdlRUo0dw?oc=5"
-    },
-    {
-      "id": "news-finance-1e03533eff",
-      "lat": -12.023,
-      "lng": -77.0685,
-      "title": "50歳代の貯蓄は平均1908万円・中央値700万円｜金融資産非保有18.2％と3000万円以上18.8％が並ぶ（LIMO）",
-      "category": "FINANCE",
-      "time": "2026-08-30T06:10:53Z",
-      "summary": "50歳代の貯蓄は平均1908万円・中央値700万円｜金融資産非保有18.2％と3000万円以上18.8％が並ぶ（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMUs1T3NHVktjUnZTaUtTcTY2VGVFSVc4WlhBTFJyV3BTa19tMks1bmZrNG4wNERBbTJEdTlxOGJ4RGkwcThfUnBIczlObUdKNG11UTZsWndkc3JMYm1EdEhZbjJESXRJUVNqbno0VlNtQ3BPZlN0ZUJ3UDBjZ3c?oc=5"
-    },
-    {
-      "id": "news-disaster-276bdd5558",
-      "lat": 35.68197,
-      "lng": 139.78436,
-      "title": "防災週間始まる 災害への備え知ってほしいと県がイベント 防災グッズづくりやクイズも",
+      "id": "news-disaster-d30385deb0",
+      "lat": 37.33046,
+      "lng": -118.41758,
+      "title": "US Bishop calls on international community to assist victims of Nepal flooding",
       "category": "DISASTER",
-      "time": "2026-08-30T09:07:02Z",
-      "summary": "防災週間始まる 災害への備え知ってほしいと県がイベント 防災グッズづくりやクイズも&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TdmRUOHZlQUc3aTB3TzBUdzc5WEpPTkdkbnBhMjYxYjNlaGR2dmNoSWRaRUlPUGEzd1RzV2tvVFJzSGxSU3NNZVBrVk9jRy1rbHowSjh5YS1xMnhjbWYzVm42Slk1b3B3NG8tbjRULXVFbm9Vclg4aWJ4WVpwUHc?oc=5"
+      "time": "2026-08-30T09:32:42Z",
+      "summary": "US Bishop calls on international community to assist victims of Nepal flooding&nbsp;&nbsp;Vatican News",
+      "source_name": "Vatican News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWkyOW9ZeVlCOFg3VkVkYWFfUU9CcWlOS0lJazFlTGE3QzFXQmZwdFNidk9uOG5jQUhDLTBhZnE3QkI4dlRaREVqQ0ZHSEc2Yk01anRwdjNiYnJkdkdDX2NzNnV6bWhFNGJzckgtRnloRnhITUpjLUw1aXhmb3VOWXd3c1BaZTFWMFhFMGN2UWsyTmlqMFRaaHExWmUtN0kya2NOdEdvaFF1NWJhR3c?oc=5"
     },
     {
-      "id": "news-disaster-5d1308a49f",
-      "lat": 28.32797,
-      "lng": 84.00066,
-      "title": "Nepal-Tibet flood death toll rises to 750, officials say, more than 3,000 missing - ABC News",
+      "id": "news-disaster-2593ca2686",
+      "lat": 51.12689,
+      "lng": -4.67511,
+      "title": "Aug. 30: Earthquake measuring 2.1 shakes region close to Pacifica, CA",
       "category": "DISASTER",
-      "time": "2026-08-30T09:05:41Z",
-      "summary": "Nepal-Tibet flood death toll rises to 750, officials say, more than 3,000 missing&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-      "source_name": "Breaking News, Latest News and Videos",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkFwZk1jM0poMzVLa1RmTVRlRkFpaldCaG9mXzBNX1VUd3NqOU5YTjN3c3N3OS1XVnFmSEVQSzNoTzdnMnB5NXd0ZUxEVG1hVV9uR0J4REZxZENpYmJ2b2xERDUyaUxBZV9vTVlzeGlBMVNJOGxGWEZrMEhSYkJITTE2ZDhxWm9sUV9WTUdVWVlWSE1vSjU2VmhEV1c4anpvc2Zr0gGoAUFVX3lxTE04OVh2ZjlaWmd2Z2RUNGY0cUJaRnRTdEZjdWlJcThTQ29JSVBJTGx3MWNrNFprZk9IZGVsOGtCaEZaZ29Jc2h2Z29Ob2JQakxwemNFOThVQUdvRHd0MDZVcVJmS0c5bUoyM0hJbEdBMzk0eUF5RG5yaVBiT2lzcTB4NDNSUzJaVVVCZXphV1FzTENrZFZtYWRJdmNRTGMwcnlnb043TzEtQg?oc=5"
+      "time": "2026-08-30T09:29:08Z",
+      "summary": "Aug. 30: Earthquake measuring 2.1 shakes region close to Pacifica, CA&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0Y2dDczhEc2V3RFh4c2ppdUwtYm43VDdyeUVyV1BsbnRBRjBTY3ZKRjlwNmVxRWtBclJuMHd6cDZEUjZkMDZYcXdQeWhsTUoyUXk3OFpLMDVSS3lKVzNOMWpheWp1TEQ0cjlqV1VwNGhBVHdqTXNyaFdzb20?oc=5"
+    },
+    {
+      "id": "news-disaster-808193ebb5",
+      "lat": 28.36829,
+      "lng": 84.05289,
+      "title": "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
+      "category": "DISASTER",
+      "time": "2026-08-30T09:24:58Z",
+      "summary": "Nepal-China flood disaster: What’s the latest toll, how many are missing?&nbsp;&nbsp;Al Jazeera",
+      "source_name": "Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUhBS1FZeVJZdC1HTmxndkdpaDVxU3p0UUV0OXhNam0tNlZMcUZFSzdIeWs4RTJxV0VlSnVkZUFabERETnhSTWcwcWNOOF9yREh4YUxCVXJPcU1paUlaQ3lwU1hwaC1MZF9yX0JNOW5YN0hUWFdXMHNaX0N3UlE0VVdIakJWVEtzeURMSGp4cDA3VGNRRWZSdnB3dUFPRV9mSzNnVnFLaEl3eEx5OWRr0gG0AUFVX3lxTE5ZZk0zS0l4OFp2eXZTWFhRVVlSelVBcnh0MUZOSkJhc1EzMndRNzNpS2dsNDZSTW9aVC1RN3NNRVVNeU9hNVBpUTA5OEVVMkRJRG9qeG95RHdFOXVOV2dPdUl1ZVRKTEFsZElBUnNEb1JBS3FIVjN3THRYNkh4NU5FNGdzZTZJV2tFZ1VEMXR6Y0N6SWpULVlSb3NTRG1GSGdrQlpOQ2phQzZUa3FMT0tCQUxYdg?oc=5"
+    },
+    {
+      "id": "news-disaster-734f592666",
+      "lat": 32.73719,
+      "lng": 130.75391,
+      "title": "[TKUニュース 26.08.30 18:00 ] 肥後銀行 地震による取引企業の被害額４２０５億円（８月２６日時点の速報値）【熊本】",
+      "category": "DISASTER",
+      "time": "2026-08-30T09:23:17Z",
+      "summary": "[TKUニュース 26.08.30 18:00 ] 肥後銀行 地震による取引企業の被害額４２０５億円（８月２６日時点の速報値）【熊本】&nbsp;&nbsp;TKU テレビ熊本",
+      "source_name": "TKU テレビ熊本",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mV29sWDB5ZE5tT0szcEpzdjAyeUM5dndMbDNVNmUySk5jemlBVEczZ294Yjl6cEdjNFdZemZqTjNEUkRzejNRdTFSVWtqSlFlaHFKOTBRajFPSS1SS1VyMW1ySQ?oc=5"
+    },
+    {
+      "id": "news-disaster-faa0650db5",
+      "lat": 53.02208,
+      "lng": 18.67239,
+      "title": "Fresh Flood Warnings Issued in Nepal: List Names ‘Out of Contact’ Americans",
+      "category": "DISASTER",
+      "time": "2026-08-30T09:07:00Z",
+      "summary": "Fresh Flood Warnings Issued in Nepal: List Names ‘Out of Contact’ Americans&nbsp;&nbsp;Newsweek",
+      "source_name": "Newsweek",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNWw5d0VSVTB2RUV2WndGTFBrcWFKc1hEbTV4SWNXNVFGYWt1NTAzbnlHWHJvNUo0ZmJHcWRvZEVyaHZBTWtqdmlta2p5bTdQNGxpZ0JramhSbThEN0pnOVJqQTF1SFBOcUh5ZFhaWUNqOW9pVjJ2VlI1YXZSUTBJaUV3TmFUQWs3b0FEUl9ZZ2xCVG8?oc=5"
     },
     {
       "id": "news-disaster-663a626d3f",
-      "lat": 32.76781,
-      "lng": 130.72689,
+      "lat": 32.75609,
+      "lng": 130.74397,
       "title": "令和8年 熊本地震 義援金募金箱 寄付のご報告[サンボマスター] | ニュース | Sony Music Artists",
       "category": "DISASTER",
       "time": "2026-08-30T09:05:23Z",
@@ -166,64 +199,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVR1pNYnlOdU9qNGhJakJKTElOTlU3QWZwbDdvMWdfWVBuUTUzdDQzaG9CWUxNN3c0UXllRzAwa2NyX3VOdnluUm9ta1pCSGs0dUV3NU4tRTNzWk92d2pTb1ZpSWRPUmQ3NjlaWEZGMjBaaXp0YmJJ?oc=5"
     },
     {
-      "id": "news-disaster-bf5ec0b6c3",
-      "lat": 40.67483,
-      "lng": -74.03164,
-      "title": "Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain",
-      "category": "DISASTER",
-      "time": "2026-08-30T09:02:05Z",
-      "summary": "Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92eXRub19kUWFPWGZ6ZTE0STJmUjJ6WlVWV0drZGJRQXRrdXJyRWVjVlI4UDZtX2RqeUFWbkV4LVFLNDhDVHVrbWsxcFRvR3MzUlJDakdzTmcxSF8yLWh0UXNXM1V6d1lmZ1FrWWpiZ25sYXBRN1NLekV3?oc=5"
-    },
-    {
-      "id": "news-disaster-114d6f39a0",
-      "lat": 51.16527,
-      "lng": -4.68735,
-      "title": "Earthquake measuring 2.1 shakes area close to The Geysers, CA on Aug. 30",
-      "category": "DISASTER",
-      "time": "2026-08-30T08:58:06Z",
-      "summary": "Earthquake measuring 2.1 shakes area close to The Geysers, CA on Aug. 30&nbsp;&nbsp;Sacramento Bee",
-      "source_name": "Sacramento Bee",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83b2xYYkc2ak8tUmh4WlB4X2w1SW5vblhfQ0hTbF9tclI3OUtrZWx0ODJLYWthLUdkOVJpMXFJZDVKODVXZHFxYS1Jd1A2eW1OZGJ2SmpydGxfT2ZJaktxVkJvckRfYk1WcDhKcHRBaXZKLS03d0I1bHBjRHM?oc=5"
-    },
-    {
-      "id": "news-disaster-606ea50024",
-      "lat": 35.67292,
-      "lng": 139.54247,
-      "title": "石川 浸水被害の羽咋市で災害ボランティアが片づけ作業",
-      "category": "DISASTER",
-      "time": "2026-08-30T08:55:31Z",
-      "summary": "石川 浸水被害の羽咋市で災害ボランティアが片づけ作業&nbsp;&nbsp;NHKニュース",
-      "source_name": "NHKニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HVm0xRUpKMnJjVERWVG1wa3ZVZUVDdHlzTENBcVRMYndKdlRqckJ0X3F0WENjdVdJc2hsWDNLdzR3WmNKMUNndXB6X2tsODYxek5jWmQyM2pwUUZ5VjJn?oc=5"
-    },
-    {
-      "id": "news-accident-0335f58a24",
-      "lat": 31.57347,
-      "lng": 130.54486,
-      "title": "パトカー追跡中の２人が乗った原付きバイク 交差点で車と接触事故 鹿児島（KKB鹿児島放送）",
+      "id": "news-accident-879ec3b6d6",
+      "lat": 35.72479,
+      "lng": 139.80078,
+      "title": "自動車学校で交通安全夏祭り スタントマンが事故再現 東京（毎日新聞）",
       "category": "ACCIDENT",
-      "time": "2026-08-30T09:06:22Z",
-      "summary": "パトカー追跡中の２人が乗った原付きバイク 交差点で車と接触事故 鹿児島（KKB鹿児島放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "time": "2026-08-30T09:25:38Z",
+      "summary": "自動車学校で交通安全夏祭り スタントマンが事故再現 東京（毎日新聞）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ak40bDlpN043NTAwQ01RVUE5ZnBpRl9OTy04YnhRZTFkeUh2d25FY0pIcnFiVmVVVG1XdXJJUFFfRGxTN1ZHVUdnczM3RjdGMzU1NjhEd3otQXd5MXpEWEhTbG9GSWMzUlBPUGZxeG9IWVp2ZzQwQmdOQXk4QW8?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EeWo2WGM0Tmh6N0NpNGl1c1MzeldJRU1qYjFGTjB4MVozc2dLcGhXUE1tdjVGRG9xbzFRd2JZX0NjUlhBZXU0RTFQRnhUSERDNjZ6ZHV1Q1NrNjVTSTU4cEhTQ0Y3dFF5Q1N5NEFlMFZIMlpSS09mZUVMR2xVaFE?oc=5"
     },
     {
-      "id": "news-accident-8fbb669b1f",
-      "lat": 31.61714,
-      "lng": 130.49908,
-      "title": "パトが追跡中のミニバイクが事故　鹿児島市高麗町の市道交差点",
+      "id": "news-accident-ca56107bc0",
+      "lat": 35.66303,
+      "lng": 139.81973,
+      "title": "自動車学校で交通安全夏祭り　スタントマンが事故再現　東京",
       "category": "ACCIDENT",
-      "time": "2026-08-30T08:54:00Z",
-      "summary": "パトが追跡中のミニバイクが事故　鹿児島市高麗町の市道交差点&nbsp;&nbsp;ｄメニューニュース",
+      "time": "2026-08-30T09:25:00Z",
+      "summary": "自動車学校で交通安全夏祭り　スタントマンが事故再現　東京&nbsp;&nbsp;ｄメニューニュース",
       "source_name": "ｄメニューニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3ZjanlZQnVVaG5ZamwyN3Y5U2szZlNrYUUxc0lsNUpyTmdaMHQ3UnEtNHdzV25jdkE5dzgxTmFaZE1uNmRrV1RsMFZIQUw0WDNwT19KcWVIRjRhQXQ3dGdHYkw3UTJPZ3JweUdYU3U5WEJqblBJZWFXem03UXVMSHR5RG5lTEpMTnNISnhBMjdxQUVCMzVtNlUyR2ItRlZWUFhv0gGWAUFVX3lxTE9oLWthRDYweDdtWE04eHpPUTAwWnV1SHJaMzdVWHhpUlU0TldvNGNqajllNHl1XzV5NThlZkhIUWpGOGg2YVVTTDFhTGZPT00zbm9XeXBaTmNlQ3VFa25aQ1NKVHFMQUp5bGk4VjNid1FSY3pKNDNrZWpOMFlnRkN1UkZ6TThUWmY1THA2bGdXTVQ4YVltUQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUxNWGdJMGhoSUNBYUhOdkxmdm9UM1U2WFV4aWNzX0lrOGJzQmFJZnJEUk1GRkxpc2JZenV3eUVNVmdMdjRRWUZ0REk1NjRSYXBEbzBNeXc0SWNBZ3lnUDFMaHFVbUNyd1VfLWdPYnVISFlsM3o0RzZkbTNOQ2lPSUhQbndQaEl4MExwLU5xY3BsWVFHQzNjVzdSbHMzN2VsNE1BUTd3dUNNdGgwRkRCOExHczVUcW9TZndfYlppa2JOaXNWWWRJNDFTUE81YVFocUVBSE1id1lkOEZCamgzZm5aZVBlUmhD0gGYAUFVX3lxTE55T2NPVVhtNWhzV2tjcGNQUWhLeWU5aHpIbS1heHNEQjJsZXgxSjlpdjNKRG9tZ1Rna3JIaHJubHFJeVZzemVLdzVxTks2MW1ab1JkVUlRaDJzNnJ6YmRMNUFpOVNGaVZSdzFWamxqM1hmbEotQkhQX0VLZkwxRGZpcmZUWGk4X05oZWV5eV9OZVA1X0NHcld5?oc=5"
     },
     {
       "id": "news-accident-bcf8471ca0",
-      "lat": 31.6376,
-      "lng": 130.52001,
+      "lat": 31.54806,
+      "lng": 130.50441,
       "title": "パトが追跡中のミニバイクが事故 鹿児島市高麗町の市道交差点",
       "category": "ACCIDENT",
       "time": "2026-08-30T08:54:00Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-42923a2456",
-      "lat": 31.54959,
-      "lng": 130.50352,
+      "lat": 31.55012,
+      "lng": 130.60574,
       "title": "【写真】パトが追跡中のミニバイクが事故 鹿児島市高麗町の市道交差点",
       "category": "ACCIDENT",
       "time": "2026-08-30T08:54:00Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-c836d79ffe",
-      "lat": 35.71764,
-      "lng": 139.74826,
+      "lat": 35.71728,
+      "lng": 139.75001,
       "title": "「スペーシアX」4人死亡事故 見張り員「退避していると思った」 最新の社会ニュース【随時更新】",
       "category": "ACCIDENT",
       "time": "2026-08-30T08:36:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-c04dd924ae",
-      "lat": 34.97286,
-      "lng": 135.70872,
+      "lat": 34.97488,
+      "lng": 135.69692,
       "title": "鳥取道でバイクが車に追突する事故 河原ICー用瀬IC間一時通行止め 規制は約3時間後に全面解除（BSS山陰放送）",
       "category": "ACCIDENT",
       "time": "2026-08-30T08:34:12Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.01429,
-      "lng": 106.30884,
+      "lat": 10.0044,
+      "lng": 106.31428,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.71604,
-      "lng": 139.81327,
+      "lat": 35.7323,
+      "lng": 139.86564,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 40.9985,
-      "lng": 28.93631,
+      "lat": 41.01518,
+      "lng": 29.0063,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.91145,
-      "lng": 131.36059,
+      "lat": 31.8888,
+      "lng": 131.42224,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 34.95982,
-      "lng": 135.8239,
+      "lat": 35.02507,
+      "lng": 135.74148,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-948c208240",
-      "lat": 34.0742,
-      "lng": -5.0354,
+      "lat": 34.04794,
+      "lng": -5.04486,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -331,70 +331,70 @@
       "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94NGJlTi1Cb3g0VE91WkJUYVZ5OG5TWVF0QjRRWnBTWFllRzRwdXREZWtfQVZjMUJnWm82eDZodGlwQnI0ckt3?oc=5"
     },
     {
+      "id": "news-technology-b73b23bd10",
+      "lat": 34.97358,
+      "lng": 136.59583,
+      "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T09:28:01Z",
+      "summary": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "source_name": "ダイヤモンド・オンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xSXRPT1RYNmRMalVjdmlTdHNWbkNrZ3JzYl9uUk9DdUtXZHNzeXNrbzFMQS1Md0hZRWk2TGY1UktYRHhMY09yTzV0UTFuRlZJeWVV?oc=5"
+    },
+    {
+      "id": "news-technology-afe064316c",
+      "lat": 30.09591,
+      "lng": -99.28474,
+      "title": "Should You Use AI for Mental Health?",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T09:26:44Z",
+      "summary": "Should You Use AI for Mental Health?&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NMWZFQ2hqWHotcEE1dklvZWRpSnRLcVdycE1GS1R1emNaNklvM1Q3dXNjYk9QRk15QmQzTTc5ODRWeHhmOGVZNjl0Y0ZtNi04dnJVUWtGQmZleHdmSTh5ZElNMmRnMGRNRzZ0cmFzSFpHdnhlRVViWE5n?oc=5"
+    },
+    {
+      "id": "news-technology-f7c9788428",
+      "lat": 35.09376,
+      "lng": 136.9892,
+      "title": "韓国もAI「標準」競争へ…米中が生態系拡大、モデル性能だけでは決まらない覇権 [韓国記者コラム]（KOREA WAVE）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T09:24:15Z",
+      "summary": "韓国もAI「標準」競争へ…米中が生態系拡大、モデル性能だけでは決まらない覇権 [韓国記者コラム]（KOREA WAVE）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBTVM3RUJvU0ViWnB6VnpLQzR6SER3Ymh3SGR1WHExbmxSbmRKUXhiYVhUV0llMlNDSUFXdDNvRlNjcE8wcEtmZHViTVgybGZlNTIwUUtCa2ExbHgwTzFHZzRmLWdEYVcxbm9SYUlHZC16aG1fM2s2eFZFTU04WUU?oc=5"
+    },
+    {
+      "id": "news-technology-9fa843ea4e",
+      "lat": 35.14904,
+      "lng": 136.97878,
+      "title": "韓国もAI「標準」競争へ…米中が生態系拡大、モデル性能だけでは決まらない覇権 [韓国記者コラム]",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T09:23:40Z",
+      "summary": "韓国もAI「標準」競争へ…米中が生態系拡大、モデル性能だけでは決まらない覇権 [韓国記者コラム]&nbsp;&nbsp;AFPBB News",
+      "source_name": "AFPBB News",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRjEtdzlpZFlCXzZJSVdYSXRDdDRiT05QR3dKTUk0cjFsdEl2Rk5LXzZmQVFKQUU2TlRkckJYQUNDaWFZWjFqbjRjWHp6NUN0aWplRklodnBiWVhFaHRNTjAxUUpLM1dQU3U4cEw4YXdCaDJVQ0c0OXAxa0VobjBXYtIBVEFVX3lxTE9GZjFzQ0h2WXd3bVRRQTdOYVNLQnZfaVBlMEVUVXprZGYzMGpSekpRSkVTOTA2YkVrRDByVHAzN0x6ZlB4QTBMRDR4NnliTWoxRFZUOA?oc=5"
+    },
+    {
+      "id": "news-technology-f70a73ad57",
+      "lat": 19.28421,
+      "lng": 166.6188,
+      "title": "AI And The Wildlife Equation",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T09:09:00Z",
+      "summary": "AI And The Wildlife Equation&nbsp;&nbsp;Forbes",
+      "source_name": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdFNVUFM5clc1Z0hKeTRyM1NWcW5hOHUyNjAxbGRYVFZYQmcyeUFuYXBRRm1tSmRDOUVUV0l6ck9pMU1kOV96X1pRQkJSWFNoaGxXdjdjTlJaSUhnaTI1c3ZhcXFzMDFuRGtCRjJ6Sjg0X3lwTDBZbUYyd0o5Zm9wY3pFbXZ2VEE?oc=5"
+    },
+    {
       "id": "news-technology-461d93896b",
-      "lat": 40.71524,
-      "lng": -74.02546,
+      "lat": 40.66613,
+      "lng": -74.00842,
       "title": "Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T09:00:54Z",
       "summary": "Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era&nbsp;&nbsp;The New York Times",
       "source_name": "The New York Times",
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52ZTZlNFlEcFlidDJ6TzIyd2FiSkdiSEEzVXpuYXhTSEl4Q2htYmx6SmpOMmxmcnFMWlVwRDZwLVhHVGg4Vl9MWEE2ZXhxWEwwNWNGaVl0NTNRS3RPbTVmUVE1X1p0eFBqUzdWcTE0Wi1xV0ZaZ2lJ?oc=5"
-    },
-    {
-      "id": "news-technology-9f62698ac3",
-      "lat": -27.52719,
-      "lng": 152.72627,
-      "title": "AI Is Changing Entry-Level Work. What Happens To The Talent Pipeline?",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T08:58:12Z",
-      "summary": "AI Is Changing Entry-Level Work. What Happens To The Talent Pipeline?&nbsp;&nbsp;Forbes",
-      "source_name": "Forbes",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFBfRVAzcFBNY1FTaGtsTmJoMUVMUU9BVlN0SWRFMmkxTGMxQ3VKdktjQllxQ2ViYnZqRUU5cHg0OU8zd3hxdl9oMEdLUXliV01sTjBKWU9CSmpRUlQzakJwaGpoXy1YV1hlTVFKbm1mQlBROTVsdTFCLXJtZlluZjE2cjFXa0dXaGdFWEl6TTdQVnpBZlVqUDVXVDBTRDNSQ0JBME9GT2ptd0t6Y2pwcV9JQ0NmalltUXQ3ZlIyU1E?oc=5"
-    },
-    {
-      "id": "news-technology-64f4ead8cf",
-      "lat": 45.52423,
-      "lng": -122.87517,
-      "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T08:48:21Z",
-      "summary": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVVkZ3E3ZmJtVFR1SGFmMm1CNUpSTVRFM3psNWRGZndCZXFTaUdvR1cwUXBXN0N3bGJqb3hTUi1BdkxrbmZtUVVXQ1JjVVpqTm5vSmM3eXV2VkRadFFNcTdzeFdEMlJRQk5JZFNHcGdtRk80ZlRJaFpsLU9fUXBPejZZbHYtY2tiNExJcmVGVXZETUhVMHF5R0Jsd1RVcTQ?oc=5"
-    },
-    {
-      "id": "news-technology-3965c40eff",
-      "lat": 35.61024,
-      "lng": 139.73706,
-      "title": "AIで車づくりに挑戦 宇都宮で親子体験教室 デザインや性能、個性あふれる車完成",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T08:40:00Z",
-      "summary": "AIで車づくりに挑戦 宇都宮で親子体験教室 デザインや性能、個性あふれる車完成&nbsp;&nbsp;47NEWS",
-      "source_name": "47NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rZGZUTkRhUnJKa0ljMWowbWtDS0d4UmQyWktnUHYzdHRqU0FIOVcwenNmTXlvVXRlbTV0aWY3NFV3UUN2RzRXVmkyQQ?oc=5"
-    },
-    {
-      "id": "news-technology-0fa6fae05e",
-      "lat": 52.15537,
-      "lng": 7.93382,
-      "title": "AI Enters the Israeli Election: One in Four Voters May Turn to AI for Guidance",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T08:38:00Z",
-      "summary": "AI Enters the Israeli Election: One in Four Voters May Turn to AI for Guidance&nbsp;&nbsp;calcalistech.com",
-      "source_name": "calcalistech.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Cc0tWYW5oRGZSclJvYVhEZ1lmX3ZmaDJsR0lPeWxQMjJUZDlYeF9TUHhRUTdQV1ZBX1Z5a3JTR29WWGNYVnd2V3diTEJpeWpaNUd5bngtRXBZd1JfSEFhVmZmQ21CcVl2?oc=5"
-    },
-    {
-      "id": "news-technology-1c0156cac8",
-      "lat": 34.72404,
-      "lng": 135.4943,
-      "title": "【今週の注目トピック(1)】話題のテーマ『屋内農業、AIで効率化』など(フィスコ)",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T08:33:00Z",
-      "summary": "【今週の注目トピック(1)】話題のテーマ『屋内農業、AIで効率化』など(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTRvSEFJc1hRTFRRSG5BeW1CRWVEQk1TQmdBbzFtMkxaRnBWNkxraENKUi1OUEFqckdOTHQzbTNDbDRrejdrUWVmcWgyXzFybS0zc25JaE95MWZWdHMyUjBvdWlmUEdtTkF4bmRwS1RYVkpEZnRHZjdIMzlLSW5oUjlXMVJONFk?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T09:18:35Z"
+  "updated_at": "2026-08-30T09:33:48Z"
 }
