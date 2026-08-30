@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-8b61a0f8e6",
+      "lat": 40.72548,
+      "lng": -74.00539,
+      "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
+      "category": "POLITICS",
+      "time": "2026-08-30T05:29:20Z",
+      "summary": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjd2TTFZdW5heklSQkVMUHRLaGJwZ0VSWHdla2pydGpIaXk4dGQ0S2N3NkRjRFZDOVpmQllVYjVKQUMtQm5MM2hQaE8xNEV3TmFFemJOQTZKLW8xV0tpUmpsWmpTazk1UVBSNjMyaDdPQ3RHd2w3QlVZbDEwdzFIcXRIak45aE1xWUhKQ0ZkZDRyeGZXMjE2MnVxV212YkVvRnVDdEdB?oc=5"
+    },
+    {
+      "id": "news-politics-693d95a57c",
+      "lat": 39.71382,
+      "lng": -76.62904,
+      "title": "Trump’s Oil Deal Riles Both Sides of Venezuelan Politics",
+      "category": "POLITICS",
+      "time": "2026-08-30T05:19:27Z",
+      "summary": "Trump’s Oil Deal Riles Both Sides of Venezuelan Politics&nbsp;&nbsp;Energy Connects",
+      "source_name": "Energy Connects",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1Fuel9HNzk0Mjh6ZmV4RXdkRjBTUGJxUTRxWGcxb2dLNWVkSXNicGVaMUFobk1MWXlhWFdGY0VVcDFCZ1Z5SW5DTVhDdVlvRUlJdVdRcXI1V2VyckROdks1SV9uY3NMSFFpVWltMzV2M2xZZkNLU2Mzc0UtT1Z3anZzY2xJbmRFUnd4VFJaVTFuSnZMMDZUX3Z1aHhrNEtuUE91eHhSejN2MWJsVmc?oc=5"
+    },
+    {
       "id": "news-politics-c748eaf92a",
-      "lat": -4.33315,
-      "lng": 15.39486,
+      "lat": -4.29644,
+      "lng": 15.35208,
       "title": "WhatsApp chat used to send cash for crime and extremism",
       "category": "POLITICS",
       "time": "2026-08-30T04:59:56Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-ce7ce4c25a",
-      "lat": 10.38956,
-      "lng": -66.98769,
+      "lat": 10.36354,
+      "lng": -66.93509,
       "title": "US oil deal denounced by both sides of Venezuelan politics",
       "category": "POLITICS",
       "time": "2026-08-30T04:57:00Z",
@@ -23,20 +45,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUdsSnNBRlhMdl9OTHRZd0JzbHUwWjNZM0J4UkdIQWpMcXBSNFl6Rk9VX0FWS3FhM1hXeUs3LWRubGYxdEEwY3hNN0szbWNxYnp5czdwb1ItWF9oLXZvQUhHemRnbTE0dUtZcFgxVVF3WHNXU25JZlVEdElCNUZjV0R6NWt6d1VxSHlET0I1RXE0SWp1UFZfeXlXdy1IZkNFZmN4TUpzY2pORFdSclRTTE9PY0k?oc=5"
     },
     {
-      "id": "news-politics-8b61a0f8e6",
-      "lat": 40.72872,
-      "lng": -74.03922,
-      "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
-      "category": "POLITICS",
-      "time": "2026-08-30T04:51:20Z",
-      "summary": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjd2TTFZdW5heklSQkVMUHRLaGJwZ0VSWHdla2pydGpIaXk4dGQ0S2N3NkRjRFZDOVpmQllVYjVKQUMtQm5MM2hQaE8xNEV3TmFFemJOQTZKLW8xV0tpUmpsWmpTazk1UVBSNjMyaDdPQ3RHd2w3QlVZbDEwdzFIcXRIak45aE1xWUhKQ0ZkZDRyeGZXMjE2MnVxV212YkVvRnVDdEdB?oc=5"
-    },
-    {
       "id": "news-politics-eef54ab016",
-      "lat": 32.59977,
-      "lng": 54.5605,
+      "lat": 32.65048,
+      "lng": 54.59825,
       "title": "'We are sealing Iran's ports and keeping Hormuz open'",
       "category": "POLITICS",
       "time": "2026-08-30T04:40:07Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-a143d02382",
-      "lat": 47.15144,
-      "lng": -71.86009,
+      "lat": 47.21336,
+      "lng": -71.92127,
       "title": "Jelly Roll explains political beliefs after Trump roasts: I’m ‘down the middle’",
       "category": "POLITICS",
       "time": "2026-08-30T04:07:22Z",
@@ -56,20 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVF0MEdxWGRlMzhlNjBKemJRNHBvQ2ZWSmJtY2J3VENpRGNPckVCeXhJMWR6V1JxNUwyR1RjR3RiRlVCTGZGZXVIVkdMMVZ5MkpwMHdzM0t3Y3hyZTRFVnhlRDBzazBkcldXdGlKQU5WaFpHdHcwZkZwSzBZV1VmQzF1WUpORks3ZmJHdUNEZm1BZXlubzI0cHltcWFqN1U2ZWxUbnI0VHNQWFdTYlcza9IBtgFBVV95cUxPTWQ1QzJuVnFacUNUWHNkUHgzd3dUemNNdDFnSlZUOHNmU0RmS3FfQVlLMTNBVk9oRmt5ZE91d2t5M2wtSkU2Rl9fcGgtZFV3UWloa214NkFFd0s3VGppOVRKcmc0d1hmUWtUWW4zcDJCbjRubkZ6Y2E2R0NWR3o1bVA2V0JzOEhyeGhTWVJrLS01bUlKcDdxMHJRWU5qbUhrWTN3MHNvQVhieHJmdnpfNVVhX2JnUQ?oc=5"
     },
     {
-      "id": "news-politics-c06ee050ab",
-      "lat": 39.66268,
-      "lng": -76.62817,
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "category": "POLITICS",
-      "time": "2026-08-30T04:01:02Z",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+      "id": "news-finance-8b61a0f8e6",
+      "lat": 40.68301,
+      "lng": -73.97324,
+      "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
+      "category": "FINANCE",
+      "time": "2026-08-30T05:29:20Z",
+      "summary": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjd2TTFZdW5heklSQkVMUHRLaGJwZ0VSWHdla2pydGpIaXk4dGQ0S2N3NkRjRFZDOVpmQllVYjVKQUMtQm5MM2hQaE8xNEV3TmFFemJOQTZKLW8xV0tpUmpsWmpTazk1UVBSNjMyaDdPQ3RHd2w3QlVZbDEwdzFIcXRIak45aE1xWUhKQ0ZkZDRyeGZXMjE2MnVxV212YkVvRnVDdEdB?oc=5"
     },
     {
       "id": "news-finance-b5679353eb",
-      "lat": 22.51234,
-      "lng": 88.3641,
+      "lat": 22.60863,
+      "lng": 88.31335,
       "title": "【和島英樹のマーケット・フォーキャスト】─日米金融政策と金利動向を注視、物色の主軸は好業績銘柄(株探ニュース)",
       "category": "FINANCE",
       "time": "2026-08-30T05:00:00Z",
@@ -78,20 +89,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHRHeXRrTmVyN1lMYktXT2p3enl0NktxNElwX1JnT1phYmtiNmpRVUZYLU4taTc2cTZyM2JRTHBsNlNzZ04tSVR2UlBnWGhieXBmZ3k1VnJXekZDNmdQREhQTDBCN29nbzVtdVFEaC1GeGlWakdMZDNjOXUxekxNMk9DOVJmWm8?oc=5"
     },
     {
-      "id": "news-finance-8b61a0f8e6",
-      "lat": 40.66755,
-      "lng": -74.0187,
-      "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
-      "category": "FINANCE",
-      "time": "2026-08-30T04:51:20Z",
-      "summary": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjd2TTFZdW5heklSQkVMUHRLaGJwZ0VSWHdla2pydGpIaXk4dGQ0S2N3NkRjRFZDOVpmQllVYjVKQUMtQm5MM2hQaE8xNEV3TmFFemJOQTZKLW8xV0tpUmpsWmpTazk1UVBSNjMyaDdPQ3RHd2w3QlVZbDEwdzFIcXRIak45aE1xWUhKQ0ZkZDRyeGZXMjE2MnVxV212YkVvRnVDdEdB?oc=5"
-    },
-    {
       "id": "news-finance-46f7026242",
-      "lat": 34.82655,
-      "lng": 135.60785,
+      "lat": 34.86094,
+      "lng": 135.60204,
       "title": "違法私金融の被害申告をワンストップ化…31日から窓口稼働",
       "category": "FINANCE",
       "time": "2026-08-30T04:25:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-067f0e4213",
-      "lat": 36.57621,
-      "lng": 138.67544,
+      "lat": 36.5479,
+      "lng": 138.68114,
       "title": "3 Japanese AI Stocks With Real Revenue Growth Potential",
       "category": "FINANCE",
       "time": "2026-08-30T04:24:21Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.65706,
-      "lng": -76.58824,
+      "lat": 39.63045,
+      "lng": -76.57698,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-30T04:01:02Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-ce84ab5aa3",
-      "lat": 34.41269,
-      "lng": 132.70646,
+      "lat": 34.40328,
+      "lng": 132.70144,
       "title": "AI半導体マイクロンの株価は今が買いか、利益率86％の衝撃と新契約の罠",
       "category": "FINANCE",
       "time": "2026-08-30T03:30:00Z",
@@ -133,9 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CVHRocUJ5QkRmM0NzdGNZUkdQTDdkWjAwUDBQS2VxNlI1VWJSX29vNTRFc3FBMUtmMzMxZmpESHROOUNvcnlTM29PUW1jT1hDSlp4RU5XYXRVZw?oc=5"
     },
     {
+      "id": "news-disaster-2c18d754a8",
+      "lat": 34.63584,
+      "lng": 133.91353,
+      "title": "【台風のたまご】新たな「熱帯低気圧」2つ出現...今後の進路、日本への影響は？台風情報に注意...9月6日までの雨・風シミュレーションで確認【気象庁30日天気図】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)",
+      "category": "DISASTER",
+      "time": "2026-08-30T05:13:00Z",
+      "summary": "【台風のたまご】新たな「熱帯低気圧」2つ出現...今後の進路、日本への影響は？台風情報に注意...9月6日までの雨・風シミュレーションで確認【気象庁30日天気図】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGSklkaHRWdGNCWDljb2FyZ0JwclFSSDF3RjdYbzg2SGUxU0x5N2tsVjQ5TVNJUUJWb1ZhdkhIcXVIa05LeUhpcFFBN0VsVFZtRHZUSFd6dlNoT3EydkwzNU8wVjF1V1U?oc=5"
+    },
+    {
+      "id": "news-disaster-0107a517d4",
+      "lat": 33.7381,
+      "lng": 130.43017,
+      "title": "【台風のたまご】新たな「熱帯低気圧」2つ出現...今後の進路、日本への影響は？台風情報に注意...9月6日までの雨・風シミュレーションで確認【気象庁30日天気図】",
+      "category": "DISASTER",
+      "time": "2026-08-30T05:13:00Z",
+      "summary": "【台風のたまご】新たな「熱帯低気圧」2つ出現...今後の進路、日本への影響は？台風情報に注意...9月6日までの雨・風シミュレーションで確認【気象庁30日天気図】&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zYXJzTWNpMlYzd1hKTXJWWmVkZ1NsbzlaQmFiQ0lzSXUwTlowb2NmeEREekM4dWtKNDRJb2F1R1RnNFEzbkpLamtQc2VIeWhmYjExUi11OA?oc=5"
+    },
+    {
       "id": "news-disaster-25ae1db2ce",
-      "lat": 45.4034,
-      "lng": -75.72552,
+      "lat": 45.44328,
+      "lng": -75.72458,
       "title": "Nature reserves spot rare species during heatwaves",
       "category": "DISASTER",
       "time": "2026-08-30T05:08:05Z",
@@ -145,8 +167,8 @@
     },
     {
       "id": "news-disaster-54113d66c6",
-      "lat": 38.19668,
-      "lng": -85.76163,
+      "lat": 38.25711,
+      "lng": -85.72845,
       "title": "Louisville Nepali community holds vigil for victims of deadly flash flood on Nepal-China border",
       "category": "DISASTER",
       "time": "2026-08-30T05:01:00Z",
@@ -156,8 +178,8 @@
     },
     {
       "id": "news-disaster-8aa7ef40ff",
-      "lat": 43.0206,
-      "lng": 141.34559,
+      "lat": 43.05644,
+      "lng": 141.30255,
       "title": "「油断しないこと」災害級大雨“3つの危険”――オードリー春日が身をもって体験 子どもの目線でも取材…“恐怖”に差が『every.特集』（日テレNEWS NNN）",
       "category": "DISASTER",
       "time": "2026-08-30T04:46:00Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-d239630d7a",
-      "lat": 32.79577,
-      "lng": 130.72628,
+      "lat": 32.75346,
+      "lng": 130.73932,
       "title": "熊本地震、２学期開始に合わせ学校の防災担当の教諭ら対象に研修会…避難時に確認すべき点を学ぶ（読売新聞オンライン）",
       "category": "DISASTER",
       "time": "2026-08-30T04:38:38Z",
@@ -177,31 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVG8yT2xpTDdPcHF2MWtKcVFBdDk4c0tUQmhNM29hVFI2Nl9rVThFb2ZWbjRicTNiZktOTnhIcXp1S0VlZW95dHg4TnBYb1RWTnJSZ0xTOUY0VmJhQTFFNWlyeEpCUTNPZmllbTFRY1RvZlA1c3hRMDhPNzNCOHM?oc=5"
     },
     {
-      "id": "news-disaster-504a9da51e",
-      "lat": 33.72045,
-      "lng": 130.47834,
-      "title": "【台風情報】日本のはるか東を北上中「台風23号（バンラン）」...今後の進路は?9月9日までの雨・風シミュレーションで確認【気象庁30日午後0時45分発表】（RSK山陽放送）",
-      "category": "DISASTER",
-      "time": "2026-08-30T04:12:17Z",
-      "summary": "【台風情報】日本のはるか東を北上中「台風23号（バンラン）」...今後の進路は?9月9日までの雨・風シミュレーションで確認【気象庁30日午後0時45分発表】（RSK山陽放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80RWRUakgtV1NfM0NfeExlUUJTbjZfVThGVmphcnhUakdrcmRWd3FLXzRBNmFRLW55SE5Hcl83WUUtaGZUNkpBclYzYS1LZ1VpN1VVbDZldWJ0aU5JRkdWbVk2N1ZxQ3IteUExT0VvbVh5ZUo1aUJsZkFQeHdNVGc?oc=5"
-    },
-    {
-      "id": "news-disaster-a424f3fa4e",
-      "lat": 34.69307,
-      "lng": 133.95103,
-      "title": "【台風情報】日本のはるか東を北上中「台風23号（バンラン）」...今後の進路は？9月9日までの雨・風シミュレーションで確認【気象庁30日午後0時45分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
-      "category": "DISASTER",
-      "time": "2026-08-30T04:07:00Z",
-      "summary": "【台風情報】日本のはるか東を北上中「台風23号（バンラン）」...今後の進路は？9月9日までの雨・風シミュレーションで確認【気象庁30日午後0時45分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmME1xRFE5aGo5N1RlZTFEaU80Z1Uwamh3LW1sS0RjeEFEWEQtSkdoQ2xZRlV1UGoxV21NcXdpRGJGRmtvczU0REdDWUh6ZjVvVzNhdDhFRkFTdw?oc=5"
-    },
-    {
       "id": "news-accident-b63ebbc8f0",
-      "lat": 35.63282,
-      "lng": 139.76798,
+      "lat": 35.73203,
+      "lng": 139.80606,
       "title": "東京・田園調布高校の生徒が福島の震災と原発事故の現場を巡るツアーを実現させた校長の願い",
       "category": "ACCIDENT",
       "time": "2026-08-30T05:00:00Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-d0143eb7f6",
-      "lat": 36.75828,
-      "lng": -85.00898,
+      "lat": 36.75928,
+      "lng": -85.02002,
       "title": "Why Did 49ers Wait 11 Days To Disclose Kyle Shanahan’s Car Crash? Latest Update Reveals San Francisco’s Plan of Action",
       "category": "ACCIDENT",
       "time": "2026-08-30T04:47:00Z",
@@ -221,20 +221,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56cWtiNGYySmd0YW1zYmtmOU50aTlHTHd1NFJfTHBOTjlVNTJFajA3cmdxVVFmZ2Zvb3ZQc2M4blRZUlVHRkdSTV9XLTd5LUFmMlJxaklHWTZ2ODAzS3RHS1NPeDlSUWZkZHJDVkhQeFdHNWNZNk5TWlNB?oc=5"
     },
     {
-      "id": "news-accident-382d87eda3",
-      "lat": 31.6399,
-      "lng": 130.53221,
-      "title": "鹿児島県いちき串木野市で中高生3人が死亡、死因は水死と判明 (2026年8月30日掲載)",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T04:37:18Z",
-      "summary": "鹿児島県いちき串木野市で中高生3人が死亡、死因は水死と判明 (2026年8月30日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "source_name": "ライブドアニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMmJYeWJ3S2JtZy1KMjQxRWg4MjlXMjFkdlVzbndzWGYxdnVaWFNiekdjaEU5ZjNlMzlKQjJWYlZOYWN5Q25RaW04blhyYUtpMnFsc2dhNS1PbVFSZEE?oc=5"
-    },
-    {
       "id": "news-accident-dc057338a8",
-      "lat": 38.19883,
-      "lng": 140.90652,
+      "lat": 38.29012,
+      "lng": 140.86248,
       "title": "テスラ今度は木の切り株に激突しイーロンマスクもショック 人間の遠隔操作で事故",
       "category": "ACCIDENT",
       "time": "2026-08-30T04:02:13Z",
@@ -244,8 +233,8 @@
     },
     {
       "id": "news-accident-7302760aa6",
-      "lat": 35.60787,
-      "lng": -95.42478,
+      "lat": 35.69298,
+      "lng": -95.36521,
       "title": "OHP investigating deadly rollover crash in Muskogee County",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:57:04Z",
@@ -255,8 +244,8 @@
     },
     {
       "id": "news-accident-f14fe9cb00",
-      "lat": 31.65484,
-      "lng": 130.50319,
+      "lat": 31.59223,
+      "lng": 130.53988,
       "title": "鹿児島 いちき串木野の水難事故 亡くなった３人を悼む",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:50:00Z",
@@ -265,9 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDdEU4Xy1nSl9ka3F2aVpCS0FaeEtOZlB2R1I2QXdVdmlNdDA5YUoyRWFEaW43cFU1QnhXMlo0bFowU0tQNFBpTmNlXzhBa2pqUEhQdzF1WFM?oc=5"
     },
     {
+      "id": "news-accident-57df91debe",
+      "lat": 35.61992,
+      "lng": 139.79583,
+      "title": "宮古島市・伊良部島で交通死亡事故（沖縄テレビOTV）",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T03:47:01Z",
+      "summary": "宮古島市・伊良部島で交通死亡事故（沖縄テレビOTV）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nSDVMLTQ3V1ZyU08xZ3U1ckFPYm1QOHNTU1lXa2pxd1V4ZWlsb0ZicTRyYTk5N0Q2MXo2eW1valZTX0Q0alloMmlIUl9BTW9JM3dNSmNMMXp2WGZMNkxzWXBKamNPMlpuMEhTNmJvdzJfSm1Pck9nTlhsSThLMjQ?oc=5"
+    },
+    {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.74444,
-      "lng": 139.83537,
+      "lat": 35.74614,
+      "lng": 139.84587,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -276,9 +276,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wM2xmOFprQVRLTElwTVpOTHN5T2FfNll1dThLZDQ0X2hNdHhMblFPTHRTWjliN0gzUTVhY0h2TUtyQ18yb2FnSFk4VU91a2FiVkxPODh5TnV5UWVka3E0X215X0dqQnd1bHhtMnh2QkRiWTdtR0RYdDN1dXE?oc=5"
     },
     {
+      "id": "news-disease-25d7dc1e73",
+      "lat": 41.05252,
+      "lng": 29.01791,
+      "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
+      "category": "DISEASE",
+      "time": "2026-08-30T03:30:00Z",
+      "summary": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表&nbsp;&nbsp;Newscast.jp",
+      "source_name": "Newscast.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kV0hJN3NNbnA3Wk05UkpZdDFBY2lSdzU4bEZLUDJaX2ppOWlPQjNKZ3ZPWTJ5TEkyRTdMNHdpWVBxMWE3TC1zeUZma24xYkE?oc=5"
+    },
+    {
       "id": "news-disease-bc3d2edfcf",
-      "lat": 31.91236,
-      "lng": 131.39413,
+      "lat": 31.96913,
+      "lng": 131.37707,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験",
       "category": "DISEASE",
       "time": "2026-08-30T02:50:00Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 35.04966,
-      "lng": 135.77659,
+      "lat": 35.03361,
+      "lng": 135.73482,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-f0113312b6",
-      "lat": 34.06826,
-      "lng": -5.01072,
+      "lat": 34.01193,
+      "lng": -5.0583,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.26538,
-      "lng": 66.112,
+      "lat": 34.20448,
+      "lng": 66.16542,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -320,20 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbHJCRmFEeUVndmlERW14NnFzQU4zYmNWNmw3OG5xMVB4M21tUnhMXzFIdlkxVXV0VnY2SlB2aFdhSlltbWl5NjB0UWJXbnJMYnFTWXd6Qnd2cFM1b19rTFhra2w2NlEwS0hCdEJsWFZrRERKaWtlYWxiZkkyeDg?oc=5"
     },
     {
-      "id": "news-disease-d7e083a328",
-      "lat": 34.23106,
-      "lng": 66.16876,
-      "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)",
-      "category": "DISEASE",
-      "time": "2026-08-29T21:10:44Z",
-      "summary": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT05DN1didjVRU1pEenl5dXRmZVM5dUE1QWRjZmZxQTVsZngzRllqbEtqdjNNTnpkTERMN0hsTFRwV3RObUZqZzZ6dTJldkFhbDkzdmliV19PcU1yUDkyenpQcFN0cUtHR2xWMVVZSlYycFI2WjRLQkN1UUw5NFBDeTZwekwyNkVGZTM1MjdR?oc=5"
+      "id": "news-technology-f7d861f375",
+      "lat": 35.70541,
+      "lng": 139.72069,
+      "title": "AIエージェントは「文明」をつくるのか：OpenAI内部で生まれた協調と自己組織化｜Trans-N",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T05:14:33Z",
+      "summary": "AIエージェントは「文明」をつくるのか：OpenAI内部で生まれた協調と自己組織化｜Trans-N&nbsp;&nbsp;note",
+      "source_name": "note",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIWXhBcUUxZkVEb1ZQU0hNQmVGNmlVdDRvS2c0WWJVdE5FMGdiYUZIeW91MnIwYjFRSEE2czVYOERaNWJJS0wtZ2RqN2hFQVB6Y0RRUVR3?oc=5"
     },
     {
       "id": "news-technology-18ecae43b3",
-      "lat": 35.56896,
-      "lng": 139.67329,
+      "lat": 35.5738,
+      "lng": 139.73049,
       "title": "トヨタやノリタケが駆ける「製造王国の道」 AIが工場の現場パートナー",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T04:53:10Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-73ad7869fb",
-      "lat": 34.75781,
-      "lng": 135.23238,
+      "lat": 34.71546,
+      "lng": 135.31278,
       "title": "バイトダンスなど新手法「DiffusionOPSD」、画像生成AIの学習GPU時間を最大63％減 20条件中19条件で最高スコア",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T04:52:28Z",
@@ -354,8 +365,8 @@
     },
     {
       "id": "news-technology-1be953650a",
-      "lat": 59.90259,
-      "lng": 30.36053,
+      "lat": 59.91498,
+      "lng": 30.36231,
       "title": "AI demand drives broader Samsung Electro-Mechanics MLCC price hikes",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T04:38:04Z",
@@ -365,8 +376,8 @@
     },
     {
       "id": "news-technology-cb6b239a1c",
-      "lat": 51.54483,
-      "lng": -0.14697,
+      "lat": 51.4806,
+      "lng": -0.12606,
       "title": "Applied Digital (APLD) Pushes Ahead In AI Data Centers, Is The Valuation Already Too Rich?",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T04:29:16Z",
@@ -376,25 +387,14 @@
     },
     {
       "id": "news-technology-067f0e4213",
-      "lat": 36.60811,
-      "lng": 138.61108,
+      "lat": 36.54723,
+      "lng": 138.65714,
       "title": "3 Japanese AI Stocks With Real Revenue Growth Potential",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T04:24:21Z",
       "summary": "3 Japanese AI Stocks With Real Revenue Growth Potential&nbsp;&nbsp;Yahoo Finance",
       "source_name": "Yahoo Finance",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ3ZzSWhOcXZoOGdQdWZuU2JPaVVMc3dGbUVXeWc1Zmt6Tm1oYlZjdTBtMFpCQkxIVjQyc3VCSjJUTXRvSXg4QnFOVTk3cUhCbVlTSUhGR28xQU82WXZtWXBtemJWcld4TnFNcWU1ZzFJZERIUmZyOTRYeGlUV29OY0xJY3BudHhUN1V2YUM1MzNZcGs?oc=5"
-    },
-    {
-      "id": "news-technology-d1c9a1dc61",
-      "lat": -18.14646,
-      "lng": 178.54071,
-      "title": "Residents gathered in Norfolk Saturday to voice concerns about the growing use of surveillance technology",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T04:19:00Z",
-      "summary": "Residents gathered in Norfolk Saturday to voice concerns about the growing use of surveillance technology&nbsp;&nbsp;13newsnow.com",
-      "source_name": "13newsnow.com",
-      "source_url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWnBXS19xRFRud2Z5eE1TR3AyUDV4cUo3V3YtZ3ZxUUVkUHh6TnpoazItaFFzeDlNWW5BVnF1aktQS0taWFdpd3JOQmJsNksxSW1HTzJGcHItNmRNcVR2WlpUS1FmNjRlS0VlRmxqSFIyakFURFlNa3hJR2NEUEpfYUdqWktsWGYyR3N6T2J6dVh0TGk1aF8xUmRVWkgwaXdYWTNtcnBBSU5TaXBvbFFMMjBSQjRjR1BGV2x1RGpIOXo2eDV0N2x3VTlZZTBmOUwzcDhUNHdlYXZNbEtaa1BVRFphU1M4YmU1N1FSdDhRZ3ZvRG0zS2xiWVdzeG9QZHlTWkphano2TUt0cEpfdkozTDJ0ZEYzUjFTUmRYYjN6VWc?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T05:18:43Z"
+  "updated_at": "2026-08-30T05:33:29Z"
 }
