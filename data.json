@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-11dde6ae72",
+      "lat": 44.98934,
+      "lng": -102.05735,
+      "title": "Faith leaders: In Cook County, politics are being pursued, not justice",
+      "category": "POLITICS",
+      "time": "2026-08-30T10:14:21Z",
+      "summary": "Faith leaders: In Cook County, politics are being pursued, not justice&nbsp;&nbsp;Chicago Tribune",
+      "source_name": "Chicago Tribune",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUg3azF4N2QxRW5jN0dORGw5OUwwNDUyMjhNbkVXand4TUt6M1BjUm9HVUpENFh6OE9LRVFySVlEMDdDdHFmNGNWaGZDYndrRW1mX3JZMkV4ZjJQa1hTZnNnVEdlbGE2QmNCNkNrY05aMGllV2J5X2ZvcTNOcXFmaS13VGhKV1EzVXJocS1vT1RlVk1fNkpEQXNiWWxvanVWM3VUUmI1UQ?oc=5"
+    },
+    {
+      "id": "news-politics-673c14a8d4",
+      "lat": 31.98616,
+      "lng": 111.97437,
+      "title": "‘Our contingency plans have contingency plans’: Officials preparing for potential changes ahead of Election Day",
+      "category": "POLITICS",
+      "time": "2026-08-30T10:06:18Z",
+      "summary": "‘Our contingency plans have contingency plans’: Officials preparing for potential changes ahead of Election Day&nbsp;&nbsp;Chicago Tribune",
+      "source_name": "Chicago Tribune",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTHB2ckJ5TkZpTENQY0c0QmFWc0d3eFVRRTlkUU5TandoNjA3LW9lTlYtX2gwaHcwckI4Sm5sTTVhVWVDMVoxY2dzcmVjcjkybmpuT1R4ZmxkQjdoTkw2T3UxWGs5bWJ0cnktY0t6Vi1lYVNVT09nS2dOMFZNU183UlhseEZ1aDhGbjBrWjZnQ195U2xjVEo0SERCa1dzTEE4bnFnVUVYMXpXdXN5TlRWeWZIeVpzemRudW1rTkNKSnF5YUZFV1ptV1dGd2lTNlQ5M2ItVTNXVTJGVGlyNjcxenQza0k5dw?oc=5"
+    },
+    {
       "id": "news-politics-1d75ea6504",
-      "lat": 47.27237,
-      "lng": -1.25824,
+      "lat": 47.28207,
+      "lng": -1.26516,
       "title": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia",
       "category": "POLITICS",
       "time": "2026-08-30T10:01:08Z",
@@ -12,20 +34,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdDBDT1BvLTZoeWl6NXlyOXFyT1pWWGFHOWFnc2wyRnZaWmtibTdyVFVJMnk0SUxVNkk2b0F6SzNaU2ZmYWg2YWJJdFN1Nk56U1JkQ1dBdWlWbmdkTWI2S05aOEJRb1pHMnRvMkZ6dEk3Q2NkOUM4SkRxZmNmZTZqaS1UcWYyaTdwZUNUeU9LOVRKRTloVUQ4dXRKRmVhZGFOeEJqRlA3UElpLUtmdjdNckxURTdVVnN6ZTdwT3hkWVY1ckNlMHVDcjdSNUo1UnpTcU4xMzY3OA?oc=5"
     },
     {
-      "id": "news-politics-92f83475c5",
-      "lat": 42.0824,
-      "lng": -124.22555,
-      "title": "Republicans Are Worried About the Midterms. Trump Is Focused on His Legacy.",
+      "id": "news-politics-1b7a8a4dc4",
+      "lat": 38.76951,
+      "lng": -91.41501,
+      "title": "Is Ed Case Hawaiʻi’s Most Popular Politician? Voters Say Yes",
       "category": "POLITICS",
-      "time": "2026-08-30T10:01:03Z",
-      "summary": "Republicans Are Worried About the Midterms. Trump Is Focused on His Legacy.&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUR0ak80cEJDVlNibGtRQ3Vtc0VpQUhGM2k1MV8xamttbksyaklsR0pJTHdISnFpUDBBRVduYlB4M1hEcFVxd09Yb2FFNzJDVlBROFZlbHBGTlJrdzA4U19xaXY3TW9UVUFqck9teGhkU1RLTk5OQTVWeXFsVUpZdmp4QnJpXzk3UVRNT0ZyOGRSSkpNbk1oX3YzcXRzRDdUbHd3REMtZHlVOE1qSGpjbw?oc=5"
+      "time": "2026-08-30T10:01:00Z",
+      "summary": "Is Ed Case Hawaiʻi’s Most Popular Politician? Voters Say Yes&nbsp;&nbsp;Honolulu Civil Beat",
+      "source_name": "Honolulu Civil Beat",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14SUpQNUFsd1Q0OWxrU3ZDWXphbld4UXQ2Z09fb08zc09GdDdlS2JNb0p2MTNidzF2SURhSExjelEzTFAtcDNpekhTZDdra3h5bUNXbDlpNDRMWFVxVkFhZ051WVMzc1BmU0tua1E5d1ExT2RYNTk5eUpIWW0wOVU?oc=5"
+    },
+    {
+      "id": "news-politics-0fe48d46c0",
+      "lat": 33.57354,
+      "lng": 130.36301,
+      "title": "【社説】「ドン」が辞職した福岡県議会 県民代表の責任を果たせるか",
+      "category": "POLITICS",
+      "time": "2026-08-30T10:00:00Z",
+      "summary": "【社説】「ドン」が辞職した福岡県議会 県民代表の責任を果たせるか&nbsp;&nbsp;朝日新聞",
+      "source_name": "朝日新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xLWlxUmNtV2s5Q09TNFJsRWtHSXdVWjF0UEREYVZUNzFjcTl4eFVJT3ltRnNZWTh6TE93cmExUzF5NUkzTzZPbUZmdkd2WGE3Z1dYa20yMHFTRWtwMzVycGFUTENvbUU?oc=5"
     },
     {
       "id": "news-politics-2e4927b6dc",
-      "lat": 29.84775,
-      "lng": -90.95434,
+      "lat": 29.83227,
+      "lng": -90.95822,
       "title": "One of the Supreme Court’s worst ideas could save the midterms from Trump",
       "category": "POLITICS",
       "time": "2026-08-30T10:00:00Z",
@@ -34,42 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZy1jUllRTXg1NFFjbkxnNXFEVjZqMlJCaHFLWFp5c01EcXBTVTRJSFVpbGRGdXhGTVVrdk9FTS1BZm04Z2cydFJ5MnF5WWVrNnp3Y25UeDVYUjVza09RX0NPVjljVWtzWEZSYnJjWHZpVTNJenVGT2haVHkxWnVmTll2Rlc4eHZFaFZsU2p0cmNmNmlsanc?oc=5"
     },
     {
-      "id": "news-politics-ea8e68ca4f",
-      "lat": 34.04429,
-      "lng": -118.20343,
-      "title": "A conservative California upbringing paved Natalie Harp’s way to Trump",
-      "category": "POLITICS",
-      "time": "2026-08-30T10:00:00Z",
-      "summary": "A conservative California upbringing paved Natalie Harp’s way to Trump&nbsp;&nbsp;Los Angeles Times",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXVZcWpwTDdCVXlqWnVTRnpIWGJuN3ZCTUdBWklkT1NSWWNNczFmVVA5dnY0Sll2eUlIY0R6bUJZb29vbnl1RkZJd0hvMEZKNjl2SW1sV1RFWTM4b2lBVGZUMWkwYmREcEpHODNIVDhNZkVaOFlMeFJTUzk4SkRFbVltVHQ1RFQxMGF5RDdieElyN1hxTWF1Q1BxVkpGWTgtVFJ3OEE1ZGExZkRQdHU5Q25mWjdibEoy?oc=5"
-    },
-    {
-      "id": "news-politics-8b61a0f8e6",
-      "lat": 40.65747,
-      "lng": -73.94763,
-      "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
-      "category": "POLITICS",
-      "time": "2026-08-30T09:59:21Z",
-      "summary": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjd2TTFZdW5heklSQkVMUHRLaGJwZ0VSWHdla2pydGpIaXk4dGQ0S2N3NkRjRFZDOVpmQllVYjVKQUMtQm5MM2hQaE8xNEV3TmFFemJOQTZKLW8xV0tpUmpsWmpTazk1UVBSNjMyaDdPQ3RHd2w3QlVZbDEwdzFIcXRIak45aE1xWUhKQ0ZkZDRyeGZXMjE2MnVxV212YkVvRnVDdEdB?oc=5"
-    },
-    {
-      "id": "news-politics-b9fb026879",
-      "lat": 65.02717,
-      "lng": -18.05852,
-      "title": "Iceland votes against restarting talks on joining EU",
-      "category": "POLITICS",
-      "time": "2026-08-30T09:49:05Z",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
+      "id": "news-finance-55a6177179",
+      "lat": 54.59107,
+      "lng": -5.95348,
+      "title": "Markets Brace for Possible Rate Hike After Kevin Warsh’s Hawkish Turn",
+      "category": "FINANCE",
+      "time": "2026-08-30T10:15:48Z",
+      "summary": "Markets Brace for Possible Rate Hike After Kevin Warsh’s Hawkish Turn&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd21XY0p2U19xZjhVVUdnMUNXUHpJT0c5bGxHdzRGaVpBckhWSmtRRENmaWVKZDVzY0J0VllrWDFmOC1NMXhlMnQ4bEEwZG1SeHczVWhfMC1sZGRUMjBPeVU5ZWZBdW1yMTZpa1NsUy1Ra2lBUEwwMHJyYXRHRThha2ZvQXF2d2pNME9KY3BCRTRFZkVPZjJzUHM3Rng0ZXZJYTBDalVtTDRTZDVxcldtSEdlRUo0dw?oc=5"
     },
     {
       "id": "news-finance-fc88d82130",
-      "lat": 51.63914,
-      "lng": -3.22369,
+      "lat": 51.5956,
+      "lng": -3.24634,
       "title": "What a 125-Year-Old Bull Market Says About Today’s Trading Craze",
       "category": "FINANCE",
       "time": "2026-08-30T10:01:53Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-8b61a0f8e6",
-      "lat": 40.72706,
-      "lng": -74.01302,
+      "lat": 40.75707,
+      "lng": -74.02718,
       "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
       "category": "FINANCE",
       "time": "2026-08-30T09:59:21Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-b73b23bd10",
-      "lat": 35.07253,
-      "lng": 136.58424,
+      "lat": 35.05552,
+      "lng": 136.66569,
       "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目",
       "category": "FINANCE",
       "time": "2026-08-30T09:28:01Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-2d740bac06",
-      "lat": 34.69074,
-      "lng": 135.18302,
+      "lat": 34.7118,
+      "lng": 135.22252,
       "title": "投資や貯蓄の仕組みを学ぼう 尼崎で親子向けの金融教室/兵庫県（サンテレビ）",
       "category": "FINANCE",
       "time": "2026-08-30T09:22:28Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-2939235548",
-      "lat": 35.68781,
-      "lng": 139.72844,
+      "lat": 35.68833,
+      "lng": 139.77354,
       "title": "ソニー生命に立ち入り検査へ 不祥事で金融庁、プルデンシャルに続き",
       "category": "FINANCE",
       "time": "2026-08-30T09:00:00Z",
@@ -122,31 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YR3JJd3NFS2p5QkxfSVQ3VW1aMm9fcXVKZ21nNzN3eU54REdVV3UzQ214b0FXT3RyUk80UWxFT2g2VGFzLWE2dWRMQnJyMXdxaUZNc1ozUTdiWFZQRHVSUFBYLVBaa0U?oc=5"
     },
     {
-      "id": "news-finance-57631a7875",
-      "lat": 51.65127,
-      "lng": -3.20092,
-      "title": "What to Expect in Markets This Week: Dell, Several Consumer Companies to Report; August Jobs Data Due",
-      "category": "FINANCE",
-      "time": "2026-08-30T09:00:00Z",
-      "summary": "What to Expect in Markets This Week: Dell, Several Consumer Companies to Report; August Jobs Data Due&nbsp;&nbsp;Investopedia",
-      "source_name": "Investopedia",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOWdHTkpybDdGY0pUSjJIYTgxeDZOU3BZQk82OHlqMFdzekIwZF9rczRsem54b1ZJOUVPSXM2N3VQTTJscnIxMjVGbmpaQzhjd2JoVElPclV6T0ZJVks1bk5rdjliUlhnRnNQNVFfSDQta2ttNzZPZ0JCSXotZk5BNTNRWGZLZ0FvQXFrM3c4RnlqcDIxaWcwa1N5UGQxLTI4Wm9PM0tMMkJXOUNjN3IxT244aHFnaEZHYmFacWxFcUhqZWNJYzltR1lZQS0xTERuZEE?oc=5"
-    },
-    {
-      "id": "news-disaster-61b0150574",
-      "lat": 1.84683,
-      "lng": 103.00868,
-      "title": "石川・富山の大雨被害 復旧作業は さらなる土砂災害への不安も – Quebee キュエビー",
+      "id": "news-disaster-3a8f596ba2",
+      "lat": 28.37473,
+      "lng": 83.9405,
+      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
       "category": "DISASTER",
-      "time": "2026-08-30T09:43:47Z",
-      "summary": "石川・富山の大雨被害 復旧作業は さらなる土砂災害への不安も – Quebee キュエビー&nbsp;&nbsp;QAB 琉球朝日放送",
-      "source_name": "QAB 琉球朝日放送",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xN1A2TXhOakg1WWFCTVczZkJCUWE1WmxoNjJpZ2JtR2w2SU9PaXNzVk9Yd3Y4Qk5hVVlrbDg3Zy0zaUZzWVdtRG5GSEVCelRHaUp0TUhfN1k?oc=5"
+      "time": "2026-08-30T09:52:41Z",
+      "summary": "Nepal warns of possible fresh flooding as communities grapple with devastation&nbsp;&nbsp;NPR",
+      "source_name": "NPR",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NRXVoM2RDbHJDd3VBUm5aV2luR21GWFUweGFqNkpLZUNfNnlXZTU1eUFGdUgxT2U1dmMtN3dkY0JYVll4Qzh5MGxpWkVOcDFmalcyS09vQThoelZ5V1pjeEZGY3RJbmZTWEhOWVA3WWFEaDlVWF9weHNwYw?oc=5"
     },
     {
       "id": "news-disaster-d30385deb0",
-      "lat": 37.36318,
-      "lng": -118.39729,
+      "lat": 37.40046,
+      "lng": -118.40622,
       "title": "US Bishop calls on international community to assist victims of Nepal flooding",
       "category": "DISASTER",
       "time": "2026-08-30T09:32:42Z",
@@ -156,8 +156,8 @@
     },
     {
       "id": "news-disaster-99f687e52a",
-      "lat": 32.79465,
-      "lng": 130.8014,
+      "lat": 32.73149,
+      "lng": 130.7266,
       "title": "熊本地震 県整備の仮設住宅初めて完成 来月５日から入居へ",
       "category": "DISASTER",
       "time": "2026-08-30T09:31:00Z",
@@ -167,8 +167,8 @@
     },
     {
       "id": "news-disaster-2593ca2686",
-      "lat": 51.16725,
-      "lng": -4.66444,
+      "lat": 51.20643,
+      "lng": -4.62538,
       "title": "Aug. 30: Earthquake measuring 2.1 shakes region close to Pacifica, CA",
       "category": "DISASTER",
       "time": "2026-08-30T09:29:08Z",
@@ -178,8 +178,8 @@
     },
     {
       "id": "news-disaster-48a75e9f42",
-      "lat": 35.60686,
-      "lng": 139.80638,
+      "lat": 35.60009,
+      "lng": 139.73504,
       "title": "大雨と地震を想定 複合災害に備えよ！県の総合防災訓練【愛媛】（eat愛媛朝日テレビ）",
       "category": "DISASTER",
       "time": "2026-08-30T09:28:05Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-808193ebb5",
-      "lat": 28.35938,
-      "lng": 83.94086,
+      "lat": 28.39975,
+      "lng": 83.97696,
       "title": "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
       "category": "DISASTER",
       "time": "2026-08-30T09:24:58Z",
@@ -200,8 +200,8 @@
     },
     {
       "id": "news-accident-e0bd546cba",
-      "lat": 31.55653,
-      "lng": 130.50685,
+      "lat": 31.63031,
+      "lng": 130.53177,
       "title": "パトカー追跡中の２人乗り原付バイクが事故 けが人なし【鹿児島】",
       "category": "ACCIDENT",
       "time": "2026-08-30T09:35:01Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-879ec3b6d6",
-      "lat": 35.63644,
-      "lng": 139.75995,
+      "lat": 35.62159,
+      "lng": 139.72576,
       "title": "自動車学校で交通安全夏祭り スタントマンが事故再現 東京（毎日新聞）",
       "category": "ACCIDENT",
       "time": "2026-08-30T09:25:38Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-ca56107bc0",
-      "lat": 35.6524,
-      "lng": 139.82558,
+      "lat": 35.63914,
+      "lng": 139.75333,
       "title": "自動車学校で交通安全夏祭り　スタントマンが事故再現　東京",
       "category": "ACCIDENT",
       "time": "2026-08-30T09:25:00Z",
@@ -232,20 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQUxNWGdJMGhoSUNBYUhOdkxmdm9UM1U2WFV4aWNzX0lrOGJzQmFJZnJEUk1GRkxpc2JZenV3eUVNVmdMdjRRWUZ0REk1NjRSYXBEbzBNeXc0SWNBZ3lnUDFMaHFVbUNyd1VfLWdPYnVISFlsM3o0RzZkbTNOQ2lPSUhQbndQaEl4MExwLU5xY3BsWVFHQzNjVzdSbHMzN2VsNE1BUTd3dUNNdGgwRkRCOExHczVUcW9TZndfYlppa2JOaXNWWWRJNDFTUE81YVFocUVBSE1id1lkOEZCamgzZm5aZVBlUmhD0gGYAUFVX3lxTE55T2NPVVhtNWhzV2tjcGNQUWhLeWU5aHpIbS1heHNEQjJsZXgxSjlpdjNKRG9tZ1Rna3JIaHJubHFJeVZzemVLdzVxTks2MW1ab1JkVUlRaDJzNnJ6YmRMNUFpOVNGaVZSdzFWamxqM1hmbEotQkhQX0VLZkwxRGZpcmZUWGk4X05oZWV5eV9OZVA1X0NHcld5?oc=5"
     },
     {
-      "id": "news-accident-263dec3c8a",
-      "lat": 31.63722,
-      "lng": 130.58927,
-      "title": "パトが追跡中のミニバイクが事故 鹿児島市高麗町の市道交差点（南日本新聞）",
+      "id": "news-accident-0335f58a24",
+      "lat": 31.53837,
+      "lng": 130.56743,
+      "title": "パトカー追跡中の２人が乗った原付きバイク 交差点で車と接触事故 鹿児島（KKB鹿児島放送）",
       "category": "ACCIDENT",
-      "time": "2026-08-30T09:05:21Z",
-      "summary": "パトが追跡中のミニバイクが事故 鹿児島市高麗町の市道交差点（南日本新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "time": "2026-08-30T09:06:22Z",
+      "summary": "パトカー追跡中の２人が乗った原付きバイク 交差点で車と接触事故 鹿児島（KKB鹿児島放送）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IVmw3a0lMNUlOaVliYkt2bXBmYVRmS1lJeTk4NUkySzA2c1BKVFRjdFllZzhKUVY4T1dzNHZubVpGcUhSd3BleUt3WmxITFR3QzNtSUhOTFBoTnFOR1RXVEw4OHpkNnFZMlZfRzZFUjFNRk5xUm9jX0U2bDljUk0?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ak40bDlpN043NTAwQ01RVUE5ZnBpRl9OTy04YnhRZTFkeUh2d25FY0pIcnFiVmVVVG1XdXJJUFFfRGxTN1ZHVUdnczM3RjdGMzU1NjhEd3otQXd5MXpEWEhTbG9GSWMzUlBPUGZxeG9IWVp2ZzQwQmdOQXk4QW8?oc=5"
     },
     {
       "id": "news-accident-bcf8471ca0",
-      "lat": 31.5669,
-      "lng": 130.54382,
+      "lat": 31.62047,
+      "lng": 130.49723,
       "title": "パトが追跡中のミニバイクが事故 鹿児島市高麗町の市道交差点",
       "category": "ACCIDENT",
       "time": "2026-08-30T08:54:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-42923a2456",
-      "lat": 31.62121,
-      "lng": 130.59963,
+      "lat": 31.63947,
+      "lng": 130.61213,
       "title": "【写真】パトが追跡中のミニバイクが事故 鹿児島市高麗町の市道交差点",
       "category": "ACCIDENT",
       "time": "2026-08-30T08:54:00Z",
@@ -265,9 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pUkgzZVl4bDdqRm5lWGVzbmhiS051M0Z3SHdYNElwRlJBa21zclBxLWNKNjRMbHhPZnJoaFBwOHlnMHg4UktQUjFkZ1FBTmo1djZCTUpWcw?oc=5"
     },
     {
+      "id": "news-disease-f0b1b307b9",
+      "lat": 10.78852,
+      "lng": 106.69703,
+      "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
+      "category": "DISEASE",
+      "time": "2026-08-30T10:13:52Z",
+      "summary": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。&nbsp;&nbsp;Vietnam.vn",
+      "source_name": "Vietnam.vn",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0xZWmcyWmxWV0pKTDZxQ2NKWVNmS3VyNkdkTFdydU80cTktaTVqNjRRUFZIVTE2dnoybVhwVS1TTUhqd1ptd0NKSmpKRHZaNnNLYThsdnBET3R4THVhRkhJeTl1R3l4d2RyR1Z6cnRCc1JpR3RDc0w3LWR1bE8tY2hpdnVCMXRPOFlLTnNmanFxVzVnbEVTQVlZQ202b2c?oc=5"
+    },
+    {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.05273,
-      "lng": 106.30525,
+      "lat": 10.07785,
+      "lng": 106.30413,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.75501,
-      "lng": 139.86821,
+      "lat": 35.76994,
+      "lng": 139.83893,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 40.9885,
-      "lng": 28.98155,
+      "lat": 40.98514,
+      "lng": 29.02593,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.95494,
-      "lng": 131.40242,
+      "lat": 31.95062,
+      "lng": 131.44943,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 35.05304,
-      "lng": 135.79651,
+      "lat": 35.0535,
+      "lng": 135.71808,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -320,20 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmNNSGhSNnQyUU1od3NqMWZYdXdlT21hRGZZcFJnUDBEczR5N1hDRXlpZ3hjVmRfOWRxYS1MazBQTjVCZThKbEFxWXdfbXJpNVdXaC1nNXN5QWtzcmtNZ0tJajgwVVlnU1JVbzJJMUxCUzFiRi1hUnZkaVA0SlpJUWVHem9jWjhPWThMVWZzU0JUSElIWFpVa0ZMdlRqMXNaV25nMFlrYklUdjZC?oc=5"
     },
     {
-      "id": "news-disease-948c208240",
-      "lat": 34.02521,
-      "lng": -5.03634,
-      "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
-      "category": "DISEASE",
-      "time": "2026-08-30T00:00:00Z",
-      "summary": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表&nbsp;&nbsp;Newscast.jp",
-      "source_name": "Newscast.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94NGJlTi1Cb3g0VE91WkJUYVZ5OG5TWVF0QjRRWnBTWFllRzRwdXREZWtfQVZjMUJnWm82eDZodGlwQnI0ckt3?oc=5"
+      "id": "news-technology-14ad913678",
+      "lat": 41.73882,
+      "lng": 44.74673,
+      "title": "As AI reshapes education, should classrooms change too? | Opinion",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T10:06:00Z",
+      "summary": "As AI reshapes education, should classrooms change too? | Opinion&nbsp;&nbsp;The Tennessean",
+      "source_name": "The Tennessean",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLS11UVlqdm5zUzNlNU13czd0eGVWRW1KUHZRN091ZWhnd0o1NTVVOTZCVTVUbGYtYlpvOHZwTHRFUm8xNjZjWVlUdjV3STZWT09mcDVjUDZRdHpBSElRZEx1a1BjQk0zZjNqNUk4OFB3Ym9ORnlVZ1B2a1ZnLUFUTEUtYXhjVURKV3FvMU9qcWhhZzhBbk1aQTlzbGl5eVpPWWtUb0ktLWlvVHJ4SXJGZ1JYS0U?oc=5"
+    },
+    {
+      "id": "news-technology-a365d07473",
+      "lat": 35.02747,
+      "lng": 135.7735,
+      "title": "生成AI導入で情報漏えい？防衛省満点の専門家が教えるセキュリティ総点検",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T10:04:35Z",
+      "summary": "生成AI導入で情報漏えい？防衛省満点の専門家が教えるセキュリティ総点検&nbsp;&nbsp;Koubo",
+      "source_name": "Koubo",
+      "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1GdGpuUzJsT3VDdzBzaFNzZTNYWC0yalZVLVJYcU0yaHIxYU16MmI2bmVNcE1WZ2dKNl9CSVFWSWFuYTBncFE?oc=5"
+    },
+    {
+      "id": "news-technology-a7b5778e10",
+      "lat": 35.60998,
+      "lng": 139.7025,
+      "title": "AIで車づくりに挑戦 宇都宮で親子体験教室 デザインや性能、個性あふれる車完成（下野新聞デジタル）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T10:00:41Z",
+      "summary": "AIで車づくりに挑戦 宇都宮で親子体験教室 デザインや性能、個性あふれる車完成（下野新聞デジタル）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtYVMySVAwdWtBeU5QdnllZjFwR3Y1bElLazFzb0dvZmxFY2l5RDlheUswOEk2cXA4YlllX3dreWNWSnJLUTU5dVQxTTJOR1MycGtuanRiUWVLVWt4LVFyQWtidHA3dU1RZ3Y4N0NLeUNrM3JJblY3WkZWQnJfVUE?oc=5"
     },
     {
       "id": "news-technology-9b910e4106",
-      "lat": 35.44587,
-      "lng": 5.40507,
+      "lat": 35.41757,
+      "lng": 5.41831,
       "title": "【子育て世帯の情報収集】半数以上が「AIに聞く」時代へ 人気はChatGPTとGeminiの2強",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T10:00:14Z",
@@ -342,59 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTYzd3SWJmLW53eWhLMzRaMk1kSDFSTGw2NlAweFB0RlY4SmZPUXRUNFVIOVdMWjdFRlZtS0doUmxPa0RmQnlUbUEyUmFpQ2h4MmVTZVMwYU9wTGwyVVJVUjVNNXNsdUY2bmZnRXE5OThma29WdGVZemZQdGNGYTg?oc=5"
     },
     {
-      "id": "news-technology-b16a43c6b2",
-      "lat": 35.63121,
-      "lng": 139.75296,
-      "title": "おばたのお兄さん、イベント関係者にお願い「写真を添付した後にAIで広告を作らないでください！」（スポニチアネックス）",
+      "id": "news-technology-b855e3a827",
+      "lat": 38.72563,
+      "lng": -75.3606,
+      "title": "Delaware universities join $21.5M AI Institute for research collaboration",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T09:56:07Z",
-      "summary": "おばたのお兄さん、イベント関係者にお願い「写真を添付した後にAIで広告を作らないでください！」（スポニチアネックス）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tR3RRdGNQUFd5MDZVbkhQckxOOC1YQUJDYmEtOGpEMVNCOXpWNEFzYmlRUko4QTdhZExRUjFKbDJubHJzZUlzcU96b1hBdmM4LWlEUFRLRVI2ZVFpZklXZGV0YlZXeTlyNnc0OW9JTDJUTGNyM1Q0R2ZsZlBOZjA?oc=5"
+      "time": "2026-08-30T10:00:00Z",
+      "summary": "Delaware universities join $21.5M AI Institute for research collaboration&nbsp;&nbsp;WDEL",
+      "source_name": "WDEL",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZHUzc05WOXFvV3U4N3RoVmM0U0dKbnk3TV9XMXBOSkxOVHpaVFU1YzhpazNJMzZZRzVHekRieUgxWmJpVlowVzZuUmZoX0hkclJ5UnFMUWh6Z1dDTFBsSS1iUU9fendwb2k2TTAxMzhwY1JhTHBYaU5UdHdOdjRGbkg4Nk1faVI2ek90UEl3OU5aRENQeU9zb3JIczdIMWRzZWVCZHJZejFqbWEwaUJVLXBXbGhJTmhkeEZSV0xlTzFEWkhzUTFQVVdPdTVWVFFWeHp4Sm93NjZfVFVlbDlRbVBn?oc=5"
     },
     {
-      "id": "news-technology-e46a2e147e",
-      "lat": 32.40313,
-      "lng": -98.98935,
-      "title": "Cisco director of engineering on managing agents: I'm not working more, but work can feel more intense",
+      "id": "news-technology-4d92abd76f",
+      "lat": 38.31967,
+      "lng": -90.67036,
+      "title": "Local economist joins Newman's AI institute as associate director",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T09:55:30Z",
-      "summary": "Cisco director of engineering on managing agents: I'm not working more, but work can feel more intense&nbsp;&nbsp;Business Insider",
-      "source_name": "Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemVWZ2M2NGJTTXhkUG9TclljMTR3N1MtTG1WbHpITkZYbE9YVTN6SXd2TmQyZTNVeWFEQWt1QmVuR2NsSFVCaDVGcjZNV19HS0ZQVm9zaFdHRkhTeDFGbmQtSDJNQUhmUW9UTHRlQU9rUGhfVmRPX3JBTWxtSVpNcFdNZ0lXazRKajFsX3MtMkc?oc=5"
-    },
-    {
-      "id": "news-technology-24e57d060b",
-      "lat": 52.10798,
-      "lng": 4.4997,
-      "title": "Does Raised AI Security Guidance Reshape the Bull Case for SentinelOne’s (S) Platform Strategy?",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T09:35:08Z",
-      "summary": "Does Raised AI Security Guidance Reshape the Bull Case for SentinelOne’s (S) Platform Strategy?&nbsp;&nbsp;simplywall.st",
-      "source_name": "simplywall.st",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkNjYk5zS3pDb2U5dE0xMXJBdlYxMjVDNTVCblptUk1vUktFYktaVWtNcjNXQXNrejA3WDQ0Zk5zeWxIOVdhbWw3NUNJT0hMLWJodmp1cXVJZEttTVdZLXBCWTRkNm9wN05JOFQwT1hEaGFoREwxTzVCdlFsamE4SUJTS2tQeTdPU09iOTZ4cldUandfcDg3TjlwUktGdkZjOEhELTAxcUZKVktvOUdUem1OWGhRemhuX0tjakwwblpEUGvSAcgBQVVfeXFMTU1QbTBzOUp1c1BwWlRJQ0tjY0Uyb2dtYVVKUHFmY3VmczJ5X3FOSzZvVHVhQmpqSTZmVzVwMEdlOFpIcWFzb3BhMXFTcDMxQTBsUTdLelhhWGp2TEx6c190ZDllTXZoY3hESUZValQ0Z3E0UmtXeVVQQm9UbENaU2tQYWQ2dnNwVDFRcDBrN0FLNlRsZHNwM0ZqbEtwRGNjVkh0b0dsWnNJRW5fbExpNk9hQkw5N194Qkc4TXRaamhWNmJhQnMydWM?oc=5"
-    },
-    {
-      "id": "news-technology-46299c47ab",
-      "lat": 41.75317,
-      "lng": -79.32234,
-      "title": "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T09:30:59Z",
-      "summary": "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved&nbsp;&nbsp;The Motley Fool",
-      "source_name": "The Motley Fool",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXJ1OVZrOXVWcmlBX0xBTGNxR05GWjdiOGdwTVVHd1d2dXBTWjdpemJ0SnU3NDEtcG4yZGJZWDNrMUw0QmNsY2RidlM1emZsYldtYjlwdERJTEtIdlo0aUVzYmpKb3Nyc0NZQWIwLWJfRjlkeXBHcUVDWWN1N1QzOGJ1XzV6Wm1GVndZd21NTTRvWlBuMmFlaA?oc=5"
-    },
-    {
-      "id": "news-technology-867755d248",
-      "lat": 23.83826,
-      "lng": 74.03658,
-      "title": "AI搭載の美少女「Nori」と感情を育む一人称視点のナラティブADV『I_NORI』が気になりすぎるぞ。アジアインディー発掘録！【2026年8月後半】（Game Spark）",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T09:30:03Z",
-      "summary": "AI搭載の美少女「Nori」と感情を育む一人称視点のナラティブADV『I_NORI』が気になりすぎるぞ。アジアインディー発掘録！【2026年8月後半】（Game Spark）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12bEs4dHI2cmV5VjVHNXRlX01hVHdtZDBoa0cya2FHZVRiV0NHV21TYTNQRzZJa20yZ3pFTzFDU3U5eEF5MTJpSEdQcVphT0FPeTNYVTM0STZITlozbUZCWnh2Nk9hVk5LU2NFM3dGOFhCYWF3ZzdRdjlvdHBhSGM?oc=5"
+      "time": "2026-08-30T10:00:00Z",
+      "summary": "Local economist joins Newman's AI institute as associate director&nbsp;&nbsp;DerbyInformer.com",
+      "source_name": "DerbyInformer.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa2x4V3NWeVV4bkxjcDY3aG9vYnNYSm1kN3dZUldFQktZUHFJSGxEcVFzVkFONlNPeEZWN1pVcDdIQTVUM2RUYU43YWVhZG1KWE5fbVJQZFpRMVFHcVU0TXZ5RGVUM3poRDliTzUtQi1ib2NQZ3hzT0pyb0thRU5oRXlJRThtSEpTMExvakEwdy0xbC1NOUxXSFFaTDJsc2huZDBKaUo4LURxZXZRNHVlWlFON0JTRGppME9RajZXQmVzenZuNXZIdHZld0E4d0tmQ2UtZWx6Zkx6QWxyLVU1SUM2T05CSkdtb0d6SEdWTQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T10:03:45Z"
+  "updated_at": "2026-08-30T10:18:32Z"
 }
