@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-e9a2665081",
-      "lat": 45.33074,
-      "lng": 15.66201,
+      "lat": 45.31622,
+      "lng": 15.7082,
       "title": "アルムナイ採用など官僚のキャリアパスが多様化 国を動かすために官僚より政治家を目指す人も（AERA DIGITAL）",
       "category": "POLITICS",
       "time": "2026-08-30T03:00:38Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "news-politics-67ef258b8f",
-      "lat": -7.61973,
-      "lng": -78.58288,
+      "lat": -7.57734,
+      "lng": -78.65295,
       "title": "高市首相「連立拡大」決断を、「チームみらい」とテクノロジーで政治の透明化 松井一郎 以心伝心",
       "category": "POLITICS",
       "time": "2026-08-30T03:00:00Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-02b513b000",
-      "lat": 47.18699,
-      "lng": -71.93269,
+      "lat": 47.14279,
+      "lng": -71.91662,
       "title": "Jelly Roll Slams Politicians On Both Sides For \"Sh*t Job\"",
       "category": "POLITICS",
       "time": "2026-08-30T02:47:00Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-059f32af69",
-      "lat": 32.59683,
-      "lng": 34.99889,
+      "lat": 32.58213,
+      "lng": 34.99091,
       "title": "Ofer Winter can reconcile political renewal platform with endosring Benjamin Netanyahu",
       "category": "POLITICS",
       "time": "2026-08-30T02:40:03Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-af5d2253cd",
-      "lat": -37.79169,
-      "lng": 144.73175,
+      "lat": -37.83097,
+      "lng": 144.67531,
       "title": "Reflections on Colorado Springs candidate political debates | Tom Cronin",
       "category": "POLITICS",
       "time": "2026-08-30T02:25:11Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-46b8f2b3de",
-      "lat": 53.78685,
-      "lng": -0.32024,
+      "lat": 53.79261,
+      "lng": -0.30659,
       "title": "Politicians rally from both sides at local fundraisers, 66 days until midterm election",
       "category": "POLITICS",
       "time": "2026-08-30T02:07:49Z",
@@ -67,20 +67,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPODhtWURTaGptRVo0UXZDS0xqcmk3MVhIZXhLcDBPNEdGXzFxLWRBNzhUX1hlaXFFblp4RUh2TURfRUFUb2lJeEZFQVVWRWhyYXNhSmVyclN3LWpmcWltT1lMajRQeUU1NHBVcUloVk9meThuZGE1MENFUG5zRmNCVmlzWkN2SllfWG1aV1hKN2FGZVliWFI2SnpKc1F6bFhNNVZiR2Q0Sk9FOVNaaU0zbjZLamtHZW5renh2c3BSMVBiME9ObXh4RkZVTDbSAdIBQVVfeXFMUERXZmJLcGN4YkNrTTNLQTZjNHdGWlZhNVVxTkVMRk8xNEtxeThwZG1KbTJoUW1DR05uaE9wUjJZMHNWU1pZaTh5bWg3eDFQQkhsTlN3MzRwSXMyZ25vODc4dnRuQTN3cjdISURwemNQZFI5UW5tMm1sZ3dvUFNsOUJJc2dkRlZSLV9rYkpnRjFVYmJEamRZQXVhbjNSX0xWZHM1WWVSclkxU0F1RWxXamVETlRENE5id3E5bDVNbGg5VHZiRnRKdEhWTVpuZndYRFJR?oc=5"
     },
     {
-      "id": "news-finance-91fb9f1674",
-      "lat": 18.25266,
-      "lng": -73.85514,
+      "id": "news-finance-ce84ab5aa3",
+      "lat": 34.33558,
+      "lng": 132.72356,
+      "title": "AI半導体マイクロンの株価は今が買いか、利益率86％の衝撃と新契約の罠",
+      "category": "FINANCE",
+      "time": "2026-08-30T03:30:00Z",
+      "summary": "AI半導体マイクロンの株価は今が買いか、利益率86％の衝撃と新契約の罠&nbsp;&nbsp;Forbes JAPAN",
+      "source_name": "Forbes JAPAN",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CVHRocUJ5QkRmM0NzdGNZUkdQTDdkWjAwUDBQS2VxNlI1VWJSX29vNTRFc3FBMUtmMzMxZmpESHROOUNvcnlTM29PUW1jT1hDSlp4RU5XYXRVZw?oc=5"
+    },
+    {
+      "id": "news-finance-a716f8544e",
+      "lat": 35.62795,
+      "lng": 139.75073,
+      "title": "東京 都立高校で初めて国際金融コース設置へ 再来年度から",
+      "category": "FINANCE",
+      "time": "2026-08-30T03:26:25Z",
+      "summary": "東京 都立高校で初めて国際金融コース設置へ 再来年度から&nbsp;&nbsp;NHKニュース",
+      "source_name": "NHKニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwN0lNRHZ0MEtacFZYZllxeWIySmpUYVM0YzFTRmVYS3lQd1VHMnZKZnJCTVpyckZsRGJkVGd3R2c0R0JUNkZCRlUyWE5uWnZlcGcxNjJHSVlJQzZSOFpV?oc=5"
+    },
+    {
+      "id": "news-finance-f17efb0a9f",
+      "lat": 18.31042,
+      "lng": -73.86445,
       "title": "South Korea Vice Finance Minister Lee Hyoung-il named finance minister, Yonhap says",
       "category": "FINANCE",
-      "time": "2026-08-30T03:04:57Z",
-      "summary": "South Korea Vice Finance Minister Lee Hyoung-il named finance minister, Yonhap says&nbsp;&nbsp;The Mighty 790 KFGO",
-      "source_name": "The Mighty 790 KFGO",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFVsLVc2MVNtd1pPTDRMQ2VJYVV4UEZQejV4OU12ZDNYbkNDQ0pSc2Z5Y1N5MmJIQ2lfd0dxSVczek56T0FoSFNUMUxZV0NiSGZoMHVRZ21rcEQ3Ump4QzR5ZzVuaEl2NEVSS2J1N3pWcUVqeG9PVzIxSlJiNXk4YmdVNXJ6NWFnYUNScS16eVJrelM1emkxZVJzUXZHdWRCTjF1N3c0VW5VM2ZJeElEXw?oc=5"
+      "time": "2026-08-30T03:01:17Z",
+      "summary": "South Korea Vice Finance Minister Lee Hyoung-il named finance minister, Yonhap says&nbsp;&nbsp;WTVB",
+      "source_name": "WTVB",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0hrOXhBMXpDTmdPOUozODdJRXNDVWhubktoVnVJSEc1UUZMZjBzUzU2ay1aY3dINko4X1VvYVNjVGdISV9heGtYVzNTdWsxRDBsNzROODlvY3dRSUxGQWdZY0V5NG5oUWNTRWM5VVJ6T3VpV1pTbTRlcXh4bE1CVlZCYTdOdEFZYThUQmE3Q2RVdDdjcmIwSGE3QmsxY2FqZ29aZmFhUGtqQXk2VVlrSVN6QQ?oc=5"
+    },
+    {
+      "id": "news-finance-64a61a0096",
+      "lat": 51.46573,
+      "lng": 10.84192,
+      "title": "1stDibs Targets Profitable Growth With AI, Product Upgrades and Lower Ad Spend",
+      "category": "FINANCE",
+      "time": "2026-08-30T03:01:00Z",
+      "summary": "1stDibs Targets Profitable Growth With AI, Product Upgrades and Lower Ad Spend&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjltTi1SU0xLelp6MUJVdjVqUDF1b0xJdU0yNWdHdDRnN1p1b3ZGUE0tOHBsd0wxcmZzNkdHc3JIZERHSDd6VWtCQTdpc3ZuSDVzNHhLZ3QtdlBGOXRuZVhUWk9RT1VmTi1RdmttSTBkalM2NU5uTlp0ajFJMzNBT1lEQm9EeExjTnZ5MGg0M1MwX1VpUlNxOWxBU2JZenVNeHc?oc=5"
     },
     {
       "id": "news-finance-219ce22c88",
-      "lat": 18.28139,
-      "lng": -73.83083,
+      "lat": 18.22313,
+      "lng": -73.87933,
       "title": "South Korea Vice Finance Minister Lee Hyoung-Il Named Finance Minister, Yonhap Says",
       "category": "FINANCE",
       "time": "2026-08-30T03:00:02Z",
@@ -90,8 +123,8 @@
     },
     {
       "id": "news-finance-bdf8859a5a",
-      "lat": 22.61359,
-      "lng": 88.40344,
+      "lat": 22.54702,
+      "lng": 88.40216,
       "title": "為替は再び1ドル160円台へ 週明けのマーケットはどう動く？【明日への投資戦略 8/31～9/4】",
       "category": "FINANCE",
       "time": "2026-08-30T03:00:00Z",
@@ -100,53 +133,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xTVpEZWIweDVpZ05sUW9pT21YUDB0YjdiSDgtU285NXRTb0ozS3VhbzdfWVZyOU04aE1hdWZtVG5MU2VPRVhSLVhPdDJJaWVTdWR1aUkzZGZvME1yLXFzQkhWa01QQQ?oc=5"
     },
     {
-      "id": "news-finance-b1416a695a",
-      "lat": 50.91389,
-      "lng": 6.6569,
-      "title": "Indian Gaming Association Chairman David Z. Bean Warns Fight Against Illegal Prediction Markets Will Intensify This Fall",
-      "category": "FINANCE",
-      "time": "2026-08-30T01:59:18Z",
-      "summary": "Indian Gaming Association Chairman David Z. Bean Warns Fight Against Illegal Prediction Markets Will Intensify This Fall&nbsp;&nbsp;Native News Online",
-      "source_name": "Native News Online",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYzAtSEZKOE9UVElWYmpkZk9COHpndGJyeHRSQnFnN2pIMHpKeDZBMnR3OWxkNDVKU1U4R2tYWlZEaW8xUGdRamlSS0c3VFkzMVNyc29oRHZOR3Zzb0ZBeTgyaE1xemZodUI0dVBlZGVXak13T2poOGtCQ21UcEdzX0pqVDA1WTFUQnFYcENCM1VpOXJmM2g4MG5MNVctWjdtQkpwRlE5UUlsd1U4UUE1c2V0NFh3SGlneHlZbHc0ckx3eG01cklHNXpjYmYxR3lDT2c3N2tRamZ1MHJRM3FOQzRjRmJYNW9aNUJjSWFraVZiaGs?oc=5"
-    },
-    {
-      "id": "news-finance-8b61a0f8e6",
-      "lat": 40.75482,
-      "lng": -74.00238,
-      "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
-      "category": "FINANCE",
-      "time": "2026-08-30T01:52:00Z",
-      "summary": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjd2TTFZdW5heklSQkVMUHRLaGJwZ0VSWHdla2pydGpIaXk4dGQ0S2N3NkRjRFZDOVpmQllVYjVKQUMtQm5MM2hQaE8xNEV3TmFFemJOQTZKLW8xV0tpUmpsWmpTazk1UVBSNjMyaDdPQ3RHd2w3QlVZbDEwdzFIcXRIak45aE1xWUhKQ0ZkZDRyeGZXMjE2MnVxV212YkVvRnVDdEdB?oc=5"
-    },
-    {
-      "id": "news-finance-bcd92eed8a",
-      "lat": 54.62709,
-      "lng": -5.95882,
-      "title": "Markets rebound in Q2 2026 with Harbor Human Ca...",
-      "category": "FINANCE",
-      "time": "2026-08-30T01:48:14Z",
-      "summary": "Markets rebound in Q2 2026 with Harbor Human Ca...&nbsp;&nbsp;Pluang",
-      "source_name": "Pluang",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkppb1JCUlItUDMxNV8yQWdnakVhNFBWVmxFVFU5NkgzUHdXVzFPRkpLdlY2Y0p1N3RzVFluWEx5SXpjNmFDTi1ORWRuTm54Y19qTjRRbmxacVRGYjJKbFlJV1pFaHkxS3NhNWVIc1R6b2o3OVpDUFU4M1BfWk14VUJ5a1FvSGZlZUpHRHAtWlFGbnZZaVFNSTJtUWtHOFhHQ1E?oc=5"
-    },
-    {
-      "id": "news-disaster-ab4a9769fd",
-      "lat": 38.24166,
-      "lng": 140.86669,
-      "title": "大雨の後に地震が起きたら…複合災害を想定した宮城県の防災訓練 １０００人が参加 雨で一部中止も（仙台放送）",
+      "id": "news-disaster-57c31d4141",
+      "lat": 32.81538,
+      "lng": 130.74937,
+      "title": "「気持ちに寄り添って」熊本地震1カ月、再建へ首長たちの思いは",
       "category": "DISASTER",
-      "time": "2026-08-30T03:25:01Z",
-      "summary": "大雨の後に地震が起きたら…複合災害を想定した宮城県の防災訓練 １０００人が参加 雨で一部中止も（仙台放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DWERzeWt0TUVfRzRDTWlrOHVpQ1piWGM5RmhOTVVGLUxROWswRXBIYW9jX3RJZ1ctcVBoNzduam45UndYVlZXZC1oZy1sQWZpUGV1U09FZDR0UzVaQkR3NF9lUkMxYzlPdjZCeXhMcDdwM3R3VlNBZWJsQ2twcFU?oc=5"
+      "time": "2026-08-30T03:45:00Z",
+      "summary": "「気持ちに寄り添って」熊本地震1カ月、再建へ首長たちの思いは&nbsp;&nbsp;毎日新聞",
+      "source_name": "毎日新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LYVlpOExsTXp2UnBwNzdBZExWeGtLekVpV0VKSGJoNEVONHdlTHhqcjZlNmc1cGp2MWVSdVl3bG1NUTNwU2pkS05Jc25fZFkwLUVWSXgzNmxoeG9maFFuSGJnNGNsQ0xY?oc=5"
+    },
+    {
+      "id": "news-disaster-2fccb82472",
+      "lat": 28.39407,
+      "lng": 83.98259,
+      "title": "Nepal-Tibet death toll rises amid new flood fears and race to free group trapped in tunnel",
+      "category": "DISASTER",
+      "time": "2026-08-30T03:39:00Z",
+      "summary": "Nepal-Tibet death toll rises amid new flood fears and race to free group trapped in tunnel&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3RhVHBrZ1NvN1R1TE02RVcwOTBPUU02UG13N05SQnU3Z1lyRHF2cC0zeFNnb0V4ZVJtRXNJN21XaVBjbUpVemdHVGprem03ZWV0ODZ1SHBlQVZhQzNBaUJsaHlNWVBHa0FFMzE1c00xSVdOVzRBR3hGMWZ6eWxhSzdSajB3NmdQWmZXeDhTZjNrTWJOcmEzM1ZqZzFLb3VWM0R0Y29ESndZX0Zoak9lZGh6T2xadmVT?oc=5"
+    },
+    {
+      "id": "news-disaster-e4cc39182f",
+      "lat": 48.33022,
+      "lng": 5.45268,
+      "title": "50 people airlifted from Grand Canyon after sudden flood",
+      "category": "DISASTER",
+      "time": "2026-08-30T03:39:00Z",
+      "summary": "50 people airlifted from Grand Canyon after sudden flood&nbsp;&nbsp;FOX 10 Phoenix",
+      "source_name": "FOX 10 Phoenix",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1U3YTktNUlTMXVBeExmMmdyWW1zNl9SamJmeWZqSVVNWlhldVlsbnJYaC1tbGY1V3BjOHZ0OS1tcUtwQjJRbVlja0U5cUR5R0F2MHBBUTZBUjdpNi0tNHFDWGpLdWxxaE5CekpMM083SHlCQ19YLVl6R1FFZDhyRXpaRWNqeXd4d1h3?oc=5"
+    },
+    {
+      "id": "news-disaster-3132c1794b",
+      "lat": 28.3679,
+      "lng": 83.98128,
+      "title": "US announces $3.6M in humanitarian aid for flood-hit Nepal",
+      "category": "DISASTER",
+      "time": "2026-08-30T03:18:35Z",
+      "summary": "US announces $3.6M in humanitarian aid for flood-hit Nepal&nbsp;&nbsp;Anadolu Ajansı",
+      "source_name": "Anadolu Ajansı",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3pFUE5STFFjV3dyTmVoUmY2eG1PbjJnb3g4N1JGMEUteEVJTnB1NVV3WUplWlFsSW9nUlFHRzVKbkRnZ25nc2xwUFNGV3N3eXlZNHVBWG03MVEwRFoweUstTEhfVlpOa3RESVJVTGdwZHpqVmNmRDRoYUFoQzVzQV9nNjlpVnVEYjVYVjVZREpGLTdCd1I0WFVrUQ?oc=5"
     },
     {
       "id": "news-disaster-8bc3fb34ed",
-      "lat": 35.67199,
-      "lng": 139.77271,
+      "lat": 35.70956,
+      "lng": 139.71393,
       "title": "【防災気象情報】レベル4土砂災害危険警報：福井市、大野市、勝山市、鯖江市、あわら市、越前市、坂井市、永平寺町、越前町 レベル4大雨危険警報：福井市、大野市、勝山市、坂井市、永平寺町（2026年8月29日掲載）｜FBC NEWS NNN",
       "category": "DISASTER",
       "time": "2026-08-30T03:05:00Z",
@@ -156,8 +189,8 @@
     },
     {
       "id": "news-disaster-c468c77d08",
-      "lat": 35.67858,
-      "lng": 139.76785,
+      "lat": 35.70604,
+      "lng": 139.72541,
       "title": "福井市と福井県大野市・勝山市に一時「レベル５大雨特別警報」、１１時４０分にレベル４へ引き下げ",
       "category": "DISASTER",
       "time": "2026-08-30T03:04:17Z",
@@ -166,42 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JeHM5OGFlenFGa25LanVJSi02cTIyQXJ6UUVUeEprZmthdnQ0eFBjTkRDaUlnZ1hXaXBtY0djZDNYMHk3amI0a25LeVF6RUdxREc4WUZKVGFmZm0zdUlxeXRoMHNzZw?oc=5"
     },
     {
-      "id": "news-disaster-faa45f22eb",
-      "lat": 35.00019,
-      "lng": 138.39994,
-      "title": "南海トラフ地震「臨時情報」 静岡県内35市町中、訓練自治体は“1割のみ” 学識者「情報発表後の流れの周知は重要」",
-      "category": "DISASTER",
-      "time": "2026-08-30T03:00:00Z",
-      "summary": "南海トラフ地震「臨時情報」 静岡県内35市町中、訓練自治体は“1割のみ” 学識者「情報発表後の流れの周知は重要」&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jV3RKU2tmb2pTbU5mMVJKY0NEUzFKOEI4OHd5QkhkOXo0RUo1UksyM3hCNW9YNkdrMmJSR2lVSklSaW1Bd3VJM1RNc0ZtUlNGSEZLcHhfUHl2ODBLZ28zTlN1VnhyZEh2VXdZYWdqaF9JWHA5bFREdmdhb1JfejQ?oc=5"
-    },
-    {
-      "id": "news-disaster-d47afba5f7",
-      "lat": 40.71585,
-      "lng": -74.00494,
-      "title": "Video: Nepal Flood Survivors Return to Devastated Towns",
-      "category": "DISASTER",
-      "time": "2026-08-30T02:55:25Z",
-      "summary": "Video: Nepal Flood Survivors Return to Devastated Towns&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEwzSlV3RDZqT2IwSEZ6b2tZMVpfVHoxSXl1a0lTMG9yeGpiVkJVUXVqTWNTWE4zckRYb0J3c2xSRHROMXNoRWxtMUt3QmJoOVVmSXFpQVBHOFd2cE03M3ZoenZQbTJoTTllR2c4cUtRWG9KaXBGUkN6Vmo2TmwxM2pjUTljY1M3MTgtS0owUkhVd1dmb0l0WEFSZi1Vd2c1c2lPNFlrbmltdzZqREtv?oc=5"
-    },
-    {
-      "id": "news-disaster-9f2989102b",
-      "lat": 37.55258,
-      "lng": 126.94596,
-      "title": "【警報級の大雨・ゲリラ豪雨】30日（日）発生しやすい地域は 福井県「経験したことのない大雨」 気象庁（RCC中国放送）",
-      "category": "DISASTER",
-      "time": "2026-08-30T02:39:15Z",
-      "summary": "【警報級の大雨・ゲリラ豪雨】30日（日）発生しやすい地域は 福井県「経験したことのない大雨」 気象庁（RCC中国放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVi1MbHJhb0RsVWhGSkxUUTMyZFRUX2FoY0d0TTNMQjJvVmIta3VPR2R6OE5PeFduQm5GdDVPQmZnQ3VsWkNBcnc2M3V5cmtBS0J2MFh6OEVDTGU4OHE2UFpYUUN6MEJBNEhEY0x0Ti1FbVg5blJVNDVYN2d6OEU?oc=5"
-    },
-    {
       "id": "news-accident-ca923487f8",
-      "lat": 31.54912,
-      "lng": 130.59522,
+      "lat": 31.62314,
+      "lng": 130.54892,
       "title": "沖に流された中高生３人死亡 いちき串木野市海難事故（鹿児島ニュースＫＴＳ）",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:22:01Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-f8e2658603",
-      "lat": 31.61024,
-      "lng": 130.59386,
+      "lat": 31.56309,
+      "lng": 130.60428,
       "title": "中高生３人死亡の水難事故 当初「遊泳禁止区域」」と発表も「遊泳禁止区域ではなかった」と海保が訂正 鹿児島",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:12:31Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-60467f6527",
-      "lat": 38.20224,
-      "lng": 140.32784,
+      "lat": 38.18966,
+      "lng": 140.31656,
       "title": "今後の対策は? 崖の上から30〜40m下へ…国道112号の駐車場で乗用車の転落死亡事故「3年前にも男女2人死亡」の現場で事故防止に向けた対応を検討（山形・鶴岡市）（テレビユー山形）",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:00:37Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-3a4846dd7a",
-      "lat": -18.45067,
-      "lng": 29.76229,
+      "lat": -18.40881,
+      "lng": 29.72194,
       "title": "ジンバブエで交通事故27人死亡 バス型タクシーとトラックが衝突（AP通信）",
       "category": "ACCIDENT",
       "time": "2026-08-30T02:59:04Z",
@@ -243,20 +243,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MZ1VTenltVzFpSU5USXR3NUhXMUZTUElDdXBReTlDa3lNenNwbnNTcURodlNoM3QxcENialJCd0NFeFdod1huMzNkaldfTmRzZnF5bE9BNFgwZnJ3Z0I1WlBSSk5OWE9iRnF4OFhkVjNadWRsY3VqbUlDTnBJdGs?oc=5"
     },
     {
-      "id": "news-accident-b5c7227bb7",
-      "lat": 34.65512,
-      "lng": 135.1481,
-      "title": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T02:45:31Z",
-      "summary": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区&nbsp;&nbsp;ABEMA TIMES",
-      "source_name": "ABEMA TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYaE42TGFlVVlpLS1BYlU1Wk1qXzBTd0VWcWtXSkNDSElQQ2ljNUNxaEkzQW9GaTdpbmRfSzBBWXhWdVJvS05NektrNHY0TjZDdEVBTw?oc=5"
-    },
-    {
       "id": "news-accident-ee60489a8b",
-      "lat": 34.73717,
-      "lng": 135.22193,
+      "lat": 34.7496,
+      "lng": 135.212,
       "title": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区",
       "category": "ACCIDENT",
       "time": "2026-08-30T02:36:00Z",
@@ -265,9 +254,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzWmdrNzdzTmlQNC1MNktHekNiX1N5SWI3b3NLUm1rVHZUeWdfN0lONDlNaUY3emUzUlNnZjF4ZnplQzZhWlJBU2pjTERQMHVISzdNeGljY2Y2TlVyWGhCZEpKQTNrVFY2ekF6ejNuc2g5dw?oc=5"
     },
     {
+      "id": "news-accident-16e07446c3",
+      "lat": 34.32747,
+      "lng": 139.24106,
+      "title": "横転事故で22歳の男性死亡 軽乗用車がカーブで縁石に乗り上げ 宮古島市伊良部島 （RBC琉球放送）",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T02:33:16Z",
+      "summary": "横転事故で22歳の男性死亡 軽乗用車がカーブで縁石に乗り上げ 宮古島市伊良部島 （RBC琉球放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScU5Ici1jdldCdWpGSmJRLUV6c2luR3dIMi01SUNzMTlGem5OVVB0d3F2bnJubGI2MEpkVEg4TF9JWkdpUW5YdEpPS1pJSjlWX0VXX1o0WWtxaFFZU3N3TG5sSHRtSDBubUF6R1drN1l4NWVHak9UVmhwN1A2bTQ?oc=5"
+    },
+    {
+      "id": "news-disease-25d7dc1e73",
+      "lat": 41.05958,
+      "lng": 28.94662,
+      "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
+      "category": "DISEASE",
+      "time": "2026-08-30T03:30:00Z",
+      "summary": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表&nbsp;&nbsp;Newscast.jp",
+      "source_name": "Newscast.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kV0hJN3NNbnA3Wk05UkpZdDFBY2lSdzU4bEZLUDJaX2ppOWlPQjNKZ3ZPWTJ5TEkyRTdMNHdpWVBxMWE3TC1zeUZma24xYkE?oc=5"
+    },
+    {
       "id": "news-disease-7d76117685",
-      "lat": 31.92969,
-      "lng": 131.40006,
+      "lat": 31.94976,
+      "lng": 131.39736,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 35.05775,
-      "lng": 135.80424,
+      "lat": 35.00524,
+      "lng": 135.83111,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-f0113312b6",
-      "lat": 33.98252,
-      "lng": -4.99432,
+      "lat": 33.99318,
+      "lng": -5.01046,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.28188,
-      "lng": 66.13813,
+      "lat": 34.2174,
+      "lng": 66.18776,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-d7e083a328",
-      "lat": 34.31537,
-      "lng": 66.09227,
+      "lat": 34.25538,
+      "lng": 66.12152,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -320,20 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT05DN1didjVRU1pEenl5dXRmZVM5dUE1QWRjZmZxQTVsZngzRllqbEtqdjNNTnpkTERMN0hsTFRwV3RObUZqZzZ6dTJldkFhbDkzdmliV19PcU1yUDkyenpQcFN0cUtHR2xWMVVZSlYycFI2WjRLQkN1UUw5NFBDeTZwekwyNkVGZTM1MjdR?oc=5"
     },
     {
-      "id": "news-disease-7fec1fbfad",
-      "lat": 46.9309,
-      "lng": 4.6611,
-      "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
-      "category": "DISEASE",
-      "time": "2026-08-29T10:15:10Z",
-      "summary": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXRhQUc1RzkwbjhMNWdLdE5KUElzckU3V0FpWUFZMDhFLWdySU5qVGJoU2xIU1BJSUJJdmNERUZPMFBmWk9pc0UxVW9qdmdLS3J1Z3U2WnBZeFdNQXVaYURwSGtKVFJ6enpLc3d1MTRaU0xTRHFqaXJ0UXVzRE9Ia3c2YUFTZ25YbnJiSm9R?oc=5"
+      "id": "news-technology-ce84ab5aa3",
+      "lat": 34.37762,
+      "lng": 132.73714,
+      "title": "AI半導体マイクロンの株価は今が買いか、利益率86％の衝撃と新契約の罠",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T03:30:00Z",
+      "summary": "AI半導体マイクロンの株価は今が買いか、利益率86％の衝撃と新契約の罠&nbsp;&nbsp;Forbes JAPAN",
+      "source_name": "Forbes JAPAN",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CVHRocUJ5QkRmM0NzdGNZUkdQTDdkWjAwUDBQS2VxNlI1VWJSX29vNTRFc3FBMUtmMzMxZmpESHROOUNvcnlTM29PUW1jT1hDSlp4RU5XYXRVZw?oc=5"
     },
     {
       "id": "news-technology-ad9c2c412a",
-      "lat": 36.31222,
-      "lng": 127.35108,
+      "lat": 36.42548,
+      "lng": 127.35377,
       "title": "KAIST develops smartphone-based technology to detect hidden cameras",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T03:23:02Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-60a5ff8413",
-      "lat": 5.68346,
-      "lng": -0.03625,
+      "lat": 5.68849,
+      "lng": 0.02094,
       "title": "8月決算で見えた「AI・半導体テーマ株」の選別。アドバンテスト「営業利益1兆円の可能性も！？」安川電機急落から見たAI関連株の明暗（みんかぶマガジン）",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T03:10:20Z",
@@ -353,20 +364,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQlVQaFA1SFVxczZxR0hWQnNONUYwVlBoRlM3Vl92bGY2T0tyNGhCcXZDM1NBZklXejNuV2RYRjhGWUo1enNIYm5aUXRFSXYyczBQdVluck83ODgtN2s0aWhBVVBQdWJ1MGF3S0tEVVBFcUgxcnlGbmd4Z2dsVlE?oc=5"
     },
     {
-      "id": "news-technology-9e8083019a",
-      "lat": 38.93726,
-      "lng": -76.97203,
-      "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力",
+      "id": "news-technology-64a61a0096",
+      "lat": 51.48369,
+      "lng": 10.82525,
+      "title": "1stDibs Targets Profitable Growth With AI, Product Upgrades and Lower Ad Spend",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T03:02:53Z",
-      "summary": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力&nbsp;&nbsp;Ledge.ai",
-      "source_name": "Ledge.ai",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kUUx5QUNBMFo1cjNmZjM4NGxpNXRzZWdRbFVUb1ZGY3JGRF9ZOUpjTTRuOHg0eGZfRTd2UDdycmJra1JRSnMtdHdaZk9DTnhIOUd2cDd6eW55UFoyQUQ2LVF6MWI?oc=5"
+      "time": "2026-08-30T03:01:00Z",
+      "summary": "1stDibs Targets Profitable Growth With AI, Product Upgrades and Lower Ad Spend&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjltTi1SU0xLelp6MUJVdjVqUDF1b0xJdU0yNWdHdDRnN1p1b3ZGUE0tOHBsd0wxcmZzNkdHc3JIZERHSDd6VWtCQTdpc3ZuSDVzNHhLZ3QtdlBGOXRuZVhUWk9RT1VmTi1RdmttSTBkalM2NU5uTlp0ajFJMzNBT1lEQm9EeExjTnZ5MGg0M1MwX1VpUlNxOWxBU2JZenVNeHc?oc=5"
     },
     {
       "id": "news-technology-94f9ae360c",
-      "lat": 35.67737,
-      "lng": 139.81633,
+      "lat": 35.59579,
+      "lng": 139.73311,
       "title": "韓国SKテレコム、フェンシング代表向けAI分析システム開発…2028年五輪まで高度化",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T02:51:21Z",
@@ -376,25 +387,14 @@
     },
     {
       "id": "news-technology-803d28b688",
-      "lat": 51.40649,
-      "lng": 7.24891,
+      "lat": 51.4537,
+      "lng": 7.17013,
       "title": "韓国カカオ、5000万人のカカオトークをAI基盤に…GPU競争とは一線",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T02:51:21Z",
       "summary": "韓国カカオ、5000万人のカカオトークをAI基盤に…GPU競争とは一線&nbsp;&nbsp;AFPBB News",
       "source_name": "AFPBB News",
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZX0dBeHRzREdNRk52bWU5WHBocVROLVlEYk9GVDR4VWtzZm9JRFZrODREZmhUN3BzNHBNM1hfYW04OHh2cjlFYkRKNHVvWTVkTFZDUGlUZWwzekQyeXZ6NTQxTXlNSXZ3UEpmTlllSXZuQdIBVEFVX3lxTE5nT0k5VWt6SV82MkV4WlI3Ul8tN3M2WmV1TGxqZEVRdVE3RUxNQlBKYjlib080V2RCRENlYzRFT2QwYl9WX3NlSWliMXppeTRmLVF1MQ?oc=5"
-    },
-    {
-      "id": "news-technology-054134827c",
-      "lat": 35.58201,
-      "lng": 139.73282,
-      "title": "韓国SKテレコム、フェンシング代表向けAI分析システム開発…2028年五輪まで高度化（KOREA WAVE）",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T02:42:16Z",
-      "summary": "韓国SKテレコム、フェンシング代表向けAI分析システム開発…2028年五輪まで高度化（KOREA WAVE）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTjBGWFJleHRiLVo0bzJkMFc1ZXQxNXQ2OHZCNDZQcS1ZV3lOaXNLMDQwVVREamNaWjFUM2RfQnBuUUdkTUxkTklESmhyTUpKOFRtcWd4X3ZadTZyaGVRem9peUxsd210YV9GT3NJS1pTYXZKX2c2X2ExSXhhenM?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T03:33:39Z"
+  "updated_at": "2026-08-30T03:48:44Z"
 }
