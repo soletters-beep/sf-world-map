@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-eef54ab016",
+      "lat": 32.60603,
+      "lng": 54.60046,
+      "title": "'We are sealing Iran's ports and keeping Hormuz open'",
+      "category": "POLITICS",
+      "time": "2026-08-30T04:40:07Z",
+      "summary": "'We are sealing Iran's ports and keeping Hormuz open'&nbsp;&nbsp;Al Majalla",
+      "source_name": "Al Majalla",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkVaX0hLQzJZN1ljNFp2RE4wYVExVFphNWt3ckMxVHFUYVVnQlp3TG1BcnlXNG1ZUFpyZ0hFWlFSLTVVbXVDeTU0ZFlxbUZ0MHp5RUdQTG1relFXZTB2OWR4M054WFd3S0ZGM1FwbVozSnJ6VUFhQUlabDFOSW9rTnhKZW5YQ2FpTk1XTDItUFlkZ2MySmxQLUZR?oc=5"
+    },
+    {
       "id": "news-politics-a143d02382",
-      "lat": 47.24186,
-      "lng": -71.8421,
+      "lat": 47.21663,
+      "lng": -71.89509,
       "title": "Jelly Roll explains political beliefs after Trump roasts: I’m ‘down the middle’",
       "category": "POLITICS",
       "time": "2026-08-30T04:07:22Z",
@@ -12,20 +23,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVF0MEdxWGRlMzhlNjBKemJRNHBvQ2ZWSmJtY2J3VENpRGNPckVCeXhJMWR6V1JxNUwyR1RjR3RiRlVCTGZGZXVIVkdMMVZ5MkpwMHdzM0t3Y3hyZTRFVnhlRDBzazBkcldXdGlKQU5WaFpHdHcwZkZwSzBZV1VmQzF1WUpORks3ZmJHdUNEZm1BZXlubzI0cHltcWFqN1U2ZWxUbnI0VHNQWFdTYlcza9IBtgFBVV95cUxPTWQ1QzJuVnFacUNUWHNkUHgzd3dUemNNdDFnSlZUOHNmU0RmS3FfQVlLMTNBVk9oRmt5ZE91d2t5M2wtSkU2Rl9fcGgtZFV3UWloa214NkFFd0s3VGppOVRKcmc0d1hmUWtUWW4zcDJCbjRubkZ6Y2E2R0NWR3o1bVA2V0JzOEhyeGhTWVJrLS01bUlKcDdxMHJRWU5qbUhrWTN3MHNvQVhieHJmdnpfNVVhX2JnUQ?oc=5"
     },
     {
-      "id": "news-politics-1acc5462c9",
-      "lat": 42.02274,
-      "lng": -124.24727,
-      "title": "Democrats say they're unified for November amid lingering tension",
-      "category": "POLITICS",
-      "time": "2026-08-30T04:02:00Z",
-      "summary": "Democrats say they're unified for November amid lingering tension&nbsp;&nbsp;The Detroit News",
-      "source_name": "The Detroit News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ3FWazlqZ2R1dDdqVFlTLWRUMnFaYS1yY0dXTlFUT3dGUHlidVBiNTV0dUM5RjRaRnM5Wmg4QmVkdkdqdkFMR3h1RUFieDN6X1hwSzE0RGs5WmIxZ0pkbkRRRmQwU1lDVzR6aXRJRUFxLUU4WFNrQ2dFd1drVVRLNE0taWI5YU9UUTU1Nzh1SzZTM294b0l2c0U2NHFWbk50R0t1UkZTYTFtZ0V1dnpfRXhISlpXeW40WU9Bamc3ZXV1M2l6WTBIelRWSWd0Vl84VkE?oc=5"
-    },
-    {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.73301,
-      "lng": -76.63383,
+      "lat": 39.62515,
+      "lng": -76.54268,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-30T04:01:02Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-b9cbf6f506",
-      "lat": 33.56371,
-      "lng": 130.43764,
+      "lat": 33.54136,
+      "lng": 130.45182,
       "title": "県議会の「ドン」蔵内氏との関係やワンヘルスは 福岡県知事一問一答",
       "category": "POLITICS",
       "time": "2026-08-30T04:00:00Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-891ed07f60",
-      "lat": 41.68034,
-      "lng": 43.98135,
+      "lat": 41.66383,
+      "lng": 44.06602,
       "title": "Giorgia on their minds: Farage and Badenoch scrap to be mates with Meloni",
       "category": "POLITICS",
       "time": "2026-08-30T04:00:00Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-b9fb026879",
-      "lat": 64.94615,
-      "lng": -18.06088,
+      "lat": 64.97787,
+      "lng": -18.08322,
       "title": "Iceland EU referendum on a knife edge as counting continues",
       "category": "POLITICS",
       "time": "2026-08-30T03:57:01Z",
@@ -68,8 +68,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.63942,
-      "lng": -76.65218,
+      "lat": 39.73622,
+      "lng": -76.59761,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-30T04:01:02Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-ce84ab5aa3",
-      "lat": 34.41438,
-      "lng": 132.71238,
+      "lat": 34.37036,
+      "lng": 132.70792,
       "title": "AI半導体マイクロンの株価は今が買いか、利益率86％の衝撃と新契約の罠",
       "category": "FINANCE",
       "time": "2026-08-30T03:30:00Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-a716f8544e",
-      "lat": 35.64379,
-      "lng": 139.72433,
+      "lat": 35.70771,
+      "lng": 139.79712,
       "title": "東京 都立高校で初めて国際金融コース設置へ 再来年度から",
       "category": "FINANCE",
       "time": "2026-08-30T03:26:25Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-f17efb0a9f",
-      "lat": 18.22625,
-      "lng": -73.78938,
+      "lat": 18.24686,
+      "lng": -73.80473,
       "title": "South Korea Vice Finance Minister Lee Hyoung-il named finance minister, Yonhap says",
       "category": "FINANCE",
       "time": "2026-08-30T03:01:17Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-64a61a0096",
-      "lat": 51.53424,
-      "lng": 10.83043,
+      "lat": 51.4507,
+      "lng": 10.76527,
       "title": "1stDibs Targets Profitable Growth With AI, Product Upgrades and Lower Ad Spend",
       "category": "FINANCE",
       "time": "2026-08-30T03:01:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-bdf8859a5a",
-      "lat": 22.5706,
-      "lng": 88.36652,
+      "lat": 22.5093,
+      "lng": 88.38857,
       "title": "為替は再び1ドル160円台へ 週明けのマーケットはどう動く？【明日への投資戦略 8/31～9/4】",
       "category": "FINANCE",
       "time": "2026-08-30T03:00:00Z",
@@ -133,9 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xTVpEZWIweDVpZ05sUW9pT21YUDB0YjdiSDgtU285NXRTb0ozS3VhbzdfWVZyOU04aE1hdWZtVG5MU2VPRVhSLVhPdDJJaWVTdWR1aUkzZGZvME1yLXFzQkhWa01QQQ?oc=5"
     },
     {
+      "id": "news-disaster-d239630d7a",
+      "lat": 32.77503,
+      "lng": 130.72452,
+      "title": "熊本地震、２学期開始に合わせ学校の防災担当の教諭ら対象に研修会…避難時に確認すべき点を学ぶ（読売新聞オンライン）",
+      "category": "DISASTER",
+      "time": "2026-08-30T04:38:38Z",
+      "summary": "熊本地震、２学期開始に合わせ学校の防災担当の教諭ら対象に研修会…避難時に確認すべき点を学ぶ（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVG8yT2xpTDdPcHF2MWtKcVFBdDk4c0tUQmhNM29hVFI2Nl9rVThFb2ZWbjRicTNiZktOTnhIcXp1S0VlZW95dHg4TnBYb1RWTnJSZ0xTOUY0VmJhQTFFNWlyeEpCUTNPZmllbTFRY1RvZlA1c3hRMDhPNzNCOHM?oc=5"
+    },
+    {
       "id": "news-disaster-504a9da51e",
-      "lat": 33.78391,
-      "lng": 130.45595,
+      "lat": 33.73331,
+      "lng": 130.48905,
       "title": "【台風情報】日本のはるか東を北上中「台風23号（バンラン）」...今後の進路は?9月9日までの雨・風シミュレーションで確認【気象庁30日午後0時45分発表】（RSK山陽放送）",
       "category": "DISASTER",
       "time": "2026-08-30T04:12:17Z",
@@ -145,8 +156,8 @@
     },
     {
       "id": "news-disaster-a424f3fa4e",
-      "lat": 34.67308,
-      "lng": 133.9194,
+      "lat": 34.67588,
+      "lng": 133.85984,
       "title": "【台風情報】日本のはるか東を北上中「台風23号（バンラン）」...今後の進路は？9月9日までの雨・風シミュレーションで確認【気象庁30日午後0時45分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
       "category": "DISASTER",
       "time": "2026-08-30T04:07:00Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-23e422664c",
-      "lat": 30.48393,
-      "lng": 80.59744,
+      "lat": 30.51013,
+      "lng": 80.54756,
       "title": "自然災害が予測不能なヒマラヤ山岳地域、それでも急速に進むインフラ建設（CNN.co.jp）",
       "category": "DISASTER",
       "time": "2026-08-30T04:05:00Z",
@@ -167,8 +178,8 @@
     },
     {
       "id": "news-disaster-57c31d4141",
-      "lat": 32.82526,
-      "lng": 130.80071,
+      "lat": 32.77152,
+      "lng": 130.79149,
       "title": "「気持ちに寄り添って」熊本地震1カ月、再建へ首長たちの思いは",
       "category": "DISASTER",
       "time": "2026-08-30T03:45:00Z",
@@ -178,8 +189,8 @@
     },
     {
       "id": "news-disaster-2fccb82472",
-      "lat": 28.41627,
-      "lng": 84.04915,
+      "lat": 28.38744,
+      "lng": 83.95141,
       "title": "Nepal-Tibet death toll rises amid new flood fears and race to free group trapped in tunnel",
       "category": "DISASTER",
       "time": "2026-08-30T03:40:00Z",
@@ -188,20 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3RhVHBrZ1NvN1R1TE02RVcwOTBPUU02UG13N05SQnU3Z1lyRHF2cC0zeFNnb0V4ZVJtRXNJN21XaVBjbUpVemdHVGprem03ZWV0ODZ1SHBlQVZhQzNBaUJsaHlNWVBHa0FFMzE1c00xSVdOVzRBR3hGMWZ6eWxhSzdSajB3NmdQWmZXeDhTZjNrTWJOcmEzM1ZqZzFLb3VWM0R0Y29ESndZX0Zoak9lZGh6T2xadmVT?oc=5"
     },
     {
-      "id": "news-disaster-e4cc39182f",
-      "lat": 48.35351,
-      "lng": 5.52147,
-      "title": "50 people airlifted from Grand Canyon after sudden flood",
-      "category": "DISASTER",
-      "time": "2026-08-30T03:39:00Z",
-      "summary": "50 people airlifted from Grand Canyon after sudden flood&nbsp;&nbsp;FOX 10 Phoenix",
-      "source_name": "FOX 10 Phoenix",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1U3YTktNUlTMXVBeExmMmdyWW1zNl9SamJmeWZqSVVNWlhldVlsbnJYaC1tbGY1V3BjOHZ0OS1tcUtwQjJRbVlja0U5cUR5R0F2MHBBUTZBUjdpNi0tNHFDWGpLdWxxaE5CekpMM083SHlCQ19YLVl6R1FFZDhyRXpaRWNqeXd4d1h3?oc=5"
-    },
-    {
       "id": "news-accident-dc057338a8",
-      "lat": 38.23314,
-      "lng": 140.94674,
+      "lat": 38.26101,
+      "lng": 140.90773,
       "title": "テスラ今度は木の切り株に激突しイーロンマスクもショック 人間の遠隔操作で事故",
       "category": "ACCIDENT",
       "time": "2026-08-30T04:02:13Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-7302760aa6",
-      "lat": 35.64906,
-      "lng": -95.44119,
+      "lat": 35.66994,
+      "lng": -95.38843,
       "title": "OHP investigating deadly rollover crash in Muskogee County",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:57:04Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-f14fe9cb00",
-      "lat": 31.6125,
-      "lng": 130.50888,
+      "lat": 31.55408,
+      "lng": 130.49844,
       "title": "鹿児島 いちき串木野の水難事故 亡くなった３人を悼む",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:50:00Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-57df91debe",
-      "lat": 35.59422,
-      "lng": 139.80554,
+      "lat": 35.61883,
+      "lng": 139.74052,
       "title": "宮古島市・伊良部島で交通死亡事故（沖縄テレビOTV）",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:47:01Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-becab98e36",
-      "lat": -5.09137,
-      "lng": 139.9211,
+      "lat": -5.18395,
+      "lng": 139.96175,
       "title": "Woman Killed in Essex Semi-Truck Crash with Car on I-40",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:31:11Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-b0887f54d0",
-      "lat": -34.0085,
-      "lng": 149.48191,
+      "lat": -34.02303,
+      "lng": 149.57144,
       "title": "Jeremy Lawson, 40, ID'd as Person KIlled in Mountain Pass Crash on I-15",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:23:17Z",
@@ -265,9 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1BaM25FRm9NQm8xazF0cnplRnppV0J3MnplOU9TZHNGM0puMFhENEhyVExLN19nSVlmVy1oVERENXFER2ZqS0xXWHJpVzhrT3RwMDg5VlFtUWcweHBNQVBJdGxsZmdDQ3Q2QWVmVE9JcTV1WFBFMENxYjU3Y09fMG1OWUsxbkJtSHR1aExLZzZCSF9kM2gxMkluRFc2Vjg3RDdkM1FaSUl2RzViT0tzOA?oc=5"
     },
     {
+      "id": "news-disease-3bb701c33d",
+      "lat": 35.7595,
+      "lng": 139.87211,
+      "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
+      "category": "DISEASE",
+      "time": "2026-08-30T04:11:00Z",
+      "summary": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』&nbsp;&nbsp;日テレNEWS NNN",
+      "source_name": "日テレNEWS NNN",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wM2xmOFprQVRLTElwTVpOTHN5T2FfNll1dThLZDQ0X2hNdHhMblFPTHRTWjliN0gzUTVhY0h2TUtyQ18yb2FnSFk4VU91a2FiVkxPODh5TnV5UWVka3E0X215X0dqQnd1bHhtMnh2QkRiWTdtR0RYdDN1dXE?oc=5"
+    },
+    {
       "id": "news-disease-25d7dc1e73",
-      "lat": 41.04843,
-      "lng": 29.03337,
+      "lat": 41.04181,
+      "lng": 28.99701,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -276,20 +287,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kV0hJN3NNbnA3Wk05UkpZdDFBY2lSdzU4bEZLUDJaX2ppOWlPQjNKZ3ZPWTJ5TEkyRTdMNHdpWVBxMWE3TC1zeUZma24xYkE?oc=5"
     },
     {
-      "id": "news-disease-7d76117685",
-      "lat": 31.94339,
-      "lng": 131.39031,
-      "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
+      "id": "news-disease-bc3d2edfcf",
+      "lat": 31.95148,
+      "lng": 131.41249,
+      "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験",
       "category": "DISEASE",
-      "time": "2026-08-30T02:51:10Z",
-      "summary": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUcll0QnBpdlZESmEzLXRfZnFaekh0VEVmODVVc1Fwejdfc2VxbzBxMWpVeXlMdW9ZSjZqTzFyT3VKQTJnaE9mRE44dTRYdVMyeHA2bmgxb2ZzWFhPdUFzQzN3WTZQeF82b0NqR0o2NFNRRkxPeXlibVFWVmdqQUk?oc=5"
+      "time": "2026-08-30T02:50:00Z",
+      "summary": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験&nbsp;&nbsp;読売新聞",
+      "source_name": "読売新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00OEpCZkhFZ0hjUS1UUEJidmVaYVVacUZIb2FldEFSMHJTYzk4VlNfWm1waUxmNk4zbldhTUNjU3pFMGpsdmZ3amc3MF9ZWW9acDBTMWhwRHR1VHdXUzNqY3hMRGJ1U1ZoMUdqY1ByRU5UQQ?oc=5"
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 35.06906,
-      "lng": 135.80897,
+      "lat": 34.99509,
+      "lng": 135.76075,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-f0113312b6",
-      "lat": 34.064,
-      "lng": -5.01945,
+      "lat": 33.9897,
+      "lng": -5.01236,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.28912,
-      "lng": 66.19462,
+      "lat": 34.26542,
+      "lng": 66.13743,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -320,20 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbHJCRmFEeUVndmlERW14NnFzQU4zYmNWNmw3OG5xMVB4M21tUnhMXzFIdlkxVXV0VnY2SlB2aFdhSlltbWl5NjB0UWJXbnJMYnFTWXd6Qnd2cFM1b19rTFhra2w2NlEwS0hCdEJsWFZrRERKaWtlYWxiZkkyeDg?oc=5"
     },
     {
-      "id": "news-disease-d7e083a328",
-      "lat": 34.28306,
-      "lng": 66.15354,
-      "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)",
-      "category": "DISEASE",
-      "time": "2026-08-29T21:10:44Z",
-      "summary": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT05DN1didjVRU1pEenl5dXRmZVM5dUE1QWRjZmZxQTVsZngzRllqbEtqdjNNTnpkTERMN0hsTFRwV3RObUZqZzZ6dTJldkFhbDkzdmliV19PcU1yUDkyenpQcFN0cUtHR2xWMVVZSlYycFI2WjRLQkN1UUw5NFBDeTZwekwyNkVGZTM1MjdR?oc=5"
+      "id": "news-technology-1be953650a",
+      "lat": 59.92556,
+      "lng": 30.33893,
+      "title": "AI demand drives broader Samsung Electro-Mechanics MLCC price hikes",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T04:38:04Z",
+      "summary": "AI demand drives broader Samsung Electro-Mechanics MLCC price hikes&nbsp;&nbsp;The Korea Herald",
+      "source_name": "The Korea Herald",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fTG1HMEZRUFJwOFVmdWdBOW1yaVh3S2RpUklTS3M1M01jWE9RcVc0SlIyeEE1TnowcUlZZzNVNnVuQk9FYmwyVGxSRVVYUjVTSEFZWVFSMA?oc=5"
     },
     {
       "id": "news-technology-cb6b239a1c",
-      "lat": 51.52091,
-      "lng": -0.09144,
+      "lat": 51.52363,
+      "lng": -0.11512,
       "title": "Applied Digital (APLD) Pushes Ahead In AI Data Centers, Is The Valuation Already Too Rich?",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T04:29:16Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-a57d57c579",
-      "lat": 51.56896,
-      "lng": 14.71516,
+      "lat": 51.54691,
+      "lng": 14.7112,
       "title": "Reviewer3: An AI-Based System to Streamline Peer Review - the-scientist.com",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T04:14:22Z",
@@ -354,8 +365,8 @@
     },
     {
       "id": "news-technology-51ab4e6296",
-      "lat": 51.4683,
-      "lng": -0.20392,
+      "lat": 51.54536,
+      "lng": -0.24925,
       "title": "あなたのAI顧問株式会社 代表・黒山結音、SHIFT AI 3周年記念「AIエージェントカンファレンス」に登壇",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T04:11:55Z",
@@ -364,37 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04NjlfMFFHalF4YkJhNFoySFFEVW5NbWZIMWNUTUNqbTdTRTQ5QVVKWEhhelVmNll4YXhuQ0pIOWd2MmRxZGVFTmdsUU9BWE55UUJRUkk3ZVA5RlZFRnVpWTZxNmpHZTlUbHc?oc=5"
     },
     {
+      "id": "news-technology-3ee0d889dd",
+      "lat": 54.66122,
+      "lng": 25.32586,
+      "title": "ハ・ジョンウ前AI首席、国家AI戦略委副委員長に4カ月ぶり復帰",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T04:05:00Z",
+      "summary": "ハ・ジョンウ前AI首席、国家AI戦略委副委員長に4カ月ぶり復帰&nbsp;&nbsp;BigGo ファイナンス",
+      "source_name": "BigGo ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NUEZqOEhqcDZiOHFpVEp4eGpYREJpclZXLTFQZll6Q0QxOEZBeDRMLUJxTk8xOTBpbmUwQ2lvVlQ1TERmTEVmUDdERkhDaDV1U05rVkdxQVZqb1lIRnpTVV91Ym5US2dBbW1hYWx0dzZzZ0xO?oc=5"
+    },
+    {
       "id": "news-technology-0a1c534cab",
-      "lat": -8.32813,
-      "lng": 115.56066,
+      "lat": -8.29895,
+      "lng": 115.56974,
       "title": "35台のヒューマノイドがずらり フィジカルAIの学習データはどう作る？ J-HRTIが大規模データファクトリーを開設",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T04:04:08Z",
       "summary": "35台のヒューマノイドがずらり フィジカルAIの学習データはどう作る？ J-HRTIが大規模データファクトリーを開設&nbsp;&nbsp;ロボスタ",
       "source_name": "ロボスタ",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8weGNBWE1DRWpJS0l5ZGVRZHotM0lrWDlkci1XNV8wM2Nrd0wxMTA3WGJUSHBUUjFhdlUwM05sRkpPV3Z4STBHeEp6bk45a1Rycm4wNzhOYkx4czdtaG9PNk5GUUI?oc=5"
-    },
-    {
-      "id": "news-technology-cd425c5b68",
-      "lat": 35.68807,
-      "lng": 139.55833,
-      "title": "米AI投資ブームは続くか? 浮かんできた「電力と水」の制約という問題（TBS CROSS DIG with Bloomberg）",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T04:00:32Z",
-      "summary": "米AI投資ブームは続くか? 浮かんできた「電力と水」の制約という問題（TBS CROSS DIG with Bloomberg）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90RG9RdURsSVFiOUZYR2ViSTEwaGVNbHVLelJZOTUxdFdxWG9IYmhqQ0RPTXRmeWNYcDJoa1EzOFlYVHdqLVVUYXdMLXBCQld4ZmNfWEJYNXluNTNLR0VnWXVNWFpSSGJMVTZrUG9CYXRHMDRoYVBGaDBOY3RBOVE?oc=5"
-    },
-    {
-      "id": "news-technology-8eb8d749a3",
-      "lat": 40.70643,
-      "lng": -73.99868,
-      "title": "AI開発者が警告する「第2のマンハッタン計画」、制御不能なAGIの脅威",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T04:00:00Z",
-      "summary": "AI開発者が警告する「第2のマンハッタン計画」、制御不能なAGIの脅威&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbHBmUE1xZGgzT3VKR05jU2VabVc3TzlLaXBNWGNuT0VsSzRSeFhVYk1PdnhLT3p4NXBHSzNNOEotVUY2emQwenloMUxqd09sVDNZWHVlY05wNHFJR24zS2kxc2hnWEgwVHN1bVBNbUhsZGtXaEdqV2lNT2VpTkU?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T04:34:11Z"
+  "updated_at": "2026-08-30T04:48:39Z"
 }
