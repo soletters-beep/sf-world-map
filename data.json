@@ -1,20 +1,53 @@
 {
   "news": [
     {
+      "id": "news-politics-2f62cf51b6",
+      "lat": 39.56175,
+      "lng": -80.77751,
+      "title": "Reader laments the state of politics",
+      "category": "POLITICS",
+      "time": "2026-08-30T08:57:53Z",
+      "summary": "Reader laments the state of politics&nbsp;&nbsp;Aspen Daily News",
+      "source_name": "Aspen Daily News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmZLZ3NhZ3pXaEN5cVR6UjJVMGxTdzNTbDdsbThDY3EweVJQb0lvSHB2UTlJSFc2ZXZhV2tLLXE1eDh0ZzluV3ZSZTA3NmxxNUkza3NwTjZwWmh1amVybmc4bTVsSVFodXpyaVE4aHlzWDZIdEtCSE56SFlYRU1JYWlCYlZ5Z1dIOGFJUw?oc=5"
+    },
+    {
+      "id": "news-politics-3d24b56bcc",
+      "lat": 40.80246,
+      "lng": -73.08141,
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "category": "POLITICS",
+      "time": "2026-08-30T08:54:49Z",
+      "summary": "Five others in their twenties were injured after shots were fired in Aarau, near Zurich overnight.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-92c5881cd3",
-      "lat": 65.0361,
-      "lng": -18.05739,
+      "lat": 64.93147,
+      "lng": -18.13866,
       "title": "Iceland rejects EU",
       "category": "POLITICS",
-      "time": "2026-08-30T08:43:33Z",
+      "time": "2026-08-30T08:48:45Z",
       "summary": "Iceland rejects EU&nbsp;&nbsp;euractiv.com",
       "source_name": "euractiv.com",
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rT2VSSC1tX3l5TExxbC1YMjlSSmp4cUo0a2VvbFVWb1lfLVVhcGZLWC1rVU41S1lYbW1TZVVLSFZITEhnRTViT25LZGZqZkJRM092ZTh1R1hIQTNmTGc?oc=5"
     },
     {
+      "id": "news-politics-0a1917ec2a",
+      "lat": 35.79807,
+      "lng": 139.66014,
+      "title": "香川県知事選で２例目の電子投票 善通寺市、タブレットは全国初",
+      "category": "POLITICS",
+      "time": "2026-08-30T08:44:23Z",
+      "summary": "香川県知事選で２例目の電子投票 善通寺市、タブレットは全国初&nbsp;&nbsp;沖縄タイムス社",
+      "source_name": "沖縄タイムス社",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EV3daZHZFNEpmMWE4M3psTW1pMGJsQTctbDJWOXU5ZTVIcXhoWkRXMDVLNmZHMjhBeEZoWnJaZ2c3ZzB1SnZJNVJoakJNdGw2ZF9nNFVfbU9qbWVfM0E?oc=5"
+    },
+    {
       "id": "news-politics-12b95012e2",
-      "lat": 39.70101,
-      "lng": -76.65355,
+      "lat": 39.7286,
+      "lng": -76.56187,
       "title": "Trump administration deports relative of Afghans who helped US military to Central African Republic",
       "category": "POLITICS",
       "time": "2026-08-30T08:32:00Z",
@@ -24,8 +57,8 @@
     },
     {
       "id": "news-politics-6e72ac027a",
-      "lat": 41.69651,
-      "lng": 44.84442,
+      "lat": 41.65218,
+      "lng": 44.80281,
       "title": "Opinion | Behind the Nepal-China border floods lie bad politics",
       "category": "POLITICS",
       "time": "2026-08-30T08:30:07Z",
@@ -34,64 +67,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlN0RVhBVTBLR0ZkX2dtcmtMVkpFM05zeFJFUjRvRFlFM2dIMGF6eEJMQXRlVTNmRkdMUTF6V1A3cUpzODZEMXFJemZ4X05qU1NDYkR5NFprRWRZRU9Ja1cwMklBN3RZMGdiQTZXcnMwdXhTNTQwU0tvS0VLM0pDd0xBMmlmLXNKTVg3OTdPUENYc0NpbmZsMEhIcHpmOHhfQXloNFZ1R0JXSHfSAasBQVVfeXFMUHAxRENfS1o0ak9ONGo3THZWUmo5czZzaDVlUklnNE9aWkREZVhJZUxISVVlbXpGTjNPUWt4MWNWTk5NUi16R0Y1TF9RbDlQWFZYdVNrX1Excmt6anZzY3ZNSVlfLXBhdUQyNi11M1RhWkJ3SmZJYzdndUJJZHZQTzR3cGxoUjdqQnNBeHVDUUZGMk5taFZzMUVYbG13TEV5N093VDF3UWctbWZ3?oc=5"
     },
     {
-      "id": "news-politics-8b61a0f8e6",
-      "lat": 40.72752,
-      "lng": -73.95013,
+      "id": "news-finance-8b61a0f8e6",
+      "lat": 40.73221,
+      "lng": -74.03657,
       "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
-      "category": "POLITICS",
+      "category": "FINANCE",
       "time": "2026-08-30T08:29:21Z",
       "summary": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle&nbsp;&nbsp;The New York Times",
       "source_name": "The New York Times",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjd2TTFZdW5heklSQkVMUHRLaGJwZ0VSWHdla2pydGpIaXk4dGQ0S2N3NkRjRFZDOVpmQllVYjVKQUMtQm5MM2hQaE8xNEV3TmFFemJOQTZKLW8xV0tpUmpsWmpTazk1UVBSNjMyaDdPQ3RHd2w3QlVZbDEwdzFIcXRIak45aE1xWUhKQ0ZkZDRyeGZXMjE2MnVxV212YkVvRnVDdEdB?oc=5"
     },
     {
-      "id": "news-politics-9758b838be",
-      "lat": 52.18641,
-      "lng": 17.41737,
-      "title": "Pols & Politics: Healey’s ratings slump again in latest poll, still favored for reelection",
-      "category": "POLITICS",
-      "time": "2026-08-30T08:22:12Z",
-      "summary": "Pols & Politics: Healey’s ratings slump again in latest poll, still favored for reelection&nbsp;&nbsp;Boston Herald",
-      "source_name": "Boston Herald",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmVHUEdpMHV2WFpLNklJNmVVUFduM3VlSV93cTNTUmhoOC1jUVF6YnFENVg4NWh6ZFA2ZjlzOTZvTFpfVmx2S2FEMDFuRVdyVlM2N3NSdXdBVWh1VDNZRHJHWlhQY0w4UmxxbG0xZEVpYkowamZqejBRRGdFQ2lrSFVYcjEzb09wb3kyNUhmUlhZcndIU0JCV1hVdGxSYjFCNnhvZGdvMnhqTDhHRTg0RDA1YnVtYUtmek1xUk9NQVVmY1hm?oc=5"
-    },
-    {
-      "id": "news-politics-3d24b56bcc",
-      "lat": 40.82172,
-      "lng": -73.11296,
-      "title": "Manhunt after woman, 22, killed and five injured in Swiss shooting",
-      "category": "POLITICS",
-      "time": "2026-08-30T08:17:11Z",
-      "summary": "Swiss media reported shots were fired at a rave overnight, with all the victims in their twenties.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "id": "news-finance-6c4441b306",
-      "lat": 40.76094,
-      "lng": -74.14687,
+      "lat": 40.66303,
+      "lng": -74.1588,
       "title": "アマゾンの2,200億ドルAI投資：歴史が示す巨額投資の年は株価急騰の前触れとなる傾向",
       "category": "FINANCE",
-      "time": "2026-08-30T08:29:51Z",
+      "time": "2026-08-30T08:25:00Z",
       "summary": "アマゾンの2,200億ドルAI投資：歴史が示す巨額投資の年は株価急騰の前触れとなる傾向&nbsp;&nbsp;BigGo ファイナンス",
       "source_name": "BigGo ファイナンス",
       "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TaFBGTmVoVnVibXBtT2E0dl8wSEVmaEtWcEVtZ3RmcEFJYjJLT19tOXVpZlIxbkJGWUFEeWR5czJrTmNaQVFPZWMwMHN3TU9PMUMzS29sOVFHUEYzMEJsRlI4aXdPam9nMlpONFhLY0RUMnZw?oc=5"
     },
     {
-      "id": "news-finance-8b61a0f8e6",
-      "lat": 40.77081,
-      "lng": -74.00909,
-      "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
-      "category": "FINANCE",
-      "time": "2026-08-30T08:29:21Z",
-      "summary": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjd2TTFZdW5heklSQkVMUHRLaGJwZ0VSWHdla2pydGpIaXk4dGQ0S2N3NkRjRFZDOVpmQllVYjVKQUMtQm5MM2hQaE8xNEV3TmFFemJOQTZKLW8xV0tpUmpsWmpTazk1UVBSNjMyaDdPQ3RHd2w3QlVZbDEwdzFIcXRIak45aE1xWUhKQ0ZkZDRyeGZXMjE2MnVxV212YkVvRnVDdEdB?oc=5"
-    },
-    {
       "id": "news-finance-b37b90acb8",
-      "lat": 31.26211,
-      "lng": 121.4237,
+      "lat": 31.29309,
+      "lng": 121.52322,
       "title": "株価指数先物 【週間展望】―25日線と75日線とのレンジを放れる可能性(株探ニュース)",
       "category": "FINANCE",
       "time": "2026-08-30T08:00:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-55a6177179",
-      "lat": 54.54707,
-      "lng": -5.97686,
+      "lat": 54.61481,
+      "lng": -5.86352,
       "title": "Markets Brace for Possible Rate Hike After Kevin Warsh’s Hawkish Turn",
       "category": "FINANCE",
       "time": "2026-08-30T07:14:17Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-1e03533eff",
-      "lat": -12.01094,
-      "lng": -76.98524,
+      "lat": -12.09055,
+      "lng": -77.01055,
       "title": "50歳代の貯蓄は平均1908万円・中央値700万円｜金融資産非保有18.2％と3000万円以上18.8％が並ぶ（LIMO）",
       "category": "FINANCE",
       "time": "2026-08-30T06:10:53Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-b7e2b6e0cb",
-      "lat": 40.67409,
-      "lng": -74.0415,
+      "lat": 40.75726,
+      "lng": -73.98419,
       "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
       "category": "FINANCE",
       "time": "2026-08-30T05:28:00Z",
@@ -133,9 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGJ5VDNjaTdCWHJCaFhCM2JlMC0tNlFIN0E0UzJNZG5vNGk2dWpYenpYRVdESjlOc2hsVXFReURMQ2dkSFUwWGR5VVRIbElrUUh5YXRtdHpBTGd0a0ZxUjRwOU41ODFsZDdrMXJqY19QX1pLbTFKQjFia3p5Y1JXMnI1MA?oc=5"
     },
     {
+      "id": "news-disaster-114d6f39a0",
+      "lat": 51.17765,
+      "lng": -4.69827,
+      "title": "Earthquake measuring 2.1 shakes area close to The Geysers, CA on Aug. 30",
+      "category": "DISASTER",
+      "time": "2026-08-30T08:58:06Z",
+      "summary": "Earthquake measuring 2.1 shakes area close to The Geysers, CA on Aug. 30&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83b2xYYkc2ak8tUmh4WlB4X2w1SW5vblhfQ0hTbF9tclI3OUtrZWx0ODJLYWthLUdkOVJpMXFJZDVKODVXZHFxYS1Jd1A2eW1OZGJ2SmpydGxfT2ZJaktxVkJvckRfYk1WcDhKcHRBaXZKLS03d0I1bHBjRHM?oc=5"
+    },
+    {
       "id": "news-disaster-fd003c28bc",
-      "lat": 28.43639,
-      "lng": 83.99281,
+      "lat": 28.39943,
+      "lng": 83.95552,
       "title": "WHO releases US$150 000 emergency funds to support Nepal’s flood response",
       "category": "DISASTER",
       "time": "2026-08-30T08:47:33Z",
@@ -144,9 +155,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaEJJMHM4TXhtcWVxMWtOVTJGSHFrY0RFclNKRXdwS29oV0pwRl9sTTVCa3ZnekxOVUlPU3M1QmdHUDFydXZ3S25DU1hsWlJsU3BpVS1qNGRKYXVTMEFaSVpHbjN1WEZSb1YwQk15cXdrN1RiWVJ1cy1uemJEWU5wZEI3azJsMFFEQTB6WFhMRkdzRU91UEhvbmN1X1NFMW9lSWZmbkI5QWtUZzdOdW9rVXFYckV3OU03VUtvQU12RlJXV0thNlNZcw?oc=5"
     },
     {
+      "id": "news-disaster-32ce1e4719",
+      "lat": -0.29642,
+      "lng": 35.68221,
+      "title": "Aerial video shows devastation in flood-hit Nepal",
+      "category": "DISASTER",
+      "time": "2026-08-30T08:44:41Z",
+      "summary": "Aerial video shows devastation in flood-hit Nepal&nbsp;&nbsp;Al Jazeera",
+      "source_name": "Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUUtVEItdVBCTmNBWlRDVURLaXBKWERGaW1XR3hOb3FST01Ha090c2Z0N1pIVmJ4Q2JheG50eWwxSkdaRDVWOUNUMVJQZGFaN1NnMkFxMzA2YVM4SDVtTVNvTlJSTk1WcFh1RkNvVHNCR0pOWjBXNUN5c2wyMU5LTjVxUUhqNzBuZXoxRTZfNi0ybjdDRmNtenZuS2lNSHFwZlHSAacBQVVfeXFMUGFWUjNqZzQtZVQ2NmstQ1M0WkJIX1ZVUGh0YUQwZUEwd2VFVGNRMGlvX28wczc2MnZfQ1hyQTlVYldsR3hlbkdFTTRwWUxXNEZjZk50TC1nc0c4d2pCUkxQUkR0aGgxMENwSk5vekljNVJlZ1pHeVUxQ2ljQ0NJMDNVOGdOcTF3aWJZTDFscDAyR2hTY1A1dFV1U094bGFJNUxDY3lWT3M?oc=5"
+    },
+    {
       "id": "news-disaster-c890abf360",
-      "lat": 34.56606,
-      "lng": 108.92548,
+      "lat": 34.53801,
+      "lng": 108.88269,
       "title": "China-Nepal floods: hundreds of foreigners missing in Tibet after disaster",
       "category": "DISASTER",
       "time": "2026-08-30T08:22:13Z",
@@ -155,9 +177,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVEtMaTdsSkhyQ0t5UFFWN0ZCcWcxWmR2MUd3My15YXU2a0JwUy1TWEZNTkpkUXkzVUR4Wm5ncEdhQVo4ZFBVSUdpUU1GUDJTbEcxSEtMOWZlTDhMMFBYcEVjalhmN3ZESC1OWnRfa2tUbW56U19xME1Gb0tjOXNFc1Yxb3ZISnJRUUpjZmV6QUhWOHNwSzNDRDhzcE5BSy1XTkJxZGJhaDkzMDRsWjluZVpZUXFYdzFtaGhuazR1M3RMZ9IBwgFBVV95cUxNeE1oS1BkeE5oOUFqTV93RDk3b0o4N0lncGdvcFVjRFVLYkVpOGpjOHItdGdrN18yWTFWQ0s4N2lGaWx3MmNXQ2MyVEdLbF9uQW1XSzc1R3NqY3JRbHp1NG5pUGpNWDdreVAxaEViMHB1Z1VudTVIQnY0MHFSdWV3eWxxdkFFQ3VCUXhxbDFPOGNDeFRtTkJnWTFWbnpmSURWQkdFeEp5S2VOSm9rcTFQU1poaVhzUWtjVUZ2YmtRV0pWQQ?oc=5"
     },
     {
+      "id": "news-disaster-4563efa0ff",
+      "lat": 34.09873,
+      "lng": -118.39147,
+      "title": "台風10号豪雨災害から10年 犠牲者に祈り 岩手県岩泉町（2026年8月30日掲載）｜TVI NEWS NNN",
+      "category": "DISASTER",
+      "time": "2026-08-30T08:19:00Z",
+      "summary": "台風10号豪雨災害から10年 犠牲者に祈り 岩手県岩泉町（2026年8月30日掲載）｜TVI NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+      "source_name": "日テレNEWS NNN",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMW54ak5jRW1xUDFHZkVMckdlcTVMRVI1S1BrSEptVlpaclc2Z29HUXFENDI4QUphNDNYcDQ1RDVhTFlYVzhNVG1fVW44VkhCR3c0ZFRQZVV6RzQ2SXRfVk1qdml3ZXEwcjZYQkYtbjIzMklMV19COU9QUTcycExNYkY1cVlMdVU?oc=5"
+    },
+    {
       "id": "news-disaster-ba66ad97db",
-      "lat": 32.78863,
-      "lng": 130.73307,
+      "lat": 32.75259,
+      "lng": 130.72401,
       "title": "福祉施設、4県1400超が被災 熊本地震1カ月、復旧遅れ多く（共同通信）",
       "category": "DISASTER",
       "time": "2026-08-30T08:16:10Z",
@@ -166,42 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wTzgyQ0JSSVJlMUJ0NEM3T0dhUmpPRVRoWFFYTE95NjhDaXB1X3JSMlZ4eDc2MUFqWktGMVhwNVV2cUIydWNrNmZkZjBjcHhBSFJSSUtqT1JSYV95cDhtaDZNUXhzVlIxNndtZzU5WW15eXVKUzFxV3VXU1hfZDQ?oc=5"
     },
     {
-      "id": "news-disaster-0045daf1a9",
-      "lat": 53.96744,
-      "lng": 27.55033,
-      "title": "Rescuers race to find thousands missing after Nepal-China glacier collapse",
-      "category": "DISASTER",
-      "time": "2026-08-30T07:53:05Z",
-      "summary": "Rescuers race to find thousands missing after Nepal-China glacier collapse&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5"
-    },
-    {
-      "id": "news-disaster-b344ce0a8e",
-      "lat": 41.66471,
-      "lng": 44.80052,
-      "title": "Opinion | An Explanation Without Evidence for the Nepal Flood",
-      "category": "DISASTER",
-      "time": "2026-08-30T07:24:48Z",
-      "summary": "Opinion | An Explanation Without Evidence for the Nepal Flood&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1NfZVhWdUwzSG5YRHpNeWNNR01NQlZSTnRtWFRpVVowVTR2NVU0ZmdpMEJLYnY5allOTmFpbGEwcDlsTG1nZHV0TG9ib1hfcXZqX0h3ZmZmUWp3cGt5emV3NmVocVpXajE1WXd3anhkWG1ZbHpWUUYzY0E4YnlYNENQeUt5czk3YzVrRXUtVHdSaWZlYjNLQkVkVUN4eU51ems1U2JrQQ?oc=5"
-    },
-    {
-      "id": "news-disaster-2c18d754a8",
-      "lat": 34.70966,
-      "lng": 133.88846,
-      "title": "【台風のたまご】新たな「熱帯低気圧」2つ出現...今後の進路、日本への影響は？台風情報に注意...9月6日までの雨・風シミュレーションで確認【気象庁30日天気図】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)",
-      "category": "DISASTER",
-      "time": "2026-08-30T07:18:00Z",
-      "summary": "【台風のたまご】新たな「熱帯低気圧」2つ出現...今後の進路、日本への影響は？台風情報に注意...9月6日までの雨・風シミュレーションで確認【気象庁30日天気図】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGSklkaHRWdGNCWDljb2FyZ0JwclFSSDF3RjdYbzg2SGUxU0x5N2tsVjQ5TVNJUUJWb1ZhdkhIcXVIa05LeUhpcFFBN0VsVFZtRHZUSFd6dlNoT3EydkwzNU8wVjF1V1U?oc=5"
-    },
-    {
       "id": "news-accident-c836d79ffe",
-      "lat": 35.70341,
-      "lng": 139.72857,
+      "lat": 35.65397,
+      "lng": 139.76824,
       "title": "「スペーシアX」4人死亡事故 見張り員「退避していると思った」 最新の社会ニュース【随時更新】",
       "category": "ACCIDENT",
       "time": "2026-08-30T08:36:00Z",
@@ -210,9 +210,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTl9DQnd6Y0F3Z003SWtKTXVuZkd2THJrNTJ4VDJZbFpfUTdPQlBvLS13MGx2S0o2RXJvaTdFMUluc3lnMGY4WFlZcEJTUUJsSlB5UHdjUGdaYlU?oc=5"
     },
     {
+      "id": "news-accident-c04dd924ae",
+      "lat": 34.95854,
+      "lng": 135.74634,
+      "title": "鳥取道でバイクが車に追突する事故 河原ICー用瀬IC間一時通行止め 規制は約3時間後に全面解除（BSS山陰放送）",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T08:34:12Z",
+      "summary": "鳥取道でバイクが車に追突する事故 河原ICー用瀬IC間一時通行止め 規制は約3時間後に全面解除（BSS山陰放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Uno1ZEFQLTBBbERPbTlYNDFpWU5LTVU2c0oxd2dFNnA2NkYxMGJFVnpEeHVHZno4M1A5RDl4NmwzVUE5SUEyT1JBcnk0WktrcF9JU0tIZHJvY0VCNlNiRW9SU0xPclFRSDNjbDBveENhT3IwNjEzYmozNUk2azg?oc=5"
+    },
+    {
+      "id": "news-accident-ba288e17fa",
+      "lat": 35.71952,
+      "lng": 139.71356,
+      "title": "「あなたに出会えて幸せだった」“亡くなったはずの妻”がなぜ目の前に…？《池袋暴走事故》妻子を失った松永拓也さんが見た「不思議な夢」（文春オンライン）",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T08:30:36Z",
+      "summary": "「あなたに出会えて幸せだった」“亡くなったはずの妻”がなぜ目の前に…？《池袋暴走事故》妻子を失った松永拓也さんが見た「不思議な夢」（文春オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GWHk1cGR2WDJiV1U3TXB2Ylh2TWxfenBPM21jUWpGQV9tMU5UQ2dodHI4VUxPZDE1S3ZNUVI1SjJRSkNaeGl4bjdZNjhRVFJPZ3NHSjBOQ1hpajBPaXJtS3Jwekpob2xlY25uS1lMLUxUX291MktBcHg0MHR1WUE?oc=5"
+    },
+    {
+      "id": "news-accident-9184abf207",
+      "lat": 52.04357,
+      "lng": 18.98423,
+      "title": "スノボ事故で顔中骨折…「見た目の劣等感から自信喪失」したバリキャリ女性KIKIさん〝3年後の現在〟に「よくぞここまで」「勇気の発信ありがとう」反響続々",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T08:30:00Z",
+      "summary": "スノボ事故で顔中骨折…「見た目の劣等感から自信喪失」したバリキャリ女性KIKIさん〝3年後の現在〟に「よくぞここまで」「勇気の発信ありがとう」反響続々&nbsp;&nbsp;ｄメニューニュース",
+      "source_name": "ｄメニューニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOGNRdE8zREZpb0NuY05WR0pocGhwM1pjS2N2aW1keGdGalZDY0d1MGE1Qm5CcmZtdFhobjRwYTZoWFRyZlhJbGZraHhscm5lQ1lyRlZIX3h3X3B5VVNJY3BRUUVsM0I3T2dSNVFsSlBySUJ5OENvX290WnFQd3VIQ1B3d3Ftd9IBiwFBVV95cUxPR1RUVkhqckk3a2RNNGdhejVEcndZV0V2aG1kaWlzZWhWVUk5dFE4S3pOcjMzYXhGTU1yY3UxUlRXclNmLTl0VTgtNkJqV0xORzhWTWladWhtQ2Uxdnd1Z0tjZ183aXF6TzBVcVBnQkxDQk9BdnpDcmhrX1pVWWNaTVNLTEd6N2V5OHQ0?oc=5"
+    },
+    {
       "id": "news-accident-336b9d2200",
-      "lat": 35.04915,
-      "lng": 135.66765,
+      "lat": 34.96023,
+      "lng": 135.78472,
       "title": "鳥取道でバイクが車に追突する事故 河原ICー用瀬IC間一時通行止め 規制は約3時間後に全面解除",
       "category": "ACCIDENT",
       "time": "2026-08-30T08:07:00Z",
@@ -222,8 +255,8 @@
     },
     {
       "id": "news-accident-173231ad87",
-      "lat": 43.11292,
-      "lng": 141.32413,
+      "lat": 43.00558,
+      "lng": 141.31716,
       "title": "車で対象外避難、被ばく量増加 原発事故、屋内退避と比べ | | 全国のニュース",
       "category": "ACCIDENT",
       "time": "2026-08-30T07:33:00Z",
@@ -232,42 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfSFZpMnYwU0FCbnNnZTlxS0xPUUVHR0tIb3hnbWdudjByd0xDN0xiMXZFSDI1WnRreGtYeV9wMGhKZEpWbzhFNk4tUmNaRXJFbzdBVkp3?oc=5"
     },
     {
-      "id": "news-accident-37e9d3d20c",
-      "lat": 17.18682,
-      "lng": 97.76039,
-      "title": "侍女のカレンの様子が変！？事故死の運命は変わるのか？『死に戻りの伯爵夫人は自由に生きることにした～もしかして夫に溺愛されてました？～』【#6】",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T07:10:54Z",
-      "summary": "侍女のカレンの様子が変！？事故死の運命は変わるのか？『死に戻りの伯爵夫人は自由に生きることにした～もしかして夫に溺愛されてました？～』【#6】&nbsp;&nbsp;ほんのひきだし",
-      "source_name": "ほんのひきだし",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1aVFKcU82WTdSU0lHbXRyWlpOODF2RV9PTVNqcXFQZldlcER5cmdDS1JjNl9vSVpkMkF4OWY1MkFMbkxEQnV4eEhaTXRpWWx2bUVhZDhaQQ?oc=5"
-    },
-    {
-      "id": "news-accident-d14cd9b3aa",
-      "lat": 33.61132,
-      "lng": 130.36865,
-      "title": "「巻きこまれ事故」 福岡自民・若手県議が怒り 疑惑の当事者でなくても公認外れる恐れ（西日本新聞me）",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T07:01:29Z",
-      "summary": "「巻きこまれ事故」 福岡自民・若手県議が怒り 疑惑の当事者でなくても公認外れる恐れ（西日本新聞me）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxRU1HaGVSb0Rrcy1yLV9jSmZQN3NJMlFMaW1xcFo5UGYzdVdNNHl3YXlKZHJLWDk4WGp3cmZxaDRPSmZiRmN6TnZYaENMMDlfQVJPaFdZdkZCajBDQm1uOFVKdWJIUExQMFRzMDdOVHdvTTJYcERtSjJ4dUlwNEU?oc=5"
-    },
-    {
-      "id": "news-accident-a62c109de9",
-      "lat": 35.66226,
-      "lng": 139.77938,
-      "title": "「車で向かっている途中に事故が起きた」見張り員 東武日光線で作業員 死亡事故（テレビ朝日系（ANN））",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T06:52:11Z",
-      "summary": "「車で向かっている途中に事故が起きた」見張り員 東武日光線で作業員 死亡事故（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MX3IzT1FNRzBacVFtQ05WNFVwZ0VJYTV4SjFyWkFDLWpmMnNHbG11TnJMOFVSb1J4OWR2bVRzdWNkSTUwRDg1RTlpVDdNNndtdm10Y0tXenVEZkJQWDhvZ0dwXzFNM1VIX1A5MGFNeUxzbUxPY3pXVmhoWjRMWGs?oc=5"
-    },
-    {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.0667,
-      "lng": 106.25566,
+      "lat": 10.00801,
+      "lng": 106.26275,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.81192,
-      "lng": 139.84039,
+      "lat": 35.78479,
+      "lng": 139.8478,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 41.02053,
-      "lng": 29.02003,
+      "lat": 40.96494,
+      "lng": 28.96853,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.881,
-      "lng": 131.47456,
+      "lat": 31.94129,
+      "lng": 131.38748,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 34.98218,
-      "lng": 135.82806,
+      "lat": 34.96997,
+      "lng": 135.80579,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-948c208240",
-      "lat": 33.98927,
-      "lng": -4.96143,
+      "lat": 34.03281,
+      "lng": -5.02294,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -331,9 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94NGJlTi1Cb3g0VE91WkJUYVZ5OG5TWVF0QjRRWnBTWFllRzRwdXREZWtfQVZjMUJnWm82eDZodGlwQnI0ckt3?oc=5"
     },
     {
+      "id": "news-technology-9f62698ac3",
+      "lat": -27.50837,
+      "lng": 152.79524,
+      "title": "AI Is Changing Entry-Level Work. What Happens To The Talent Pipeline?",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T08:58:12Z",
+      "summary": "AI Is Changing Entry-Level Work. What Happens To The Talent Pipeline?&nbsp;&nbsp;Forbes",
+      "source_name": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFBfRVAzcFBNY1FTaGtsTmJoMUVMUU9BVlN0SWRFMmkxTGMxQ3VKdktjQllxQ2ViYnZqRUU5cHg0OU8zd3hxdl9oMEdLUXliV01sTjBKWU9CSmpRUlQzakJwaGpoXy1YV1hlTVFKbm1mQlBROTVsdTFCLXJtZlluZjE2cjFXa0dXaGdFWEl6TTdQVnpBZlVqUDVXVDBTRDNSQ0JBME9GT2ptd0t6Y2pwcV9JQ0NmalltUXQ3ZlIyU1E?oc=5"
+    },
+    {
+      "id": "news-technology-64f4ead8cf",
+      "lat": 45.56687,
+      "lng": -122.94224,
+      "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T08:48:21Z",
+      "summary": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVVkZ3E3ZmJtVFR1SGFmMm1CNUpSTVRFM3psNWRGZndCZXFTaUdvR1cwUXBXN0N3bGJqb3hTUi1BdkxrbmZtUVVXQ1JjVVpqTm5vSmM3eXV2VkRadFFNcTdzeFdEMlJRQk5JZFNHcGdtRk80ZlRJaFpsLU9fUXBPejZZbHYtY2tiNExJcmVGVXZETUhVMHF5R0Jsd1RVcTQ?oc=5"
+    },
+    {
       "id": "news-technology-3965c40eff",
-      "lat": 35.61091,
-      "lng": 139.74978,
+      "lat": 35.71887,
+      "lng": 139.71386,
       "title": "AIで車づくりに挑戦 宇都宮で親子体験教室 デザインや性能、個性あふれる車完成",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T08:40:00Z",
@@ -343,8 +365,8 @@
     },
     {
       "id": "news-technology-0fa6fae05e",
-      "lat": 52.10358,
-      "lng": 7.81984,
+      "lat": 52.15123,
+      "lng": 7.9078,
       "title": "AI Enters the Israeli Election: One in Four Voters May Turn to AI for Guidance",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T08:38:00Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-1c0156cac8",
-      "lat": 34.74705,
-      "lng": 135.49882,
+      "lat": 34.77336,
+      "lng": 135.4646,
       "title": "【今週の注目トピック(1)】話題のテーマ『屋内農業、AIで効率化』など(フィスコ)",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T08:33:00Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-569e6a1920",
-      "lat": 28.69192,
-      "lng": 77.2544,
+      "lat": 28.60966,
+      "lng": 77.23451,
       "title": "Delis are going viral for horrifying AI-slop menus. I called one to try to understand why they did it.",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T08:31:07Z",
       "summary": "Delis are going viral for horrifying AI-slop menus. I called one to try to understand why they did it.&nbsp;&nbsp;Business Insider",
       "source_name": "Business Insider",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzFkOEVUOG9Dby01Z2dsUTkzRDVzRnBxaWNteXUxZFc5Znd2V2RGS1Vpel9EZHNQeW80Y0lZNUhrbXJhMnlaeUkybFNRSUZtc3E2b01ueHlLRjhqckJuUm16RzUwSzA3SVFxTEV1eXR4OXRJNmRfMWNzeFVMQ3ZWWFhQM09XQmk2TTVjeXlUdGdBQzNMVktrOUVxMFFJSHRzSHc?oc=5"
-    },
-    {
-      "id": "news-technology-08e0520b80",
-      "lat": 35.64708,
-      "lng": 139.76787,
-      "title": "【好評イベント紹介】安野貴博×東浩紀（+黒岩里奈） 日本はAI時代を生き残れるのか",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T08:29:06Z",
-      "summary": "【好評イベント紹介】安野貴博×東浩紀（+黒岩里奈） 日本はAI時代を生き残れるのか&nbsp;&nbsp;webゲンロン",
-      "source_name": "webゲンロン",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RcnRJT2xNQjNud2Y4NzJlNU1sR1hONHhDWEM5dEkwX1dCWnUzVjB1MTNLSXAwcDBRZ3Jwd1IwSWNWRF9NUWRqZUxqZUVWT2Z1QUVhdFd4ZnZfS2FVeGc?oc=5"
-    },
-    {
-      "id": "news-technology-7486faefad",
-      "lat": 35.60031,
-      "lng": 139.52068,
-      "title": "欧州は、世界の半導体、クラウド、AIソリューションへの依存度を低減したいと考えている。",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T08:16:44Z",
-      "summary": "欧州は、世界の半導体、クラウド、AIソリューションへの依存度を低減したいと考えている。&nbsp;&nbsp;Vietnam.vn",
-      "source_name": "Vietnam.vn",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVRWRWpQcTh1M3NURzBYWko4c1QtM2x6NmxxREx3cUYyWFdzM19uZ1JEVnpxRlhJUEpYQk83QVJMLUR5ZVN6ZGlJQ0tYLXlwNWdwQ19xLVh4Ql9RaEozNXV2T1FYb0xhUGM1QXBMMkVIenpwbUdjUHZBTmM1QjRtTUxSLXVNNW8?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T08:48:37Z"
+  "updated_at": "2026-08-30T09:03:47Z"
 }
