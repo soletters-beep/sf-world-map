@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-80babfd43b",
+      "lat": -37.94498,
+      "lng": 142.21768,
+      "title": "Gazette family of papers rakes in 64 awards at 2025 Colorado Press Association Better News Contest",
+      "category": "POLITICS",
+      "time": "2026-08-30T19:25:05Z",
+      "summary": "Gazette family of papers rakes in 64 awards at 2025 Colorado Press Association Better News Contest&nbsp;&nbsp;Colorado Politics",
+      "source_name": "Colorado Politics",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWktkNXkzaWkwRXB5MTg5dUxmMDlxT2s0dTl6TzEydVA2LTJTTmNoMzB5NUtJTGxyYXRPTUhlaHVBWm5oLXplTHd0R3poNkZXdUFiQTlsRlJPQ1ZfdEdGLWtCYlE3V3NPUVU0bUlGWWJ4V3lXMTdoM2dHVlNVeVpMTlUtTDVhNUZEZWg5b0h3aFgxUVUzYVJhMzBBZ0pQSFA5MkdUbzdwbjJaaDctb0Rpakx0cVRtN3FsTkFkVFNtbW9kVmxleW1ZY241a25IS3dQOVZYaXZWOW1wOU0?oc=5"
+    },
+    {
       "id": "news-politics-6febddd9c3",
-      "lat": 35.74221,
-      "lng": 139.80928,
+      "lat": 35.68472,
+      "lng": 139.76393,
       "title": "＜政治メモ＞小野寺氏「ドローン特区になれば産業集結」",
       "category": "POLITICS",
       "time": "2026-08-30T19:00:00Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-7a986b2deb",
-      "lat": 39.7939,
-      "lng": -100.38752,
+      "lat": 39.77311,
+      "lng": -100.45428,
       "title": "American politics: Will Rogers overheard out on the front porch",
       "category": "POLITICS",
       "time": "2026-08-30T19:00:00Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-8e0f6d564c",
-      "lat": 43.0312,
-      "lng": 141.39403,
+      "lat": 43.0292,
+      "lng": 141.41612,
       "title": "デジタル改革 道半ば 人材不足課題 一定成果も 庁発足5年",
       "category": "POLITICS",
       "time": "2026-08-30T18:59:00Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-6b74ae18f9",
-      "lat": 33.56178,
-      "lng": 130.38801,
+      "lat": 33.63276,
+      "lng": 130.37956,
       "title": "［NEWS FLASH］福岡県、議連に公費補助",
       "category": "POLITICS",
       "time": "2026-08-30T18:57:00Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-1c62773445",
-      "lat": 38.91972,
-      "lng": -77.04329,
+      "lat": 38.87385,
+      "lng": -77.03031,
       "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
       "category": "POLITICS",
       "time": "2026-08-30T18:53:53Z",
@@ -56,20 +67,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-679a67ff79",
-      "lat": 15.87657,
-      "lng": 107.98947,
-      "title": "Socialist leader Olivier Faure enters French presidential race",
-      "category": "POLITICS",
-      "time": "2026-08-30T18:47:22Z",
-      "summary": "Socialist leader Olivier Faure enters French presidential race&nbsp;&nbsp;euractiv.com",
-      "source_name": "euractiv.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdlFET0E0S3ppZ1pzT3Rna0NscEFaUDdPWkt0NG1TYUl2TnBCdm54Z2xUQnFXYU5lQWxPc09fNFF5NjBUYUowZFJtRzJvc3lNX2ZOVUZJVzA2bVpBeFVNQzhhZHN5dTg4YlRBeU53a3ZISThaTEZDUVBJajV0T282dngtRWVXM2J6ZXdjOWhlekp1ZkNNS3hibQ?oc=5"
-    },
-    {
       "id": "news-finance-6b7876904d",
-      "lat": 41.05502,
-      "lng": 38.96405,
+      "lat": 41.03314,
+      "lng": 38.90754,
       "title": "Civil engineering firm adds finance VP, snags $40K city incentive",
       "category": "FINANCE",
       "time": "2026-08-30T19:10:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-ba2d7c1697",
-      "lat": 55.66757,
-      "lng": 12.58043,
+      "lat": 55.69528,
+      "lng": 12.59598,
       "title": "GLOBAL MARKETS CALL: Bull Market In Stocks Despite Bear Market In Bonds",
       "category": "FINANCE",
       "time": "2026-08-30T19:07:22Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-1be4c32e6c",
-      "lat": 34.51717,
-      "lng": 108.88019,
+      "lat": 34.52696,
+      "lng": 108.89466,
       "title": "China Growth - Can “Little Giants” Save the Day?",
       "category": "FINANCE",
       "time": "2026-08-30T18:51:26Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-7995557d44",
-      "lat": 34.58448,
-      "lng": 108.9637,
+      "lat": 34.57805,
+      "lng": 108.90932,
       "title": "China – Bucking the Trend?",
       "category": "FINANCE",
       "time": "2026-08-30T18:51:17Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-b73b23bd10",
-      "lat": 35.01871,
-      "lng": 136.56432,
+      "lat": 35.01167,
+      "lng": 136.58224,
       "title": "【日本株】AI革命を支える｢AI･半導体｣関連の2銘柄！株価は乱高下しても業績成長に勢いがある｢キオクシアHD｣、AI半導体テスタの覇者｢アドバンテスト｣に注目",
       "category": "FINANCE",
       "time": "2026-08-30T18:36:01Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-68ae68e587",
-      "lat": 37.75194,
-      "lng": -122.43804,
+      "lat": 37.7367,
+      "lng": -122.39928,
       "title": "Pinterest’s (PINS) CFO Exit Tests Whether The Growth Story Holds",
       "category": "FINANCE",
       "time": "2026-08-30T18:21:59Z",
@@ -133,20 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEN3dkRhcnI2U0Q4TzN6VGlJUVR4dFZPZVdNZDYzQ00yS3VMbnVHejRjT1ZPbHk2Uk5sMmtNbDNLZFhPRnZnUE5jVE8xS2Y3V3FHaF80YmNiS0ZqRzJ4UXJnd0JaSTdCY1dTaUVpTWh5NU1LM0FfeEJPbDlPdmRfajJuQUFVRjViV1Y5bk9KY1NsQTF6bVYzdk9B?oc=5"
     },
     {
-      "id": "news-disaster-d1533237cf",
-      "lat": 48.01838,
-      "lng": 3.65158,
+      "id": "news-disaster-dbad62e45d",
+      "lat": 46.18827,
+      "lng": -1.1084,
+      "title": "Flash Flood Warning issued for Kane County as storms continue to move through central Utah",
+      "category": "DISASTER",
+      "time": "2026-08-30T19:32:11Z",
+      "summary": "Flash Flood Warning issued for Kane County as storms continue to move through central Utah&nbsp;&nbsp;kjzz.com",
+      "source_name": "kjzz.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbkkyZXNfemw1NWJreW41T1FEZFk4RjF0ekl6ZkV4djVjRzloY3pOYlVYNzRhU1NldExWVEw2ZzJwUjRDRzNZYlhkczB5b0p4c0tfRTN3VkVVZ0hjd1k0N0RpajVnZE1JNUJ0d1ZETWJfX09NUHIydGluRzVuNVVlQ3NBdHB0Unlac0hPb2FjYkZzVVNOM3RTSVRyRHFwUUtUdTJzcmpqZ09pdDdvczZ6SWlrQXdMNExOeFE?oc=5"
+    },
+    {
+      "id": "news-disaster-5ab7cea060",
+      "lat": 48.01004,
+      "lng": 3.66526,
       "title": "Mercy Chefs deploys helicopter to reach Nepal flood victims",
       "category": "DISASTER",
       "time": "2026-08-30T19:05:24Z",
       "summary": "Mercy Chefs deploys helicopter to reach Nepal flood victims&nbsp;&nbsp;WAVY.com",
       "source_name": "WAVY.com",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZGtieXhfMjFpcFl6TEp5LXNlREF6LTJTVjlsdHZIZHJpaWprcWs1QzJqZDVaQnd5M3l5WW5wYUNkdTcteUp4cWF2Z2JfbWVCVmhiSUgxNXRkOWN0alZJd1ZWLVJxSUNZM2hNU1JYV2NkcGMxV3pfaFdGc2lJTzVrOTF3bUVzRHJMZlMzLUpvSjktYkU0dGRoSE5mSzJvZ9IBowFBVV95cUxOQmhyS1d5T3M4SmRnS3lnV002RHpGR2tjN3hMOTRVY29HWGFISEJwRmdOU3NlU0NqeUJmLTV0UXpybzVGajNDNzJoalA2N0UxUHR4X0ZJRWFrTDFuYjZabU9VOHNkT0h4eUtQWi1uUDZUUmxqU0FmeThZSndXanJIaG15X1FTWE1hVEpXVTJ2SVR4dTNKZFMzNGRlUWQtX2wtbnB3?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbG5BeHF2UlhKS3Y0TW92dWtEYXVEQzh1T2xnX0E1d1FnTU9XUDQ1MzNzal9BSGRpMnJ3OVFLZzNrX2VoTHpFbWQxYm8zTng5WlZ5S0lTM0JfeGZTYzdrMVFBR3lTQVZGbHZIWkpZRFJ4WVhSNnFUMlU2T2JOZnVKSUdtR1VhSm5scmNTTnZWVUx1aGpJYWZ2dkVlY9IBoAFBVV95cUxQWWdnY3FrWS0tcWdsdGxnRVNxYTVLWVIxcmdnYkhaQXNzOElYcW5lZ28wY2labEUyaE5jOE9Fazd5QlNTNlo1Mi1WMFhNalI5bDUtOUVpMU4tNlp4RU0tVGR5a3QxVUk2Ym5ia1lDdnk2ZDZ0a1FJeTEyemE3Xzg5YU9RUjhieE5sZ3BZTE1UQjZfYUQyN1ZTM0dRM3FFOW9L?oc=5"
     },
     {
       "id": "news-disaster-1c62773445",
-      "lat": 38.92436,
-      "lng": -77.07564,
+      "lat": 38.93972,
+      "lng": -77.00507,
       "title": "'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe",
       "category": "DISASTER",
       "time": "2026-08-30T18:53:53Z",
@@ -155,9 +166,31 @@
       "source_url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-disaster-0045daf1a9",
+      "lat": 53.95923,
+      "lng": 27.55122,
+      "title": "Rescuers battle floods and debris as Himalayan disaster death toll nears 800",
+      "category": "DISASTER",
+      "time": "2026-08-30T18:50:20Z",
+      "summary": "Rescuers battle floods and debris as Himalayan disaster death toll nears 800&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5"
+    },
+    {
+      "id": "news-disaster-a3e5d8e604",
+      "lat": 36.41583,
+      "lng": -116.95664,
+      "title": "Death toll nears 800 in Nepal flood disaster",
+      "category": "DISASTER",
+      "time": "2026-08-30T18:45:29Z",
+      "summary": "Death toll nears 800 in Nepal flood disaster&nbsp;&nbsp;Central Oregon Daily",
+      "source_name": "Central Oregon Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcWtwb2ZzVURzelNhMW95elBPOXRLdlFqTHFEN1lMVDBIQXhINm1UWXJ1OEtBcHFEeDdMWmN4NkxSeG5fa0JBenlfR0hxRzdLbnRVS2EtRkdtQzBrTFRDTk03d2lUOE00T0lfU2pTdEY1Ml9zNEZZT2xvb2RiN2l0TC1sSU5FMjJuZVZjMWs3M0JJa2dDSHlOVEFZN1VhWGllbkhTWmxNSmNVMVlrT0lpY3lrOExSNTJEb1JLS2pyNTNVUzN4TzhDRGhwd1NPYmptSVZNdEg0aWpnV3pFcTRUeA?oc=5"
+    },
+    {
       "id": "news-disaster-b52836993b",
-      "lat": 53.36135,
-      "lng": -6.18261,
+      "lat": 53.34189,
+      "lng": -6.2005,
       "title": "Fifteen Britons among 261 foreigners missing in China after floods",
       "category": "DISASTER",
       "time": "2026-08-30T18:05:00Z",
@@ -166,42 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNS1Ga3VqYzRrQmZ4c3lDSTgxdGRzS1pYNWR6cnhmWHBneW9laklFeUg5aXdla19HTkJsZEhxaXRxTHF4RXpJZEh5eFVWZmZ1Qng5SWphUmJ1b1U0ZnVNQ0RhRnJuZEFhbWh3el9nOGs5Z2NZYUxZdUhTYnFnaWROU3BrNjc2VmJaM2YzbkNxM3Z4N2JqOHQ4SU9xLWRUUQ?oc=5"
     },
     {
-      "id": "news-disaster-41aeb926c7",
-      "lat": 37.30338,
-      "lng": -78.7368,
-      "title": "Flood threat continues across the Southeast as tropical downpours soak the region",
-      "category": "DISASTER",
-      "time": "2026-08-30T17:53:00Z",
-      "summary": "Flood threat continues across the Southeast as tropical downpours soak the region&nbsp;&nbsp;FOX Weather",
-      "source_name": "FOX Weather",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOTYtS2hXb1YyTVl0LUpaVFZjMS1BQllCVXFDcW5DM1pBcmZrTnlfTUtUMmFPUzFrdEt5UVlpNDJuQWw4NDZvVjY1ejNDN3A3TWMtcDVXWmhWcmhjLWdjRll3cGEwMURUa3ZsU3dKMEZpeklvVnY1dWVVcFl3SjA4b3hXWFFtR3VJ0gGOAUFVX3lxTE44Z0R4ek5jWjNLaXdCN25EQU5FSkRzeFVhbURXcUFfN1hkWnBmSWkyanNzZzc2WnhZNTU4QlNxNFNsdERzVEVFOU41NGp4eXRNVXZEcy04Q2lMWUJMdEloT0tqRHJLWjFzMTduVDFKZUJDNndCX1dSaDJmM2dXV1hkSTkyVWVHTzdQODQzZHc?oc=5"
-    },
-    {
-      "id": "news-disaster-9f72f8f750",
-      "lat": 0.26698,
-      "lng": 32.57773,
-      "title": "Headteacher saves 900 children from deadly flash flood in Nepal",
-      "category": "DISASTER",
-      "time": "2026-08-30T17:50:00Z",
-      "summary": "Headteacher saves 900 children from deadly flash flood in Nepal&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnpKcm1Hb2hUcE1oZWJnN3BDTC05Wkx1UGFnTlUzM2ZjZGdpaV9qMzRoMHdJMjVfSzAtdG1SNUY0Yk1jZHF2ZnZ6SG5feVkyRGZWdFQ3RkN2c2VZS2E1OXd6ZU1JLTNBVUgwazJFRzk4OEJKb0ZheldXbzFJWHk5WHliWGZSdUw0MnFMSVFCZmZVX2Rn?oc=5"
-    },
-    {
-      "id": "news-disaster-90771f3c09",
-      "lat": 48.42133,
-      "lng": 5.52736,
-      "title": "Grand Canyon flash floods prompt rescue of 62 people",
-      "category": "DISASTER",
-      "time": "2026-08-30T17:50:00Z",
-      "summary": "Grand Canyon flash floods prompt rescue of 62 people&nbsp;&nbsp;Newsweek",
-      "source_name": "Newsweek",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUM3UThSeTFaSU5mZmtrLVBtSDN4Q2FlM0Uwb0hWVzNwWHVrNDhqSUdEX2J2dEMtLURNLTh4VUhpVEhNVmhSbzJQUjFYTkVGQjA4cG1obmdhblVDcHVVYWUzVWtyVGZYXzZkWlJ4eVVSTTNxdDd1YzZVOW1vM2RwMWZkemJGN0ViNXlXbUdjX2ZpSi1fQzVtM3dn?oc=5"
-    },
-    {
       "id": "news-accident-3d6b8590fe",
-      "lat": 33.40333,
-      "lng": -112.02611,
+      "lat": 33.50055,
+      "lng": -112.03777,
       "title": "How Phoenix car accident lawyers identify the factors that led to a crash",
       "category": "ACCIDENT",
       "time": "2026-08-30T19:08:19Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-1ef6e1f124",
-      "lat": 33.58941,
-      "lng": -101.78773,
+      "lat": 33.56363,
+      "lng": -101.79418,
       "title": "2 people killed in motorcycle accident on Interstate 74",
       "category": "ACCIDENT",
       "time": "2026-08-30T19:07:00Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-2a9ea697b3",
-      "lat": 34.96272,
-      "lng": 135.65494,
+      "lat": 34.92307,
+      "lng": 135.65076,
       "title": "原発事故、対象外避難で被ばく量増加 ５～３０キロ圏、屋内退避と比べ コンサル試算",
       "category": "ACCIDENT",
       "time": "2026-08-30T19:00:00Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-ea0bc6b1d5",
-      "lat": 39.63157,
-      "lng": -79.36338,
+      "lat": 39.5953,
+      "lng": -79.30197,
       "title": "Accident With Injury On I-70 Saturday",
       "category": "ACCIDENT",
       "time": "2026-08-30T18:00:18Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-7b5538fbe6",
-      "lat": 35.65408,
-      "lng": 139.80292,
+      "lat": 35.72464,
+      "lng": 139.73316,
       "title": "スタントマンが事故の怖さ再現 世田谷・交通安全催し ／東京",
       "category": "ACCIDENT",
       "time": "2026-08-30T17:00:37Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-50cc3a6dc3",
-      "lat": 11.60719,
-      "lng": 104.82999,
+      "lat": 11.5639,
+      "lng": 104.86077,
       "title": "Community rallying to support 8-year-old seriously injured in Pike County crash",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:59:00Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-368a151612",
-      "lat": 35.6129,
-      "lng": 139.56875,
+      "lat": 35.53129,
+      "lng": 139.50426,
       "title": "インフルエンザ様疾患による学級閉鎖等の報告状況（2026/2027シーズン）",
       "category": "DISEASE",
       "time": "2026-08-30T15:07:48Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.7643,
-      "lng": 106.70196,
+      "lat": 10.79203,
+      "lng": 106.72183,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.07173,
-      "lng": 106.23614,
+      "lat": 10.06664,
+      "lng": 106.27984,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.76646,
-      "lng": 139.88678,
+      "lat": 35.69535,
+      "lng": 139.90658,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 41.07186,
-      "lng": 29.01346,
+      "lat": 40.99459,
+      "lng": 29.02217,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.87701,
-      "lng": 131.36566,
+      "lat": 31.88681,
+      "lng": 131.39675,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -332,19 +332,19 @@
     },
     {
       "id": "news-technology-f1d4ccbfa8",
-      "lat": 6.17511,
-      "lng": -10.43896,
+      "lat": 6.18323,
+      "lng": -10.4269,
       "title": "When Do Travelers Trust a Travel Advisor Instead of AI?",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T19:13:32Z",
+      "time": "2026-08-30T19:14:05Z",
       "summary": "When Do Travelers Trust a Travel Advisor Instead of AI?&nbsp;&nbsp;Santa Clarita Valley Signal",
       "source_name": "Santa Clarita Valley Signal",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnRxbUd3T1YzdXAydnU5VnZoNlRhZVVNX0JUM3g5d1hYVUJSU0xTTmRFRC1oLWx6Y2hEQXQ5VUxJellRNl91cW9MaTByUGFOZFRvZ2Y3S1NMTHVMalY3RnJYNHBqMTNRM3ZpdEl1V3I1UDdxUG1saXhWZVhOdnZzbmZLel9POVZXTFN2Rlp3?oc=5"
     },
     {
       "id": "news-technology-aae2f397a6",
-      "lat": 49.06805,
-      "lng": 6.11986,
+      "lat": 49.08164,
+      "lng": 6.23017,
       "title": "Meta Says AI Didn't Do The Firing. Ex-Employees Say Otherwise.",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T19:08:32Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-78cfa3a815",
-      "lat": 35.21702,
-      "lng": 129.08784,
+      "lat": 35.23414,
+      "lng": 129.04338,
       "title": "School district invests in AI robots for classroom learning",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T19:06:00Z",
@@ -365,8 +365,8 @@
     },
     {
       "id": "news-technology-23cbecec61",
-      "lat": 35.66761,
-      "lng": 139.75425,
+      "lat": 35.65333,
+      "lng": 139.77026,
       "title": "Ｓｔｒａｙ Ｋｉｄｓ 海外男性アーティスト初！国立熱狂 ワールドツアー「〈ＲＵＮ ＩＴ〉」東京公演、２日間で１４万人動員（デイリースポーツ）",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T19:05:17Z",
@@ -376,8 +376,8 @@
     },
     {
       "id": "news-technology-29ade9c46a",
-      "lat": 2.98764,
-      "lng": 101.78742,
+      "lat": 2.97278,
+      "lng": 101.76208,
       "title": "Sony Music and Warner Chappell sue Anthropic over AI training",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T19:04:48Z",
@@ -387,8 +387,8 @@
     },
     {
       "id": "news-technology-df518b2f61",
-      "lat": 35.92774,
-      "lng": -80.29921,
+      "lat": 35.89956,
+      "lng": -80.29643,
       "title": "Welcome to the Don’t Ask, Don’t Tell AI Economy",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T19:00:01Z",
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T19:18:37Z"
+  "updated_at": "2026-08-30T19:33:29Z"
 }
