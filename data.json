@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-7d74ce1c07",
+      "lat": 51.43822,
+      "lng": -0.11546,
+      "title": "Review: OnStage Playhouse’s ‘Mensa’ a smart drama about politics and listening - San Diego Union-Tribune",
+      "category": "POLITICS",
+      "time": "2026-08-30T00:01:05Z",
+      "summary": "Review: OnStage Playhouse’s ‘Mensa’ a smart drama about politics and listening&nbsp;&nbsp;San Diego Union-Tribune",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjJtSTJFeXVaam93bFBadExScXdXRXRxWWZjRWl0eGVtdGFSVEdfbjdXNVJtSG5ndC1YU01sUlpmMktCSUFhdkp0b0l6UFh4aXowN1ByY3A4aV95RW1fZUJFVDUtNldic0dvSFQ0Nm9yLVpmZmJodFB1d1BfN2lMSkVoRlNxLXBpRXVVTG1IUEhVZzhxZzgtekhNMU95a0dTWGp2QW51V2N0czA0a0JSZ1ZJaGNucGJVZWluYXpEMm0?oc=5"
+    },
+    {
+      "id": "news-politics-c07d08f3ef",
+      "lat": 60.73732,
+      "lng": -148.80865,
+      "title": "Tom Begich suspends Alaska governor campaign, endorses Kreiss-Tomkins",
+      "category": "POLITICS",
+      "time": "2026-08-29T23:45:00Z",
+      "summary": "Tom Begich suspends Alaska governor campaign, endorses Kreiss-Tomkins&nbsp;&nbsp;Your Alaska Link",
+      "source_name": "Your Alaska Link",
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSjFkMFdSZ3VpVm1LTjJyQzF2WGpBVmtQNElCdkNhUlktV1psa2tDbHlZaUhOODZYX2tOcDJNbWpyWkNBWXhmS2hBRzVsSlRFSFctUzcxZWU5djg0Z3ZlNlhFWjBwaVF1c3BhQ210UV85YVpXZUkwSkg2V3FHc2FfNWtfVHhrWGo0cjhKY3Znenc0OUdQNFFoMVdhV2h2SEVaanNUZzRyYklpS29hc2hKa2VOa19TWHFzcHdpbmRGSnJYWGVjczN5Q0ltOHBQNjRteTdoYV93TUdKNm5qcXg2NmVNT0ktQXJ0M0Qtcm0xQk15dVhDZlE?oc=5"
+    },
+    {
       "id": "news-politics-c7659847e8",
-      "lat": 41.07651,
-      "lng": 38.92776,
+      "lat": 40.98385,
+      "lng": 38.98416,
       "title": "Civil rights groups make urgent plea for voting rights in DC, ahead of midterm elections",
       "category": "POLITICS",
       "time": "2026-08-29T23:00:00Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-7d6f715f48",
-      "lat": 40.68803,
-      "lng": -74.01699,
+      "lat": 40.76848,
+      "lng": -73.96723,
       "title": "Milo Yiannopoulos, Right-Wing Agitator, Deported Home to U.K.",
       "category": "POLITICS",
       "time": "2026-08-29T22:47:27Z",
@@ -24,8 +46,8 @@
     },
     {
       "id": "news-politics-c06ee050ab",
-      "lat": 39.62639,
-      "lng": -76.5941,
+      "lat": 39.70895,
+      "lng": -76.56465,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "POLITICS",
       "time": "2026-08-29T22:40:51Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-df3d4396a5",
-      "lat": 10.38185,
-      "lng": -66.99671,
+      "lat": 10.41171,
+      "lng": -66.93255,
       "title": "Oil deal with US is denounced by both sides of Venezuelan politics",
       "category": "POLITICS",
       "time": "2026-08-29T22:38:56Z",
@@ -45,31 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHpmUGw2R1pnVzdtVEFzUTh1TmFhcV9GcjJYeXkxcktyTDctVkExODBfY3pZdDlJVTVEUHlkNjMtOUJGekJkdmdRUl9GbDBBQjh0RF92dU9VdGFJUjRydHYxSFh3S1dnd0U2eUhKWnhkemVJYlhkd3VRbXFValgwMXRLNjY?oc=5"
     },
     {
-      "id": "news-politics-e349fb54cf",
-      "lat": 34.09598,
-      "lng": -118.37467,
-      "title": "衆議院議員・河野太郎「『公約だから』で間違った減税にひた走る。それで政治の責任を果たしたと言えますか？」（週プレNEWS）",
-      "category": "POLITICS",
-      "time": "2026-08-29T22:37:36Z",
-      "summary": "衆議院議員・河野太郎「『公約だから』で間違った減税にひた走る。それで政治の責任を果たしたと言えますか？」（週プレNEWS）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ER1p3dFlqVFhCaENkRExjWUZXQ0xoei15V3hIUVJwSEpDbElkMXlncUJuRFJ4NFB2dFBZRG4xcnNGOUhacXp6VXAzWlNSSG14MmluNVNwZmZzZXkwVE1qVDJ0WVNfSmFBbUx0Vm5URGtlVktBVFZha2s2TDZiREE?oc=5"
-    },
-    {
-      "id": "news-politics-a8433bab8f",
-      "lat": 38.85422,
-      "lng": -77.05802,
-      "title": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews",
-      "category": "POLITICS",
-      "time": "2026-08-29T22:35:51Z",
-      "summary": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTm54ZVV4YzBUcDdrYXZjcnFMN19Dc2J2ZGQ2SkpCbnlKVjJja0x5b2xuMkRjOVM3aEpaUnRIdEtmTVY2dWxaY1FFb3ZMUW1RQkk5eHN2LWU2NjNyQnNkWTVydDdnSTRjcHBDU2VjUktBSUFuenZlel9aMFE4anpzdUJBckE0RGUxejJSa0N1aHhiOVJCS2VBVkw2Rl9SblV0Q01tZUhuVWVCMlhoWlpWVzFiNXdvWHNXVXJBZw?oc=5"
-    },
-    {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.68282,
-      "lng": -76.55097,
+      "lat": 39.70507,
+      "lng": -76.59494,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T22:40:51Z",
@@ -79,19 +79,19 @@
     },
     {
       "id": "news-finance-b7e2b6e0cb",
-      "lat": 40.71679,
-      "lng": -74.02549,
+      "lat": 40.66306,
+      "lng": -74.05536,
       "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
       "category": "FINANCE",
-      "time": "2026-08-29T22:22:31Z",
+      "time": "2026-08-29T22:22:32Z",
       "summary": "Treasury Bars Some Reporters From G20 Finance Meeting&nbsp;&nbsp;The New York Times",
       "source_name": "The New York Times",
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGJ5VDNjaTdCWHJCaFhCM2JlMC0tNlFIN0E0UzJNZG5vNGk2dWpYenpYRVdESjlOc2hsVXFReURMQ2dkSFUwWGR5VVRIbElrUUh5YXRtdHpBTGd0a0ZxUjRwOU41ODFsZDdrMXJqY19QX1pLbTFKQjFia3p5Y1JXMnI1MA?oc=5"
     },
     {
       "id": "news-finance-75d28925f4",
-      "lat": 43.04123,
-      "lng": 141.39104,
+      "lat": 43.03438,
+      "lng": 141.34763,
       "title": "【最新FX・為替ニュース生解説】2026年8月31日～9月4日 YouTubeライブ配信スケジュール｜リアルマーケット分析",
       "category": "FINANCE",
       "time": "2026-08-29T21:00:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-401f425c1c",
-      "lat": -28.5279,
-      "lng": 153.3166,
+      "lat": -28.59216,
+      "lng": 153.34311,
       "title": "Protesters line Merrimon Avenue as G20 finance ministerial comes to Asheville",
       "category": "FINANCE",
       "time": "2026-08-29T20:41:54Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-75caac2b74",
-      "lat": 18.59225,
-      "lng": 77.09257,
+      "lat": 18.61417,
+      "lng": 77.12745,
       "title": "Viral SEO Launches AI Assistant for Google Search Console Insights",
       "category": "FINANCE",
       "time": "2026-08-29T20:07:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-1f723793e4",
-      "lat": -12.06918,
-      "lng": -76.99928,
+      "lat": -12.05972,
+      "lng": -76.99935,
       "title": "東邦亜鉛、1カ月で4割超上げた株価が当日は反落。2026年3月期通期は当期利益が黒字転換（LIMO）",
       "category": "FINANCE",
       "time": "2026-08-29T20:05:12Z",
@@ -133,9 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uQXE4eW40Wlp0N2J6ay1sZlJhRTExQnBpSU11YnozRjYtZFI5X3NMOWFqc1hVaXdFR3RoZ3d3b091OUZTTHB4VlRMXzlWa0pxYlVZWFVhWnNnb2VJWHhtVlA2Si1lWExGMlA0VXZScWFqWVlvOVFIT1VqM01oRTA?oc=5"
     },
     {
+      "id": "news-disaster-60cde604c4",
+      "lat": 27.69783,
+      "lng": 85.38404,
+      "title": "NC Nepalese community rallies after deadly Nepal-Tibet border flood",
+      "category": "DISASTER",
+      "time": "2026-08-29T23:55:40Z",
+      "summary": "NC Nepalese community rallies after deadly Nepal-Tibet border flood&nbsp;&nbsp;ABC11 News",
+      "source_name": "ABC11 News",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXMzXy04dmhNdUhwMWtBcV9sZE9hYm0xMXd5b2RrRmlSMTIwYmRYcXBPVGlaR3NoMHRSeE5tQTRTOThzZzJSMU50ejZkb3ZUeUM4SU8yWDdOdFdZYVpwZm1UWVhDS2tCTzFXUmg5dVZFU2o3U0VaaVVrTkNsSEs2ZkxhRjBMUjBDNmoyZ19BalJob0JDRjFTaC1n0gGfAUFVX3lxTE9LVk9vNFAxalEyOGtmYUtZQUJHVFkwWEtvLTZPUGRraTVYenhPZHZ2OVV2N1I4SmtCWGpQeGNxWW01UWQydHUxMm9IY21vQmNkNG9DSU9GNllTUVczc2JXNjU2UURvMDhnVk1ycG5KdW9HTWFqdjY1NGMycUFmbUZCclphTFFLOFh6STJYM0pJQUdDYkF2bE5BSnNDSjU1cw?oc=5"
+    },
+    {
       "id": "news-disaster-2caa9373eb",
-      "lat": 34.8951,
-      "lng": 135.14197,
+      "lat": 34.91984,
+      "lng": 135.14273,
       "title": "総雨量400ミリに迫る 少ない雨でも土砂災害リスク 加賀で未明に線状降水帯直前予測（北國新聞社）",
       "category": "DISASTER",
       "time": "2026-08-29T23:42:41Z",
@@ -144,9 +155,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43elZHVHNYU1pqdHgza2VEa2NYN3dHT3pGcUhVcHJiSmNtVU04N28xMm1RdDRURlZGZWcyempGVEdTb29WQzBGNlBOdHIwQzhrcG4zTlF5a0JnXzBUU0FOMzRPVm1uWHBtb3RDSmFsdmxET1pXeXd3VHBKMUFCTzg?oc=5"
     },
     {
+      "id": "news-disaster-8bc3fb34ed",
+      "lat": 35.723,
+      "lng": 139.73389,
+      "title": "【防災気象情報】レベル4土砂災害危険警報：福井市、大野市、勝山市、鯖江市、あわら市、越前市、坂井市、永平寺町、越前町 レベル4大雨危険警報：坂井市、永平寺町（2026年8月29日掲載）｜FBC NEWS NNN",
+      "category": "DISASTER",
+      "time": "2026-08-29T23:29:00Z",
+      "summary": "【防災気象情報】レベル4土砂災害危険警報：福井市、大野市、勝山市、鯖江市、あわら市、越前市、坂井市、永平寺町、越前町 レベル4大雨危険警報：坂井市、永平寺町（2026年8月29日掲載）｜FBC NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+      "source_name": "日テレNEWS NNN",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFJ4ME5GZy1FVUR6SnFpOGNiVXdxb0x4X2ZyazRONmVlRzRrMkM4aU4tZV9BS21Ucl9CbzZFbnE3UWdneFNWUXNKN1NhWjZ1R3dYS2RjTm5MdDlVZFJiWWNTR1VBS0czZHRHaEFGT2d6VHhycGNQZjNpd2R6ZXFxWEMxamNWbG8?oc=5"
+    },
+    {
       "id": "news-disaster-d5fd2b1fe7",
-      "lat": 35.68078,
-      "lng": 139.71142,
+      "lat": 35.71457,
+      "lng": 139.77464,
       "title": "【レベル４土砂災害危険警報】島根県・出雲市に発表 08:13時点",
       "category": "DISASTER",
       "time": "2026-08-29T23:13:00Z",
@@ -156,8 +178,8 @@
     },
     {
       "id": "news-disaster-dbb0600fce",
-      "lat": 40.65857,
-      "lng": -74.04747,
+      "lat": 40.66076,
+      "lng": -74.00957,
       "title": "‘The world needs to pay attention’: Nepalis and Tibetans in New York City respond to the Himalayan disaster",
       "category": "DISASTER",
       "time": "2026-08-29T23:07:00Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-b012c5c906",
-      "lat": 28.34659,
-      "lng": 84.01703,
+      "lat": 28.38788,
+      "lng": 84.00269,
       "title": "Nepal flood death toll surpasses 600, with more than 3,000 missing, as poor weather hampers rescues",
       "category": "DISASTER",
       "time": "2026-08-29T23:06:20Z",
@@ -177,31 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTGJUTWZJUTI3S3FUSF9oSGFIVnNxQzhWVDZ3eUMzbnRjcGtJZFJJbS1TZnpveGFkOHIydU9iRlk5VE56UGJmNkY0OWloaWlKaEY5WG5jWkUwakVMUFlUSmNvOFhsb3llVkJ4QzZKaWlBTEVLR09mZG1FaHdhNkNaajgtOEg?oc=5"
     },
     {
-      "id": "news-disaster-904c163ff7",
-      "lat": 32.80305,
-      "lng": 130.74711,
-      "title": "熊本地震 3自治体の職員2割余が“高い疲労の状態”",
-      "category": "DISASTER",
-      "time": "2026-08-29T22:38:29Z",
-      "summary": "熊本地震 3自治体の職員2割余が“高い疲労の状態”&nbsp;&nbsp;NHKニュース",
-      "source_name": "NHKニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMODFxb1NXUlpSRmdjbW5iVkpia1dpQnFKNDBYVkU0U3lGRE5QTVM0LTNCWDFMR040MVh5YS12Q2NXdlpjazN5dWNyakFTNWQ4ZnVfN2tCU0M1bmdibUhJ?oc=5"
-    },
-    {
-      "id": "news-disaster-d8ba001b9a",
-      "lat": 37.35752,
-      "lng": -89.66452,
-      "title": "浸水したエアコン室外機が出火原因に 地震・水害時の二次被害を防ぐ",
-      "category": "DISASTER",
-      "time": "2026-08-29T22:30:00Z",
-      "summary": "浸水したエアコン室外機が出火原因に 地震・水害時の二次被害を防ぐ&nbsp;&nbsp;朝日新聞",
-      "source_name": "朝日新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PNlR0VXFMTXBVajBJclFUX0Q2MGRIcUpwUDdTdHZZeUZNS21jVE50YmdBWUFpRkdIRkE4VFhmRjhqZ2VleVpoLVRIcnpBUGtqajhqYldrdGtEY0diUjVYMHgzcHZpRjA?oc=5"
+      "id": "news-accident-0c4172c97a",
+      "lat": 31.62687,
+      "lng": 130.51705,
+      "title": "高校生1人・中学生2人が死亡 いちき串木野市沖で水難事故、波1.5mで遊泳中に行方不明【鹿児島】",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T23:42:00Z",
+      "summary": "高校生1人・中学生2人が死亡 いちき串木野市沖で水難事故、波1.5mで遊泳中に行方不明【鹿児島】&nbsp;&nbsp;FNNプライムオンライン",
+      "source_name": "FNNプライムオンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WSGVJX1dhNEhRSWtxRFFUdHo3MDI0UW5sTWtidEd6ZXJNMm1EMjFBT2lfOGhTWVdGMC1fZ0pZVkFqSGhETUk1VlMzZkNHUQ?oc=5"
     },
     {
       "id": "news-accident-bd1c73e8fd",
-      "lat": 38.90247,
-      "lng": -77.01779,
+      "lat": 38.91474,
+      "lng": -76.99346,
       "title": "Jackson man, Polk woman killed in Washington Co. motorcycle crash",
       "category": "ACCIDENT",
       "time": "2026-08-29T23:12:00Z",
@@ -210,9 +221,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUU9RVWJCNnVoVURzb3RUaDVaUDlrMUJXTzhNNHo0S1I1Ny0tNVAtN3lObWRqX3JubWgtVU9TTDZiSVBub1cyYTg0X3hMVmkxdFdUYWtYSVdFYWdRZy1TbXpyVGpwRnVkMVhfdXZiWS1jcFhjb2RNM1dncTRfUXY0SGF4a1NNVS1ZWVZhbUpDekJIYmtlMGg1Wlp6bUpmNHVpeGYw?oc=5"
     },
     {
+      "id": "news-accident-e4b4ad8f6e",
+      "lat": 59.05907,
+      "lng": -135.13333,
+      "title": "Prayers and donations sought for family after tragic accident",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T22:49:00Z",
+      "summary": "Prayers and donations sought for family after tragic accident&nbsp;&nbsp;starvedrock.media",
+      "source_name": "starvedrock.media",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd3daT1RkUkhhbnZ6TEk5VkJjanlETnljWEZ0X0o0NVFXbnJVOFRjbUhlUGRRektFd091NTIwREtNVExiNU9vWmNZSnB4WUh6aDBWUmVPTlRiamFTd1BId1gyTlRtN2R4Sl8wQllVaTZaNFItYjRKa0UtbE0tYmxzZjFnNEJvRFlidnlaQUdRQ0QxRHNNNDVhNVc0ZklYSTNQdmNDc19vcU9ReUdrcVo1NmlRVlprWG0weDZQUFFkajhUOTNTM2I5LWJQdjFNM1YxX3FSa25YbEM2NFRaMGZr?oc=5"
+    },
+    {
       "id": "news-accident-dc057338a8",
-      "lat": 38.23213,
-      "lng": 140.90153,
+      "lat": 38.21875,
+      "lng": 140.91236,
       "title": "テスラ今度は木の切り株に激突しイーロンマスクもショック 人間の遠隔操作で事故",
       "category": "ACCIDENT",
       "time": "2026-08-29T22:42:33Z",
@@ -222,8 +244,8 @@
     },
     {
       "id": "news-accident-b8089e63ff",
-      "lat": 34.69875,
-      "lng": 135.2059,
+      "lat": 34.63667,
+      "lng": 135.22332,
       "title": "【要確認】アンダーパス冠水で死亡事故 全国102カ所を点検【神戸市北区】兵庫県議会議員 大塚公彦",
       "category": "ACCIDENT",
       "time": "2026-08-29T22:16:18Z",
@@ -233,8 +255,8 @@
     },
     {
       "id": "news-accident-683952ebd5",
-      "lat": 53.40743,
-      "lng": 7.1736,
+      "lat": 53.37126,
+      "lng": 7.2276,
       "title": "「水流の影響を大きく受けます」 水難事故を防ぐために警察が注意喚起 危険視される定番の服装とは（Hint-Pot）",
       "category": "ACCIDENT",
       "time": "2026-08-29T21:58:50Z",
@@ -243,31 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GM05weGxvRFNZX0tLaVU5SU5oVWp1STdmeWxLRTFzbmZFQXpQRENBZnhCR0tLMlJ6UEFFMUxoWXNZT2dJSlJhYzZmdnVQZ1g2T01xR1ZRX1FGNXJhSnBudnVhRk1KRExXaU5UZzV4NW9QclZ6MzZDT3lYTjJiQmc?oc=5"
     },
     {
-      "id": "news-accident-908047562f",
-      "lat": 39.83536,
-      "lng": -105.79169,
-      "title": "Witness describes fiery I-22 crash that killed 2 young children in Marshall County",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T21:41:17Z",
-      "summary": "Witness describes fiery I-22 crash that killed 2 young children in Marshall County&nbsp;&nbsp;WREG.com",
-      "source_name": "WREG.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTVzOHg3akk5eDVlTzg0dGFIcE5IZTEzTm5WRXdLdVlhWHlsWUIxb21TM3kwY0JmS2dLR0lRZ0RCOGVFRElBYUtXM2xDaHZvbUhFUjQtdnNVN2xhdmtOc202LUxPLV9GcllFbGtJdmtINHphVlZYUUI2X25oTUFZdUFDNG1oQm5vVF9IellfZnBHQkpybVF1RXRaYmppeGFEOE04VktIdk1ielY4NFYwY9IBtgFBVV95cUxNaU11NW11S1N0SlhBbjZsMmdyQndYMFhwNEVIWXRTSGwtdlBNMFhZa1RYUjZkbE02NWRZdExVbmFITUZMazlha2FOWm5TTHQyUjJVQkNmckUzUFR1M3h2MzdqcnhFaDFySXJjUHlLbGhBTDItb3N5c01URUhQMm1xdE1LZmRqTzdEZldMV0dTV1RlUHpqTmVHTmtRU2Nmczc0MTJfVlpFV0NLMGh6SWhaUnkzRjB6QQ?oc=5"
-    },
-    {
-      "id": "news-accident-09edb75014",
-      "lat": 39.89703,
-      "lng": 32.85552,
-      "title": "「これって放送に耐えられるんですか」亡き妻と娘の遺品に触れて嗚咽、同席したカメラマンまで涙…《池袋暴走事故》TBS記者が驚いた「すべてをさらけ出す」遺族・松永拓也さんの覚悟",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T21:30:00Z",
-      "summary": "「これって放送に耐えられるんですか」亡き妻と娘の遺品に触れて嗚咽、同席したカメラマンまで涙…《池袋暴走事故》TBS記者が驚いた「すべてをさらけ出す」遺族・松永拓也さんの覚悟&nbsp;&nbsp;文春オンライン",
-      "source_name": "文春オンライン",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4cEdqc0RlOWlBNUgzTm1lVHdkYkpSUDlHZDhsN3JUb1lEOVJDbUYxZlBVa1RoQUlzZEYyUVY3SFlxdGNDd29qZkNKcw?oc=5"
+      "id": "news-disease-5e335ddc69",
+      "lat": 34.05674,
+      "lng": -5.00087,
+      "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
+      "category": "DISEASE",
+      "time": "2026-08-30T00:00:00Z",
+      "summary": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表&nbsp;&nbsp;Newscast.jp",
+      "source_name": "Newscast.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85eVVIdVpsNUZMYTc3T1BZd3BXRE1iM2pLR1JQRnlEYnI5YTdiWk0yZGdFdXV0QVJIVW5kRzhGWDRPT294SVJ3amxDMUZzckU?oc=5"
     },
     {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.23455,
-      "lng": 66.15213,
+      "lat": 34.2817,
+      "lng": 66.13933,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
       "time": "2026-08-29T21:14:00Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.96603,
-      "lng": 4.60747,
+      "lat": 46.96045,
+      "lng": 4.64973,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.98215,
-      "lng": 4.66815,
+      "lat": 46.98444,
+      "lng": 4.586,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.73626,
-      "lng": 139.46671,
+      "lat": 35.76501,
+      "lng": 139.50718,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-70e971d58f",
-      "lat": 34.87872,
-      "lng": 135.54029,
+      "lat": 34.7978,
+      "lng": 135.55303,
       "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
       "category": "DISEASE",
       "time": "2026-08-29T04:26:01Z",
@@ -320,31 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3N2WlItSElNVElOV3pKVDliWFA3VmYxWW1UdHQ0dzBZSzFManNWUTJzQU9pYm1XNDZlTlh1bjBqVW5wLXBueGxfWWVISHh2am5IYVZ5UmpVMU1rNTF2dEdOZjJwbTY3NjZpOTVEbGFNZVFBbXI3RldOMlVkOTZETkdyaTFWNXJ4eHdWVUt3?oc=5"
     },
     {
-      "id": "news-disease-4c01ddd588",
-      "lat": 35.72923,
-      "lng": 139.72057,
-      "title": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）",
-      "category": "DISEASE",
-      "time": "2026-08-29T03:12:17Z",
-      "summary": "「子宮が出てきたんだと…」臓器が体外に出る病気「骨盤臓器脱」 数千例を手術してきた第一人者が解説《出産経験者の4割が経験》（文春オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MamM4dkZXZUZKMjJ1elRZQVhQeXZ4WmFRTHQxVXU5YXd0YzJNbmt4U0pVY09IT05SaTRWXzlqbkMxYXlnUUlwbW05UmlocDNVWTljLURQVVV1NHdDRkhVNDBOTUNpQUx6MXd6ZWE3M0VJSGFUWlllTEhqZFhjbWc?oc=5"
+      "id": "news-technology-5443741d41",
+      "lat": 35.17786,
+      "lng": 136.98765,
+      "title": "話題の匿名モデル「ox-alpha」はZ.ai製だった 「GLM-5.3-Flash」公開、中国製AIチップで推論",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T23:51:19Z",
+      "summary": "話題の匿名モデル「ox-alpha」はZ.ai製だった 「GLM-5.3-Flash」公開、中国製AIチップで推論&nbsp;&nbsp;Ledge.ai",
+      "source_name": "Ledge.ai",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52T3RrVGtweEt1b3gzV3lXVnNDLUF5VEI0Z0lOeWhxM2pLRHRWLWU3cFZkV2ZMRVhjOHhVc0VEYVF0eHladUxTejYzaS1XOF9VSnotYTItVjBJM25PSU1XVENvMERfOGVHVmlB?oc=5"
     },
     {
-      "id": "news-technology-609890f389",
-      "lat": 35.38651,
-      "lng": 139.64554,
-      "title": "「え、これAIじゃなくて？」 横浜のホテル、“世界初”コラボルームに「寝れねえよこんなんw」「新しいパワースポット」の声",
+      "id": "news-technology-8d4bdef88c",
+      "lat": -8.09045,
+      "lng": -78.99216,
+      "title": "Beyond exposure: Predicting AI adoption based on comparative advantage",
       "category": "TECHNOLOGY",
-      "time": "2026-08-29T23:39:27Z",
-      "summary": "「え、これAIじゃなくて？」 横浜のホテル、“世界初”コラボルームに「寝れねえよこんなんw」「新しいパワースポット」の声&nbsp;&nbsp;Yahoo!ニュース",
+      "time": "2026-08-29T23:48:45Z",
+      "summary": "Beyond exposure: Predicting AI adoption based on comparative advantage&nbsp;&nbsp;CEPR",
+      "source_name": "CEPR",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDZNT3VqWW9NRUVwSDA1ZmN2UGZ0blplazh4d0d1ZW43ZnV3Q1pXVVZNeEZwNkNNb3dfRDJ5Mi1kUkc2emVnZWZfenJuS1BjMVc1U0tWOEdaa0RnZGRQSVJINzY2M09TZ1JnbTlMSmdEM1JlYXFzSjBHYTBzWWtFZXpYSUQzWFRBQmtuSWJzc0Z5TWJBOHAyWDFicHJRUQ?oc=5"
+    },
+    {
+      "id": "news-technology-67130faf5e",
+      "lat": 34.65677,
+      "lng": 135.67861,
+      "title": "同じように生成AIを使っているのに成果は3倍違う…｢AIを使って結果を出す人｣が持っているスキルの正体",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-29T23:22:07Z",
+      "summary": "同じように生成AIを使っているのに成果は3倍違う…｢AIを使って結果を出す人｣が持っているスキルの正体&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ILV9tY21CMkx0TU5PR3ZNemRDTWVZYW5raXZsYnp5dlpjdmo0ZlluR3p6Yk1kR2pDVGY3dldxNTI0U1JnUGxHRkxKRmJNNTNIdTRwVHdrU0sySGU1YWxyS2c1aTM5ZDV5RzBDUDF1ajdFeDBNSHdZVHdxNUh6WWc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02VUhTdWR3YlN3MTRpNms3NlVXRGJYLTVfT2l0T0g5bjJneTMwUzd1VGJZU3Q1U1BzdHlGd2paVGhBd18zSVlaTURWYWx5R2EtT2NxTXU3SDVzOHNCc0NlZ0NWRGpQU0N4OXR6enhSZVJNQ2laR19hRTlxMWhzdGs?oc=5"
     },
     {
       "id": "news-technology-e5c8350126",
-      "lat": 51.55487,
-      "lng": -3.21873,
+      "lat": 51.63546,
+      "lng": -3.18986,
       "title": "AI’s memory stack: What investors need to know By Investing.com",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T23:18:49Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-39dd9e2e04",
-      "lat": 25.20445,
-      "lng": 55.26698,
+      "lat": 25.18877,
+      "lng": 55.30502,
       "title": "「検証！ハイライト銘柄」エコモット＝２８日にストップ高、フィジカルＡＩ活用のヒグマ対策ロボット開発へ(ウエルスアドバイザー)",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T23:18:48Z",
@@ -364,37 +386,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGN1NUdTalMyZ0gzZzA0UDJfa1lmeFdpUmtUdFVMazhzX2d2cGViWHdyVEdiV2VjRXZ3LXhad3JEUlFyWWIyQzc0M0tmaWN0WkdNcDB4eXo4U1VkX0JLWVlYNDNYeWsxQjRLaDlOMVFYWVlkZm1PTWFMYTgtNnRfMFBrbGdFOFk?oc=5"
     },
     {
-      "id": "news-technology-67130faf5e",
-      "lat": 34.70734,
-      "lng": 135.67749,
-      "title": "同じように生成AIを使っているのに成果は3倍違う…｢AIを使って結果を出す人｣が持っているスキルの正体",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T23:15:44Z",
-      "summary": "同じように生成AIを使っているのに成果は3倍違う…｢AIを使って結果を出す人｣が持っているスキルの正体&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02VUhTdWR3YlN3MTRpNms3NlVXRGJYLTVfT2l0T0g5bjJneTMwUzd1VGJZU3Q1U1BzdHlGd2paVGhBd18zSVlaTURWYWx5R2EtT2NxTXU3SDVzOHNCc0NlZ0NWRGpQU0N4OXR6enhSZVJNQ2laR19hRTlxMWhzdGs?oc=5"
-    },
-    {
       "id": "news-technology-11dbf249df",
-      "lat": 30.3184,
-      "lng": -97.71461,
+      "lat": 30.31376,
+      "lng": -97.76484,
       "title": "Visually impaired veterans receive AI glasses in D’Iberville through Meta, Blinded Veterans Association partnership",
       "category": "TECHNOLOGY",
       "time": "2026-08-29T23:13:00Z",
       "summary": "Visually impaired veterans receive AI glasses in D’Iberville through Meta, Blinded Veterans Association partnership&nbsp;&nbsp;WLOX",
       "source_name": "WLOX",
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYWEtZi1nbWhmbXhEWlJaUGJLd1kzUlRmUDFiVmp2ZWVQTy05Ml9rLWtLR1VmS0ZxeFJhY185cEt3WTRGQkR5Vm1LX1ZaVVlEa2pIRDlScVlhbDNEYVNaVjl3VVdqUnZ1R2UtTDlKM0pZdWJGcEJQX3FBMl9TTXVIYVd3WVIzM0VaR2MwY0pFeWNvM2drRkRnTzE1NmVuckZ1aFRFenpaeDJoSDNHN3dlaHhpQ2tiYnFRLVBxQk42WFl0SkhsbmVYbDEwRE1oMjc1Y3JUa3Atb0QyTXc?oc=5"
-    },
-    {
-      "id": "news-technology-3d50f34ec6",
-      "lat": 38.8516,
-      "lng": -76.96565,
-      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-29T23:12:23Z",
-      "summary": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
-      "source_name": "ITmedia",
-      "source_url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-29T23:48:35Z"
+  "updated_at": "2026-08-30T00:04:20Z"
 }
