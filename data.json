@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-4f735203ed",
-      "lat": 34.93461,
-      "lng": 138.33711,
+      "lat": 34.92419,
+      "lng": 138.44238,
       "title": "【連合静岡政治連盟政治セミナー】2026.8.29(土)清水テルサにて行われました『2026連...",
       "category": "POLITICS",
       "time": "2026-08-30T17:06:39Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "news-politics-3d3597e7d1",
-      "lat": 50.71991,
-      "lng": -4.23791,
+      "lat": 50.65888,
+      "lng": -4.28562,
       "title": "Nearly 53% of Iceland's voters reject EU membership",
       "category": "POLITICS",
       "time": "2026-08-30T17:06:36Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-83534bc972",
-      "lat": -15.41114,
-      "lng": 28.24909,
+      "lat": -15.35469,
+      "lng": 28.30847,
       "title": "Zambian opposition leader charged with treason",
       "category": "POLITICS",
       "time": "2026-08-30T17:06:15Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-78f373b69c",
-      "lat": 35.72214,
-      "lng": 139.74428,
+      "lat": 35.66116,
+      "lng": 139.71437,
       "title": "「独立の星」という芸術と政治評論のプログラムは、強く繁栄したベトナムへの願望を反映している。",
       "category": "POLITICS",
       "time": "2026-08-30T16:56:02Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-d9ab263f78",
-      "lat": -35.48787,
-      "lng": -71.61094,
+      "lat": -35.38117,
+      "lng": -71.65824,
       "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
       "category": "POLITICS",
       "time": "2026-08-30T16:48:13Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-92addc1370",
-      "lat": 64.65185,
-      "lng": 97.69834,
+      "lat": 64.66572,
+      "lng": 97.75413,
       "title": "Russia says it helped to repel Niger attempted coup",
       "category": "POLITICS",
       "time": "2026-08-30T16:33:17Z",
@@ -68,8 +68,8 @@
     },
     {
       "id": "news-finance-4d02dd85f4",
-      "lat": 35.17973,
-      "lng": 129.11718,
+      "lat": 35.14966,
+      "lng": 129.04504,
       "title": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
       "category": "FINANCE",
       "time": "2026-08-30T17:16:18Z",
@@ -78,9 +78,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/crr452d45nyo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-finance-79e0ba7e88",
+      "lat": 50.86327,
+      "lng": -109.50562,
+      "title": "〈Leader's Voice〉AIサービス、医療・金融向け照準 リコージャパン 笠井徹社長",
+      "category": "FINANCE",
+      "time": "2026-08-30T17:00:00Z",
+      "summary": "〈Leader's Voice〉AIサービス、医療・金融向け照準 リコージャパン 笠井徹社長&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VnpoN3VSUGZOQ0lZVUJ3RnFVT2JQYjNJRmRNOG0zLUlYcFJiRlV5QnlmQlpZQ0t3Zjd1QUNxcDAtT2hSSGxkWjZBNEdwdndsdEZrdkZVMjVuQXZPbFl3ZWNFMGRpeEw5RmdRQQ?oc=5"
+    },
+    {
       "id": "news-finance-b7e2b6e0cb",
-      "lat": 40.73974,
-      "lng": -73.95733,
+      "lat": 40.71447,
+      "lng": -73.96574,
       "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
       "category": "FINANCE",
       "time": "2026-08-30T16:21:00Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-9170e7d4ed",
-      "lat": 52.70007,
-      "lng": -8.58251,
+      "lat": 52.60332,
+      "lng": -8.5566,
       "title": "Engage PEO hires next CFO from fast-growing NYC firm",
       "category": "FINANCE",
       "time": "2026-08-30T16:20:00Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-1a67c029f8",
-      "lat": 43.33533,
-      "lng": 1.55707,
+      "lat": 43.36487,
+      "lng": 1.56662,
       "title": "Cathie Wood buys $53 million of popular semiconductor stock",
       "category": "FINANCE",
       "time": "2026-08-30T16:18:17Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-791be04ed1",
-      "lat": 38.83846,
-      "lng": -77.21749,
+      "lat": 38.82258,
+      "lng": -77.21557,
       "title": "DBSグループ：目標株価 @ 5.46",
       "category": "FINANCE",
       "time": "2026-08-30T16:18:02Z",
@@ -122,31 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zdmNVOXEwNEJuWVNjcWRybE9va2xLY2xzV2xLSEZWWDhNQndDVEtjSWJWOS16WlNnY3N2RnpQZU5tTkt0SDcybmhVeHQ0MF9ZdV85bWtaSTNRUkdjXzVmanNmdHJoZHlhTXE4bEF2TThEUU5rYzZfaVM4OA?oc=5"
     },
     {
-      "id": "news-finance-cbf94a44de",
-      "lat": -20.63238,
-      "lng": 161.20881,
-      "title": "Exclusive | Aon Nears Roughly $17 Billion Deal for Insurance Brokerage USI",
-      "category": "FINANCE",
-      "time": "2026-08-30T15:40:00Z",
-      "summary": "Exclusive | Aon Nears Roughly $17 Billion Deal for Insurance Brokerage USI&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYTB1SUxjSHkwbjU5NlRvMjNkQkhlVnY2ZVVRZkNkUjNGNGlsSTd2T1BuY21mR2lJNGNZRGpLeHB0SGZFUTZIVTR1Y1FkN2JxVzVjNDNVR2JNa09Ed1VsS2ZEY2NFdW9ZQ1BlYVkwMUlDeE5SU3NOUlNLME82ajkya21ud28tN29fRERkNkRMcktyRWh6LTBkVGp0VmM5cmc?oc=5"
+      "id": "news-disaster-9d714ec10f",
+      "lat": 55.78508,
+      "lng": 37.56112,
+      "title": "Insight: Before flood catastrophe, Nepal asked China for early warnings as risks mounted",
+      "category": "DISASTER",
+      "time": "2026-08-30T17:25:29Z",
+      "summary": "Insight: Before flood catastrophe, Nepal asked China for early warnings as risks mounted&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV0RNRm1FcEdvZkdNd1U1OGExWlFqeE1fdFZEa0NrbUh4ZERYN21aem1oT1pNY3VQLUw4LTJZTDBkZFVsVWg1MUt6aHEyZlB0dHZPSk9DMDJsc3c3cFRTNVlBSGYybGp5b1lvTDZTazBUaVYxd1dDMkszMWtLZEh1SDBudVdSWUdwYTZ6NnFkajlFY1gwNExOTTdvb01ZenkybkE5emVBWUdJaWRiMjJoa0ZlYjE0Ymtha2t0MkVCUktlaUNZWFo4?oc=5"
+    },
+    {
+      "id": "news-disaster-b7a50762ff",
+      "lat": -4.68145,
+      "lng": -40.02168,
+      "title": "Video Tracking flash-flood threat and dangerous heat - ABC News",
+      "category": "DISASTER",
+      "time": "2026-08-30T17:24:42Z",
+      "summary": "Video Tracking flash-flood threat and dangerous heat&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "source_name": "Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGZiVU1IaHlpcWtoNmdnVEdTcmkwTTFuTlJRMk5Qc1Nacnl4eXVsX290SmZuVFMwM29oZXhPNUNoVTVjUDJseFZxTUNtdkprWmR3ajN5WnJCTVc3RmJuSDFpdUpRdUhXeWZGTkFxU3NHcXhyZS02OW16UzMtV1dHTzZXWV9GYUwz?oc=5"
     },
     {
       "id": "news-disaster-9f72f8f750",
-      "lat": 0.28412,
-      "lng": 32.63635,
+      "lat": 0.24615,
+      "lng": 32.6034,
       "title": "Headteacher saves 900 children from deadly flash flood in Nepal",
       "category": "DISASTER",
-      "time": "2026-08-30T17:15:00Z",
+      "time": "2026-08-30T17:17:00Z",
       "summary": "Headteacher saves 900 children from deadly flash flood in Nepal&nbsp;&nbsp;The Guardian",
       "source_name": "The Guardian",
       "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnpKcm1Hb2hUcE1oZWJnN3BDTC05Wkx1UGFnTlUzM2ZjZGdpaV9qMzRoMHdJMjVfSzAtdG1SNUY0Yk1jZHF2ZnZ6SG5feVkyRGZWdFQ3RkN2c2VZS2E1OXd6ZU1JLTNBVUgwazJFRzk4OEJKb0ZheldXbzFJWHk5WHliWGZSdUw0MnFMSVFCZmZVX2Rn?oc=5"
     },
     {
       "id": "news-disaster-06276a46e0",
-      "lat": 35.17191,
-      "lng": 136.8978,
+      "lat": 35.15333,
+      "lng": 136.91793,
       "title": "熊本地震 見えた課題 街の機能守る防災へ 名古屋大名誉教授 福和伸夫氏",
       "category": "DISASTER",
       "time": "2026-08-30T17:00:00Z",
@@ -156,8 +178,8 @@
     },
     {
       "id": "news-disaster-df49d21d84",
-      "lat": 40.71319,
-      "lng": -73.96364,
+      "lat": 40.72244,
+      "lng": -74.00966,
       "title": "Photos: A Deadly Flood Tears Through Nepal and Tibet",
       "category": "DISASTER",
       "time": "2026-08-30T16:42:45Z",
@@ -166,42 +188,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBR1JNaVpZa3dtVkJfUE9aUVVsX2t5LWZJdndORzhXY0ZyWGpEVkxCbHU4eGs3clk4OFZfVXBnLWdFR0R2MUNBZjJ6WjJfUGRMamloR3ktQTJsRVptZVhaS1JicHY0ZE5MVmo2eFRxNUJWQmRFMWJv?oc=5"
     },
     {
-      "id": "news-disaster-d8ea1c71d0",
-      "lat": 40.73016,
-      "lng": -73.9515,
-      "title": "Tiempo with Joe Torres: NYC holds disaster relief drives, vigils in wake of destruction from Colombia earthquakes",
+      "id": "news-disaster-419cb0eeaf",
+      "lat": 32.77554,
+      "lng": 130.71088,
+      "title": "【熊本地震】「九州ふっこう応援割」10月開始 宿泊費など補助し観光業を支援（2026年8月30日掲載）｜日テレNEWS NNN",
       "category": "DISASTER",
-      "time": "2026-08-30T16:22:11Z",
-      "summary": "Tiempo with Joe Torres: NYC holds disaster relief drives, vigils in wake of destruction from Colombia earthquakes&nbsp;&nbsp;ABC7 New York",
-      "source_name": "ABC7 New York",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc205OFlMUHBtaFdOYmhEVWN2SDhPWjk3c0ozSFBJanc1V21hX2dWMzIwa0RNQlJVb3kwZGpYMUFtbkhhV1RjSHJ3dnR5TnNVZVhCczhTakNSMnpQbEJTb2xadzJHMlRjbzJnWm9kQndhTTdmX3dvcEh6WDRXdi0yN3l3a2NISFBsZFNjSmRiVXFNTW41cW1qbnRrUDV5eHdlR2F5WG9hWWtBNDFSV29reTNZM3R5cHJvUzVGTTI0akRkdjZKb2RIMNIBzgFBVV95cUxOMG5sbHoteUtPTjcwLUxSbE5KT1lRNnJIejgxa20wMThuYnpjVTRUbTNqWXdxdHBBQ3dFWTRfRWY5eGw5MndsOTlQdzRGTHN5NGp5YnBXZUxNaFhNRjgwQlBDaGJLZDZValZsaGlQQVkyeU9JYUE3OGhjM1BkX2VCMEExNGVPTjR0NGVNbGI2cEFsOE1EcGJiSFF1emdDLXBhdDdraDBnM0liUG4zOFhyVzlleWszcFVuQ2tPT0RocW5yRENPRFhwcG5xS3lTdw?oc=5"
-    },
-    {
-      "id": "news-disaster-aa28e9e130",
-      "lat": 34.15193,
-      "lng": -118.30981,
-      "title": "富山県豪雨被害 氷見市で「り災証明書」の申請開始 土砂崩れなどで住民孤立も（2026年8月30日掲載）｜日テレNEWS NNN",
-      "category": "DISASTER",
-      "time": "2026-08-30T16:09:00Z",
-      "summary": "富山県豪雨被害 氷見市で「り災証明書」の申請開始 土砂崩れなどで住民孤立も（2026年8月30日掲載）｜日テレNEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+      "time": "2026-08-30T16:26:00Z",
+      "summary": "【熊本地震】「九州ふっこう応援割」10月開始 宿泊費など補助し観光業を支援（2026年8月30日掲載）｜日テレNEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
       "source_name": "日テレNEWS NNN",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TX0xsY0UyNnhYdi1MUzU3cG10UEZjaVlUc2FBVm5TNm9FN2wxZHlWSkhUTHpDRENPdEhkRlBvR3dwZUNQaUV1eEFBQVZEVl81eXE0eVQ1ZVhIcHNVc093VkdIUURkZ0xGYVNpaVppbHJDaWFRaktLV3Nnemc?oc=5"
-    },
-    {
-      "id": "news-disaster-d19c173ea4",
-      "lat": 37.25054,
-      "lng": -78.68399,
-      "title": "Flood watch in effect as storms, rain expected to hit Valley",
-      "category": "DISASTER",
-      "time": "2026-08-30T16:00:14Z",
-      "summary": "Flood watch in effect as storms, rain expected to hit Valley&nbsp;&nbsp;KTAR News 92.3 FM",
-      "source_name": "KTAR News 92.3 FM",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3pBM2p3TEVTUlA1THFFVmVKeUtib1A5VGhpUXZ1OFhXVU92TjlsOFdOR3E2YVgyY3c5Qjd4Zzd4YXFBS0tnRWZubWg0Rk9vaGFtUE5KMzVpdWE0RXZLYWZuVVhjX3VpUkNtSURJay0zMC05VGJ3eEdCcmdxa2pyVg?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1oMmpYbTdLUVB2SEpKYmJSME5qYUtaRXNkOUdZOUt0MExUTzE2RWQ4R1I0S1FxRWd3M2pvT3d0QXVPX2hsMWFwcWU5TDRYaGhVRGtYbmdTV2FPNWZGOHlkMU8xVkJyMmxSWXljTDFQdHU1OHJXdUFTbjl4N20?oc=5"
     },
     {
       "id": "news-accident-593b0115a8",
-      "lat": 43.12025,
-      "lng": 141.34628,
+      "lat": 43.01343,
+      "lng": 141.31781,
       "title": "【辺野古転覆事故】同志社国際高校が保護者集め説明会を開催 出席した保護者「学校側の誠意のある対応がまだ見えていないのが一番つらい」 今年度の修学旅行は沖縄以外での実施を検討 | MBSニュース | 関西の最新ニュースを分かりやすく。",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:27:24Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-4ae7f73e5f",
-      "lat": 35.02495,
-      "lng": 135.7704,
+      "lat": 35.00353,
+      "lng": 135.79509,
       "title": "滋賀の衝突事故、２人の死亡を確認",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:24:12Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-4c820a3d4e",
-      "lat": 35.67711,
-      "lng": 139.71979,
+      "lat": 35.64325,
+      "lng": 139.78145,
       "title": "事故の瞬間をプロのスタントマンが再現 東京・世田谷区の自動車学校で交通安全イベント開催 警視庁成城署",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:20:43Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-b7f6ee0c0d",
-      "lat": 35.71733,
-      "lng": 139.72057,
+      "lat": 35.63979,
+      "lng": 139.72849,
       "title": "事故の瞬間をプロのスタントマンが再現 東京・世田谷区の自動車学校で交通安全イベント開催 警視庁成城署",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:19:21Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-cc1ca9573d",
-      "lat": 35.0712,
-      "lng": 135.8146,
+      "lat": 35.00959,
+      "lng": 135.78479,
       "title": "同志社国際高校、今年度の沖縄研修旅行を中止 保護者説明会で説明 [京都府] [辺野古沖転覆事故]",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:07:36Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-8ad9f28e84",
-      "lat": 35.63791,
-      "lng": 139.79453,
+      "lat": 35.65503,
+      "lng": 139.82115,
       "title": "スタントマンによる交通事故再現も 自動車学校で交通安全学ぶ「夏祭り」（FNNプライムオンライン（フジテレビ系））",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:05:56Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.80387,
-      "lng": 106.71811,
+      "lat": 10.78222,
+      "lng": 106.69052,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.03074,
-      "lng": 106.23542,
+      "lat": 9.99998,
+      "lng": 106.26097,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.78376,
-      "lng": 139.81452,
+      "lat": 35.79852,
+      "lng": 139.90115,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 40.97252,
-      "lng": 29.01989,
+      "lat": 41.00323,
+      "lng": 29.02128,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.88866,
-      "lng": 131.46293,
+      "lat": 31.97657,
+      "lng": 131.46562,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 35.05795,
-      "lng": 135.81292,
+      "lat": 35.01544,
+      "lng": 135.76049,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -331,9 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmNNSGhSNnQyUU1od3NqMWZYdXdlT21hRGZZcFJnUDBEczR5N1hDRXlpZ3hjVmRfOWRxYS1MazBQTjVCZThKbEFxWXdfbXJpNVdXaC1nNXN5QWtzcmtNZ0tJajgwVVlnU1JVbzJJMUxCUzFiRi1hUnZkaVA0SlpJUWVHem9jWjhPWThMVWZzU0JUSElIWFpVa0ZMdlRqMXNaV25nMFlrYklUdjZC?oc=5"
     },
     {
+      "id": "news-technology-36aa716ffd",
+      "lat": 38.15981,
+      "lng": -81.91353,
+      "title": "Sam Altman And Meta Admitted AI’s Problem. FDEs Are Fixing It.",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T17:24:48Z",
+      "summary": "Sam Altman And Meta Admitted AI’s Problem. FDEs Are Fixing It.&nbsp;&nbsp;Forbes",
+      "source_name": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTBNNlNmZGpWSWx0T2trdzQ2SUJEdHVvR0xEQXlvVGo3VVFjUkVtLU90Sy1sN1JfZnRfWnQzN19HMy1GQnRZamEyTHRSRUk2OUtOV0NjRjhxLXFoQlRDZF9HQ3ByZXpFQ09uMkp6ODloTmE4Zl9YZUhFaU8wdmRqU0h0bHNodWp3SWkzZVNSVXl0dU5va2RlOC0ydWhiYmcxWkstUDdhT0JKdTJkQ3VORQ?oc=5"
+    },
+    {
+      "id": "news-technology-b842145d39",
+      "lat": -37.77931,
+      "lng": 176.29882,
+      "title": "‘It feels like early COVID’: The messy scramble to regulate AI",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T17:13:48Z",
+      "summary": "‘It feels like early COVID’: The messy scramble to regulate AI&nbsp;&nbsp;WPSD Local 6",
+      "source_name": "WPSD Local 6",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQlJqaTdwRndxU3d6UUtyX0ZzZHBzTFRvbkNTaFNUTDIyNXh4aUY1Z1dIZGxfeWd5UzZUMVhJRWdUZjRMS2d3ZlhJcmRYeC1tZVZLTW5qZlRxZlk2ZVJTTFVaQ0hTZWRLRm0zeHZqdlB2Y2xNZDF5Y1pWeUN6ektIQjZuVGxPV1BMZ3I2cEhvSndsMVhmRUYycjFZS21FMUtkRDg4dGF5UnZMY3hQZ2JiNUFHWmV2OV9oWUdxRUdySll1cHVzaTB4bDZIMjhpNFUwTFlZc0NQY2o?oc=5"
+    },
+    {
       "id": "news-technology-30ed8362cd",
-      "lat": 37.78768,
-      "lng": -122.23452,
+      "lat": 37.86619,
+      "lng": -122.22393,
       "title": "Panicking Tech Execs Try to Pivot Message on AI Data Centers",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T17:03:00Z",
@@ -343,8 +365,8 @@
     },
     {
       "id": "news-technology-02c26f3995",
-      "lat": 45.85314,
-      "lng": 15.68605,
+      "lat": 45.87405,
+      "lng": 15.6551,
       "title": "SAVCA VC Conference 2026: The AI era is here. Are you ready to scale?",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T17:00:04Z",
@@ -353,48 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BTG9VcmZkdkpaRURxX1UySlBaUGRETDc2YzZyMGlBTEhaVGtaRXBubnJyaVhLSEVSTF94dnhXalIxMGRpM2Vjd3l5UlVhY2J6Vzl3SnZXUFpiLTZQZE8wVVJKMzdNYk5iLXRNdnppajJhcmVrOE5SNjhTdFpEZGM?oc=5"
     },
     {
-      "id": "news-technology-43a25c7976",
-      "lat": 42.34328,
-      "lng": -71.03417,
-      "title": "Google AI Week gives Killeen businesses hands-on look at artificial intelligence",
+      "id": "news-technology-79e0ba7e88",
+      "lat": 50.90305,
+      "lng": -109.50331,
+      "title": "〈Leader's Voice〉AIサービス、医療・金融向け照準 リコージャパン 笠井徹社長",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T17:00:00Z",
-      "summary": "Google AI Week gives Killeen businesses hands-on look at artificial intelligence&nbsp;&nbsp;The Killeen Daily Herald",
-      "source_name": "The Killeen Daily Herald",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdWlBV3J4aWNfOTZIeXA5Q09Vc002WHhrN25GUm1YSFl4N28wenhNeVp0ZTFQV24xcDdIQ2dWSDRpcThIOVVUOVBfX2RaOUNsVDFQbjd5dXVEdUw3enFJbEdjbEdIaVpkaFY3SlB2ZDVBMDhfbUtMTWJ3ZjI4U1M4NVdJWnhBeWlVbFFoSWc3Q0FETUtlZnV6NFpwbW5xVUV2Q0RfdWwwelRQZm9qOHdRQkwyWHEtbS1IYzRRTUdDZDdsaERPTC1fLVhPUDZSeWRRUHlDRjE3X3hvWE5nMV9nTUEyV1RESnNmeTNLTWk2bUg?oc=5"
+      "summary": "〈Leader's Voice〉AIサービス、医療・金融向け照準 リコージャパン 笠井徹社長&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3VnpoN3VSUGZOQ0lZVUJ3RnFVT2JQYjNJRmRNOG0zLUlYcFJiRlV5QnlmQlpZQ0t3Zjd1QUNxcDAtT2hSSGxkWjZBNEdwdndsdEZrdkZVMjVuQXZPbFl3ZWNFMGRpeEw5RmdRQQ?oc=5"
     },
     {
-      "id": "news-technology-bb2edc96d6",
-      "lat": -37.76242,
-      "lng": 176.30142,
-      "title": "‘It feels like early COVID’: The messy scramble to regulate AI",
+      "id": "news-technology-536db6c1d0",
+      "lat": -19.47419,
+      "lng": -42.57279,
+      "title": "AIでネット上の海賊版検知 ハイレゾ社長 志倉喜幸氏",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T16:41:04Z",
-      "summary": "‘It feels like early COVID’: The messy scramble to regulate AI&nbsp;&nbsp;ABC17NEWS",
-      "source_name": "ABC17NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkZZUlI1YVNVbmN2UGRqNUhZYmEzSk56RE9oQXg5RV9sS0FmZGROMWVSbXZPOW9tckN3MkdEcDdMTllPVjNfbWJVU2h4OFRfZUJXMjRzNDBzd2tHREtITHYzVGR1bXNHS05WTFFQNjhNTlVLZ1E0UW1kN1dPUzAzUWNMa2JWRTRlVzY5RG5YTTFXa1B4SWxJdG9xczI4a0NGZ1dLQWh1MngxTnZvVWdYNGFIbVlnWWkyZlptdEF3?oc=5"
-    },
-    {
-      "id": "news-technology-a947b3346d",
-      "lat": 51.18397,
-      "lng": -115.78016,
-      "title": "Massive AI boom puts one of America’s oldest manufacturers on path to double in size, CEO says",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T16:33:52Z",
-      "summary": "Massive AI boom puts one of America’s oldest manufacturers on path to double in size, CEO says&nbsp;&nbsp;Fox News",
-      "source_name": "Fox News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGJOSGFLcGxaRlpyMWZxRkUzUVhpMEZYbWVHS2RCLVI3UHJ6Y2xVbjY2UzdPTnlxNFdFQVpKcnR1YjV3c1hlaTNMYnZsdEduLVUwNDU3SWZIaVY5V09yR0ExNm5BSTB3VlFtRktfWDdKWDhKV0lPbXdleTl1c0p3WXNGRHVsUFEwSWNEYjVUX3NhdWxPcEl5VHRTZkRHWjEtTUt5R2ZVWVZxcTlQT1JJRHhjVdIBuAFBVV95cUxQX2JVVXd6ZDdfaGNhc2Y5SFZOSXVrMzBDUllqMFZjSVNnN0IyN2VIend6MC1TRmlfcG5ORkZFQXZCdGVRMDZpR19PMHpJWXlCU3JDRDBmeXpQb3FRS1VGVEZTclEzNlp2Vmx1OHZoZEozSmhQR051bzhkOHJjLUZCRUpoa1A1aG1GUHJoTk1OOWRrdmVZeEdfa0Rnc25falFFY2dPMG9ibmphckFTVFd4VkFFWm5VVXQ2?oc=5"
-    },
-    {
-      "id": "news-technology-54c16023f1",
-      "lat": 57.82589,
-      "lng": -5.13246,
-      "title": "AI’s worst disasters will arrive unannounced | Letters",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T16:22:00Z",
-      "summary": "AI’s worst disasters will arrive unannounced | Letters&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5"
+      "time": "2026-08-30T17:00:00Z",
+      "summary": "AIでネット上の海賊版検知 ハイレゾ社長 志倉喜幸氏&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQ1QxUnZvYVh3TnFOOEZURXJuQUxQMzNrVVZHeEtqeDhkdlVBek9kWUR0Ni1JLWpQNDFxMURvUW1jRGczMTE4RGw5UG9HeGYtR3ViNmN0N2t5RkRsZWhMRlVCSG05T3JhLUI3SQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T17:18:38Z"
+  "updated_at": "2026-08-30T17:33:42Z"
 }
