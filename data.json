@@ -2,19 +2,41 @@
   "news": [
     {
       "id": "news-politics-b5813a1307",
-      "lat": 37.1931,
-      "lng": 127.08344,
-      "title": "Boat carrying some 270 people capsizes off northern Cyprus, local media report",
+      "lat": 37.26053,
+      "lng": 127.04273,
+      "title": "Boat carrying some 270 people capsizes off northern Cyprus - reports",
       "category": "POLITICS",
-      "time": "2026-08-30T11:55:48Z",
+      "time": "2026-08-30T12:15:50Z",
       "summary": "The local mayor says 159 passengers have been reached so far, with a rescue operation under way.",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-politics-39789fdb18",
+      "lat": 38.87652,
+      "lng": -77.08869,
+      "title": "These Democrats used to be Republicans — and hope that will help them win midterms",
+      "category": "POLITICS",
+      "time": "2026-08-30T12:02:42Z",
+      "summary": "These Democrats used to be Republicans — and hope that will help them win midterms&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR29TTVBWekJhNFc2b2JvWlB2OWtpZV9tMUE0Zi01NXhRRHVScExDZG9xVnFmM3dyVkJGSW1ka0pQeFdoaXJ4QUtVLWVwQUEwd3pXZUpkcjlZTWFfTzZOamhJWnJTOS1rSmk1QjZra0Mta0RxYWJyZE0xVkVIMlBIMGJWbUtGVm5zSVJaMUhHSmV0RVB2b0NiWm9IRzh4RmRfTU1NNFFR?oc=5"
+    },
+    {
+      "id": "news-politics-96bdcb1f4a",
+      "lat": 32.78866,
+      "lng": -96.81627,
+      "title": "Politics chat: more tariffs, mail-in voting order, Kushner-Jeffries meeting",
+      "category": "POLITICS",
+      "time": "2026-08-30T12:02:00Z",
+      "summary": "Politics chat: more tariffs, mail-in voting order, Kushner-Jeffries meeting&nbsp;&nbsp;Utah Public Radio",
+      "source_name": "Utah Public Radio",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaElqV1NadlhsR2IxLVI3ZmlweVFweUFBVy1TZDFPejVKZlpETDBpSmg0TXRrVjRUVGREWko4TzRaR3VJYUhxR1huc3JzZHNHdlBPQUprU0l5eWlHdjFqbmZ0aHhIWHh6ekRDejNNZHJ4bDhzV1U2VUxmd2diVHVLQWFzYkV1WjFJdFQ2d0x2OHRWZTFuMFpiRVJVSkMtNm4yd0FrSWFR?oc=5"
+    },
+    {
       "id": "news-politics-7d44cd4e02",
-      "lat": 54.44553,
-      "lng": -1.63783,
+      "lat": 54.4379,
+      "lng": -1.67539,
       "title": "Moulton says Sen. Markey, 80, is too old for another term. Young Massachusetts Democrats are divided",
       "category": "POLITICS",
       "time": "2026-08-30T11:46:56Z",
@@ -24,8 +46,8 @@
     },
     {
       "id": "news-politics-1d75ea6504",
-      "lat": 47.30866,
-      "lng": -1.2375,
+      "lat": 47.35821,
+      "lng": -1.24627,
       "title": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia",
       "category": "POLITICS",
       "time": "2026-08-30T11:31:08Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-928f269622",
-      "lat": 33.59862,
-      "lng": 130.42763,
+      "lat": 33.58525,
+      "lng": 130.34311,
       "title": "福岡県議会の議連に県が毎年上限1200万円を補助 旅費などに支出 [福岡県]",
       "category": "POLITICS",
       "time": "2026-08-30T11:26:45Z",
@@ -45,31 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYZzFtNEl4VWhjZ3VwYlUtMXBiSzhZUF8zLXJiX2RaSW1la2lCYnB3cGMzZzFhMmpDUHhLbUJzTm01ZWk3WUtGUE1ncXpjTW5EbGlUdWhfWmg2c1lScVlTLU9JU0hlOTQ?oc=5"
     },
     {
-      "id": "news-politics-3d24b56bcc",
-      "lat": 40.81762,
-      "lng": -73.14301,
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "category": "POLITICS",
-      "time": "2026-08-30T11:25:11Z",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-c510f969ee",
-      "lat": -19.59654,
-      "lng": -63.38507,
-      "title": "米財務省が事前通告なしにユーロ売り・円買い 欧州中央銀行、ドルスワップ枠の「政治的道具化」に懸念",
-      "category": "POLITICS",
-      "time": "2026-08-30T11:25:00Z",
-      "summary": "米財務省が事前通告なしにユーロ売り・円買い 欧州中央銀行、ドルスワップ枠の「政治的道具化」に懸念&nbsp;&nbsp;BigGo ファイナンス",
-      "source_name": "BigGo ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DNTFvQXVCT0V0NFVwS1lfWEE2eDY0S1g5RDF1dHRiQjBKc2ZDalZ5TmJyN0o4NlVFRENyZjBkTHZ4ZkZ5UDhvN01VRkIzbGphZU9obDNmZk4wbXcyTS0ybTVDOXdGS3FyaHdPRU1OeEMxMlRr?oc=5"
+      "id": "news-finance-e247fd7038",
+      "lat": 47.08972,
+      "lng": 9.13082,
+      "title": "'All about acceleration': After Nvidia earnings, the tech trade is getting more segmented",
+      "category": "FINANCE",
+      "time": "2026-08-30T11:49:05Z",
+      "summary": "'All about acceleration': After Nvidia earnings, the tech trade is getting more segmented&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRmF0TFRxRy1TdDZQZWY3RVRlTG1BRzVrQ3ZhSmtVeXJOTU1GR1hvdG9FelBxLVNmYTZqZWxHNTY5Nm5uRzJONVRuQ0kyT0ZUUnFicXJqbndKNUdiYVJ4QmdoWk0ycU5OUFpkcS1VTWp0bEsyeGJmc0NfT2FZTS1zX25OMDVOaC14TnJMaFNIeXk1dm5lbzJ4LTc5ZUMwSHJxTTlKZzZqVl9Gbk1EOWFXaGhEb1ZiOTc5YU80bnpEa1JmVnhmRkZPc05FTmhlbU8zenQ4ODF4Q2stdw?oc=5"
     },
     {
       "id": "news-finance-578b875745",
-      "lat": 35.67342,
-      "lng": 139.76406,
+      "lat": 35.67563,
+      "lng": 139.67782,
       "title": "金融庁、ソニー生命に立ち入り検査検討 金銭不祥事の解明急ぐ",
       "category": "FINANCE",
       "time": "2026-08-30T11:33:00Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-c796a43a21",
-      "lat": 49.70707,
-      "lng": 4.61789,
+      "lat": 49.74494,
+      "lng": 4.63785,
       "title": "‘This is an all-out war’: Inside the casino industry’s fight to stop prediction markets",
       "category": "FINANCE",
       "time": "2026-08-30T11:00:29Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-7768cba612",
-      "lat": 51.71288,
-      "lng": 0.4903,
+      "lat": 51.62803,
+      "lng": 0.46719,
       "title": "The Stock Market Is Doing Something That's Been Witnessed Just 3 Times Over Nearly 156 Years -- and This Signal Has Proven Disastrous for Wall Street",
       "category": "FINANCE",
       "time": "2026-08-30T10:56:01Z",
@@ -100,31 +111,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnRhY253MTZsaERyTW1pcmVDZEVQRmlCYlROTHNLZnB4NVdjcWxwSVhMbXd0OEhxclM1SzdRSWJNWEFheklscnRMd2VfMkFBOTlRWTdSRHBmZlFBUUNPNW8tOWFXc1pZSThaZjBEME5DQnZzT1ppZ181aTFDX3RGenkxcTFiY2ZjMHNYeHJ2MUVZZndMOWRVamhZSXg2c2RU?oc=5"
     },
     {
-      "id": "news-finance-2939235548",
-      "lat": 35.68315,
-      "lng": 139.75588,
-      "title": "ソニー生命に立ち入り検査へ 不祥事で金融庁、プルデンシャルに続き",
-      "category": "FINANCE",
-      "time": "2026-08-30T10:30:34Z",
-      "summary": "ソニー生命に立ち入り検査へ 不祥事で金融庁、プルデンシャルに続き&nbsp;&nbsp;朝日新聞",
-      "source_name": "朝日新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YR3JJd3NFS2p5QkxfSVQ3VW1aMm9fcXVKZ21nNzN3eU54REdVV3UzQ214b0FXT3RyUk80UWxFT2g2VGFzLWE2dWRMQnJyMXdxaUZNc1ozUTdiWFZQRHVSUFBYLVBaa0U?oc=5"
-    },
-    {
       "id": "news-finance-d86a2d1dd2",
-      "lat": 55.9541,
-      "lng": 2.79614,
+      "lat": 55.99367,
+      "lng": 2.79846,
       "title": "German Finance Minister to Press G20 on Iran War, Trade Fights",
       "category": "FINANCE",
       "time": "2026-08-30T10:30:00Z",
-      "summary": "German Finance Minister to Press G20 on Iran War, Trade Fights&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
+      "summary": "German Finance Minister to Press G20 on Iran War, Trade Fights&nbsp;&nbsp;bloomberg.com",
+      "source_name": "bloomberg.com",
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMV9lcE0yUU9ydEk2ZWIxb3NONUoyeG9UczdRQU45WW96VDZ6NjBGYnNKcnNENWtNLWVfU2N0OHhNdVZkejNfTjNEZTNuRE94RkVuazYxTGNGZXRVVUJCZGVKa09FMm9WT1d1UFNQNTQ0eUhPeDg3RUNJeVpGV1pEQkhYTFZDYVQyYWJJQVFQdVFMNmkyalZrc01UbXctaUVXTmRZcHFUdnRJeVNGTXBCeFdB?oc=5"
     },
     {
       "id": "news-finance-2663986d67",
-      "lat": -24.77423,
-      "lng": 134.71373,
+      "lat": -24.72422,
+      "lng": 134.7554,
       "title": "Australian Small Cap Stocks With Real Earnings Investors May Be Missing",
       "category": "FINANCE",
       "time": "2026-08-30T10:15:56Z",
@@ -133,20 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnVySDRoWE4zX3ZPWV9xVjBJbU5heTMwTjVQdndpMnBaQVlnZ040QW92OUlIbzBQMU9ia0QyVjVwZXBZWVF2bVhrSnlFeWpTM0d0UTFRYjd4VGtQNzlwajR2ZF9hM25OX0JqNXZhdkIwdjA5TUJDdnpiWTlNd0pHems3V1lrV2FVY3lSUmxnVFFrX0dzbDFJUnJkOHNKUQ?oc=5"
     },
     {
-      "id": "news-disaster-0045daf1a9",
-      "lat": 53.98401,
-      "lng": 27.53523,
-      "title": "Rescuers race to find thousands missing after Nepal-China glacier collapse",
+      "id": "news-disaster-1e509d19fb",
+      "lat": 42.78342,
+      "lng": 0.56972,
+      "title": "2.2 magnitude earthquake shakes near Soda Bay, CA on Aug. 30",
       "category": "DISASTER",
-      "time": "2026-08-30T11:29:43Z",
-      "summary": "Rescuers race to find thousands missing after Nepal-China glacier collapse&nbsp;&nbsp;Reuters",
+      "time": "2026-08-30T12:15:06Z",
+      "summary": "2.2 magnitude earthquake shakes near Soda Bay, CA on Aug. 30&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDaVFtSUduZVdKNkQwZFZ6WkxEeHZfbTBpVlBYeFpCU1FHZjc3aGpRZXl3QTl1RTc0RWRhRGo2STdHM1VnY1YwQWEtdDdDNkhYSTBsZGx6cUp1UXpZaXVOWjljZ0doWjROMHJ3TG9oYU9oZXlqczlMQksxTV8?oc=5"
+    },
+    {
+      "id": "news-disaster-66a6f23086",
+      "lat": 32.78602,
+      "lng": 130.70526,
+      "title": "TKU報道特番『熊本地震から１カ月～備えはできていたか』【１】『三たび熊本を襲った“震度7”の衝撃』",
+      "category": "DISASTER",
+      "time": "2026-08-30T12:07:32Z",
+      "summary": "TKU報道特番『熊本地震から１カ月～備えはできていたか』【１】『三たび熊本を襲った“震度7”の衝撃』&nbsp;&nbsp;TKU テレビ熊本",
+      "source_name": "TKU テレビ熊本",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LcUpiWVVfQWVvcVl5SWc5dUFUQi1TSGRUZUg4YTdTZHY4T2ZFM056STVXMDh4OGFCU1pRN2oxcHROcjlFSVlPTmtlckhydHZqeUZXblBheWRDSkFYZlFlNlJSVQ?oc=5"
+    },
+    {
+      "id": "news-disaster-1f8c22f9d9",
+      "lat": 28.42943,
+      "lng": 84.04613,
+      "title": "Nepal begins mass burials of unidentified flood victims as families seek missing",
+      "category": "DISASTER",
+      "time": "2026-08-30T12:05:43Z",
+      "summary": "Nepal begins mass burials of unidentified flood victims as families seek missing&nbsp;&nbsp;Reuters",
       "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQVFHVmljdEdJUTJ0Z24zM21xcVM1QmdnVVo0ZDQtcHB2c0dMbVBoN18zZzdWVXcwMGp4LXRXRmF1TDVCUXJUTjFURnpEUlRqUTBRdkROajdPcUJLc213ejhQYm5BZ1J3TzRsbXEwY0duWmZwUGFHejhwd0RsRHVVRzdmU2JLc0ZzN1Qyd25IOF83RGlFQkdTWmhxSm9GaG10UG5WQjRFZkt6Q25SZ0dpN0FGcDJlZGtBbnpqR3k2T1VnSVR5UlJGZmFGWQ?oc=5"
     },
     {
       "id": "news-disaster-bdfd6cde00",
-      "lat": 9.65211,
-      "lng": -0.35374,
+      "lat": 9.67252,
+      "lng": -0.43557,
       "title": "Repeated rounds of storms to bring renewed flash flood risk to already-soaked Northern Tier",
       "category": "DISASTER",
       "time": "2026-08-30T11:13:11Z",
@@ -155,9 +177,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZQjZEbm1hSmtkTlZxdVhVOGJ0bjJORDkzNTZGXzRpOEZab1FBWF8zMWRwZUFxZGtLNG1FQ1hBMDZYNVNBNm5zcDJtQ2FVSGRPd0RZTUg2TnBRR3g5Q0ZSMXpVbw?oc=5"
     },
     {
+      "id": "news-disaster-1ff4b6cf93",
+      "lat": 28.32943,
+      "lng": 84.037,
+      "title": "Nepal-Tibet flood death toll rises to 750, officials say, more than 3,000 missing",
+      "category": "DISASTER",
+      "time": "2026-08-30T11:12:00Z",
+      "summary": "Nepal-Tibet flood death toll rises to 750, officials say, more than 3,000 missing&nbsp;&nbsp;KAKE",
+      "source_name": "KAKE",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV29VeWVuUEppcTNJYmxjaDV3cnFwQ2liZ0w2VGwzWW5EeHgtbmR6RFg1cnYzS0kyTlRtcnNCbklzcWI1ZjltVUwteHgxODZudXh0WkVmX3VMT1h5OTF4YVZsdEhvOWVBOWRzaGk2R19CVjllQm5kZm9jWWlqeEtFcHJEMWwzQlBtUXdxZ0pfMWdUbUQzZ1dkVWdDa3dfVXN6akotUHJzbWp1UUdyT3IzVEVscmxBMWJNY0N3LUY1dFFSa1gzNmQ1VU5HNUhueVpIX3RBcXMwTUM5YXhKLUhvMV80OGhGdjc4QVlN?oc=5"
+    },
+    {
       "id": "news-disaster-ff93a8b009",
-      "lat": 32.73184,
-      "lng": 130.69402,
+      "lat": 32.76938,
+      "lng": 130.77862,
       "title": "熊本地震で被災…外国人の住民対象に行政書士らの相談会 熊本・氷川町（2026年8月30日掲載）｜日テレNEWS NNN",
       "category": "DISASTER",
       "time": "2026-08-30T11:06:00Z",
@@ -166,42 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1bFAtVGd3alUyMWE4d1BOTFM3UWx2X1JYaGdwWHAxdmdIVXNYbDBQTXZRb3o3YnI1X3ZoRUZDRGhfMDNvenE5ZTNpWllfeWRyVTJmSE12WkFJLXIwOFdKR0tmYjlWRHAtWnhkaFczbnlMbnRaMXgyU3Z6YlY?oc=5"
     },
     {
-      "id": "news-disaster-808193ebb5",
-      "lat": 28.42543,
-      "lng": 84.04682,
-      "title": "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
-      "category": "DISASTER",
-      "time": "2026-08-30T10:58:09Z",
-      "summary": "Nepal-China flood disaster: What’s the latest toll, how many are missing?&nbsp;&nbsp;Al Jazeera",
-      "source_name": "Al Jazeera",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUhBS1FZeVJZdC1HTmxndkdpaDVxU3p0UUV0OXhNam0tNlZMcUZFSzdIeWs4RTJxV0VlSnVkZUFabERETnhSTWcwcWNOOF9yREh4YUxCVXJPcU1paUlaQ3lwU1hwaC1MZF9yX0JNOW5YN0hUWFdXMHNaX0N3UlE0VVdIakJWVEtzeURMSGp4cDA3VGNRRWZSdnB3dUFPRV9mSzNnVnFLaEl3eEx5OWRr0gG0AUFVX3lxTE5ZZk0zS0l4OFp2eXZTWFhRVVlSelVBcnh0MUZOSkJhc1EzMndRNzNpS2dsNDZSTW9aVC1RN3NNRVVNeU9hNVBpUTA5OEVVMkRJRG9qeG95RHdFOXVOV2dPdUl1ZVRKTEFsZElBUnNEb1JBS3FIVjN3THRYNkh4NU5FNGdzZTZJV2tFZ1VEMXR6Y0N6SWpULVlSb3NTRG1GSGdrQlpOQ2phQzZUa3FMT0tCQUxYdg?oc=5"
-    },
-    {
-      "id": "news-disaster-432f7ca71b",
-      "lat": 28.35724,
-      "lng": 83.9646,
-      "title": "Nepal warns of more possible floods as communities grapple with devastation",
-      "category": "DISASTER",
-      "time": "2026-08-30T10:52:00Z",
-      "summary": "Nepal warns of more possible floods as communities grapple with devastation&nbsp;&nbsp;AP News",
-      "source_name": "AP News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3NPeGkybU5zYk9oRUNteGFDbmJKcTlfZHh2Q2l4ZDU1OFZzdTJGRHNBSUJXcldlelVpRjlDRlFBVHBFUGg4bnpTWDFWTkxDaG1OYzdkcTFBT2o4aG11ZTlWYzNqN294THUxMjRqbVRzNTRnNUZKNUJuQWFxYnJUUk5SalRCUFFXTDMyZ1hDSldPZk1wSV81WA?oc=5"
-    },
-    {
-      "id": "news-disaster-e38944dac3",
-      "lat": 36.51988,
-      "lng": 139.21312,
-      "title": "災害は“遠い出来事”じゃない…過去の教訓から命を守る行動につなげる新制度「NIPPON防災資産」とは？（TOKYO FM＋）",
-      "category": "DISASTER",
-      "time": "2026-08-30T10:50:24Z",
-      "summary": "災害は“遠い出来事”じゃない…過去の教訓から命を守る行動につなげる新制度「NIPPON防災資産」とは？（TOKYO FM＋）&nbsp;&nbsp;Yahoo!ニュース",
+      "id": "news-accident-647871dc81",
+      "lat": 34.10775,
+      "lng": -118.3654,
+      "title": "【速報】いわき市小名浜の中之作港で車が落水の事故 60代男性が意識不明（ふくしまNEWS -KFBデジタル-）",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T11:12:35Z",
+      "summary": "【速報】いわき市小名浜の中之作港で車が落水の事故 60代男性が意識不明（ふくしまNEWS -KFBデジタル-）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pdWpoQXlIQ21WWDl1bmprTk5OMlQtNDBtclNCTjdmV21ValozTDNNbzJQVXNBaU52LTdGYms2eDFoNzBUQUFlX0JYYTVuUFlMTWQ0d0Z6dkRabGJaSUtGc0pYUzFMaElxVkRzRmRzZ0tyelhTUUNsQVdOaThPVnc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42TGlOV2FEYThCc29XZno1UmllcDFiSkdrQkJwN29nNlZoSmdGd2MzQWVxZWlMYnFFQ0hvUUxfMldremNRQjdDUXlnVmZTemllQnZnVFFweXFYb3RjcVpIM1lNM29QblpiQmdkcElZLWFpVmtnbV93Y0tjQnZfdG8?oc=5"
     },
     {
       "id": "news-accident-b636cd933d",
-      "lat": 35.18155,
-      "lng": 136.93992,
+      "lat": 35.14312,
+      "lng": 136.9969,
       "title": "「死のハイウェー」からオオアリクイを守れ 行政を動かした「逆転の発想」（ナショナル ジオグラフィック日本版）",
       "category": "ACCIDENT",
       "time": "2026-08-30T11:10:34Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-da69d4f379",
-      "lat": -12.52684,
-      "lng": 131.01113,
+      "lat": -12.48331,
+      "lng": 131.03219,
       "title": "Driver seriously injured in I-75 crash near Shiloh Road in Cobb County",
       "category": "ACCIDENT",
       "time": "2026-08-30T10:58:01Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-24003c2a72",
-      "lat": 33.60623,
-      "lng": -101.82158,
+      "lat": 33.60201,
+      "lng": -101.81045,
       "title": "Interstate 94 Collision Near Opportunity Drive In St. Cloud Sends One To Hospital Friday Afternoon",
       "category": "ACCIDENT",
       "time": "2026-08-30T10:47:13Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-cc0f7af3ef",
-      "lat": 35.6518,
-      "lng": 139.65205,
+      "lat": 35.69143,
+      "lng": 139.64477,
       "title": "東武事故 見張り員「車で向かう途中に事故」 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
       "category": "ACCIDENT",
       "time": "2026-08-30T10:19:45Z",
@@ -243,31 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdUJidmhVRzdpVmd1dnRnaFlUc1lUakdWbmc3LTIwYTFFYkNVMno5ZWFXeENKSXdfZUNKVWpPSzJNaXMwWF9XSG9kSXJweUdsSFhlVUZuY2lMZ2xNaXp3Zmo1bGxGSnVtMm5xa1NqNlh1NDd4Qnlsa0JjVjdBdVN4ZlpJVk5oS3ByR01TZWFwWklzN3pZZjJKWkZwazRuV1l3ckphdHFERlpaMHF2eW5mZnBNTlVaRGVJWXJySFYxMWVjV2IwdTItVVlGdzg3NjN3NURfU0FtZDhKdHZXTjlRcVR4bTYwcmRx?oc=5"
     },
     {
-      "id": "news-accident-e0bd546cba",
-      "lat": 31.53747,
-      "lng": 130.57727,
-      "title": "パトカー追跡中の２人乗り原付バイクが事故 けが人なし【鹿児島】",
+      "id": "news-accident-a3b0ee4752",
+      "lat": 8.1435,
+      "lng": -2.77308,
+      "title": "東武鉄道4人死亡事故 見張り員「車で向かっている途中に起きた」（ABEMA TIMES）",
       "category": "ACCIDENT",
-      "time": "2026-08-30T09:35:01Z",
-      "summary": "パトカー追跡中の２人乗り原付バイクが事故 けが人なし【鹿児島】&nbsp;&nbsp;Yahoo!ニュース",
+      "time": "2026-08-30T10:09:15Z",
+      "summary": "東武鉄道4人死亡事故 見張り員「車で向かっている途中に起きた」（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OcWh2YWNlM3l4YS05anNISXBzVmc1ZXNtTTZVWlZadWlpcGNwc0tqMElIdEV6dk4tcmVsb3ZlZlBLWnVJa21QV1B3clNnVzZVU2ZFbDBHUjJpbS1UWHhRUU4tQVdkbGhZcHZabjFsR1I1dkwxWHp0YzVJUm9RNE0?oc=5"
-    },
-    {
-      "id": "news-accident-879ec3b6d6",
-      "lat": 35.66687,
-      "lng": 139.79908,
-      "title": "自動車学校で交通安全夏祭り スタントマンが事故再現 東京（毎日新聞）",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T09:25:38Z",
-      "summary": "自動車学校で交通安全夏祭り スタントマンが事故再現 東京（毎日新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EeWo2WGM0Tmh6N0NpNGl1c1MzeldJRU1qYjFGTjB4MVozc2dLcGhXUE1tdjVGRG9xbzFRd2JZX0NjUlhBZXU0RTFQRnhUSERDNjZ6ZHV1Q1NrNjVTSTU4cEhTQ0Y3dFF5Q1N5NEFlMFZIMlpSS09mZUVMR2xVaFE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUUw2UmcwOWRFdDl5SkdYRDVDeUNLcDIzTzJYcEduZnpPZjNwbjV4U1U3emFjcklwMHMydGY4cHhZR29YaW0yWUpPdkltcjBtOG1rSC1EUE16SGRaOWdhN2luVUY4eGdCZUZvU3RWQktnQ0V6UDBtSk5EdGtfUUU?oc=5"
     },
     {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.81096,
-      "lng": 106.69713,
+      "lat": 10.77388,
+      "lng": 106.67631,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.03182,
-      "lng": 106.28173,
+      "lat": 10.01747,
+      "lng": 106.321,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.692,
-      "lng": 139.90927,
+      "lat": 35.70612,
+      "lng": 139.79421,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 40.96333,
-      "lng": 28.91871,
+      "lat": 41.06134,
+      "lng": 28.94074,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.95426,
-      "lng": 131.44171,
+      "lat": 31.90208,
+      "lng": 131.45968,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 34.96534,
-      "lng": 135.77506,
+      "lat": 35.02159,
+      "lng": 135.74131,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -332,8 +332,8 @@
     },
     {
       "id": "news-technology-782c969f44",
-      "lat": 38.92415,
-      "lng": -77.46859,
+      "lat": 38.90579,
+      "lng": -77.46352,
       "title": "Prediction: If Artificial Intelligence (AI) Leads to Unprecedented Economic Growth, These 2 S&P 500 Stocks Are Once-in-a-Decade Buying Opportunities Right Now",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T12:03:24Z",
@@ -342,9 +342,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzk2UlNCMXphU1NZTzk5Vm1HZ1dUazFtd3BNNXlORWxITHlyMzBpMkZWaERWdkVoSnBrbzNlWWppWFVjNWdQcjM2ZTFrSHZzbVRuV3pEUklHSE1pQWpjdkJ1STRadVRIRWdSNTI5eFBEeklTVHJsU1hrb3ExT2xfTF9JbXoyaXdKVUptRUJ3TQ?oc=5"
     },
     {
+      "id": "news-technology-a67688a8a7",
+      "lat": 37.34919,
+      "lng": -121.87692,
+      "title": "The Dishonor Code",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T12:02:52Z",
+      "summary": "The Dishonor Code&nbsp;&nbsp;The Atlantic",
+      "source_name": "The Atlantic",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fMVNkLXdTWjRPcTcwQ1hkb3gwR1JwV3M4bHpqRkdmUWVEWEMzeUNjbE42VFVQTjZaR0JyZDV5dVlOYUdHOGJJOVY1N25US3czTHlmWXg3SS10SFhoTkRhRWIydkFkWVpNMG9oclpEeDFSU0syMW1MRElR?oc=5"
+    },
+    {
       "id": "news-technology-547a6c1546",
-      "lat": 43.93374,
-      "lng": -78.57258,
+      "lat": 43.96127,
+      "lng": -78.62467,
       "title": "歯科一家の現役歯科大生のリアルレビュー！CanCam it girl まこのオーラルケア大賞6（CanCam.jp）",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T12:00:12Z",
@@ -353,48 +364,37 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94emQ4bGkwSWN0LXMwX3hlcHphTVlsYjV4Qml6Ump1cV9rTGdYektmN3g0Sl9HMDBfdEVvSWlleTB5REVXRTZaenh3YW1SSzlGTUhfejVxZ2ljeWVuRGVoZkJjc1pyb2pnWE04cEQ0RTFubWNEYl9vZVZrY1pwZlE?oc=5"
     },
     {
-      "id": "news-technology-1c2b7c8338",
-      "lat": 43.18419,
-      "lng": -75.43041,
-      "title": "Peraton and Graphiant Announce Partnership on Fully AI-Capable Network Services",
+      "id": "news-technology-b9862bc8fd",
+      "lat": 56.12669,
+      "lng": 88.38312,
+      "title": "AI isn’t eating software after all — and the sector’s ‘epic’ rally could run through October",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T11:42:40Z",
-      "summary": "Peraton and Graphiant Announce Partnership on Fully AI-Capable Network Services&nbsp;&nbsp;Homeland Security Today",
-      "source_name": "Homeland Security Today",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2pNUmwwUHZqM1ppdmQxa1JWV3lWSXpyUmU5MHVxSFg3ZTNTTWJFQy1ZMk92V1RhNFlIUmc2bjQ5UjVlQ3M0TzNxOVlDcEZKd25HekNZNFNmOWNMVmV5ajJzSEpVS2E0LXhtWGZ3TG84aFREVHJjM0dVMTBUOG8tNzRhdmNZaHdGbFhOeXRYUE4xU3BOSkxrSm1fRWJ3REFhbFgtcHJMcVk4TW15TlNNV2dNcXlQQzJyQXdBU0YzRDdCeTdX?oc=5"
+      "time": "2026-08-30T12:00:00Z",
+      "summary": "AI isn’t eating software after all — and the sector’s ‘epic’ rally could run through October&nbsp;&nbsp;MarketWatch",
+      "source_name": "MarketWatch",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR3M4M0lQVktVWVFTMUlrZzFMMlc3OU04NFBwMmN1WnlRMzNsdjVsVDF6RktnWDJBbVVXODJhNElQdG9MbVE5Z1JCR295NWRPR0Z1NWVPYXMtLUdoSk1mcjR1MUd2Ym9zN0lDbjMyVHNvTG55T0VuTzVNVTdsNzBzRzFsMkd0ZzNIQlJ5MjNKaWZtZVdBdWxnQ1ZTMGJGSkF3WmFzWVNISVJ0ZjJPWVFZdEZCZkc1OXZRLVJ1aU9XY1FoVmRiVDd1bA?oc=5"
     },
     {
-      "id": "news-technology-fe18b27773",
-      "lat": 39.63877,
-      "lng": -76.60191,
-      "title": "Trump posts AI video of ‘Lake America’ being protected by an army of bequiffed ‘Donald Ducks’",
+      "id": "news-technology-533db04fcc",
+      "lat": 38.76219,
+      "lng": -91.39096,
+      "title": "The Case For Focusing On Customer Service In An AI-First World",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T11:40:00Z",
-      "summary": "Trump posts AI video of ‘Lake America’ being protected by an army of bequiffed ‘Donald Ducks’&nbsp;&nbsp;The Independent",
-      "source_name": "The Independent",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXg5TnJrRjdJb095bVluRVUxb2lzR3c1WU1TQzJlZDJQNkRuUUJQMDc1TmxTOGdhS3NWVUNobU0wNTBQb0dpVzBBdzVLaThOZUM0ZWFxTFRxVm4zaE5fQURiV2Y1cVVJS1dySHlVUVlybXJKZlY2WjBfbmZEYXNFa3dYWTR5eUdrVy1rVG16WG4xNUNWbEV3dDRseGhGZlA5dG5jNldvU0lvT3hqNW1sSS1KRXZ3ZU96?oc=5"
+      "time": "2026-08-30T12:00:00Z",
+      "summary": "The Case For Focusing On Customer Service In An AI-First World&nbsp;&nbsp;Forbes",
+      "source_name": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVE1hWGJpc0U1Ujk1bUVZUEd0V2p6ZXNRWHp6bzRvREZoVEFKX29qNlBVdEFsVGw3a0pPamFQTUpXcG1mTkdCUUxIRGhRZjVCTjVZeW9mbkJsUC1LczAxdm9wV0g5aVVOa2VFQzVVZEZCclRlN2tDUFJZNE9TVjhmS1JoaHJEb0NsRVl3UDlGNzJBYVk5STJuckpBUk5wSWpjM2xnTF95bm9TVWN0TUFvRE13?oc=5"
     },
     {
-      "id": "news-technology-054bae7fef",
-      "lat": 47.3427,
-      "lng": -122.81417,
-      "title": "Home Depot rolls out AI-powered Magic Apron shopping assistant to stores nationwide",
+      "id": "news-technology-a7a44a2c74",
+      "lat": 38.89878,
+      "lng": -77.5505,
+      "title": "Prediction: If Artificial Intelligence (AI) Leads to Unprecedented Economic Growth, These 2 S&P 500 Stocks Are Once-in-a-Decade Buying Opportunities Right Now",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T11:35:54Z",
-      "summary": "Home Depot rolls out AI-powered Magic Apron shopping assistant to stores nationwide&nbsp;&nbsp;WRNJ Radio",
-      "source_name": "WRNJ Radio",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDgtMW1vRWRSN1hWYm1ySjRSY3RQZEFHTEZZYVNaUktnbzcxbk94VGw3c0xwQlJhME9VOVhJVFhJQzJacnZ4T2h3SlRqcVYwQ25pMkpqYUQzUFFWU1NldkEwZjVqclFSa2ZpMExQcExKX2liTXhMZVlRS3lKLUJ4cmRTQ0lqZnRCOXZjWUZ5ZVp6V2xlblExaUFiRkFpUUVXYjM1dE1OR28zUQ?oc=5"
-    },
-    {
-      "id": "news-technology-22bf43fc03",
-      "lat": 43.03219,
-      "lng": 137.3146,
-      "title": "命とサブスクを天秤にかけてはいけない。ふわもこAIロボペットと2週間過ごして気づいたこと（ギズモード・ジャパン）",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T11:30:02Z",
-      "summary": "命とサブスクを天秤にかけてはいけない。ふわもこAIロボペットと2週間過ごして気づいたこと（ギズモード・ジャパン）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xZFk5U1hNejctbF9DZHBKN2ZIeXI5Z3hHbFVJSXFHVk4wNmF3NWJoSTFoU29ubVhDNFlUTU9MLXFyemNGTmUta0UtWHM0MDRzN2xLNFhXa3N0UmZqRGZhSktvWmpIOU5QMUY2TXBqUkZiT3FRUkNvMFYyNG1XRGc?oc=5"
+      "time": "2026-08-30T11:57:00Z",
+      "summary": "Prediction: If Artificial Intelligence (AI) Leads to Unprecedented Economic Growth, These 2 S&amp;P 500 Stocks Are Once-in-a-Decade Buying Opportunities Right Now&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGxwVU5URlozdlNQWndlc2lzZXFFZFk2dGpQVk5oWTAtbTYybzJ3dEctNnBmVFBKYnBzV01YenJZWWxCdXF6X09MdGlFYlY1eW5OV3FNWWI4TVRKUmtIYkozQkJNSDZEOFJSWGVNaXI2NlBBT2N4b0R0dzBwai1uUmlPYUk4cWd6R0RNQlJOZ0tUWUo1S2JvLXBZMWtlT1JEby1XcU1VWTBMY0E?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T12:04:02Z"
+  "updated_at": "2026-08-30T12:18:54Z"
 }
