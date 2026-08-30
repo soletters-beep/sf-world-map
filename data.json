@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-b5813a1307",
+      "lat": 66.99471,
+      "lng": -50.68681,
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "category": "POLITICS",
+      "time": "2026-08-30T18:31:17Z",
+      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-aa421a2e9a",
-      "lat": 8.43551,
-      "lng": -82.3791,
+      "lat": 8.45746,
+      "lng": -82.37047,
       "title": "David M. Shribman: Politics fuels a push for separatism in Canada - Pittsburgh Post-Gazette",
       "category": "POLITICS",
       "time": "2026-08-30T18:15:49Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-3f1fe964af",
-      "lat": 33.1478,
-      "lng": -98.66764,
+      "lat": 33.17337,
+      "lng": -98.67056,
       "title": "WSU Young Democrats aims to localize politics for university students",
       "category": "POLITICS",
       "time": "2026-08-30T17:53:23Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-3d24b56bcc",
-      "lat": 40.81718,
-      "lng": -73.03328,
+      "lat": 40.80366,
+      "lng": -73.04842,
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "category": "POLITICS",
       "time": "2026-08-30T17:49:31Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-256bad5020",
-      "lat": 34.43278,
-      "lng": -82.38792,
+      "lat": 34.36733,
+      "lng": -82.3298,
       "title": "Donalds dismisses Jolly’s call for new Hope Florida investigation as ‘politics’",
       "category": "POLITICS",
       "time": "2026-08-30T17:31:47Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-cf738eb85b",
-      "lat": 40.68431,
-      "lng": -74.03498,
+      "lat": 40.66425,
+      "lng": -74.05282,
       "title": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
       "category": "POLITICS",
       "time": "2026-08-30T17:27:26Z",
@@ -56,20 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFJnRG1GUVVHemxzU0RCYk1oVFpySnEzNHZxUzF2ZVktWGk4LVNEb2laTGUtLUF0Y1J6RzlJZDltTWFUQndVUXdqVmVsWm04UmZ2dkhwMjhsc05YNGlQU24tcnc3QldNLVY2bWJmWmpHaFJhc0tQR2laRWlCTUQ4eHdn?oc=5"
     },
     {
-      "id": "news-politics-03740eb20b",
-      "lat": 51.54433,
-      "lng": -0.14296,
-      "title": "Political Impact of Gov. Newsom's wildfire deal",
-      "category": "POLITICS",
-      "time": "2026-08-30T17:08:20Z",
-      "summary": "Political Impact of Gov. Newsom's wildfire deal&nbsp;&nbsp;KTVU",
-      "source_name": "KTVU",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiT2xPc25XSVFjUHFEMUtWY28tUEFsU25uNXpOejJ3ZlZmNFRQNEZEQlBUMzdyQWtKeE1KamxhOG1yTlV5c3BlaUFqVVl5RVpFcW1tb0FBMjJhMk3SAWBBVV95cUxPMDRkWlRPNXlFWFNzODJEVjhtbW5NN1g1NGYzV2ZhM0ZTSTFpbGRqaF9JT3hpUkNQVjJ5a252OVpEanZZMWNsdW1ZRVE3R0FYbWpoV3dHRGVNVEN1b2NBdEQ?oc=5"
-    },
-    {
       "id": "news-finance-60dc7dfce0",
-      "lat": 34.41344,
-      "lng": 132.73639,
+      "lat": 34.42083,
+      "lng": 132.68925,
       "title": "マイクロン、9月30日決算が株価急騰の起爆剤となる可能性も、循環的リスクが影を落とす",
       "category": "FINANCE",
       "time": "2026-08-30T17:55:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-4d02dd85f4",
-      "lat": 35.20457,
-      "lng": 129.11872,
+      "lat": 35.19471,
+      "lng": 129.02587,
       "title": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
       "category": "FINANCE",
       "time": "2026-08-30T17:16:18Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-79e0ba7e88",
-      "lat": 50.91337,
-      "lng": -109.49198,
+      "lat": 50.88798,
+      "lng": -109.56807,
       "title": "〈Leader's Voice〉AIサービス、医療・金融向け照準 リコージャパン 笠井徹社長",
       "category": "FINANCE",
       "time": "2026-08-30T17:00:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-9170e7d4ed",
-      "lat": 52.6353,
-      "lng": -8.62278,
+      "lat": 52.70375,
+      "lng": -8.64516,
       "title": "Engage PEO hires next CFO from fast-growing NYC firm",
       "category": "FINANCE",
       "time": "2026-08-30T16:20:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-791be04ed1",
-      "lat": 38.85428,
-      "lng": -77.2459,
+      "lat": 38.84973,
+      "lng": -77.30818,
       "title": "DBSグループ：目標株価 @ 5.46",
       "category": "FINANCE",
       "time": "2026-08-30T16:18:02Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-23dc874140",
-      "lat": 52.45888,
-      "lng": -2.94634,
+      "lat": 52.47468,
+      "lng": -3.02005,
       "title": "'More than I expected to pay': Rents are rising at the fastest rate in over a year",
       "category": "FINANCE",
       "time": "2026-08-30T16:02:29Z",
@@ -133,9 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZlJQUFpadlhJYVQ0d2dNN1VDUDBUY2E5QW1RZGpxeHh3bU5yZU40QmFjd0QwREQyZUZZLW1mX09HenhGY2dwaThjVzZDUU96ZFQ1aDk0ekZ4eFRWZ0J0YXMxbW5Cb1FSeWUwaVltQVJOQTNIanJDeGtqMG5QQnBkWWVDdXVLZENJZkZQTTR5NmFHMWRYTHdSMi1pMGJ0NU1na3lRSmFCalMzdnNVRGxTeVAtRGU1OTJzakY5aGQ4S0hySVRoYy0tbE85MEpYalBuWE5UaF9WTQ?oc=5"
     },
     {
+      "id": "news-disaster-2251ad39d0",
+      "lat": 39.74016,
+      "lng": -104.98468,
+      "title": "Dozens gather in Everett to honor Nepal flood victims",
+      "category": "DISASTER",
+      "time": "2026-08-30T18:13:00Z",
+      "summary": "Dozens gather in Everett to honor Nepal flood victims&nbsp;&nbsp;CBS News",
+      "source_name": "CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT3Y4cy1UMXp2U2o5YWkzc2xUMTBrWnFXZko1aWxST3ZiV1lWM0V6TDFpX2k0Mkp4Z0JGX0l0cTkxUVZIYmdfYmtZQUlpUFVMNV8xWG9kWU5tLUhzdVNtMUh4OW1JWHNQWXUzYnkyLXFNOWt1V0p6cVBBLVEtMmVVeHhWc0NTOHdWeXhNUXZKcm9IOWp4SUE?oc=5"
+    },
+    {
       "id": "news-disaster-41aeb926c7",
-      "lat": 37.34822,
-      "lng": -78.67457,
+      "lat": 37.31861,
+      "lng": -78.70075,
       "title": "Flood threat continues across the Southeast as tropical downpours soak the region",
       "category": "DISASTER",
       "time": "2026-08-30T17:53:00Z",
@@ -145,8 +156,8 @@
     },
     {
       "id": "news-disaster-dcf1c10607",
-      "lat": 28.35569,
-      "lng": 83.96215,
+      "lat": 28.39176,
+      "lng": 84.02338,
       "title": "‘The river has taken everything’: people return to remains of their homes in Nepal",
       "category": "DISASTER",
       "time": "2026-08-30T17:39:00Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-9d714ec10f",
-      "lat": -34.64424,
-      "lng": -58.45104,
+      "lat": -34.67599,
+      "lng": -58.47511,
       "title": "Before flood catastrophe, Nepal asked China for early warnings as risks mounted",
       "category": "DISASTER",
       "time": "2026-08-30T17:34:14Z",
@@ -167,8 +178,8 @@
     },
     {
       "id": "news-disaster-9f72f8f750",
-      "lat": 0.27382,
-      "lng": 32.59798,
+      "lat": 0.27949,
+      "lng": 32.64633,
       "title": "Headteacher saves 900 children from deadly flash flood in Nepal",
       "category": "DISASTER",
       "time": "2026-08-30T17:17:00Z",
@@ -178,8 +189,8 @@
     },
     {
       "id": "news-disaster-06276a46e0",
-      "lat": 35.18009,
-      "lng": 136.93448,
+      "lat": 35.20113,
+      "lng": 136.95011,
       "title": "熊本地震 見えた課題 街の機能守る防災へ 名古屋大名誉教授 福和伸夫氏",
       "category": "DISASTER",
       "time": "2026-08-30T17:00:00Z",
@@ -188,20 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CZ1N6cW9GQnBTUXlrcTZsaDhBVFA2NXdLUDNEbmRmQmJHOHViSmVhc1hPdW54TThxc2JjemMyd2NCZmFlNjFCTWEyc1h0alpvUW9nRm40ZzJITmR0aEJMeVdLaVBHUFBsZ1ZIOA?oc=5"
     },
     {
-      "id": "news-disaster-cf452d3016",
-      "lat": 40.74777,
-      "lng": -74.05151,
-      "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
-      "category": "DISASTER",
-      "time": "2026-08-30T16:52:30Z",
-      "summary": "Nepal warns of possible fresh flooding as communities grapple with devastation&nbsp;&nbsp;ABC7 New York",
-      "source_name": "ABC7 New York",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1h3NjNacTRqZkJ4TkxGN21wOVdiZUo3ci1TWUZ2eHpLS0IxS3BQZXZaLXVlVzZOVS1IUHphajExekdoeC1oZkxXVExFX3JEVUdrMmNybTF6S0hPR01oTmNETFVhZnBKc3c1SDZGSzhBZVVwemxkQWlDa2k2anlCX3NmbU9CRS0yWTlselkyVDFPQ2dEbWVrQ09YWk1wOHNFTy1KMA?oc=5"
-    },
-    {
       "id": "news-accident-ea0bc6b1d5",
-      "lat": 39.6861,
-      "lng": -79.36788,
+      "lat": 39.65143,
+      "lng": -79.35431,
       "title": "Accident With Injury On I-70 Saturday",
       "category": "ACCIDENT",
       "time": "2026-08-30T18:00:18Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-7b5538fbe6",
-      "lat": 35.69293,
-      "lng": 139.76889,
+      "lat": 35.72151,
+      "lng": 139.78814,
       "title": "スタントマンが事故の怖さ再現 世田谷・交通安全催し ／東京",
       "category": "ACCIDENT",
       "time": "2026-08-30T17:00:37Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-50cc3a6dc3",
-      "lat": 11.5903,
-      "lng": 104.85715,
+      "lat": 11.56442,
+      "lng": 104.86853,
       "title": "Community rallying to support 8-year-old seriously injured in Pike County crash",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:59:00Z",
@@ -232,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlBfRy1vcmFZOUlkQ3RCbC1zNVZIeDJqOEVqZEF2bk1uYUNPaXpfRUZhQmd6eVdyZGhTdk5VdVNfaUcyMG13TWtBWHdiUWRxZV9YaTM2VlpjdkJSNUE5UlZ4YjNnSnoyaGNIcVp3MDB4c3dUWi1XVllfZE1YcU5PZWJJUTQ4Tm1QelBaVG96SWN0bXhCTWJOUFV6NmxwYzU1d3Q1dHNyczhnMVJ6?oc=5"
     },
     {
+      "id": "news-accident-9f079c506e",
+      "lat": 43.02185,
+      "lng": 141.35867,
+      "title": "【辺野古転覆事故】同志社国際高校が保護者集め説明会を開催 出席した保護者「学校側の誠意のある対応がまだ見えていないのが一番つらい」 今年度の修学旅行は沖縄以外での実施を検討 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T16:27:24Z",
+      "summary": "【辺野古転覆事故】同志社国際高校が保護者集め説明会を開催 出席した保護者「学校側の誠意のある対応がまだ見えていないのが一番つらい」 今年度の修学旅行は沖縄以外での実施を検討 | MBSニュース | 関西の最新ニュースを分かりやすく。 (1ページ)&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HTlR1VGlrMnlGQzMySnpLcGE1cUs0M1Z3XzI4UmxpNGNRMzg2RDkwZGg2aXIxUHhlSWlURXduU3FGdHUzR3JiZEdiQnZsUlJHVS1RelhaV21QZkVoM1E3cU9kemhneDg?oc=5"
+    },
+    {
       "id": "news-accident-4ae7f73e5f",
-      "lat": 35.01482,
-      "lng": 135.72078,
+      "lat": 35.04004,
+      "lng": 135.81679,
       "title": "滋賀の衝突事故、２人の死亡を確認",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:24:12Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-4c820a3d4e",
-      "lat": 35.69416,
-      "lng": 139.78288,
+      "lat": 35.70523,
+      "lng": 139.74659,
       "title": "事故の瞬間をプロのスタントマンが再現 東京・世田谷区の自動車学校で交通安全イベント開催 警視庁成城署",
       "category": "ACCIDENT",
       "time": "2026-08-30T16:20:43Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxLTkzOFc1SHRxdTB5Vlczempaa3FyMTNxTUt0QmI5SlJvc3pzYWlFQ0lhc2JmZ0V5b0oyMTJNZTZhaTV6Uzh2eFpFUDRpVVU1a2tXbFd1dnprRzEzZldJZ3kxX1JETHBFSjFkRGlqMnR6N3BBN3d6T25teU1lZE0?oc=5"
     },
     {
-      "id": "news-accident-b7f6ee0c0d",
-      "lat": 35.648,
-      "lng": 139.72072,
-      "title": "事故の瞬間をプロのスタントマンが再現 東京・世田谷区の自動車学校で交通安全イベント開催 警視庁成城署",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T16:19:21Z",
-      "summary": "事故の瞬間をプロのスタントマンが再現 東京・世田谷区の自動車学校で交通安全イベント開催 警視庁成城署&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mcFMxZ0FrcVRzZFFEWjN1amFYendnZnJnWVhQVTN2ZzdrcndWdThQbmFndGczQTE2WGtYZGlna2lsMjZqeDVPS0t1UzJRd3lXcnZvVEZHVQ?oc=5"
-    },
-    {
       "id": "news-disease-368a151612",
-      "lat": 35.50497,
-      "lng": 139.52943,
+      "lat": 35.5266,
+      "lng": 139.52361,
       "title": "インフルエンザ様疾患による学級閉鎖等の報告状況（2026/2027シーズン）",
       "category": "DISEASE",
       "time": "2026-08-30T15:07:48Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.76763,
-      "lng": 106.72363,
+      "lat": 10.79788,
+      "lng": 106.7728,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.00981,
-      "lng": 106.26771,
+      "lat": 10.06067,
+      "lng": 106.30429,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.75432,
-      "lng": 139.88538,
+      "lat": 35.73644,
+      "lng": 139.86503,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 41.07012,
-      "lng": 29.03247,
+      "lat": 40.99597,
+      "lng": 28.95968,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.94755,
-      "lng": 131.41778,
+      "lat": 31.88195,
+      "lng": 131.41156,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -331,9 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUcll0QnBpdlZESmEzLXRfZnFaekh0VEVmODVVc1Fwejdfc2VxbzBxMWpVeXlMdW9ZSjZqTzFyT3VKQTJnaE9mRE44dTRYdVMyeHA2bmgxb2ZzWFhPdUFzQzN3WTZQeF82b0NqR0o2NFNRRkxPeXlibVFWVmdqQUk?oc=5"
     },
     {
+      "id": "news-technology-5fd502720a",
+      "lat": 45.5401,
+      "lng": -122.82712,
+      "title": "Nvidia Pulls Back on AI Cloud Financing Plan as Antitrust Questions Mount",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T18:20:36Z",
+      "summary": "Nvidia Pulls Back on AI Cloud Financing Plan as Antitrust Questions Mount&nbsp;&nbsp;PYMNTS.com",
+      "source_name": "PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYTBaUF92Uzg2aHc2aFo1R3BhRVJna0xtWUtaWm5ITzlvMU5nZlJKd0dOX204UTRUeFlZUDljLUMtbXh4ZnppbXlCLS1hN0c0QktiZ3M4cVpjdUFJbVFaRGhUWGJZZFRFdnJxMUotZllSYUNBemRvcmhNUmF3WUFUOVZLeXp0NXkzMDF3YXlQNjVmb0tWWFlzdUtTMFJYa0xXYnFqcGZTRy1jeUU?oc=5"
+    },
+    {
+      "id": "news-technology-34eb7c2e03",
+      "lat": 31.99162,
+      "lng": 118.48028,
+      "title": "AI需要で生産能力がフル稼働、TSMCが10～15％の全面値上げを実施か",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T18:06:00Z",
+      "summary": "AI需要で生産能力がフル稼働、TSMCが10～15％の全面値上げを実施か&nbsp;&nbsp;BigGo ファイナンス",
+      "source_name": "BigGo ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxTUhuMHNDVS11Qzk5eDBvOXlKamNac3kxVWVTMmt4VkxUbUZSdmNTdUY4Vml1VDk2aUpNN2MzZWpvM2tZaFNDVjZDWTFJb1hWVHA5eGplVXctTVlWNnBUbHRLUGd6QUZ1ZGRhdmxBdnEwbGlH?oc=5"
+    },
+    {
       "id": "news-technology-0f1408f9ae",
-      "lat": 51.54696,
-      "lng": -3.27323,
+      "lat": 51.53534,
+      "lng": -3.2598,
       "title": "What Are Hyperscalers? The 3 Cloud Giants Powering AI's Next Decade",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T17:54:53Z",
@@ -342,9 +364,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNazFMTlB3TnlidkladENMZk1uUlhESTFXdnE2di1vTmxDOUI3UURQOFdXVklYbUpMN3VlWi12eHZ2aHVaNDZrS0xuZmVZREp6SHBiQzZjT2R1WnYyWXNaWVkwbFYtTUNRTEY4d05QRGdhR25TT2JzOGpfY2dzeUU0SlBBcldtR3RHOHo2UHdB?oc=5"
     },
     {
+      "id": "news-technology-99d948f367",
+      "lat": 45.56856,
+      "lng": -122.92237,
+      "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T17:50:51Z",
+      "summary": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.&nbsp;&nbsp;The Motley Fool",
+      "source_name": "The Motley Fool",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFN0RTZoMXNQZ0JUS2dHcWtFeGdKVGZtQjl2M1I4N1BYZWNkNVo5SkxPcWdQNmxIcnRkbnhRVUl1X3ZhbktwN2FKZWlmaEJXNm1DdXZLVkctLTE5T2hVS0JaUUlQVGtWTFAyaXoxbGp3NUNaRlYwRVBqQi1rLTVZbXF3VF9Ka2MyTWJacTNiandvN21CZ1E?oc=5"
+    },
+    {
       "id": "news-technology-82350af0a6",
-      "lat": 35.74824,
-      "lng": 139.72761,
+      "lat": 35.65541,
+      "lng": 139.69638,
       "title": "ソニーG傘下の音楽出版などアンソロピック提訴 AIが楽曲を｢無断学習｣",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T17:47:42Z",
@@ -354,47 +387,14 @@
     },
     {
       "id": "news-technology-8c81817d7b",
-      "lat": -4.67257,
-      "lng": -40.07467,
+      "lat": -4.69076,
+      "lng": -40.01733,
       "title": "Video How AI is changing job hunting - ABC News",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T17:38:16Z",
       "summary": "Video How AI is changing job hunting&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
       "source_name": "Breaking News, Latest News and Videos",
       "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54dDg0UmtJbHVmNy0zUFdlUFpObHh3LUV4Njl1X25NY3VKLVZWMllYUzNHUWFUcHFJUzMwb2hITmhFUWpLUWxwMjM1c0s?oc=5"
-    },
-    {
-      "id": "news-technology-42c9187746",
-      "lat": 42.73533,
-      "lng": -112.91764,
-      "title": "How AI Power Demand Transformed Caterpillar (CAT) into a High-Multiple Tech Play",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T17:35:43Z",
-      "summary": "How AI Power Demand Transformed Caterpillar (CAT) into a High-Multiple Tech Play&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUC1oQ3NORGdwWFJNTmNOOW9RSTVoUms2YmtId214Zl93MEVrR3ZpeTBxRU5UNEVVVEFVaU5LR0ctdUtBNUJwcmttM0ZpWGdjeGFCalloZmxkS2wtOWRoRm5iWVpYdS0ydVdwSUxpcWZVaWRtQTRoZHBuZ1dfMG1URUJXaVJjNU1fV3F0NzZDMXJhenA4OGhhdldwdm1COVpKekhlaTNJSQ?oc=5"
-    },
-    {
-      "id": "news-technology-6da7e9214c",
-      "lat": 45.57248,
-      "lng": -122.93388,
-      "title": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T17:35:00Z",
-      "summary": "Not Nvidia. Not AMD. This Semiconductor Giant Will Be the Ultimate Winner of the Artificial Intelligence (AI) Hardware Race.&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWJ4dGZtY3JEb2tVVU00Z0pqNFdIaHprUmQzal9rdUJnOUdFTDMtRTN3a3FRX2ctdjJEbmEwMnRMblBrTXYwS1ByaUR0NXBCaXgwd3RSOWRlb1hwa0VmWkFQaXV0SGJYWjhuSjRhX3NSNm1MR3ZKdmExVzhxd3pfeUt0MjA3REcyWXpXZnVZODJGVzgwOHJjaVlCMTQ?oc=5"
-    },
-    {
-      "id": "news-technology-36aa716ffd",
-      "lat": 38.14813,
-      "lng": -81.86866,
-      "title": "Sam Altman And Meta Admitted AI’s Problem. FDEs Are Fixing It.",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T17:24:48Z",
-      "summary": "Sam Altman And Meta Admitted AI’s Problem. FDEs Are Fixing It.&nbsp;&nbsp;Forbes",
-      "source_name": "Forbes",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTBNNlNmZGpWSWx0T2trdzQ2SUJEdHVvR0xEQXlvVGo3VVFjUkVtLU90Sy1sN1JfZnRfWnQzN19HMy1GQnRZamEyTHRSRUk2OUtOV0NjRjhxLXFoQlRDZF9HQ3ByZXpFQ09uMkp6ODloTmE4Zl9YZUhFaU8wdmRqU0h0bHNodWp3SWkzZVNSVXl0dU5va2RlOC0ydWhiYmcxWkstUDdhT0JKdTJkQ3VORQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T18:18:28Z"
+  "updated_at": "2026-08-30T18:33:36Z"
 }
