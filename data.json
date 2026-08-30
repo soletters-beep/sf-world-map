@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-f1214e8b76",
+      "lat": 38.93347,
+      "lng": -77.03194,
+      "title": "Trump says he will report NBC host to FCC for ‘rebuke or punishment’",
+      "category": "POLITICS",
+      "time": "2026-08-30T20:19:14Z",
+      "summary": "Trump says he will report NBC host to FCC for ‘rebuke or punishment’&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmk1bDFUTmpSM2M2VnVwUXBBWHdRYllnaUdpUWdvZWcwVy1abmhGTWhLTWpXVEpIa3NNSENxX1BzbUN6WEg4czlfRkgyam5mVGg4UGR1cWtIbGxMcVk2SVNPZmNac0JoV1FQdmtNY0dRLU5CRVN3akY4YUs3bVEwb1hFZDdzWUxNczAxQnktNDBqa045UlhmSlhOMklJMkNEV2dpYnpfY3JielpPalVFQg?oc=5"
+    },
+    {
       "id": "news-politics-1c4d5da38f",
-      "lat": 40.67594,
-      "lng": -73.95809,
+      "lat": 40.67832,
+      "lng": -74.00963,
       "title": "Power & Politics: The race for New York Attorney General; Dutchess County Executive eyes full kratom ban; Hudson Valley political headlines",
       "category": "POLITICS",
       "time": "2026-08-30T20:12:36Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-4d839e7cd3",
-      "lat": 38.88188,
-      "lng": -77.06501,
+      "lat": 38.87379,
+      "lng": -77.08281,
       "title": "ワシントンＤＣ：国際スポーツに介入する政治権力 選手が忠誠を誓うべき相手は誰？ 小林知代",
       "category": "POLITICS",
       "time": "2026-08-30T20:04:43Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-b5813a1307",
-      "lat": 66.98147,
-      "lng": -50.66422,
+      "lat": 66.95459,
+      "lng": -50.70143,
       "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
       "category": "POLITICS",
       "time": "2026-08-30T20:02:43Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-f14f8674e0",
-      "lat": 35.54808,
-      "lng": 139.68742,
+      "lat": 35.60522,
+      "lng": 139.71552,
       "title": "止まらない円安、金利・物価高：米国が探るポスト・トランプ政治――社会保障と株式投資の融合で格差を解消できるか 安井明彦",
       "category": "POLITICS",
       "time": "2026-08-30T20:00:15Z",
@@ -45,31 +56,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XZjRtTG1yZEMxdXRUcDdVYmQ3SWxuZElmaUF4Z0RTam51WUk4MXZ3R1NVbnE1b3NYNkZVakRrLUJCWG5BYk92OEVocGdyNENVQkx6TnVBMTQ1Y0pFTFRBemphWjMyLVp3Vk1YTnNOcUUyTndsN3VPX0NDYjgwTE0?oc=5"
     },
     {
-      "id": "news-politics-06f03dd181",
-      "lat": 33.05513,
-      "lng": 57.0156,
-      "title": "US strikes Iranian island where forces were preparing to launch mines, official says",
+      "id": "news-politics-e0b0f81619",
+      "lat": 43.0918,
+      "lng": 141.3513,
+      "title": "〈知事、市町長の日程・３１日〉｜政治｜石川のニュース",
       "category": "POLITICS",
-      "time": "2026-08-30T19:58:25Z",
-      "summary": "US strikes Iranian island where forces were preparing to launch mines, official says&nbsp;&nbsp;CNN",
-      "source_name": "CNN",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BMzJzZnJfLXZBajhJZjRWSVRwbUl2ODBQUXNrVTZyTGxuNVBkekJzTXk3UW5rUVF5THhVTUE4aURXbFV2RThwRm5vSHBlRUk0YTlKQm1nY2Ric2EzNTJHaENrOXdiT0tOWDViMXFNeUJXamRqcUZIZzV3b0M?oc=5"
-    },
-    {
-      "id": "news-politics-f05b09af28",
-      "lat": 42.67374,
-      "lng": -112.83234,
-      "title": "Power & Politics: NYC covers child care fees for low-income families; New effort to prevent SNAP benefits loss",
-      "category": "POLITICS",
-      "time": "2026-08-30T19:44:01Z",
-      "summary": "Power & Politics: NYC covers child care fees for low-income families; New effort to prevent SNAP benefits loss&nbsp;&nbsp;News12 | Bronx",
-      "source_name": "News12 | Bronx",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWI0S05obnFrRHA2M1FVMGJKMGE2ZUJvQzJ0a3Z5MGdjUmtZaUViODNCSlVhQzR0dG1YVWxINUsyVFpaRFdheXI1RHVRZTkzTzhTZWJsdG5DYlM5dTJLY2Iwd2NlNkp6Vzc2ZnlmVEpheXBkdXhWeUxQdFVTbmZnenIzYXBubWUwUzBpdTUzNERaTGVPbmNWdU5NclNjRHdXVjYwQllaSXBELTRINm5zR29PNkhLcUdHdFNoMW96dXpZR1JucTNlQzdSbw?oc=5"
+      "time": "2026-08-30T20:00:00Z",
+      "summary": "〈知事、市町長の日程・３１日〉｜政治｜石川のニュース&nbsp;&nbsp;北國新聞",
+      "source_name": "北國新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYc1RTUnpHTHhLY200ck5NNGpQa0tCQzdHclRqaGRhcElhajdtbzB3UkN6a0VMQUxrbml6RnhacUgxMGZRMWV2X2xTX0dSVjdMM0xqaTdNQQ?oc=5"
     },
     {
       "id": "news-finance-e938a482b4",
-      "lat": 35.71185,
-      "lng": 139.70446,
+      "lat": 35.68713,
+      "lng": 139.73445,
       "title": "金融ニッポン「大転換期の金融 AIが迫る変革」 10月8日開催",
       "category": "FINANCE",
       "time": "2026-08-30T20:04:06Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-413e3739e1",
-      "lat": -12.0514,
-      "lng": -77.07992,
+      "lat": -12.02701,
+      "lng": -77.06693,
       "title": "【30歳代・二人以上世帯】貯蓄額の平均はいくら？中央値は311万円、金融資産非保有は17.6％に（LIMO）",
       "category": "FINANCE",
       "time": "2026-08-30T20:01:40Z",
@@ -89,20 +89,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFdjVrb2VNTzJZaTVJck13YXNtaTJCWnFPOXhkblk5MXN4dDJkMDdabDRwZnFSOEtLUkFKUkI4TFg1S2NNXzR0a1Bwc3g5UEZaU0tjemVFLWdzUzJlbEVhazA4MGNLNnhxendub2U2dWM2dGRtVWZOdnBSblV6R3c?oc=5"
     },
     {
-      "id": "news-finance-8dbc3eb734",
-      "lat": 35.6425,
-      "lng": 139.77171,
-      "title": "ソニー生命立ち入り検討 金融庁 元社員 金銭不正受領で",
+      "id": "news-finance-7e68c4cfef",
+      "lat": 35.64937,
+      "lng": 139.67547,
+      "title": "ソニー生命立ち入り検討 金融庁 元社員、金銭不正受領で",
       "category": "FINANCE",
       "time": "2026-08-30T20:00:00Z",
-      "summary": "ソニー生命立ち入り検討 金融庁 元社員 金銭不正受領で&nbsp;&nbsp;読売新聞",
+      "summary": "ソニー生命立ち入り検討 金融庁 元社員、金銭不正受領で&nbsp;&nbsp;読売新聞",
       "source_name": "読売新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DVU8yazFfYmk4ZzVUdVdvemdTUkdlTHVOOVRJc1VsYk9WQ2RZcEZkY3BsZXEwMk8wSXRfak14bzlsQlRVV2dyVkRjRDh3MWdnSGtWNHRjbHlncGFDNGZ5aWRtSTg?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zc1pQQWdad3l3X3NTM0JkRVF3VHpWMlZXVmZZRUIxTWNqNFJyUHJiMHNrRGNNQWdMVHpJMU9UUHZnR3FsT2N0d3N4MVNlclBQWi1uSVYxQTF2NDVaS2QyR19jMA?oc=5"
     },
     {
       "id": "news-finance-6b7876904d",
-      "lat": 40.99374,
-      "lng": 38.86697,
+      "lat": 41.00724,
+      "lng": 38.88124,
       "title": "Civil engineering firm adds finance VP, snags $40K city incentive",
       "category": "FINANCE",
       "time": "2026-08-30T19:10:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-ba2d7c1697",
-      "lat": 55.75952,
-      "lng": 12.53704,
+      "lat": 55.75635,
+      "lng": 12.54991,
       "title": "GLOBAL MARKETS CALL: Bull Market In Stocks Despite Bear Market In Bonds",
       "category": "FINANCE",
       "time": "2026-08-30T19:07:22Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-1be4c32e6c",
-      "lat": 34.54098,
-      "lng": 108.93014,
+      "lat": 34.50578,
+      "lng": 108.92478,
       "title": "China Growth - Can “Little Giants” Save the Day?",
       "category": "FINANCE",
       "time": "2026-08-30T18:51:26Z",
@@ -133,9 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRE5fYkhNS2w2U0F4eFIzeDkzUUVCN29ZamUwQkFaYXFQMFdNb2Q5RTZmeGstbTF6UnpZcmJLdlVVVE9ydEx4ZE1RWlNZMlN4dC1PSTBUVmRUcUo2STVScnAxM182TkRSUjJ6cjYxaEVscEN0ZlVhV0gycXRpcVJRX09iVlJXcnNrU2YtcWdYcWNXQVhjQ0RvZ3o4OXJqSjFhc1Jlag?oc=5"
     },
     {
+      "id": "news-disaster-b52836993b",
+      "lat": 53.41427,
+      "lng": -6.11907,
+      "title": "Fifteen Britons among 261 foreigners missing in China after floods",
+      "category": "DISASTER",
+      "time": "2026-08-30T20:26:00Z",
+      "summary": "Fifteen Britons among 261 foreigners missing in China after floods&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNS1Ga3VqYzRrQmZ4c3lDSTgxdGRzS1pYNWR6cnhmWHBneW9laklFeUg5aXdla19HTkJsZEhxaXRxTHF4RXpJZEh5eFVWZmZ1Qng5SWphUmJ1b1U0ZnVNQ0RhRnJuZEFhbWh3el9nOGs5Z2NZYUxZdUhTYnFnaWROU3BrNjc2VmJaM2YzbkNxM3Z4N2JqOHQ4SU9xLWRUUQ?oc=5"
+    },
+    {
       "id": "news-disaster-be6b438869",
-      "lat": 52.47503,
-      "lng": -2.94083,
+      "lat": 52.52727,
+      "lng": -2.95298,
       "title": "More than 20 hikers missing after flash flood in Grand Canyon National Park",
       "category": "DISASTER",
       "time": "2026-08-30T20:12:08Z",
@@ -144,20 +155,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmNKOFpwZVVManRvSjdMSTVzZDJaMGd0NDM5dnJDbkNmRE9ETm1VbHpUb2doQzROd0Z5ejd3dEIzM1MzNGlSLXZ6ZjZEOFZ1Vlota3NrS3dRakxLWFVMMHNfNTd4T1RHWVpETGJVRVk5Ykl4MWJFRGx0a1otUnFOX1V4cjZjTVJvNlZqMVB5YTJGcXFzZ0llaHlaaFBLTlg1VERMVkRR?oc=5"
     },
     {
-      "id": "news-disaster-b52836993b",
-      "lat": 53.41741,
-      "lng": -6.19677,
-      "title": "Fifteen Britons among 261 foreigners missing in China after floods",
+      "id": "news-disaster-a085b993ec",
+      "lat": 28.38906,
+      "lng": 83.97568,
+      "title": "Nepal starts mass burials of hundreds ⁠of flood victims",
       "category": "DISASTER",
-      "time": "2026-08-30T20:10:00Z",
-      "summary": "Fifteen Britons among 261 foreigners missing in China after floods&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNS1Ga3VqYzRrQmZ4c3lDSTgxdGRzS1pYNWR6cnhmWHBneW9laklFeUg5aXdla19HTkJsZEhxaXRxTHF4RXpJZEh5eFVWZmZ1Qng5SWphUmJ1b1U0ZnVNQ0RhRnJuZEFhbWh3el9nOGs5Z2NZYUxZdUhTYnFnaWROU3BrNjc2VmJaM2YzbkNxM3Z4N2JqOHQ4SU9xLWRUUQ?oc=5"
+      "time": "2026-08-30T20:10:39Z",
+      "summary": "Nepal starts mass burials of hundreds ⁠of flood victims&nbsp;&nbsp;dw.com",
+      "source_name": "dw.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVk9nbWxZQXBMU2dJRjRiejA5d3NpVlFjN25kMjVNb3V1dlFOakRfdmVwSVFCa0dfWXdYUV91LWplcW8tSmpKNGVnMVlmTHc2MGY0dFZieVBMUEJrSG4yejJDS050TGNqMkZJVGVwREZnbl9NYVFBNUtyaDMwMVZiNmVBeE05VW1DakFFc2lUTkJRY1lmc0E?oc=5"
     },
     {
       "id": "news-disaster-c555e7d28b",
-      "lat": 71.96684,
-      "lng": -24.9317,
+      "lat": 71.93149,
+      "lng": -24.94385,
       "title": "「想定外の豪雨」対策は下水道拡張でいいのか？都市での“雨の受け止め方”を考える（Wedge（ウェッジ））",
       "category": "DISASTER",
       "time": "2026-08-30T20:06:21Z",
@@ -167,8 +178,8 @@
     },
     {
       "id": "news-disaster-68a150c9c5",
-      "lat": 9.70601,
-      "lng": 38.83335,
+      "lat": 9.6653,
+      "lng": 38.83511,
       "title": "被災地にシャワー室届けた清水建設発ベンチャー、災害関連死ゼロ掲げ起業",
       "category": "DISASTER",
       "time": "2026-08-30T20:00:00Z",
@@ -177,20 +188,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fSG9aaFVtcEhieWxiMDJQbXBHeU5icm1xY0lRVkV5UWg0YnYxOFBfbUxxZi1PZEhnUlhHd0dLc3pVLTNyVGJxZHBpSkNPM0ExN3J6TWt3cWdJel9feGZGc013cnlpaGFKOWllcA?oc=5"
     },
     {
-      "id": "news-disaster-97f1eaca1b",
-      "lat": 35.70912,
-      "lng": 139.81118,
-      "title": "千葉豪雨で病院やマンションが停電や断水、地下の電気設備やポンプが水没",
-      "category": "DISASTER",
-      "time": "2026-08-30T20:00:00Z",
-      "summary": "千葉豪雨で病院やマンションが停電や断水、地下の電気設備やポンプが水没&nbsp;&nbsp;日経クロステック",
-      "source_name": "日経クロステック",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdjRnaGF2bzhzUFhFMEFrVExOT0lBOV9CTENOTkFTU0c0N3Qyc2toZmkyLVlIY3g2aFhFV05tczVfMGdzS1dxbC0zbTEyQkxyMmJaVmhaSGUtaUM5YVh5bHdBc2RYZE0?oc=5"
-    },
-    {
       "id": "news-disaster-316568a028",
-      "lat": 28.42957,
-      "lng": 84.01691,
+      "lat": 28.41974,
+      "lng": 84.04931,
       "title": "Nepal warns of possible fresh flooding as communities grapple with devastation",
       "category": "DISASTER",
       "time": "2026-08-30T19:57:00Z",
@@ -200,8 +200,8 @@
     },
     {
       "id": "news-accident-96026e83e1",
-      "lat": 35.72272,
-      "lng": 139.78547,
+      "lat": 35.72137,
+      "lng": 139.75223,
       "title": "「ふるさとを奪われたという実感を自分の言葉で語ることは難しい」原発事故から15年 生後5カ月で避難した少女が訴える「無関心への危機感」 原発避難者が国と東京電力の責任問うた裁判 大阪地裁で判決へ（関西テレビ）",
       "category": "ACCIDENT",
       "time": "2026-08-30T20:07:49Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-d73df82081",
-      "lat": 34.93566,
-      "lng": 135.16062,
+      "lat": 34.95034,
+      "lng": 135.22269,
       "title": "八潮道路陥没事故の復旧、工程別のリスク対応表 埼玉県が作成",
       "category": "ACCIDENT",
       "time": "2026-08-30T20:00:00Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-1c6b8aaa8a",
-      "lat": 0.41477,
-      "lng": 9.63537,
+      "lat": 0.43156,
+      "lng": 9.64277,
       "title": "Car bursts into flames after Route 202 crash in New Salem",
       "category": "ACCIDENT",
       "time": "2026-08-30T19:59:58Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-6cee8f080f",
-      "lat": -5.15669,
-      "lng": 139.92992,
+      "lat": -5.11747,
+      "lng": 139.96812,
       "title": "Woman taken to hospital for evaluation after Portland Avenue crash",
       "category": "ACCIDENT",
       "time": "2026-08-30T19:50:47Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-7257dd3a54",
-      "lat": 40.6433,
-      "lng": -73.92902,
+      "lat": 40.63704,
+      "lng": -74.00133,
       "title": "Names released in fatal four-car crash near Brookings",
       "category": "ACCIDENT",
       "time": "2026-08-30T19:33:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-3d6b8590fe",
-      "lat": 33.47587,
-      "lng": -112.10083,
+      "lat": 33.39156,
+      "lng": -112.05854,
       "title": "How Phoenix car accident lawyers identify the factors that led to a crash",
       "category": "ACCIDENT",
       "time": "2026-08-30T19:08:19Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-368a151612",
-      "lat": 35.52355,
-      "lng": 139.53144,
+      "lat": 35.51583,
+      "lng": 139.55561,
       "title": "インフルエンザ様疾患による学級閉鎖等の報告状況（2026/2027シーズン）",
       "category": "DISEASE",
       "time": "2026-08-30T15:07:48Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.82691,
-      "lng": 106.6664,
+      "lat": 10.74013,
+      "lng": 106.72907,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 9.98867,
-      "lng": 106.25587,
+      "lat": 10.083,
+      "lng": 106.30448,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.7684,
-      "lng": 139.89046,
+      "lat": 35.71188,
+      "lng": 139.79546,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 41.01835,
-      "lng": 29.02479,
+      "lat": 40.99013,
+      "lng": 28.96604,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.95505,
-      "lng": 131.46555,
+      "lat": 31.90559,
+      "lng": 131.38223,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -331,9 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUcll0QnBpdlZESmEzLXRfZnFaekh0VEVmODVVc1Fwejdfc2VxbzBxMWpVeXlMdW9ZSjZqTzFyT3VKQTJnaE9mRE44dTRYdVMyeHA2bmgxb2ZzWFhPdUFzQzN3WTZQeF82b0NqR0o2NFNRRkxPeXlibVFWVmdqQUk?oc=5"
     },
     {
+      "id": "news-technology-36aa716ffd",
+      "lat": 38.2052,
+      "lng": -81.87345,
+      "title": "Sam Altman And Meta Admitted AI’s Problem. FDEs Are Fixing It.",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T20:16:18Z",
+      "summary": "Sam Altman And Meta Admitted AI’s Problem. FDEs Are Fixing It.&nbsp;&nbsp;Forbes",
+      "source_name": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTBNNlNmZGpWSWx0T2trdzQ2SUJEdHVvR0xEQXlvVGo3VVFjUkVtLU90Sy1sN1JfZnRfWnQzN19HMy1GQnRZamEyTHRSRUk2OUtOV0NjRjhxLXFoQlRDZF9HQ3ByZXpFQ09uMkp6ODloTmE4Zl9YZUhFaU8wdmRqU0h0bHNodWp3SWkzZVNSVXl0dU5va2RlOC0ydWhiYmcxWkstUDdhT0JKdTJkQ3VORQ?oc=5"
+    },
+    {
       "id": "news-technology-a421b67abc",
-      "lat": 48.49743,
-      "lng": -117.31898,
+      "lat": 48.43012,
+      "lng": -117.33722,
       "title": "Visualizing Jared Triolo's swing using bat tracking technology",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T20:10:36Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-1e68d82e25",
-      "lat": 59.09927,
-      "lng": 10.29442,
+      "lat": 59.19384,
+      "lng": 10.26734,
       "title": "From Inflation To AI: How Retailers Can Stay Ahead This Holiday Season",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T20:06:45Z",
@@ -354,8 +365,8 @@
     },
     {
       "id": "news-technology-ca9364c097",
-      "lat": 38.88786,
-      "lng": 141.0607,
+      "lat": 38.90192,
+      "lng": 141.13992,
       "title": "「AIと人の役割分担」「リテラシー教育」などが営業プロセスの再設計を上回る／ウィルグループ調査：saleszine",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T20:03:45Z",
@@ -365,8 +376,8 @@
     },
     {
       "id": "news-technology-25d180cea2",
-      "lat": 7.26228,
-      "lng": -9.04114,
+      "lat": 7.22049,
+      "lng": -8.96242,
       "title": "AI in the Catholic Classroom: As a New School Year Starts, What Role Does It Play?",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T20:01:12Z",
@@ -376,25 +387,14 @@
     },
     {
       "id": "news-technology-dde75555e2",
-      "lat": 35.6801,
-      "lng": 139.6918,
+      "lat": 35.68382,
+      "lng": 139.75973,
       "title": "社内承認の最大の壁は「費用対効果」、ネットワーク・IT基盤の購買行動調査2026",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T20:01:00Z",
       "summary": "社内承認の最大の壁は「費用対効果」、ネットワーク・IT基盤の購買行動調査2026&nbsp;&nbsp;日経クロステック Active",
       "source_name": "日経クロステック Active",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzd6a29nVF85R1JOX1ZwNWIxbENrdy1oWkFkS3NKQnpWMGxDNFk1bEp5ZzI5Q1gyN2x5NXpoeUpaQ3k3bDFUb2NzQXZuQTF5X1Q5UDJWYS1XVVV4YmRfYUsybXZFRm5DdzRQdjNrd1NHWGxYSzhBVDNyWXJMLXAzSVV0MGlsbzFWQ0sxcVJjU2F2ejQ?oc=5"
-    },
-    {
-      "id": "news-technology-812fd27032",
-      "lat": 38.43245,
-      "lng": -85.54281,
-      "title": "Classroom devices deprive kids of skills needed in the AI future and how to be 'fully human'",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T20:01:00Z",
-      "summary": "Classroom devices deprive kids of skills needed in the AI future and how to be 'fully human'&nbsp;&nbsp;Fortune",
-      "source_name": "Fortune",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeTZpT1NCSERlaGlqNG1zbjR3RkhPMHJqQ3lWMUVyRlhiT0E1TXRSVjlQWTlXWER4aDdxZEU0aXRWVld3cmNqcFFWeTFKMmhlOGhsQlN5RTF3MTRkVEZKMDhhdGxTWExqQUpDYnBGcnBSR0xxUkRBVllNNDk3UGdHLUpQYzlqMmF2VUJFU1lEd0diOTJrNFVpQldEMllxSkR2eEpIWVp5YnFuVkljTDlYSy0ycWc5dzlCRzlB?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T20:18:53Z"
+  "updated_at": "2026-08-30T20:33:36Z"
 }
