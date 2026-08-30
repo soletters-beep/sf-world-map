@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-b5813a1307",
+      "lat": 37.1931,
+      "lng": 127.08344,
+      "title": "Boat carrying some 270 people capsizes off northern Cyprus, local media report",
+      "category": "POLITICS",
+      "time": "2026-08-30T11:55:48Z",
+      "summary": "The local mayor says 159 passengers have been reached so far, with a rescue operation under way.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-7d44cd4e02",
+      "lat": 54.44553,
+      "lng": -1.63783,
+      "title": "Moulton says Sen. Markey, 80, is too old for another term. Young Massachusetts Democrats are divided",
+      "category": "POLITICS",
+      "time": "2026-08-30T11:46:56Z",
+      "summary": "Moulton says Sen. Markey, 80, is too old for another term. Young Massachusetts Democrats are divided&nbsp;&nbsp;News4JAX",
+      "source_name": "News4JAX",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQzluT1M4VGY5LUQtbTR5OGJHZlVvZHRnWEFZRm52NlRIbkJCVmVTWXF3M2t6NGdHRDR2S0NDUEtIejFrYmstYmtkSjZvMFRXSjZJTHdUQzBMMmt6WVpSejZVUVh2MW1aZFpEbTh6VDVtUHFpejFiRW05Ql9OcTM4dXBrMzVybEc2blBwTWpjOEgySW1OVk5uczJZcUJTUXRxbUliSjBEMllxZGZpS2pEOUk5SWhOajREOUs4NGhhNzcxc1gwTmUxYjhveUtjb2JSSzRtYkowZWVaRk1XU3NQWg?oc=5"
+    },
+    {
       "id": "news-politics-1d75ea6504",
-      "lat": 47.28677,
-      "lng": -1.22166,
+      "lat": 47.30866,
+      "lng": -1.2375,
       "title": "Drain on U.S. Munitions From Iran War Raises Fears Over Ability to Deter China, Russia",
       "category": "POLITICS",
       "time": "2026-08-30T11:31:08Z",
@@ -12,20 +34,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdDBDT1BvLTZoeWl6NXlyOXFyT1pWWGFHOWFnc2wyRnZaWmtibTdyVFVJMnk0SUxVNkk2b0F6SzNaU2ZmYWg2YWJJdFN1Nk56U1JkQ1dBdWlWbmdkTWI2S05aOEJRb1pHMnRvMkZ6dEk3Q2NkOUM4SkRxZmNmZTZqaS1UcWYyaTdwZUNUeU9LOVRKRTloVUQ4dXRKRmVhZGFOeEJqRlA3UElpLUtmdjdNckxURTdVVnN6ZTdwT3hkWVY1ckNlMHVDcjdSNUo1UnpTcU4xMzY3OA?oc=5"
     },
     {
-      "id": "news-politics-c7ca8a549f",
-      "lat": 64.67575,
-      "lng": 97.76694,
-      "title": "Russia’s escalating hybrid attacks put Europeans in a bind",
-      "category": "POLITICS",
-      "time": "2026-08-30T11:30:00Z",
-      "summary": "Russia’s escalating hybrid attacks put Europeans in a bind&nbsp;&nbsp;news8000.com",
-      "source_name": "news8000.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbTV3QlNCMzVqTTBnbFUzd3RuZ0JxWUdpR1NXWHpBVk1ZZnhRdGNzVWk4QzFtUTBvLXo3VTNhcnVnZFoza0xWSDhKUXZQV1VSWEtoaTViNW1wejZvR0ljYWdSdXZWRlZsbW1nSXpZdW9jSEd2WWViMklHSnZQMS1VUnhtekdXWVlMSGZXdm1wbFI5amNzWVZpSXh0NWNJaUgyVjBDZi1ESVVsZFUtdUUzdUtfalJXVWtEMTdJSi0zUmQtR3NiTURZTXpUbGNBVUxZLTVKU2ZoSTBCUkNSSzVVZmJVV3lucVluRnBka2VjS0lEOVVTYVM4Rg?oc=5"
-    },
-    {
       "id": "news-politics-928f269622",
-      "lat": 33.63376,
-      "lng": 130.36536,
+      "lat": 33.59862,
+      "lng": 130.42763,
       "title": "福岡県議会の議連に県が毎年上限1200万円を補助 旅費などに支出 [福岡県]",
       "category": "POLITICS",
       "time": "2026-08-30T11:26:45Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-3d24b56bcc",
-      "lat": 40.85309,
-      "lng": -73.09263,
+      "lat": 40.81762,
+      "lng": -73.14301,
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "category": "POLITICS",
       "time": "2026-08-30T11:25:11Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-c510f969ee",
-      "lat": -19.56568,
-      "lng": -63.43982,
+      "lat": -19.59654,
+      "lng": -63.38507,
       "title": "米財務省が事前通告なしにユーロ売り・円買い 欧州中央銀行、ドルスワップ枠の「政治的道具化」に懸念",
       "category": "POLITICS",
       "time": "2026-08-30T11:25:00Z",
@@ -56,20 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DNTFvQXVCT0V0NFVwS1lfWEE2eDY0S1g5RDF1dHRiQjBKc2ZDalZ5TmJyN0o4NlVFRENyZjBkTHZ4ZkZ5UDhvN01VRkIzbGphZU9obDNmZk4wbXcyTS0ybTVDOXdGS3FyaHdPRU1OeEMxMlRr?oc=5"
     },
     {
-      "id": "news-politics-7d1d411188",
-      "lat": -28.61469,
-      "lng": 153.37166,
-      "title": "Protesters in Argentina urge tech billionaire Peter Thiel to leave",
-      "category": "POLITICS",
-      "time": "2026-08-30T11:19:44Z",
-      "summary": "Protesters in Argentina urge tech billionaire Peter Thiel to leave&nbsp;&nbsp;Al Jazeera",
-      "source_name": "Al Jazeera",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2NBSjRyYXZZNkdkbC15VnlVR19ESmstUzEtTGVCVDJ6cGw2RkJsMl9JQUE4eVBnLWg2cGpNNUpuR3lMTmJWTDR6VkNaZ3lLczVwN183clJwbkRfdExwaVVLY3Z5dkhnQ29DQWxjMWlLazl0RUwzVWtHODE4dDNoUXoxdWhQdEtxcnZHRDVHNkk3blotMS0tbVQyS2Z4ekE2ZWZJNWhPWGxkcjU2OVhqa1U5cU02YWU20gG-AUFVX3lxTFBLYzdwaExiNkdQNmFRQk5OVDNtODcxSFBybkxheGtUc3FsVnAxbWNQVl8zRTQyVmlxSXVZazVVMEwxWjNaV3B5enlKMGlTWDRxU055ZnVKRVNvSDZYVjF0V3ozZHFvN2E0RkdEWU9mekhlcHRnWE5oZkluMmhDbzJWOW9IVDZxUVhxRWh5clMwaHViWW9CSFBEY1dNeDRvSWlrM3ZwazZTZVctMmxNNGFYRVQyYWxRMW1LM1BGMlE?oc=5"
-    },
-    {
       "id": "news-finance-578b875745",
-      "lat": 35.74548,
-      "lng": 139.69233,
+      "lat": 35.67342,
+      "lng": 139.76406,
       "title": "金融庁、ソニー生命に立ち入り検査検討 金銭不祥事の解明急ぐ",
       "category": "FINANCE",
       "time": "2026-08-30T11:33:00Z",
@@ -78,20 +78,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Qa3lBNm1Sb3JwNDdLSVNqOTl0TG9HOFg1UjBHWjgwaWFUUllKS0V2YnZ2LXRwaDBvcVRsT0NsVXc3bEUtZjRxWXFVajdHR1A5RUxmOUJLQjBlTElGUEdaRnR4MUtfX0N6Smd3Yw?oc=5"
     },
     {
-      "id": "news-finance-f374bf1690",
-      "lat": 47.54599,
-      "lng": -2.63471,
-      "title": "RTX's $289 Billion Backlog Is Mainly Commercial, Not Defense. Here's Why That Split Is the Real Story.",
-      "category": "FINANCE",
-      "time": "2026-08-30T11:07:00Z",
-      "summary": "RTX's $289 Billion Backlog Is Mainly Commercial, Not Defense. Here's Why That Split Is the Real Story.&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUZJRTlhQktCOUt2S3Q1Ulg5SHNMZ3k5TjY5WEg2ZEp5UVRWNnI2SG9mVWdUSjRWemlacUVvazJsT1hUVFFKNDBPVk9vRDlEVExpdEZXaFhOUnExZ25xTGk2RUxKTFpMV2hOd21DYU9uRXRNeVl3cUw5NEhlS1IwcnlvUGxORVBidE5QeG1hOEZqT3ZUcXJPS0lfUUQ?oc=5"
-    },
-    {
       "id": "news-finance-c796a43a21",
-      "lat": 49.74259,
-      "lng": 4.66315,
+      "lat": 49.70707,
+      "lng": 4.61789,
       "title": "‘This is an all-out war’: Inside the casino industry’s fight to stop prediction markets",
       "category": "FINANCE",
       "time": "2026-08-30T11:00:29Z",
@@ -100,9 +89,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2VuSmhOV0oxSzdVa2xTc0p3c2I0bDBJM19sSG1mLUM4TzRnQUxRQ2JtVDlZdDlmS0c4b0VrandrVFZ4NnFOZjI5WEpsakhvVVI2UmhVVEkzd3ZqOTF3YXhXaVZtMkF2dnFhX0cyXzBtQ3JXZE1OdjJGX3pQLWhsS2FB?oc=5"
     },
     {
+      "id": "news-finance-7768cba612",
+      "lat": 51.71288,
+      "lng": 0.4903,
+      "title": "The Stock Market Is Doing Something That's Been Witnessed Just 3 Times Over Nearly 156 Years -- and This Signal Has Proven Disastrous for Wall Street",
+      "category": "FINANCE",
+      "time": "2026-08-30T10:56:01Z",
+      "summary": "The Stock Market Is Doing Something That's Been Witnessed Just 3 Times Over Nearly 156 Years -- and This Signal Has Proven Disastrous for Wall Street&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUnRhY253MTZsaERyTW1pcmVDZEVQRmlCYlROTHNLZnB4NVdjcWxwSVhMbXd0OEhxclM1SzdRSWJNWEFheklscnRMd2VfMkFBOTlRWTdSRHBmZlFBUUNPNW8tOWFXc1pZSThaZjBEME5DQnZzT1ppZ181aTFDX3RGenkxcTFiY2ZjMHNYeHJ2MUVZZndMOWRVamhZSXg2c2RU?oc=5"
+    },
+    {
       "id": "news-finance-2939235548",
-      "lat": 35.65838,
-      "lng": 139.7459,
+      "lat": 35.68315,
+      "lng": 139.75588,
       "title": "ソニー生命に立ち入り検査へ 不祥事で金融庁、プルデンシャルに続き",
       "category": "FINANCE",
       "time": "2026-08-30T10:30:34Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-d86a2d1dd2",
-      "lat": 55.96564,
-      "lng": 2.86093,
+      "lat": 55.9541,
+      "lng": 2.79614,
       "title": "German Finance Minister to Press G20 on Iran War, Trade Fights",
       "category": "FINANCE",
       "time": "2026-08-30T10:30:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-2663986d67",
-      "lat": -24.81788,
-      "lng": 134.78017,
+      "lat": -24.77423,
+      "lng": 134.71373,
       "title": "Australian Small Cap Stocks With Real Earnings Investors May Be Missing",
       "category": "FINANCE",
       "time": "2026-08-30T10:15:56Z",
@@ -133,9 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbnVySDRoWE4zX3ZPWV9xVjBJbU5heTMwTjVQdndpMnBaQVlnZ040QW92OUlIbzBQMU9ia0QyVjVwZXBZWVF2bVhrSnlFeWpTM0d0UTFRYjd4VGtQNzlwajR2ZF9hM25OX0JqNXZhdkIwdjA5TUJDdnpiWTlNd0pHems3V1lrV2FVY3lSUmxnVFFrX0dzbDFJUnJkOHNKUQ?oc=5"
     },
     {
+      "id": "news-disaster-0045daf1a9",
+      "lat": 53.98401,
+      "lng": 27.53523,
+      "title": "Rescuers race to find thousands missing after Nepal-China glacier collapse",
+      "category": "DISASTER",
+      "time": "2026-08-30T11:29:43Z",
+      "summary": "Rescuers race to find thousands missing after Nepal-China glacier collapse&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5"
+    },
+    {
       "id": "news-disaster-bdfd6cde00",
-      "lat": 9.61086,
-      "lng": -0.4518,
+      "lat": 9.65211,
+      "lng": -0.35374,
       "title": "Repeated rounds of storms to bring renewed flash flood risk to already-soaked Northern Tier",
       "category": "DISASTER",
       "time": "2026-08-30T11:13:11Z",
@@ -145,8 +156,8 @@
     },
     {
       "id": "news-disaster-ff93a8b009",
-      "lat": 32.8445,
-      "lng": 130.77513,
+      "lat": 32.73184,
+      "lng": 130.69402,
       "title": "熊本地震で被災…外国人の住民対象に行政書士らの相談会 熊本・氷川町（2026年8月30日掲載）｜日テレNEWS NNN",
       "category": "DISASTER",
       "time": "2026-08-30T11:06:00Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-808193ebb5",
-      "lat": 28.37376,
-      "lng": 84.01542,
+      "lat": 28.42543,
+      "lng": 84.04682,
       "title": "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
       "category": "DISASTER",
       "time": "2026-08-30T10:58:09Z",
@@ -167,8 +178,8 @@
     },
     {
       "id": "news-disaster-432f7ca71b",
-      "lat": 28.40101,
-      "lng": 84.04448,
+      "lat": 28.35724,
+      "lng": 83.9646,
       "title": "Nepal warns of more possible floods as communities grapple with devastation",
       "category": "DISASTER",
       "time": "2026-08-30T10:52:00Z",
@@ -178,8 +189,8 @@
     },
     {
       "id": "news-disaster-e38944dac3",
-      "lat": 36.60275,
-      "lng": 139.22267,
+      "lat": 36.51988,
+      "lng": 139.21312,
       "title": "災害は“遠い出来事”じゃない…過去の教訓から命を守る行動につなげる新制度「NIPPON防災資産」とは？（TOKYO FM＋）",
       "category": "DISASTER",
       "time": "2026-08-30T10:50:24Z",
@@ -188,20 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pdWpoQXlIQ21WWDl1bmprTk5OMlQtNDBtclNCTjdmV21ValozTDNNbzJQVXNBaU52LTdGYms2eDFoNzBUQUFlX0JYYTVuUFlMTWQ0d0Z6dkRabGJaSUtGc0pYUzFMaElxVkRzRmRzZ0tyelhTUUNsQVdOaThPVnc?oc=5"
     },
     {
-      "id": "news-disaster-2f13388ca3",
-      "lat": 51.42589,
-      "lng": -2.58136,
-      "title": "Fears of more flooding in Nepal, 100 Americans among the missing as rescue efforts step up",
-      "category": "DISASTER",
-      "time": "2026-08-30T10:30:43Z",
-      "summary": "Fears of more flooding in Nepal, 100 Americans among the missing as rescue efforts step up&nbsp;&nbsp;NBC News",
-      "source_name": "NBC News",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2RBUzdQUWtSNWxxS0xtdXJybUtxbDl6RUNDUm1tc3FWWWYweE5iWXRCeU01SFE0WndHVjMtMmpaOVNXeFVPYUx6RDd2SjBRQTZ1bnhwbDNKc0w0WWxIMHF0TXNVT2ZHaUpuOGRFSjZpXzVnVGZSTkZiUS0xa3c1cnJIWDdIQUgzb1dUTnE0U185b0tidTRxSWliTnQtSlhiQ2JTQ0xkTWM3RzZx?oc=5"
+      "id": "news-accident-b636cd933d",
+      "lat": 35.18155,
+      "lng": 136.93992,
+      "title": "「死のハイウェー」からオオアリクイを守れ 行政を動かした「逆転の発想」（ナショナル ジオグラフィック日本版）",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T11:10:34Z",
+      "summary": "「死のハイウェー」からオオアリクイを守れ 行政を動かした「逆転の発想」（ナショナル ジオグラフィック日本版）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNNUl3TWplS2xtSWExaWhtaGtqT0RFMERtYVh0UTJMdkVlWXpCeU5YNG5PZXUzTldtNEp3QXBDT0JaQVAtZDJ1SHJJUEpDOVBNSndwWHU0MjMxcGxsRlFseU03YkRSWFNUeUhLbXRpRkR3TzVvSEE2aXdZQUFLZzg?oc=5"
     },
     {
       "id": "news-accident-da69d4f379",
-      "lat": -12.5199,
-      "lng": 130.96296,
+      "lat": -12.52684,
+      "lng": 131.01113,
       "title": "Driver seriously injured in I-75 crash near Shiloh Road in Cobb County",
       "category": "ACCIDENT",
       "time": "2026-08-30T10:58:01Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-24003c2a72",
-      "lat": 33.56682,
-      "lng": -101.88805,
+      "lat": 33.60623,
+      "lng": -101.82158,
       "title": "Interstate 94 Collision Near Opportunity Drive In St. Cloud Sends One To Hospital Friday Afternoon",
       "category": "ACCIDENT",
       "time": "2026-08-30T10:47:13Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-cc0f7af3ef",
-      "lat": 35.69467,
-      "lng": 139.70319,
+      "lat": 35.6518,
+      "lng": 139.65205,
       "title": "東武事故 見張り員「車で向かう途中に事故」 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
       "category": "ACCIDENT",
       "time": "2026-08-30T10:19:45Z",
@@ -232,20 +243,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdUJidmhVRzdpVmd1dnRnaFlUc1lUakdWbmc3LTIwYTFFYkNVMno5ZWFXeENKSXdfZUNKVWpPSzJNaXMwWF9XSG9kSXJweUdsSFhlVUZuY2lMZ2xNaXp3Zmo1bGxGSnVtMm5xa1NqNlh1NDd4Qnlsa0JjVjdBdVN4ZlpJVk5oS3ByR01TZWFwWklzN3pZZjJKWkZwazRuV1l3ckphdHFERlpaMHF2eW5mZnBNTlVaRGVJWXJySFYxMWVjV2IwdTItVVlGdzg3NjN3NURfU0FtZDhKdHZXTjlRcVR4bTYwcmRx?oc=5"
     },
     {
-      "id": "news-accident-a3b0ee4752",
-      "lat": 8.12999,
-      "lng": -2.80831,
-      "title": "東武鉄道4人死亡事故 見張り員「車で向かっている途中に起きた」（ABEMA TIMES）",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T10:09:15Z",
-      "summary": "東武鉄道4人死亡事故 見張り員「車で向かっている途中に起きた」（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yUUw2UmcwOWRFdDl5SkdYRDVDeUNLcDIzTzJYcEduZnpPZjNwbjV4U1U3emFjcklwMHMydGY4cHhZR29YaW0yWUpPdkltcjBtOG1rSC1EUE16SGRaOWdhN2luVUY4eGdCZUZvU3RWQktnQ0V6UDBtSk5EdGtfUUU?oc=5"
-    },
-    {
       "id": "news-accident-e0bd546cba",
-      "lat": 31.5614,
-      "lng": 130.55366,
+      "lat": 31.53747,
+      "lng": 130.57727,
       "title": "パトカー追跡中の２人乗り原付バイクが事故 けが人なし【鹿児島】",
       "category": "ACCIDENT",
       "time": "2026-08-30T09:35:01Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-879ec3b6d6",
-      "lat": 35.70416,
-      "lng": 139.71239,
+      "lat": 35.66687,
+      "lng": 139.79908,
       "title": "自動車学校で交通安全夏祭り スタントマンが事故再現 東京（毎日新聞）",
       "category": "ACCIDENT",
       "time": "2026-08-30T09:25:38Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.74237,
-      "lng": 106.70584,
+      "lat": 10.81096,
+      "lng": 106.69713,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.1051,
-      "lng": 106.34717,
+      "lat": 10.03182,
+      "lng": 106.28173,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.69779,
-      "lng": 139.81269,
+      "lat": 35.692,
+      "lng": 139.90927,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 41.00718,
-      "lng": 28.96127,
+      "lat": 40.96333,
+      "lng": 28.91871,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.91282,
-      "lng": 131.39642,
+      "lat": 31.95426,
+      "lng": 131.44171,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 35.05553,
-      "lng": 135.80239,
+      "lat": 34.96534,
+      "lng": 135.77506,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -332,69 +332,69 @@
     },
     {
       "id": "news-technology-782c969f44",
-      "lat": 38.87002,
-      "lng": -77.53563,
+      "lat": 38.92415,
+      "lng": -77.46859,
       "title": "Prediction: If Artificial Intelligence (AI) Leads to Unprecedented Economic Growth, These 2 S&P 500 Stocks Are Once-in-a-Decade Buying Opportunities Right Now",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T11:42:52Z",
+      "time": "2026-08-30T12:03:24Z",
       "summary": "Prediction: If Artificial Intelligence (AI) Leads to Unprecedented Economic Growth, These 2 S&amp;P 500 Stocks Are Once-in-a-Decade Buying Opportunities Right Now&nbsp;&nbsp;The Motley Fool",
       "source_name": "The Motley Fool",
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSzk2UlNCMXphU1NZTzk5Vm1HZ1dUazFtd3BNNXlORWxITHlyMzBpMkZWaERWdkVoSnBrbzNlWWppWFVjNWdQcjM2ZTFrSHZzbVRuV3pEUklHSE1pQWpjdkJ1STRadVRIRWdSNTI5eFBEeklTVHJsU1hrb3ExT2xfTF9JbXoyaXdKVUptRUJ3TQ?oc=5"
     },
     {
+      "id": "news-technology-547a6c1546",
+      "lat": 43.93374,
+      "lng": -78.57258,
+      "title": "歯科一家の現役歯科大生のリアルレビュー！CanCam it girl まこのオーラルケア大賞6（CanCam.jp）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T12:00:12Z",
+      "summary": "歯科一家の現役歯科大生のリアルレビュー！CanCam it girl まこのオーラルケア大賞6（CanCam.jp）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94emQ4bGkwSWN0LXMwX3hlcHphTVlsYjV4Qml6Ump1cV9rTGdYektmN3g0Sl9HMDBfdEVvSWlleTB5REVXRTZaenh3YW1SSzlGTUhfejVxZ2ljeWVuRGVoZkJjc1pyb2pnWE04cEQ0RTFubWNEYl9vZVZrY1pwZlE?oc=5"
+    },
+    {
       "id": "news-technology-1c2b7c8338",
-      "lat": 37.3452,
-      "lng": -121.93544,
-      "title": "Graphiant and Peraton Announce Partnership on Fully AI-Capable Network Services",
+      "lat": 43.18419,
+      "lng": -75.43041,
+      "title": "Peraton and Graphiant Announce Partnership on Fully AI-Capable Network Services",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T11:42:40Z",
-      "summary": "Graphiant and Peraton Announce Partnership on Fully AI-Capable Network Services&nbsp;&nbsp;Homeland Security Today",
+      "summary": "Peraton and Graphiant Announce Partnership on Fully AI-Capable Network Services&nbsp;&nbsp;Homeland Security Today",
       "source_name": "Homeland Security Today",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2pNUmwwUHZqM1ppdmQxa1JWV3lWSXpyUmU5MHVxSFg3ZTNTTWJFQy1ZMk92V1RhNFlIUmc2bjQ5UjVlQ3M0TzNxOVlDcEZKd25HekNZNFNmOWNMVmV5ajJzSEpVS2E0LXhtWGZ3TG84aFREVHJjM0dVMTBUOG8tNzRhdmNZaHdGbFhOeXRYUE4xU3BOSkxrSm1fRWJ3REFhbFgtcHJMcVk4TW15TlNNV2dNcXlQQzJyQXdBU0YzRDdCeTdX?oc=5"
     },
     {
+      "id": "news-technology-fe18b27773",
+      "lat": 39.63877,
+      "lng": -76.60191,
+      "title": "Trump posts AI video of ‘Lake America’ being protected by an army of bequiffed ‘Donald Ducks’",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T11:40:00Z",
+      "summary": "Trump posts AI video of ‘Lake America’ being protected by an army of bequiffed ‘Donald Ducks’&nbsp;&nbsp;The Independent",
+      "source_name": "The Independent",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXg5TnJrRjdJb095bVluRVUxb2lzR3c1WU1TQzJlZDJQNkRuUUJQMDc1TmxTOGdhS3NWVUNobU0wNTBQb0dpVzBBdzVLaThOZUM0ZWFxTFRxVm4zaE5fQURiV2Y1cVVJS1dySHlVUVlybXJKZlY2WjBfbmZEYXNFa3dYWTR5eUdrVy1rVG16WG4xNUNWbEV3dDRseGhGZlA5dG5jNldvU0lvT3hqNW1sSS1KRXZ3ZU96?oc=5"
+    },
+    {
+      "id": "news-technology-054bae7fef",
+      "lat": 47.3427,
+      "lng": -122.81417,
+      "title": "Home Depot rolls out AI-powered Magic Apron shopping assistant to stores nationwide",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T11:35:54Z",
+      "summary": "Home Depot rolls out AI-powered Magic Apron shopping assistant to stores nationwide&nbsp;&nbsp;WRNJ Radio",
+      "source_name": "WRNJ Radio",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdDgtMW1vRWRSN1hWYm1ySjRSY3RQZEFHTEZZYVNaUktnbzcxbk94VGw3c0xwQlJhME9VOVhJVFhJQzJacnZ4T2h3SlRqcVYwQ25pMkpqYUQzUFFWU1NldkEwZjVqclFSa2ZpMExQcExKX2liTXhMZVlRS3lKLUJ4cmRTQ0lqZnRCOXZjWUZ5ZVp6V2xlblExaUFiRkFpUUVXYjM1dE1OR28zUQ?oc=5"
+    },
+    {
       "id": "news-technology-22bf43fc03",
-      "lat": 43.04176,
-      "lng": 137.34181,
+      "lat": 43.03219,
+      "lng": 137.3146,
       "title": "命とサブスクを天秤にかけてはいけない。ふわもこAIロボペットと2週間過ごして気づいたこと（ギズモード・ジャパン）",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T11:30:02Z",
       "summary": "命とサブスクを天秤にかけてはいけない。ふわもこAIロボペットと2週間過ごして気づいたこと（ギズモード・ジャパン）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xZFk5U1hNejctbF9DZHBKN2ZIeXI5Z3hHbFVJSXFHVk4wNmF3NWJoSTFoU29ubVhDNFlUTU9MLXFyemNGTmUta0UtWHM0MDRzN2xLNFhXa3N0UmZqRGZhSktvWmpIOU5QMUY2TXBqUkZiT3FRUkNvMFYyNG1XRGc?oc=5"
-    },
-    {
-      "id": "news-technology-3c82be5f74",
-      "lat": 46.72469,
-      "lng": 23.60564,
-      "title": "Tempus AI (TEM) Could Be 18% Below Fair Value As FDA Clearance Lands",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T11:24:46Z",
-      "summary": "Tempus AI (TEM) Could Be 18% Below Fair Value As FDA Clearance Lands&nbsp;&nbsp;simplywall.st",
-      "source_name": "simplywall.st",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2VSZFFTeF96cml1M3IyaXVheTA1NmZ6Z0lHMTNZS0Z2WGxkS2pfRjNKYzFVU2FqUS1zbkNBZGlreHE3TUJPTGhiT1RWYlI1cXdwSGQ0LWRJMWs3U2ZkeXY2UnNKcDdTTTkzZ0FWTERSVEFENkxrNWlFMnk0M0Q3d1N5Z3FNaG8xWlBRMlE3RGZoQnBMWVRrSFJUT0VuOWdvdzRGbVZDR2R1TURaQ0VHeGdFbC1BOExicHZKVzIyOW9OY1lMdkw2UHRJUlE5SUFYTzNZMVYyVnnSAd4BQVVfeXFMTU8tNFdZMEpXVm1zZkFyU2ZHY1JoR2xjUkJUcWJUQlhvQVFOM0RQYllXZ3hUdWd2UXRDdEFWWDd0OW5fT3FZOEtNLUtDN2hNSkp2aDcwRGZSbzViUU9DNXZSR2FSVEFsS3Q0Y19fbGlMdnhSMkZrTlYzVTlWMHg5WTN5ZFdiZ3VldHdiT1A1M2o5Z01DaXBGZ0p1N1lQWm9PSl9LekR0WmJyakdSTDNRRzN5R0FSMHpNWUNyWThaUFBMOTc4RW5SRmFWVng5bV8zVXpqNGdPRjd4QUQ1Z2pn?oc=5"
-    },
-    {
-      "id": "news-technology-9343800cc0",
-      "lat": 33.99207,
-      "lng": -96.19341,
-      "title": "Blue Owl Capital (OWL) Leans Into AI Financing On A Valuation Question",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T11:24:46Z",
-      "summary": "Blue Owl Capital (OWL) Leans Into AI Financing On A Valuation Question&nbsp;&nbsp;simplywall.st",
-      "source_name": "simplywall.st",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORmVuLVl6NWY0M3BROEtsc3ItalRFQWhSTGx6WkxRRENHVXBuZzQyRXlXQlZZTVBNcXRmNnB5blcxM0pPLTJ1aGJJS3hLaDZDMDNrTEVnbU8xR0M1Smd6S3BwTENTWGYxcGdUd3VjWE4xNEwwOU9kTTN4eDdlSGRRbDR0dUJRNnRiMkd3RFlwQWRTd1JWSWRBMG5XS2lQWmF0YjNpOHVSS3h5MEZ3ZkdrVEFXdTl4UnFzeHV4TWdEeHl5UElCOEN1a2M5WllyNmRtX1AwdVJYME10RXEyalHSAeMBQVVfeXFMT0N4MlNoTjdlVEJ1VWE5dDYtNkE0OTlIWU55UFZBZ1NBTThSdWlVOTJKa056QjBHMEtYVnNjX2JPdzBOYkFfckJuSm1nNWpIUnpLQS11aWU1dlhYYkt2bFBOenNpTmIxOEE3bC15M2R3SmdobV9VZk5sUTFCSlJnWklXckZHdS1hOGI1Y3U0MllrOW4wRHFZUm5tSUN1UENfRDZfZUpSUnh5Wk9oM3RTVUhtSnJQTXRpMkVFdnFEdndQTFpaN0JNeFJZay02MXpfa0lVQVRMVzZWX1h3NHlzX0NES2c?oc=5"
-    },
-    {
-      "id": "news-technology-a2912ebba5",
-      "lat": -5.49652,
-      "lng": 119.8209,
-      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T11:07:28Z",
-      "summary": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today&nbsp;&nbsp;The Motley Fool",
-      "source_name": "The Motley Fool",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnRNYXBjbUN5LVdhaXhGNHNrYzdqeExkV1JnYWdFS2xLbXdGMEprR3Uxc3pLc1gxanFUbGtsZnJWZEdjWHBwOE9nakJtOENkb1pHU2xzRmhIQWZDRGhkaTFDN0EtTDdFN0duRGdaSnBudTJaREtvem9SZ1lvT3hqU2ZGTWRYbnlHUWdabDZEZUY2WEE1cDFRbw?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T11:48:51Z"
+  "updated_at": "2026-08-30T12:04:02Z"
 }
