@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-b9fb026879",
-      "lat": 64.99155,
-      "lng": -18.06542,
+      "lat": 64.9533,
+      "lng": -18.10591,
       "title": "Iceland votes against restarting EU membership talks",
       "category": "POLITICS",
       "time": "2026-08-30T14:45:05Z",
@@ -12,9 +12,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-politics-14ec1e876b",
+      "lat": 39.70379,
+      "lng": -76.55002,
+      "title": "Trump says 'Meet the Press' host Kristen Welker will be reported to FCC",
+      "category": "POLITICS",
+      "time": "2026-08-30T14:40:00Z",
+      "summary": "Trump says 'Meet the Press' host Kristen Welker will be reported to FCC&nbsp;&nbsp;USA Today",
+      "source_name": "USA Today",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmxZeklOUmp0Z0VPODNWZlBiWWU1cDhOX292V2FwSDVEdW9TU3U2cTF4S25qakg4aWhBZS1ENnJ5YkZVd2tEbm5CV2VUVGZkMW8zS2J0N0E3U0ltaHBFTDl4Nk0tMmxZaWhWLTdTY21ZakhOdEdVRUFHVU9yQ2JrMThHYmdqclRadWN2UEVXZUhUazRLeFY5UzJhc2Ffdm4wNWN3NTdnUUFUYlZXbTBiMGpnd0tvQQ?oc=5"
+    },
+    {
       "id": "news-politics-e3a121e07f",
-      "lat": 35.59614,
-      "lng": 139.69087,
+      "lat": 35.64901,
+      "lng": 139.70484,
       "title": "【安芸市議選】 金城みきひろ トップで初当選",
       "category": "POLITICS",
       "time": "2026-08-30T14:39:39Z",
@@ -23,9 +34,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtaU9oUjVtQTRGblBLbU1HaF9zOTZkc0dsaU5HWjd5cVhzbnc3R1JaTFNrMHVVOTZkSE9mdTlkNlRvTUx5Z3hR?oc=5"
     },
     {
+      "id": "news-politics-b0d5830198",
+      "lat": 39.60998,
+      "lng": -86.13243,
+      "title": "McCarty: State needs stricter approach to behavioral health factor of homelessness",
+      "category": "POLITICS",
+      "time": "2026-08-30T14:30:37Z",
+      "summary": "McCarty: State needs stricter approach to behavioral health factor of homelessness&nbsp;&nbsp;KRON4",
+      "source_name": "KRON4",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV1k0M3BhdERQaWZ4My1uQ1F2WWZEcnFSSWg5SFgxbW9UN1Y1UlBXUnNmeXNwTjRBZ0JTTUdESXlldzV6RDZtZGdPRXhodmVsQzM1N0FtTlUyVFQwQ2lvbDlMSUV4NG1vcndXaG9BUHFaWERSaFFWd2hCVm9IOXQtTDFrOC03bjVydHJVZVhmcWJGYzZQVkZvcDBKZWV3am83Q0Y0NHVXa3JDeEh4eVkyY3l5ekZLQzdrWHRDQmtsMmpvQlV0SXFBVWlZeEFna0llOGJ2M195ZDVFQndFS3fSAeMBQVVfeXFMT08wdE9BTV9pdTlMX0FLZ3JaLVVDaWYwa3k5bzYwUWVMTXBzWjV1UURVVGFlbW5sald1dlU4Z1otRXhqQV8wajVzLVNWQlJqOEtLcXNvNjgyaWdYRkdaMkJzSEtkS1Zscjg1d05fMnV5MDFKd3hQSWhKMm9JS3NfX28wYUZJVUtQck1rWXlRR3Y3UkY4X1JzTVhGTmZEU2M3d0RBb1RVNkw5R0hhUU14NjlEcWswckE0Z0RJSmR0c1haZGxzYVFuRmZLSG1iVjlIRkNwZ0pFeDJXZVNTbXp2RGpMdnc?oc=5"
+    },
+    {
       "id": "news-politics-8587285cd3",
-      "lat": 30.6586,
-      "lng": 76.20923,
+      "lat": 30.65118,
+      "lng": 76.21926,
       "title": "Rep. Khanna: Meta settlement impact ‘doesn’t go far enough’",
       "category": "POLITICS",
       "time": "2026-08-30T14:26:03Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-9ec0f62611",
-      "lat": 61.01372,
-      "lng": -107.95309,
+      "lat": 61.04465,
+      "lng": -108.01157,
       "title": "Canada installs large Lake Ontario sign in latest jab at US",
       "category": "POLITICS",
       "time": "2026-08-30T14:25:43Z",
@@ -45,31 +67,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-8bdfd71734",
-      "lat": 26.84987,
-      "lng": 18.12287,
-      "title": "Libya's political rivals welcome final deal to restructure election commission",
-      "category": "POLITICS",
-      "time": "2026-08-30T14:17:32Z",
-      "summary": "Libya's political rivals welcome final deal to restructure election commission&nbsp;&nbsp;Anadolu Ajansı",
-      "source_name": "Anadolu Ajansı",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFl2c0xSUzBFTk9icWxfVHlodlJ5UzRuTXpNQ0RrVFRRbkxuZFB5UklsRVU1SDJQVWh4azJHamZ3djQ5ZXFBd3FodEhDYnF3SGFoeG9wZi1ZWEtvcFYwVkd6V2tUUVNuYjN4Wk1YUE93NUdIZS1rUjBxRDRzdGNZTU5iYWFvMnJwN19qZTJfd19PRVk3bzZzTG9wSWRuMDc1dm5xX2lGTDMwMGFPWnMzWEc3RUJYQ1pwYWo0?oc=5"
-    },
-    {
-      "id": "news-politics-e3677043ea",
-      "lat": 30.75256,
-      "lng": 34.87417,
-      "title": "Israel’s Youngest Political Candidate Shuns ‘Petty Politics,’ Represents War Generation",
-      "category": "POLITICS",
-      "time": "2026-08-30T14:07:10Z",
-      "summary": "Israel’s Youngest Political Candidate Shuns ‘Petty Politics,’ Represents War Generation&nbsp;&nbsp;The Media Line",
-      "source_name": "The Media Line",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQlJkRXdlTVVfZm1OSnd5UmhoUjhDTmxoQjFpQnA3dWJ6WXdIZmFhVmVveTFsSGg2ZUFpMDNIMUhyTlVkNkhvOXpLNVZzSk1mQ083WUkwc2hqNUdoYUJOVEkwTjBKS2EzSVhBQlV4bnpydmlhUkkwMEgyZUE1VzdxYm1XYzJ3WVlWY01OUk1SbjQ0Q2lnWVBOYVFha3JNWExTN2lPdkhsbzNsaTU4RXREbU9nSWpnS3RmN1Zz?oc=5"
-    },
-    {
       "id": "news-finance-ac2bde427a",
-      "lat": 1.40456,
-      "lng": 103.85853,
+      "lat": 1.33462,
+      "lng": 103.79052,
       "title": "Global Times: How Chinese NEVs gain ground in global markets, providing greener, smarter mobility",
       "category": "FINANCE",
       "time": "2026-08-30T14:12:00Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-64811a5c25",
-      "lat": 59.14906,
-      "lng": 10.25054,
+      "lat": 59.18585,
+      "lng": 10.31792,
       "title": "From India’s BRICS Chairship to the 2027 NDB Annual Meeting: Economic resilience, trade and climate finance",
       "category": "FINANCE",
       "time": "2026-08-30T14:07:51Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-a22f920675",
-      "lat": 40.45734,
-      "lng": 66.36075,
+      "lat": 40.41982,
+      "lng": 66.31811,
       "title": "Josh Brown Says ‘Take a Break From AI CapEx World,’ Highlights His 2 Top Healthcare Stock Picks",
       "category": "FINANCE",
       "time": "2026-08-30T13:45:07Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-bb1fc5822c",
-      "lat": 30.83107,
-      "lng": 34.87153,
+      "lat": 30.79553,
+      "lng": 34.84689,
       "title": "Israel US Apache helicopter deal delayed by IDF Finance Ministry budget dispute",
       "category": "FINANCE",
       "time": "2026-08-30T13:23:09Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-548aee2dad",
-      "lat": 47.08873,
-      "lng": 9.13661,
+      "lat": 47.11075,
+      "lng": 9.16229,
       "title": "After Ulta breakup, Target is launching a new inside beauty store",
       "category": "FINANCE",
       "time": "2026-08-30T13:01:01Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-aa6b8b653c",
-      "lat": 35.00058,
-      "lng": 135.82232,
+      "lat": 34.98309,
+      "lng": 135.71605,
       "title": "ソニー生命に立ち入り検討 金融庁、不正の実態把握へ｜全国の記事｜京都新聞 ON BUSINESS",
       "category": "FINANCE",
       "time": "2026-08-30T12:59:25Z",
@@ -134,8 +134,8 @@
     },
     {
       "id": "news-disaster-872d8a011f",
-      "lat": 22.31943,
-      "lng": 78.68411,
+      "lat": 22.39628,
+      "lng": 78.7244,
       "title": "India’s bishops call for solidarity with neighbors as scope of Nepal-China disaster grows",
       "category": "DISASTER",
       "time": "2026-08-30T14:36:30Z",
@@ -144,9 +144,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNclZrWFJxR0Y5aFRLOWJKaGZ6VHRnZXVVeTNFVzVmb3BFUVhweF9TVngwUWEtU0ZFTGZTbGwzTm9SZWVKX3dVMThSMDV3Y2FCc3g4Y3NQNndVS3MyLTNwWWt6ZENZeVpEMFhzZ3hHWFRBQVZOSEtQLUFoZlNRcXQzSllzdkhmMUtCU09WcUFtQUozUHRKMmt2TFVjZjFxR2c1dmFqODgxcDU0N3ZtTmwwSkE3NWl3MzVsTGtQYVdrQTNxSHdwRXNTbUhCUQ?oc=5"
     },
     {
+      "id": "news-disaster-c890abf360",
+      "lat": 34.51883,
+      "lng": 108.91991,
+      "title": "China-Nepal floods: 261 foreigners missing in Tibet, online rumours targeted",
+      "category": "DISASTER",
+      "time": "2026-08-30T14:23:24Z",
+      "summary": "China-Nepal floods: 261 foreigners missing in Tibet, online rumours targeted&nbsp;&nbsp;South China Morning Post",
+      "source_name": "South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVEtMaTdsSkhyQ0t5UFFWN0ZCcWcxWmR2MUd3My15YXU2a0JwUy1TWEZNTkpkUXkzVUR4Wm5ncEdhQVo4ZFBVSUdpUU1GUDJTbEcxSEtMOWZlTDhMMFBYcEVjalhmN3ZESC1OWnRfa2tUbW56U19xME1Gb0tjOXNFc1Yxb3ZISnJRUUpjZmV6QUhWOHNwSzNDRDhzcE5BSy1XTkJxZGJhaDkzMDRsWjluZVpZUXFYdzFtaGhuazR1M3RMZ9IBwgFBVV95cUxNeE1oS1BkeE5oOUFqTV93RDk3b0o4N0lncGdvcFVjRFVLYkVpOGpjOHItdGdrN18yWTFWQ0s4N2lGaWx3MmNXQ2MyVEdLbF9uQW1XSzc1R3NqY3JRbHp1NG5pUGpNWDdreVAxaEViMHB1Z1VudTVIQnY0MHFSdWV3eWxxdkFFQ3VCUXhxbDFPOGNDeFRtTkJnWTFWbnpmSURWQkdFeEp5S2VOSm9rcTFQU1poaVhzUWtjVUZ2YmtRV0pWQQ?oc=5"
+    },
+    {
       "id": "news-disaster-1da6e051c6",
-      "lat": 37.32535,
-      "lng": -78.77582,
+      "lat": 37.27763,
+      "lng": -78.78758,
       "title": "Flood advisory affecting Jasper County Sunday afternoon due to substantial rain",
       "category": "DISASTER",
       "time": "2026-08-30T14:13:06Z",
@@ -155,20 +166,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sVkluWUNSWXROQ3MyckhkRUJNdHpWdEY2T0lrTDVTZ1EwYjVoRWo5X2YwRmMzMGJSd2g3Qkt0OEpoYjkySDdrbjdDcEJzOTVTSkIzS2lsbzhVLVlqQ01IOWtiVDZaWFB6cTE4NXhTT2N5QQ?oc=5"
     },
     {
-      "id": "news-disaster-0045daf1a9",
-      "lat": 53.94188,
-      "lng": 27.58779,
-      "title": "Rescuers race to find thousands missing after Nepal-China glacier collapse",
-      "category": "DISASTER",
-      "time": "2026-08-30T14:07:25Z",
-      "summary": "Rescuers race to find thousands missing after Nepal-China glacier collapse&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5"
-    },
-    {
       "id": "news-disaster-405e35c492",
-      "lat": 37.33347,
-      "lng": -78.79168,
+      "lat": 37.23775,
+      "lng": -78.69606,
       "title": "Flood threat continues with showers and thunderstorms likely",
       "category": "DISASTER",
       "time": "2026-08-30T14:00:00Z",
@@ -178,8 +178,8 @@
     },
     {
       "id": "news-disaster-3aa40a26e6",
-      "lat": 34.11786,
-      "lng": -118.40707,
+      "lat": 34.16497,
+      "lng": -118.3391,
       "title": "“記録尽くめ”8月の気象 台風10個・記録的大雨・猛暑… （TBS NEWS DIG Powered by JNN）",
       "category": "DISASTER",
       "time": "2026-08-30T13:39:38Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-8416fc4a0c",
-      "lat": 40.91527,
-      "lng": -72.90893,
+      "lat": 40.84568,
+      "lng": -72.89523,
       "title": "Ridge-riding storms set to hammer soaked Northern Tier with renewed flood threat extending into Northeast",
       "category": "DISASTER",
       "time": "2026-08-30T13:36:00Z",
@@ -199,20 +199,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEg4aExMdWl4dXRRZmgxWWlwT1hrS1FuOTg3RFVKVDk2WjkxOHlYWUhFLXlXczJ3SldzVFhXOXFuYjlYNEZNYmM0S1R4R2FPclVPQWUyUkFGSFNZRjE2ZHlTQTZndzBQcHFqcHhtQ2p6LXlKRE1kVWtVS1BCeTJyaVBaSGJ6RGNxTUo4a2V3N3lMMVRtODZfRnhn0gGfAUFVX3lxTFB6RDBRbUFJMDh2VUZ1aldXUXJWd2F5UDhhUWVoLU9UNGVHdHFkRFl6MWR5TnFWQmE3aDh0TTZhQ1E2SEl0Qms4WnI1XzBWQ3d1T1l0bXhKV0Fka2E2N0ljbUNjN044Y2pDbjhuNmVqZnRqZ052SmVIUmxFT2NRaHpqck5HYkVYZHM2MzJ4cWgtSXR1UjJENjZxVnFoTVZzSQ?oc=5"
     },
     {
-      "id": "news-accident-8291584691",
-      "lat": 35.6589,
-      "lng": 139.8105,
-      "title": "スタントマンで交通事故再現など交通安全イベント 自動車学校で“夏祭り”",
+      "id": "news-accident-e69e3ae14b",
+      "lat": 35.64703,
+      "lng": 139.73163,
+      "title": "スタントマンで交通事故再現 交通安全\"夏祭り\" 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T15:00:02Z",
+      "summary": "スタントマンで交通事故再現 交通安全\"夏祭り\" 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選&nbsp;&nbsp;ABEMA",
+      "source_name": "ABEMA",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQXhmSlpzT2NheG5hOXhtNjFJSW5PVjNrX1JrWGNiSnp1bGhjdUYyY2Jrb2h5aFpRR3hHTHRlQWk3WTFlTXdaRVJYQ0NmbnlxeU5mVmhBeWJZSzduckxKNTV6NXp6bGdYNVd2QkgzclkwLUNMTUF0cEEyWXowQjNySlJhVzVCdjlwazl2bTR2eFdra2dRQ1RkRUZibV9yUEYtRnFVV19BbklWLWNyYUlwS2ZMczBqb1JMb2RDLVhNcW1WNTlIM1BybFMwYUVlU1ZwNzJtU2FQNHRNeF9Tc0lvMUtPM3FpYlBD?oc=5"
+    },
+    {
+      "id": "news-accident-d2df1c881c",
+      "lat": 35.64777,
+      "lng": 139.78792,
+      "title": "スタントマンで交通事故再現など交通安全イベント 自動車学校で“夏祭り”（テレビ朝日系（ANN））",
       "category": "ACCIDENT",
       "time": "2026-08-30T14:26:12Z",
-      "summary": "スタントマンで交通事故再現など交通安全イベント 自動車学校で“夏祭り”&nbsp;&nbsp;テレ朝NEWS",
-      "source_name": "テレ朝NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlUTNScU8xcDhuZEdHS0tlQVgxM3RfRHpHOGdIckpCWHVGVEN0ZWptOFl6SGpwVW9aeGk1OTY4R3VFNl9xWk5uSHFMNzZrQTAtNi1qQnRTWmRrZkN0M1Vha0M4Z1JQUmswcno0MFFfYjBxUQ?oc=5"
+      "summary": "スタントマンで交通事故再現など交通安全イベント 自動車学校で“夏祭り”（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtU2NCMUI4YXkwRFZROUkxMHd3NngxcDJSSklwcUxDMVl0eF84RkhNOS1jbjNJTnFpUzBtZlhTX2JJazRfcDl2aWRaOWcwMi03bTVIb25acGFKVWF3OEFxNWNRci1ocTZuVG5XcnpkN0w2all2amw0UEI0Z2tRN1k?oc=5"
     },
     {
       "id": "news-accident-b366f97b4a",
-      "lat": 35.69711,
-      "lng": 139.81935,
+      "lat": 35.70985,
+      "lng": 139.78862,
       "title": "スタントマンで交通事故再現など交通安全イベント 自動車学校で“夏祭り”",
       "category": "ACCIDENT",
       "time": "2026-08-30T14:26:12Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-8c92e076e3",
-      "lat": 69.15104,
-      "lng": -153.33956,
+      "lat": 69.21433,
+      "lng": -153.3856,
       "title": "Three Seriously Injured in Wrong-Way Crash on I-295",
       "category": "ACCIDENT",
       "time": "2026-08-30T13:50:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-079f8df483",
-      "lat": 33.48891,
-      "lng": -111.9419,
+      "lat": 33.48292,
+      "lng": -111.95785,
       "title": "5-vehicle crash closes L101 lanes in Scottsdale",
       "category": "ACCIDENT",
       "time": "2026-08-30T12:57:00Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-43a89f1570",
-      "lat": 35.0108,
-      "lng": 135.78349,
+      "lat": 35.00664,
+      "lng": 135.80459,
       "title": "【速報】国道161号で乗用車と中型トラックが衝突、少なくとも3人が重体の模様（京都新聞）",
       "category": "ACCIDENT",
       "time": "2026-08-30T12:45:29Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUWVhLWi15RW5mUVl5djZ0ZFViQk0zeW9ScEFBN2gtbl9HZ0REU3JwbFA4U1NJWlhJcDZUZlAxMWg3MEFJUnVVdUMxbnlZQUJjYU5HM0RYaFd2OFZFNFRYRmp4dExYOEp6SnExbkpkR2JVdTcta2dpNHpnRmZYX0k?oc=5"
     },
     {
-      "id": "news-accident-95f04eb7f8",
-      "lat": -12.45653,
-      "lng": 131.02781,
-      "title": "Driver killed in high-speed crash on Houston's South Loop feeder road",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T12:24:25Z",
-      "summary": "Driver killed in high-speed crash on Houston's South Loop feeder road&nbsp;&nbsp;Click2Houston",
-      "source_name": "Click2Houston",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORmQ0c00wdmtLbUlkWFVpVmJlNW1CRmswV0g1aDhtdmVaQzJtZFFJb2dlMG1PS1c3U3JJbm9pd2hCa1VUcjBCZFBXUHlzSDNwYndUaUVsZ0FoVUgzLUVtZGZHX1djWjI1SkhuXzFqcjJWUEVDTGpLX1BVbU9ZWVlIVDVnVzNaTEVmc3BRMjlKZWJXS2lmYnBteXkzamtReFZhZlc3NGFNR183Ul9oMWx0UGMzWWRBVS00U3dsOVBB?oc=5"
-    },
-    {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.78069,
-      "lng": 106.72836,
+      "lat": 10.81775,
+      "lng": 106.77648,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-a529d6b2d0",
-      "lat": 50.49498,
-      "lng": 30.50934,
+      "lat": 50.44825,
+      "lng": 30.49618,
       "title": "３０キロ減告白から３年…華原朋美 現在の姿に驚き「かわいいです！」「元気で良かった」昨年末に手術も（スポーツ報知）",
       "category": "DISEASE",
       "time": "2026-08-30T07:49:54Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.04884,
-      "lng": 106.34206,
+      "lat": 10.10489,
+      "lng": 106.28105,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-3bb701c33d",
-      "lat": 35.79651,
-      "lng": 139.88957,
+      "lat": 35.78198,
+      "lng": 139.79434,
       "title": "【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』",
       "category": "DISEASE",
       "time": "2026-08-30T04:11:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-25d7dc1e73",
-      "lat": 41.00388,
-      "lng": 28.94472,
+      "lat": 40.97117,
+      "lng": 29.00813,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.91163,
-      "lng": 131.42655,
+      "lat": 31.88596,
+      "lng": 131.39569,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -331,70 +331,70 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUcll0QnBpdlZESmEzLXRfZnFaekh0VEVmODVVc1Fwejdfc2VxbzBxMWpVeXlMdW9ZSjZqTzFyT3VKQTJnaE9mRE44dTRYdVMyeHA2bmgxb2ZzWFhPdUFzQzN3WTZQeF82b0NqR0o2NFNRRkxPeXlibVFWVmdqQUk?oc=5"
     },
     {
-      "id": "news-technology-8ae5c47237",
-      "lat": 27.79999,
-      "lng": 100.71403,
-      "title": "ゲーム・デザイン制作を革新するAI 3D「Hi3D V3.0」無料体験（スマホライフPLUS）",
+      "id": "news-technology-3ae2ddabf1",
+      "lat": 38.30493,
+      "lng": 140.92581,
+      "title": "[藤岡雅宣の「モバイル技術百景」] 通信障害をAIが自動復旧する、ドコモやauが進める運用の裏側",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T14:30:35Z",
-      "summary": "ゲーム・デザイン制作を革新するAI 3D「Hi3D V3.0」無料体験（スマホライフPLUS）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vam9odDAtcHZKaG1aRGdKT3FjVHgyZjBHNi0ycFJSYnozNVJtdWFLTW1lM09GZHFhQ3NvZWQweERWUnY5TzR2YTl3RU9BUEJxMlZURGFPbkRMb0lsWWF5LTZSZ1d3SXRMcHYzUVNNbldhMFIzbXZ1VGlkeWlIaGM?oc=5"
+      "time": "2026-08-30T15:00:00Z",
+      "summary": "[藤岡雅宣の「モバイル技術百景」] 通信障害をAIが自動復旧する、ドコモやauが進める運用の裏側&nbsp;&nbsp;ケータイ Watch",
+      "source_name": "ケータイ Watch",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91NEFSU2xPeEdCYngzbWx6X3B2Z05hTXVnbEUxZmR4R0ZMRHhQVXdKMDlDVEtmR1V6QnFteXctS3BOUUYxMWw3VHc0dGFhRUpZYXdxQ0RUREJnYVpBLVgyZ1FZZ3R0aTQ0cnlnMG5aMkRGb0Js?oc=5"
     },
     {
-      "id": "news-technology-b96f2a2b1a",
-      "lat": 47.69975,
-      "lng": -122.17092,
-      "title": "CrowdStrike、AIエージェントがサイバー脅威を変容させる中、トークンベースのFlexモデルを発表",
+      "id": "news-technology-c86d5e796b",
+      "lat": 43.07637,
+      "lng": 141.37857,
+      "title": "JPモルガン、スペースX株担保の融資制限緩和 AI長者取り込みへ",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T14:25:00Z",
-      "summary": "CrowdStrike、AIエージェントがサイバー脅威を変容させる中、トークンベースのFlexモデルを発表&nbsp;&nbsp;BigGo ファイナンス",
-      "source_name": "BigGo ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KQUhrSVRpY1lNd0ZiY0ZQaTVQRDlUNzBWTGlGUkg1bUp1cnNaT2dOQTV1YjJYb0lTUkRSNEZsLW01bFJKdW9VZTh3cGNwMWF0U3FGMGdhcFF4eWV3Y0JWNjJDeU1SVG9ETDVqRV9FVWUtVTYy?oc=5"
+      "time": "2026-08-30T15:00:00Z",
+      "summary": "JPモルガン、スペースX株担保の融資制限緩和 AI長者取り込みへ&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5WjN0RUU3MmhYTk5lSnRZTkx4WXhUQ0E3UWZmbEFiRE1BbXV5cDA2R19ib0FFTEx2MGtERjJtd3Rtb3JVYVRnODM3dWY1Z1ZLdUhPRWpULUJDVnBJUk5YVWxlYnYtUXZvWXRyUmpzcU5IZ3pJa3Vn?oc=5"
     },
     {
-      "id": "news-technology-db64c40d34",
-      "lat": 5.6582,
-      "lng": -5.27316,
-      "title": "セーフィー、クマ出没を即時通知する「AI-App クマ検知」を9/1提供開始（スマホライフPLUS）",
+      "id": "news-technology-835837f926",
+      "lat": 59.00433,
+      "lng": 5.68241,
+      "title": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T14:20:17Z",
-      "summary": "セーフィー、クマ出没を即時通知する「AI-App クマ検知」を9/1提供開始（スマホライフPLUS）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHNmx3Y3B1b1FaTlpDNDQ4WElNSUlYdkd5WGhPdDE2dnZMZXNCaVFOcl92NF85N1k2NDVDQV8ydXJvLS1yOU9NQkVlWC1kc3VQZGE4ckNFTTAyVTRCaFJvNEg2bE5iY3ZEZWQ4dDVIMW5yaVJCVS1nY2NaSG5lZWc?oc=5"
+      "time": "2026-08-30T15:00:00Z",
+      "summary": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」&nbsp;&nbsp;Impress Watch",
+      "source_name": "Impress Watch",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yVWE3LUlTZ2V1RDFCTlRUQThJTHdEUkhoX1dXOUNKNC1aeDFMM3RVeVBDbGxoajh4MzNHQXItTlBtTHN2andPbGsyUWNCTV9OTHJTX0QwSXcyZlVzUHFVOVk1TDg?oc=5"
     },
     {
-      "id": "news-technology-144e23afed",
-      "lat": 39.96409,
-      "lng": -75.13458,
-      "title": "How Can Solving Data Fragmentation Help Unlock AI's Potential in Oncology?",
+      "id": "news-technology-87897a2fdb",
+      "lat": 39.90664,
+      "lng": -88.93919,
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T14:07:08Z",
-      "summary": "How Can Solving Data Fragmentation Help Unlock AI's Potential in Oncology?&nbsp;&nbsp;CancerNetwork",
-      "source_name": "CancerNetwork",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUFdNUUpfTzJlalFnWG1aLVllRGdIMzQ1ak5iTnJiT24wSFdCSGx1ZHdQcmtLb09SMjQ0MEpBaEdiWEdCNkhidnBubTg3aldLVHI3YUo2c3p0UEFNeXAyTUJvRVo5TDdHRFdmT1pDRzFVY1VxNkR0YVVVQjg3Tk8wZ0M4UmdBM21tUFlTdE1lMjR5OTN5V0RRUG03QzVaQVFycGlUTmhiYTZFV3RhS1pkMw?oc=5"
+      "time": "2026-08-30T15:00:00Z",
+      "summary": "Caterpillar is bringing to AI deployment what it learned from automating mining&nbsp;&nbsp;TechCrunch",
+      "source_name": "TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRWTkg4TGJIWlVpU3R3cTk2V0VPbk96c2hkc1kwVGlGWTJST1hsWEZPU3JSRXFmbW5lNnlJRE9mRXIzbXhsQlctVjBOd2t2QXpVdTdNdnBNeU91TjE4YXJNWHlBOEp0TWJXajVOSzFjN0ZPQk1mSnl4dWNHVE51VEVzbG1ZcGQ2VEdLLXBSOS1TMkJpZXFWd0FLc1hKdGZLekhQdDI0ekhVaUlwS093TUFURzg?oc=5"
     },
     {
-      "id": "news-technology-9537fec674",
-      "lat": 37.34058,
-      "lng": -121.93477,
-      "title": "Alphabet Stock (GOOGL) Opinions on AI Growth Prospects",
+      "id": "news-technology-097ab66737",
+      "lat": 25.00936,
+      "lng": 121.58425,
+      "title": "AI日本国際映画祭、台湾「StartSphere Taipei 2026」に参画！日台の新たなIP共同開発・国際展開モデルを発表！",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T14:03:00Z",
-      "summary": "Alphabet Stock (GOOGL) Opinions on AI Growth Prospects&nbsp;&nbsp;Quiver Quantitative",
-      "source_name": "Quiver Quantitative",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGxhX1d2dWpiMXFIWDRnVW5USTJJSWJJNlAxUW43V0lJakJneGJYa3pKbmxKa2ZUWERqRFFENWhfX3dCSERGVVk3QTlKOTg0bWVtNXo0MnlMZHVWMVRlRWpzVEFxRWxfVklsbGlLaEFIcUg5ZmYtQTJIS2Q2dFBIcFY4SkNQZC1INk1odUozQnQ3QnF3OEE?oc=5"
+      "time": "2026-08-30T14:59:42Z",
+      "summary": "AI日本国際映画祭、台湾「StartSphere Taipei 2026」に参画！日台の新たなIP共同開発・国際展開モデルを発表！&nbsp;&nbsp;PR TIMES",
+      "source_name": "PR TIMES",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40RHVGTUVSMzdvd01NRC1TSW5qSm4yRHpPWG1sWTBWUEhET3kyQmlraUNYZ0IwSHpjUmpnbDRUajhlcEtXaTZFeVg3VUhKN290alhxTlFKalR3NzZCM0JSSXFDVk40NjcyZ1E?oc=5"
     },
     {
-      "id": "news-technology-643ebb672b",
-      "lat": 47.57935,
-      "lng": -0.79302,
-      "title": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks",
+      "id": "news-technology-90165f25a4",
+      "lat": 49.12204,
+      "lng": 6.13351,
+      "title": "Meta’s Day of Reckoning",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T14:02:00Z",
-      "summary": "Big business has shown small firms what to do – and what not to do – with AI | Gene Marks&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTd3ZIRk5RSmpFMEo5QXd1aG5Xb3ZlcEwtb2w5M1FvR1F5SmMtcTllaEdKZXhoRGVrT1hKZERGVHFXLXkxZ0NNSHpZQVZuS2FtRVVhUWE2azRKbWRMUTcwREF4MkR6aVFCYUdITzQ0aXY4YTduRGZz?oc=5"
+      "time": "2026-08-30T14:55:00Z",
+      "summary": "Meta’s Day of Reckoning&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13SWFWZkNTNExfNXVOZjIyUVdRSG5wc05yVjQ4TkRHYjlfb0hwdnRmYWRZQjVRTzY3Qm1Ub19zU0Rwb3hqcmNPcjRMN3U4MzBZZHNscWlFWkR2OXQzTEVQd2pwSGNwaU01TElZ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T14:48:46Z"
+  "updated_at": "2026-08-30T15:03:50Z"
 }
