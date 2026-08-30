@@ -1,9 +1,42 @@
 {
   "news": [
     {
+      "id": "news-politics-c06ee050ab",
+      "lat": 39.63302,
+      "lng": -76.613,
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "category": "POLITICS",
+      "time": "2026-08-30T04:01:02Z",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-891ed07f60",
+      "lat": 41.65974,
+      "lng": 43.97278,
+      "title": "Giorgia on their minds: Farage and Badenoch scrap to be mates with Meloni",
+      "category": "POLITICS",
+      "time": "2026-08-30T04:00:00Z",
+      "summary": "Giorgia on their minds: Farage and Badenoch scrap to be mates with Meloni&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHpoZ2pMZEpTZTdDOGZpQmF5TjRpRFh3UldMR2o2ODk5Ry1SWG9LR2dHaTdvbldNU09OYjFPRFNraTN6VlV6aVZpYUJGekw1VXp6ZENZUDRJYXNWWVcxelpnck9tR2oyQk9kV2FKbmlkZHNrQTh5R1JqUzdCcXR2TW5sUWI0NU9Hb2tz?oc=5"
+    },
+    {
+      "id": "news-politics-b9fb026879",
+      "lat": 65.01605,
+      "lng": -18.07056,
+      "title": "Iceland EU referendum on a knife edge as counting continues",
+      "category": "POLITICS",
+      "time": "2026-08-30T03:57:01Z",
+      "summary": "A vote on whether to resume membership talks with the European Union is too close to call.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-e9a2665081",
-      "lat": 45.31622,
-      "lng": 15.7082,
+      "lat": 45.38257,
+      "lng": 15.67447,
       "title": "アルムナイ採用など官僚のキャリアパスが多様化 国を動かすために官僚より政治家を目指す人も（AERA DIGITAL）",
       "category": "POLITICS",
       "time": "2026-08-30T03:00:38Z",
@@ -13,8 +46,8 @@
     },
     {
       "id": "news-politics-67ef258b8f",
-      "lat": -7.57734,
-      "lng": -78.65295,
+      "lat": -7.63194,
+      "lng": -78.641,
       "title": "高市首相「連立拡大」決断を、「チームみらい」とテクノロジーで政治の透明化 松井一郎 以心伝心",
       "category": "POLITICS",
       "time": "2026-08-30T03:00:00Z",
@@ -24,8 +57,8 @@
     },
     {
       "id": "news-politics-02b513b000",
-      "lat": 47.14279,
-      "lng": -71.91662,
+      "lat": 47.15186,
+      "lng": -71.86842,
       "title": "Jelly Roll Slams Politicians On Both Sides For \"Sh*t Job\"",
       "category": "POLITICS",
       "time": "2026-08-30T02:47:00Z",
@@ -34,42 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTc4U1VlNlNVcE9yYUxZUVFEZFAxWTA0ZG9UMWNDazJTOGlId3ZLQTFoV2lFU1dCQVdWMXR4Tl9pZUhhR0Rtb0tSSlh1TDlvWDNWbUVSNXN3ZDczLVcxQ1RCZW1DUnVTYngxRl9IZ2s0LUEwUHRJd1dTWXhKeXZORFg4Q3AzSEViakNGbEJlY0J6dnA0azZ1dkdR?oc=5"
     },
     {
-      "id": "news-politics-059f32af69",
-      "lat": 32.58213,
-      "lng": 34.99091,
-      "title": "Ofer Winter can reconcile political renewal platform with endosring Benjamin Netanyahu",
-      "category": "POLITICS",
-      "time": "2026-08-30T02:40:03Z",
-      "summary": "Ofer Winter can reconcile political renewal platform with endosring Benjamin Netanyahu&nbsp;&nbsp;The Jerusalem Post",
-      "source_name": "The Jerusalem Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFUTFuS0dPWTRNWGRJSTNNVWxGNWdleERXQXlZM2RWV3p3d1lRLTE3U0F2QThVYlBuYlRGU3J5T1lLNVhLa19qTHR5WUpBYVRjT0ZlYjQyOA?oc=5"
-    },
-    {
-      "id": "news-politics-af5d2253cd",
-      "lat": -37.83097,
-      "lng": 144.67531,
-      "title": "Reflections on Colorado Springs candidate political debates | Tom Cronin",
-      "category": "POLITICS",
-      "time": "2026-08-30T02:25:11Z",
-      "summary": "Reflections on Colorado Springs candidate political debates | Tom Cronin&nbsp;&nbsp;Denver Gazette",
-      "source_name": "Denver Gazette",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV3FFeUlUVHV0OEFGZklfNDZaYzNkczk5LWZYZU12YnozNFRkc1NSeTRFb0sxM2E0c0wxUG0zVUdqMnJFQkwwZUdFWnVQeDA0NDloU0hRTHpqYWFKOTZTSDNnUDlkYlZISmtfenJsZVV2SlBxeXkxdV9kQ250cmVFMGw4akl4NHJQRmtRSnU5aUFxWGpzRFVjX3d5MEVVU0x6eDlMTnhOVThqMGNDRHA1ckJR?oc=5"
-    },
-    {
-      "id": "news-politics-46b8f2b3de",
-      "lat": 53.79261,
-      "lng": -0.30659,
-      "title": "Politicians rally from both sides at local fundraisers, 66 days until midterm election",
-      "category": "POLITICS",
-      "time": "2026-08-30T02:07:49Z",
-      "summary": "Politicians rally from both sides at local fundraisers, 66 days until midterm election&nbsp;&nbsp;WHO13.com",
-      "source_name": "WHO13.com",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPODhtWURTaGptRVo0UXZDS0xqcmk3MVhIZXhLcDBPNEdGXzFxLWRBNzhUX1hlaXFFblp4RUh2TURfRUFUb2lJeEZFQVVWRWhyYXNhSmVyclN3LWpmcWltT1lMajRQeUU1NHBVcUloVk9meThuZGE1MENFUG5zRmNCVmlzWkN2SllfWG1aV1hKN2FGZVliWFI2SnpKc1F6bFhNNVZiR2Q0Sk9FOVNaaU0zbjZLamtHZW5renh2c3BSMVBiME9ObXh4RkZVTDbSAdIBQVVfeXFMUERXZmJLcGN4YkNrTTNLQTZjNHdGWlZhNVVxTkVMRk8xNEtxeThwZG1KbTJoUW1DR05uaE9wUjJZMHNWU1pZaTh5bWg3eDFQQkhsTlN3MzRwSXMyZ25vODc4dnRuQTN3cjdISURwemNQZFI5UW5tMm1sZ3dvUFNsOUJJc2dkRlZSLV9rYkpnRjFVYmJEamRZQXVhbjNSX0xWZHM1WWVSclkxU0F1RWxXamVETlRENE5id3E5bDVNbGg5VHZiRnRKdEhWTVpuZndYRFJR?oc=5"
+      "id": "news-finance-c06ee050ab",
+      "lat": 39.70511,
+      "lng": -76.61716,
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "category": "FINANCE",
+      "time": "2026-08-30T04:01:02Z",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "news-finance-ce84ab5aa3",
-      "lat": 34.33558,
-      "lng": 132.72356,
+      "lat": 34.44296,
+      "lng": 132.67041,
       "title": "AI半導体マイクロンの株価は今が買いか、利益率86％の衝撃と新契約の罠",
       "category": "FINANCE",
       "time": "2026-08-30T03:30:00Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-a716f8544e",
-      "lat": 35.62795,
-      "lng": 139.75073,
+      "lat": 35.65041,
+      "lng": 139.72558,
       "title": "東京 都立高校で初めて国際金融コース設置へ 再来年度から",
       "category": "FINANCE",
       "time": "2026-08-30T03:26:25Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-f17efb0a9f",
-      "lat": 18.31042,
-      "lng": -73.86445,
+      "lat": 18.24768,
+      "lng": -73.83864,
       "title": "South Korea Vice Finance Minister Lee Hyoung-il named finance minister, Yonhap says",
       "category": "FINANCE",
       "time": "2026-08-30T03:01:17Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-64a61a0096",
-      "lat": 51.46573,
-      "lng": 10.84192,
+      "lat": 51.4884,
+      "lng": 10.79494,
       "title": "1stDibs Targets Profitable Growth With AI, Product Upgrades and Lower Ad Spend",
       "category": "FINANCE",
       "time": "2026-08-30T03:01:00Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-219ce22c88",
-      "lat": 18.22313,
-      "lng": -73.87933,
+      "lat": 18.21014,
+      "lng": -73.85815,
       "title": "South Korea Vice Finance Minister Lee Hyoung-Il Named Finance Minister, Yonhap Says",
       "category": "FINANCE",
       "time": "2026-08-30T03:00:02Z",
@@ -122,42 +133,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWDZBZzZBWmtIb3lMNUdnM0pENzNuZG1JaEN4M2FXSnF5YzZmM3ZsWEY1U0szX0NVSzJPWk5KWnQ0aV9Udkg2eUZ0ZnU4R1RQWkxiaHZRQVdnWTNQY01VVVdCTmg4Uk1ZZkJ0R05pZlJRUmlBaTVXeFZEai1IQ3RZNzQtYTF2SVAzdmlucU5HT2I3SC1LSTRTUExFZmpKUURtdnBvV2pXSUZyS29EZ0h5RXM2RFVabExyb0xEaGJkeVVzTWJPS29iaUEwV1ZsSlhyYUE?oc=5"
     },
     {
-      "id": "news-finance-bdf8859a5a",
-      "lat": 22.54702,
-      "lng": 88.40216,
-      "title": "為替は再び1ドル160円台へ 週明けのマーケットはどう動く？【明日への投資戦略 8/31～9/4】",
-      "category": "FINANCE",
-      "time": "2026-08-30T03:00:00Z",
-      "summary": "為替は再び1ドル160円台へ 週明けのマーケットはどう動く？【明日への投資戦略 8/31～9/4】&nbsp;&nbsp;テレ東BIZ",
-      "source_name": "テレ東BIZ",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xTVpEZWIweDVpZ05sUW9pT21YUDB0YjdiSDgtU285NXRTb0ozS3VhbzdfWVZyOU04aE1hdWZtVG5MU2VPRVhSLVhPdDJJaWVTdWR1aUkzZGZvME1yLXFzQkhWa01QQQ?oc=5"
-    },
-    {
-      "id": "news-disaster-57c31d4141",
-      "lat": 32.81538,
-      "lng": 130.74937,
-      "title": "「気持ちに寄り添って」熊本地震1カ月、再建へ首長たちの思いは",
-      "category": "DISASTER",
-      "time": "2026-08-30T03:45:00Z",
-      "summary": "「気持ちに寄り添って」熊本地震1カ月、再建へ首長たちの思いは&nbsp;&nbsp;毎日新聞",
-      "source_name": "毎日新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LYVlpOExsTXp2UnBwNzdBZExWeGtLekVpV0VKSGJoNEVONHdlTHhqcjZlNmc1cGp2MWVSdVl3bG1NUTNwU2pkS05Jc25fZFkwLUVWSXgzNmxoeG9maFFuSGJnNGNsQ0xY?oc=5"
-    },
-    {
-      "id": "news-disaster-2fccb82472",
-      "lat": 28.39407,
-      "lng": 83.98259,
-      "title": "Nepal-Tibet death toll rises amid new flood fears and race to free group trapped in tunnel",
-      "category": "DISASTER",
-      "time": "2026-08-30T03:39:00Z",
-      "summary": "Nepal-Tibet death toll rises amid new flood fears and race to free group trapped in tunnel&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3RhVHBrZ1NvN1R1TE02RVcwOTBPUU02UG13N05SQnU3Z1lyRHF2cC0zeFNnb0V4ZVJtRXNJN21XaVBjbUpVemdHVGprem03ZWV0ODZ1SHBlQVZhQzNBaUJsaHlNWVBHa0FFMzE1c00xSVdOVzRBR3hGMWZ6eWxhSzdSajB3NmdQWmZXeDhTZjNrTWJOcmEzM1ZqZzFLb3VWM0R0Y29ESndZX0Zoak9lZGh6T2xadmVT?oc=5"
-    },
-    {
       "id": "news-disaster-e4cc39182f",
-      "lat": 48.33022,
-      "lng": 5.45268,
+      "lat": 48.41692,
+      "lng": 5.48485,
       "title": "50 people airlifted from Grand Canyon after sudden flood",
       "category": "DISASTER",
       "time": "2026-08-30T03:39:00Z",
@@ -166,9 +144,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb1U3YTktNUlTMXVBeExmMmdyWW1zNl9SamJmeWZqSVVNWlhldVlsbnJYaC1tbGY1V3BjOHZ0OS1tcUtwQjJRbVlja0U5cUR5R0F2MHBBUTZBUjdpNi0tNHFDWGpLdWxxaE5CekpMM083SHlCQ19YLVl6R1FFZDhyRXpaRWNqeXd4d1h3?oc=5"
     },
     {
+      "id": "news-disaster-2fccb82472",
+      "lat": 28.41699,
+      "lng": 83.94877,
+      "title": "Nepal-Tibet death toll rises amid new flood fears and race to free group trapped in tunnel",
+      "category": "DISASTER",
+      "time": "2026-08-30T03:39:00Z",
+      "summary": "Nepal-Tibet death toll rises amid new flood fears and race to free group trapped in tunnel&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3RhVHBrZ1NvN1R1TE02RVcwOTBPUU02UG13N05SQnU3Z1lyRHF2cC0zeFNnb0V4ZVJtRXNJN21XaVBjbUpVemdHVGprem03ZWV0ODZ1SHBlQVZhQzNBaUJsaHlNWVBHa0FFMzE1c00xSVdOVzRBR3hGMWZ6eWxhSzdSajB3NmdQWmZXeDhTZjNrTWJOcmEzM1ZqZzFLb3VWM0R0Y29ESndZX0Zoak9lZGh6T2xadmVT?oc=5"
+    },
+    {
+      "id": "news-disaster-b0d072c7e2",
+      "lat": 23.70794,
+      "lng": 90.08012,
+      "title": "Update: 2.1 magnitude earthquake struck close to Lone Pine, CA on Aug. 29",
+      "category": "DISASTER",
+      "time": "2026-08-30T03:37:08Z",
+      "summary": "Update: 2.1 magnitude earthquake struck close to Lone Pine, CA on Aug. 29&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CS1pud2k0dkhRbEduLVJhdkZLc1N1Uld0blMtTC04MmRCdkVWU0kyN01KMGNDLXpNR2ducXZ5clJqcjVTVHBucVVIZV92eTFGLVF2WFBhdVd4SUtZX0o0dkFMN19LaEtlWGlXdUxVRG85dzQ2SnM0QUQ1eEM?oc=5"
+    },
+    {
+      "id": "news-disaster-4805dc8fc7",
+      "lat": 35.67912,
+      "lng": 139.80007,
+      "title": "福井 レベル4大雨危険警報に切り替え 災害危険度は依然高く（ウェザーマップ）",
+      "category": "DISASTER",
+      "time": "2026-08-30T03:25:08Z",
+      "summary": "福井 レベル4大雨危険警報に切り替え 災害危険度は依然高く（ウェザーマップ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4TGszWHlLWFVic0xtSlNQN0FwN1ZNX1JwZnY5REVjNzNBT1hQbDM4aldzUUNTUkgwMk8zUzZ6Y1lxWTZKSUdaX2tqVXdyVEFYYVhSelNENkRXTXFxWWExRmdKNHhWSzE2a19nVlJ4UERnSGJUcEQ1ZGppVW5rVWM?oc=5"
+    },
+    {
+      "id": "news-disaster-16e0e282d2",
+      "lat": 35.61302,
+      "lng": 139.81111,
+      "title": "豪雨被害 氷見市で水は引くも田んぼに大量のごみ 農家は「仕方ない」罹災証明の受付けも始まる（富山テレビ）",
+      "category": "DISASTER",
+      "time": "2026-08-30T03:22:01Z",
+      "summary": "豪雨被害 氷見市で水は引くも田んぼに大量のごみ 農家は「仕方ない」罹災証明の受付けも始まる（富山テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kXzV2OHk1cmZzYmhHS0dkTEkyME5ldUhkbHVlay1TUVBzYXRHX011SnlRbHRnVFFYbkwyLV9TTDh2NmpERDJMc2hvX21PTTJUVmtMOG0yZGFubWpkZFdOM2dzNVZPWFE5SmdYdngxd05aYkJ2TXNicGZMMk5odmM?oc=5"
+    },
+    {
       "id": "news-disaster-3132c1794b",
-      "lat": 28.3679,
-      "lng": 83.98128,
+      "lat": 28.37924,
+      "lng": 84.01314,
       "title": "US announces $3.6M in humanitarian aid for flood-hit Nepal",
       "category": "DISASTER",
       "time": "2026-08-30T03:18:35Z",
@@ -177,31 +199,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3pFUE5STFFjV3dyTmVoUmY2eG1PbjJnb3g4N1JGMEUteEVJTnB1NVV3WUplWlFsSW9nUlFHRzVKbkRnZ25nc2xwUFNGV3N3eXlZNHVBWG03MVEwRFoweUstTEhfVlpOa3RESVJVTGdwZHpqVmNmRDRoYUFoQzVzQV9nNjlpVnVEYjVYVjVZREpGLTdCd1I0WFVrUQ?oc=5"
     },
     {
-      "id": "news-disaster-8bc3fb34ed",
-      "lat": 35.70956,
-      "lng": 139.71393,
-      "title": "【防災気象情報】レベル4土砂災害危険警報：福井市、大野市、勝山市、鯖江市、あわら市、越前市、坂井市、永平寺町、越前町 レベル4大雨危険警報：福井市、大野市、勝山市、坂井市、永平寺町（2026年8月29日掲載）｜FBC NEWS NNN",
-      "category": "DISASTER",
-      "time": "2026-08-30T03:05:00Z",
-      "summary": "【防災気象情報】レベル4土砂災害危険警報：福井市、大野市、勝山市、鯖江市、あわら市、越前市、坂井市、永平寺町、越前町 レベル4大雨危険警報：福井市、大野市、勝山市、坂井市、永平寺町（2026年8月29日掲載）｜FBC NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-      "source_name": "日テレNEWS NNN",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFJ4ME5GZy1FVUR6SnFpOGNiVXdxb0x4X2ZyazRONmVlRzRrMkM4aU4tZV9BS21Ucl9CbzZFbnE3UWdneFNWUXNKN1NhWjZ1R3dYS2RjTm5MdDlVZFJiWWNTR1VBS0czZHRHaEFGT2d6VHhycGNQZjNpd2R6ZXFxWEMxamNWbG8?oc=5"
+      "id": "news-accident-dc057338a8",
+      "lat": 38.23457,
+      "lng": 140.93805,
+      "title": "テスラ今度は木の切り株に激突しイーロンマスクもショック 人間の遠隔操作で事故",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T04:02:13Z",
+      "summary": "テスラ今度は木の切り株に激突しイーロンマスクもショック 人間の遠隔操作で事故&nbsp;&nbsp;自動運転ラボ",
+      "source_name": "自動運転ラボ",
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuM1BtcXhKYzUzTGEwem1aaXExOWV6akVGTWUzS0V4U0RTajBRbmI4ck9QYWMybDZfVFdQX3lVM1NEV2diTUN4MQ?oc=5"
     },
     {
-      "id": "news-disaster-c468c77d08",
-      "lat": 35.70604,
-      "lng": 139.72541,
-      "title": "福井市と福井県大野市・勝山市に一時「レベル５大雨特別警報」、１１時４０分にレベル４へ引き下げ",
-      "category": "DISASTER",
-      "time": "2026-08-30T03:04:17Z",
-      "summary": "福井市と福井県大野市・勝山市に一時「レベル５大雨特別警報」、１１時４０分にレベル４へ引き下げ&nbsp;&nbsp;読売新聞",
-      "source_name": "読売新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JeHM5OGFlenFGa25LanVJSi02cTIyQXJ6UUVUeEprZmthdnQ0eFBjTkRDaUlnZ1hXaXBtY0djZDNYMHk3amI0a25LeVF6RUdxREc4WUZKVGFmZm0zdUlxeXRoMHNzZw?oc=5"
+      "id": "news-accident-7302760aa6",
+      "lat": 35.67338,
+      "lng": -95.38364,
+      "title": "OHP investigating deadly rollover crash in Muskogee County",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T03:57:04Z",
+      "summary": "OHP investigating deadly rollover crash in Muskogee County&nbsp;&nbsp;KTUL",
+      "source_name": "KTUL",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUZ0amtoMkVFYllxV0pFWk5KWGlDVjZmdjJkRjlUemQ0ZzdwT3ZPdzAyUVhvS2xrN2JNOGU1RXYyaGROTjVYU0F6amdGTTFsYjI0Nms3U1ZucXZKYzlvZE93dG1Md05EM3ZvQUVUMDRhRFdjRDlFUW9TcmU1TGNvSDFxeEtZVy1OVzlTOUR5QWx3NGtsaGtKN2xsUTNhQQ?oc=5"
+    },
+    {
+      "id": "news-accident-f14fe9cb00",
+      "lat": 31.61382,
+      "lng": 130.51432,
+      "title": "鹿児島 いちき串木野の水難事故 亡くなった３人を悼む",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T03:50:00Z",
+      "summary": "鹿児島 いちき串木野の水難事故 亡くなった３人を悼む&nbsp;&nbsp;NHKニュース",
+      "source_name": "NHKニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDdEU4Xy1nSl9ka3F2aVpCS0FaeEtOZlB2R1I2QXdVdmlNdDA5YUoyRWFEaW43cFU1QnhXMlo0bFowU0tQNFBpTmNlXzhBa2pqUEhQdzF1WFM?oc=5"
+    },
+    {
+      "id": "news-accident-57df91debe",
+      "lat": 35.68679,
+      "lng": 139.80664,
+      "title": "宮古島市・伊良部島で交通死亡事故（沖縄テレビOTV）",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T03:47:01Z",
+      "summary": "宮古島市・伊良部島で交通死亡事故（沖縄テレビOTV）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nSDVMLTQ3V1ZyU08xZ3U1ckFPYm1QOHNTU1lXa2pxd1V4ZWlsb0ZicTRyYTk5N0Q2MXo2eW1valZTX0Q0alloMmlIUl9BTW9JM3dNSmNMMXp2WGZMNkxzWXBKamNPMlpuMEhTNmJvdzJfSm1Pck9nTlhsSThLMjQ?oc=5"
     },
     {
       "id": "news-accident-ca923487f8",
-      "lat": 31.62314,
-      "lng": 130.54892,
+      "lat": 31.61856,
+      "lng": 130.52739,
       "title": "沖に流された中高生３人死亡 いちき串木野市海難事故（鹿児島ニュースＫＴＳ）",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:22:01Z",
@@ -211,8 +255,8 @@
     },
     {
       "id": "news-accident-f8e2658603",
-      "lat": 31.56309,
-      "lng": 130.60428,
+      "lat": 31.59346,
+      "lng": 130.4997,
       "title": "中高生３人死亡の水難事故 当初「遊泳禁止区域」」と発表も「遊泳禁止区域ではなかった」と海保が訂正 鹿児島",
       "category": "ACCIDENT",
       "time": "2026-08-30T03:12:31Z",
@@ -221,53 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rMm1mSUUxalYxaXA3d3BIWVdYSzdTejlpM1BuX2RVa2RkcE9sMXFZR2ZYVjNtQUJvc0g1SHRvdEJraWJBdDRhUFpETk5rNXYwMmZjRXY4NGgwVE1OQ3dXRk1pdThCeEVkVU5tRUQ5X1E2eWhCY0wwc2QySTJqNHc?oc=5"
     },
     {
-      "id": "news-accident-60467f6527",
-      "lat": 38.18966,
-      "lng": 140.31656,
-      "title": "今後の対策は? 崖の上から30〜40m下へ…国道112号の駐車場で乗用車の転落死亡事故「3年前にも男女2人死亡」の現場で事故防止に向けた対応を検討（山形・鶴岡市）（テレビユー山形）",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T03:00:37Z",
-      "summary": "今後の対策は? 崖の上から30〜40m下へ…国道112号の駐車場で乗用車の転落死亡事故「3年前にも男女2人死亡」の現場で事故防止に向けた対応を検討（山形・鶴岡市）（テレビユー山形）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZYXp4dXVkWnJEREt4MkVFYVdqQVJkUWstVEh2S3QwQ2x1UE0zV0RZY2tsb3d4UHhMakZIdmVFam9QOWp4ZnpheHFVNGNtM2dRWlBBcFppdUt3c05hWFVZanBnTkw4V1hraHNYejRJcUFkeWt1enp2WkJoSUpQTFU?oc=5"
-    },
-    {
-      "id": "news-accident-3a4846dd7a",
-      "lat": -18.40881,
-      "lng": 29.72194,
-      "title": "ジンバブエで交通事故27人死亡 バス型タクシーとトラックが衝突（AP通信）",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T02:59:04Z",
-      "summary": "ジンバブエで交通事故27人死亡 バス型タクシーとトラックが衝突（AP通信）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MZ1VTenltVzFpSU5USXR3NUhXMUZTUElDdXBReTlDa3lNenNwbnNTcURodlNoM3QxcENialJCd0NFeFdod1huMzNkaldfTmRzZnF5bE9BNFgwZnJ3Z0I1WlBSSk5OWE9iRnF4OFhkVjNadWRsY3VqbUlDTnBJdGs?oc=5"
-    },
-    {
-      "id": "news-accident-ee60489a8b",
-      "lat": 34.7496,
-      "lng": 135.212,
-      "title": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T02:36:00Z",
-      "summary": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区&nbsp;&nbsp;テレ朝NEWS",
-      "source_name": "テレ朝NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzWmdrNzdzTmlQNC1MNktHekNiX1N5SWI3b3NLUm1rVHZUeWdfN0lONDlNaUY3emUzUlNnZjF4ZnplQzZhWlJBU2pjTERQMHVISzdNeGljY2Y2TlVyWGhCZEpKQTNrVFY2ekF6ejNuc2g5dw?oc=5"
-    },
-    {
-      "id": "news-accident-16e07446c3",
-      "lat": 34.32747,
-      "lng": 139.24106,
-      "title": "横転事故で22歳の男性死亡 軽乗用車がカーブで縁石に乗り上げ 宮古島市伊良部島 （RBC琉球放送）",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T02:33:16Z",
-      "summary": "横転事故で22歳の男性死亡 軽乗用車がカーブで縁石に乗り上げ 宮古島市伊良部島 （RBC琉球放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScU5Ici1jdldCdWpGSmJRLUV6c2luR3dIMi01SUNzMTlGem5OVVB0d3F2bnJubGI2MEpkVEg4TF9JWkdpUW5YdEpPS1pJSjlWX0VXX1o0WWtxaFFZU3N3TG5sSHRtSDBubUF6R1drN1l4NWVHak9UVmhwN1A2bTQ?oc=5"
-    },
-    {
       "id": "news-disease-25d7dc1e73",
-      "lat": 41.05958,
-      "lng": 28.94662,
+      "lat": 41.03098,
+      "lng": 28.93034,
       "title": "世界の敗血症性ショックの市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T03:30:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-7d76117685",
-      "lat": 31.94976,
-      "lng": 131.39736,
+      "lat": 31.9074,
+      "lng": 131.40305,
       "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
       "category": "DISEASE",
       "time": "2026-08-30T02:51:10Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 35.00524,
-      "lng": 135.83111,
+      "lat": 34.99601,
+      "lng": 135.82675,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-f0113312b6",
-      "lat": 33.99318,
-      "lng": -5.01046,
+      "lat": 34.05358,
+      "lng": -5.01844,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.2174,
-      "lng": 66.18776,
+      "lat": 34.29909,
+      "lng": 66.1069,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-d7e083a328",
-      "lat": 34.25538,
-      "lng": 66.12152,
+      "lat": 34.3161,
+      "lng": 66.1272,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -331,9 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT05DN1didjVRU1pEenl5dXRmZVM5dUE1QWRjZmZxQTVsZngzRllqbEtqdjNNTnpkTERMN0hsTFRwV3RObUZqZzZ6dTJldkFhbDkzdmliV19PcU1yUDkyenpQcFN0cUtHR2xWMVVZSlYycFI2WjRLQkN1UUw5NFBDeTZwekwyNkVGZTM1MjdR?oc=5"
     },
     {
+      "id": "news-technology-2e29da3711",
+      "lat": 35.70028,
+      "lng": 139.55232,
+      "title": "米AI投資ブームは続くか？ 浮かんできた「電力と水」の制約という問題",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T04:00:00Z",
+      "summary": "米AI投資ブームは続くか？ 浮かんできた「電力と水」の制約という問題&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QWW1QbG5CMjctQTJsbzdwQXhvT2JfTlhzMm1nRmRMb0JOeEg0M2xaNUZUcmh3akM5anBhenBpNVc5cjh2d2QzTWVCR1h6dk43U1hDSzRjWGlJSTBhRjY3WkYxSUNvT2Y4dFJNTnFKS2tfd2JF?oc=5"
+    },
+    {
+      "id": "news-technology-5ce1399b6e",
+      "lat": 34.57545,
+      "lng": 133.87361,
+      "title": "「Kimi K3」のMoonShotAIが、Amazonなど米クラウド大手3社と収益分配について協議",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T03:48:57Z",
+      "summary": "「Kimi K3」のMoonShotAIが、Amazonなど米クラウド大手3社と収益分配について協議&nbsp;&nbsp;ビジネス+IT",
+      "source_name": "ビジネス+IT",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qNVF6TjNYN0o2ekp3Y0QzVTNrZUxteTEzeW9WS1NrRUJRNDFUTkdhYWMzNUx0TC0xZG5zSm5OemZqMlBoejc2ZHlHUnJDM2RBb2hz?oc=5"
+    },
+    {
+      "id": "news-technology-d859878557",
+      "lat": 38.88331,
+      "lng": -77.06749,
+      "title": "OpenAIがAIサイバー脅威への「集団的防衛」の公開書簡、Anthropicなど100社以上署名（ビジネス＋IT）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T03:35:06Z",
+      "summary": "OpenAIがAIサイバー脅威への「集団的防衛」の公開書簡、Anthropicなど100社以上署名（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWXY3blBmREl2eVUtcmg1VWd6ZWRiZkFFUjdVWE1CQUhGOExvN2FITjExa1k5LTc3WW5sMThtRnZabTNEbmxMQnRZSHNTTnBtNWRva2dTTGRoVjZvbmhlWW1teTJUb1pyVURMOG43Z2UwZHZ4ZGFHdk5mcUp2QkU?oc=5"
+    },
+    {
       "id": "news-technology-ce84ab5aa3",
-      "lat": 34.37762,
-      "lng": 132.73714,
+      "lat": 34.42212,
+      "lng": 132.65323,
       "title": "AI半導体マイクロンの株価は今が買いか、利益率86％の衝撃と新契約の罠",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T03:30:00Z",
@@ -343,8 +376,8 @@
     },
     {
       "id": "news-technology-ad9c2c412a",
-      "lat": 36.42548,
-      "lng": 127.35377,
+      "lat": 36.35401,
+      "lng": 127.37449,
       "title": "KAIST develops smartphone-based technology to detect hidden cameras",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T03:23:02Z",
@@ -354,47 +387,14 @@
     },
     {
       "id": "news-technology-60a5ff8413",
-      "lat": 5.68849,
-      "lng": 0.02094,
+      "lat": 5.7055,
+      "lng": -0.0365,
       "title": "8月決算で見えた「AI・半導体テーマ株」の選別。アドバンテスト「営業利益1兆円の可能性も！？」安川電機急落から見たAI関連株の明暗（みんかぶマガジン）",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T03:10:20Z",
       "summary": "8月決算で見えた「AI・半導体テーマ株」の選別。アドバンテスト「営業利益1兆円の可能性も！？」安川電機急落から見たAI関連株の明暗（みんかぶマガジン）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQlVQaFA1SFVxczZxR0hWQnNONUYwVlBoRlM3Vl92bGY2T0tyNGhCcXZDM1NBZklXejNuV2RYRjhGWUo1enNIYm5aUXRFSXYyczBQdVluck83ODgtN2s0aWhBVVBQdWJ1MGF3S0tEVVBFcUgxcnlGbmd4Z2dsVlE?oc=5"
-    },
-    {
-      "id": "news-technology-64a61a0096",
-      "lat": 51.48369,
-      "lng": 10.82525,
-      "title": "1stDibs Targets Profitable Growth With AI, Product Upgrades and Lower Ad Spend",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T03:01:00Z",
-      "summary": "1stDibs Targets Profitable Growth With AI, Product Upgrades and Lower Ad Spend&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjltTi1SU0xLelp6MUJVdjVqUDF1b0xJdU0yNWdHdDRnN1p1b3ZGUE0tOHBsd0wxcmZzNkdHc3JIZERHSDd6VWtCQTdpc3ZuSDVzNHhLZ3QtdlBGOXRuZVhUWk9RT1VmTi1RdmttSTBkalM2NU5uTlp0ajFJMzNBT1lEQm9EeExjTnZ5MGg0M1MwX1VpUlNxOWxBU2JZenVNeHc?oc=5"
-    },
-    {
-      "id": "news-technology-94f9ae360c",
-      "lat": 35.59579,
-      "lng": 139.73311,
-      "title": "韓国SKテレコム、フェンシング代表向けAI分析システム開発…2028年五輪まで高度化",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T02:51:21Z",
-      "summary": "韓国SKテレコム、フェンシング代表向けAI分析システム開発…2028年五輪まで高度化&nbsp;&nbsp;AFPBB News",
-      "source_name": "AFPBB News",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oTFM1TVgtVjlYbHA3c3dUWmtKX3hGTUgwR2dseklUU2NwakYta2NKQ3FrejVIcXUtUjdmQ1hVQmV1OVRqY0JHTnhnMjNZREw1YVp6OXpHY3hBZmdvZGNuVkN3Q3phZmVxdHhLUFd0LVk1UdIBVEFVX3lxTE10U2I3QkZUekdlWGMxMUMtanVBZ21yckkwS3pHWXlVN1dBV1ZHVXBxdUo3a011Xy04cDFxdUFhYzZXWHdOSVJ3ZHdHSDZENjl6T0JsbQ?oc=5"
-    },
-    {
-      "id": "news-technology-803d28b688",
-      "lat": 51.4537,
-      "lng": 7.17013,
-      "title": "韓国カカオ、5000万人のカカオトークをAI基盤に…GPU競争とは一線",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T02:51:21Z",
-      "summary": "韓国カカオ、5000万人のカカオトークをAI基盤に…GPU競争とは一線&nbsp;&nbsp;AFPBB News",
-      "source_name": "AFPBB News",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZX0dBeHRzREdNRk52bWU5WHBocVROLVlEYk9GVDR4VWtzZm9JRFZrODREZmhUN3BzNHBNM1hfYW04OHh2cjlFYkRKNHVvWTVkTFZDUGlUZWwzekQyeXZ6NTQxTXlNSXZ3UEpmTlllSXZuQdIBVEFVX3lxTE5nT0k5VWt6SV82MkV4WlI3Ul8tN3M2WmV1TGxqZEVRdVE3RUxNQlBKYjlib080V2RCRENlYzRFT2QwYl9WX3NlSWliMXppeTRmLVF1MQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T03:48:44Z"
+  "updated_at": "2026-08-30T04:03:59Z"
 }
