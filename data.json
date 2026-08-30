@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-bb115b625f",
+      "lat": 34.91729,
+      "lng": 138.33809,
+      "title": "2026連合静岡政治連盟の政治セミナーに出席しました。",
+      "category": "POLITICS",
+      "time": "2026-08-30T00:51:23Z",
+      "summary": "2026連合静岡政治連盟の政治セミナーに出席しました。&nbsp;&nbsp;選挙ドットコム",
+      "source_name": "選挙ドットコム",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uY21zbVN3VmVyZnVSSTRJMXh1LVRlWU13UnA2empfQ2x0b1NMd0JVa05UQ00tOTItcjNIQ3ZzcUpsaGRDUmJrNFc5VnNwcW5ONnZWbTlhWWR0N2Nha3lR?oc=5"
+    },
+    {
       "id": "news-politics-a8433bab8f",
-      "lat": 38.96615,
-      "lng": -77.02601,
+      "lat": 38.96702,
+      "lng": -77.0781,
       "title": "Gov. Abbott blocks funding in Texas for Flock cameras as bipartisan fury brews",
       "category": "POLITICS",
       "time": "2026-08-30T00:37:35Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-c97c7098e1",
-      "lat": 48.60651,
-      "lng": 3.73975,
+      "lat": 48.55971,
+      "lng": 3.71041,
       "title": "日曜サロン 政治記者が引き出すゲストの本音、日本の未来図 - tv-tokyo.co.jp",
       "category": "POLITICS",
       "time": "2026-08-30T00:27:21Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-9ec0f62611",
-      "lat": 61.11544,
-      "lng": -107.94362,
+      "lat": 61.07718,
+      "lng": -107.98453,
       "title": "Canada installs large Lake Ontario sign in latest jab at US",
       "category": "POLITICS",
       "time": "2026-08-30T00:17:25Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-a3c56500bc",
-      "lat": 40.4223,
-      "lng": -79.9484,
+      "lat": 40.41873,
+      "lng": -80.05141,
       "title": "Gov. Andy Beshear: 'People are looking at Kentucky' (Video)",
       "category": "POLITICS",
       "time": "2026-08-30T00:12:40Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-5f67a79e79",
-      "lat": 35.66726,
-      "lng": 139.72939,
+      "lat": 35.68043,
+      "lng": 139.71397,
       "title": "改憲 一緒に止めよう/田村氏・ＪＣＰサポが対話宣伝/東京・池袋 | しんぶん赤旗",
       "category": "POLITICS",
       "time": "2026-08-30T00:08:43Z",
@@ -56,20 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nY1ZCZklST0o1aVRrZ0k0bk9udjA2VDU2U1Y3dEw3ZWJpNmpET3ZXSjIwY2x5ekhETGNWXzNjWnlXMDkybmVKVk9Sa1NUeTdfQUhmUFhJY1RyUGFZNHhrNXZTMjlfUWtIRGFFU3FYZmVVX1VT?oc=5"
     },
     {
-      "id": "news-politics-7d74ce1c07",
-      "lat": 51.42188,
-      "lng": -0.07842,
-      "title": "Review: OnStage Playhouse’s ‘Mensa’ a smart drama about politics and listening - San Diego Union-Tribune",
-      "category": "POLITICS",
-      "time": "2026-08-30T00:01:05Z",
-      "summary": "Review: OnStage Playhouse’s ‘Mensa’ a smart drama about politics and listening&nbsp;&nbsp;San Diego Union-Tribune",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdjJtSTJFeXVaam93bFBadExScXdXRXRxWWZjRWl0eGVtdGFSVEdfbjdXNVJtSG5ndC1YU01sUlpmMktCSUFhdkp0b0l6UFh4aXowN1ByY3A4aV95RW1fZUJFVDUtNldic0dvSFQ0Nm9yLVpmZmJodFB1d1BfN2lMSkVoRlNxLXBpRXVVTG1IUEhVZzhxZzgtekhNMU95a0dTWGp2QW51V2N0czA0a0JSZ1ZJaGNucGJVZWluYXpEMm0?oc=5"
-    },
-    {
       "id": "news-finance-401f425c1c",
-      "lat": -28.51556,
-      "lng": 153.26468,
+      "lat": -28.57025,
+      "lng": 153.29403,
       "title": "Protesters line Merrimon Avenue as G20 finance ministerial comes to Asheville",
       "category": "FINANCE",
       "time": "2026-08-29T23:17:18Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.64226,
-      "lng": -76.54475,
+      "lat": 39.7116,
+      "lng": -76.5801,
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "category": "FINANCE",
       "time": "2026-08-29T22:40:51Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-b7e2b6e0cb",
-      "lat": 40.67872,
-      "lng": -73.95809,
+      "lat": 40.73452,
+      "lng": -74.02781,
       "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
       "category": "FINANCE",
       "time": "2026-08-29T22:22:32Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-75d28925f4",
-      "lat": 43.11786,
-      "lng": 141.36509,
+      "lat": 43.02292,
+      "lng": 141.355,
       "title": "【最新FX・為替ニュース生解説】2026年8月31日～9月4日 YouTubeライブ配信スケジュール｜リアルマーケット分析",
       "category": "FINANCE",
       "time": "2026-08-29T21:00:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-36c1c3a863",
-      "lat": -12.03556,
-      "lng": -77.01486,
+      "lat": -12.02826,
+      "lng": -77.02221,
       "title": "太陽誘電の株価が当日4%高。2027年3月期1Qは営業利益+53%、直近のPERは40倍台（LIMO）",
       "category": "FINANCE",
       "time": "2026-08-29T20:31:09Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-1f723793e4",
-      "lat": -12.03168,
-      "lng": -77.07335,
+      "lat": -12.08368,
+      "lng": -76.98352,
       "title": "東邦亜鉛、1カ月で4割超上げた株価が当日は反落。2026年3月期通期は当期利益が黒字転換（LIMO）",
       "category": "FINANCE",
       "time": "2026-08-29T20:05:12Z",
@@ -134,8 +134,8 @@
     },
     {
       "id": "news-disaster-4ee1ae2adb",
-      "lat": 35.74393,
-      "lng": 139.74967,
+      "lat": 35.67901,
+      "lng": 139.737,
       "title": "【速報】島根県にレベル4大雨・土砂災害危険警報",
       "category": "DISASTER",
       "time": "2026-08-30T00:18:19Z",
@@ -144,9 +144,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ud3lLTGZHNVhNeVk4bl9HS2tDUjdYNE56aXJHdEtkVUplcm9JVE15MUh4Q0F1WGtieXJTOVBRUmFRS0xNSGNTN09DOGZJanh0NldnUHN5NUV2ODVWcUVZVHlsZUk5Vkl3c20zZ1QyQWJYZw?oc=5"
     },
     {
+      "id": "news-disaster-1d9ccc8f74",
+      "lat": 35.68095,
+      "lng": 139.7641,
+      "title": "【速報】島根県にレベル4大雨・土砂災害危険警報（テレビ朝日系（ANN））",
+      "category": "DISASTER",
+      "time": "2026-08-30T00:18:19Z",
+      "summary": "【速報】島根県にレベル4大雨・土砂災害危険警報（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15QkhuZ2g1U3BVTTJwY2pWempOM1lKSG1DU2RUOFpUakR3TVp2MHdLMHV0R0wyS1lBR013STFKRm9qTTE2cUVET0lvOUV0RGZQRDYzQTZxWk5kMzlzYUNKX0RHd1c1Q3ZCNXRVbloxaXluWTk3a0FGXzUzRWttcUE?oc=5"
+    },
+    {
       "id": "news-disaster-33e141cef7",
-      "lat": 34.36057,
-      "lng": 132.4808,
+      "lat": 34.38936,
+      "lng": 132.45052,
       "title": "北海道で最大震度1の地震 北海道・恵庭市、北広島市、函館市、安平町、新ひだか町、浦河町、青森県・東通村",
       "category": "DISASTER",
       "time": "2026-08-30T00:17:00Z",
@@ -155,20 +166,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVNm1uZjZYZUFaVXNLdXFBMHRPeXdHOG5HcThtdHJISFRMVG9jN19hRkJfTktBVGtuSEZpdFdvTnNZbHNIRVl3QW5nVktnUQ?oc=5"
     },
     {
-      "id": "news-disaster-adbcea9a5a",
-      "lat": 35.67346,
-      "lng": 139.72403,
-      "title": "【大雨警戒】福井県にレベル5大雨特別警報 災害がすでに発生している可能性 多いところで60mmのところも【雨のシミュレーション】（チューリップテレビ）",
-      "category": "DISASTER",
-      "time": "2026-08-29T23:57:18Z",
-      "summary": "【大雨警戒】福井県にレベル5大雨特別警報 災害がすでに発生している可能性 多いところで60mmのところも【雨のシミュレーション】（チューリップテレビ）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3c2FsMWZtRG15NGo2NTZZS1NzWHB2YzNOU1VMWGVHX3drb003VHIwYmFvTzdTbjlWdjlEU3dVWDBZdmdtcnhvZEd6RkgzZENuUVVIN3lHcWRPdjlvTUN6WllEcnk1WV9sWWJvRmFQdHgzUmV5cE9YR1FMdUJmQkU?oc=5"
-    },
-    {
       "id": "news-disaster-60cde604c4",
-      "lat": 27.70841,
-      "lng": 85.31224,
+      "lat": 27.69054,
+      "lng": 85.29684,
       "title": "NC Nepalese community rallies after deadly Nepal-Tibet border flood",
       "category": "DISASTER",
       "time": "2026-08-29T23:55:40Z",
@@ -177,9 +177,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXMzXy04dmhNdUhwMWtBcV9sZE9hYm0xMXd5b2RrRmlSMTIwYmRYcXBPVGlaR3NoMHRSeE5tQTRTOThzZzJSMU50ejZkb3ZUeUM4SU8yWDdOdFdZYVpwZm1UWVhDS2tCTzFXUmg5dVZFU2o3U0VaaVVrTkNsSEs2ZkxhRjBMUjBDNmoyZ19BalJob0JDRjFTaC1n0gGfAUFVX3lxTE9LVk9vNFAxalEyOGtmYUtZQUJHVFkwWEtvLTZPUGRraTVYenhPZHZ2OVV2N1I4SmtCWGpQeGNxWW01UWQydHUxMm9IY21vQmNkNG9DSU9GNllTUVczc2JXNjU2UURvMDhnVk1ycG5KdW9HTWFqdjY1NGMycUFmbUZCclphTFFLOFh6STJYM0pJQUdDYkF2bE5BSnNDSjU1cw?oc=5"
     },
     {
+      "id": "news-disaster-b865a459d3",
+      "lat": 36.7101,
+      "lng": -4.36475,
+      "title": "Disaster relief: AG warns donors to check charities first",
+      "category": "DISASTER",
+      "time": "2026-08-29T23:52:00Z",
+      "summary": "Disaster relief: AG warns donors to check charities first&nbsp;&nbsp;Hawaii News Now",
+      "source_name": "Hawaii News Now",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVDFlek50Sk1XbkFGZjJ0elYzZzVLUmV3TGdUbGFWWWxRTThXNGhBWHQtOWVZMmtuVWJCcmdzUDJXLW5icVZqTnJ6dkk2ejNqc2lCem9BZEJnMF84bWIwLXdncE5HcUMwbXNzMWdDTVEzRkFneVBnRGthdVRGVVc4YnJEeE1OZldaTGxqY2Z5TFotOE5hSkFZcFl3SdIBrwFBVV95cUxPSUtMT1oyRDAwTDhjc2NUa0hMbm9IQzc1Q0xUaENEWDJQZ0hOUjNRRHM4cFpRNThHd2lBd0JpUFZBYTJmM05CeFBtOUVKZ2ZNMnphRXZMcWRobjFVd3otZi1kRTJidHV3eVg0TUFra1BKSU52dzlRMExhcTBNai1NbERTanI4REdXWEdOSGVpdTZDeUFyZkd5M3hCblp2VTBuMDhYb0N6ZG1IT3R6ak5F?oc=5"
+    },
+    {
       "id": "news-disaster-2caa9373eb",
-      "lat": 34.92024,
-      "lng": 135.21506,
+      "lat": 34.89426,
+      "lng": 135.21237,
       "title": "総雨量400ミリに迫る 少ない雨でも土砂災害リスク 加賀で未明に線状降水帯直前予測（北國新聞社）",
       "category": "DISASTER",
       "time": "2026-08-29T23:30:35Z",
@@ -188,20 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43elZHVHNYU1pqdHgza2VEa2NYN3dHT3pGcUhVcHJiSmNtVU04N28xMm1RdDRURlZGZWcyempGVEdTb29WQzBGNlBOdHIwQzhrcG4zTlF5a0JnXzBUU0FOMzRPVm1uWHBtb3RDSmFsdmxET1pXeXd3VHBKMUFCTzg?oc=5"
     },
     {
-      "id": "news-disaster-44b872d172",
-      "lat": 35.69971,
-      "lng": 139.8042,
-      "title": "島根 出雲市にレベル４土砂災害危険警報（０８：１３）",
-      "category": "DISASTER",
-      "time": "2026-08-29T23:30:00Z",
-      "summary": "島根 出雲市にレベル４土砂災害危険警報（０８：１３）&nbsp;&nbsp;NHKニュース",
-      "source_name": "NHKニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGSjhVLUp0aVFSMGRnTEtRelR3andQeksyZGtRLS10endSM0hQUnVVOTZHazlZd1pGVlRiTENjeVB5V3k2UDRHNVVOUzJ3dm9QVHpXbER4bFM?oc=5"
-    },
-    {
       "id": "news-accident-370d35d45a",
-      "lat": 33.6184,
-      "lng": 130.38232,
+      "lat": 33.5574,
+      "lng": 130.38626,
       "title": "福岡の住宅街で起きた「謎の事故」 なぜマンホールのふたは吹き飛んだのか ゴキブリ退治のバーナー、漂うガス臭…原因を追う",
       "category": "ACCIDENT",
       "time": "2026-08-30T00:12:00Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-b2dd8ae355",
-      "lat": 31.6149,
-      "lng": 130.55336,
+      "lat": 31.60908,
+      "lng": 130.51336,
       "title": "高校生1人・中学生2人が死亡 いちき串木野市沖で水難事故、波1.5mで遊泳中に行方不明【鹿児島】（FNNプライムオンライン）",
       "category": "ACCIDENT",
       "time": "2026-08-29T23:43:19Z",
@@ -221,9 +221,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DSXc3OXlONlE2NnJCcE1Hd2lqakJDUktYYlNZWE5tZWZsVEFhdkh2eGpGNXZSVWNnSVJZUVBJdkE0WmxHcDZwSUtRX1ZhQjBFRTV0bVVrVkJDNWZoNEtrXzRwc0tBVVVTX2liaDhVNTQ0a01BVC16d01EdWVVZWc?oc=5"
     },
     {
+      "id": "news-accident-0c4172c97a",
+      "lat": 31.60423,
+      "lng": 130.53699,
+      "title": "高校生1人・中学生2人が死亡 いちき串木野市沖で水難事故、波1.5mで遊泳中に行方不明【鹿児島】",
+      "category": "ACCIDENT",
+      "time": "2026-08-29T23:42:00Z",
+      "summary": "高校生1人・中学生2人が死亡 いちき串木野市沖で水難事故、波1.5mで遊泳中に行方不明【鹿児島】&nbsp;&nbsp;FNNプライムオンライン",
+      "source_name": "FNNプライムオンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WSGVJX1dhNEhRSWtxRFFUdHo3MDI0UW5sTWtidEd6ZXJNMm1EMjFBT2lfOGhTWVdGMC1fZ0pZVkFqSGhETUk1VlMzZkNHUQ?oc=5"
+    },
+    {
       "id": "news-accident-e4b4ad8f6e",
-      "lat": 59.03041,
-      "lng": -135.14255,
+      "lat": 59.08959,
+      "lng": -135.13812,
       "title": "Prayers and donations sought for family after tragic accident",
       "category": "ACCIDENT",
       "time": "2026-08-29T22:49:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-dc057338a8",
-      "lat": 38.22624,
-      "lng": 140.85472,
+      "lat": 38.20915,
+      "lng": 140.84982,
       "title": "テスラ今度は木の切り株に激突しイーロンマスクもショック 人間の遠隔操作で事故",
       "category": "ACCIDENT",
       "time": "2026-08-29T22:42:33Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-b8089e63ff",
-      "lat": 34.63545,
-      "lng": 135.17387,
+      "lat": 34.74297,
+      "lng": 135.21852,
       "title": "【要確認】アンダーパス冠水で死亡事故 全国102カ所を点検【神戸市北区】兵庫県議会議員 大塚公彦",
       "category": "ACCIDENT",
       "time": "2026-08-29T22:16:18Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40Wm9hbE5td3pQa3dnV21zN1dyQnR3eWxwU1VBYzFEUldLN1hvUlZ4UHdOeE5HWjBmVEQwT0lJVERUcmo2YkUwMGR0aGswaWpob3ZnbFdqb01ETmVBLVVj?oc=5"
     },
     {
-      "id": "news-accident-683952ebd5",
-      "lat": 53.36724,
-      "lng": 7.22604,
-      "title": "「水流の影響を大きく受けます」 水難事故を防ぐために警察が注意喚起 危険視される定番の服装とは（Hint-Pot）",
-      "category": "ACCIDENT",
-      "time": "2026-08-29T21:58:50Z",
-      "summary": "「水流の影響を大きく受けます」 水難事故を防ぐために警察が注意喚起 危険視される定番の服装とは（Hint-Pot）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GM05weGxvRFNZX0tLaVU5SU5oVWp1STdmeWxLRTFzbmZFQXpQRENBZnhCR0tLMlJ6UEFFMUxoWXNZT2dJSlJhYzZmdnVQZ1g2T01xR1ZRX1FGNXJhSnBudnVhRk1KRExXaU5UZzV4NW9QclZ6MzZDT3lYTjJiQmc?oc=5"
-    },
-    {
       "id": "news-disease-f0113312b6",
-      "lat": 33.99664,
-      "lng": -5.0224,
+      "lat": 34.03082,
+      "lng": -5.01776,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -277,19 +277,30 @@
     },
     {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.23036,
-      "lng": 66.09697,
+      "lat": 34.25124,
+      "lng": 66.08652,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
-      "time": "2026-08-29T21:14:00Z",
+      "time": "2026-08-29T21:10:44Z",
       "summary": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIbHJCRmFEeUVndmlERW14NnFzQU4zYmNWNmw3OG5xMVB4M21tUnhMXzFIdlkxVXV0VnY2SlB2aFdhSlltbWl5NjB0UWJXbnJMYnFTWXd6Qnd2cFM1b19rTFhra2w2NlEwS0hCdEJsWFZrRERKaWtlYWxiZkkyeDg?oc=5"
     },
     {
+      "id": "news-disease-d7e083a328",
+      "lat": 34.24268,
+      "lng": 66.10244,
+      "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)",
+      "category": "DISEASE",
+      "time": "2026-08-29T21:10:44Z",
+      "summary": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT05DN1didjVRU1pEenl5dXRmZVM5dUE1QWRjZmZxQTVsZngzRllqbEtqdjNNTnpkTERMN0hsTFRwV3RObUZqZzZ6dTJldkFhbDkzdmliV19PcU1yUDkyenpQcFN0cUtHR2xWMVVZSlYycFI2WjRLQkN1UUw5NFBDeTZwekwyNkVGZTM1MjdR?oc=5"
+    },
+    {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.95055,
-      "lng": 4.66409,
+      "lat": 46.89879,
+      "lng": 4.64149,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-1e07a9a95a",
-      "lat": 46.92845,
-      "lng": 4.69304,
+      "lat": 46.94347,
+      "lng": 4.58535,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
       "category": "DISEASE",
       "time": "2026-08-29T09:30:36Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-efa276ec34",
-      "lat": 35.74926,
-      "lng": 139.50256,
+      "lat": 35.81176,
+      "lng": 139.54323,
       "title": "ベッキー、芸能界への強烈なあこがれ明かすも…さんま「俺と同じ病気やね」「かわいそう」",
       "category": "DISEASE",
       "time": "2026-08-29T09:10:17Z",
@@ -320,20 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yaGhOZ3VHUVJSVk9zSVQ0dndUUDFCX3Z3OXFQZ2Vyb1Y2VlluWWNFLWx6Y1RROFBId3pRZ1VOaFdfQ2EzR2k2cU9ydGNNUjVjYUlSUUpSVzJwNDNxczF0cGxSaUxqakFSMnYteWNralA3WmJWOFU40gF_QVVfeXFMUGJhcWxoT1VrRWJVOWFfTkpGOGM3a09mdGRwWjJ3X2xhYkNkOW9BSTNjSnZEdlBTRktNbFFqZGpRa0dGVC1sa1Q5WmdISzY5aVNLQlVZcmVzdnlfSGNPNWJmOU5vWmkzR2t5Vl94TC1HY0F3ODNkN2hHZVJIQkhIaw?oc=5"
     },
     {
-      "id": "news-disease-70e971d58f",
-      "lat": 34.80115,
-      "lng": 135.5327,
-      "title": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」",
-      "category": "DISEASE",
-      "time": "2026-08-29T04:26:01Z",
-      "summary": "人と話すのが不安で怖い…50人に1人が経験する“社交不安症”とは？ 「コミュ障」と混同され悩む当事者「れっきとした病気」&nbsp;&nbsp;Yahoo!ニュース",
+      "id": "news-technology-335d46335e",
+      "lat": 38.85657,
+      "lng": -77.05635,
+      "title": "「AI暴走」論への異論 OpenAI侵入事件で問われるべき組織的責任 #エキスパートトピ（八田真行） - エキスパート",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T00:45:18Z",
+      "summary": "「AI暴走」論への異論 OpenAI侵入事件で問われるべき組織的責任 #エキスパートトピ（八田真行） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ3N2WlItSElNVElOV3pKVDliWFA3VmYxWW1UdHQ0dzBZSzFManNWUTJzQU9pYm1XNDZlTlh1bjBqVW5wLXBueGxfWWVISHh2am5IYVZ5UmpVMU1rNTF2dEdOZjJwbTY3NjZpOTVEbGFNZVFBbXI3RldOMlVkOTZETkdyaTFWNXJ4eHdWVUt3?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXBKdXp0X0FoWTU0Ym9CdWM0YUhnVjBuM3djbmlfd0l3WG9qeGs2RUViWFhrOHNNcVVXejNRX2l1dmlkQ0JCclZUTGprTk9SVXd0WjFhdVRQd21xUlRBdE5vb044ZEk4YWY2NnViR09DWUpJWnNyZ3h2SFBpY1dhMWJFczRBZ1NM?oc=5"
+    },
+    {
+      "id": "news-technology-0d85f532c1",
+      "lat": 35.13553,
+      "lng": 137.0173,
+      "title": "Z.aiが320Bのモデル「GLM-5.3-Flash」を発表／OpenAIの自社チップ「ハラペーニョ」の性能が明らかに（ITmedia PC USER）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T00:45:12Z",
+      "summary": "Z.aiが320Bのモデル「GLM-5.3-Flash」を発表／OpenAIの自社チップ「ハラペーニョ」の性能が明らかに（ITmedia PC USER）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WUXN4dnE0R25LN2tNSHNRaENZdkNCSGZFajJ0RGhjMVBxMEw5UGRPeHEtcXdaV2xvdkNucUNFQjJnY3NuQ2pPeW4tOXEwQ3lyRTUxQnIwaTJRazRTOGtEWWlFWC1fd282LWNYeFQ4QzRvaklGOEc2b015VTl6M0k?oc=5"
     },
     {
       "id": "news-technology-d4c77c96c4",
-      "lat": 30.00506,
-      "lng": 31.52789,
+      "lat": 30.0165,
+      "lng": 31.44069,
       "title": "How Investors Are Reacting To Cisco Systems (CSCO) Expanding Its Secure AI Factory And Sovereign Infrastructure",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T00:44:38Z",
@@ -343,8 +365,8 @@
     },
     {
       "id": "news-technology-f8078da586",
-      "lat": 35.70796,
-      "lng": 139.69538,
+      "lat": 35.6225,
+      "lng": 139.70388,
       "title": "AI時代の「判断デザイン 100問セルフサーベイ」を無料公開、有料の実践診断も開始",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T00:44:23Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-05da162210",
-      "lat": 35.68645,
-      "lng": 139.81682,
+      "lat": 35.73261,
+      "lng": 139.82192,
       "title": "AI時代の新スマホは正方形？ 中国市場で増殖する「スクエアAIスマホ」",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T00:30:03Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-777e450c03",
-      "lat": -33.08843,
-      "lng": -55.18493,
+      "lat": -33.09156,
+      "lng": -55.11289,
       "title": "AIで作った曲は音楽チャート除外 オーストラリアで新規則 リードボーカル＆メインの楽器は人間のみ",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T00:10:07Z",
       "summary": "AIで作った曲は音楽チャート除外 オーストラリアで新規則 リードボーカル＆メインの楽器は人間のみ&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oN0dmb1daOFdGWmM4WjBuc1RoM3IwVTY0TzVELUNVamVzbFlWdjRFNUt5R3oxZFpaNGdPYjRZR1NpbHpXcWxYWTI4M3NUemxWNy1VVlpZSXZZNWpMT0g4dG9wQi1oQWU3alNHeDNneEREZ0VEU1VvbXZKNzRiOTA?oc=5"
-    },
-    {
-      "id": "news-technology-0a1c534cab",
-      "lat": -8.28272,
-      "lng": 115.6339,
-      "title": "35台のヒューマノイドがずらり フィジカルAIの学習データはどう作る？ J-HRTIが大規模データファクトリーを開設",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T00:10:03Z",
-      "summary": "35台のヒューマノイドがずらり フィジカルAIの学習データはどう作る？ J-HRTIが大規模データファクトリーを開設&nbsp;&nbsp;ロボスタ",
-      "source_name": "ロボスタ",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8weGNBWE1DRWpJS0l5ZGVRZHotM0lrWDlkci1XNV8wM2Nrd0wxMTA3WGJUSHBUUjFhdlUwM05sRkpPV3Z4STBHeEp6bk45a1Rycm4wNzhOYkx4czdtaG9PNk5GUUI?oc=5"
-    },
-    {
-      "id": "news-technology-2317efa3b6",
-      "lat": 36.03385,
-      "lng": 139.33481,
-      "title": "AI英語論文執筆支援ツール 長岡技術科学大学が試験導入",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T00:09:01Z",
-      "summary": "AI英語論文執筆支援ツール 長岡技術科学大学が試験導入&nbsp;&nbsp;大学ジャーナルオンライン",
-      "source_name": "大学ジャーナルオンライン",
-      "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zWTdqSHI0V3hlMGdhRThEbkhHejBVZHZmT0I4dFJFT2Roa2RFMExOTFQ3UWhoQ3VfNDV1UVhJRWlYQ01MdF9Z?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T00:48:48Z"
+  "updated_at": "2026-08-30T01:03:54Z"
 }
