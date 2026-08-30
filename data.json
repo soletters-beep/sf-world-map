@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-2d94134a6d",
+      "lat": 39.71913,
+      "lng": -76.65902,
+      "title": "New sign revealed in response to Trump’s ‘Lake America’ executive order | CNN Politics",
+      "category": "POLITICS",
+      "time": "2026-08-30T02:58:00Z",
+      "summary": "New sign revealed in response to Trump’s ‘Lake America’ executive order | CNN Politics&nbsp;&nbsp;CNN",
+      "source_name": "CNN",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFI4bVFHSDlKenlVc3BwLWh2VXZlS19JVkRiNXlEQnhZLWM5MktReG9IX0l6bk5wbHlHNWVEQUZBdy1yRWpfbGN5aWdxeWM4N05mM2wzdURDZUFnVmtCenAwWVhJV0ZFdmxRcmNxU3UxTTVkUzhSeFNVRXVNdk5SMjFZQ3VPZHliRHJGUG40MHA2TG9jcXU1Nmg1bw?oc=5"
+    },
+    {
+      "id": "news-politics-02b513b000",
+      "lat": 47.16078,
+      "lng": -71.82265,
+      "title": "Jelly Roll Slams Politicians On Both Sides For \"Sh*t Job\"",
+      "category": "POLITICS",
+      "time": "2026-08-30T02:47:00Z",
+      "summary": "Jelly Roll Slams Politicians On Both Sides For \"Sh*t Job\"&nbsp;&nbsp;Deadline",
+      "source_name": "Deadline",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOTc4U1VlNlNVcE9yYUxZUVFEZFAxWTA0ZG9UMWNDazJTOGlId3ZLQTFoV2lFU1dCQVdWMXR4Tl9pZUhhR0Rtb0tSSlh1TDlvWDNWbUVSNXN3ZDczLVcxQ1RCZW1DUnVTYngxRl9IZ2s0LUEwUHRJd1dTWXhKeXZORFg4Q3AzSEViakNGbEJlY0J6dnA0azZ1dkdR?oc=5"
+    },
+    {
       "id": "news-politics-059f32af69",
-      "lat": 32.62646,
-      "lng": 34.9927,
+      "lat": 32.565,
+      "lng": 35.01816,
       "title": "Ofer Winter can reconcile political renewal platform with endosring Benjamin Netanyahu",
       "category": "POLITICS",
       "time": "2026-08-30T02:40:03Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-af5d2253cd",
-      "lat": -37.83797,
-      "lng": 144.74162,
+      "lat": -37.81728,
+      "lng": 144.69742,
       "title": "Reflections on Colorado Springs candidate political debates | Tom Cronin",
       "category": "POLITICS",
       "time": "2026-08-30T02:25:11Z",
@@ -24,8 +46,8 @@
     },
     {
       "id": "news-politics-46b8f2b3de",
-      "lat": 53.80099,
-      "lng": -0.35212,
+      "lat": 53.72669,
+      "lng": -0.40327,
       "title": "Politicians rally from both sides at local fundraisers, 66 days until midterm election",
       "category": "POLITICS",
       "time": "2026-08-30T02:07:49Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-412c03d75d",
-      "lat": 35.52383,
-      "lng": 139.5126,
+      "lat": 35.57847,
+      "lng": 139.48549,
       "title": "中間選挙が迫る中、トランプ政権の株式取得ポートフォリオに政治的・法的な二重の反動リスク",
       "category": "POLITICS",
       "time": "2026-08-30T02:06:00Z",
@@ -45,31 +67,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NZHB2a01oczAyMzFVQzBuQ3lUWFJ0SDYwclQ3eFFpTFFWUUZ6TVdlM2lKZlBQQXc2bGk1NW83Y3dVeV9ENmoxOUJ3N3dmME5ENlgzaWxqWnVLRVNDM2M0S0dobU4ydURyTFVMc1l4eWZ5OEF5?oc=5"
     },
     {
-      "id": "news-politics-a163385a67",
-      "lat": 35.6535,
-      "lng": 139.76751,
-      "title": "政治局：思想工作を行うための、1万5000人から2万人の有力者からなるネットワークを構築する。",
-      "category": "POLITICS",
-      "time": "2026-08-30T01:53:37Z",
-      "summary": "政治局：思想工作を行うための、1万5000人から2万人の有力者からなるネットワークを構築する。&nbsp;&nbsp;Vietnam.vn",
-      "source_name": "Vietnam.vn",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2lNNEFIQUNwZnl3UXhOWjNkR2U4ZV9GTTdBdVlCSWZHa2xEcExhcGhNWWVRQ1BJSTYzM1IweFJQZnJ5QUtINk8tV3N5TENLaWYwQlZYbm9qcExqSUNLUlJtTE5CT1JNVWN0bUlKNmtIYlFLUTkzSEVsdGV4ZTZJaXRZaGZXdEliMU1OWFdETU9hMm1IZmdzMFktY21TZnlPZndoUzFQVQ?oc=5"
+      "id": "news-finance-f17efb0a9f",
+      "lat": 18.30234,
+      "lng": -73.86184,
+      "title": "South Korea Vice Finance Minister Lee Hyoung-il named finance minister, Yonhap says",
+      "category": "FINANCE",
+      "time": "2026-08-30T03:01:17Z",
+      "summary": "South Korea Vice Finance Minister Lee Hyoung-il named finance minister, Yonhap says&nbsp;&nbsp;WTVB",
+      "source_name": "WTVB",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0hrOXhBMXpDTmdPOUozODdJRXNDVWhubktoVnVJSEc1UUZMZjBzUzU2ay1aY3dINko4X1VvYVNjVGdISV9heGtYVzNTdWsxRDBsNzROODlvY3dRSUxGQWdZY0V5NG5oUWNTRWM5VVJ6T3VpV1pTbTRlcXh4bE1CVlZCYTdOdEFZYThUQmE3Q2RVdDdjcmIwSGE3QmsxY2FqZ29aZmFhUGtqQXk2VVlrSVN6QQ?oc=5"
     },
     {
-      "id": "news-politics-8b61a0f8e6",
-      "lat": 40.72975,
-      "lng": -73.95533,
-      "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
-      "category": "POLITICS",
-      "time": "2026-08-30T01:52:00Z",
-      "summary": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjd2TTFZdW5heklSQkVMUHRLaGJwZ0VSWHdla2pydGpIaXk4dGQ0S2N3NkRjRFZDOVpmQllVYjVKQUMtQm5MM2hQaE8xNEV3TmFFemJOQTZKLW8xV0tpUmpsWmpTazk1UVBSNjMyaDdPQ3RHd2w3QlVZbDEwdzFIcXRIak45aE1xWUhKQ0ZkZDRyeGZXMjE2MnVxV212YkVvRnVDdEdB?oc=5"
+      "id": "news-finance-9cfc99f288",
+      "lat": 18.20248,
+      "lng": -73.8083,
+      "title": "South Korea Vice Finance Minister Lee Hyoung-il named finance minister, Yonhap says - Al-Monitor",
+      "category": "FINANCE",
+      "time": "2026-08-30T02:44:09Z",
+      "summary": "South Korea Vice Finance Minister Lee Hyoung-il named finance minister, Yonhap says&nbsp;&nbsp;Al-Monitor",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZW00dWt0Z285cGZhNVh3TkNNd1pweDlKOW9rOEdxZllDeURCSXBpbWZTckNILW04X2M2VFoxQWxQTjdlb2ZqbUpYVkd6ZGgxZHY2YnVPYjBWOFI4T1F2c3F2MWNWNzVHZ2F0NG53cFF6U01LWWptTHZWMDJFVGJWUVRYRmFDeEZUcjlRODlOMFE4V1JUa3cwa1JmVTU1MUR0VW13cnQwT2ZwbWdZTFVDWTludTNJNVktaFBaVTZ1QQ?oc=5"
     },
     {
       "id": "news-finance-b1416a695a",
-      "lat": 50.90301,
-      "lng": 6.57831,
+      "lat": 50.90246,
+      "lng": 6.55945,
       "title": "Indian Gaming Association Chairman David Z. Bean Warns Fight Against Illegal Prediction Markets Will Intensify This Fall",
       "category": "FINANCE",
       "time": "2026-08-30T01:59:18Z",
@@ -79,8 +101,8 @@
     },
     {
       "id": "news-finance-8b61a0f8e6",
-      "lat": 40.7485,
-      "lng": -73.99846,
+      "lat": 40.66201,
+      "lng": -74.01541,
       "title": "Clash Between Prediction Markets and States Sets Off a Furious Political Battle",
       "category": "FINANCE",
       "time": "2026-08-30T01:52:00Z",
@@ -90,8 +112,8 @@
     },
     {
       "id": "news-finance-bcd92eed8a",
-      "lat": 54.61514,
-      "lng": -5.94543,
+      "lat": 54.58542,
+      "lng": -5.94627,
       "title": "Markets rebound in Q2 2026 with Harbor Human Ca...",
       "category": "FINANCE",
       "time": "2026-08-30T01:48:14Z",
@@ -101,8 +123,8 @@
     },
     {
       "id": "news-finance-1bda4653f6",
-      "lat": 38.20243,
-      "lng": 140.92757,
+      "lat": 38.30196,
+      "lng": 140.91086,
       "title": "(株)アイ・グリッド・ソリューションズ【603A】：株価・株式情報（夜間PTS含む）",
       "category": "FINANCE",
       "time": "2026-08-30T01:00:12Z",
@@ -111,31 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwS1lNd1JkSllWYUhhc1BaUktHd0ZzYTB0RzVHa0M5YzdJb3lqckNsai1NUERBcEtXRmtGdDgxblBqcEVxMkVJRkJXRlVFbU94MkE?oc=5"
     },
     {
-      "id": "news-finance-327482a2e4",
-      "lat": 14.653,
-      "lng": 43.55029,
-      "title": "【北浜流一郎のズバリ株先見！】 ─ 10万円で狙える「将来の主役」5候補！",
-      "category": "FINANCE",
-      "time": "2026-08-30T00:30:00Z",
-      "summary": "【北浜流一郎のズバリ株先見！】 ─ 10万円で狙える「将来の主役」5候補！&nbsp;&nbsp;株探",
-      "source_name": "株探",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqQ0RUcm9aSTJReHRONVJYTHp3MkJGYmNGUEFETFVMQ3hxWHN0cDN3Z0dKckE1Y2JtUmI0WFE3ZEY3OTV0cHJNMWFrazNsYTNtaXdGNENQd1NzUWc2WDE4Sw?oc=5"
-    },
-    {
-      "id": "news-finance-b7e2b6e0cb",
-      "lat": 40.67879,
-      "lng": -73.96452,
-      "title": "Treasury Bars Some Reporters From G20 Finance Meeting",
-      "category": "FINANCE",
-      "time": "2026-08-29T23:20:50Z",
-      "summary": "Treasury Bars Some Reporters From G20 Finance Meeting&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdGJ5VDNjaTdCWHJCaFhCM2JlMC0tNlFIN0E0UzJNZG5vNGk2dWpYenpYRVdESjlOc2hsVXFReURMQ2dkSFUwWGR5VVRIbElrUUh5YXRtdHpBTGd0a0ZxUjRwOU41ODFsZDdrMXJqY19QX1pLbTFKQjFia3p5Y1JXMnI1MA?oc=5"
+      "id": "news-disaster-9f2989102b",
+      "lat": 37.56158,
+      "lng": 126.9522,
+      "title": "【警報級の大雨・ゲリラ豪雨】30日（日）発生しやすい地域は 福井県「経験したことのない大雨」 気象庁（RCC中国放送）",
+      "category": "DISASTER",
+      "time": "2026-08-30T02:39:15Z",
+      "summary": "【警報級の大雨・ゲリラ豪雨】30日（日）発生しやすい地域は 福井県「経験したことのない大雨」 気象庁（RCC中国放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVi1MbHJhb0RsVWhGSkxUUTMyZFRUX2FoY0d0TTNMQjJvVmIta3VPR2R6OE5PeFduQm5GdDVPQmZnQ3VsWkNBcnc2M3V5cmtBS0J2MFh6OEVDTGU4OHE2UFpYUUN6MEJBNEhEY0x0Ti1FbVg5blJVNDVYN2d6OEU?oc=5"
     },
     {
       "id": "news-disaster-ae7fe48519",
-      "lat": 37.8855,
-      "lng": 139.01685,
+      "lat": 37.90765,
+      "lng": 138.99645,
       "title": "［地震情報・新潟］魚沼市で震度1（8月30日）",
       "category": "DISASTER",
       "time": "2026-08-30T02:30:00Z",
@@ -145,8 +156,8 @@
     },
     {
       "id": "news-disaster-7a5bfb0680",
-      "lat": 11.72795,
-      "lng": 75.57507,
+      "lat": 11.73642,
+      "lng": 75.66554,
       "title": "Group of Chicago police officers travel to Colombia to deliver aid after quake",
       "category": "DISASTER",
       "time": "2026-08-30T02:22:34Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-29f1d62e9e",
-      "lat": 27.6511,
-      "lng": 85.30831,
+      "lat": 27.64789,
+      "lng": 85.3725,
       "title": "Nepalese Philadelphians rally to aid flood victims back home",
       "category": "DISASTER",
       "time": "2026-08-30T02:21:55Z",
@@ -167,8 +178,8 @@
     },
     {
       "id": "news-disaster-613900b7e9",
-      "lat": 37.94742,
-      "lng": 139.02552,
+      "lat": 37.87155,
+      "lng": 139.0182,
       "title": "福島県で最大震度1の地震 福島県・只見町、新潟県・魚沼市（FNNプライムオンライン（フジテレビ系））",
       "category": "DISASTER",
       "time": "2026-08-30T02:16:19Z",
@@ -177,20 +188,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KelRDMDdFdmU5YThBWHBwcmRxYWhIbExSMVVSaWtKWFpUT0JSOTRreDEtbktxU0V5RVY1Q0ZCNmpRTjBEak04QzEzZzhCSUpKd2hMWnc5X0hxWTVsQ2x1dFFJLXlHZ2lydGVxc3JaYW84R2pQZUpuN2toUTd2Mkk?oc=5"
     },
     {
-      "id": "news-disaster-45a90f923a",
-      "lat": 35.71289,
-      "lng": 139.76386,
-      "title": "福井市と福井県大野市・勝山市に「レベル５大雨特別警報」、３４万人に「緊急安全確保」や「避難指示」",
-      "category": "DISASTER",
-      "time": "2026-08-30T02:00:34Z",
-      "summary": "福井市と福井県大野市・勝山市に「レベル５大雨特別警報」、３４万人に「緊急安全確保」や「避難指示」&nbsp;&nbsp;読売新聞",
-      "source_name": "読売新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56ZzVqY1NBN1d0cVdqMDNTUjhwUER6YWo5eVVyYjJJMzcwZWJoUzVfYXdQRG5GdWNjamlVRzZHc1FaTXJSWjZVY1ZUNHBNT2FRZU92MW9semp5czl4WDBmcXBXOWp2QQ?oc=5"
-    },
-    {
       "id": "news-disaster-e5fdae9c2f",
-      "lat": 28.38933,
-      "lng": 84.01565,
+      "lat": 28.32911,
+      "lng": 83.97606,
       "title": "Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing",
       "category": "DISASTER",
       "time": "2026-08-30T01:35:00Z",
@@ -199,20 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5"
     },
     {
-      "id": "news-accident-5115043f51",
-      "lat": 34.71423,
-      "lng": 135.15455,
-      "title": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区（テレビ朝日系（ANN））",
+      "id": "news-accident-b5c7227bb7",
+      "lat": 34.7342,
+      "lng": 135.2111,
+      "title": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区",
       "category": "ACCIDENT",
-      "time": "2026-08-30T02:39:15Z",
-      "summary": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qNEc4VlRnZEVlWnYxWXd1dDdOMzJTWG5DamljWS1QWVBGZzF3TmdjS0g5TEF1dUV0MHRTbjAxdTJIZUlsdE1lejVvN1VzaU5Wbi10a3lWTkx6c050c29rRHktTHZSTTItaDFOS0VvMmNCdllEWDJIcmNXeF84eEk?oc=5"
+      "time": "2026-08-30T02:45:31Z",
+      "summary": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区&nbsp;&nbsp;ABEMA TIMES",
+      "source_name": "ABEMA TIMES",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYaE42TGFlVVlpLS1BYlU1Wk1qXzBTd0VWcWtXSkNDSElQQ2ljNUNxaEkzQW9GaTdpbmRfSzBBWXhWdVJvS05NektrNHY0TjZDdEVBTw?oc=5"
     },
     {
       "id": "news-accident-ee60489a8b",
-      "lat": 34.66922,
-      "lng": 135.14502,
+      "lat": 34.72337,
+      "lng": 135.16511,
       "title": "事故多発の“魔の下り坂” 「ブレーキ利かない」激突の瞬間 神戸市灘区",
       "category": "ACCIDENT",
       "time": "2026-08-30T02:36:00Z",
@@ -221,9 +221,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzWmdrNzdzTmlQNC1MNktHekNiX1N5SWI3b3NLUm1rVHZUeWdfN0lONDlNaUY3emUzUlNnZjF4ZnplQzZhWlJBU2pjTERQMHVISzdNeGljY2Y2TlVyWGhCZEpKQTNrVFY2ekF6ejNuc2g5dw?oc=5"
     },
     {
+      "id": "news-accident-16e07446c3",
+      "lat": 34.31912,
+      "lng": 139.2147,
+      "title": "横転事故で22歳の男性死亡 軽乗用車がカーブで縁石に乗り上げ 宮古島市伊良部島 （RBC琉球放送）",
+      "category": "ACCIDENT",
+      "time": "2026-08-30T02:33:16Z",
+      "summary": "横転事故で22歳の男性死亡 軽乗用車がカーブで縁石に乗り上げ 宮古島市伊良部島 （RBC琉球放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScU5Ici1jdldCdWpGSmJRLUV6c2luR3dIMi01SUNzMTlGem5OVVB0d3F2bnJubGI2MEpkVEg4TF9JWkdpUW5YdEpPS1pJSjlWX0VXX1o0WWtxaFFZU3N3TG5sSHRtSDBubUF6R1drN1l4NWVHak9UVmhwN1A2bTQ?oc=5"
+    },
+    {
       "id": "news-accident-e7147185ff",
-      "lat": 35.39803,
-      "lng": -101.33341,
+      "lat": 35.34633,
+      "lng": -101.33386,
       "title": "Carson Hocevar Triggers Massive Late Crash With 5 Laps Left at Daytona",
       "category": "ACCIDENT",
       "time": "2026-08-30T02:15:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-04d2140ff5",
-      "lat": 34.35394,
-      "lng": 139.24762,
+      "lat": 34.41932,
+      "lng": 139.25603,
       "title": "横転事故で22歳の男性死亡 軽乗用車がカーブで縁石に乗り上げ 宮古島市伊良部島",
       "category": "ACCIDENT",
       "time": "2026-08-30T02:12:00Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-49bfef3d8c",
-      "lat": 43.35698,
-      "lng": -76.13011,
+      "lat": 43.37295,
+      "lng": -76.14259,
       "title": "Oswego crash: 2 children on scooters injured by car crash at US Highway 34, Heritage Drive in Oswego, police say",
       "category": "ACCIDENT",
       "time": "2026-08-30T02:06:23Z",
@@ -254,20 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlAtc3p5RVIteGpnMHppNS1nOTZxUU11MlJUMGxxRUdLOEdub0RwYU5CR0NYR1FxTll2cDJYQktqRW14LVBwT1BkZmMtOUtrNVNpbm82T3VDUnA5UVdXWjg4YUVwQlltSVFzMERuSzZWVk01d3VEZS1oWW82RlpZUXpWaEpxT1M3cDZjU1dTTXdSV0tnX0dOcUVjTTItYmdnYThOSExaX2s0UVkxVXBEaE9VdlhSSkVrZTZlWmRIRlrSAcYBQVVfeXFMTThOaE1qN2FqajRoUVBUNmZzc296SUpHRUVVSWRzRVpJV1NYUFlmZ2VGY2g0RkxENXpSRFAtbGRIMlY4eHQ2bE5ldmszaWxleHNPaTVYWFh1VUtBY0VHZER4Tk5oSmRscHQ2RU5xcURpa0gtTWUydURtNTJqT2JRbDk1NjRnNFN2VFE2X1NvMmF5V2VPSkoyaVhiVTh6SW9UYUU5a1FpRTBGV1NKeEk0U2NIMG52SEdtVGU1Ni1GdkpOc0d0cjlB?oc=5"
     },
     {
-      "id": "news-accident-65d51a7cc9",
-      "lat": 32.36046,
-      "lng": -86.31181,
-      "title": "Two killed in wrong-way crash on I-270 in Montgomery County",
-      "category": "ACCIDENT",
-      "time": "2026-08-30T01:41:15Z",
-      "summary": "Two killed in wrong-way crash on I-270 in Montgomery County&nbsp;&nbsp;WJLA",
-      "source_name": "WJLA",
-      "source_url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPNVRvT1ppdnNQeFEzdzlQR2ZKdF8zcTZsQ0JGUkJNbTJyS3B3cVRIaTlzQTdJcmxWZ3NGdTdYcUM0Rl9oTXlRdzRFUm9JWGFXNmpGMVU4dE0zZkZsdUNMa052Zi1ua3FLdXhhSUFpR2pydVF3RDdoTEZKTFpXcktZLTlvNEU3MjdHVEJJNWhSY1BWS193UF9JRUJ1MkZzRHFEQXAxQnlZXzBHS29rNXpwaE95ZmtVcm12SDNzOUNwWTIzbDNNNGxhZTJ1RG5pM3B4QTVuaEtSNEFadDVycU1JcTZUanRHQzkzZW5VN1prc1lLWE1ac19WcWNJeXJnMWVUZFJGSjJITnpzWTlDUkM5Y0xKQXM5cmxRUDBxRlNNVFg0TlNORFhlcU45RTF1U09VZTRKRlFnWDYxTmx1T3lpaW1yZE1qMzZUUTd5czNFeno5eVpFRWhxWXNfdlhRaVFYdGRWLUJSU2hSUXh0NFVvSXZNS0Fpc0FZUGFNeXBVLWVpRFpSZ19j?oc=5"
+      "id": "news-disease-7d76117685",
+      "lat": 31.97576,
+      "lng": 131.44529,
+      "title": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）",
+      "category": "DISEASE",
+      "time": "2026-08-30T02:51:10Z",
+      "summary": "病気や外傷で文字が読みにくく生活に支障「ロービジョン」全国１６０万人…音声アプリや拡大読書器を体験（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUcll0QnBpdlZESmEzLXRfZnFaekh0VEVmODVVc1Fwejdfc2VxbzBxMWpVeXlMdW9ZSjZqTzFyT3VKQTJnaE9mRE44dTRYdVMyeHA2bmgxb2ZzWFhPdUFzQzN3WTZQeF82b0NqR0o2NFNRRkxPeXlibVFWVmdqQUk?oc=5"
     },
     {
       "id": "news-disease-0896d3ab36",
-      "lat": 35.07143,
-      "lng": 135.71383,
+      "lat": 35.05983,
+      "lng": 135.81577,
       "title": "専門家が推奨する、RSウイルス感染症の危険性と乳幼児を守るための対策。",
       "category": "DISEASE",
       "time": "2026-08-30T02:12:26Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-f0113312b6",
-      "lat": 34.06743,
-      "lng": -5.03646,
+      "lat": 34.01025,
+      "lng": -4.98875,
       "title": "局所皮膚感染症治療薬パイプラインインサイト2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-30T00:00:00Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-c8d592ee55",
-      "lat": 34.22452,
-      "lng": 66.18803,
+      "lat": 34.28761,
+      "lng": 66.14838,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり（LIMO）",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-d7e083a328",
-      "lat": 34.31036,
-      "lng": 66.09846,
+      "lat": 34.22063,
+      "lng": 66.13149,
       "title": "高齢と病気で捨てられたシニア犬 心優しいカップルと出会って幸せに巣立つ姿にほっこり (LIMO)",
       "category": "DISEASE",
       "time": "2026-08-29T21:10:44Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-7fec1fbfad",
-      "lat": 46.93508,
-      "lng": 4.63156,
+      "lat": 46.90504,
+      "lng": 4.62683,
       "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」 (双葉社 THE CHANGE)",
       "category": "DISEASE",
       "time": "2026-08-29T10:15:10Z",
@@ -320,20 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXRhQUc1RzkwbjhMNWdLdE5KUElzckU3V0FpWUFZMDhFLWdySU5qVGJoU2xIU1BJSUJJdmNERUZPMFBmWk9pc0UxVW9qdmdLS3J1Z3U2WnBZeFdNQXVaYURwSGtKVFJ6enpLc3d1MTRaU0xTRHFqaXJ0UXVzRE9Ia3c2YUFTZ25YbnJiSm9R?oc=5"
     },
     {
-      "id": "news-disease-1e07a9a95a",
-      "lat": 46.88375,
-      "lng": 4.61546,
-      "title": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）",
-      "category": "DISEASE",
-      "time": "2026-08-29T09:30:36Z",
-      "summary": "片岡鶴太郎「病気なんじゃないか」13キロ激ヤセで重病説も!71歳の転機と「絶対やらない」と思っていたヨガや芸術…新たな挑戦へと導く「腹の主」（双葉社 THE CHANGE）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WM1VyS29EeEh0T2JubHlCWlJtS2o5N2hhSEpyMjhYT1AtYjBNVTQzVkxFYjIyaG9GZmZNMmJILXFrZE4zWFhkczN2UExBZjRpVkZZek1QNjU5N3ZPU1VJVFhrVnZrZUx4QjBZaDBhRHU0Vm5mbjZfdjN0akpBdUk?oc=5"
+      "id": "news-technology-9e8083019a",
+      "lat": 38.85488,
+      "lng": -77.03181,
+      "title": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T03:02:53Z",
+      "summary": "OpenAIアルトマンCEO、年末までに「AGIと呼べる」内部システムを持つ見通し AstraはすでにAI研究インターン級の能力&nbsp;&nbsp;Ledge.ai",
+      "source_name": "Ledge.ai",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kUUx5QUNBMFo1cjNmZjM4NGxpNXRzZWdRbFVUb1ZGY3JGRF9ZOUpjTTRuOHg0eGZfRTd2UDdycmJra1JRSnMtdHdaZk9DTnhIOUd2cDd6eW55UFoyQUQ2LVF6MWI?oc=5"
+    },
+    {
+      "id": "news-technology-94f9ae360c",
+      "lat": 35.60639,
+      "lng": 139.72181,
+      "title": "韓国SKテレコム、フェンシング代表向けAI分析システム開発…2028年五輪まで高度化",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T02:51:21Z",
+      "summary": "韓国SKテレコム、フェンシング代表向けAI分析システム開発…2028年五輪まで高度化&nbsp;&nbsp;AFPBB News",
+      "source_name": "AFPBB News",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oTFM1TVgtVjlYbHA3c3dUWmtKX3hGTUgwR2dseklUU2NwakYta2NKQ3FrejVIcXUtUjdmQ1hVQmV1OVRqY0JHTnhnMjNZREw1YVp6OXpHY3hBZmdvZGNuVkN3Q3phZmVxdHhLUFd0LVk1UdIBVEFVX3lxTE10U2I3QkZUekdlWGMxMUMtanVBZ21yckkwS3pHWXlVN1dBV1ZHVXBxdUo3a011Xy04cDFxdUFhYzZXWHdOSVJ3ZHdHSDZENjl6T0JsbQ?oc=5"
+    },
+    {
+      "id": "news-technology-803d28b688",
+      "lat": 51.48933,
+      "lng": 7.27857,
+      "title": "韓国カカオ、5000万人のカカオトークをAI基盤に…GPU競争とは一線",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-30T02:51:21Z",
+      "summary": "韓国カカオ、5000万人のカカオトークをAI基盤に…GPU競争とは一線&nbsp;&nbsp;AFPBB News",
+      "source_name": "AFPBB News",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZX0dBeHRzREdNRk52bWU5WHBocVROLVlEYk9GVDR4VWtzZm9JRFZrODREZmhUN3BzNHBNM1hfYW04OHh2cjlFYkRKNHVvWTVkTFZDUGlUZWwzekQyeXZ6NTQxTXlNSXZ3UEpmTlllSXZuQdIBVEFVX3lxTE5nT0k5VWt6SV82MkV4WlI3Ul8tN3M2WmV1TGxqZEVRdVE3RUxNQlBKYjlib080V2RCRENlYzRFT2QwYl9WX3NlSWliMXppeTRmLVF1MQ?oc=5"
     },
     {
       "id": "news-technology-054134827c",
-      "lat": 35.5956,
-      "lng": 139.78082,
+      "lat": 35.66946,
+      "lng": 139.76384,
       "title": "韓国SKテレコム、フェンシング代表向けAI分析システム開発…2028年五輪まで高度化（KOREA WAVE）",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T02:42:16Z",
@@ -343,8 +376,8 @@
     },
     {
       "id": "news-technology-ccffb0df6f",
-      "lat": 54.13805,
-      "lng": -4.53982,
+      "lat": 54.09582,
+      "lng": -4.5201,
       "title": "3 AI Infrastructure Stocks Retail Investors May Want On Watch Now",
       "category": "TECHNOLOGY",
       "time": "2026-08-30T02:40:38Z",
@@ -354,47 +387,14 @@
     },
     {
       "id": "news-technology-7f8b0847c1",
-      "lat": 38.43108,
-      "lng": 141.16314,
+      "lat": 38.38747,
+      "lng": 141.1125,
       "title": "【御前崎市AIオンデマンド交通】地域と高校生がタッグを組んで便利に！暮らしを支える交通サービススタート／御前崎市",
       "category": "TECHNOLOGY",
-      "time": "2026-08-30T02:34:34Z",
+      "time": "2026-08-30T02:37:49Z",
       "summary": "【御前崎市AIオンデマンド交通】地域と高校生がタッグを組んで便利に！暮らしを支える交通サービススタート／御前崎市&nbsp;&nbsp;アットエス",
       "source_name": "アットエス",
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aZy05WnRMSVFHSFpBYnc2aG9pdi02a0NGaUlZOWRuOXZVMzMycGxqblhnRGFvZG5ncW9Rbkl6VG9tQnRtSjVmTGVYNDI4UmJzMmtsOUVzT2VzLWxPeGRV?oc=5"
-    },
-    {
-      "id": "news-technology-f6f144979e",
-      "lat": 51.46734,
-      "lng": 7.19378,
-      "title": "韓国カカオ、5000万人のカカオトークをAI基盤に…GPU競争とは一線（KOREA WAVE）",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T02:33:16Z",
-      "summary": "韓国カカオ、5000万人のカカオトークをAI基盤に…GPU競争とは一線（KOREA WAVE）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oOHJlUDRoSGdHR2UyanNGSVg2aTB1OVN3MW9NdnNkbGhJZ1hwNnA5T1R6eDFnUWZEVDJjWWZ0ZEZsdGNrb2l1WDcxaXBxYXAwY3huVVlyZE4xeW1jWFhBMF96bEg0ZlVwNTFDQXluTUpWN0lkUkc0TDVmbnE0dkk?oc=5"
-    },
-    {
-      "id": "news-technology-fc9efdd4d8",
-      "lat": 35.6613,
-      "lng": 139.53518,
-      "title": "アリババのLLM「Qwen」利用数はGoogleの5倍 中国AIとどう生きるか",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T02:30:00Z",
-      "summary": "アリババのLLM「Qwen」利用数はGoogleの5倍 中国AIとどう生きるか&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85RW5RNjFSNGtLdmlKdlNZc29CN25SQVRCWGMzdnFHSVYtMnJ3dS13YVQ5UHo2TzBWREZhTVBjdnVBd2hpRl9DQ2EyM0hRWElWb1BScW9lWEVfVUZadVpXTUx6VGNFQVNTZ0JyUg?oc=5"
-    },
-    {
-      "id": "news-technology-99219b4a35",
-      "lat": 51.93239,
-      "lng": 31.54858,
-      "title": "Is Arm (ARM)'s Developer Outreach Enough to Support Its AI Ambitions Amid Chip Sector Weakness?",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-30T02:28:37Z",
-      "summary": "Is Arm (ARM)'s Developer Outreach Enough to Support Its AI Ambitions Amid Chip Sector Weakness?&nbsp;&nbsp;simplywall.st",
-      "source_name": "simplywall.st",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN2E0OFpJVGdHTWNKbTViMGFjSlhUTVQ0eG14OG5oMGs1b2ZkeU5ON2t1dHNES1c1aGM1WU92SjVaT2pZeE5QWXlyT2VkaU4zamtyRlhLZkVNSVUxaU81NjctcUNZQWlsWmhPWTVtcWR2d0FsaWJWdThLY1o2ejdma2JDdUd2ZUk1NG1TUFJ0QXVaWkRGVmFEVXpGdkZwYUVxM0c5eDI4eWppQVY1MUhxXzl2WE1tLTlPNGJUdkVPNHR6Uzh6NHZtR3NVTDFkMGs1d1HSAdcBQVVfeXFMT1NvdXFGSk1WS3Z6eGtQeF8ta2kzQnhNZWQyYndDVHdtSVIxM09RTVlwMWdjQTVxUGRRaGlKcHp1SUxEVVVyU2lVTnFyVFI3RzdHck1FVTRzWHBSM0N6bElaYnBLMFVSOThjTS16RnV1TDYzWG5NeV9iVHgxbk5XbWhOSlluZG9QU29fRVloWHY1clFaS1ZabThKQ3laU1NkWHAyU3VXektYYmprQnZxX3V1SjktdzJoMHlib2Q5Sk1DQ1NRSlBqMDhUYzEtbFJCN285Ql9ubWs?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-30T02:48:58Z"
+  "updated_at": "2026-08-30T03:03:50Z"
 }
