@@ -11178,5 +11178,25 @@
   "Sales": [
     45.8733094,
     5.9608741
+  ],
+  "EdWealth": null,
+  "MoneyBench": null,
+  "Benchmark": [
+    36.0302396,
+    -95.9254047
+  ],
+  "PyroGenesis": null,
+  "Second": [
+    27.1659255,
+    31.1824944
+  ],
+  "Quinta": [
+    46.4540705,
+    13.5915686
+  ],
+  "GiveDirectly": null,
+  "Embry": [
+    50.4927818,
+    1.9672374
   ]
 }
