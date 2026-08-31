@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-215ec48ec2",
+      "lat": 34.37019,
+      "lng": 132.39995,
+      "title": "中央委員会事務局は、政治システム内の各機関に対し、報道官を任命するよう要請した。",
+      "category": "POLITICS",
+      "time": "2026-08-31T14:49:05Z",
+      "summary": "中央委員会事務局は、政治システム内の各機関に対し、報道官を任命するよう要請した。&nbsp;&nbsp;Vietnam.vn",
+      "source_name": "Vietnam.vn",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDF5SG1oQnBpaW9rdXlvd01xcUllZ0dHUy1ad19QUHdaMzQxVm9mTWF5LWcxWUpJTXlHczdkTV9WY1kwWVl2QWhMRWNPSzdvS2c4YlQzM01Ta05ObjRCRF9TYUJ2NXRCclNTeTl3YWlDUWNqcEhFcUZmVkFwWWJhaXFJWUlpVVY5RFdvRlRhVjNOX3I4RjB3SFpBWDJXeGdIZnFtclRldw?oc=5"
+    },
+    {
       "id": "news-politics-353fecc418",
-      "lat": 34.6478,
-      "lng": -103.91886,
+      "lat": 34.67072,
+      "lng": -103.86228,
       "title": "DEA tactic blamed for letting fentanyl flood the streets is being in­ves­ti­gated by House Re­pub­licans",
       "category": "POLITICS",
       "time": "2026-08-31T14:30:00Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-9caceb279d",
-      "lat": 29.97612,
-      "lng": -90.05778,
+      "lat": 30.05877,
+      "lng": -90.0376,
       "title": "A Senator’s relative taking over their seat and achieving political success? It’s happened before.",
       "category": "POLITICS",
       "time": "2026-08-31T14:30:00Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-2c25ebaae9",
-      "lat": 50.49718,
-      "lng": 4.92436,
+      "lat": 50.52361,
+      "lng": 4.94623,
       "title": "Live updates: House returns to work on funding bill before midterms",
       "category": "POLITICS",
       "time": "2026-08-31T14:29:52Z",
@@ -34,9 +45,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT3pZRlhPLV9lM2dhZXpkbGszM05UWjlIbkd0bEh5YnlQd2FNOV9hOV9nLU4zZk5YX1NuOXlVUGZpOGNOTXVlcjlicUI2bEJXUXREWUlfQjdqZ2RmZXlyNC1Rd0hZZVJFTGt5MEd2UkwtNDMwSjcwOHg3R3RDcXRiX3cySEJNTndfX2hmYzVudEpkc213aDJoNFBnNEc3dWlZUkFtOHVvV3ZRRW0tdEhDbUV5RVRBQlNaa0RxZTRHYV9jb09wdVFNQw?oc=5"
     },
     {
+      "id": "news-politics-a000043580",
+      "lat": 36.63641,
+      "lng": -6.14321,
+      "title": "Vulnerable Republicans are eyeing Trump’s war chest. He has other plans.",
+      "category": "POLITICS",
+      "time": "2026-08-31T14:28:00Z",
+      "summary": "Vulnerable Republicans are eyeing Trump’s war chest. He has other plans.&nbsp;&nbsp;The Detroit News",
+      "source_name": "The Detroit News",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeE1ma1paNk5wWVRtelJXYTBQT0JQZ3pfRFlGUGlDY3BBdUdaZ1d2S2c2ZTZzdmhoUWhzdDBBbTBmS1AzQ3RwdE91eXdBNmZMSFlJUE96MU5rY2FnQ0hDVDJYVmQ0UDRBRHQ1MjNnckhJRVV1alZHQnRmZERvcVd6cXRXQjl2Yy05NUxYM3pUR0VoWDlHZF9ieG9JRVdhYXNIOXBoT0hCYnpJY2hjQThxYllObU0yV2swYjA2cUh5QV9VVTBrbGtXXzNIRFFwLVJWRmtz?oc=5"
+    },
+    {
       "id": "news-politics-b58ce9b190",
-      "lat": 55.55639,
-      "lng": -2.07783,
+      "lat": 55.53563,
+      "lng": -2.04961,
       "title": "The 2026 midterms are coming fast. Introducing CNN’s 20/26 Vision newsletter",
       "category": "POLITICS",
       "time": "2026-08-31T14:26:39Z",
@@ -45,31 +67,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWWxwTXlzWFhWZFlkYkMzeG9XUVRWYU9LSDJjQ0JYck5rc3dsZG5nM1M4N1QwX19Yd3VsWWV0TDU2a0hCLTlRWklGTXdrWVE1M0ZMVl9RZF9GMDNXRFNsOVIxblR1Mkx3Tzc4U3laQ1FUdWppRXhiX09icWliRHJmUGw3c1NHWk9ITDV0SmRXYU1GWkVuUlUwQW9DTTlzbENuUjFza3NmajBMLU41aHNhV1BDamRrQUNZTnNMN2pqam1ldnJWNm04V0lDYVhBU00wTDZOQ1VlcmxReDhOQ1dTUEl6Nzd2eVByeDNNZ0JoeFRHRWZJZGZJU1R0LVRWMk9LOWRjdUlnUDVvS2VTWFNF?oc=5"
     },
     {
-      "id": "news-politics-012811de41",
-      "lat": 32.7684,
-      "lng": -96.83576,
-      "title": "Politics take center stage at Venice Film Festival",
-      "category": "POLITICS",
-      "time": "2026-08-31T14:12:15Z",
-      "summary": "Politics take center stage at Venice Film Festival&nbsp;&nbsp;DW.com",
-      "source_name": "DW.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWTVDcV9QS1c5NXBVQ3FEVzExVDl3aW5rZUNDN3hHdS05Rk8xWTdhUzJSQmZQMk1EU3NMcFZvSVg2TjdVdUlUdlVqenkwdDFUdXNzLWM1NElLS0RpUmFXeC05NmR3SzR3bEJXZE5sV0ZIOHpqc1VLQTZNN0xwUnY1cmZFVE9RNi1udGdz0gGLAUFVX3lxTE5LUkNxcy1fbmRsOWpWTVhPbzlOU1ZDRUdzUWdiNWJWcl9IdWk1SGR4LXJDZTJaNGEySVZNNXFqWFpvXzB1OXQwdlJwcC1lR1pkMEtqTHMya1FXNlB1R3VWNEhvNmE4Z3ZVd2dCRFBvcHR3aGlDUFZ0Nkh1U2cwbUJEUnJoNlFEZ2NOOGM?oc=5"
+      "id": "news-finance-bf7eed510b",
+      "lat": 36.60353,
+      "lng": -119.50862,
+      "title": "Reedley plants seeds for new weekend markets",
+      "category": "FINANCE",
+      "time": "2026-08-31T15:00:55Z",
+      "summary": "Reedley plants seeds for new weekend markets&nbsp;&nbsp;Mid Valley Times",
+      "source_name": "Mid Valley Times",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZWROdDN2b1cwMmVQdUFQOXZFZGhTXzRMSzNTNHNkcENjQ0ZzNUV5SkVkUjZza2g1ZFp2ckxoeGczMFNXYWdxOE9mR1cxTEI1ZG9TV1YzUGxQTzA5X0hjOFR3cWxCVWgzc2Nra1hhNEJYTWRad1VZY1lkbGhJNW01WUpKdVprZWY3dEhlcEw3MTFpQWp2RUctUUJWQzA?oc=5"
     },
     {
-      "id": "news-politics-b5648049c9",
-      "lat": 38.87212,
-      "lng": -77.05208,
-      "title": "House lawmakers return to Washington with stopgap funding bill among priorities",
-      "category": "POLITICS",
-      "time": "2026-08-31T14:11:00Z",
-      "summary": "House lawmakers return to Washington with stopgap funding bill among priorities&nbsp;&nbsp;Spectrum News",
-      "source_name": "Spectrum News",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGRpRF83T0p3bTliT1B5aHRtNlRQblJXaGprbDRhS1JvWXVUQlZnb01VTnFRU29qM2VDUzBldW56eDhXM1c0TWRITmgxQXdVQWFIWHJUNk4yOHFya0YxWW9SMG0ya3VwQ01hYmRTTnctcGp0bUxEaVdvS005WmFfb3V0TUhSbkhLQWllWTJ0a2VhWGc4Y0hlN0IzOUExMW1qRGotbXZGZXZSSGVxSnlrbU45SQ?oc=5"
+      "id": "news-finance-a258ae970a",
+      "lat": 18.3009,
+      "lng": -73.85907,
+      "title": "8 of the 10 best new-construction markets are in the South",
+      "category": "FINANCE",
+      "time": "2026-08-31T14:55:35Z",
+      "summary": "8 of the 10 best new-construction markets are in the South&nbsp;&nbsp;Inman Real Estate News",
+      "source_name": "Inman Real Estate News",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcFhEUUMtWjlEeHNxeDFGSUlWSlpsbkV5S1BlbG1sc2VTMjFsd2xUSVJoOVB6bDNpSXJET0NSSUNEeHRJWDVCVUUtUzIwUXFHMVBQQ3lzcFVXZW9tQkJlbFhmeV93cnYwbTR2djEycVM?oc=5"
+    },
+    {
+      "id": "news-finance-6e3c54f531",
+      "lat": 38.90776,
+      "lng": -77.0571,
+      "title": "Treasury Secretary Bessent: U.S. bond market is outperforming other global bond markets",
+      "category": "FINANCE",
+      "time": "2026-08-31T14:45:03Z",
+      "summary": "Treasury Secretary Bessent: U.S. bond market is outperforming other global bond markets&nbsp;&nbsp;CNBC",
+      "source_name": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDBoVFpnLUlTMnRNNW50UE9GVTNWN0tLT2dzRFRUN0tWV3M3U2FOMFJnTjJDb0xqRmQ1NXdaN3Fqdk5FaXFyc2x0QjlPVnU5VDBHaTFKaUlDbjRPMktwMkNWZGxtZFllQ05ZSjhfQm9GTmRkRzFLUEtJZmRBQnlVRHh1RVBSOUhIVmlWMW52NkRudUxDSEFlOS1tMzk2dmNvQ05FSHlqZ0E4TTNyNUJ0MzU3dlRkcW1YWG1GT3p3YkpuNjdLY0tJ?oc=5"
     },
     {
       "id": "news-finance-99bb968eb1",
-      "lat": -10.35121,
-      "lng": -53.15247,
+      "lat": -10.27652,
+      "lng": -53.20751,
       "title": "Pluggy secures $3.5m to scale Brazil’s Open Finance",
       "category": "FINANCE",
       "time": "2026-08-31T14:44:54Z",
@@ -78,64 +111,64 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUllhTVJzZ01BQ0hmcW4wcEpkc2lwZ01fXzZEZG54VzFuSXJ2TDhmVU1yWlM4VkliVzl3bl93dVpFbWc5NHM3a0VsdkNtdWJTLWNwWFl6akNPUXhzWi1HTjktRVVqZXRLWlpGR29DVU0wR0xuVDJROFVoWUctZFVrSmFaZXowSFBQWjVIMw?oc=5"
     },
     {
-      "id": "news-finance-6e3c54f531",
-      "lat": 38.89905,
-      "lng": -77.05918,
-      "title": "Treasury Secretary Bessent: U.S. bond market is outperforming other global bond markets",
+      "id": "news-finance-732c5adb13",
+      "lat": 54.61418,
+      "lng": -5.97475,
+      "title": "Pre-Markets in Red to End a Strong August",
       "category": "FINANCE",
-      "time": "2026-08-31T14:44:07Z",
-      "summary": "Treasury Secretary Bessent: U.S. bond market is outperforming other global bond markets&nbsp;&nbsp;CNBC",
-      "source_name": "CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVDBoVFpnLUlTMnRNNW50UE9GVTNWN0tLT2dzRFRUN0tWV3M3U2FOMFJnTjJDb0xqRmQ1NXdaN3Fqdk5FaXFyc2x0QjlPVnU5VDBHaTFKaUlDbjRPMktwMkNWZGxtZFllQ05ZSjhfQm9GTmRkRzFLUEtJZmRBQnlVRHh1RVBSOUhIVmlWMW52NkRudUxDSEFlOS1tMzk2dmNvQ05FSHlqZ0E4TTNyNUJ0MzU3dlRkcW1YWG1GT3p3YkpuNjdLY0tJ?oc=5"
+      "time": "2026-08-31T14:44:00Z",
+      "summary": "Pre-Markets in Red to End a Strong August&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdXhTWDJ6OWRSdzM1WHdndkRlLS14R2N5aDUyMWlvZnNFSzZqTDd1d3NCRmp5ZUVsRkZfakdxbm8zb0ljaWN3dDNRRUxPM1puUHphSGh6amFBSXhzMDlmRnFfanZySWdBWVdEcFZSQ0toREVjdzhOZE9QNUJJUnNZUTI1SmIzMlB6Zlg2SQ?oc=5"
     },
     {
-      "id": "news-finance-c27fc913f3",
-      "lat": 53.53686,
-      "lng": -2.09455,
-      "title": "Stocks brace for 'September Effect' in final day of August trading",
+      "id": "news-finance-4f09da9e90",
+      "lat": 50.16468,
+      "lng": 14.38486,
+      "title": "Can International Markets Become Costco's Biggest Driver?",
       "category": "FINANCE",
-      "time": "2026-08-31T14:30:00Z",
-      "summary": "Stocks brace for 'September Effect' in final day of August trading&nbsp;&nbsp;Yahoo Finance UK",
-      "source_name": "Yahoo Finance UK",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2JYMFJyaGlpX0NiOUptQnJWNVVhREduUkRkdWNDYmVDQWcwUl9CZEFSOVF5UXhsWkU5V1VmLXRZZUFsOVpZS29yaWY5YWotd2NCbEctdGxUTUsxNjhhOExtaVVfeldpZEJuenRJWk96eHhyQmZQM01wWFMxZTZvSHI5d21NUktfOE96VENHc2R3M0hJSXp2VGo3UFBhYXNTTlZtSzFQelNyb2kyTE5YeFJrOXQ?oc=5"
+      "time": "2026-08-31T14:36:00Z",
+      "summary": "Can International Markets Become Costco's Biggest Driver?&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzQ0cHpfZFM0ZEtkWThydVJVU0w2SFA4TWE3a0JFb1FzeWJCbEZWRElLQUNxcnh4akpfdFladzBnRllna3J3WnJlX0VEYlBvVkJ5Wjg0OHAwT3k0bjlvVVZPM3MtcUg4X29CcnNxcUJzczBmblkwYno2YzE4NHJFZk1nMzllcVcydjM3YzhwdE9PQjJWczNIX2p6YTVnb3Q2Yzd3UHA5MlFYb1laR0E?oc=5"
     },
     {
-      "id": "news-finance-4bf25768ce",
-      "lat": -10.32174,
-      "lng": -53.16668,
-      "title": "Brazil may make spending on some social programs non-mandatory, finance minister says",
-      "category": "FINANCE",
-      "time": "2026-08-31T14:17:32Z",
-      "summary": "Brazil may make spending on some social programs non-mandatory, finance minister says&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFcwOHJjY29wTjhPRmVHVVpfUFYzZ3FrMGtkcFRQYVBnZzctZ0FEdGZnRFlVQk81bjl3dmxid1ZueTNoUUNFMHRNYm1PQzJXTV9sSDM5LTgxcG0xZS1ISnV5d0QzMHJxb0QxS2puMUVuT2hKcEczSktoUDdITUU1cXBfN2ptYVV2QTRMbFhZQnRldWFRN0oxNXpDbU9LSTVNNF8xRDFrNlhKa2wtTlFyNUthVUxWX2g4VC04eDM4VnVpWDhPeXc?oc=5"
+      "id": "news-disaster-54b6a5f80c",
+      "lat": 40.91475,
+      "lng": -73.95883,
+      "title": "85 Americans still missing as Nepal flood traps hundreds in hydropower tunnels",
+      "category": "DISASTER",
+      "time": "2026-08-31T14:56:15Z",
+      "summary": "85 Americans still missing as Nepal flood traps hundreds in hydropower tunnels&nbsp;&nbsp;WSMH",
+      "source_name": "WSMH",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUUhZUDRHTW1uczBVMWFpYUdKUTBDcGNRMHRTWDFlR3hTcjEzNThQSW40MWwtU19vRG1OZklpSVFDdVJ4cmJZLXplc0cwRkJjU05vU0NndUZ4RnBDY0hTcTV6STVTVW9mc2pxX0FTTHhIbFNNcmo3RjJkWnpZZGNYOGNmOENFM1FGR0VuOGVFZWhOVnlQenhfcFNkVWhmUVMtUGp5MEhzVTYwLW1pYnFJQ3J1Q3RwZVBtM0JYMjd6Xy1kWkM2QlZOZ1VaNENUR2FrcEhuN0hJN0FQOXRJZGlZbk9ydUxVMF80UVdhejNTakM3bjI5dHFISTNSbnJLU3phc1hmZjljYkNack5CT1YzTl9oOUdtZEVGV2VPVGkyVWo3N19QdWhVc1FSLUt6ZEFFMHVLbGs5QUtORUlpR0I3cC1vaw?oc=5"
     },
     {
-      "id": "news-finance-988a77de25",
-      "lat": 35.5579,
-      "lng": -82.53346,
-      "title": "G20 finance leaders gather in Asheville",
-      "category": "FINANCE",
-      "time": "2026-08-31T14:11:00Z",
-      "summary": "G20 finance leaders gather in Asheville&nbsp;&nbsp;The Asheville Citizen Times",
-      "source_name": "The Asheville Citizen Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRm1JaXRybXV2ekJuVWoyQ2NPS3M3b3BuUWUwNms4bjFJNXZHSEVGSFZCOVp5UGtpTzZQQ2hrUV9CVnc3dUJoV1ZRcm9aWTZIclF1MTZ3ckVfSTlGa0FUOFpEVWtnbnEtZkJHRDFCbEFMZUJIYXVaSDBvNVIxOF9ldkZQYUNvSmFvUE5xTkpnR2dzS2NMcVBXVURON1E1Vnp1SV9YazQyTHpzZjhFckN2cVc5SHZmNjNta2hEdlZpNm5JSVJPS0Z1Vnphc192SFpINy1vUnRWZ0JDVWE5WGkyQ2ZwM1Y?oc=5"
+      "id": "news-disaster-376d6f2b27",
+      "lat": 39.63284,
+      "lng": -81.54108,
+      "title": "Serving Earthquake Survivors in Colombia",
+      "category": "DISASTER",
+      "time": "2026-08-31T14:54:28Z",
+      "summary": "Serving Earthquake Survivors in Colombia&nbsp;&nbsp;Samaritan's Purse",
+      "source_name": "Samaritan's Purse",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2ZheDFrQTd4Z2lReWpCb3dkUkw4eDBwSFBUV3B5ZVdQanJqb0dJZlZsTEtsaHpGcE0wSEdra0FnQTFfOGhadlh1dWdEMGVtS3lQbU5sWkstRUpPcXZpaUNNYURkSWstbW9wTE8tNllrWjJxOFA0bTN1RHRCQzZlSldiVkRrZHZY?oc=5"
     },
     {
-      "id": "news-finance-eed585979e",
-      "lat": 30.87336,
-      "lng": -96.23866,
-      "title": "Edge AI enables motion measurement at scale",
-      "category": "FINANCE",
-      "time": "2026-08-31T14:09:15Z",
-      "summary": "Edge AI enables motion measurement at scale&nbsp;&nbsp;Healthcare Finance News",
-      "source_name": "Healthcare Finance News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDhaZ19mUGJnSk0tc0t5cE1lYkl3c1RmTlFwcTdfM0RwLVRwZlZwajJuSE5aMHNkZGUySldFbV9DYWk3OFFHY2IzU0NZTDFidzEwQUlVZllmbEgyaVZQaURTZXRKYWxnZ3gtekdrWFJZemFZcHdpcks3RlNCWW5zWmRMd0h2cUtVTDZ1NA?oc=5"
+      "id": "news-disaster-060f844320",
+      "lat": 8.79991,
+      "lng": 13.77693,
+      "title": "North Texas chiropractor among hikers missing after Grand Canyon flash flood",
+      "category": "DISASTER",
+      "time": "2026-08-31T14:50:00Z",
+      "summary": "North Texas chiropractor among hikers missing after Grand Canyon flash flood&nbsp;&nbsp;WFAA",
+      "source_name": "WFAA",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUkpFUFpfejFBeHNPWkVMSnRqNXJ0bFJqWFJHdmsyeFcwUTZfR2pOZ0RiTXJMQzNyX2M3aHJRUHFOWUEteTdzMGpwbWRIRmhNSWJXeDhVRXl2dzZZNEVHV2FwY3ZFdjl4ZE01Q1NtY0h3TnREQ1hVamdpRXVCdWxlYUV5b2wwWWpJU0QwVldvUjduSlU3U29pSnJ4YmhSYUdDYmNNTVdWUHNHTHd0ZVVCdWxobkpwMW11NmEwdENUUzMzSW4xSktGWkFhM1lheU1KLXh0VGxMa2c2REJxYkVtcnhQZFc0dw?oc=5"
     },
     {
       "id": "news-disaster-e7c54fa66a",
-      "lat": 48.37841,
-      "lng": 5.48202,
+      "lat": 48.43926,
+      "lng": 5.51033,
       "title": "Grand Canyon flash flood leaves 1 dead, several missing",
       "category": "DISASTER",
       "time": "2026-08-31T14:36:23Z",
@@ -145,8 +178,8 @@
     },
     {
       "id": "news-disaster-8bfd145f5b",
-      "lat": 40.74985,
-      "lng": -73.95564,
+      "lat": 40.6859,
+      "lng": -74.01386,
       "title": "One Dead and 15 Potentially Missing at Grand Canyon After Flash Flood",
       "category": "DISASTER",
       "time": "2026-08-31T14:36:00Z",
@@ -156,8 +189,8 @@
     },
     {
       "id": "news-disaster-71ba105595",
-      "lat": 51.21369,
-      "lng": -4.71234,
+      "lat": 51.11788,
+      "lng": -4.68623,
       "title": "Earthquake in southeast Ohio early Monday",
       "category": "DISASTER",
       "time": "2026-08-31T14:29:00Z",
@@ -166,42 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xbkZ6aC1xajMyQWFsMVRrZ2NJV0V3a1pkWmxYZGJlTkkxb0ZWMWhGOVJ3NHRJSWRIN2U0dU9FNjlyQUZWOGI2eFVfbEgyVl9qRy1LWTZaaHFhNDdQMVl3SkRnLUxQa1NpdEVEMnBGNmNBOC1UNFE2NmpqRno?oc=5"
     },
     {
-      "id": "news-disaster-069452f1d3",
-      "lat": 34.48178,
-      "lng": 108.91996,
-      "title": "How China buried Tibet flood images after Nepal disaster",
-      "category": "DISASTER",
-      "time": "2026-08-31T14:25:51Z",
-      "summary": "How China buried Tibet flood images after Nepal disaster&nbsp;&nbsp;DW.com",
-      "source_name": "DW.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVEpFMUpQbzZBZUp0bTNlYl9lTUwzNGJIUHZ5RFJnY3R1R3I4MGpVbkhCaGxTUENQeG5ZemVsemJ4Q2tTYWZ0SXNOVG9hMTcyMkpNZTdKT2RJejAxcWV5bFd2d2hWY0xBak5xRkItSEdlYUt3WElqejNZYndJWVhDVFlhZ0JNQnBCYVFaZGgtaGIyQU3SAZMBQVVfeXFMTVcxQ09rSFFvZkJ0UzVTZmdlTzFiaHJ5VXJUTEg4bHluVUwtanBIdm9sdjViMW5TTk83QVJGVGtxdGJaakhZY2I5TE90SFdWcEhhU21ncWRpTUFPNDhCZTE4TU81RU9zSnZUNE9OWWpPU3pCRnltVnhOeWJVZTRId1F3NUM5c1VzV0hDZ0pKSXRYWk9B?oc=5"
-    },
-    {
-      "id": "news-disaster-e8c2d887e6",
-      "lat": 48.43505,
-      "lng": 5.48799,
-      "title": "Grand Canyon flash floods leave 1 dead, about 15 missing, park officials say",
-      "category": "DISASTER",
-      "time": "2026-08-31T14:20:14Z",
-      "summary": "Grand Canyon flash floods leave 1 dead, about 15 missing, park officials say&nbsp;&nbsp;CBS News",
-      "source_name": "CBS News",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1BkYW1VTWRSR18yU2xPdHZrdDl5R2ZPcGRTNEVPZjJrWUNMTzc4LVFLbmNpSjFEellpZ1FyZTZCMjVCTE5YMWp4RW4yQTlfX2JXaEZraWdfcDl3NHJFMnNWdVgxVTk5aUNmNEktaXVrN21tMlFEM0loSElTTnhqZjdvd2VuYjNxZEpSV3p5OURxZmNRLUNnSTlUa05YdXk3ZmxSNnZmdkE?oc=5"
-    },
-    {
-      "id": "news-disaster-3973f63cb0",
-      "lat": 23.67623,
-      "lng": 90.01965,
-      "title": "Update: Aug. 31 - 3.0 magnitude earthquake recorded near La Quinta, CA",
-      "category": "DISASTER",
-      "time": "2026-08-31T14:17:08Z",
-      "summary": "Update: Aug. 31 - 3.0 magnitude earthquake recorded near La Quinta, CA&nbsp;&nbsp;Sacramento Bee",
-      "source_name": "Sacramento Bee",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HdXpYOUF6ZjVsdmJ2bk5JNnhkVmhwZExpNl9mT2g2TFFHdUstZmUtMHRERm0wd3kwMVRpX183VjVKaldaNnYtQVAxYzdqSjFxbmhZNXBxWGZXcDRvNmZtYmlvMXRERU5VNUduYUpfeXVma1duLUNHYU1FWHk?oc=5"
+      "id": "news-accident-86505fcd46",
+      "lat": 36.29022,
+      "lng": -98.45653,
+      "title": "Major accident temporarily shuts down SH 30",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T14:52:00Z",
+      "summary": "Major accident temporarily shuts down SH 30&nbsp;&nbsp;KBTX News 3",
+      "source_name": "KBTX News 3",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWjNuUVpRTWg5SHFTZU1HZHJ2TVBoWThOZHVmVmxITy1MWGZ1aThGUHdXZ3F5aGJvNlh2bVNKd3h4TXdvN0NYLTA2NExPNy1aeVcxbEEtdHc0MjJsWW5tb19XTUpXLUxIeC10QUlnVE1Oc0hRRC1hM3FRcW5MRjVqcEtB0gGWAUFVX3lxTFBsR1JfMm55WWt5LUE2QUExSlhrdnVwZE1pQm9EZmphVG16ZFhuaUl5SkxfQ19lc21OOXNMMk0tcDdjbHp4UFR5ak1ubVU5TDY0VlBNZXB2djhvd3V2bHRkZ0NjaVNfSHkxWVB4SUtyLWF1TFVKR09MYTVsN2prcVd4YWY2ZEQtXzRHZEtzcDA4OTBFTnFLQQ?oc=5"
     },
     {
       "id": "news-accident-77f5eb8940",
-      "lat": 36.13337,
-      "lng": 44.01105,
+      "lat": 36.19365,
+      "lng": 44.00589,
       "title": "ながら運転なぜ？被告「軽い気持ちでTikTok」 新名神6人死亡 [三重県]",
       "category": "ACCIDENT",
       "time": "2026-08-31T13:53:20Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-7f4c6c6ec5",
-      "lat": 39.94736,
-      "lng": 112.40629,
+      "lat": 39.92767,
+      "lng": 112.34218,
       "title": "2 people taken to hospital following rollover accident on I-79 in Mon County",
       "category": "ACCIDENT",
       "time": "2026-08-31T13:22:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-74f5714830",
-      "lat": 35.72611,
-      "lng": 139.7774,
+      "lat": 35.71892,
+      "lng": 139.77864,
       "title": "新名神6人死亡事故 被告“ながらスマホ”に「慣れた」",
       "category": "ACCIDENT",
       "time": "2026-08-31T12:46:18Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-2aa7e58156",
-      "lat": 59.47194,
-      "lng": 30.20492,
+      "lat": 59.51082,
+      "lng": 30.1483,
       "title": "Crash at Newark Airport injures 13 after employee shuttle bus hits concrete wall",
       "category": "ACCIDENT",
       "time": "2026-08-31T12:41:46Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-c1a90cc965",
-      "lat": 32.77082,
-      "lng": 130.68232,
+      "lat": 32.84283,
+      "lng": 130.72243,
       "title": "[TKUニュース 26.08.31 19:00 ] 発生から１カ月 イオンモール熊本爆発事故 犠牲者の遺族が献花【令和8年熊本地震】",
       "category": "ACCIDENT",
       "time": "2026-08-31T12:33:03Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45TzBYWVk5S183T3FJd2RtQkJKbnhtNFRHMmlvenprR3VsU0M5bXNrNGJGNnFVVWU3NG5XMEV1WXFBS0xaMWc4WGV3em9PbzN2Z1RGbl9mV0hUeXZZcXRId2luVQ?oc=5"
     },
     {
-      "id": "news-accident-9753d027b6",
-      "lat": 59.52759,
-      "lng": 30.14595,
-      "title": "Crash involving school van closes part of I-291 in South Windsor, CT DOT reports",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T12:31:00Z",
-      "summary": "Crash involving school van closes part of I-291 in South Windsor, CT DOT reports&nbsp;&nbsp;WFSB",
-      "source_name": "WFSB",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckFxSjBfck9xQlI2cnpPTFFYT3RfcmpiVEo0bGJVcUY5UExpQ0xVWll3S2M4aFZSQy1ZajJOaDVhNjlILXdUWE9YVC11bEE1SmtOOFI5ajd5aWQ2V0ZXUF9ZUng1S3NEeGpROFBuN056VHFQT0xuVjlSZVV0ZURNTk1tVkw3N0lwcGI5bkdFQWpGVF9vT1VrRWNYUlZWWUFu?oc=5"
-    },
-    {
       "id": "news-disease-643d653686",
-      "lat": -34.97782,
-      "lng": 117.89907,
+      "lat": -35.01373,
+      "lng": 117.93826,
       "title": "アルバニー・インターナショナルのCFO、病気療養のため休職 執筆 - Investing.com",
       "category": "DISEASE",
       "time": "2026-08-31T13:04:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-9e530e306b",
-      "lat": 32.75986,
-      "lng": 130.74428,
+      "lat": 32.79862,
+      "lng": 130.77911,
       "title": "「病気の治療に専念」 10月31日で市長辞職の意志表明 3期目の道半ば…熊本・荒尾市の浅田市長（66） 50日以内に市長選",
       "category": "DISEASE",
       "time": "2026-08-31T09:44:14Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-99dfdb9d27",
-      "lat": 32.78534,
-      "lng": 130.74068,
+      "lat": 32.82176,
+      "lng": 130.74205,
       "title": "「病気の治療に専念」 10月31日で市長辞職の意志表明 3期目の道半ば…熊本・荒尾市の浅田市長（66） 50日以内に市長選",
       "category": "DISEASE",
       "time": "2026-08-31T09:43:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-8704942f7f",
-      "lat": 35.55863,
-      "lng": 139.60244,
+      "lat": 35.51429,
+      "lng": 139.60265,
       "title": "病気の自覚症状ない「沈黙の臓器」…肝臓を守るポイントは? 肝がん原因の脂肪肝、医師らが予防法伝授",
       "category": "DISEASE",
       "time": "2026-08-31T07:30:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-0f3e3087d7",
-      "lat": 35.66115,
-      "lng": 139.80552,
+      "lat": 35.6615,
+      "lng": 139.72304,
       "title": "LGBTQ＋当事者が出演したことに意味がある 「性感染症の予防」看板が与える視点〈男の広告〉小林美香",
       "category": "DISEASE",
       "time": "2026-08-31T06:00:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-d8743f3f89",
-      "lat": 35.07412,
-      "lng": 135.79732,
+      "lat": 35.06467,
+      "lng": 135.77724,
       "title": "B型肝炎ウイルス（HBV）感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-31T05:30:00Z",
@@ -331,9 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJUlVVY25raFQ2N0YweFAtWFlkTEczVm9USTF4VENXSC1HUlA4TWFLX3kwZ2J4YzFCRDVKaXgtTTRiVEVNS1dj?oc=5"
     },
     {
+      "id": "news-technology-a5fc87bf94",
+      "lat": 38.85321,
+      "lng": -77.01996,
+      "title": "The importance of teaching students what AI can’t do",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T14:56:21Z",
+      "summary": "The importance of teaching students what AI can’t do&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzU5Zko5NzlGRHBVRUppaG02Q04yTXF4S3E2NFRnd0dLWFMxalZ3NnpiTi1JRXoyVWxVVkFsaFlUNlVWZURBdlRzUjdFUTJBc2NTV1c2cm1Eall1TVBYbVVjYWI5c3BVc0t2M2VMSkVyVkE2cnVYdDNRQWRwdVZ5VGN0dGxlcFFaVjcyTThWaVp1NDh6QzkzNkpXT1VYVDNjTjhv?oc=5"
+    },
+    {
+      "id": "news-technology-f79dc65e42",
+      "lat": 25.68063,
+      "lng": 42.33571,
+      "title": "Saudi AI firms Humain, DataVolt partner for data center on kingdom's Red Sea coast",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T14:55:50Z",
+      "summary": "Saudi AI firms Humain, DataVolt partner for data center on kingdom's Red Sea coast&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWU1yMXFWYnFPUzRpSlBxWXlncW9jczBjX0x3akZKUkVJV24tTFpIVXI0U2N6NjN6NlBiTGRwb2lscHRqVE1OaXVPU3pFbkItR2tCbkJTcXJpRFJEQXM5MUJNZnhpZURiU1RReGxFc1VyUTRfd05KTV9JQW44VUMtZWlaMGxPdDlvTWxxeEVnTlA4WHdKb0xyZHpZM2N6ZV9wT0R5LTRhMGxsYW1rVVZNdDRDNnZ3aEo3XzQ4X1BxOVJieTg?oc=5"
+    },
+    {
+      "id": "news-technology-4e4c54914f",
+      "lat": 50.93214,
+      "lng": 5.76278,
+      "title": "株式会社Kaze、和歌山の企業向けに、現場へのAIシステム導入を支援する「FDE型システム開発」を提供開始",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T14:55:34Z",
+      "summary": "株式会社Kaze、和歌山の企業向けに、現場へのAIシステム導入を支援する「FDE型システム開発」を提供開始&nbsp;&nbsp;PR TIMES",
+      "source_name": "PR TIMES",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LVEljV2lxRzNkZ3dsTjFmRkhFWXQ3aU5NVThaMTVfSDdXbWVsUnQwbWc2QlViS0podmY2ZWhmZEtPb3NIVjlTYmVtQjFBeFlUeUJ6ZVBydjk1UnpZaUFKa3JXVVJHNEZFcnc?oc=5"
+    },
+    {
       "id": "news-technology-427e113fe5",
-      "lat": -35.24883,
-      "lng": 149.20578,
+      "lat": -35.18503,
+      "lng": 149.11234,
       "title": "Commentary: Sometimes the best classroom technology is no technology",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T14:43:10Z",
@@ -342,59 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmpsdm9wTnA5OVpEYTV0TDQ4WHEtUWxHckFnbjdId24xaGk0MVF5YVY0Rl9lUHBrZjZLRi1WVU5pbi12d2p1ZGtSdGNEc0g0SWJ4OWhhcE9aaDVYeVVUdW81UEJuczAyUnlJU1ktalR5UEFoY1RfdzZ1U09GMklydWdvQjAyNTdUZDR3SktaQ3JZY2staFlYNm9wMHBTeGl0QVRGRDFB?oc=5"
     },
     {
+      "id": "news-technology-8c7e5aa8bf",
+      "lat": 41.54315,
+      "lng": -93.73586,
+      "title": "Worn traffic signs fool AI vision systems, exposing autonomous-driving risks",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T14:40:12Z",
+      "summary": "Worn traffic signs fool AI vision systems, exposing autonomous-driving risks&nbsp;&nbsp;Tech Xplore",
+      "source_name": "Tech Xplore",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jTWNnTnMya0E5czc4TnJ2bmJGMlNzZjh0dng1U3NSU1RWUlRUMnN2Z01hQ0RHM2o0TE5pa1liNExhb09LZHNJNEM3Yk9UVEVhb3otUU1LRUVqV1lHYmx3LW8zcFpiT3pKS0dLMVZNcmJMTlZJdFljT1VQU1I?oc=5"
+    },
+    {
       "id": "news-technology-8beda010d1",
-      "lat": -10.3329,
-      "lng": -53.23728,
+      "lat": -10.3409,
+      "lng": -53.21004,
       "title": "Brazil archbishop establishes rules for use of AI in archdiocesan communications",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T14:40:00Z",
       "summary": "Brazil archbishop establishes rules for use of AI in archdiocesan communications&nbsp;&nbsp;EWTN News",
       "source_name": "EWTN News",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWJZVUlkVjlRLUtvcmtwTk43TFEtRGNVU2VtQlRRYnh6R2JwMllpWElqOGhISUhEcGlrYkVCeGtPbzJNR29mS3dKYzJWQVRiMHpqdHNaOTBmUVptZXEwS3hkRnQtTDNlVThVVUVtd3kzNXJzRGF4VE5uY2w5cWRIYjhuSVgxdlNRMVphUXF2TmRZb1J0UlJveFlHSFE0UEpzemZibHpGektkT2loODIyOEFpZC1LM2liVzhjMg?oc=5"
-    },
-    {
-      "id": "news-technology-c56acae0d4",
-      "lat": 54.005,
-      "lng": -1.78118,
-      "title": "Fleets turn to AI to extend the reach of driver coaching",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T14:38:41Z",
-      "summary": "Fleets turn to AI to extend the reach of driver coaching&nbsp;&nbsp;Transport Topics",
-      "source_name": "Transport Topics",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jaG9PQUlhMTl2M0JjRThWM0djSmdqNnA4ZGZEMmlqekt1b3NyREoyMEJ3TXdOUVZZWWhXdHRDS1N5b19aUEgxd2ZBSXAwQmdOQ2RucXhoemtxMEJyaG1NXzFkU0piWnJE?oc=5"
-    },
-    {
-      "id": "news-technology-36392caf26",
-      "lat": 34.07983,
-      "lng": -118.29174,
-      "title": "AI is watching your spending and setting your prices accordingly. Lawmakers want to stop it",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T14:38:33Z",
-      "summary": "AI is watching your spending and setting your prices accordingly. Lawmakers want to stop it&nbsp;&nbsp;Los Angeles Times",
-      "source_name": "Los Angeles Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTVMwTnhkcEtabkhNZTBuRjdVZkd3Z2I5Q1NKOXNER3JTN1haYUU2SXlXb1c5eHplX2lKbmQtTy1mVkUzVU8zQmZCUU9uZjNlbjYxNjhIcDRHUjlPcnN5eE9BdWpEMFNmejRGMmNpdWVsTlNSU3pkUmpRc1VFY2MyNjhHUXZ1NnUwejlIdXB6eE9weDdjNUxHZzJscHdHVVpEcURCc3BQQWcya243eE5kTHRFbHpSbkk3X3lXcnc4WWJleGhweVZnaExTY1dyWFFkcGNVSw?oc=5"
-    },
-    {
-      "id": "news-technology-06e8fe5ee3",
-      "lat": -0.33763,
-      "lng": 31.69815,
-      "title": "Cinema St. Louis adopts new AI policy following community debate sparked by ‘Anomaly’",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T14:33:47Z",
-      "summary": "Cinema St. Louis adopts new AI policy following community debate sparked by ‘Anomaly’&nbsp;&nbsp;St. Louis American",
-      "source_name": "St. Louis American",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOXF0OTdSbUZZd1lDQlowdjlLU0tjbV9Gb0NINmhxVnM3bzN0NVZSd2lld1g5NlRtLWctSkZNbmxiMDRIbTAweEljRmN0ZTB3VDJFa29rVFNIX0huM1RuR3dFSS04ZGU3ZDMtR2ZuZS1FaE55RHZmRW1jMHdzMkt1NmdoaVduSGE2UVNpdEtUMDJnaWNFaWw1cmROWTBSYllXbmtMNlBPY2dOYTdCUF8ycmJMSDZaOTFMR0pZMnVQb1IyTWllSnByRlB4bVZvdVE?oc=5"
-    },
-    {
-      "id": "news-technology-3d58aa59af",
-      "lat": 56.21105,
-      "lng": -3.69288,
-      "title": "Dollar General deploys AI across distribution centers, stores",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T14:30:40Z",
-      "summary": "Dollar General deploys AI across distribution centers, stores&nbsp;&nbsp;Supply Chain Dive",
-      "source_name": "Supply Chain Dive",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDA4czVCNG91NVhXbXVEcTk0ZS04RWRWX0gybzRoa21YRlB4UWNsbWpOaWFReXcyZ2FFZkNzbktkVkt3QVBiOGZQVzZab01SbmNPMGtNOW0xRi1UMGdpYzUxMkhXZkFEOUZ3aVFHWWFZbzBHRUZycG1JdUVBRUpwbWxSVkVUbjl4U0M5ck5yS21GLVBtUnlsNHAzdmRFSkl1cnIyRVl0Q24?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T14:48:39Z"
+  "updated_at": "2026-08-31T15:03:46Z"
 }
