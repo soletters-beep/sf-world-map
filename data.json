@@ -1,9 +1,42 @@
 {
   "news": [
     {
+      "id": "news-politics-ee4880cd7f",
+      "lat": 38.08432,
+      "lng": -77.33791,
+      "title": "Caroline Tolbert Receives the 2026 Frank J. Goodnow Award -",
+      "category": "POLITICS",
+      "time": "2026-08-31T16:02:11Z",
+      "summary": "Caroline Tolbert Receives the 2026 Frank J. Goodnow Award -&nbsp;&nbsp;Political Science Now",
+      "source_name": "Political Science Now",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDZLS1p3dFg0bkRROFl4LUdFNGFHWkpJQ1E1QS1TRUdCWmQ2RXVkZC1oZGFtNDZVMUc4MnItRWw4dGJpTDRIZUFvX1lSekFFWjJFSDZFaWdWZnR4YzBKU2xDM3JNQVI5bjFoMjAtcWtnWUFLWTNDbE0wY0wzU0NMMExQcnhoSVAxVjVFbHVZcFJJMVE?oc=5"
+    },
+    {
+      "id": "news-politics-3ea351aabf",
+      "lat": 41.84992,
+      "lng": -87.64405,
+      "title": "‘Be part of history': Chicago mayor plans ‘special announcement'",
+      "category": "POLITICS",
+      "time": "2026-08-31T15:46:19Z",
+      "summary": "‘Be part of history': Chicago mayor plans ‘special announcement'&nbsp;&nbsp;NBC 5 Chicago",
+      "source_name": "NBC 5 Chicago",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOekFRcUZZdzZUbjV6N2RUN0xHTWVmRV94ZkRfTmZqVXNKbE5uUkJMNzhwX3dfY1VNcm9IRVNIZG5iN2VRU2VQNHJuX1VvcDZmdGJjTnpZelFCcm5tZmthNThkMVhQUW5tMWt1MDAzZWdYaWRvMGJtUTdVUzFZR2RxSkxmNVNlR1NlQWJVVGxNbFZqLXVtZWdCQk8wNXRpalFPaGRrSl8xdFoxVEh6NlNDMzJzSDBVblJEb0ZHY1dPSzHSAcgBQVVfeXFMUDFLRWR0cF9ZUXZsWUVxMXk2T3VBNUU2alNsaVlvTWtnenIzSGl4ZmpLZUFNVm1WYU5KZVY0Z1BubTFYbDBnTGhmdVBQLS1fMnRaemdSaXV3ZDlaS20yclhfZzhPemI1RVN0eDdWVktEd1VyTkQ3Y0FaQ21FQkFmdlpyaGVCSW54Yi02TlN1TGFoQnRHWHBjdDdDSDNvMXZtN2dTejIwamdUcVMwY28tcFQyWTZ2WWlMU3JIVzlVUTcyRWFSWWw0ci0?oc=5"
+    },
+    {
+      "id": "news-politics-2c25ebaae9",
+      "lat": 50.51381,
+      "lng": 4.94814,
+      "title": "Live updates: House returns to work on government funding before midterms",
+      "category": "POLITICS",
+      "time": "2026-08-31T15:34:02Z",
+      "summary": "Live updates: House returns to work on government funding before midterms&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT3pZRlhPLV9lM2dhZXpkbGszM05UWjlIbkd0bEh5YnlQd2FNOV9hOV9nLU4zZk5YX1NuOXlVUGZpOGNOTXVlcjlicUI2bEJXUXREWUlfQjdqZ2RmZXlyNC1Rd0hZZVJFTGt5MEd2UkwtNDMwSjcwOHg3R3RDcXRiX3cySEJNTndfX2hmYzVudEpkc213aDJoNFBnNEc3dWlZUkFtOHVvV3ZRRW0tdEhDbUV5RVRBQlNaa0RxZTRHYV9jb09wdVFNQw?oc=5"
+    },
+    {
       "id": "news-politics-ca2902a097",
-      "lat": 37.19146,
-      "lng": 22.79035,
+      "lat": 37.20027,
+      "lng": 22.74424,
       "title": "Democracy Works: Political status and the DSA summer",
       "category": "POLITICS",
       "time": "2026-08-31T15:33:00Z",
@@ -13,8 +46,8 @@
     },
     {
       "id": "news-politics-26acb7e7d5",
-      "lat": 42.30936,
-      "lng": -71.08132,
+      "lat": 42.41349,
+      "lng": -71.00875,
       "title": "The State of Politics: It’s Been a Hot Summer for News",
       "category": "POLITICS",
       "time": "2026-08-31T15:31:00Z",
@@ -24,8 +57,8 @@
     },
     {
       "id": "news-politics-330e5450f6",
-      "lat": 38.94375,
-      "lng": -77.06484,
+      "lat": 38.88508,
+      "lng": -77.08587,
       "title": "Analysis | The politics of the company you keep",
       "category": "POLITICS",
       "time": "2026-08-31T15:30:51Z",
@@ -34,42 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzNvMGhScHI3Xzk4NG5veVBvVFRETHJKc3g3X0VUYzRuRzFObks3b3pzdkVtd2N4TjJMWEk0QkFCMW1HaXdoc0V1cVRXeEgxU0kwakYxaE9obUI2dE50eVVReFZIOEdFZDd5SjdDTXhnR3ZmcUdOQXB6QXdaV2FkRmxMdw?oc=5"
     },
     {
-      "id": "news-politics-fff634b5f2",
-      "lat": 40.7624,
-      "lng": -74.04027,
-      "title": "John Galliano exhibition at New York Met cancelled after backlash",
-      "category": "POLITICS",
-      "time": "2026-08-31T15:30:05Z",
-      "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-f07b499d6e",
-      "lat": 51.56759,
-      "lng": -0.09766,
-      "title": "Political billboard vandalism suspect appears in court following arrest",
-      "category": "POLITICS",
-      "time": "2026-08-31T15:28:00Z",
-      "summary": "Political billboard vandalism suspect appears in court following arrest&nbsp;&nbsp;FOX5 Vegas",
-      "source_name": "FOX5 Vegas",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkh0WmhuQ21JM2JFa2NLdjEtR1l0VnFrdE1BaTg5R3lWWktvSFRiclVILXlwU2tGRkhKNTRzVmRtSFRkbktycll4eU1naExreXBBR3pJMXhKeW5XUmh4OG5NdmNOWVVzSENUcEt0eFdpbllXNU56dGFuSWNTLU1uSkQ2Q01MVnZORXFZQnJ6VU5wOV8zT2l3TDBzS2VtYWp3ZnRGazBCQ1czQQ?oc=5"
-    },
-    {
-      "id": "news-politics-b1cc701b92",
-      "lat": 38.9518,
-      "lng": -77.05551,
-      "title": "Vulnerable Republicans are eyeing Trump’s war chest. He has other plans.",
-      "category": "POLITICS",
-      "time": "2026-08-31T15:27:36Z",
-      "summary": "Vulnerable Republicans are eyeing Trump’s war chest. He has other plans.&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa3g2Z1ltWnJweE00Q1h5Q1dyT2t6S21wOFlzRnpfcGpLaHhWeXp5cHdJYnN2ZmJQZGU5Ylg4N2Vuc3E2ZnBGUENpNWxXZENxNVlvMFFxX0Utc2x2aTRST1B4MUNuUHhwc0lsWGZMcnNUTXhOSWtuUGF5ZkItLXRxRTZKVW1lUExXU202TUwtMjhUNFdGRWh0ZmEzb1VzWE1rTUtiLTk4M3VIcUEzRnh3S3NfdDl1RWc?oc=5"
-    },
-    {
       "id": "news-finance-587c583640",
-      "lat": 51.51345,
-      "lng": 0.74323,
+      "lat": 51.62191,
+      "lng": 0.73981,
       "title": "The Next Evolution of Institutional Asset Management",
       "category": "FINANCE",
       "time": "2026-08-31T15:43:56Z",
@@ -78,9 +78,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFlOMWtxRnhUbXpBZlR6UVItc1pmZ0hIdS05VHdwLXZpa2kwd2xnXzZWeEllUkJZVkh5OWp0ZEh3SXVSVFFBUVYwelhjbzZyZHB2dFZEamE0WnpWcDBVbWtJWkVseXZBTnZaQ1FMSG94ODl4Q01EbkR5UGxOTmd1NUgweEttdHpVemc?oc=5"
     },
     {
+      "id": "news-finance-0dc097f0ab",
+      "lat": 55.75214,
+      "lng": 12.52687,
+      "title": "Global Liquidity Could Drive Crypto Markets in September, Expert Says",
+      "category": "FINANCE",
+      "time": "2026-08-31T15:43:00Z",
+      "summary": "Global Liquidity Could Drive Crypto Markets in September, Expert Says&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWZkRDVDNEkwcjNvdnE0b3NYUzFNVEFZZjRMemo3WnBzZl9QdFNRamhDUklITUhwTXVzX0lSZjRqTzJsdW5xR3VRanQwel8xY3IzQVkxbmpuSVU0blRDbEpTWEE5NkNKbW9SczI2SzAzTWRfbFhial9CY1g5STF1dmlNOHd2cUpJVG5DVkNjUEg2dUViRnptbjhVN0l5UmVxbnc?oc=5"
+    },
+    {
+      "id": "news-finance-1149da328c",
+      "lat": 40.0641,
+      "lng": -83.12298,
+      "title": "GameStop stock jumps with eBay investment expected to boost Q2 profit",
+      "category": "FINANCE",
+      "time": "2026-08-31T15:41:55Z",
+      "summary": "GameStop stock jumps with eBay investment expected to boost Q2 profit&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHZ5OHF5WEFBWkxMMm5VTDlxeTQ0U0hOZ01IQUtISnVROF8xTzViVEJBVTRzVlpBNENHN1k5TmpzVHI2Ml95aS1uMmpaQ2diWXhyOUtSbG1qMlRMN1F5Y0RvX1dZOUVwUkQ4bkVBTVp6LW5PUVA3b1pJcXVJSHEzT255QUxWUm5RclhDSmxMSlYwY0JWYXlsbmdJMy1sbklYVGFjQ3NTX1NJalhESWpVZHRGdlZTczJ0WWZxaDVXUVdsMmFo?oc=5"
+    },
+    {
       "id": "news-finance-97ef890b61",
-      "lat": 35.73083,
-      "lng": 139.60208,
+      "lat": 35.68248,
+      "lng": 139.63873,
       "title": "【テクニカル】日経平均株価テクニカル分析－直近安値を前に下げ渋る",
       "category": "FINANCE",
       "time": "2026-08-31T15:35:27Z",
@@ -90,8 +112,8 @@
     },
     {
       "id": "news-finance-7a80e49760",
-      "lat": 32.67624,
-      "lng": 54.60942,
+      "lat": 32.61374,
+      "lng": 54.58494,
       "title": "US vows to keep economic pressure on Iran as G20 finance talks begin - Al-Monitor",
       "category": "FINANCE",
       "time": "2026-08-31T15:30:30Z",
@@ -100,53 +122,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWlnRnBCbjUzZ1J1Sm5WTVFuRmVoWHloeElQVFJFNGEtemxTc1lhcjRJV1V4QkEyb1hQVEc1Vk1kS3UtZkpZYzV2UjNiY3o0V1ltRG5jSUVvM2VSaW10WTdqTVA0YndPVGd5ZjVjQ2V0c0Z0TklSMHhfVWwxR09SeEVhREJHWGxWeGF2VElPNlpwQjBGMUNlRVk3R01KQ1hSb2M1OExuYw?oc=5"
     },
     {
-      "id": "news-finance-7ba71c032a",
-      "lat": 50.04847,
-      "lng": 1.97936,
-      "title": "Long-Term Global Government Bond Yields Hit Fresh Highs",
+      "id": "news-finance-2f68de6f40",
+      "lat": 49.25173,
+      "lng": 11.02667,
+      "title": "‘A Roth IRA on Steroids’: Wealthy Americans Find Another Tax-Free Way to Invest",
       "category": "FINANCE",
-      "time": "2026-08-31T15:19:14Z",
-      "summary": "Long-Term Global Government Bond Yields Hit Fresh Highs&nbsp;&nbsp;WSJ",
+      "time": "2026-08-31T15:24:06Z",
+      "summary": "‘A Roth IRA on Steroids’: Wealthy Americans Find Another Tax-Free Way to Invest&nbsp;&nbsp;WSJ",
       "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUxBVTlwa1QweUhQWHduWnBjSmJhMnpjQmN0NEptNFZMdnFKQVNNV3FWVWJhdldCX1JXU0g1bkw1eXBEemJwVXdNSUNGOTIxb0FVTXFDaEtXMU4weWVOVktfSm8yb0JQNjEyaVNPUnFJbExJdUNROU9QWVFQWHFTUkpiVUt3OWlNdm1GdXVXR0gyZU1QdlNmZkZMeXJGaVJ0OExheUxUUDRtMG5lSW1jcTFNOFdndk92bFlR?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQW16TF9ZYjdFNFB0bmNEYnVJX3poc1hZZFg3a3dUYU1kMURBN1owZXdva0pxdzVIeUY4ejl2N0hQeklmTkRzOXR2QzVzdWpCQ3p4T3BmY0E3VUI1VFFpdzQ5bGYwV055LTd4eWpjTVV4UFZMbWQtUlBNWW55VkJNSXRucTRnU3BqWW55LTVTQzNHSnh3cDNINUlTZ2w3VC1GWDRmVUl3YTM5NWs2eC10NFNVZlRpZENCLV8weTJTeTM?oc=5"
     },
     {
-      "id": "news-finance-8c52e95b06",
-      "lat": 39.92819,
-      "lng": -94.77731,
-      "title": "AI is a threat to the stability of the global financial system, says BoE chief Andrew Bailey",
-      "category": "FINANCE",
-      "time": "2026-08-31T15:13:42Z",
-      "summary": "AI is a threat to the stability of the global financial system, says BoE chief Andrew Bailey&nbsp;&nbsp;Business Insider",
-      "source_name": "Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGRrdU5ET1NVSHkzNEc2Q0hSTWxmcDU5S19PUHRPRWsyNGk5aC1paDNjWXdmUDB3RUZWX0MtajQyTHZOT1NyVE9Zc3JvVGRtQzB3Z2xNRTV2QW52VWhPY0dKWFA5anM3YndWb05RUENNTlY1WE5vT010NmJxRFQ1cmF5bnlDZTIyaVNHS2VaSlRpVVc4Z0QtTFN6QWJwNkZJeWc?oc=5"
-    },
-    {
-      "id": "news-finance-9a001547dd",
-      "lat": 40.72485,
-      "lng": -73.99079,
-      "title": "ニューヨーク外国為替市場概況・24時 ユーロドル、堅調(トレーダーズ・ウェブ)",
-      "category": "FINANCE",
-      "time": "2026-08-31T15:08:40Z",
-      "summary": "ニューヨーク外国為替市場概況・24時 ユーロドル、堅調(トレーダーズ・ウェブ)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM1ZmTmdtVE15VUpNMVYtbGxiYjQ5Qi1CT1FvMExpRnlmdVNtNnJ6YU9DdHhrU3lhZmdDeTZ6TjBlWFBFVnJ6VmhOR3RfaWcwMC1WdlVFZ2ZYQnFEM1lGUUxVbjR2RWx6VW92UDRDSTFjVFN5cnBPdUROWWpLVzFYNEdsYkJVakE?oc=5"
-    },
-    {
-      "id": "news-disaster-2b125a121f",
-      "lat": 52.47796,
-      "lng": -2.91223,
+      "id": "news-disaster-e4edb052a8",
+      "lat": 52.48327,
+      "lng": -2.9185,
       "title": "More storms possible at Grand Canyon where a flash flood killed 1 person and left 15 missing",
       "category": "DISASTER",
-      "time": "2026-08-31T15:36:40Z",
-      "summary": "More storms possible at Grand Canyon where a flash flood killed 1 person and left 15 missing&nbsp;&nbsp;Anchorage Daily News",
-      "source_name": "Anchorage Daily News",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGZ2OTNtSEU3bXp6V1ZPMHdaNUxpM2dIejJ1LUpfWnB5RzVCbTlWR29XNi1mZ1QtS3pGRFJfRkpTRlJReW9mYVpocTFuRmdsODBRWm9Wb2ZkQ3NlRWM2TFRoQzBOSnU4cHJIUHVLZGpLalYzSHNvUUJUU0pCRlk1VDRHRC1pSGJuOGNYYkFJXzFfQUNQb1lFY1pjNW5PaU93dDVXNUJTX0RTSU1acDkzSVo2MDdBM1h4RXdGdEJQSVQtaUxYNGRZWVNXM0NianhTdGs0?oc=5"
+      "time": "2026-08-31T15:53:13Z",
+      "summary": "More storms possible at Grand Canyon where a flash flood killed 1 person and left 15 missing&nbsp;&nbsp;Boston Herald",
+      "source_name": "Boston Herald",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JeU8yQXIyS0VkN0R2ZUk1Uk8yZmowUmNZMTdwb3lOd1lkRHI0YzBqNXNtZ1d4QWY1RmVpZE84Tjh4T2U5NHVEelNQZXVHS1AwMnh6X3R2WUMtSnZMWXh3WUhNdHVQQmV3MWkxblg0QQ?oc=5"
     },
     {
       "id": "news-disaster-f47ea9e5be",
-      "lat": 32.82022,
-      "lng": 130.79616,
+      "lat": 32.82421,
+      "lng": 130.77684,
       "title": "熊本地震から1か月 上空から見た「日奈久断層帯」断層上の被害は（日テレNEWS NNN）",
       "category": "DISASTER",
       "time": "2026-08-31T15:34:21Z",
@@ -156,8 +156,8 @@
     },
     {
       "id": "news-disaster-1ec1c8ecb9",
-      "lat": 48.36543,
-      "lng": 5.51081,
+      "lat": 48.4384,
+      "lng": 5.49223,
       "title": "Grand Canyon search continues for 15 missing after flash flood destruction, 1 death",
       "category": "DISASTER",
       "time": "2026-08-31T15:28:27Z",
@@ -167,8 +167,8 @@
     },
     {
       "id": "news-disaster-4647500356",
-      "lat": 33.78578,
-      "lng": 130.50509,
+      "lat": 33.73851,
+      "lng": 130.52767,
       "title": "【台風情報】台風のたまご「熱帯低気圧b」1日にも台風に発達見込み 最大瞬間風速25m/s予想、日本の南を北上中…日本への影響は? 今後の進路予想・9月11日にかけての雨風シミュレーション【気象庁31日22時15分発表】（BSS山陰放送）",
       "category": "DISASTER",
       "time": "2026-08-31T15:22:08Z",
@@ -178,8 +178,8 @@
     },
     {
       "id": "news-disaster-f27c33e662",
-      "lat": 33.79189,
-      "lng": 130.45109,
+      "lat": 33.75401,
+      "lng": 130.46694,
       "title": "【台風情報】台風のたまご「熱帯低気圧b」1日にも台風に発達見込み 最大瞬間風速25m/s予想、日本の南を北上中…日本への影響は？ 今後の進路予想・9月11日にかけての雨風シミュレーション【気象庁31日22時15分発表】 | BSSニュース | BSS山陰放送 (1ページ)",
       "category": "DISASTER",
       "time": "2026-08-31T15:10:00Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-6f252a06b7",
-      "lat": 23.0497,
-      "lng": -109.67706,
+      "lat": 23.07737,
+      "lng": -109.72083,
       "title": "Lessons learned from Indiana’s 1913 flood",
       "category": "DISASTER",
       "time": "2026-08-31T15:09:10Z",
@@ -199,9 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IS1pIR0oxYWFOdGZIbk5DaTFJRTl6eldiSDFJbUR6ZHFyRjNkcnczNjBGX0JyWG0ydERDa0pKclJoM3FGY25rU3ByVG5sYkJKakZHZnFuTERjYWxGeGVrV2h3a2dkd0NCX0trRFZJRmg2ZUR1WDByU3VIOUXSAYIBQVVfeXFMTmJnSWpCT3NBdlY4SDNMclJ3UlhkSlE0czJvS3BUaE03aHpKZ1oxblo0SEMxd1doc0NXbzVYY0hsY01FaElxcGxFWEprSllIZ0pZSlh5blNIdEZDbjBzSWlKOWJLa1RsYmFWa2JOUHFNSFJaOE05Z0VwZ3VCMllhVmU1UQ?oc=5"
     },
     {
+      "id": "news-accident-9915787fa2",
+      "lat": 36.64579,
+      "lng": 138.1476,
+      "title": "酒を飲んだ状態で単独事故 長野県松本市に住む公務員の男を逮捕(46)を酒酔い運転の疑いで現行犯逮捕 中信地方にある市町村の職員【長野】（2026年8月31日掲載）",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T15:39:00Z",
+      "summary": "酒を飲んだ状態で単独事故 長野県松本市に住む公務員の男を逮捕(46)を酒酔い運転の疑いで現行犯逮捕 中信地方にある市町村の職員【長野】（2026年8月31日掲載）&nbsp;&nbsp;日テレNEWS NNN",
+      "source_name": "日テレNEWS NNN",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLWS1tbHdXNkdWTVp5bnZBeXBjcnJoZUhLSlpycVhUd2NGc2lZUWxfYW9EbERvMTBDRlA0WEl3YW1oZjNrUWFkZkh1UmVCVzRiM014LVJJZUdHWFR0R1dGdHFDUTFyZEpRMWF6TjJyc3Nmcm5KTEJvU3B2WHdObW8?oc=5"
+    },
+    {
       "id": "news-accident-aef66531b3",
-      "lat": 33.53466,
-      "lng": 130.40673,
+      "lat": 33.61024,
+      "lng": 130.37347,
       "title": "逃走中に事故、危険運転致傷容疑で高校生を逮捕 福岡・早良署",
       "category": "ACCIDENT",
       "time": "2026-08-31T15:31:00Z",
@@ -210,20 +221,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85T3ZQRmwxVDJlNXZKV2VadkZGS0VHTFhDYmp1UDFGN1VSTDJWOFY2SG1wSlhta2FjbXJxcThqV1hKcnJJQVJlTncyTHEzMjZoalQxbTRn?oc=5"
     },
     {
-      "id": "news-accident-e66d9eb379",
-      "lat": 43.05053,
-      "lng": 141.3471,
-      "title": "生活道路の法定速度上限３０キロ 事故抑止へ１日から | | 全国のニュース",
+      "id": "news-accident-598dd9f3b6",
+      "lat": 42.75947,
+      "lng": -84.50138,
+      "title": "Two-vehicle crash kills 25-year-old man in Lansing",
       "category": "ACCIDENT",
-      "time": "2026-08-31T15:00:00Z",
-      "summary": "生活道路の法定速度上限３０キロ 事故抑止へ１日から | | 全国のニュース&nbsp;&nbsp;佐賀新聞",
-      "source_name": "佐賀新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZcTFadV95UGZGOXpTNkE5ZUxRczlneXU2RklPejNnbGtuRUNzemlkeXU4WGhzNzBpR1d6bEd3RVl0Z1B6ZlVUU2owRUpVM2JuQWtpTWh3?oc=5"
+      "time": "2026-08-31T15:11:21Z",
+      "summary": "Two-vehicle crash kills 25-year-old man in Lansing&nbsp;&nbsp;WLNS 6 News",
+      "source_name": "WLNS 6 News",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWE5cS14YzluYkt3bVNjU0hWeHRDLTRhZlNYdDFNZnc4ZW5nNkwyZ3JpWTZzdHFiZVM0ZVIzWWJDVmhTdTVNUTRoY3ZmY210V25oWF9vcHJPLUQwMDlpSFNrTHhsRTYzanI0Mi0taU1ZcE5yclNkelhUUVpEeFlORU16dEsyc0nSAYwBQVVfeXFMTkRWWk1jbmNub2tXVDVFd3ppblByYzN1cEpGNFh4ZGRyMEI4VFI0U3dLbWVHdmh2cU90eGdiUE8wSFM2UUVuSXh5OXVrSkM4MmM5ZXRCVGNvSUxsdkNTd3ozUnN4OUdMRlc2azdwa1B0Vjl6QTdUWkp0QktPN0RTTmtkUUUzTml4QVVSQVk?oc=5"
+    },
+    {
+      "id": "news-accident-123193930e",
+      "lat": 37.93596,
+      "lng": 139.00112,
+      "title": "生活道路の法定速度上限３０キロ 事故抑止へ１日から",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T15:00:19Z",
+      "summary": "生活道路の法定速度上限３０キロ 事故抑止へ１日から&nbsp;&nbsp;新潟日報",
+      "source_name": "新潟日報",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzWUkydlczNVcxRTd5X0cyZXBfLWdUQkJZODdRSjVDY293MnpKOG5Td0dJcG9BdUpBdGdCSTc0ZF94SHBpWmJUMTkzSWRjYTY5MjQ3QzI1OHlXZzBiTEE?oc=5"
     },
     {
       "id": "news-accident-86505fcd46",
-      "lat": 36.31665,
-      "lng": -98.45284,
+      "lat": 36.34076,
+      "lng": -98.47316,
       "title": "Major accident temporarily shuts down SH 30",
       "category": "ACCIDENT",
       "time": "2026-08-31T14:52:00Z",
@@ -233,8 +255,8 @@
     },
     {
       "id": "news-accident-cc8d3544b5",
-      "lat": 35.06644,
-      "lng": 135.74919,
+      "lat": 34.99233,
+      "lng": 135.73103,
       "title": "【速報】北陸自動車道の木之本IC-敦賀JCTで通行止め 交通事故のため",
       "category": "ACCIDENT",
       "time": "2026-08-31T14:49:00Z",
@@ -243,31 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xY0JjMUFmdXBQVmlRMG9vUUFic3lWamNuOERrUkp3N3JaMWt3V1R4SVpEWURXNng2YXcyTzNzalc2dm9sc0N3QVVsYWZnQmNwc1VycU0xanY?oc=5"
     },
     {
-      "id": "news-accident-dce2a632ea",
-      "lat": 45.57623,
-      "lng": -87.55327,
-      "title": "Menominee Area Schools student killed in Saturday crash",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T14:48:00Z",
-      "summary": "Menominee Area Schools student killed in Saturday crash&nbsp;&nbsp;Upper Michigan's Source",
-      "source_name": "Upper Michigan's Source",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVdmcmNTMjFEb24weFYyZnlDOWV3WWFOeVNIaEF3Z3RIWnlOVDY2ZXJkMng3SzNMdTRTOHF3cmJNMl9Na1dvY3E4TUZaLXJZSG1OTWpLaXV2TFBYYTd2NTF6cTU1ZGVZcHdPWENPelB0YTFLUzZQZGtwWVZYQjhxMDh1b0pDTDNWTlZFLXVkN2tiMklwSUg2c2daWmhnZkVURVpV?oc=5"
-    },
-    {
-      "id": "news-accident-7f4c6c6ec5",
-      "lat": 39.97368,
-      "lng": 112.39106,
-      "title": "2 people taken to hospital following rollover accident on I-79 in Mon County",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T13:22:00Z",
-      "summary": "2 people taken to hospital following rollover accident on I-79 in Mon County&nbsp;&nbsp;WDTV 5",
-      "source_name": "WDTV 5",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1pHRTJSTEhadlh2WkhuRXRCckVqV0E4czNUckJSZEZwc1gxUHU0MlFpNFV3bTFfQTFwa0E4T1pxWlZpUDJhYkxCUGIyLUVka2JsZW9JUEZ4MFNXOHBLVjVlc0MyNFl3WUI1d2VfRXJaVGdSbU9PNGtsejV1ckNfbUNDVUtjVGVhT2V1TWhmYnB2WlR3WVZkSHFWb081cW5RTFHSAbYBQVVfeXFMTjhiV254SHZrM1FJa2huVHBMbnpRVVpydFlBbDF3dENibU5wMDlQeUktRnl2WVM0UXhlWTV0SVhLamhqTm1NdEpPdXpPUXgxVnVRZkZxWUIzek5vUVBnZWIyX3Jic2tQaG9LdTlvNVZFYU1tNktqX2FkT29rM3JJSkN5LVFWUTVpdlJYTEt2MlZSVU1YQzI5RUQ4U0VHSTdNQXNfVVBMNlMyVkRKRkw2M29pRmhhWXc?oc=5"
-    },
-    {
       "id": "news-disease-643d653686",
-      "lat": -35.04704,
-      "lng": 117.93012,
+      "lat": -35.01998,
+      "lng": 117.90836,
       "title": "アルバニー・インターナショナルのCFO、病気療養のため休職 執筆 - Investing.com",
       "category": "DISEASE",
       "time": "2026-08-31T13:04:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-9e530e306b",
-      "lat": 32.8186,
-      "lng": 130.68364,
+      "lat": 32.73202,
+      "lng": 130.79278,
       "title": "「病気の治療に専念」 10月31日で市長辞職の意志表明 3期目の道半ば…熊本・荒尾市の浅田市長（66） 50日以内に市長選",
       "category": "DISEASE",
       "time": "2026-08-31T09:44:14Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-99dfdb9d27",
-      "lat": 32.84939,
-      "lng": 130.74955,
+      "lat": 32.74015,
+      "lng": 130.75812,
       "title": "「病気の治療に専念」 10月31日で市長辞職の意志表明 3期目の道半ば…熊本・荒尾市の浅田市長（66） 50日以内に市長選",
       "category": "DISEASE",
       "time": "2026-08-31T09:43:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-8704942f7f",
-      "lat": 35.52789,
-      "lng": 139.63618,
+      "lat": 35.55492,
+      "lng": 139.5697,
       "title": "病気の自覚症状ない「沈黙の臓器」…肝臓を守るポイントは? 肝がん原因の脂肪肝、医師らが予防法伝授",
       "category": "DISEASE",
       "time": "2026-08-31T07:30:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-0f3e3087d7",
-      "lat": 35.63798,
-      "lng": 139.71093,
+      "lat": 35.64612,
+      "lng": 139.78201,
       "title": "LGBTQ＋当事者が出演したことに意味がある 「性感染症の予防」看板が与える視点〈男の広告〉小林美香",
       "category": "DISEASE",
       "time": "2026-08-31T06:00:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-d8743f3f89",
-      "lat": 34.97763,
-      "lng": 135.76748,
+      "lat": 35.0064,
+      "lng": 135.7204,
       "title": "B型肝炎ウイルス（HBV）感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-31T05:30:00Z",
@@ -331,70 +331,70 @@
       "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJUlVVY25raFQ2N0YweFAtWFlkTEczVm9USTF4VENXSC1HUlA4TWFLX3kwZ2J4YzFCRDVKaXgtTTRiVEVNS1dj?oc=5"
     },
     {
+      "id": "news-technology-36392caf26",
+      "lat": 34.0617,
+      "lng": -118.27125,
+      "title": "AI is watching your spending and setting your prices accordingly. Lawmakers want to stop it",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T16:01:59Z",
+      "summary": "AI is watching your spending and setting your prices accordingly. Lawmakers want to stop it&nbsp;&nbsp;Los Angeles Times",
+      "source_name": "Los Angeles Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTVMwTnhkcEtabkhNZTBuRjdVZkd3Z2I5Q1NKOXNER3JTN1haYUU2SXlXb1c5eHplX2lKbmQtTy1mVkUzVU8zQmZCUU9uZjNlbjYxNjhIcDRHUjlPcnN5eE9BdWpEMFNmejRGMmNpdWVsTlNSU3pkUmpRc1VFY2MyNjhHUXZ1NnUwejlIdXB6eE9weDdjNUxHZzJscHdHVVpEcURCc3BQQWcya243eE5kTHRFbHpSbkk3X3lXcnc4WWJleGhweVZnaExTY1dyWFFkcGNVSw?oc=5"
+    },
+    {
+      "id": "news-technology-5fe0545c38",
+      "lat": -23.66574,
+      "lng": 21.75576,
+      "title": "Can AI Make Healthcare More Human?",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T16:01:26Z",
+      "summary": "Can AI Make Healthcare More Human?&nbsp;&nbsp;HCI Innovation Group",
+      "source_name": "HCI Innovation Group",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzBONVNiLXZMX3A2SktVUGJTN0tya3VSTHhVcDRORk9tV1JCcXFLSTFtNDdwT014c3I4R3E4SHBUYy1CVVlnNF82VFd3eXQtYXl2dG9abUoxSUY2eTczMzNJd2ZlMVZPY2NBNUpya3N2ejFuNGJxTWp6Q1hXTkpDcG96blh1akZuQ2xPVzJMMnpBaU1PWjdHSG54ODJWdW50a2ZWVzJVRDF4SnpZUWtDSTRIRHc5alV5cWZaMTh4NzJvV2FIZXRodQ?oc=5"
+    },
+    {
+      "id": "news-technology-3149f5a26e",
+      "lat": 22.42864,
+      "lng": 114.26447,
+      "title": "University Student Services unveils new AI virtual guide",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T15:52:02Z",
+      "summary": "University Student Services unveils new AI virtual guide&nbsp;&nbsp;University of Nevada, Reno",
+      "source_name": "University of Nevada, Reno",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kZ2s2ZlVNampOQld1eG1pZ3lXTkpmUkJ3Y0taZkZ0NU5SbWdpTksybE9Mcm9SeHZwdHJseThzSTRuWVR3Zng3Wi1EbV9vWG5XSU5ZbUJ2N01xWkpGejRXZHhmbw?oc=5"
+    },
+    {
+      "id": "news-technology-b63c6921d1",
+      "lat": 45.27007,
+      "lng": 19.84409,
+      "title": "AI Opens a New Distribution Channel for Credit",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T15:51:36Z",
+      "summary": "AI Opens a New Distribution Channel for Credit&nbsp;&nbsp;PYMNTS.com",
+      "source_name": "PYMNTS.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUJ5NGczRTV2UlFQTm5fdGQzNmhuZmtkSUNoS2puQ3Q0aU1ZTHlYUjk3bmt1RW1RM2FpWDU1c1ZXRHc0Z3JsbkNZazJKOThUVU1jeUlQLXJITDR1NkN1OTVYLUp3cjd0ME9xMkZLelpmQVBJQWFIcGZzeWJIWjB3RUZ5TGloUm5md3VnQmEwZ1pJQQ?oc=5"
+    },
+    {
+      "id": "news-technology-06d3c09c61",
+      "lat": 38.96467,
+      "lng": -77.05347,
+      "title": "Opinion | Who’s that bot? An AI cover of Madonna spurs industry changes.",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T15:48:00Z",
+      "summary": "Opinion | Who’s that bot? An AI cover of Madonna spurs industry changes.&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3JxbVFCaWdJUU02Wm15ekg2Zmt5eWY5REJMUVhRa2J0MUZNYldxLU95aXQ0SlQtU1dwV2RaOWtVZTI1d1NIRlJVdmxKVXEtbEFPUGZsbG0zV2pBMkNwUDBhUkFTRGhRR1o3ZVhYLUh5aWF3R3hydjI5aXlyNjlyYjlIZlBtcVR2b1lqQXRkUHJ1ZmRJMnE5NlRCTUZJa2ZrZ3pyMEZINDc4NkRWbWNaczBuX0s2dGpXSlBkZg?oc=5"
+    },
+    {
       "id": "news-technology-69d889866e",
-      "lat": 50.18565,
-      "lng": 5.21787,
+      "lat": 50.22958,
+      "lng": 5.21299,
       "title": "HumainとAMD、サウジアラビアにおける企業向けAIの普及拡大に向け「AI in a Box」を発売",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T15:39:58Z",
       "summary": "HumainとAMD、サウジアラビアにおける企業向けAIの普及拡大に向け「AI in a Box」を発売&nbsp;&nbsp;arabnews.jp",
       "source_name": "arabnews.jp",
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCRnVFcElXNVV6djM4NU1VSFZXSV9rRVZ0QWNCY3ZrWC1HVG9ZLVlIcGJva2NlOEsxNktQSlJsQ252VTVyZHpoWUJCRTk4NmFoTW8yUUY2VGZsMkVtcVRfck1qVzg5Qmc?oc=5"
-    },
-    {
-      "id": "news-technology-4afce7cc3e",
-      "lat": 34.13861,
-      "lng": -118.35305,
-      "title": "News | AI firms gain ground in Seattle, but traditional tenants still lead office demand",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T15:32:48Z",
-      "summary": "News | AI firms gain ground in Seattle, but traditional tenants still lead office demand&nbsp;&nbsp;CoStar",
-      "source_name": "CoStar",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTGFzOERNSGRPcEZ6aXhrRkFqM1Y3WGF1by1wYWx6cy1rNTlWMFJObFRiMk53YUR2a0FFaEVnazk0TEwyeEEtcFcwN2w1R3owY01RQzdrcHdQc0tERm9XZjAzeUM1cmVvUXl0NWdNeGR6TFlqd2UtLVEwMlVJbnotaVBQV01qdmhpMWt1YUdYd3JXMXZnTUNwSEduU1pFTk5nbHNEUmhoQ1gwdEVnM0x5ZHlVZVR1cEZFSWNubk5FWQ?oc=5"
-    },
-    {
-      "id": "news-technology-6699d4f109",
-      "lat": 41.88003,
-      "lng": -87.66405,
-      "title": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T15:30:00Z",
-      "summary": "Relativity Brings Powerful Legal Data Intelligence to Microsoft Copilot, Expanding AI Assistant Support for Legal Teams&nbsp;&nbsp;PR Newswire",
-      "source_name": "PR Newswire",
-      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPN3BlWUFmUFpEeVRobVVzVWRCalp2c1Zvc29DcGtyUHJ2Z3JRdXZZb1oyODhFYlREVmxfby0tdzg0YlhOSUVlYXJzNWJydGJwb1JPcGh1aVNpWi00d2hET3h4VDFUdnlkRjdnVFhZX1Q4X1p2UnUzR3ZkNmtNNmxKaGZrdlpZQUVqb1BpRXo5cXduS2pYa0QtbFIyNjBtT0FMeWYwZFpjdWFpLUhiYnhIcmRNRUtGX1pWZjNFY3BCUlg2SWdUaF9hV2JReURZXzMzQTlHMG80bmhBRU1sT2NuZFNxYzBLbjA3eGIzRDVvNnBrMmcyVXNFWDhzdlBJSGVXMlo0TA?oc=5"
-    },
-    {
-      "id": "news-technology-e2c1b4befb",
-      "lat": 18.31662,
-      "lng": -73.88893,
-      "title": "South Korea Names Three Consortia to Deliver Free AI to All Citizens",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T15:29:34Z",
-      "summary": "South Korea Names Three Consortia to Deliver Free AI to All Citizens&nbsp;&nbsp;Northeast Times",
-      "source_name": "Northeast Times",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGNienoxUkNIZ25faVJ6YkNfdUZhVEQwWVFfdVUycElTUmNnU0VYZDZQdWRQTkRNWHh3dV81QzluOWdPaEV5WkdrZXpjSHRqajB6dDJtcFVmZzlSVXdmMHpIMXdlVmszTzQxZldXSkJhTk0tNEFmRGx1cVlYRXo1S2FSclJ6SlhkcEhUQW1JeDBseG5yZnBqdU84eEVZNWc?oc=5"
-    },
-    {
-      "id": "news-technology-510691ed97",
-      "lat": 31.86788,
-      "lng": -92.30991,
-      "title": "Adding the Biology Wet Lab to AI Training Loops - the-scientist.com",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T15:23:19Z",
-      "summary": "Adding the Biology Wet Lab to AI Training Loops&nbsp;&nbsp;the-scientist.com",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1FUN0o2ekZwUGhEN3pLRUc0bm41ZUhEaTNuMUVlNkFpazVtQ0JSZ3c0bThaTWN4U0dZSFh6Z3NjRnlTMVJ2WjRuTk9XR2I0eENCUDdlNzJha25jeEhZV25uaEJFdXBXRDBwT21pblNJa0hudXNGV285T1o1b2E0OW5OU1ZrTW9aUTE0?oc=5"
-    },
-    {
-      "id": "news-technology-7896cd3232",
-      "lat": 27.71716,
-      "lng": -98.02454,
-      "title": "OnlyFans and AI training: why gen Z doesn’t care where our money comes from | Alice Lassman",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T15:23:00Z",
-      "summary": "OnlyFans and AI training: why gen Z doesn’t care where our money comes from | Alice Lassman&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0Qyem0zQkJzMEFmR25vRmEtbV9QRGJ2Si14N0lkNjJ6d0xvTUFfUHpxUm9sSmhiYllha2UyM0M5WmZ1aVJaSUtNWTFPQXhuYlBKay1yc3JEelA5U0pCa3BYc2s5bGlnWVZWc2tKeU9ZTFM4TG1KWjNJcGJVelhVOXotX3pMaHFpMTliY2JWNE9KZ0VVcEdKMi1Oaw?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T15:48:38Z"
+  "updated_at": "2026-08-31T16:04:24Z"
 }
