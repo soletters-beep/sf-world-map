@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-54b174f2c2",
+      "lat": 51.48846,
+      "lng": 0.03825,
+      "title": "AI is hurting US politics. Here’s how candidates could use it for good | Bruce Schneier and Nathan E Sanders",
+      "category": "POLITICS",
+      "time": "2026-08-31T18:34:00Z",
+      "summary": "AI is hurting US politics. Here’s how candidates could use it for good | Bruce Schneier and Nathan E Sanders&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Jc1BTRkhhYXYzcTVmZ1lWOS1CNmk4VzdPeElMbjJ3dm9xclY1eHhHczdlckpreUZMdl92SDgzR1hVenBhV2I2c3ZWb2ttazJqVE11cDdJM3lqZVJJYW54eWt6Z1VFYTg4S1pRODZJbFNxU3BXWVFUcWJWMWQ?oc=5"
+    },
+    {
       "id": "news-politics-e00efa1d19",
-      "lat": 50.82099,
-      "lng": 4.49296,
+      "lat": 50.88272,
+      "lng": 4.47446,
       "title": "Sen. Ed Markey, Democrat, across decades in Massachusetts politics",
       "category": "POLITICS",
       "time": "2026-08-31T18:27:00Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-1bc7b82285",
-      "lat": -20.59183,
-      "lng": 161.24627,
+      "lat": -20.61003,
+      "lng": 161.22357,
       "title": "Exclusive: DHS plans to launch voter fraud investigation surge Tuesday",
       "category": "POLITICS",
       "time": "2026-08-31T18:22:44Z",
@@ -23,9 +34,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHo4bm1vSWRXbWdDcVZYcFNiR1VFX3ZnR2dkcnZ3cTVkZEZwdVdwd0hSQnZGTEhnSlZxM3hSV1dyd0lvUU8zUURwVHl0QWhmZTRrSTBqOGczVmR2eUdvWlg5eEsyb2ZNbENXUGpFVnZNUDNSOGRtUW1SaDJ1V05PV212OWFYMWN4cVJWcQ?oc=5"
     },
     {
+      "id": "news-politics-c92ca47068",
+      "lat": 30.85967,
+      "lng": -88.68133,
+      "title": "Ex-congressman George Santos banned from betting platform for life",
+      "category": "POLITICS",
+      "time": "2026-08-31T18:15:12Z",
+      "summary": "The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-62844b55d6",
-      "lat": 44.69981,
-      "lng": 5.06614,
+      "lat": 44.68144,
+      "lng": 5.03562,
       "title": "Initiative asking Colorado voters to approve 8th-grade reading standard on ballot measures qualifies for November election",
       "category": "POLITICS",
       "time": "2026-08-31T18:11:41Z",
@@ -35,52 +57,19 @@
     },
     {
       "id": "news-politics-0a6eee96a7",
-      "lat": 41.6408,
-      "lng": -87.29726,
+      "lat": 41.63411,
+      "lng": -87.37582,
       "title": "Gary Jacobs: Zen and governing in a time of politics as performance art",
       "category": "POLITICS",
       "time": "2026-08-31T18:00:56Z",
-      "summary": "Gary Jacobs: Zen and governing in a time of politics as performance art&nbsp;&nbsp;triblive.com",
-      "source_name": "triblive.com",
+      "summary": "Gary Jacobs: Zen and governing in a time of politics as performance art&nbsp;&nbsp;TribLIVE.com",
+      "source_name": "TribLIVE.com",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNREtqcy1kMFNxc2RRZEluMkRoUVhLQWRBUTZEa2s3dEtRNGR6c05HNmR2akcxcFl5TDlGeGJGR3gwX0oxa2ZRMmoyZ2p6bzg3d3hfdTV3ZHY2T2ExYlRzZl92U215WGowTWkwRmVxNE9vWU5uWjZUNV9YSV9NVWpZVzZ6NmY5czhzdE4xU2p1ZFZ6ZkE2bi10NzhCNG15NFJ6OFE?oc=5"
     },
     {
-      "id": "news-politics-8ce8ad0e49",
-      "lat": 46.38053,
-      "lng": 82.44671,
-      "title": "サルベーション：エミン・アレパ監督の2026年銀熊賞受賞作、公開開始",
-      "category": "POLITICS",
-      "time": "2026-08-31T17:48:51Z",
-      "summary": "サルベーション：エミン・アレパ監督の2026年銀熊賞受賞作、公開開始&nbsp;&nbsp;sortiraparis.com",
-      "source_name": "sortiraparis.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSTBjVEE0UFdXX0x3UTRXQWs2U1RkVUx6SXZudHJBckJHT1pmb0I3VjZ5QUFha3JJdDZ3RXNQUlF6LVZKVF9EUFNFTURPczEzZC0tb1RLTVVSZHFKbWhHbTVzeHBCNVlJRzhZTFk3WjNuR0sxbFJqUUw1aklRb0JXejR3TlhROEtCSEQ4bzhIYnR2Ym1GNWZvRWpUcGk4cVVSYTBObE0wQ2dLSm8xams5bDdXbU9PbFIzVl9vVHRFbzhVR0dyUXQ1ejBtVVRvaEhkc1FOZEh2akNVZUVSMko1U3ROQjR6cTRwaUkzMFhlY2syRXI4aWxYanRQZmhCMlRDZ3JBZW15eF9nMldFQUNiRmRDTUlnZXR0RjVJ?oc=5"
-    },
-    {
-      "id": "news-politics-3bb612d36a",
-      "lat": 51.47147,
-      "lng": -0.10313,
-      "title": "Political Law Playbook – August 2026",
-      "category": "POLITICS",
-      "time": "2026-08-31T17:45:51Z",
-      "summary": "Political Law Playbook – August 2026&nbsp;&nbsp;Dentons",
-      "source_name": "Dentons",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzlOckhNWjFZSUVjaXQ2UmU1dlpLeTRERFVXc0FRb25jd3ZweXJ2Tk9QWnBoa1hpQU05LVhPYjFRbVRBeF90cUNiajBZUU02Y2tXUTFXLUFWQlo5aE95OGJpZkZRR0JWUkphRzBDT0hnWnJMaEJKVHZOTDlZMEtUc29lVGU2a290VnljM25MZzBMTHlNdTBBdzBMTUZDWmhadVJoNy1lTll3ZEV0dkpYUWpIQnZENU5va2J3Tg?oc=5"
-    },
-    {
-      "id": "news-finance-4675418d41",
-      "lat": 40.76664,
-      "lng": -73.97569,
-      "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy",
-      "category": "FINANCE",
-      "time": "2026-08-31T18:15:34Z",
-      "summary": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4N2xwUVVOMzd4SkxPTHExSWs1RzhBaG9PVDJIdE1VMThDSFZCWXEwazdwbklwRnAyVTlaR3JtOEd4RHJfNlJjUElCaXZtdGRyX1lXbERkQkt5aFRYNk1QMGZqeV9NWG5iOEhFS1l3V3Y4Yi1lb2RVb19EQWwtQQ?oc=5"
-    },
-    {
       "id": "news-finance-0eca1f4418",
-      "lat": 30.25011,
-      "lng": -82.07315,
+      "lat": 30.2755,
+      "lng": -82.08379,
       "title": "Bessent Meets With Russia Finance Chief at G20 Gathering",
       "category": "FINANCE",
       "time": "2026-08-31T18:12:09Z",
@@ -90,8 +79,8 @@
     },
     {
       "id": "news-finance-5137a18c6d",
-      "lat": 51.66864,
-      "lng": 0.39627,
+      "lat": 51.66501,
+      "lng": 0.43167,
       "title": "Stock market today: Dow, S&P 500, Nasdaq fall as US strikes Iran, rate-hike bets jump",
       "category": "FINANCE",
       "time": "2026-08-31T18:00:06Z",
@@ -101,8 +90,8 @@
     },
     {
       "id": "news-finance-18ddae1939",
-      "lat": 43.61554,
-      "lng": -103.43551,
+      "lat": 43.52496,
+      "lng": -103.44251,
       "title": "Conflicting court rulings deepen fight over how prediction markets are regulated",
       "category": "FINANCE",
       "time": "2026-08-31T17:45:49Z",
@@ -112,8 +101,8 @@
     },
     {
       "id": "news-finance-da4082d3b8",
-      "lat": 42.41149,
-      "lng": -1.10449,
+      "lat": 42.46507,
+      "lng": -1.11616,
       "title": "米ロ財務相が会談、金融分野の協力など協議 Ｇ２０（ロイター）",
       "category": "FINANCE",
       "time": "2026-08-31T17:42:15Z",
@@ -123,8 +112,8 @@
     },
     {
       "id": "news-finance-3e44a3e6f9",
-      "lat": 54.54783,
-      "lng": -5.91435,
+      "lat": 54.54871,
+      "lng": -5.96967,
       "title": "Markets after Nvidia and Warsh: Investor's next move",
       "category": "FINANCE",
       "time": "2026-08-31T17:34:37Z",
@@ -133,75 +122,86 @@
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlYtNUdKRlRrWkJGZWhuTE12XzZCYWNoYkRKTjBPTzJWbHEtTkM4SnBQXzBuR1lMOF9HaTAxQ01tQU9UQjRnN0x0N0x6NFM3LURiQW1Pb1pNVU9zSTBleFFsbk9WTHh6X2FkeWpPNWpOQzdMb2ZjbWd4Mk0zcEcwZnJpa1Zwa1FOendKOEQzVUlBNEl0alBWOQ?oc=5"
     },
     {
+      "id": "news-finance-f51ebc4751",
+      "lat": 40.67671,
+      "lng": -73.97394,
+      "title": "Challenges and Opportunities in Multifamily Affordable Housing Finance",
+      "category": "FINANCE",
+      "time": "2026-08-31T17:33:32Z",
+      "summary": "Challenges and Opportunities in Multifamily Affordable Housing Finance&nbsp;&nbsp;Federal Reserve Bank of New York",
+      "source_name": "Federal Reserve Bank of New York",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlloSHB5ZTFNQXQxVkh3MEgxX1BVMGRiRUJnbWY2OUpHZkk4YTFHS1Vxa2FKS1g4S3c1TFZVUTFlWk00aS1NOHllcENvM0NwaTlyd016TDc5MFh6bXo2ME5Dd2QyTXNNckdlN2dlRXdoQkFtUzRPZUhhaEtQVDlIaGhqaw?oc=5"
+    },
+    {
+      "id": "news-disaster-561316b34d",
+      "lat": 47.4693,
+      "lng": 12.37533,
+      "title": "Going up: $2.9 million secured to elevate flood-prone homes",
+      "category": "DISASTER",
+      "time": "2026-08-31T18:40:26Z",
+      "summary": "Going up: $2.9 million secured to elevate flood-prone homes&nbsp;&nbsp;St Pete Catalyst",
+      "source_name": "St Pete Catalyst",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjktd2RBWkxfMFI4dllhbVpXOUt1QVJaLXNMV3g3X2VxV0NsNlg3UUF2c01oQ3NuRlNRaDVyWGpKZE5qajBJcGl3TnlwbFZ1ZmVoMVZ6WjltbGVvVHdhekJrMnczZ3VqaGxoZVVLVmhwNWRvdW82eGJmeVRVM1I1eDJQNUpRckQtSFgyY1Zn?oc=5"
+    },
+    {
+      "id": "news-disaster-4f772575e2",
+      "lat": 30.10249,
+      "lng": -99.42154,
+      "title": "Kerr County, Texas, to Add 30 Sirens, Improve Flood Warnings",
+      "category": "DISASTER",
+      "time": "2026-08-31T18:32:36Z",
+      "summary": "Kerr County, Texas, to Add 30 Sirens, Improve Flood Warnings&nbsp;&nbsp;GovTech",
+      "source_name": "GovTech",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzk0WWEweTlwTXhMYnFVTmg5ZzRIZGk2ZUxRR1otTWU2WHpkUXhzUVBYOUNXQ2txN1BoLUMwc1hfR2lBTWloeGRYWHo4TnNzZTJuZEhraUh5OU1KQjFCYzc0cDR0VkV2R3dIQ3ZUU2FQV2JSWlBDdmNjcmtZdUhRM1NyOFptdTdSSFVMR0FOOWZHRHRsdEE?oc=5"
+    },
+    {
+      "id": "news-disaster-d34a8a146d",
+      "lat": 41.92199,
+      "lng": -87.73538,
+      "title": "Chicagoans are rallying to help flood survivors in Nepal",
+      "category": "DISASTER",
+      "time": "2026-08-31T18:29:00Z",
+      "summary": "Chicagoans are rallying to help flood survivors in Nepal&nbsp;&nbsp;WBEZ Chicago",
+      "source_name": "WBEZ Chicago",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU3RxWk40eW5HQzdpT0txVG4tT0xTM2ZUaDAybmJSdndma0llblNxa1FlOVBCTzB1ZFlvYmFXLVN3UmJHdlVjNmw2ZTdTWG5EQVJ5M2RvRjhYR3R0LVB2VWMzNHFRd25SVTQ3RV9CRmF2cFp2NzgwQUlMRVp2UExtSDVzeFJwR1VJeE84NXFSeE05VlZLWDRuUEw4ZTdnM21sVmd6ZU80elcxdE01aVo1Wjkxbm4taEVrZEY4NjZraw?oc=5"
+    },
+    {
+      "id": "news-disaster-ff679d5b87",
+      "lat": 31.78156,
+      "lng": -95.6339,
+      "title": "Anderson Cooper walks through Nepal flood devastation",
+      "category": "DISASTER",
+      "time": "2026-08-31T18:27:00Z",
+      "summary": "Anderson Cooper walks through Nepal flood devastation&nbsp;&nbsp;CNN",
+      "source_name": "CNN",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVllzTi1sYUptRG1XVWQ5OUR5M3FXUE9oLVphOWZzOXR3WTVCVUZMeXhVNGtxQk9VOS14RW5POGhPY3NVY2RpYVJTNDByd3JTS0daVFlmeTFDMWViUDZCelp6WEplbXBKdmRuS0puLWtkckZaSjRuRlRoWFlrOXF1VXBiblhfNFJ4a2VuRk1oQUVhQmRqU1NOOUtJeEU0OXA4ZWc?oc=5"
+    },
+    {
+      "id": "news-disaster-219a39cf28",
+      "lat": 48.36477,
+      "lng": 5.45375,
+      "title": "At least 2 dead in Grand Canyon flash flooding as urgent search for missing continues - ABC News",
+      "category": "DISASTER",
+      "time": "2026-08-31T18:25:47Z",
+      "summary": "At least 2 dead in Grand Canyon flash flooding as urgent search for missing continues&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "source_name": "Breaking News, Latest News and Videos",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzdGOXVKdE1wT2MzYzZlbDVqRWtreE51eHJxa3I4RUEzRGhJaVBUSEwyTktnTUxDNDhSN1oyTy1VY3U0UVJxVEROWFV4Vk9mSklfaTFVOXVuQVBWVzEwbHdhQlZZc3VvcFYwZzNVSUxFR2ZmTW5iZGIwWHlVeXhQS0RDajh3U19YWDdVZzJJTG11MV9IN2NURWtERdIBoAFBVV95cUxONmo0cjJLNUwyQ08wZUFGNXFXQktvWVlJTzRWLV9NTHJQUEx0SV9TRDZsUURHMEJBSi1oNkthVkNTMU9jX2NjMEo2cXlramd4QTdoQmtsV3g4dDRZT3pzVlJDanRjcUpQeGowdXRJRGluZXcyVDhUOG1TR0VFdWhGTks0V0dicGpmS09UMUlCT21VYlFGbVZUMHVEMXY5bEJt?oc=5"
+    },
+    {
       "id": "news-disaster-bc2bb82c9e",
-      "lat": 38.92811,
-      "lng": -77.01538,
+      "lat": 48.36885,
+      "lng": 5.45706,
       "title": "Two bodies found after Grand Canyon flash flood",
       "category": "DISASTER",
       "time": "2026-08-31T18:13:41Z",
-      "summary": "Two bodies found after Grand Canyon flash flood&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
+      "summary": "Two bodies found after Grand Canyon flash flood&nbsp;&nbsp;washingtonpost.com",
+      "source_name": "washingtonpost.com",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJwYmFWWGdRckdSNWtvUjNyR0xKNW1pcmZLRFh3d3pPWEowR0NaS0tVREJnVi12MnZsTkIxaW4tSkFKZ2puTGpPbFg4T3RUWW5jenBDQ3Rfcjdvb29hSkZhUEppMUw3RS1kVElRc1hGOFM5X09icjkwMjk3SlVMdWtKamZ3XzBOLThrZ1JtY0h0RDl0WE83WHdKRjhncWw5eHpwTg?oc=5"
     },
     {
-      "id": "news-disaster-4807fd02b7",
-      "lat": 51.52994,
-      "lng": -0.15928,
-      "title": "City Releases New Video Showing South Howard Flood Relief Project in Action",
-      "category": "DISASTER",
-      "time": "2026-08-31T18:05:43Z",
-      "summary": "City Releases New Video Showing South Howard Flood Relief Project in Action&nbsp;&nbsp;City of Tampa (.gov)",
-      "source_name": "City of Tampa (.gov)",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTExCSFlLNm9kQ19FNzc1SEdkSGNXczJTYjNmLWZQOXA1emFmQ09XaExyVlRtR0JMRktWMnRhRTFUSkdkcGdweTlJNFItRElpM1d0amt3b2ExMUd3RUpyaFNTOHFRdUlYX1FONEtCa2g1Wl9EUnlGZ1dMUUpfbG53YmgwOWRaQXZuWjB3MTR1S05vN2NiMll3eEU0NW1KYjdzbU9pbVM4NVlmRmFWaS1TNnpscU0?oc=5"
-    },
-    {
-      "id": "news-disaster-9f513dec11",
-      "lat": 33.68783,
-      "lng": 130.41704,
-      "title": "【台風情報】最大瞬間風速25m/sで西日本に接近の可能性も “台風のたまご”「熱帯低気圧b」は今後どうなる？ 日本への影響は？ ゆっくりノロノロと迷走気味に移動か…？ 雨風シミュレーションあり",
-      "category": "DISASTER",
-      "time": "2026-08-31T18:02:56Z",
-      "summary": "【台風情報】最大瞬間風速25m/sで西日本に接近の可能性も “台風のたまご”「熱帯低気圧b」は今後どうなる？ 日本への影響は？ ゆっくりノロノロと迷走気味に移動か…？ 雨風シミュレーションあり&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kdG5VR0hmRjFTZUVsQ3VqS08tbmtqc0JOeE9mVmhkcFh5UVhoTGFrYXZjM01yVzRwd0o3U3BjcndFa2NicTJ5Q21LZzRVQzViczY0Nkl0SHFFSHBnX01oSEU4ckg5a1E1OVE?oc=5"
-    },
-    {
-      "id": "news-disaster-2f077e3811",
-      "lat": 51.45838,
-      "lng": -0.26301,
-      "title": "Headmaster saved over 900 students before Nepal flood destroyed school - Honolulu Star-Advertiser",
-      "category": "DISASTER",
-      "time": "2026-08-31T17:58:57Z",
-      "summary": "Headmaster saved over 900 students before Nepal flood destroyed school&nbsp;&nbsp;Honolulu Star-Advertiser",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDloUXpRSWpKS0gzZUZadkJjUE5JN2xDU0pycnBxa0FCOUc5RlRNc2pTRm1rZHVrempFNmNXNXhVYUV1ZWM2YkpRSlU3Rl9CWWt0Z2FyT2swYU13b2RQdEE4aFJvM2xnSk54V1NsSDZ3blk1TVRKME1jd1RuRVNjVHNfM2FrcDV5UjI3Z2p2ekdocW5taFEwY1pqbjd3R01Sdjl4NTM3YjJlMGd0d2dYZzJ5enEzNmwwWTRtTU82V0laMGlObWc?oc=5"
-    },
-    {
-      "id": "news-disaster-a50e43530e",
-      "lat": 48.40132,
-      "lng": 5.52045,
-      "title": "Two dead in Grand Canyon after flash flood, park service says",
-      "category": "DISASTER",
-      "time": "2026-08-31T17:47:54Z",
-      "summary": "Two dead in Grand Canyon after flash flood, park service says&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVhVSVA4MWhITTVPd2IzNFJOQk45aEQ0ell3SHJ5UXNvTlljY0NqOVE0RHEyREFmMmVEYXgyYWhWRUUzNV9KSWxIaWJ2VmdySm9ucHQtV25EREJ3Z1oyaXQ2YXZDcWRxX29sN0lwcE04d0NfUGNMSkFSTkg4S244dmFUdmlzNzZudW9qTHp4TVBmN1dqNmQzOVZOMFRfNkFTNUtkQkFFSGlFVzNYNGZzWDhzQkc?oc=5"
-    },
-    {
-      "id": "news-disaster-e5d8608dc6",
-      "lat": 28.38127,
-      "lng": -81.64299,
-      "title": "Watch Grand Canyon Flash Flood Leaves Two Dead, 15 Others Missing",
-      "category": "DISASTER",
-      "time": "2026-08-31T17:15:38Z",
-      "summary": "Watch Grand Canyon Flash Flood Leaves Two Dead, 15 Others Missing&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmVtX1dvdlI1aldwREZCV1RWSUladkxUVlhyUTdyRGZzUVpNMjR2SURIdTBKUHVuRkpaWEYzWmFmbU5XQ2NrSjRiQlpPal9Da20xSngxNUs3LW1XUlJ4SXo2QzJGcC0xZ19DRGdxNVVrcmZnMW0tQWhOa1V4a3FHaXQ0UU5DbVYzZ21QVXlGd042LVB6Ym03X0dWUkdGOE9HVE9YNFVGRkJSRlk?oc=5"
-    },
-    {
       "id": "news-accident-e9490b857b",
-      "lat": 51.54571,
-      "lng": -0.14808,
+      "lat": 51.50849,
+      "lng": -0.1011,
       "title": "Motorcyclist hospitalized after crash with Tesla on 22 Freeway",
       "category": "ACCIDENT",
       "time": "2026-08-31T18:25:13Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-847d055a26",
-      "lat": 35.36141,
-      "lng": 139.55243,
+      "lat": 35.2679,
+      "lng": 139.53842,
       "title": "【速報】トンネル死亡事故で21歳の男を逮捕…車線はみ出したか 奈良・御所市",
       "category": "ACCIDENT",
       "time": "2026-08-31T18:02:47Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-90631bb7e6",
-      "lat": 35.3809,
-      "lng": 139.56412,
+      "lat": 35.31318,
+      "lng": 139.4894,
       "title": "【速報】トンネル死亡事故で21歳の男を逮捕…車線はみ出したか 奈良・御所市",
       "category": "ACCIDENT",
       "time": "2026-08-31T18:02:22Z",
@@ -233,19 +233,19 @@
     },
     {
       "id": "news-accident-154cace26d",
-      "lat": 34.37554,
-      "lng": 134.09556,
+      "lat": 34.30881,
+      "lng": 134.07323,
       "title": "KDDI、圏外でも緊急通報サービス 災害・事故時に需要",
       "category": "ACCIDENT",
       "time": "2026-08-31T17:00:00Z",
-      "summary": "KDDI、圏外でも緊急通報サービス 災害・事故時に需要&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
+      "summary": "KDDI、圏外でも緊急通報サービス 災害・事故時に需要&nbsp;&nbsp;nikkei.com",
+      "source_name": "nikkei.com",
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ka25wb0lLMzFGRnlwVko0X3RHLUZFbURlcktBZHp0SXNpeG8wYWVpR2F2T21WbUdKUEJqNmowenJTWG9Gb0NQVFJRcHozeFFCdmFCclNodkdHQ2Jnd1RhYTZtSVhLX25BeVctSw?oc=5"
     },
     {
       "id": "news-accident-63e2a47cf0",
-      "lat": 38.89894,
-      "lng": -94.84007,
+      "lat": 38.85615,
+      "lng": -94.86159,
       "title": "I-35 shut down in Olathe after crash leaves one severely injured",
       "category": "ACCIDENT",
       "time": "2026-08-31T16:49:00Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-b9cd402617",
-      "lat": 42.33214,
-      "lng": -71.03205,
+      "lat": 42.40175,
+      "lng": -71.10911,
       "title": "State Police investigate four deadly crashes that left seven people dead over weekend",
       "category": "ACCIDENT",
       "time": "2026-08-31T16:22:05Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-643d653686",
-      "lat": -34.96837,
-      "lng": 117.84414,
+      "lat": -35.03119,
+      "lng": 117.88191,
       "title": "アルバニー・インターナショナルのCFO、病気療養のため休職 執筆 - Investing.com",
       "category": "DISEASE",
       "time": "2026-08-31T13:04:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-9e530e306b",
-      "lat": 32.74077,
-      "lng": 130.73328,
+      "lat": 32.78935,
+      "lng": 130.7996,
       "title": "「病気の治療に専念」 10月31日で市長辞職の意志表明 3期目の道半ば…熊本・荒尾市の浅田市長（66） 50日以内に市長選",
       "category": "DISEASE",
       "time": "2026-08-31T09:44:14Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-99dfdb9d27",
-      "lat": 32.73393,
-      "lng": 130.69515,
+      "lat": 32.74386,
+      "lng": 130.74493,
       "title": "「病気の治療に専念」 10月31日で市長辞職の意志表明 3期目の道半ば…熊本・荒尾市の浅田市長（66） 50日以内に市長選",
       "category": "DISEASE",
       "time": "2026-08-31T09:43:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-8704942f7f",
-      "lat": 35.50708,
-      "lng": 139.62649,
+      "lat": 35.58295,
+      "lng": 139.62684,
       "title": "病気の自覚症状ない「沈黙の臓器」…肝臓を守るポイントは? 肝がん原因の脂肪肝、医師らが予防法伝授",
       "category": "DISEASE",
       "time": "2026-08-31T07:30:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-0f3e3087d7",
-      "lat": 35.62453,
-      "lng": 139.80214,
+      "lat": 35.67271,
+      "lng": 139.79162,
       "title": "LGBTQ＋当事者が出演したことに意味がある 「性感染症の予防」看板が与える視点〈男の広告〉小林美香",
       "category": "DISEASE",
       "time": "2026-08-31T06:00:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-d8743f3f89",
-      "lat": 35.05832,
-      "lng": 135.72989,
+      "lat": 34.96687,
+      "lng": 135.79089,
       "title": "B型肝炎ウイルス（HBV）感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-31T05:30:00Z",
@@ -331,20 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJUlVVY25raFQ2N0YweFAtWFlkTEczVm9USTF4VENXSC1HUlA4TWFLX3kwZ2J4YzFCRDVKaXgtTTRiVEVNS1dj?oc=5"
     },
     {
-      "id": "news-technology-58a53fb596",
-      "lat": 38.76568,
-      "lng": -105.55092,
+      "id": "news-technology-821880df43",
+      "lat": 52.54762,
+      "lng": 13.41236,
+      "title": "Can AI Map Wall Street’s Genome? - The University of Chicago Booth School of Business",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T18:37:26Z",
+      "summary": "Can AI Map Wall Street’s Genome?&nbsp;&nbsp;The University of Chicago Booth School of Business",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU3F3SC1nLXFwTzJIem5maE02ZnlvSnkzb0pyX2tKYjU2MzV5WENMNkpqR3g2bU5Uci1XV2NWREdsVW8wTC1TTGVORUZyU0duSjdmdmlpUnRfdzk1WGRfWXVXUVp6dDVmc09ac19HdU43RjNFU0NHWWlnVXRLcnc4NmphQ3M?oc=5"
+    },
+    {
+      "id": "news-technology-54b174f2c2",
+      "lat": 51.53106,
+      "lng": -0.04218,
+      "title": "AI is hurting US politics. Here’s how candidates could use it for good | Bruce Schneier and Nathan E Sanders",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T18:34:00Z",
+      "summary": "AI is hurting US politics. Here’s how candidates could use it for good | Bruce Schneier and Nathan E Sanders&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Jc1BTRkhhYXYzcTVmZ1lWOS1CNmk4VzdPeElMbjJ3dm9xclY1eHhHczdlckpreUZMdl92SDgzR1hVenBhV2I2c3ZWb2ttazJqVE11cDdJM3lqZVJJYW54eWt6Z1VFYTg4S1pRODZJbFNxU3BXWVFUcWJWMWQ?oc=5"
+    },
+    {
+      "id": "news-technology-3b89551251",
+      "lat": 38.76685,
+      "lng": -105.6319,
       "title": "Colorado Seeks Input on Proposed AI Regs Ahead of Rulemaking Hearing",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T18:31:29Z",
       "summary": "Colorado Seeks Input on Proposed AI Regs Ahead of Rulemaking Hearing&nbsp;&nbsp;Ogletree",
       "source_name": "Ogletree",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2FLel85WjVyUzZKNkxOWTRSN2J3UVhSSE5IU0ZRMEtRZk9PR3pOcGFMMm1lZzVIU3Z1NGVSNEUtMnljZGlhdGcyWEVYajIzcF9jLWFFNHFYVk80R3ZEMS1kRXJMUmc2VXRLdkZSQjVoM1M1b2djdnlMeGt3Y1FwOVhybUhfYURPWUFNaFQ4Sk9sM0x2eTlIZUFmbFctNVRKQzhTcWVGNC1SWEJQdzktNW15b0xoVXRMOVpr?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEtYUGlzWWs2UUNtbTRXYWktdzV4S3ZjU0xaeWRWVExjSDhWZnJuXzVyd0ozdW1mS3k1NXBCMjR2VC1iaHRUc0JsVXpES2tYbEdCR2sydXhTa2hjN2pzMWZxTnd5VVVPV3lBdGpQVjlpRnNwVU1NdDVkVHNaalQ5QUFFWmszTEZ4elBwRnFMMEpCNjRyLWk3Sm10VkdGX3V1bm5CSTlOVjBLbjZtR2xyVXpMaUVUaElxeXdPbg?oc=5"
     },
     {
       "id": "news-technology-2162a54483",
-      "lat": 39.63911,
-      "lng": -76.6453,
+      "lat": 39.6272,
+      "lng": -76.57414,
       "title": "\"Let data reign\": Trump and AI investors wage campaign to save data centers",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T18:26:23Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-371b05cc67",
-      "lat": 51.19506,
-      "lng": 4.43556,
+      "lat": 51.22514,
+      "lng": 4.37564,
       "title": "‘Backwards and poor’: Trump issues dire warning to communities blocking critical technology",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T18:21:31Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-c7dbc1fb42",
-      "lat": 28.4179,
-      "lng": -81.60416,
+      "lat": 28.35902,
+      "lng": -81.59697,
       "title": "WATCH: Vance says Trump likes to 'switch it up' by posting AI video of Kharg Island bombing",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T18:14:54Z",
       "summary": "WATCH: Vance says Trump likes to 'switch it up' by posting AI video of Kharg Island bombing&nbsp;&nbsp;PBS",
       "source_name": "PBS",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONy1PckZsLVY3LWRSLWIxT2dmbE1RMWY4R0hVakkyRnJxQ2Q4X2Ewek9QamtsRFVQY0Z2aGFwU1QzdksxRTRtSXIzVDdVT0lMVmk0VlVHSlNiUGRwZVdmM0hScV85TEQzS1luc0VtOWhnTVM2WERsTGVQTWloaUhKMW83ZXZ2TWIzSkJBU254bk02SmF0d1ZtdjU0X0RlN2hHYXF1NUJ6djRPLWx4OTdkWkJMb3FKdy1LWjJkV3UwLWhxcUZM0gHKAUFVX3lxTE90WDJIZjdBOWJ0ZzFndWtHaXhianFmV19peDRnUTlFeUlpVjBWSWt0WlFHblpDalFTNkZNSkQzMzg0ZjA4S2pVS2ZnVjdpLWhjSXVWUHItNWZaWUVITWx1Tlc5aGVsdm1qd2tJNHVMU296X0pYaFNoOWYzSWtZUnd3WDAzRktxSFE4eXJzTV9WWTZpeWI2ajJTSHdzVDF0ZWp0Z1pTOWQ0NW8zUVZ2LXozWTRiZlRxT3FFUnV5NlZjeTR1VU11M1lPZFE?oc=5"
-    },
-    {
-      "id": "news-technology-00a2e2679c",
-      "lat": 22.27828,
-      "lng": 88.40999,
-      "title": "Multi-Layer Security Built for the AI Era",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T18:12:36Z",
-      "summary": "Multi-Layer Security Built for the AI Era&nbsp;&nbsp;Broadcom",
-      "source_name": "Broadcom",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjc2NjMyZWtpdDBQa09IZGRwOUs1blBEUlZDTFE4cGxrWUhCMHNjbnpBZmRtVXB5N0k4Mnl3cnBHNFo3LUFNTzVBQUZDYVFob056bnhVQlRsQWl0dDFLZm5ZSVM1TzFRQ2N4Q1ktU2FaNXlQT1BNY0NaUE5kNE52dGFzcUduMEVPUU9xT3ROMWdXMnQ3Tm9oRnFsNjRWVUV1?oc=5"
-    },
-    {
-      "id": "news-technology-18fd36b10b",
-      "lat": 54.70738,
-      "lng": 25.24224,
-      "title": "Negotiating AI Limits and Biological Weapons - Center for European Policy Analysis (CEPA)",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T18:12:33Z",
-      "summary": "Negotiating AI Limits and Biological Weapons&nbsp;&nbsp;Center for European Policy Analysis (CEPA)",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnSTBURFVRb2FidHFLRTlDMWFQNFpHWXMzbF9oa3BQNW11Q0NrTHpMNEFHd0lHem0zRWstSnl1eldHYU1wcnJWYlFOenRYX3oySVR4NmxuUDAtMjVPLWtWc2tyLUtVYVpOWjV1WnFKVjhNVC1aVkxGalZB?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T18:33:34Z"
+  "updated_at": "2026-08-31T18:48:29Z"
 }
