@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-10836e6b82",
+      "lat": 29.84048,
+      "lng": -91.00808,
+      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "category": "POLITICS",
+      "time": "2026-08-31T22:38:24Z",
+      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-ba06e22a70",
-      "lat": 38.84961,
-      "lng": -77.04428,
+      "lat": 38.87443,
+      "lng": -77.09662,
       "title": "Kalshi suspends GOP House candidate for betting on her own race",
       "category": "POLITICS",
       "time": "2026-08-31T22:29:40Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-afc5485146",
-      "lat": 39.70807,
-      "lng": -76.64158,
+      "lat": 39.73727,
+      "lng": -76.60915,
       "title": "Trump officials cut political interference ban after unusual Census Bureau report",
       "category": "POLITICS",
       "time": "2026-08-31T22:24:12Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-a8a7e7fe95",
-      "lat": 39.64283,
-      "lng": -76.63784,
+      "lat": 39.65826,
+      "lng": -76.55913,
       "title": "Trump announces lower drug prices under Most Favored Nation agreement | CNN Politics",
       "category": "POLITICS",
       "time": "2026-08-31T22:24:00Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-915aeca329",
-      "lat": 37.57532,
-      "lng": 126.90318,
+      "lat": 37.50347,
+      "lng": 127.00825,
       "title": "韓国司法、旧統一教会「政教癒着」実態認める…「ハン総裁承認後、国民の力に資金」（ハンギョレ新聞）",
       "category": "POLITICS",
       "time": "2026-08-31T22:23:37Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-34fc4d9d96",
-      "lat": 40.70858,
-      "lng": -74.06245,
+      "lat": 40.74843,
+      "lng": -73.96132,
       "title": "He Was a G.O.P. Star. Does Anyone in New Hampshire Still Care?",
       "category": "POLITICS",
       "time": "2026-08-31T22:17:59Z",
@@ -56,20 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNnlMOGpXYUVlUm9xTFR6NHg1ampzT1R1WmI5aTFjVGs4QkR4R2FOSHBvXzVxU1ZFWFFJN25DNG9UVmZpUU5sWElWREo4MjhEa2dsQ0pEQzY4MllSSjdIcjdfWnpyeDNRb0tjSzZ0VWxrMk5WczRESFdrVkd1Qm1zQTlLUl9iYjVkYkN4Tg?oc=5"
     },
     {
-      "id": "news-politics-4382ad4bc8",
-      "lat": 38.76155,
-      "lng": -105.6597,
-      "title": "Colorado redistricting limits measure heads to November ballot",
-      "category": "POLITICS",
-      "time": "2026-08-31T22:16:23Z",
-      "summary": "Colorado redistricting limits measure heads to November ballot&nbsp;&nbsp;coloradopolitics.com",
-      "source_name": "coloradopolitics.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkNfeFhWYkRKaFNaRi1FSWVxT0hvcjR3OG9abmZ1UUtEc2k4aENqQjJmWEtfdVhJNlN1eXl3OHpCUHQySDNZeG9WYmhWWkRGV0MwVzZCYkdWVk1nR2s1Qk9EY0EwNUlvOHp4QWdsYkdjYWlMSElHZ1Vpal9vX1ZyNDZYMFJVbVlsMzIxRHdkTGxWRUhuaDRnWEJqSF82bE9oMlh5VTg2MGdGa1E?oc=5"
+      "id": "news-finance-8fe4e5f496",
+      "lat": 38.96445,
+      "lng": -77.02551,
+      "title": "Russian finance minister, invited by Trump, draws objections at G-20 meeting",
+      "category": "FINANCE",
+      "time": "2026-08-31T22:45:56Z",
+      "summary": "Russian finance minister, invited by Trump, draws objections at G-20 meeting&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1RpWE55TTJKbUtiNVdwcWk1SFAzTlJGQWFSZW92YS1QMUZVUE5nLVlzbzVMLU14Nm1SQVVIb3JSbjJMVU9VQVVWc002aVFZcG9IdjVPLUpiYko4NUN2N1FDanRFNndWR0JuZ2pQbVFVT2ZQVTZlY05SaUxQUTJLSnBLdmNYSXNXTExXY3Z4OEdJZ2pzVGNSaHRvVDRNSWxWUHVyWS1QU01aZm1icy0wRHgzVjdpVjlPUGNSdQ?oc=5"
     },
     {
       "id": "news-finance-7d7d25073f",
-      "lat": 44.58741,
-      "lng": 1.91329,
+      "lat": 44.65159,
+      "lng": 1.86924,
       "title": "Corn, Soybeans Make Fresh Highs: Can Grain Markets Build on the Higher Monthly Closes?",
       "category": "FINANCE",
       "time": "2026-08-31T22:17:00Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-0e7d8df7be",
-      "lat": 64.64628,
-      "lng": 97.75494,
+      "lat": 64.65892,
+      "lng": 97.76196,
       "title": "US irks G20 ministers by inviting Russia, barring some journalists",
       "category": "FINANCE",
       "time": "2026-08-31T22:14:41Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-c1bd32c31c",
-      "lat": 34.76206,
-      "lng": 135.54466,
+      "lat": 34.70652,
+      "lng": 135.47812,
       "title": "今日の株価材料（新聞など、1日）F&LC傘下のスシロー、タイムズスクエア出店へ",
       "category": "FINANCE",
       "time": "2026-08-31T22:13:56Z",
@@ -100,20 +111,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mWW1lNXpjMkpZc2JkZmV6bGdOeW96LUxYS0pyN3doSGNDVFpqZXlJVVpxdEE0Uk1ySUFueVYwcEg0QUtVc1dEOHRhU2M3eDc5QmxfQzJrdzY3bDkzRGdNVjBMcXByUWhJclo1Rw?oc=5"
     },
     {
-      "id": "news-finance-c41e2ccfb9",
-      "lat": 14.54117,
-      "lng": 121.08471,
-      "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap",
+      "id": "news-finance-162ade1efe",
+      "lat": -21.35824,
+      "lng": -50.05227,
+      "title": "Chris Benecchi Named Inventiva’s New Chief Operating Officer",
       "category": "FINANCE",
-      "time": "2026-08-31T22:06:14Z",
-      "summary": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3lDeFpHVlptcnBMcThtNzhEVVM2d1AyMkI5bVQwSUlCQjhWd0VhbXdqaTF2NzJUc2FXSHpJX20zTVBmRlkxMG5BWXptMTQzejdQU3hqQUZHcno1bldsdE5iUG5BMFY4cUNBMDBfaGE4RG9jSElQSndGNGNBMlNMdXcyTFJaVUFhS0trQnJncFRsMExRZGluZFVOVkgzUHlFYWptTkNjQTc2OGFXYWc1Yzl3?oc=5"
+      "time": "2026-08-31T22:08:14Z",
+      "summary": "Chris Benecchi Named Inventiva’s New Chief Operating Officer&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeHhwaWk2a2EyWVpZWXA3M0puSkdGcDl2Q1VlLTQtVkFoeFR3dE5fQ195UHFNNmZ1MHZ5YVZ1T0hCeC05b1RFaXkzYklnNWphTU00eHJPbjVRQmYxMDU0OFNxZ3hXTWc3RHFqN1lhMUhwSGs5X3MxTnUyUU15dkdKdEpvYXpySUxYUjJTaVNVdEIwWm10Sk9fMUV0cVp2Zw?oc=5"
     },
     {
       "id": "news-finance-b36af67cbe",
-      "lat": -3.10775,
-      "lng": 151.36619,
+      "lat": -3.07575,
+      "lng": 151.40384,
       "title": "ドル高円安なのにウォン高の勢い…為替相場の公式変えた「韓国の好調期」（中央日報日本語版）",
       "category": "FINANCE",
       "time": "2026-08-31T21:53:20Z",
@@ -122,97 +133,108 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZ3FIS01zbGlTLUIwWnJMSTNJalhmSXhUWWVScTlKN1pBLXNYZEdYald0WGJSQWg3N2lmRlVUNDlISTRrZGFmRGZCc2thc2hKa3k0UFo3Yk5IOENhcWYwaDkxX3pIRmtKOGRiTHRsWmlkNW9wOUp2Sk9aZnNVVGs?oc=5"
     },
     {
-      "id": "news-finance-bd5155fc2b",
-      "lat": 50.78885,
-      "lng": 4.35896,
-      "title": "US draws European pushback with Russia G20 finance invite - Al-Monitor",
-      "category": "FINANCE",
-      "time": "2026-08-31T21:53:19Z",
-      "summary": "US draws European pushback with Russia G20 finance invite&nbsp;&nbsp;Al-Monitor",
+      "id": "news-disaster-995656c453",
+      "lat": 39.25172,
+      "lng": -76.56689,
+      "title": "Baltimore-area travel group among those missing after devastating Nepal flood",
+      "category": "DISASTER",
+      "time": "2026-08-31T22:42:32Z",
+      "summary": "Baltimore-area travel group among those missing after devastating Nepal flood&nbsp;&nbsp;WMAR 2 News Baltimore",
+      "source_name": "WMAR 2 News Baltimore",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNajRLek5LcTk4WVFtVUU5Qm1YZFRVUlFtLTZMcDM3dzRYVnRpQXBOSE9PcXFYUkFnUXVXMG01TGRkSmdrZG02SHI3OVVUODlTeTlFbWhpUFhFdTE4U1BlUWd1aUt4cFdpZmRsT0RfZEtTRWdGY0tYV2NLN0ktdnJmbGVOc0tGRHRDb2VoenhBZG5TQ2J4NjZFdGw3NUV0Y0c4Z3hqc2UyTWdiQ3BlYTMtRXU1RWtPSzBfT081amtObzAwejVoazJRU0VB?oc=5"
+    },
+    {
+      "id": "news-disaster-73607d85be",
+      "lat": 35.71714,
+      "lng": 139.77449,
+      "title": "茂原の防災士・石川さん 豪雨から2週間、備えどうする 車の避難先も考えて",
+      "category": "DISASTER",
+      "time": "2026-08-31T22:42:10Z",
+      "summary": "茂原の防災士・石川さん 豪雨から2週間、備えどうする 車の避難先も考えて&nbsp;&nbsp;東京新聞",
+      "source_name": "東京新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PbHBGN0hwZ0hqU3hiOWNleHFWTzNlTW5CbkItUGJobDREcXVpTXhWZlMtN2R3VFhvVE1rT2MzSGM3Y2RuQzQ3NVJHMGh3RHZua3k4?oc=5"
+    },
+    {
+      "id": "news-disaster-7f31e85c99",
+      "lat": 8.78138,
+      "lng": 13.7766,
+      "title": "North Texas man killed in Grand Canyon flash flood, 2 friends remain missing",
+      "category": "DISASTER",
+      "time": "2026-08-31T22:41:15Z",
+      "summary": "North Texas man killed in Grand Canyon flash flood, 2 friends remain missing&nbsp;&nbsp;Dallas News",
+      "source_name": "Dallas News",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkZvMVZ6czRXSWp5OVY2d0tQcnlmUXpINVJZYXpubVhwSVJPMW1iekhlVl8wWXNEWG9kVmY0d3JvYTR2aldsZ0lfUEZuZGxjTkRDcF9NR0JKdWtpLWFHTE1mUVF5cGM4RkI4RUxhdGVXanY5LWNQNlpOTndGQUk1STh2MlBsQ0xWREdIUGF6bkFDQ2xkaXpGRHh4SVVZUzM2SjNRSG9PM3M5aEZpQlE?oc=5"
+    },
+    {
+      "id": "news-disaster-e9a4d61ef3",
+      "lat": 46.03061,
+      "lng": 18.27362,
+      "title": "FEMA absence at Comite diversion meeting leaves flood insurance questions unanswered",
+      "category": "DISASTER",
+      "time": "2026-08-31T22:36:00Z",
+      "summary": "FEMA absence at Comite diversion meeting leaves flood insurance questions unanswered&nbsp;&nbsp;WAFB",
+      "source_name": "WAFB",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkdBendUYjdYMzRfY0sxb3oxclhTVWRMZkY3OVhrbTJkZVMwOEpFV3lfb1Y0YXZiTDlaUUtqU3VRdGN0YXk4REltQmVzV1FaRU5laFUzWUJmSW1RaU8wNGRNUWtFYnpfZ0dZSkZQMzc2anQzV3F6aEFSVlNqTUt4bnhuVno2MWtHRFZnWjhQdnVWN1h5bjR4NmhyU2RkYmNYTVBCdVpUMVE2SkIwNzBvdW5halY?oc=5"
+    },
+    {
+      "id": "news-disaster-5d423d7034",
+      "lat": 50.99034,
+      "lng": 10.02947,
+      "title": "台風18号が復活…気象庁の予想進路、米軍・ヨーロッパの見方 日本への影響は",
+      "category": "DISASTER",
+      "time": "2026-08-31T22:32:48Z",
+      "summary": "台風18号が復活…気象庁の予想進路、米軍・ヨーロッパの見方 日本への影響は&nbsp;&nbsp;福井新聞社",
+      "source_name": "福井新聞社",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fTW1YckRPRFpSNHI1MmE3ZEl6MmFHTExnT3c3V0x1U3dPTlk0YjJqVGRWWUJDZ3VYdXhXd1FwSVJVTm1idnpKNHVESWQtQmx1OTNOa1lpMGdZZkItOVE?oc=5"
+    },
+    {
+      "id": "news-disaster-fc1576a5e5",
+      "lat": 40.68241,
+      "lng": -74.0111,
+      "title": "Death Toll Rises in Grand Canyon Flood as Search Efforts Continue",
+      "category": "DISASTER",
+      "time": "2026-08-31T22:25:46Z",
+      "summary": "Death Toll Rises in Grand Canyon Flood as Search Efforts Continue&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oaDJ2U0NRbE12dVZIOEpCQVB4dmpoYzVWaGg4X1FFMEl1RGhnVWpNdjFkb2pqc3JhWGc2YmJnNmcxWWpNd0NMU0N6dXZPY3ptZHRNT2VyckhLMFMwczVOYkJKNGNtcjU0c1JMNWxzTQ?oc=5"
+    },
+    {
+      "id": "news-accident-39676c58d1",
+      "lat": 36.28578,
+      "lng": -98.53474,
+      "title": "Major crash on I-75 in Dallas leaves two cars overturned - FOX 4 News Dallas-Fort Worth",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T22:16:11Z",
+      "summary": "Major crash on I-75 in Dallas leaves two cars overturned&nbsp;&nbsp;FOX 4 News Dallas-Fort Worth",
       "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYzVRWlo1djhFcEU4dkQteEpCbTVmRlIzNzlwd3NoOGRUNnA3Z3gyWGx6SV9zNzBRaWVWbU5iMFEyR3lvQmt2NVlXZzRVV2FKQzNNSlFvV1JtWEh3Z3NoWkk3OWQ2ZnN1bU9tUXQ0djRYMUc1VThtdWxRMlhrdk4tUFBRa2dwQ2VwMzdlNV9hWHRTcm12WVNzNm1xVkNWUQ?oc=5"
-    },
-    {
-      "id": "news-disaster-77e3c98614",
-      "lat": 51.48872,
-      "lng": -0.0759,
-      "title": "City to begin construction of flood protection project at CU Boulder South",
-      "category": "DISASTER",
-      "time": "2026-08-31T22:18:45Z",
-      "summary": "City to begin construction of flood protection project at CU Boulder South&nbsp;&nbsp;University of Colorado Boulder",
-      "source_name": "University of Colorado Boulder",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHhzcmtQa3BxeUZEMFdGcmZFMm9INzlJNEpYRmpSX2kyblp4U2R1VG5EbkFfa1VqLWhxcXdtbS0zOWpYbmRVX3JtTmdBcEotamNlOF9KR2xiaGlKQmVGZkFnaUVpSHRUSzFqOFZlWU9qb0FwNGpXM0cxVjVlbXBjLUEzQy1iYTVLaW5jU2t1WV9kMzZ4bC1oVkg4Y0RHUFVEMjhiNThkNVJfTFE?oc=5"
-    },
-    {
-      "id": "news-disaster-bc2bb82c9e",
-      "lat": 38.96035,
-      "lng": -77.03182,
-      "title": "Two bodies found and search continues after Grand Canyon flash flooding",
-      "category": "DISASTER",
-      "time": "2026-08-31T22:05:30Z",
-      "summary": "Two bodies found and search continues after Grand Canyon flash flooding&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJwYmFWWGdRckdSNWtvUjNyR0xKNW1pcmZLRFh3d3pPWEowR0NaS0tVREJnVi12MnZsTkIxaW4tSkFKZ2puTGpPbFg4T3RUWW5jenBDQ3Rfcjdvb29hSkZhUEppMUw3RS1kVElRc1hGOFM5X09icjkwMjk3SlVMdWtKamZ3XzBOLThrZ1JtY0h0RDl0WE83WHdKRjhncWw5eHpwTg?oc=5"
-    },
-    {
-      "id": "news-disaster-edabf7896a",
-      "lat": 48.35772,
-      "lng": 5.48736,
-      "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
-      "category": "DISASTER",
-      "time": "2026-08-31T22:02:00Z",
-      "summary": "How intense rains in the Grand Canyon turned into a deadly disaster&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU52OWpLNVM1UEJuODlOYk0tVlk2ek1TMmU2VzJzZ3NVdnJDYmJURGlwWDU4LS1UOTJFcG1Oc29GMEhjOVZZdmxuSUxPenpWNlF0dGNSeTFBdmRVODUza1VnSlM0Ymt0QzRIeGx4b0xoMi1ZdDJBRzF3djktRm8weVpsUUpqSUxLY0dIeEw3M0NhN0NGeXZVYTJR?oc=5"
-    },
-    {
-      "id": "news-disaster-2676a8bb88",
-      "lat": 34.7445,
-      "lng": -86.56268,
-      "title": "Hikers describe flash flood in Grand Canyon that left 2 dead, 14 others missing",
-      "category": "DISASTER",
-      "time": "2026-08-31T22:01:00Z",
-      "summary": "Hikers describe flash flood in Grand Canyon that left 2 dead, 14 others missing&nbsp;&nbsp;KOCO",
-      "source_name": "KOCO",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0J1VjR0QkRyaDRsN0xzZ1Q0cUZEelJUT1JvSGgzWEo3NFdKZGxHZ1JMNTFabTBTenFaZmhpT25KTGFMVDcyS3dBSk0xaWxud3lyZ3BWbXFtUlB3WGRRdFRqWTdqc3dyWHlvRWk4LVpQb0EwMVlJQjRlcURmMDVMeUpDZWw?oc=5"
-    },
-    {
-      "id": "news-disaster-fa91c43894",
-      "lat": 32.83873,
-      "lng": 130.80081,
-      "title": "熊本地震で見た「ラストワンマイル問題」 支援物資あるのに届かない",
-      "category": "DISASTER",
-      "time": "2026-08-31T22:00:00Z",
-      "summary": "熊本地震で見た「ラストワンマイル問題」 支援物資あるのに届かない&nbsp;&nbsp;朝日新聞",
-      "source_name": "朝日新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrbGZzMDFmdTBZUjB1cHhSZzNuRnhtaEdSeFl3YlFocVF6clo1LWVCa1dEcXN3bWdBZ2lsTlYybnk4X3JoODc0MThkRmtvRkJwa0xPdUUwUWk3dTVsNlJsUUUtYkZzWTA?oc=5"
-    },
-    {
-      "id": "news-disaster-3b4622eea0",
-      "lat": -33.93722,
-      "lng": 18.79076,
-      "title": "September brings more flood warnings — and maybe some snow — to Colorado’s High Country",
-      "category": "DISASTER",
-      "time": "2026-08-31T21:58:50Z",
-      "summary": "September brings more flood warnings — and maybe some snow — to Colorado’s High Country&nbsp;&nbsp;SteamboatToday.com",
-      "source_name": "SteamboatToday.com",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONTBfQXFJTVpBVjdTRWQ0dTQ0bUp3UXJxYVMzR29ZZzV5RWVyX3lHa1pua3JNOF9ia1A2YXkxVkRhNm5DU3J1Wkl4V2d0d0tsb0ItSG5xcS13M01iX3pwYWc5X2twNFFaV1EtOTZSNzQ1Snh0SkxXMzhMMm1yT3pnbXMzZ2V4UWN1eEZJdl9EUU4zZw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMTd6MDBSaWcyb1hRaWhXY2lTQlloRWVaNnBUc3E0RkY4X1dDX29FbEhWT3ZYMHhGWHFyOEhic3BieUdEdjh5eUJMR2V1eDNQYi02cjh4Q0lKeEQzVkViZF9NZFNfaFdWeDVqRW5HQUIzRFo3bklTRmVKY0NJWEZsMFI3dHVRNnc?oc=5"
     },
     {
       "id": "news-accident-8db6d84304",
-      "lat": 42.99112,
-      "lng": -76.18966,
+      "lat": 42.97394,
+      "lng": -76.20544,
       "title": "Two emergency workers taken to hospital after crash in Onondaga on the way to separate accident",
       "category": "ACCIDENT",
       "time": "2026-08-31T22:07:59Z",
-      "summary": "Two emergency workers taken to hospital after crash in Onondaga on the way to separate accident&nbsp;&nbsp;localsyr.com",
-      "source_name": "localsyr.com",
+      "summary": "Two emergency workers taken to hospital after crash in Onondaga on the way to separate accident&nbsp;&nbsp;WSYR",
+      "source_name": "WSYR",
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMUloeFE2NWpNUVRMQVg0cDNLNHZtaDloU2ZhR2VNSTBDOW9kejE0aU1wT0VJVTN3NUlldWoxQXRzQWh0LVMzRzd5X0xJTnpEM1hxd0RLX0JyLTZDdWotNV9DbXpIREIwQ3pVVnUyUDhIVGNPMzU4bFhnc2o1anBSSWh0ejgzZm54cVZqUjdfWlk3ZGVvTTRPNGRJMzlhV3gtcVF5OFA3UklzVGpyV2JCOG5sVjlZV2d6WlNvT1RlM203b0wzelJzS2k4eHlOeDFsUk400gHYAUFVX3lxTFBMM1p6V052V3AyVXZfR25WQnBNM2JQM3JXdks1YTZxUld2X1pobUUyb2FtOXgxR2N5c082Q0t5NWlhVWw5Ulc2SHRVaHRVMk53ZWl0RTlnTVVsQTZmTERNbW80cDNoSTNXY1g2U19jY1YxeHlGM2VOTVRORld1NU1LOWtPT2pOYjkwMVVuc1pYWmtJdnRHWU9tN2RjVDlWanUxS0xIcmZqWW5XQWhCc00yZTV3YkNMMGt4Znp1bG1CT2RuUFJzX0V4TmFCWjNQdW9rZWMyUkpzSQ?oc=5"
     },
     {
+      "id": "news-accident-ceba5e447c",
+      "lat": 18.74103,
+      "lng": -72.46325,
+      "title": "West Fargo man injured in west central Minnesota motorcycle crash",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T21:57:01Z",
+      "summary": "West Fargo man injured in west central Minnesota motorcycle crash&nbsp;&nbsp;InForum",
+      "source_name": "InForum",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEduNXNRLUp3VDhfSzRibFFvZzhHTFdibEIzWHVqUXlheWw2aWJpbndDSVRiNzNZeWpQNmVHUXB5cm9wV2ROU1o3NzNMRDZ6dTF1VUlpaVRiRU5jTk40ZHJYbnE1bTM2ZzdmLVRWOHBhWHkzVEVmN0N2VGxaeHgzZG1TbDhzZjRDbWlkb2hDSV84VzA1bFpaX3BpLWtEdmpYOEJTZkxjR2k?oc=5"
+    },
+    {
       "id": "news-accident-0981dee40b",
-      "lat": 49.16402,
-      "lng": 8.12057,
+      "lat": 49.17792,
+      "lng": 8.10948,
       "title": "Fatal two-car crash closes Marksheffel Road south of East Gate Street",
       "category": "ACCIDENT",
       "time": "2026-08-31T21:34:21Z",
@@ -222,8 +244,8 @@
     },
     {
       "id": "news-accident-34614c75ac",
-      "lat": 59.52722,
-      "lng": 30.16951,
+      "lat": 59.48839,
+      "lng": 30.22143,
       "title": "Crash involving box truck shuts down I-70 in Howard County",
       "category": "ACCIDENT",
       "time": "2026-08-31T21:27:08Z",
@@ -233,8 +255,8 @@
     },
     {
       "id": "news-accident-4f4d126130",
-      "lat": 19.28205,
-      "lng": -99.16694,
+      "lat": 19.30941,
+      "lng": -99.17406,
       "title": "Car crashes through front of Wingstop store in Delaware",
       "category": "ACCIDENT",
       "time": "2026-08-31T21:21:40Z",
@@ -243,31 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRQnZ2WXRMVzNvR2prRGJCeG1qT2RoT0g3SUZoTUd1TER2OXZJRU1tLXFodERuWlhYUlVySW9JN3VZRjFydTZmMGIzT01pbG14czVVWlZfS0Rxc1hoR2VWbXhLd2l5ZnNHRjl1MGluN3FOS0dpNXl6YWR1d2Vxd9IBgwFBVV95cUxQWEFCU1B3NnlucjlMM0owc2p2TENlVXRYS01jQ19Hb1dhNVh5MUI5OU5QaWFtbUd5WXBYWWE4THlnMmtZem5XQkRmaUJvdmpiYVNycTl0aWZ0Q2hvRGlNREhaSmdENlppOW40bkhFSC1pN2V3M1hhTnQ1MUJtS3NMbE52QQ?oc=5"
     },
     {
-      "id": "news-accident-799037a631",
-      "lat": 33.62817,
-      "lng": 130.2618,
-      "title": "旅行中の家族など6人の命奪われる…新名神高速で多重追突事故を起こした元トラック運転手の女「前方を気にせず運転」",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T21:18:35Z",
-      "summary": "旅行中の家族など6人の命奪われる…新名神高速で多重追突事故を起こした元トラック運転手の女「前方を気にせず運転」&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDc3FrWUpMbkVKUmc4NmxhSXJ1QTRNRVcyQUF5QzNQa2ZSRl9LZmZsMGhBS1VEcFJWeEJOdTlfQkRIV2Zza21ZbDNsTjVBS1BUMjB5b2dBOTV1SThGWFJGRnhBcXJXSy1VX191azZnTTY5QlpHLVVycXBrSmFQck0?oc=5"
-    },
-    {
-      "id": "news-accident-fa7476a979",
-      "lat": 8.76441,
-      "lng": 13.72835,
-      "title": "One dead after auto pedestrian hit-and-run crash shut down North Main Street, Summerville",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T21:17:50Z",
-      "summary": "One dead after auto pedestrian hit-and-run crash shut down North Main Street, Summerville&nbsp;&nbsp;WCIV",
-      "source_name": "WCIV",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGRCNzlPdlJ0WXlMQU1PREpOcDc1b2d3X2ZpS0NDOXJMRW11U3h5MGpQUWxsUDZUZkYzYkRaU1Juek9EY2p5VHBMV1J4M243MmtsTEMzV2Nxbk9sUGtVR29hclo5eG5zbDdlLVBxa3JjU1Njekcwbjg3VHIzSl9ZVWViTmQ5S1haVjhHbVd0SFJuSHozM0g5QXl1WkVYOXRQQVhHemJaUVl3X3A1UWh1eS1rNDdudWZISmZfcGZOb1RiYW1UcWxlbzRHYw?oc=5"
+      "id": "news-disease-fb3f348f15",
+      "lat": 58.19686,
+      "lng": 7.96829,
+      "title": "Grim milestone as Ebola outbreak continues to grow",
+      "category": "DISEASE",
+      "time": "2026-08-31T22:39:56Z",
+      "summary": "Grim milestone as Ebola outbreak continues to grow&nbsp;&nbsp;The Nightly",
+      "source_name": "The Nightly",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbE5HNGNyb0E5OENEcnlTbVI3RGJ1eE9rMUg3dFMxdGM2TTROYUVHc25lVF9fYkN3ckVQVHZ3VlliZHN0QzQxN2RoZDB6Q3dSNGh1RENqT2FZMmt4XzNpR2VEdHlYTmZUUWtvLXh0Zk0xNlNwTWJkQWJCalcwc3RYUnVwc3NTZF9yTkNYdk1fU0phMmdNQ2FQXzdTbGRISjRoMzhuVG96WEhCdUo1dTZocjUwQ3JUbWpPQTFuR25STUxrVDJQTTVDMWwtcVJGdzhUZUh3djMzNjYtS2ZYejZDbGlORQ?oc=5"
     },
     {
       "id": "news-disease-093b143f51",
-      "lat": 48.39961,
-      "lng": 3.33117,
+      "lat": 48.37738,
+      "lng": 3.34672,
       "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
       "category": "DISEASE",
       "time": "2026-08-31T21:51:13Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-742b219ffc",
-      "lat": -8.3116,
-      "lng": 115.54605,
+      "lat": -8.38979,
+      "lng": 115.54328,
       "title": "住民のデータをもとに病気リスク解析 養老町と大学が共同研究",
       "category": "DISEASE",
       "time": "2026-08-31T21:26:00Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-6554c6aa9d",
-      "lat": -3.00007,
-      "lng": 23.78905,
+      "lat": -2.93405,
+      "lng": 23.76588,
       "title": "DR Congo Ebola Outbreak Nears 3,000 Deaths Amid School Safety Alarms",
       "category": "DISEASE",
       "time": "2026-08-31T20:41:25Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-08e7afe338",
-      "lat": 40.83096,
-      "lng": 22.87151,
+      "lat": 40.92394,
+      "lng": 22.90831,
       "title": "感染症に負けないカラダとココロ＝運動編　スクワットで免疫低下防ぐ｜四国新聞WEB朝刊",
       "category": "DISEASE",
       "time": "2026-08-31T19:03:14Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-17139c63bf",
-      "lat": 52.28952,
-      "lng": -0.02836,
+      "lat": 52.30763,
+      "lng": 0.03679,
       "title": "Over 6,000 Ebola cases confirmed in DRC as death toll nears 3,000",
       "category": "DISEASE",
       "time": "2026-08-31T16:38:04Z",
@@ -320,20 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjJ5ei03WHc5dmxhejdOcGh6ZEtIWnlDTWdvbmhqdV9kOWFmbWZ2aU1YdzN6Rm9RT19IcUNTc3N3X2RyanFZZWN0ZThwbjk2SXo0ZWJBSmdyRzRiblNjMEdNZTlvaG82WXBrNmlDM0Q0bzRjXzlhUmNhN25jYkJjclg3WTdWWmVtczMyenNNSFk1aUZFQXZqY0VDT216R0RGSmtIZ3ExONIBrAFBVV95cUxOOEpqT01LRHk0NFg1RldCUko1blhQYUNKNVRGSjdCLUhyazNGT0g3WFJSZUkyeEJBMnBrVkxzRjFOYTN0SDhqc1FfbUJYNS1KQkhCbE9RaGlnZjlRLUcwckd4d0NFQXhNY0R6QzZqS0RBMVhSWDJzUncxRndWOC0yV3VkS0tLT1lPbkRKdkJlMEdBQVR1OW91MFI5OFRwbTNSOUJoelpGR0gzUk9y?oc=5"
     },
     {
-      "id": "news-disease-643d653686",
-      "lat": -35.08288,
-      "lng": 117.89006,
-      "title": "アルバニー・インターナショナルのCFO、病気療養のため休職 執筆 - Investing.com",
-      "category": "DISEASE",
-      "time": "2026-08-31T13:04:00Z",
-      "summary": "アルバニー・インターナショナルのCFO、病気療養のため休職 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_name": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxRHhlbF96bnFfdXhSTHlqUEZUMER3R0ctdjk1VGJCcUg4MnZEUkx4Q3dnVGdQSk5nMl8ySG1WcFhHUjVRaU5oMVZFTDlVdWtHNjVSMF9ndFJJS0tDbjU3WHljS2FsSkhZVnZqaTF6Y3Y?oc=5"
+      "id": "news-technology-1c6d298d15",
+      "lat": 38.75734,
+      "lng": -105.63235,
+      "title": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T22:45:32Z",
+      "summary": "Colorado Unveils New Proposed Rules Implementing Revamped AI Act&nbsp;&nbsp;JD Supra",
+      "source_name": "JD Supra",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUw5MzkzZllIWkhNalFvZkhOSlJpMnlGUHR5eUJnakVsbmFLWkNMd3QwT2ctS0puUFJwLUVmT04ycmllekcwcTl2S192ak9Oc0RHeHVwSnZxYUhmRDBaOTQwcFJmV001RmZ0bmhwZWdNTUhNRHl0NGRvekdrTlNxUVFEb0c?oc=5"
     },
     {
       "id": "news-technology-b2724a208c",
-      "lat": 35.6088,
-      "lng": 139.37979,
+      "lat": 35.55901,
+      "lng": 139.31187,
       "title": "電機大手 データセンター関連企業の買収相次ぐ AI拡大で",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T22:25:36Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-574007c119",
-      "lat": 48.1069,
-      "lng": 11.70153,
+      "lat": 48.13951,
+      "lng": 11.73253,
       "title": "Broadcom Announces VMware AI Factory, Enabling Faster Time to Production AI and Greater Control Over AI Tokenomics",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T22:22:36Z",
@@ -353,9 +364,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUlyREV3SC0xNHAyZGhqUDJZblhqYkNuUW92NVBKY3Z5Q0l3aWQ1SFpNdndXSU11VGlFZ3Y4X2w1RXJta25UcFJaZTJGcXR3VVdUZTVYWGFKMXRBV0lGYnBHdWR4cUhsME5uTllvU0RCZENoYVNweUdLSmxscnBqZDB5alpUbjRuVEdJ?oc=5"
     },
     {
+      "id": "news-technology-790e4e8adc",
+      "lat": 49.04781,
+      "lng": 84.78262,
+      "title": "ティム・クック氏、Apple CEOとしての最後の日にメッセージ　「一生に一度の特権だった」",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T22:20:30Z",
+      "summary": "AppleのCEOティム・クック氏は任期最終日を迎え、社員向けメッセージとXへの投稿で15年間の感謝を表明した。9月1日付でジョン・ターナス氏が新CEOに就任し、クック氏は取締役会長（エグゼクティブチェアマン）として政策当局との関係維持などを担う。",
+      "source_name": "ITmedia",
+      "source_url": "https://www.itmedia.co.jp/news/article/2609/01/2000000996/"
+    },
+    {
       "id": "news-technology-21e42a1f24",
-      "lat": 35.68756,
-      "lng": 139.86509,
+      "lat": 35.76609,
+      "lng": 139.90746,
       "title": "【AI予測】JR中央線(快速)の10年後の中古マンション価格ランキング・トップ3！ 2位は神田駅、1位の駅は？",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T22:20:17Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-c26c9e2270",
-      "lat": 40.35671,
-      "lng": -3.73475,
+      "lat": 40.2957,
+      "lng": -3.71287,
       "title": "Inside HonorHealth's shift to AI-guided discharge planning - Becker's Hospital Review | Healthcare News & Analysis",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T22:19:37Z",
       "summary": "Inside HonorHealth's shift to AI-guided discharge planning - Becker's Hospital Review | Healthcare News & Analysis&nbsp;&nbsp;beckersoncology.com",
       "source_name": "beckersoncology.com",
       "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUV9BNmpOajhJMFNMOUhoNW5HYWhlMVg3S203Wm5HQkh6azZNUWlYVFVNMWM4SjVOQ20wRlZVTGl4aTdlVzV5OHlTcGJmSmVsSkEtZ0thbllYMGhEYUM4WHdNSHEyQW9WRFlEZXVTVWFfOHhnNF80UzBVQjlKd0w5VTIxNEJJaHNaRlZXVHA3REhFbVloSW1IMW5fWDZhWkpzckVyTlVaSnJTcl9rZEIxZjBOU2pmWEJjR0VNSFhHMHZHaHc?oc=5"
-    },
-    {
-      "id": "news-technology-4266f02572",
-      "lat": 6.05168,
-      "lng": -9.95109,
-      "title": "100X 2026: Where the Energy Transition Met the AI Revolution",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T22:14:34Z",
-      "summary": "100X 2026: Where the Energy Transition Met the AI Revolution&nbsp;&nbsp;Foley & Lardner LLP",
-      "source_name": "Foley & Lardner LLP",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdG9qMEtzY09USlZVWFpPa2lMT25nYk1HNmVGMjZUVXBMVmZVZ2Mydy1mWS1vVi1PXzZsNzhucWhUcFRfeWFndlExV0Q4dXFMZ3BvRS1xMEQ3QXIzNGNma3VmMTQwYlIyZ3Z0ZVdhV2l4bkJqeWxodmZ1b1RnTmQwcWM2X2E2Yml5eE96dzhqWUU5VUdnN1hxcHZuVkd0YnJRSDJTeHpVekF1b2pCYWNzZDRB?oc=5"
-    },
-    {
-      "id": "news-technology-df49ab5ca3",
-      "lat": 35.65157,
-      "lng": 139.73247,
-      "title": "エヌビディアも実は「22％割安」？ AI相場の陰に隠れた「お買い得テック株」12銘柄",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T22:10:00Z",
-      "summary": "エヌビディアも実は「22％割安」？ AI相場の陰に隠れた「お買い得テック株」12銘柄&nbsp;&nbsp;ビジネス+IT",
-      "source_name": "ビジネス+IT",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pbGxfc1VYLXFlUW1QNVV4ZjU3VXRFNG1fVk9jeWxqZjVLQWlwYlNsTnJwTFB2RkZRZ283U3VTOGgxSWFMMjZFQzFNb1BabU9jUnRB?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T22:33:40Z"
+  "updated_at": "2026-08-31T22:48:36Z"
 }
