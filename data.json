@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-65e360d179",
+      "lat": 52.22243,
+      "lng": 21.07102,
+      "title": "第11期「奈良政経アカデミー」第2回講座開催",
+      "category": "POLITICS",
+      "time": "2026-08-31T07:51:22Z",
+      "summary": "第11期「奈良政経アカデミー」第2回講座開催&nbsp;&nbsp;jimin.jp",
+      "source_name": "jimin.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yS1Z6VXZPVDU5NTNGN3l1T202MzhpbzRwQjdJT1lYOV91cjNIbTBiVmc0R05ndmNvYkZ0R1VVWDJ0REI0MHpSM2V6VTNxcThCQWNPNGMwT3hwanBKQmVWSzdPTXRHaHp3RnVoMm5UUQ?oc=5"
+    },
+    {
       "id": "news-politics-206d334eff",
-      "lat": 34.70143,
-      "lng": 135.36479,
+      "lat": 34.70398,
+      "lng": 135.3138,
       "title": "どうなる日本のリベラル？3党合流と「ゴリラ」の政策的立ち位置【産経×元朝日記者対談】（選挙ドットコム）",
       "category": "POLITICS",
       "time": "2026-08-31T07:41:45Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-dd13f19c44",
-      "lat": 37.38381,
-      "lng": 46.00508,
+      "lat": 37.37375,
+      "lng": 46.04312,
       "title": "IRGC Shoots Down US Drone over Strait of Hormuz",
       "category": "POLITICS",
       "time": "2026-08-31T07:36:42Z",
@@ -23,20 +34,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZW1JRkN0NmJsbEdINXpDWmZieVNURXUtVXNTcTJrczdqTURsUjVhRW5KSEhzSFlzSklVQ3liN01IYU1odVZ6UU16UnJZeFJ6WDREOFlKa0FaSmtVNWxpSVMyR0ctaGZLLTFBMVhsbG1zdmJ0V25FWXRva3NucUQtZ0dNTDVMa0t0ai1DV2loTGtlWVJxZmF0SmVkdEV1ZmdtMHfSAacBQVVfeXFMUHdKUWV3UXhpWTVNZTl2REZ1NFNzYi0yZDlFRmVGUGZhNlE1dm1nRVlZOHFJWmZ5MTQ2Q2pjNHZCbzRXR3BSWExoS3NkYlZlalpQcm1QNlJIZnZPRG9pblJ2ZUdWaEI5RXM0bXVrUkJqVUloQ1Z5R0pYOWFWOW1sQ0JjYklCMGRpcEFLQzA4a0VXZzhhYUlRaDJkRnRVeWhwenZYVm4yMUU?oc=5"
     },
     {
-      "id": "news-politics-4b491a3730",
-      "lat": 30.21108,
-      "lng": -92.40521,
-      "title": "Private property rights challenge rural Colorado communities | Rachel Gabel",
-      "category": "POLITICS",
-      "time": "2026-08-31T07:30:00Z",
-      "summary": "Private property rights challenge rural Colorado communities | Rachel Gabel&nbsp;&nbsp;Colorado Politics",
-      "source_name": "Colorado Politics",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeFBEZWlJbDY0NEpoVk9kb2xCZVpHSDYxbzFqSXZ4ektxUjl6azdrWFRzbl9MLUJzd0NpdUNFbkRZVGNzdkZOVnFkb2V6M08zNHRLei1uQ2FYSjVEdEtwVjdJdVBTOXlnU0laOUdBRTN1STM1QlQyejN4NGNCQUphOTFMdTIwa0tGMlJrRzBqVS02Nmd4MklTazhJdHVLZmdiRjN5d2RScFBuN0RqeWNhd3g4cEFQYnctOUE?oc=5"
-    },
-    {
       "id": "news-politics-53f579f15e",
-      "lat": 52.53699,
-      "lng": 13.41648,
+      "lat": 52.5656,
+      "lng": 13.44678,
       "title": "Foreign Ministry Warns of Consequences of US Aggression against Iran",
       "category": "POLITICS",
       "time": "2026-08-31T07:22:21Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-6c241bee5f",
-      "lat": 32.66882,
-      "lng": 54.58061,
+      "lat": 32.69632,
+      "lng": 54.57132,
       "title": "US and Iran trade strikes for first time in weeks",
       "category": "POLITICS",
       "time": "2026-08-31T07:04:36Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-c174a1e407",
-      "lat": 43.01782,
-      "lng": 141.38292,
+      "lat": 43.00213,
+      "lng": 141.3006,
       "title": "政治(全国・海外ニュース)写真｜977ページ目",
       "category": "POLITICS",
       "time": "2026-08-31T07:02:00Z",
@@ -67,20 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LcTRQYVhqLTVWOFZWSTFLX2JRRjkxYXNUVkpMbmFDREFVOC1TRzRELVg4N281VDg2M2Rqa3p2LTVqRW1YSkY2WWZyVVdOTC1vWlp6RTN1eDJVMEtWTThYLXNJS3dkdXUyRkt4MkxDNDdmbUpaV25oOFdR?oc=5"
     },
     {
-      "id": "news-finance-4315586e6b",
-      "lat": 54.06261,
-      "lng": 47.59455,
-      "title": "FX/為替「ドルクローナは9.60台を維持できるか＝スウェーデンクローナ」：マイナー通貨 2026年8月31日",
-      "category": "FINANCE",
-      "time": "2026-08-31T07:42:00Z",
-      "summary": "FX/為替「ドルクローナは9.60台を維持できるか＝スウェーデンクローナ」：マイナー通貨 2026年8月31日&nbsp;&nbsp;外為どっとコム",
-      "source_name": "外為どっとコム",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aUVhpak9lUC1vZWI3alNxc3BYaHI5eHZpZW9EeTJxcWdEWUFpVFFidlJHa3lVY2g4NW14eHFiT1ZHQXI4MGs2bHY3TG1HMmp1bkMtYW0zTkhwNmY3NVVEWWN1RQ?oc=5"
-    },
-    {
       "id": "news-finance-449282186f",
-      "lat": 54.05673,
-      "lng": 47.6661,
+      "lat": 54.15515,
+      "lng": 47.66819,
       "title": "FX/為替「ペソ円は9.40円挟み続く＝メキシコペソ」：マイナー通貨 2026年8月31日",
       "category": "FINANCE",
       "time": "2026-08-31T07:42:00Z",
@@ -89,9 +78,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Fb3FWR3Y3ck1ha242WllLWlJtejIzaU9QYlA4cTY0WFVtdUtGbmRtbWpBeDY0MjhQQ3ZsbTRzY291NWVOQnhQbW1TSHdpRE91WnFHd2ZFNTdBM1AyNEJZaEg5cw?oc=5"
     },
     {
+      "id": "news-finance-4315586e6b",
+      "lat": 54.14742,
+      "lng": 47.65224,
+      "title": "FX/為替「ドルクローナは9.60台を維持できるか＝スウェーデンクローナ」：マイナー通貨 2026年8月31日",
+      "category": "FINANCE",
+      "time": "2026-08-31T07:42:00Z",
+      "summary": "FX/為替「ドルクローナは9.60台を維持できるか＝スウェーデンクローナ」：マイナー通貨 2026年8月31日&nbsp;&nbsp;外為どっとコム",
+      "source_name": "外為どっとコム",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aUVhpak9lUC1vZWI3alNxc3BYaHI5eHZpZW9EeTJxcWdEWUFpVFFidlJHa3lVY2g4NW14eHFiT1ZHQXI4MGs2bHY3TG1HMmp1bkMtYW0zTkhwNmY3NVVEWWN1RQ?oc=5"
+    },
+    {
       "id": "news-finance-2e4a46f3ae",
-      "lat": 43.27516,
-      "lng": 76.94747,
+      "lat": 43.25442,
+      "lng": 76.93583,
       "title": "採れたて株価材料－ＳＷＣＣ 1株を5株に分割 基準日は9月30日(トレーダーズ・ウェブ)",
       "category": "FINANCE",
       "time": "2026-08-31T07:24:00Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-1a314f60c9",
-      "lat": 33.60693,
-      "lng": 130.33648,
+      "lat": 33.555,
+      "lng": 130.42479,
       "title": "株価が半年で「166％超」上昇…リクルートHDに買いが殺到している理由(トウシル)",
       "category": "FINANCE",
       "time": "2026-08-31T07:15:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-f5a6fbef2a",
-      "lat": 1.37686,
-      "lng": 127.56196,
+      "lat": 1.29773,
+      "lng": 127.57842,
       "title": "Goal Scoring Patterns That Influence the Most Common Football Betting Markets",
       "category": "FINANCE",
       "time": "2026-08-31T07:15:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-5c56072c7e",
-      "lat": 34.86758,
-      "lng": 137.41962,
+      "lat": 34.8983,
+      "lng": 137.48769,
       "title": "【アナリスト評価】オーエスジー、レーティング強気を継続、目標株価4,200円に引上げ（米系大手証券）(アイフィス株予報)",
       "category": "FINANCE",
       "time": "2026-08-31T07:10:00Z",
@@ -133,9 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmk0Nks1MjZneFRQTnpXN3J5aWRubjdFWmVtVDd3UVZSRTlHTTN0dTZEVF9KVWxOZ1VYNVZWcmdWM0ozUjV1TVJDbnJaYlREVURkTDNhNFZQNmVBNnpQdktTMDdTeVVVRm5mV2hBdmRvNmoyZlNLSmRWNnJrUjR1ZFRscWRxQ2s?oc=5"
     },
     {
+      "id": "news-disaster-8d9f0e33d7",
+      "lat": 48.42388,
+      "lng": 5.44639,
+      "title": "Grand Canyon Flash Flood Leaves One Dead, around 15 Missing - ASHARQ AL-AWSAT English",
+      "category": "DISASTER",
+      "time": "2026-08-31T07:43:29Z",
+      "summary": "Grand Canyon Flash Flood Leaves One Dead, around 15 Missing&nbsp;&nbsp;ASHARQ AL-AWSAT English",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1dOQTF2Vy0yT0ZuNG5tTmtyRnlpV2lBWUFHbTNlYmdqeW5Hb0szd3BGZzJwRGllU3pLMEZsNXF1aHM1M1JYd0JYR3ZxTEdfamdLSmMwNDZzYnBrMllnbU1taV9XeThqbGV0aTNqeUpUV2o0T01pX2JMbzVRUWwyTjNNT2VjTWM2QmlDZmtOV3BwYTFURTQ5bDBJZURnMVFZ?oc=5"
+    },
+    {
+      "id": "news-disaster-984ee1199d",
+      "lat": 28.36375,
+      "lng": 83.96444,
+      "title": "Nepal races to rescue trapped workers, as flood death toll surpasses 900",
+      "category": "DISASTER",
+      "time": "2026-08-31T07:41:15Z",
+      "summary": "Nepal races to rescue trapped workers, as flood death toll surpasses 900&nbsp;&nbsp;Al Jazeera",
+      "source_name": "Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1FwVjFhN3M2aHBYUDZTUGVLRlRsbU1aYnZ0VVI3LUhRWUEtQ1Zia0NXRGNiNWpHNk5GYzRaRmpZcllvZ1pIalR1NnNUc2JLRU0yUjZSUzFQOUdfajc0cVhrZm1HbmZsNmJQa1JiRUZpOHhuNFhZUWxNS0loSC14VkVFczdKREdFTEtYN0lxakJZUFBnbkNoRzREQTBERVR5Y1ZNa0pqM25temVDM2pNejd0ONIBuAFBVV95cUxNaUt0T241RzlRMTBtVktxbUNrVEtuczZMVk9RcmF0Y3pMNE1nXzhHS2VvV3FQc2JoV1UzXzZJbnlwejRNZVJaSXpaYy1NZzA5d1JuWmF3U1NWTEJwRXRUNDZuRnkxYWhBNmZwVXRJRE1BTW1RbGtDRE9qd3RKYTQteV82aUU3ekw2V0FLbWY0X1liUDZ0S1VGWm9FYWdlWW1ENk9yMV9GQlRCVnBhUnhKdTdVZTNZM3Zu?oc=5"
+    },
+    {
       "id": "news-disaster-4a2721b69a",
-      "lat": 37.34948,
-      "lng": -78.74901,
+      "lat": 37.24687,
+      "lng": -78.73569,
       "title": "Flood control authority accused of burying wildlife during drainage operation",
       "category": "DISASTER",
       "time": "2026-08-31T07:40:00Z",
@@ -144,20 +166,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0FfVlAzaFlXQTZEYWl5am9idHVSdHJWZUpRUWtYbDNCWVE3WndfZzRTR01UaW55VE1XVjcwOVJhMUNEc0piUVVaZzZjaXAxXzNpSlc1WVg5U3NPQ25CcDZXbWl4b2xnTlNSN0VyNE5kYTVUZVJHRmVmeDF1X3dJWS02VTRDWkZsaW9hLTFJdjViUVhlYjRIaHRXRzM5UFVyZ0tCY3BDUklCMFU0bmZDSWNEaDU0TW9UN09J?oc=5"
     },
     {
-      "id": "news-disaster-984ee1199d",
-      "lat": 28.31821,
-      "lng": 84.02205,
-      "title": "Nepal races to rescue trapped workers, as flood death toll surpasses 900",
-      "category": "DISASTER",
-      "time": "2026-08-31T07:34:43Z",
-      "summary": "Nepal races to rescue trapped workers, as flood death toll surpasses 900&nbsp;&nbsp;Al Jazeera",
-      "source_name": "Al Jazeera",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa1FwVjFhN3M2aHBYUDZTUGVLRlRsbU1aYnZ0VVI3LUhRWUEtQ1Zia0NXRGNiNWpHNk5GYzRaRmpZcllvZ1pIalR1NnNUc2JLRU0yUjZSUzFQOUdfajc0cVhrZm1HbmZsNmJQa1JiRUZpOHhuNFhZUWxNS0loSC14VkVFczdKREdFTEtYN0lxakJZUFBnbkNoRzREQTBERVR5Y1ZNa0pqM25temVDM2pNejd0ONIBuAFBVV95cUxNaUt0T241RzlRMTBtVktxbUNrVEtuczZMVk9RcmF0Y3pMNE1nXzhHS2VvV3FQc2JoV1UzXzZJbnlwejRNZVJaSXpaYy1NZzA5d1JuWmF3U1NWTEJwRXRUNDZuRnkxYWhBNmZwVXRJRE1BTW1RbGtDRE9qd3RKYTQteV82aUU3ekw2V0FLbWY0X1liUDZ0S1VGWm9FYWdlWW1ENk9yMV9GQlRCVnBhUnhKdTdVZTNZM3Zu?oc=5"
-    },
-    {
       "id": "news-disaster-90d5d26a63",
-      "lat": 38.90615,
-      "lng": -77.09168,
+      "lat": 38.90026,
+      "lng": -76.98275,
       "title": "One person dead, about 15 more may be missing after Grand Canyon flash flooding",
       "category": "DISASTER",
       "time": "2026-08-31T07:34:19Z",
@@ -167,8 +178,8 @@
     },
     {
       "id": "news-disaster-2fbce2c7cb",
-      "lat": 38.89738,
-      "lng": -77.00741,
+      "lat": 38.88704,
+      "lng": -76.99644,
       "title": "They went to Nepal for a spiritual journey. Then an epic flood arrived.",
       "category": "DISASTER",
       "time": "2026-08-31T07:32:22Z",
@@ -177,42 +188,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHh4V2VkYjlzVDlrcmZlLTFNaU1vVmpWQUxXa095LThpSEI0MkNZTU0xekJQNUs0MTlEcmlZMk9HdVJmM1dReGoyMHdEcDVfY3ZzSTlIUF90cUhYTkZRa2lpMERZTVo4SW4xeHNYdHR0T24xQUNFYzRNOEpYX1NweEtNZ0R5MVNqNUd4MUhDQW9iU0FrZlk4Snhqa21VMmdRanI4ckEtMGtWVHpwcXBjWU1vLXBCdG8?oc=5"
     },
     {
-      "id": "news-disaster-941a2a2171",
-      "lat": 34.66271,
-      "lng": 133.91029,
-      "title": "【台風情報】急カーブで西日本に接近のおそれも...台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み、今後の進路は？9月11日までの雨・風シミュレーションで確認【気象庁31日16時25分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送",
+      "id": "news-disaster-3962e24b57",
+      "lat": 34.38671,
+      "lng": 139.22687,
+      "title": "【台風情報】急カーブで西日本に接近のおそれも...台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み、今後の進路は?9月10日までの雨・風シミュレーションで確認【気象庁31日16時25分発表】（RSK山陽放送）",
       "category": "DISASTER",
-      "time": "2026-08-31T07:27:00Z",
-      "summary": "【台風情報】急カーブで西日本に接近のおそれも...台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み、今後の進路は？9月11日までの雨・風シミュレーションで確認【気象庁31日16時25分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qbGNVSjQycjZCSzVfRExHWXphQ3pfWElHcW95a1pMcjZyazFzamlRemRJWGJBUWVhT2p2RENnVEt4MTZBMUVyVkxOaXRZd2JHMEVzbmN6aXkxdw?oc=5"
+      "time": "2026-08-31T07:28:14Z",
+      "summary": "【台風情報】急カーブで西日本に接近のおそれも...台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み、今後の進路は?9月10日までの雨・風シミュレーションで確認【気象庁31日16時25分発表】（RSK山陽放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iclgzSzN5NUQzVld3TDVvYlBpY1lMY0NjdXUtczVTX3ZwN2h5QkZwN0l4alVRaVp1NDFpeEZQR0tBaDctREdZQndwM0ZpNWhjNTRjcHpFZnhpR1NYQlRiQWVMOHJacDduOWNObUswWjhVZmxXdzQ1NEdubTZhVTg?oc=5"
     },
     {
-      "id": "news-disaster-76f25c8f9c",
-      "lat": 34.33126,
-      "lng": 139.28101,
-      "title": "【台風情報】急カーブで西日本に接近のおそれも...台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み、今後の進路は？9月11日までの雨・風シミュレーションで確認【気象庁31日16時25分発表】",
-      "category": "DISASTER",
-      "time": "2026-08-31T07:27:00Z",
-      "summary": "【台風情報】急カーブで西日本に接近のおそれも...台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み、今後の進路は？9月11日までの雨・風シミュレーションで確認【気象庁31日16時25分発表】&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wd0VZS3BZaUdkQV9ZMWZPQVhEQjA2U2hYczhOMmthUkpRcjVlY0dyenhob1FUWkUwWHJ0MWVSeVFTOWZLcG5NUlJ6MjBKaWFFTndfM0ZSaVRjejRtWlBJMzIwY1U?oc=5"
-    },
-    {
-      "id": "news-accident-a5f7ec617f",
-      "lat": 34.13854,
-      "lng": -118.32422,
-      "title": "郡山市安積3丁目市道で乗用車と軽乗用車の衝突事故 1人搬送（2026年8月31日掲載）｜中テレNEWS NNN",
+      "id": "news-accident-7331b5b651",
+      "lat": 35.67922,
+      "lng": 139.76005,
+      "title": "「火から逃げることしか…」 女が語った“救助しなかった理由” 新名神“ながら運転”６人死亡事故（中京テレビＮＥＷＳ）",
       "category": "ACCIDENT",
-      "time": "2026-08-31T07:24:00Z",
-      "summary": "郡山市安積3丁目市道で乗用車と軽乗用車の衝突事故 1人搬送（2026年8月31日掲載）｜中テレNEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-      "source_name": "日テレNEWS NNN",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOS1sM3RUeWFpWm41MVEzUUt4bHMteHlaNmtkMWIyS1g3eGxzVjN5NC11XzI0VlQyQTFCVk5wX1NPUVBqZWh6ZlVkVTdtSU1JSE9TYUlVZnh2bVllUl9rUVN0VTZNQ0dUR2UxRmJWVnBNblYyOFdqaGxYdXpBczBhN1JkdjNWb1U?oc=5"
+      "time": "2026-08-31T07:30:00Z",
+      "summary": "「火から逃げることしか…」 女が語った“救助しなかった理由” 新名神“ながら運転”６人死亡事故（中京テレビＮＥＷＳ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oVUhrVGlleERPMi1nTTM5OGxBbTE3bnBUR1V0SS0tTkJIazhaYXNGRnFBZE03aVpNSGtpWFRJR1RpR2d4Wk1JY0k0aTFFTWI0UmlURXM0bE40T3lvV3hxcU1VU3ltT0ZvNVB2SEtGUzBTeDNHZU1STVJjRjg2aEk?oc=5"
     },
     {
       "id": "news-accident-c8ca571f02",
-      "lat": 35.59272,
-      "lng": 139.71862,
+      "lat": 35.59718,
+      "lng": 139.7375,
       "title": "「放送事故連発だろ」『24時間テレビ』“キツい内輪ノリ”がなぜか面白かった理由 カオスな生放送を救った有吉弘行の凄み",
       "category": "ACCIDENT",
       "time": "2026-08-31T07:06:16Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-ae9d7bd304",
-      "lat": 32.76464,
-      "lng": 130.79232,
+      "lat": 32.83582,
+      "lng": 130.70063,
       "title": "\"飲酒運転\"で自損事故の医師を停職6か月 約180人の担当患者に影響か 上天草総合病院 熊本（RKK熊本放送）",
       "category": "ACCIDENT",
       "time": "2026-08-31T06:58:14Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-64734e0374",
-      "lat": 32.78441,
-      "lng": 130.71402,
+      "lat": 32.75667,
+      "lng": 130.77702,
       "title": "\"飲酒運転\"で自損事故の医師を停職6か月 約180人の担当患者に影響か 上天草総合病院 熊本",
       "category": "ACCIDENT",
       "time": "2026-08-31T06:57:00Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-f45fad749e",
-      "lat": 37.90712,
-      "lng": 139.07394,
+      "lat": 37.9212,
+      "lng": 138.96453,
       "title": "［道路情報］北陸道上り線、事故で渋滞（8月31日）",
       "category": "ACCIDENT",
       "time": "2026-08-31T06:53:00Z",
@@ -254,20 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJLW5yRk5BWVAySjdSa1BwWW56d1F1UE5WU3F6YWJwakpGMEhfV3JPQVdqTUE4VGRoM1AxdHZwSU1tRWgxWFpFX0tQZkxYTXVQNUFnZTNXWEtUQkFSalE?oc=5"
     },
     {
-      "id": "news-accident-6fa2dd62cc",
-      "lat": 35.30263,
-      "lng": 139.59264,
-      "title": "【速報】奈良・水越トンネルで乗用車2台が正面衝突の事故 3人救急搬送され1人心肺停止、１人意識不明",
+      "id": "news-accident-4d58ff129a",
+      "lat": 6.54516,
+      "lng": -10.1379,
+      "title": "Six hurt in Saturday head-on collision in Clinton Township - - Williamsport Sun-Gazette",
       "category": "ACCIDENT",
-      "time": "2026-08-31T06:32:26Z",
-      "summary": "【速報】奈良・水越トンネルで乗用車2台が正面衝突の事故 3人救急搬送され1人心肺停止、１人意識不明&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lbXJxMktkSC1nTUQ3QnBaRHFmVXhpRFh0cnBDejBMcFJTWkd5T3VxSFJwR1dfSWRscmZHb0gzODVBT3R1V1NnNlI4Njk4Vzh6RnJvRWpISk1fdVhxZ1ExRVVpRzRfcTJ5YVBJZzZTMjcxa0JYY3czZGZkUXVBbjQ?oc=5"
+      "time": "2026-08-31T06:32:52Z",
+      "summary": "Six hurt in Saturday head-on collision in Clinton Township -&nbsp;&nbsp;Williamsport Sun-Gazette",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjY5aE04aTZvVmdSb25vOWFHWGFnVlliZ3FmNTZqNTZ1cE1Cc1JmQzBuZU0tOE5XNExjY2oyY1M1a20wV1JEUHFJOXYtUFZhRFBhN21BNmpNZ0h6Wk1fdmRCZnh1SWtMYkVjZm5WTmJDRzhEZmgyNERuQXVNWEdIc25qUDVzRE11cTVldFU5SjUwbXd4SzBFYW5DMHFrTzBk?oc=5"
     },
     {
       "id": "news-disease-8704942f7f",
-      "lat": 35.57755,
-      "lng": 139.60938,
+      "lat": 35.58522,
+      "lng": 139.62021,
       "title": "病気の自覚症状ない「沈黙の臓器」…肝臓を守るポイントは? 肝がん原因の脂肪肝、医師らが予防法伝授",
       "category": "DISEASE",
       "time": "2026-08-31T07:30:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-d8f405732d",
-      "lat": 14.53289,
-      "lng": 120.94414,
+      "lat": 14.45159,
+      "lng": 120.97932,
       "title": "『筋肉医局祭』で100名超の男女ドクターが肉体美を披露「医療は病気を治すもの、フィットネスは健康を保つもの」（VITUP!）",
       "category": "DISEASE",
       "time": "2026-08-31T06:48:22Z",
@@ -288,19 +288,19 @@
     },
     {
       "id": "news-disease-0f3e3087d7",
-      "lat": 35.66564,
-      "lng": 139.72881,
-      "title": "LGBTQ＋当事者が出演したことに意味がある 「性感染症の予防」看板が与える視点〈男の広告〉小林美香",
+      "lat": 51.51797,
+      "lng": -0.12771,
+      "title": "LGBTQ＋当事者が出演したことに意味がある 「性感染症の予防」看板が与える視点〈男の広告〉小林美香 - tokyo-np.co.jp",
       "category": "DISEASE",
       "time": "2026-08-31T06:00:00Z",
-      "summary": "LGBTQ＋当事者が出演したことに意味がある 「性感染症の予防」看板が与える視点〈男の広告〉小林美香&nbsp;&nbsp;東京新聞",
-      "source_name": "東京新聞",
+      "summary": "LGBTQ＋当事者が出演したことに意味がある 「性感染症の予防」看板が与える視点〈男の広告〉小林美香&nbsp;&nbsp;tokyo-np.co.jp",
+      "source_name": "Google News (日本語)",
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hdUV0LWtBY1o0ZHRtU293eTN6WjZaVzU2QlRyOFNnWXo2QTJnLUp6RENyNG5sV1dSYmRSeWxGQ1c4c2NpVXJRMS1zVUhUZnFfSXRJ?oc=5"
     },
     {
       "id": "news-disease-d8743f3f89",
-      "lat": 35.0307,
-      "lng": 135.77523,
+      "lat": 34.98431,
+      "lng": 135.82867,
       "title": "B型肝炎ウイルス（HBV）感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-31T05:30:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-a5005d47e1",
-      "lat": 43.11187,
-      "lng": 141.3171,
+      "lat": 43.01276,
+      "lng": 141.34124,
       "title": "タイ政府は、新型コロナウイルス感染症の影響で新年の祝賀行事が中止になったという偽ニュースを否定した。",
       "category": "DISEASE",
       "time": "2026-08-31T04:43:28Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-aa338c8395",
-      "lat": 35.70613,
-      "lng": 139.71237,
+      "lat": 35.65695,
+      "lng": 139.78944,
       "title": "【写真】女性に多い病気「膠原病・リウマチ」ってどんな病気？ 特徴や症状を知っておこう（竹内 勤） | ＋αオンライン | 講談社",
       "category": "DISEASE",
       "time": "2026-08-31T02:35:29Z",
@@ -331,9 +331,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pZlBKTjZ6U2ZmblQ1UUhFR29tQkFzVmJPVGtmMVZ6bEZTaDNrZzBiM1dUbEhMZnM0Nm10MG45NDJNVkVmNFNKRXJBZzh0SzNsZ3NnY1Z3?oc=5"
     },
     {
+      "id": "news-technology-190f4fbfad",
+      "lat": -7.6054,
+      "lng": -78.58959,
+      "title": "フィジカルAIが日立を変える FDEチーム創設、社長直轄組織で事業融合",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T08:00:00Z",
+      "summary": "フィジカルAIが日立を変える FDEチーム創設、社長直轄組織で事業融合&nbsp;&nbsp;日経ビジネス電子版",
+      "source_name": "日経ビジネス電子版",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pU3l2cGZ1azBBSnhuQkN4ajhES1Nvc080V0lrOFVJS0oxZkxET3ZRN3JhZnFsMmpmR0ZsLS1tZ0xDQ3lEVDJTV0o3MXR6YlQ4VVVDSERibVZsWTJEdmRzZHFicVJacUJ0SWd2SW1KWC1HcDkzbGh3NlBFQ3Q?oc=5"
+    },
+    {
+      "id": "news-technology-462a0d0c5c",
+      "lat": 14.76747,
+      "lng": 121.09925,
+      "title": "Healthwatch: Pediatrician urges caution when using AI for medical advice",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T07:58:00Z",
+      "summary": "Healthwatch: Pediatrician urges caution when using AI for medical advice&nbsp;&nbsp;WSLS",
+      "source_name": "WSLS",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWxXYmRnLUlyb3VsMnlMcXpBd21aaC1VOXFndHl3RFVyeG5iUmZnTXdDUEwteThYQjI4YlB5MFZUTTROblQtRVIySUZ3ZEczWWV2TFBJQ2llT2g1Y193NXFLVmkyUnVSc0xBcHJDclhIOUdTYVlZZ0ZZUHF0eUpzUnJsSklhNmhnVGQzODFoWjJoNXpXYlpEbTJMOXBHejR6bUFQNEQ3ZnByUkpMSVZQT3hlaVB3Zw?oc=5"
+    },
+    {
+      "id": "news-technology-94170f7441",
+      "lat": 7.37598,
+      "lng": 124.23311,
+      "title": "Making travel more human: Virgin Voyages on AI, hospitality and reimagining the passenger experience",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T07:50:25Z",
+      "summary": "Making travel more human: Virgin Voyages on AI, hospitality and reimagining the passenger experience&nbsp;&nbsp;Future Travel Experience",
+      "source_name": "Future Travel Experience",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWE5hVDJTdTZsZ1RpNWRoZWpHTng1SkRaV3JXdnI1VE51VHcyNngyUWViMm1UNVJqeWRUZDZJTTc5NVFyX1owak0ySjA3V3NTNWVaOTVCTy1MUnM2SWxKU3QybE1vTmIzS29fMkRYT3V2azItN05pdG9tcGhNMmZQOExLM2lxb3RQaTBDZ2YwOXRQSHFSSk5TRzIyUC1QblVrMWtVV3pIelRQYUtnN3RzVWRod3I2MDloMmljeHJZTmd5aTloN0h6dGVJMjNpaG1QbDZCQWMtNWx2UDZxT1M0?oc=5"
+    },
+    {
+      "id": "news-technology-88f5efcf2c",
+      "lat": 35.45511,
+      "lng": 139.34792,
+      "title": "リコー、フィジカルAI技術を開発--動画から人の動きを学習",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T07:50:00Z",
+      "summary": "リコー、フィジカルAI技術を開発--動画から人の動きを学習&nbsp;&nbsp;ZDNET Japan",
+      "source_name": "ZDNET Japan",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QeGJ1LVVSeC1OeUdyZHFDZ2hEU3ZEbk8xV29ndk5qelFMdW13eWdOdjNEN1k5dVN2R25EVFBVSmVPYWlGdGE1MkhvemlWbW5yNWlB?oc=5"
+    },
+    {
       "id": "news-technology-7bc0a219f2",
-      "lat": -8.14173,
-      "lng": -78.99551,
+      "lat": -8.14786,
+      "lng": -79.05061,
       "title": "Beyond the model race: AI coding start-ups start competing on judgment",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T07:41:30Z",
@@ -343,58 +387,14 @@
     },
     {
       "id": "news-technology-bb069fb8c2",
-      "lat": 6.99286,
-      "lng": 3.23688,
+      "lat": 6.96423,
+      "lng": 3.31189,
       "title": "日テレ アックスオン、AI映像アワード「WFAIA 2026」に協賛",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T07:36:52Z",
       "summary": "日テレ アックスオン、AI映像アワード「WFAIA 2026」に協賛&nbsp;&nbsp;PR TIMES",
       "source_name": "PR TIMES",
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jQUlwR1FiSUk5MXE4LWhIbHBvMkt1VkRnSjRmbVltOXJ1WVZTQ1dUN2N6UlpQa3d1OWM2ZXN2TjgwMVRON0tYY1hPNFl4Z0hvcEk0WE95OTdIZ25QNWxUSFVsRWl1SjVEQ0E?oc=5"
-    },
-    {
-      "id": "news-technology-1ba5ef1da3",
-      "lat": 46.43944,
-      "lng": 13.62213,
-      "title": "Stop Using AI. Start Commanding It",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T07:32:35Z",
-      "summary": "Stop Using AI. Start Commanding It&nbsp;&nbsp;War on the Rocks",
-      "source_name": "War on the Rocks",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JNlJrUjh1SGFjOGMtRFFCbFVrTXFpM0pFU2FsRjg0ejlGRWZ2TW9GYkVWRDktZ2Z3SDYzV19LV0VEUVdZR0hvY29ieHJkYTdhZ0xuWWpsdDBheVdSekNFWHRWR3AtRGFDcjVMUQ?oc=5"
-    },
-    {
-      "id": "news-technology-f5fe79dcfd",
-      "lat": 25.637,
-      "lng": 85.11053,
-      "title": "韓国商議所会長「韓日は市場拡大のパートナー」 AI連携など提案",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T07:26:41Z",
-      "summary": "韓国商議所会長「韓日は市場拡大のパートナー」 AI連携など提案&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMVXZjby01UzhfaVk3TGNQQmNKd2V2Z1Y3VzRFVUo4R0J6RDFWeTVTSUd1UEZVWnFvQjA0Qm5RM1dqNjNYWkZOVkVXRWxYUGhIOU1BZWdFOEs1X2VfeU1DZ0dlT2lRdThmUW1UVnpQamhIX1ExVTNWVm5jRnYyRzQ?oc=5"
-    },
-    {
-      "id": "news-technology-25138adb80",
-      "lat": -36.84781,
-      "lng": 174.68012,
-      "title": "Corgi hires former House committee counsel for federal AI policy push",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T07:25:18Z",
-      "summary": "Corgi hires former House committee counsel for federal AI policy push&nbsp;&nbsp;Insurance Business",
-      "source_name": "Insurance Business",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPekZaYl9DTllkOWEyd0VqWkFVbVVvbGNYaTE5cFAzcVROWEFjLUtDd3lIaGw5VHNoT1VSX3pZOFkxcFQ2ZFpEVkR4MDhVWGtzNXJrcTJVaTcwN0d6N1JGb0Z1X2NRUWZoOWIwank0NW54anVmQUtLaVg4ZHBxWElHdXVLaUxUZDBGRnMwZmpXbXFqRFRXT09FM2RLcEdZX0lHYnNFd2d3OEhmdllJZXZJQXAxbk1teENyb3hVNHdndERSZUFnOGdXTDBQVnVkREFRbUFN?oc=5"
-    },
-    {
-      "id": "news-technology-afbec74cca",
-      "lat": 34.04598,
-      "lng": 132.9559,
-      "title": "PM Takaichi Receives AI Tutoring From Team Mirai Leader Anno",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T07:24:08Z",
-      "summary": "PM Takaichi Receives AI Tutoring From Team Mirai Leader Anno&nbsp;&nbsp;JAPAN Forward",
-      "source_name": "JAPAN Forward",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNFcwWXN2LVVBSFNfUGNjcnFnam5IdWtycHRGUlhGZHRlRElBeTlmY3FsRkpKZ05DcEhJVTAyVjNYVG8wajFzbl9yeFR1blVMOEZmQWtBR3R5bkFTTnpVblRidTltZUVQcGxxRlJUaG4wVDI4bFg0ajFYQ3Z1VGtCenR3Q01zclE?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T07:48:40Z"
+  "updated_at": "2026-08-31T08:04:14Z"
 }
