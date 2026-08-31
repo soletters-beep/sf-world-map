@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-6c241bee5f",
+      "lat": 32.59829,
+      "lng": 54.53966,
+      "title": "US and Iran trade strikes for first time in weeks",
+      "category": "POLITICS",
+      "time": "2026-08-31T08:34:25Z",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-06962f7a76",
-      "lat": 48.34091,
-      "lng": 5.44217,
+      "lat": 48.37973,
+      "lng": 5.51517,
       "title": "One dead and several missing after 'terrifying' flash flooding hits Grand Canyon",
       "category": "POLITICS",
       "time": "2026-08-31T08:17:25Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-2027f9ae54",
-      "lat": 36.74183,
-      "lng": 3.093,
+      "lat": 36.73095,
+      "lng": 3.03078,
       "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
       "category": "POLITICS",
       "time": "2026-08-31T08:13:40Z",
@@ -23,20 +34,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-6c241bee5f",
-      "lat": 32.62544,
-      "lng": 54.50794,
-      "title": "US and Iran trade strikes for first time in weeks",
-      "category": "POLITICS",
-      "time": "2026-08-31T07:04:36Z",
-      "summary": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "id": "news-politics-b5813a1307",
-      "lat": 66.9712,
-      "lng": -50.74744,
+      "lat": 66.98945,
+      "lng": -50.76336,
       "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
       "category": "POLITICS",
       "time": "2026-08-31T03:56:15Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-9c19529ac9",
-      "lat": 28.40108,
-      "lng": 83.99667,
+      "lat": 28.32705,
+      "lng": 84.01797,
       "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
       "category": "POLITICS",
       "time": "2026-08-30T20:40:02Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-1c62773445",
-      "lat": 38.90389,
-      "lng": -77.03285,
+      "lat": 38.90591,
+      "lng": -76.99967,
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "category": "POLITICS",
       "time": "2026-08-30T18:53:53Z",
@@ -68,8 +68,8 @@
     },
     {
       "id": "news-finance-2a87053c52",
-      "lat": 61.07232,
-      "lng": -107.94895,
+      "lat": 61.07508,
+      "lng": -107.99534,
       "title": "How the US-Canada trade war is being felt on both sides of the border",
       "category": "FINANCE",
       "time": "2026-08-31T00:05:22Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-45261769e1",
-      "lat": 6.19609,
-      "lng": -10.49202,
+      "lat": 6.21325,
+      "lng": -10.40963,
       "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
       "category": "FINANCE",
       "time": "2026-08-30T23:22:24Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-4d02dd85f4",
-      "lat": 35.16338,
-      "lng": 129.11695,
+      "lat": 35.18273,
+      "lng": 129.08607,
       "title": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
       "category": "FINANCE",
       "time": "2026-08-30T17:16:18Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-c06ee050ab",
-      "lat": 39.66658,
-      "lng": -76.58499,
+      "lat": 39.72937,
+      "lng": -76.55854,
       "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
       "category": "FINANCE",
       "time": "2026-08-30T04:01:02Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-b1f1580d39",
-      "lat": 56.67609,
-      "lng": -2.95942,
+      "lat": 56.6358,
+      "lng": -2.97136,
       "title": "Fundraiser launched to secure crafting shop future",
       "category": "FINANCE",
       "time": "2026-08-29T18:15:54Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-6be86e06ef",
-      "lat": 37.20552,
-      "lng": -98.73854,
+      "lat": 37.25928,
+      "lng": -98.72411,
       "title": "Barber offers free back-to-school haircuts",
       "category": "FINANCE",
       "time": "2026-08-29T11:47:46Z",
@@ -134,8 +134,8 @@
     },
     {
       "id": "news-disaster-1c62773445",
-      "lat": 38.93513,
-      "lng": -76.98068,
+      "lat": 38.82898,
+      "lng": -77.0183,
       "title": "'A giant leap forward': Nasa launches powerful new space telescope",
       "category": "DISASTER",
       "time": "2026-08-30T18:53:53Z",
@@ -145,8 +145,8 @@
     },
     {
       "id": "news-disaster-e8b3efc021",
-      "lat": 7.44746,
-      "lng": -58.61881,
+      "lat": 7.39803,
+      "lng": -58.5498,
       "title": "Charity thanks inmates for work to save hedgehogs",
       "category": "DISASTER",
       "time": "2026-08-30T06:12:56Z",
@@ -156,8 +156,8 @@
     },
     {
       "id": "news-disaster-25ae1db2ce",
-      "lat": 45.38554,
-      "lng": -75.64689,
+      "lat": 45.40041,
+      "lng": -75.6325,
       "title": "Nature reserves spot rare species during heatwaves",
       "category": "DISASTER",
       "time": "2026-08-30T05:08:05Z",
@@ -167,8 +167,8 @@
     },
     {
       "id": "news-disaster-8add978dbe",
-      "lat": -24.75722,
-      "lng": 134.75498,
+      "lat": -24.79692,
+      "lng": 134.7403,
       "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
       "category": "DISASTER",
       "time": "2026-08-29T18:30:32Z",
@@ -178,8 +178,8 @@
     },
     {
       "id": "news-disaster-55feebaa9e",
-      "lat": 52.58573,
-      "lng": -1.23818,
+      "lat": 52.57874,
+      "lng": -1.24036,
       "title": "The race to stop England running out of water",
       "category": "DISASTER",
       "time": "2026-08-29T14:50:35Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-e383e200e2",
-      "lat": -0.85606,
-      "lng": -89.61254,
+      "lat": -0.88629,
+      "lng": -89.64018,
       "title": "Islanders asked to report sightings of rare eel",
       "category": "DISASTER",
       "time": "2026-08-29T11:04:45Z",
@@ -200,8 +200,8 @@
     },
     {
       "id": "news-accident-6d17add4d2",
-      "lat": 47.58886,
-      "lng": -122.34064,
+      "lat": 47.58167,
+      "lng": -122.3876,
       "title": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
       "category": "ACCIDENT",
       "time": "2026-08-08T11:55:50Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-b25a5802eb",
-      "lat": 32.82463,
-      "lng": 130.76993,
+      "lat": 32.81637,
+      "lng": 130.78865,
       "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
       "category": "ACCIDENT",
       "time": "2026-08-08T11:53:49Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-09d031b1eb",
-      "lat": -18.13562,
-      "lng": 178.97495,
+      "lat": -18.16679,
+      "lng": 178.96826,
       "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
       "category": "ACCIDENT",
       "time": "2026-08-08T11:29:37Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-a1a70bc5f2",
-      "lat": 33.26787,
-      "lng": 130.19178,
+      "lat": 33.3152,
+      "lng": 130.22261,
       "title": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
       "category": "ACCIDENT",
       "time": "2026-08-08T09:38:23Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-disease-620d3a552d",
-      "lat": 51.63804,
-      "lng": -3.19756,
+      "lat": 51.63468,
+      "lng": -3.17956,
       "title": "What are the symptoms of Hypermobility Spectrum Disorder?",
       "category": "DISEASE",
       "time": "2026-08-28T10:23:21Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-disease-c51c9dbe5f",
-      "lat": 50.39483,
-      "lng": 19.79442,
+      "lat": 50.40802,
+      "lng": 19.77058,
       "title": "NHS bosses warn of chaos in ADHD and autism care",
       "category": "DISEASE",
       "time": "2026-08-28T01:23:09Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-7937ad0be9",
-      "lat": 52.15994,
-      "lng": 4.56279,
+      "lat": 52.1969,
+      "lng": 4.54724,
       "title": "Does salmonella come from salmon?",
       "category": "DISEASE",
       "time": "2026-08-27T18:37:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-523fc8fc0c",
-      "lat": 39.32016,
-      "lng": 35.19884,
+      "lat": 39.29769,
+      "lng": 35.23374,
       "title": "'Take care of yourself now'",
       "category": "DISEASE",
       "time": "2026-08-27T16:17:08Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-cbdf533512",
-      "lat": 45.78714,
-      "lng": 10.17377,
+      "lat": 45.68233,
+      "lng": 10.16158,
       "title": "Salmonella outbreak: What we know so far",
       "category": "DISEASE",
       "time": "2026-08-27T11:02:19Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-099fd23daa",
-      "lat": 53.4571,
-      "lng": 41.76711,
+      "lat": 53.47177,
+      "lng": 41.84043,
       "title": "Vaping best way to quit smoking, new study finds",
       "category": "DISEASE",
       "time": "2026-08-27T10:00:33Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-technology-65f79b581f",
-      "lat": 35.67853,
-      "lng": 139.73076,
+      "lat": 35.62602,
+      "lng": 139.75757,
       "title": "個人開発のオンライン将棋「飛角」終了　「ほとんどがBOT対局、人同士が成立しない」状況に",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T08:05:57Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-technology-a0b123fc09",
-      "lat": 24.81726,
-      "lng": 121.04775,
+      "lat": 24.82378,
+      "lng": 121.04137,
       "title": "ソニーミュージックのVTuberプロジェクト「VEE」終了　5年で幕「事業継続困難」",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T07:27:33Z",
@@ -332,8 +332,8 @@
     },
     {
       "id": "news-technology-68857ac58a",
-      "lat": 42.35046,
-      "lng": -71.081,
+      "lat": 42.34966,
+      "lng": -71.07263,
       "title": "Googleマップ、「オンタリオ湖」→「アメリカ湖」に　米国内で表記変更　日本では併記",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T07:16:27Z",
@@ -343,8 +343,8 @@
     },
     {
       "id": "news-technology-5449432737",
-      "lat": 50.76641,
-      "lng": -1.96827,
+      "lat": 50.71065,
+      "lng": -1.91635,
       "title": "知りたくなかった……「プールに含まれるおしっこの量」の記事がアクセス1位に",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T06:42:22Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-af27f4a156",
-      "lat": 51.5649,
-      "lng": 20.77056,
+      "lat": 51.48577,
+      "lng": 20.83617,
       "title": "Grok、Aniと“お別れ”　3Dコンパニオン機能が終了　キャラは開発スタジオの新アプリ「Animates」で継続へ",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T05:30:51Z",
@@ -365,8 +365,8 @@
     },
     {
       "id": "news-technology-d0a404a551",
-      "lat": 34.79723,
-      "lng": 134.77377,
+      "lat": 34.79466,
+      "lng": 134.81941,
       "title": "DuckDB開発元のDuckLabs、AWSの子会社に　オープンソースのMITライセンスは維持",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T05:05:04Z",
@@ -415,5 +415,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T08:35:33Z"
+  "updated_at": "2026-08-31T08:50:06Z"
 }
