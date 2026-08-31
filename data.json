@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-ea9ee277b8",
-      "lat": 32.99985,
-      "lng": 57.05817,
+      "lat": 33.00122,
+      "lng": 56.95337,
       "title": "U.S. strikes Iranian rocket launchers on the Strait of Hormuz in first military action in weeks",
       "category": "POLITICS",
       "time": "2026-08-31T01:03:00Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "news-politics-243448e431",
-      "lat": 31.56505,
-      "lng": 130.55324,
+      "lat": 31.64415,
+      "lng": 130.57102,
       "title": "「弱者のための政治」掲げる50歳、元フェリー船員から鹿児島県議３期目――「開かれた議会」を目指す",
       "category": "POLITICS",
       "time": "2026-08-31T01:00:00Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-f1214e8b76",
-      "lat": 38.92632,
-      "lng": -77.0259,
+      "lat": 38.93202,
+      "lng": -77.01523,
       "title": "Trump says he will report NBC host to FCC for ‘rebuke or punishment’",
       "category": "POLITICS",
       "time": "2026-08-31T00:47:34Z",
@@ -34,20 +34,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmk1bDFUTmpSM2M2VnVwUXBBWHdRYllnaUdpUWdvZWcwVy1abmhGTWhLTWpXVEpIa3NNSENxX1BzbUN6WEg4czlfRkgyam5mVGg4UGR1cWtIbGxMcVk2SVNPZmNac0JoV1FQdmtNY0dRLU5CRVN3akY4YUs3bVEwb1hFZDdzWUxNczAxQnktNDBqa045UlhmSlhOMklJMkNEV2dpYnpfY3JielpPalVFQg?oc=5"
     },
     {
-      "id": "news-politics-d55ebf53d0",
-      "lat": 45.29053,
-      "lng": 5.42768,
-      "title": "Plan to cut number of polling sites in a major Texas county draws protests as Senate race looms",
-      "category": "POLITICS",
-      "time": "2026-08-31T00:46:24Z",
-      "summary": "Plan to cut number of polling sites in a major Texas county draws protests as Senate race looms&nbsp;&nbsp;News4JAX",
-      "source_name": "News4JAX",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa2oxd1Z0V2FxY0d5MVVmNF9SMTRiaklWVC1tcWFjRVNTX0JxOEdtRjZ5QXlJQTI4MV82U2ZnZEJhcUFkUWxuSWlTRFhfeUFMUnVoUl9ZRk1vVjd2N01oNUp1aVBDTE9udDY1OTF0MDhXSndPOXRxX1RtRGRIZUp5Qzh0b1lucl95S01xSjYwdFFJNGZPYjVXdHB5cTdmeE1Vc1VfbGpQdVdQdXdUenhDeXpURUxuRlJSZzB1cHpvN21rOUt4R3BvZGtpYzh3b0s4RDdkcUJkZG9aZ01fNXhN?oc=5"
-    },
-    {
       "id": "news-politics-cf738eb85b",
-      "lat": 40.67651,
-      "lng": -74.03496,
+      "lat": 40.74207,
+      "lng": -73.971,
       "title": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
       "category": "POLITICS",
       "time": "2026-08-31T00:21:26Z",
@@ -57,8 +46,8 @@
     },
     {
       "id": "news-politics-101b507621",
-      "lat": 50.72004,
-      "lng": 4.43704,
+      "lat": 50.7174,
+      "lng": 4.39246,
       "title": "Sonia Gandhi: What will Congress leader's memoir reveal about India's most powerful political family?",
       "category": "POLITICS",
       "time": "2026-08-31T00:16:14Z",
@@ -67,9 +56,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VeVlLOUh2Zy1NMkFLME9SZnpReWFSUjN1TU1CQ0V4dUVHYlBHRVlHNGgzcnl5NU8xcHJ6d3Q1Vk9pSXZaMWNobVlUQzluLUZrMHNiTllOZ1hPZw?oc=5"
     },
     {
+      "id": "news-politics-3b5a263566",
+      "lat": 5.61281,
+      "lng": 0.02507,
+      "title": "日本会議会長が高市政権テーマに八戸で講演｜行政・政治｜青森ニュース｜Web東奥",
+      "category": "POLITICS",
+      "time": "2026-08-31T00:00:00Z",
+      "summary": "日本会議会長が高市政権テーマに八戸で講演｜行政・政治｜青森ニュース｜Web東奥&nbsp;&nbsp;東奥日報社",
+      "source_name": "東奥日報社",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5ZkpoT2RvSDktamREZ3F2MUVqV0xoVmlRaUI1RTlXTXFNcjgxUmJFV2RNQlowcHVJNnhSTEJyTURYUGNiRXJpLWZZdldDY1hKcHU3N0hvMkU?oc=5"
+    },
+    {
+      "id": "news-finance-3da56b83be",
+      "lat": 34.32587,
+      "lng": 132.39146,
+      "title": "コマツ－SBIが目標株価引き上げ 通期計画の保守性と28.3期最高益更新に注目〔DZH 個別株情報〕(時事通信)",
+      "category": "FINANCE",
+      "time": "2026-08-31T01:42:00Z",
+      "summary": "コマツ－SBIが目標株価引き上げ 通期計画の保守性と28.3期最高益更新に注目〔DZH 個別株情報〕(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMTlNVTZIWmVCZ2dsYURtUVFFemI3a0ZvUHM5ZTRZVFRJTkxYODdjWHUtM1JwcG1IZVRuZElLZ25NaFhxZ1R3dV9yWTRsdkZIR0ZCUkJ4R3J0UHl6aWdub25yMXFDTms3dTdqYWFISWZobWtNOGpicUxPdW85eDhFMFFmaVgybjQ?oc=5"
+    },
+    {
+      "id": "news-finance-71b8bd666d",
+      "lat": 35.72446,
+      "lng": 139.82581,
+      "title": "東京為替：ドル・円は159円79銭まで下落(フィスコ)",
+      "category": "FINANCE",
+      "time": "2026-08-31T01:33:00Z",
+      "summary": "東京為替：ドル・円は159円79銭まで下落(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlp5Ulc2RFZzQnBMa2FTd1g4QnhyYVVDTEE1aFFISHNaaGVadzdwX3FRQzRiYmh1d0VISjNhdlR6N0xwQkR2a1gyODlVcVpQUDk0Z25QdW4xVHViN2JCUTd5dzFrbktheGtPVzlCRU9tdjNGOU5fRV9uNndKLW9iS1VTWC01M0k?oc=5"
+    },
+    {
+      "id": "news-finance-aed150c0c4",
+      "lat": 35.45023,
+      "lng": 139.60801,
+      "title": "三井化学－野村が目標株価を引き上げ B&GMやモビリティの予想を増額修正〔DZH 個別株情報〕(時事通信)",
+      "category": "FINANCE",
+      "time": "2026-08-31T01:33:00Z",
+      "summary": "三井化学－野村が目標株価を引き上げ B&amp;GMやモビリティの予想を増額修正〔DZH 個別株情報〕(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQblpsbWxWQ0h1TW00NU9XWlV5OC1ZUUpHc29DVUdxdHlZVnlxcUFmamMwZFZ3eFNpQ0Ixa1NuS1c1QTB4Q0Fqdk54UjBEcjRpb1RJY29SbncxOTB1MWN5MDlWQjNTZGJDbHczZzREZDNVeTlJYXVJdl9yZUVhVWI2d0syYnhuenM?oc=5"
+    },
+    {
       "id": "news-finance-3c4532e302",
-      "lat": 37.90892,
-      "lng": 139.04871,
+      "lat": 37.94243,
+      "lng": 139.00027,
       "title": "【金融機関特集】ＮＩＳＡで身近さ増す投資、県内証券会社の特色は？トップが語る「地域密着」",
       "category": "FINANCE",
       "time": "2026-08-31T01:30:00Z",
@@ -78,20 +111,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHWVhDdUZkb0RkTTlGODNmbVFBdHBzZU14cUVTQUNNbDJ4RmwyN2ZhRFN5YTVjQlJvTnQwbE9ITkxmRU5FN19TUG9aRWtOeTZqOVFlN1FpZUFXbkpJUEE?oc=5"
     },
     {
-      "id": "news-finance-833f129d38",
-      "lat": 36.04993,
-      "lng": 140.12776,
-      "title": "アステラス製薬－SMBC日興が目標株価引き上げ Primary Focus品の加速に期待〔DZH 個別株情報〕(時事通信)",
-      "category": "FINANCE",
-      "time": "2026-08-31T01:24:00Z",
-      "summary": "アステラス製薬－SMBC日興が目標株価引き上げ Primary Focus品の加速に期待〔DZH 個別株情報〕(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT1VrMWJoUnlBZDBRYmFEQ3NnSjNqN1ByNGtLZDEyTG5UZGZfMU5OTWd6ZDhldkIzeDMyb1ZUbzJETkpvaGZfSUd0ZmpkSWkzU0dXdnM1LUNDeGttbzI5UTlncUtXa1VpZzgxdDdmNEFaN2Ywc1NnSnM1T3hTZW9TOG01aWNrNFk?oc=5"
-    },
-    {
       "id": "news-finance-b92e111969",
-      "lat": 1.38122,
-      "lng": 103.87803,
+      "lat": 1.30215,
+      "lng": 103.85892,
       "title": "Morning Wrap | U.S. Markets Slide on Fed and Tech Woes; Singapore Manufacturing Prices Surge 35.5%",
       "category": "FINANCE",
       "time": "2026-08-31T01:19:43Z",
@@ -100,42 +122,75 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ21la1F0Mml2Qm9vc09QYk5SSHduOGNOblZSa1dOZjB2U25XeUdFb2xRWHQ5Ry03NlEyekZXcFc3SlZ5MnhlTHcxQy0tWnQ1ekVNakVGcEh4UGI5VXZaQUc2NExjY3oxVkN4bnVTbWhsa2Z4MlViUTg4WXRVRXowc0FSU3J3WUdvN2hjaWtwTmNjQ0JwZnhTV29mS1lmaHZJN2c?oc=5"
     },
     {
-      "id": "news-finance-3a48a1f98a",
-      "lat": 32.8481,
-      "lng": 130.74415,
-      "title": "【速報】日経平均株価 一時1500円超値下がり 米国の利上げ観測高まり影響",
+      "id": "news-finance-6fda7e6dd8",
+      "lat": 35.65685,
+      "lng": 139.75233,
+      "title": "東京為替：ドル・円は冴えない展開が続く",
       "category": "FINANCE",
-      "time": "2026-08-31T01:13:35Z",
-      "summary": "【速報】日経平均株価 一時1500円超値下がり 米国の利上げ観測高まり影響&nbsp;&nbsp;KAB 熊本朝日放送",
-      "source_name": "KAB 熊本朝日放送",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFRTR4NkxKU3hIZjl5aFNiZXdxeDlOVjl0Q3F1QkJXcjZtMHNhTl90N2dCOVdmdnpCZmp1UkpUc1lxUjV1RVh3SmtMelQ2OGpFalpJdDZB?oc=5"
+      "time": "2026-08-31T01:10:07Z",
+      "summary": "東京為替：ドル・円は冴えない展開が続く&nbsp;&nbsp;株探",
+      "source_name": "株探",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GSGRBb3owQnp3Q0RfYkJwRFhHUzU3QjZ5ZXNxRDRrVEZmTUpnUUg1Z0dKcUR1VmJrU2RFR0JYMnBuQ2RmNk0xRWxBdk5xaUZXNmc?oc=5"
     },
     {
-      "id": "news-finance-849f499168",
-      "lat": 42.32415,
-      "lng": -71.12516,
-      "title": "Google Cloud、金融・法務に特化した「Gemini Enterprise」2製品をプレビュー提供 50以上の金融スキルや法務MCP連携",
-      "category": "FINANCE",
-      "time": "2026-08-31T01:06:03Z",
-      "summary": "Google Cloud、金融・法務に特化した「Gemini Enterprise」2製品をプレビュー提供 50以上の金融スキルや法務MCP連携&nbsp;&nbsp;Ledge.ai",
-      "source_name": "Ledge.ai",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12QkpCaUZpbThpWWZxNDl4cVljNHhIbnRpTFdfeUhreUxmYXlLckJQakZVSnc0LUtpYXpnT2VYaEhsNm9adFZvcmNHT3ZtUWFNX3pHaU1WWWlfZlhYdkZDamVtczhKalcyQ2dWbnQ1LVpWN2N0ODhNc0pHcEQ?oc=5"
+      "id": "news-disaster-24d0082568",
+      "lat": 33.69883,
+      "lng": 130.42917,
+      "title": "【台風情報】台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み...西日本に接近のおそれも、今後の進路は?9月10日までの雨・風シミュレーションで確認【気象庁31日10時30分発表】（RSK山陽放送）",
+      "category": "DISASTER",
+      "time": "2026-08-31T01:40:26Z",
+      "summary": "【台風情報】台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み...西日本に接近のおそれも、今後の進路は?9月10日までの雨・風シミュレーションで確認【気象庁31日10時30分発表】（RSK山陽放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MZ1dVVDFpbzdHei10Ui13R2V2cGtPQ3dEa1FjeEZEd3BmUTZDVUJmbndiWVVYOTIyYVNIQjBhWnlQeUJOLTJXaFZhbFppb0hzNXBvT1hoaHYwWWI4QS0xNlVFMzREVVhEeUY0UVBrNE05TFd3LVBfVGo5UnhZbjQ?oc=5"
     },
     {
-      "id": "news-finance-6ff30e72af",
-      "lat": 34.02974,
-      "lng": 131.36629,
-      "title": "ファーストリテイリング株価、一進一退 「ユニクロが旗艦店倍増」報道",
-      "category": "FINANCE",
-      "time": "2026-08-31T01:01:57Z",
-      "summary": "ファーストリテイリング株価、一進一退 「ユニクロが旗艦店倍増」報道&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tOEg1M3JmZ2NLdHdPNXk3bVpXcVFCd0FqMGhKWkFxakVDQkloZkZETmlZMUhJZHpuTUZ1M0ZIMTIzRFllZEJyTTIxSnRocGpHa1U1TDg3RDdTWEhlRHRsUmpzMGpvT3dUdzdnaQ?oc=5"
+      "id": "news-disaster-52e71c5673",
+      "lat": 34.66341,
+      "lng": 133.89674,
+      "title": "【台風情報】台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み...西日本に接近のおそれも、今後の進路は？9月10日までの雨・風シミュレーションで確認【気象庁31日10時30分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)",
+      "category": "DISASTER",
+      "time": "2026-08-31T01:40:00Z",
+      "summary": "【台風情報】台風のたまご「熱帯低気圧b」発生...24時間以内に台風へ発達見込み...西日本に接近のおそれも、今後の進路は？9月10日までの雨・風シミュレーションで確認【気象庁31日10時30分発表】 | 岡山・香川のニュース | 天気 | RSK山陽放送 (1ページ)&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLeXFNUGdIQmszTVNjNFM2UEpCdkxTUFlLcnlnLWRjRVZXMDZPZzhfNWpwNW1qZW4xb1RMTXhYVVUxT3ZZaDNYUTJjdW10LUpfWGo3YlZVZ3JWV3RiaEtpa1hHdDQ5VDQ?oc=5"
+    },
+    {
+      "id": "news-disaster-651b93a555",
+      "lat": 35.25696,
+      "lng": 137.00694,
+      "title": "「情報はあるのに動けない」災害時の焦りを解消。 次にとるべき行動を案内する地域防災プラットフォーム「防災サプリ」デモ版を8月31日公開",
+      "category": "DISASTER",
+      "time": "2026-08-31T01:39:00Z",
+      "summary": "「情報はあるのに動けない」災害時の焦りを解消。 次にとるべき行動を案内する地域防災プラットフォーム「防災サプリ」デモ版を8月31日公開&nbsp;&nbsp;アットプレス",
+      "source_name": "アットプレス",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oM2dneG53R0I5Q2lVNWROaGctTWNLVUFYeGt3eEtSZlN2R0VtOGZ5QTBHYXh0V1J5VWtfOWZUTHc4S0tyX3RXM0M0bDlWQ1U?oc=5"
+    },
+    {
+      "id": "news-disaster-21d7bf08f4",
+      "lat": 46.21035,
+      "lng": -1.10376,
+      "title": "Flash flood in Grand Canyon National Park leaves about 15 missing",
+      "category": "DISASTER",
+      "time": "2026-08-31T01:38:50Z",
+      "summary": "Flash flood in Grand Canyon National Park leaves about 15 missing&nbsp;&nbsp;France 24",
+      "source_name": "France 24",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdFZJREktQ05wVGlhMnN5aG9aV0tPTjI4dE8wRE10SGs3SlZFek9ob21uYmZmTDlzYnhlYzFORUtoWDlMUUh0djdFWmZkaFIwUk82MnlfYm9USmdKMVFxY1IxNC1tNG5JcTBIcDdpS3RTN3I2SmxLNFoyLTNSWWg1Sm0ya3pUbDZnSzA4N2VLaDJjM0JSNlVZ?oc=5"
+    },
+    {
+      "id": "news-disaster-90d5d26a63",
+      "lat": 38.85794,
+      "lng": -76.98101,
+      "title": "15 people may be missing after Grand Canyon flash flooding",
+      "category": "DISASTER",
+      "time": "2026-08-31T01:34:19Z",
+      "summary": "15 people may be missing after Grand Canyon flash flooding&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5"
     },
     {
       "id": "news-disaster-2fbce2c7cb",
-      "lat": 38.89178,
-      "lng": -77.07741,
+      "lat": 38.88622,
+      "lng": -77.07657,
       "title": "They went to Nepal for a spiritual journey. Then an epic flood arrived.",
       "category": "DISASTER",
       "time": "2026-08-31T01:32:22Z",
@@ -144,64 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHh4V2VkYjlzVDlrcmZlLTFNaU1vVmpWQUxXa095LThpSEI0MkNZTU0xekJQNUs0MTlEcmlZMk9HdVJmM1dReGoyMHdEcDVfY3ZzSTlIUF90cUhYTkZRa2lpMERZTVo4SW4xeHNYdHR0T24xQUNFYzRNOEpYX1NweEtNZ0R5MVNqNUd4MUhDQW9iU0FrZlk4Snhqa21VMmdRanI4ckEtMGtWVHpwcXBjWU1vLXBCdG8?oc=5"
     },
     {
-      "id": "news-disaster-196538361b",
-      "lat": 48.33975,
-      "lng": 5.44971,
-      "title": "Grand Canyon flash flood forces evacuation for 60; about 15 unaccounted for - Las Vegas Review-Journal",
-      "category": "DISASTER",
-      "time": "2026-08-31T01:18:41Z",
-      "summary": "Grand Canyon flash flood forces evacuation for 60; about 15 unaccounted for&nbsp;&nbsp;Las Vegas Review-Journal",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQeDE3OTRsNk1zSlZRdXEyMmk4UGZQS3dzY3htNGR5WG1vUzVqZFhPZVhCdE5Zd1RqRzVya1ptTHl6MzAxUGtNM3FkY3dFbENwU1IzOTgxMVdSemtVaEJndVZpbkRUUEJ6VDlFTG5OLURmM1ZRNXFlWXJiRnE3S3p4MGhoblRjTUhXeEtCR0ltY2c3ZzdyNVZUV20xN0ZHUXhQR25PQ2J3WDRxZWpUb0wxLUJ0VWRVYndHOE4zZHZRbWpoa1ktY2Z1UmNlb3JndS1sblNpazJ3a2JFUGt2MmJwNlRxbUl6NzhTX2Y0M3ZpOGVVU0pUNmctM1FCYnlEUjVpWUF5NHZqYWNxdzdJV1FWWENWaE1hS2JkZ3hocDNTX1N5emFTVU5ld1psaGw5TDFPUzZIQ2ljUjktb3l4R3FaUzctVlNLVXNfSkVqYVZHTm9hTGNQR24xTVkxR2RXTkttZzZ2VVNKdDRHakpKQmtoRFMwNlptSjY4M3I1ZU1XM1IyanktY2YyZHlXOURBcFJuWGozMUxWVERSNWdJTkV1UHB2djJ3V3M?oc=5"
-    },
-    {
-      "id": "news-disaster-5479051d92",
-      "lat": 41.2663,
-      "lng": -95.9656,
-      "title": "\"The flood was catastrophic\": Omaha cricket club pushes aid for loved ones in Nepal",
-      "category": "DISASTER",
-      "time": "2026-08-31T01:18:00Z",
-      "summary": "\"The flood was catastrophic\": Omaha cricket club pushes aid for loved ones in Nepal&nbsp;&nbsp;KETV",
-      "source_name": "KETV",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckRRTVdjdWdpWFIwei1fUHhKVzYtM1V3U0F5V3pPU0xyMDdnWk1rR1duTndrNHVBa05BRkJ5ak04WlJkdjF0OUFSZUtpMm1wWDVpOU5OZDR4ZTF1SjJHN282dXRwelk0WFd5Vms5Ykl1c0JOODVXRUlpcHFkeHFHbHR0dExBb0JISzhJbHkwdUdVLVhBeWc?oc=5"
-    },
-    {
-      "id": "news-disaster-1df5429753",
-      "lat": 37.87729,
-      "lng": 139.08233,
-      "title": "【熊本地震1カ月】子どもにストレス発散の場を…新潟県立大の植木信一教授が被災地で支援ニーズ調査",
-      "category": "DISASTER",
-      "time": "2026-08-31T01:15:00Z",
-      "summary": "【熊本地震1カ月】子どもにストレス発散の場を…新潟県立大の植木信一教授が被災地で支援ニーズ調査&nbsp;&nbsp;新潟日報",
+      "id": "news-accident-e12d4b7c54",
+      "lat": 37.87463,
+      "lng": 139.06544,
+      "title": "［磐越道バス事故］北越高校の「現場任せ」体質に苦言、北陸信越運輸局の田中賢二・新局長が就任会見",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T01:45:00Z",
+      "summary": "［磐越道バス事故］北越高校の「現場任せ」体質に苦言、北陸信越運輸局の田中賢二・新局長が就任会見&nbsp;&nbsp;新潟日報",
       "source_name": "新潟日報",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12cENobVVZekh5bWJ4cjZzbnEyZ2pFSm9kRDhNbm9lRFpzeHBLRnBmUGdHZkxpVWlDaEZHZlc0YS1BdWhaRjd5UzZNSU1YRWdWZTVTR2ttZ2RnRXhCX2c?oc=5"
-    },
-    {
-      "id": "news-disaster-8dc80f6ab6",
-      "lat": 32.78057,
-      "lng": 130.68938,
-      "title": "〈ルポ〉 度重なる災害に立ち向かう熊本を訪ねて",
-      "category": "DISASTER",
-      "time": "2026-08-31T01:11:15Z",
-      "summary": "〈ルポ〉 度重なる災害に立ち向かう熊本を訪ねて&nbsp;&nbsp;seikyoonline.com",
-      "source_name": "seikyoonline.com",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xSEJpNldHbTJ2YUh4dHF2VENTWl9qRktMbnNsRTV4bnFELWhJM3RJTGZQVmRqb1UzLXBPczFqM0kwUUZva1VfcG9fNEJMOWd3MlpDZDdHSEwwMUc0NVg2cGtZbkQyWnRkdThYa1BpX0lmQm1STGFMUQ?oc=5"
-    },
-    {
-      "id": "news-disaster-459db9fbbc",
-      "lat": 32.81793,
-      "lng": 130.73922,
-      "title": "熊本地震から1カ月 首都直下地震の備え、防災体験施設で学ぶ 発災72時間をどう生きる？（TOKYO MX）",
-      "category": "DISASTER",
-      "time": "2026-08-31T01:10:09Z",
-      "summary": "熊本地震から1カ月 首都直下地震の備え、防災体験施設で学ぶ 発災72時間をどう生きる？（TOKYO MX）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zdHh5R1VYSjdyT2ptSnQ1ODFhTkxGQnJ6N0tDQk9hNnpBZTRGY2pLZG5RTWVubUhhNmlLMDVpOE1QMGRHVkp0VUpKVi1XSTg3dm93Zml5dC1vY2RhV3pCRC1tSDFnRHRtcktMOW1aamxsUWN2NktSaVFZM1UyQzg?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TYmYzVDRhWGRoc0hQemVlckVYX0ZUNUtwZjk1MmVLSkN3XzJQcGgydy04SlFkQzU1NWRKRG5MOGp0aDlNaGVIQlpTN0FlZVNMWThwR3k4eHdudmxYT3c?oc=5"
     },
     {
       "id": "news-accident-6ba49088ee",
-      "lat": 35.05721,
-      "lng": 135.82646,
+      "lat": 34.97978,
+      "lng": 135.7801,
       "title": "【速報】「京都トヨタ」にトラックが突っ込む事故 運転していた男性がけがをして搬送 事故の前にほかの店舗にも接触か 京都・舞鶴市（2026年8月30日掲載）｜YTV NEWS NNN",
       "category": "ACCIDENT",
       "time": "2026-08-31T01:19:00Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-127c64a09b",
-      "lat": 35.06012,
-      "lng": 135.75333,
+      "lat": 35.04291,
+      "lng": 135.73846,
       "title": "【速報】「京都トヨタ」にトラックが突っ込む事故 運転していた男性がけがをして搬送 事故の前にほかの店舗にも接触か 京都・舞鶴市",
       "category": "ACCIDENT",
       "time": "2026-08-31T01:19:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-4aeabae58e",
-      "lat": 11.52982,
-      "lng": 104.91867,
+      "lat": 11.56629,
+      "lng": 104.89474,
       "title": "ヘルメットや反射材着用を 野球試合で交通事故防止啓発 茨城県警",
       "category": "ACCIDENT",
       "time": "2026-08-31T01:04:47Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-1ddf0a4430",
-      "lat": -8.38284,
-      "lng": 115.61053,
+      "lat": -8.3496,
+      "lng": 115.59911,
       "title": "【9月1日から】生活道路の法定速度が「30キロ」に引き下げ 生活道路の事故は死傷者が幹線道路の1.8倍…警察庁データ（山形）",
       "category": "ACCIDENT",
       "time": "2026-08-31T00:47:12Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-189aeb3b02",
-      "lat": -8.318,
-      "lng": 115.53428,
+      "lat": -8.34536,
+      "lng": 115.53607,
       "title": "【9月1日から】生活道路の法定速度が「30キロ」に引き下げ 生活道路の事故は死傷者が幹線道路の1.8倍…警察庁データ（山形）",
       "category": "ACCIDENT",
       "time": "2026-08-31T00:46:00Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kRHdiaTAxZlJOT1VkcVRxRl9KcDJsRm0wRkR6MUQxQ3lmRzhyVTd0X09EMy1HZkNWOHVlQUZrUHNHQ0RNZzlDMmFiaEtrUDdsVWR1QXdpV3FBdw?oc=5"
     },
     {
-      "id": "news-accident-c855a152ed",
-      "lat": 37.95287,
-      "lng": 139.05602,
-      "title": "［道路情報］新潟バイパス女池IC－桜木IC、事故で通行規制中（8月31日）",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T00:35:00Z",
-      "summary": "［道路情報］新潟バイパス女池IC－桜木IC、事故で通行規制中（8月31日）&nbsp;&nbsp;47NEWS",
-      "source_name": "47NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTNE1ZMFZPcUR6dDF6SllfODJoY3JIZkEycnkyRmVySlhUbk1abEZHQzBjMHJOLXhRU2diR29YWlhvRmduUENkTVBhcw?oc=5"
-    },
-    {
       "id": "news-disease-83fe0d827d",
-      "lat": 35.49382,
-      "lng": 139.62157,
+      "lat": 35.51952,
+      "lng": 139.68038,
       "title": "生島ヒロシさん、鈴鹿で講演 「敵は病気とスキャンダル」 ユーモアあふれ 三重（伊勢新聞）",
       "category": "DISEASE",
       "time": "2026-08-30T23:03:50Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-8bb489d7f7",
-      "lat": 34.85457,
-      "lng": 135.14124,
+      "lat": 34.94936,
+      "lng": 135.12962,
       "title": "魚中心の食生活に管理栄養士が“注意”病気のリスクも… さんま「週2回」「僕はそれ守ってます」",
       "category": "DISEASE",
       "time": "2026-08-30T22:15:00Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-368a151612",
-      "lat": 35.53135,
-      "lng": 139.50921,
+      "lat": 35.52121,
+      "lng": 139.50807,
       "title": "インフルエンザ様疾患による学級閉鎖等の報告状況（2026/2027シーズン）",
       "category": "DISEASE",
       "time": "2026-08-30T15:07:48Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-f0b1b307b9",
-      "lat": 10.76836,
-      "lng": 106.75241,
+      "lat": 10.72832,
+      "lng": 106.75782,
       "title": "ホーチミン市：新型コロナウイルス感染症で孤児となった50人の子どもたちが、建国記念日を前に心温まる贈り物を受け取った。",
       "category": "DISEASE",
       "time": "2026-08-30T10:13:52Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-3358e79247",
-      "lat": 27.78136,
-      "lng": 91.71492,
+      "lat": 27.78334,
+      "lng": 91.71904,
       "title": "森本慎太郎も号泣 FANTASTICSが亡きメンバーへの思い語る「今日また強くなれた」（東スポWEB）",
       "category": "DISEASE",
       "time": "2026-08-30T07:25:22Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-facc4d9c03",
-      "lat": 10.03204,
-      "lng": 106.27627,
+      "lat": 10.10018,
+      "lng": 106.23589,
       "title": "ヴィンロンは、新学期シーズン中に子供たちの病気を積極的に予防しています。",
       "category": "DISEASE",
       "time": "2026-08-30T07:22:07Z",
@@ -331,9 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHlyc1pUaGNoYVRxanZPRHV6Y3NUS1JETE5IZzc3TTRHX3RSYk1KY1RhbU1oXzFrc0wzXzVzbzc4RzNrVGxzdzVFRGZDbERuNmZaT0N6Mzc1cnlkeUNfck1PX0daczR6Wi1Ec1otbHRTNlVobGpCOUxxMVRSTzZJUXRvSFc?oc=5"
     },
     {
+      "id": "news-technology-35317ad5cd",
+      "lat": 34.69728,
+      "lng": 138.05899,
+      "title": "LG ELECTRONICS UNVEILS THE NEXT EVOLUTION OF AI HOME AT IFA 2026",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T01:42:46Z",
+      "summary": "LG ELECTRONICS UNVEILS THE NEXT EVOLUTION OF AI HOME AT IFA 2026&nbsp;&nbsp;Morningstar",
+      "source_name": "Morningstar",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMk82Q0MwSUNESGI2NDJ5SWtyOHhxWm0xN0ExQ0xsNXZsOU93R1hld0VrZUlqalh2TThoRUlBZHNBTHEycTRrdFhDdjEydGNxWWVaMEhmTlpZZDdLU0FMOF9KZTJEWldzSTNhdzBpdFVrR0tjOHNJZ3JLdHJyc3FHRldKVnlXWnFBbzBqNlN3VTgzLVQ0TE5pUXMzdDRjZFpwZUMta2JxemFyZ2J4cmNzZG9GWjJEWXB3U05OUGc2U09EVEU?oc=5"
+    },
+    {
+      "id": "news-technology-784c1c7fe8",
+      "lat": 32.37756,
+      "lng": -95.2603,
+      "title": "Visualizing Tyler Stephenson's swing using bat tracking technology",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T01:37:26Z",
+      "summary": "Visualizing Tyler Stephenson's swing using bat tracking technology&nbsp;&nbsp;MLB.com",
+      "source_name": "MLB.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV21kV1pieVVrRFY4M2VHdnV0TkhqdGVlbWFCXzFya2tnRGctN3VpRW1oZzNJVC1nWXA1dlZfWWRmTkZLX0JuQlI2UlVCdkhJMjd0Nm4xYW5ZZHBBSmd6X1RuYzBvUUdUZ3RqczBfZTc4Z05BZnhjRm44eXFfeTVnNHd4eVBIZjFicXBQODNFV1dhNEI4RUpfUXozeWlVOEs3SjlRa2h3?oc=5"
+    },
+    {
+      "id": "news-technology-3edde28490",
+      "lat": 42.42282,
+      "lng": 140.92025,
+      "title": "ＦＩＸＥＲ---急騰、草加市がオンプレミス型生成AIサービス「Sovereign GaiXer」を導入",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T01:35:48Z",
+      "summary": "ＦＩＸＥＲ---急騰、草加市がオンプレミス型生成AIサービス「Sovereign GaiXer」を導入&nbsp;&nbsp;株探",
+      "source_name": "株探",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQaFFCRHd4ckdmY2F0UWhxSVU1ZEFRZ2VUd2h0N0JiU3VINmpzWXp5OTJiOGFrUDlWVS1SOTJDSURuM0IyRjdQUkpXT3E2dGtCdHJXZUI3YWVEWE5VbVpDcA?oc=5"
+    },
+    {
       "id": "news-technology-cf7b34d2ea",
-      "lat": 47.3957,
-      "lng": 16.82344,
+      "lat": 47.36837,
+      "lng": 16.77751,
       "title": "Losing face? Licensing and governing AI content in China",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T01:31:37Z",
@@ -342,59 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDBQWkd6c1NhaDlaSWhJbDR4WDlZcGdUenk3Vnp2VkhFcVFhT3RsVEtEVGNMaGJ0Y2Q4bDNEMV84ejBtSW9SVXlHTlktY2JaOW5sNEcxbnJjWWctdWI4UFRKS2xtZUh4Nk5wdHBUNlR1eHhMQk1WVHo3b0FqZUN3a1V3VXlUcGluU3FFWFlyS3BWSlUxbjhiTHZ6YkdjZ0dvOXI4?oc=5"
     },
     {
-      "id": "news-technology-c4ab5762e0",
-      "lat": 42.5163,
-      "lng": 140.89855,
-      "title": "病院向け生成AIサービス「OPTiM AI ホスピタル」ver.3.2提供開始",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T01:30:02Z",
-      "summary": "病院向け生成AIサービス「OPTiM AI ホスピタル」ver.3.2提供開始&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SV0VaZ2tSVFRIVmdFem5lZ0h4UjF2c0t1OHlUeTEyLUdtU1diTkNyaFA1NUtnZk5peTU5SHMxMHl0b0EzMExzMUhfS2xnRkdxOUM3VUtKakF6dm14allZZ2RZUW9BUXBfa3c?oc=5"
-    },
-    {
-      "id": "news-technology-9aac434ab8",
-      "lat": 42.51771,
-      "lng": 140.87549,
+      "id": "news-technology-2285f9e166",
+      "lat": 42.42236,
+      "lng": 140.88826,
       "title": "オプティム[3694]：病院向け生成AIサービス「OPTiM AI ホスピタル」ver.3.2提供開始 2026年8月31日(適時開示) ：日経会社情報DIGITAL",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T01:30:00Z",
       "summary": "オプティム[3694]：病院向け生成AIサービス「OPTiM AI ホスピタル」ver.3.2提供開始 2026年8月31日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
       "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLV92MFVEQVNTX3F2WmZNQ2p1R3ItVmhSOXE1TC1lR2ZjbWpHVGt1UGlHUWZGWnJVbTR4OXFsTUhzc2dtWk9qdVBYRTBIdk5LTVFRRWdnbnJYcEJ3NHh0Ykk3M3NoVGtHSnA0eGF0d1RlcTVBZEFtQUlhY3hCQjltckx5OUE0NHNhaDFPZkxVTjJQX1BGb2VDY1FDMl9ZVlRzcGJzUjZFTmt4V0FkWUtQVEtMalZXVnFCcF9WdzdrNW9xWWRNQUtPbHFjNng?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VZDVsSktCejRyc0x1RkJSVlFwZVBRRTNZM2E4aHpIWjlLOWJoQjdoTDZRMktrREdRSERmWjk4MFo4UlNscGlPVld0T0RHdVR1Vkptc2hGNjUtS18zSFo2dFpxdHRsc2lRaEE?oc=5"
     },
     {
-      "id": "news-technology-8c26e0415a",
-      "lat": 35.67132,
-      "lng": 139.7758,
-      "title": "NEC、SCM業務を自律実行するAIエージェント販売",
+      "id": "news-technology-cd0a2d7462",
+      "lat": -19.45189,
+      "lng": -42.49913,
+      "title": "【「AIに購入・決済任せる」が2.2％に】ネットプロテクションズがエージェンティックコマースを調査（日本ネット経済新聞）",
       "category": "TECHNOLOGY",
-      "time": "2026-08-31T01:19:05Z",
-      "summary": "NEC、SCM業務を自律実行するAIエージェント販売&nbsp;&nbsp;LOGISTICS TODAY",
-      "source_name": "LOGISTICS TODAY",
-      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UVTFyVG84REF6Y1ZhZUNOSFJzOC1CMnZEVk9YUU9aN3pzY1FwTzZETEdZTTdQUE9tckJkYk5uT1VUc0tnQjFSUQ?oc=5"
-    },
-    {
-      "id": "news-technology-82350af0a6",
-      "lat": 35.67265,
-      "lng": 139.68164,
-      "title": "ソニーG傘下の音楽出版などアンソロピック提訴 AIが楽曲を｢無断学習｣",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T01:12:35Z",
-      "summary": "ソニーG傘下の音楽出版などアンソロピック提訴 AIが楽曲を｢無断学習｣&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OUjh6WVFka0dSbWZMRG1NS19laEpPS1RYNkIza2tSWGRQSWhPd21iOWdvSzdXX2RQWk0tZjRjTnNNTmthZGtsSDd0R1FxY3V0M0hDeHN3VnV3OGhoYTNmb2ZpNnRaWU1Dd3lnYQ?oc=5"
-    },
-    {
-      "id": "news-technology-740ba1929d",
-      "lat": 35.63949,
-      "lng": 139.39252,
-      "title": "「介護は、テクノロジー最前線の仕事へ」介護福祉学科1年生がスマートグラス×音声AIの\"未来の介護現場\"を体験──徳島・社会福祉法人さわらび会でICT活用見学会",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T01:10:02Z",
-      "summary": "「介護は、テクノロジー最前線の仕事へ」介護福祉学科1年生がスマートグラス×音声AIの\"未来の介護現場\"を体験──徳島・社会福祉法人さわらび会でICT活用見学会&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1URjc2c25zR0VuUWZONVZFU2V3MEl6OXh0Z1pjWXVrMG9QRkhpTUNoSmxybEZncDRISHZpM25aOFNjRnplUVh0MDMyR19US3ZXdzVyNlNlM292S1lEYnBMdFZQQ3lTc0NvOFE?oc=5"
+      "time": "2026-08-31T01:30:00Z",
+      "summary": "【「AIに購入・決済任せる」が2.2％に】ネットプロテクションズがエージェンティックコマースを調査（日本ネット経済新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBybnVjWldmR2lFTkEyNlNBTVlmWlVMWkpEaUdUYThYY0RuU3MwUy1uSWJIQlRYSVh6dXpRa0VlbUUxV1N6UmVSVjhhYVhrVUJlX1dfb01rSExHTkl1b2w1bVoxaEFQZm9aX2hEanFya3FhMHM4eGdPMDVmWkxkeGs?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T01:33:43Z"
+  "updated_at": "2026-08-31T01:48:52Z"
 }
