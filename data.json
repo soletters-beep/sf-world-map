@@ -1,9 +1,53 @@
 {
   "news": [
     {
+      "id": "news-politics-f31896b4e4",
+      "lat": 46.83419,
+      "lng": 8.23198,
+      "title": "Man arrested after Swiss rave shooting that killed woman",
+      "category": "POLITICS",
+      "time": "2026-08-31T11:41:40Z",
+      "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-a1af0b4619",
+      "lat": 52.97237,
+      "lng": -1.1625,
+      "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
+      "category": "POLITICS",
+      "time": "2026-08-31T11:41:05Z",
+      "summary": "Eight people have died after the ferry started taking on water shortly after setting off for Turkey.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-8ef6788739",
+      "lat": 38.94191,
+      "lng": -76.98784,
+      "title": "House lawmakers return to Washington with a stopgap funding bill atop the list of priorities",
+      "category": "POLITICS",
+      "time": "2026-08-31T11:34:07Z",
+      "summary": "House lawmakers return to Washington with a stopgap funding bill atop the list of priorities&nbsp;&nbsp;News4JAX",
+      "source_name": "News4JAX",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObWxOb2pEWUhFN3EwaDdCV3BiWURhUTUtOTgxdzhqajFsdHFWQ3BJWHZ3dVhreWVnWVBiX2VxN1NFRC1vbnZ1bmxwdjFLcU53SF90OUEtSU9WUW4tWk5MSzVpZ3VUS0g1VHBHdnRwZlozSGhpaS1PdmgyYUZmSnFBNC1hbXlZX296ekpYVHg0T1dlMTQ2blhSQm4zTTdzQzBuUXdSVnZnWVRLQXNRYktjVnRHSGc2VHRSNkd3bzJzM003X0RoVTFhcjhVcDc2VWt6U1VKbDFFNkJpejQ?oc=5"
+    },
+    {
+      "id": "news-politics-e78fd9f323",
+      "lat": 39.64298,
+      "lng": -76.65699,
+      "title": "Why the left can’t stop obsessing over Trump",
+      "category": "POLITICS",
+      "time": "2026-08-31T11:30:00Z",
+      "summary": "Why the left can’t stop obsessing over Trump&nbsp;&nbsp;The Hill",
+      "source_name": "The Hill",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdC03bHZBWDlMejREVm5qZWFwMXczQkQyeHhjbzhoT0FCOHM3SGx6YjZXdHlDZmthRVNNa0RDb2xHTERpSFhNLXZLOTJYZ3dhNVU5a1VHRVZXc2ZSSVB3Z0RMb2U4Q283NldEMjVmbUttdVU4SFRTdDZBejlUZWhaVFBVby03Tk5ySEdUdWYwZWNjZ9IBlwFBVV95cUxQNm53MHN2ZEp4UUFPb2hnSWZScDVOYU5fN21JbElwQ0xzTnI3V3ZlWGFTQi1heDR2N3N0X2U3b0pVM1AzVFBsTGZzTFZlcF8zQWlxNWt5UHhlRHRkdUUwNnpMNFFvRUplbjQ0bHRtMDh5SDlXdmhaeTVkZHdhckRUTkpNNk9ha3VKMjNMX3Q5bVg2RjE5MWNz?oc=5"
+    },
+    {
       "id": "news-politics-0e23d49f36",
-      "lat": 34.71613,
-      "lng": -103.95981,
+      "lat": 34.69922,
+      "lng": -103.8999,
       "title": "NJ House candidates increasingly skip League of Women Voters debates",
       "category": "POLITICS",
       "time": "2026-08-31T11:24:42Z",
@@ -12,20 +56,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFBsUlloOVZOVzh6Wmo1QTJMeFJPU0Ewa3FaTlpLMncyRTdTVnBJN21EX3ZGaTBqU1lBQ1J5S0dzX2dQVDcyeGRmVUtGRnlERWozWEpXMXBKWTBRckkteTFKaWZYdnJvWGdUalNINl8ySDVjUUdHS2ZJd2ozOGo2eFFEUQ?oc=5"
     },
     {
-      "id": "news-politics-f31896b4e4",
-      "lat": 46.80023,
-      "lng": 8.25746,
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "category": "POLITICS",
-      "time": "2026-08-31T11:24:19Z",
-      "summary": "A 22-year-old Italian woman was killed and several others injured at a techno rave being held at a horse racing track in Aarau.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "id": "news-politics-76a5a1cfd5",
-      "lat": 36.2513,
-      "lng": -119.04504,
+      "lat": 36.19994,
+      "lng": -119.09861,
       "title": "The jury's options in Lindsay Clancy's murder trial",
       "category": "POLITICS",
       "time": "2026-08-31T11:17:44Z",
@@ -34,42 +67,53 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-4fff2c191b",
-      "lat": 47.06874,
-      "lng": 24.12894,
-      "title": "Vice President JD Vance to speak at Sterling Heights political event",
-      "category": "POLITICS",
-      "time": "2026-08-31T11:12:24Z",
-      "summary": "Vice President JD Vance to speak at Sterling Heights political event&nbsp;&nbsp;WXYZ Channel 7",
-      "source_name": "WXYZ Channel 7",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0FxR3N5NzIxVl9CaWRNSGctOEFVS2R3bGlTZFpzT2xtbkRqN2hlMDdtZXRsemRZNHc0eUtvMnBxdnQ0blpmUk12WHRnYjJDQ0ZwUDJ2RnphM1JJWUdER3FXN1dSVURDbmdxS3BaRVk3QUtxREkzYnVXODhNZVJZeVZzQXg1cDRmeTEyZTFiejZIbDJXV1lYaG51Rmg3QTkxbDBKSXJqanMza2tFS0R6VUN6RGxORnJsQmV6ZmhiV1dUdDBQ?oc=5"
+      "id": "news-finance-a9bd28541f",
+      "lat": 51.6689,
+      "lng": 0.38085,
+      "title": "The Stock Market Rally Is About to Face Its Biggest Test",
+      "category": "FINANCE",
+      "time": "2026-08-31T11:37:00Z",
+      "summary": "The Stock Market Rally Is About to Face Its Biggest Test&nbsp;&nbsp;Barron's",
+      "source_name": "Barron's",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2lwbm5rSEd6dEV3TkVCTjNsdnVib0w0cThNOS12YTNKdmV3VjBfSGdnOTdXa25VQlI1NWVOdEV5NTBaVGV3UVJLdk11SFB1UmFKbFQ0S3dORlUzakd3NzVQYnQ0SFVsc21tME5pb3R2RFVWc0tMczRNZlMySVlxWg?oc=5"
     },
     {
-      "id": "news-politics-52614225b8",
-      "lat": 34.28987,
-      "lng": 71.04227,
-      "title": "Anthropic Legal Fight With Pentagon Shows Shifting Politics of AI",
-      "category": "POLITICS",
-      "time": "2026-08-31T11:02:00Z",
-      "summary": "Anthropic Legal Fight With Pentagon Shows Shifting Politics of AI&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUHR2TTBJbmtFaFhKRGJTejc1YkZYaEtaUTRLcGZkdlZBR1c2OFN6Xzk3bXozZUdtYUJaR0hTQXhwNTU3dDhvMWdIMXc2QW03clFIS24tendQVWZBT2pMczc5cjdxT0gzQy1MTEZCSzMxTHhTd1doQ0lORk12dnJhYloyZng2MUlpOVJ3SDBjeUI0SU5fZWJ5ZV9PdTFNR2pCSmEwZktFdHhZeWpOQmZTNGgyd2p2SEhCM1hGcjhkM0pYaDROYzVDSk1KVTNxeDhsMUFrbHkzWXh6dw?oc=5"
-    },
-    {
-      "id": "news-politics-330e5450f6",
-      "lat": 38.94127,
-      "lng": -77.01798,
-      "title": "Analysis | The politics of the company you keep",
-      "category": "POLITICS",
-      "time": "2026-08-31T11:00:51Z",
-      "summary": "Analysis | The politics of the company you keep&nbsp;&nbsp;The Washington Post",
+      "id": "news-finance-6e5bd901c9",
+      "lat": 38.93355,
+      "lng": -77.04153,
+      "title": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers",
+      "category": "FINANCE",
+      "time": "2026-08-31T11:36:53Z",
+      "summary": "World shares are mixed and oil prices surge after US strike on Iranian rocket launchers&nbsp;&nbsp;The Washington Post",
       "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNzNvMGhScHI3Xzk4NG5veVBvVFRETHJKc3g3X0VUYzRuRzFObks3b3pzdkVtd2N4TjJMWEk0QkFCMW1HaXdoc0V1cVRXeEgxU0kwakYxaE9obUI2dE50eVVReFZIOEdFZDd5SjdDTXhnR3ZmcUdOQXB6QXdaV2FkRmxMdw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNElpSHV1TzVzUTJid0duSW1HRUoxdXVHZFJ3eV9ZeUlQRkFsaEZZWVVMWDMtNGp2YmNWSlB5NFBFV0hYY3FPLVdzMFJpNEtVelVnNU01bUdmeW1HeVhTQnZVbjJKdm9LZFV0MTR4UjZLYWRKaDBjLWZYWVpLUFo1ME85d1Y3SHluV0dBUVMxeXN2ZUxGVVVSQ2htV09EUDZwQ09JNFlsb2FVMGRoQTFRZDVDd1lOaUhqWXV3ZjNULWRtVUtSQXZncDh3YTZmU1E3aWdBMg?oc=5"
+    },
+    {
+      "id": "news-finance-4dd6c0e480",
+      "lat": 32.65146,
+      "lng": 54.51877,
+      "title": "G20 finance talks open as US seeks to ramp up pressure on Iran - Al-Monitor",
+      "category": "FINANCE",
+      "time": "2026-08-31T11:30:21Z",
+      "summary": "G20 finance talks open as US seeks to ramp up pressure on Iran&nbsp;&nbsp;Al-Monitor",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWFlMnZzMVBVWV9BMThOa0puWU82QXdLVy1KcTFySzR6NW1oa0VOeWUtN0k3RjhrbWhFak50RUVzN0JlNDlWa3dpSHBkQ2JwZDJHWWxIZDVER0ZfeG5mZE8xYm5pNTlWQnRoTjM4cGU0cVY4cU9fOHVRWVBTM3NSV2tKcXZ0X1FlS3F6anBEb2l4b0lsdmdlTktUcw?oc=5"
+    },
+    {
+      "id": "news-finance-a0adb1932a",
+      "lat": 8.76461,
+      "lng": 13.7383,
+      "title": "G20 finance ministers kick off high stakes economic meetings in North Carolina",
+      "category": "FINANCE",
+      "time": "2026-08-31T11:24:54Z",
+      "summary": "G20 finance ministers kick off high stakes economic meetings in North Carolina&nbsp;&nbsp;CNBC",
+      "source_name": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVWFjZ2JUcWQ3enMwUmwzenJTX2lDVzRzNkdzY2U5SzR0QTRpU3hFRjM5by13bHdvZE5lSGl5N1VWZU0wekdQejRHeWYycEQzbmwyN2hQY1Z5OTdNOFpDclF6TFd2MW1uXzJVSE5JOW8zRkJPMVhWd3llblBWVzFEX1g1SFVPNzlKeTh2Tl96ZkJ1SkRfYUR4SmhlQlhTSUQzY2FKNjk5cFdkVGNlVzJaMHdVRkUwSWVyQWYzRHVn?oc=5"
     },
     {
       "id": "news-finance-7659dd708d",
-      "lat": 36.03433,
-      "lng": -95.96045,
+      "lat": 36.04941,
+      "lng": -95.88716,
       "title": "EdWealth Announces MoneyBench Benchmark Comparing AI Money Answers From Ed, ChatGPT and Gemini",
       "category": "FINANCE",
       "time": "2026-08-31T11:21:50Z",
@@ -79,8 +123,8 @@
     },
     {
       "id": "news-finance-db0db7ed0d",
-      "lat": 27.13814,
-      "lng": 31.16408,
+      "lat": 27.16111,
+      "lng": 31.12452,
       "title": "PyroGenesis Announces Second Titanium Powder Contract with Metal Additive OEM Client",
       "category": "FINANCE",
       "time": "2026-08-31T11:21:50Z",
@@ -89,53 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVF9TN3dMYWwyVW12TmMzVlh6eWdpRGI0UUM3T1BQd1VjRXo4UC1SS0tUT2tENnlRaXB2LWVYR2djQllHUDdtV3hwZmpwMTMxWDJHcVA3SlF5WmV2ckh4NlRTS2YxdHBpQlhOZVBJdTJnczI4V1RzbFVOQ3pEQkVFMGNRanZBajhSTnNMM2NDYnhsR0V4Ym1KdXZ2dkdqb0tvRTItb2tFTDFfZXRyMFQzbXVWZ1dlSWM0YXJCN3htTkp3c3huQ1JLXzlRblhlT0lwbXNxcDZ1b0ZzeFU?oc=5"
     },
     {
-      "id": "news-finance-8d7ec1ea19",
-      "lat": 40.73679,
-      "lng": -73.97408,
-      "title": "The New York Council on Economic Education Endorses AP Business with Personal Finance as a High-Quality Pathway to Financial Literacy for New York Students",
-      "category": "FINANCE",
-      "time": "2026-08-31T11:15:00Z",
-      "summary": "The New York Council on Economic Education Endorses AP Business with Personal Finance as a High-Quality Pathway to Financial Literacy for New York Students&nbsp;&nbsp;Business Wire",
-      "source_name": "Business Wire",
-      "source_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOY3A0bVNEZ1VpdC1QNHNDUmxsWHFqWWcycFluVXVxa25oRG1rSmFUNTMzSV9hdHI1dC1hY0M2NXQ2aDF5di1jVjRLMXV2NUNjdUV5cnl3WjNuaGlNZzdTbWNwUWs0UDVFSjFfeno5VHNWNklueTVPcWRwOUJKcW01elVDa29lWW5ra2sxenlKNk81NGdKLXlDU3dfeFlaZkJvQTRxZ1pZbDVUYlRVT1QzZVlFZHNZTmtqUmJ4X29tZUJYdy13X1NVblFJWWxsekN2UG01cjZLcTAtR0R2djU4WUlodUxONzY5YTEzWWlYcVp5VFNtbmtBN0s4SkMxLU9XdEdUenVGNXM3VkhSWTZ2cmpNRzVhRXBqcGFzcmotdTRWRWdnOFlUanFYVnVHTHdHendhaW1qcw?oc=5"
+      "id": "news-disaster-423f3a5d99",
+      "lat": 28.3607,
+      "lng": 84.05156,
+      "title": "Nepal flood rescue recovery efforts keep hope alive for some, but not all, as 4,200 people remain missing",
+      "category": "DISASTER",
+      "time": "2026-08-31T11:39:10Z",
+      "summary": "Nepal flood rescue recovery efforts keep hope alive for some, but not all, as 4,200 people remain missing&nbsp;&nbsp;CBS News",
+      "source_name": "CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTi1RUk14YTNWNkRHSzlBZlQwaDJXY3p0YWJ6VlA4ZHRHbkU1VjgwQXk1VlpSM2hTUEl4d3IxdWNveFVqV2JIVFA0ZU1XZEdkNUhEOGJvN21aMmx1aFpScWVWa01DSklKMlpCelZ6dVF6eTFMRmw3Sy1nbWhnRHhfRWgtVXhFUEh4bVNQRGRSRjhjMkpwdXQyVTUzeXZDOVE?oc=5"
     },
     {
-      "id": "news-finance-724883a442",
-      "lat": 38.84645,
-      "lng": -89.41479,
-      "title": "Bond markets face fresh selling as oil prices jump, stocks cautious",
-      "category": "FINANCE",
-      "time": "2026-08-31T11:14:18Z",
-      "summary": "Bond markets face fresh selling as oil prices jump, stocks cautious&nbsp;&nbsp;The Lufkin Daily News",
-      "source_name": "The Lufkin Daily News",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQnZnMGZ6eVE5VWQ3VzYxd25PNVk0RkhvSHUyWi1WYl9sQjk4VzdHV1Z6cXdqUjZjUU5pQnI4QzRrNVhwZld1b0xLUXdCcWFWQndBczJMNU1mV3U0OXdYN2dmZll4UlJPY3lOSE5ucHI4bmROZHV1Mi1YVy1hYnFwejRVTWRVMXdFUzBCbUFOUzdKRmMtamhoaGM3M21BR1dMeDExY2pVQXJULWE3ZUN2dlNGRVg2UEdVbnlCcXNrLUdyZFJVV2l2aWFTYlFvMkFxc0MxMi15eUdCTVYtZUQySW54OXNreG5icVV2c0IxMFFhQ19KWW5UcTVn?oc=5"
-    },
-    {
-      "id": "news-finance-ea94e8317f",
-      "lat": 51.58357,
-      "lng": -0.15815,
-      "title": "Headlines: DOJ on aluminum plant, tribes on prediction markets & persistent heat wave",
-      "category": "FINANCE",
-      "time": "2026-08-31T11:04:00Z",
-      "summary": "Headlines: DOJ on aluminum plant, tribes on prediction markets & persistent heat wave&nbsp;&nbsp;KOSU",
-      "source_name": "KOSU",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNam9idUJWbEY5U05zYk5RSzJpSm55bmFWQm92Y2RIUkpQQTJpZEJvNkZDTDRvNjBmMUVLNTBybXhLVkhvU3hZbHd0ajhvaTF3ZnhGTWQ4SG0tWEw0Um1wbXc1eVFYa3k4dkZ0a3o2WnN3b0cybW8yeW91NENDbTBtMU01SElxajNMN3lMNWZVeUVWTXJndUthZ3hWeDZNU3Y3OTN1dGE0NkhpLVpzdlRHVVBDRDQxSC1aYXNMWmZZdTY?oc=5"
-    },
-    {
-      "id": "news-finance-b275601da8",
-      "lat": 45.47373,
-      "lng": 13.76256,
-      "title": "Are stock markets closed on Labor Day 2026",
-      "category": "FINANCE",
-      "time": "2026-08-31T11:01:29Z",
-      "summary": "Are stock markets closed on Labor Day 2026&nbsp;&nbsp;Bergen Record",
-      "source_name": "Bergen Record",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTW5pZjhyaWtGaDU4eWpUWmMzdUlLSGJPdFMweGMxWmRPUXZyMERSYkVsQVJjc290c0o2YlpMYTdKRjdEbDhURWd6VVN2RWc1aGNoQURQMjJaVThBRkdGd0Jicmo0SmItd25lc212S3BmZDJvS25pSEhqR0dxT1hjX1pCVUk0ZEZrS2NqUm4zVnp3N3p5dU5tdlRXd0x5QU5NNm5tU2pFSEhJZw?oc=5"
+      "id": "news-disaster-a190c2fecd",
+      "lat": -4.66914,
+      "lng": -40.10112,
+      "title": "VIDEO: 1 dead, 15 missing in flash flood",
+      "category": "DISASTER",
+      "time": "2026-08-31T11:32:54Z",
+      "summary": "VIDEO: 1 dead, 15 missing in flash flood&nbsp;&nbsp;KIRO 7 News Seattle",
+      "source_name": "KIRO 7 News Seattle",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaG5UWC0xRDk5MDNucEVkYlVQUmhuUUZwdFNWaXJneXVyeEp5MDl2X1Fia2hvb0ZjenBQRlU5WmdMUklOMlNfRUU1bE9BMHREVDRiX0xYUXlXalZQSDFTalVYNk9VYVJQNDhsNzFZUHBJVDMxMGlFR3FBbVkwRmdjRXI5NVdPR0JMcWxOZS02M3p1ZV9aWnpZQTh5NTFyR3dfNVA3WTdKVldxUQ?oc=5"
     },
     {
       "id": "news-disaster-3973f63cb0",
-      "lat": 46.47027,
-      "lng": 13.57079,
+      "lat": 46.43258,
+      "lng": 13.63048,
       "title": "3.0 magnitude earthquake rattles near La Quinta, CA on Aug. 31",
       "category": "DISASTER",
       "time": "2026-08-31T11:31:07Z",
@@ -145,8 +167,8 @@
     },
     {
       "id": "news-disaster-83c3432fa3",
-      "lat": -4.67405,
-      "lng": -40.06967,
+      "lat": -4.73327,
+      "lng": -40.08827,
       "title": "Video Tracking the flood threat in the West - ABC News",
       "category": "DISASTER",
       "time": "2026-08-31T11:25:03Z",
@@ -156,8 +178,8 @@
     },
     {
       "id": "news-disaster-aca3af8886",
-      "lat": 9.63013,
-      "lng": 8.02124,
+      "lat": 9.59253,
+      "lng": 8.05664,
       "title": "GiveDirectly’s AI experiment left vulnerable flood victims behind in Nigeria",
       "category": "DISASTER",
       "time": "2026-08-31T11:17:56Z",
@@ -166,31 +188,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSl9fOTFxNDhHNGJqQWFtanFlMGZzbUZ3bTMwcWZDaU5JMnJaMDNqWmtFRTlOVE44Y05GQXVkWFhOZ2ZTTFhkSDRIX2ltZXBRclFpWTdXWmk4UEtqUXpKX1dTVTNPX0x6eGI1X2t3WUZJXy16UXA3T3NtRjhvY0U5OER5Ql9pd1YyRVdFN1JxenkzZk84TTFUNEpzOE1GYTZqc1pKZUs5RmQwNUdxd2RPV3h1eFhlc04yS1U1bm5UMA?oc=5"
     },
     {
-      "id": "news-disaster-bbaa10bc17",
-      "lat": 32.7482,
-      "lng": 130.68229,
-      "title": "熊本地震で現地対策本部長 津島副大臣「青森は冬場の備え重要」（ABA青森朝日放送）",
-      "category": "DISASTER",
-      "time": "2026-08-31T11:10:49Z",
-      "summary": "熊本地震で現地対策本部長 津島副大臣「青森は冬場の備え重要」（ABA青森朝日放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5NFhKZnZOWVN5eXNGTVE2WHdWSDR1bFNXcFBpX2JzMjYxcF9KLWpVRW51bXo5UTlUZWlkYTJYeHdXS2dMSWstZW90UnFEN0lSRGI5OVVadUZLaWczVkpVUExoZk5uNVZWS0cwUmZzNTNYUXNwaEV2dElraFBCTUU?oc=5"
-    },
-    {
-      "id": "news-disaster-a91af4f64f",
-      "lat": 28.418,
-      "lng": 83.98902,
-      "title": "Man's agonising search for family in flood-hit Nepal",
-      "category": "DISASTER",
-      "time": "2026-08-31T11:08:22Z",
-      "summary": "Man's agonising search for family in flood-hit Nepal&nbsp;&nbsp;Yahoo",
-      "source_name": "Yahoo",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYlhpMW1kMVNrRDlPWUQ5ZF9LdExFdk9Qbm8xTXEzRDZibWtOVU05ajA4WjIzTHV4QS1FZWgwN0FmYWNtSG5BTUR2dnpqSTlXU1hUUmw5V1h3dVFQYWo1c1BTdzRBemxEUjUwc3F3c3Q3RVNWUGtpcEFqUGFjOUkyUG1IdFVGV09BNWU0M2E2SVZiaVlWWnc?oc=5"
-    },
-    {
       "id": "news-disaster-2fbce2c7cb",
-      "lat": 38.91242,
-      "lng": -77.04044,
+      "lat": 38.92264,
+      "lng": -76.98382,
       "title": "They went to Nepal for a spiritual journey. Then an epic flood arrived.",
       "category": "DISASTER",
       "time": "2026-08-31T11:06:07Z",
@@ -199,9 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHh4V2VkYjlzVDlrcmZlLTFNaU1vVmpWQUxXa095LThpSEI0MkNZTU0xekJQNUs0MTlEcmlZMk9HdVJmM1dReGoyMHdEcDVfY3ZzSTlIUF90cUhYTkZRa2lpMERZTVo4SW4xeHNYdHR0T24xQUNFYzRNOEpYX1NweEtNZ0R5MVNqNUd4MUhDQW9iU0FrZlk4Snhqa21VMmdRanI4ckEtMGtWVHpwcXBjWU1vLXBCdG8?oc=5"
     },
     {
+      "id": "news-accident-bcf8c489ec",
+      "lat": 35.67909,
+      "lng": 139.74601,
+      "title": "新名神6人死亡事故 被告人質問で被害者の名前“言えず”…“ながらスマホ”問われ黙る様子も",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T11:37:00Z",
+      "summary": "新名神6人死亡事故 被告人質問で被害者の名前“言えず”…“ながらスマホ”問われ黙る様子も&nbsp;&nbsp;日テレNEWS NNN",
+      "source_name": "日テレNEWS NNN",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FenVPS0dfVklhQ0QzZWQyLUU4dmtjR2pyN3BFYVJsaUdJYTlHeXF3MUFFWWdLN0t3SHczRWZQUktFaEtXTG5waWZkMnFUZHZRY2hKZmdNZDZGUE9NelFCcURhbXgzNFR1RW95b01zV3lpQnVNWm4xa1RId1Q?oc=5"
+    },
+    {
       "id": "news-accident-2a094a2160",
-      "lat": 35.73162,
-      "lng": 139.79608,
+      "lat": 35.65381,
+      "lng": 139.73335,
       "title": "新名神の6人死亡事故 ｢軽はずみにスマホを触る考えの甘さ｣ 被告が涙の謝罪も遺族は怒り「被害者の名前も言えない」",
       "category": "ACCIDENT",
       "time": "2026-08-31T10:53:57Z",
@@ -210,20 +221,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lZWRLZXVlTTIxa1JzVzZmSExRRHE1NFY4Q0EyME9LRWszTF9pcWxJVjJSd1J4NUFaSkFreGQ3LTZKX2xJWERrdmp3THFrVnBnRUZUN0x1bHVBMUlMOGdR?oc=5"
     },
     {
-      "id": "news-accident-0eebf1f38f",
-      "lat": 37.87576,
-      "lng": 139.00755,
-      "title": "新潟市中央区は“猛暑日ゼロ”も平均気温は平年超… 水の事故が最多や大雨被害も 「新潟の夏」どう過ごしましたか?",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T10:42:17Z",
-      "summary": "新潟市中央区は“猛暑日ゼロ”も平均気温は平年超… 水の事故が最多や大雨被害も 「新潟の夏」どう過ごしましたか?&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KcHJfUm5yRXVXMGgzb1hEZVRsbkRoZHBscFVPMWM4QUo1Q2NBb045akR5dVp0ZWNEYlhnVzhTS0Q4TFVLcjhNMXg2bC0wd2FRNmRIVUNmR2Q2aWNMMkJwOXVEYWQ5YlBwa1YtVEZyaWREbDMxRlM3ckpURDg4dTA?oc=5"
-    },
-    {
       "id": "news-accident-d14a11d680",
-      "lat": 34.94197,
-      "lng": 138.38779,
+      "lat": 34.92916,
+      "lng": 138.4278,
       "title": "労災死亡事故が多発 静岡労働局は「労災死亡事故多発警戒」を出し、企業などに事故撲滅に向けた取り組みを呼び掛けるよう要請（静岡朝日テレビ）",
       "category": "ACCIDENT",
       "time": "2026-08-31T10:41:23Z",
@@ -232,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByOU5xXzZQbW5RbnkyR0c4Z2pwSk52VlBUTW90WGtTWGlndS1nTHVuaTk3R3Vfd0cyTjN4LWMwOG9SeFBVUlBvaHRyVTkyMVQ5NGpPWjl6T3VtY2tLRFNnUzFtUWhXUUdVeE5pRVprTGFCS0VTUGp2RURxaDZXalU?oc=5"
     },
     {
+      "id": "news-accident-bf7138290a",
+      "lat": 37.8865,
+      "lng": 139.03917,
+      "title": "新潟市中央区は“猛暑日ゼロ”も平均気温は平年超… 水の事故が最多や大雨被害も 「新潟の夏」どう過ごしましたか？",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T10:40:00Z",
+      "summary": "新潟市中央区は“猛暑日ゼロ”も平均気温は平年超… 水の事故が最多や大雨被害も 「新潟の夏」どう過ごしましたか？&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtUk91bkN4d09JLVF2VGxJZ2dHQnUzbnA3azB3NkljVm1xMlBKNGR3ck9NTG1iVHB4Z2JvVkhvbVlJakFrT1hualh0UGdQNkVwUGpjOGZlYw?oc=5"
+    },
+    {
       "id": "news-accident-b5c51661c8",
-      "lat": 33.57805,
-      "lng": 130.22141,
+      "lat": 33.5902,
+      "lng": 130.21565,
       "title": "乗用車が大破…トラックと正面衝突 夫婦を含む3人が死亡 4歳の子どもは頭を骨折 滋賀・高島市",
       "category": "ACCIDENT",
       "time": "2026-08-31T10:38:09Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-fd6ca49466",
-      "lat": 35.71899,
-      "lng": 139.72145,
+      "lat": 35.66732,
+      "lng": 139.76408,
       "title": "新名神の6人死亡事故 「軽はずみにスマホを触る考えの甘さ」 被告が涙の謝罪も遺族は怒り「被害者の名前も言えない」",
       "category": "ACCIDENT",
       "time": "2026-08-31T10:37:13Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qcUxkMDF2V3paMjN6bUgxZExMeDhicmlHM1dlV2NKYmFwYzRCcGlUVGtySGxLZjhHM1dWNzVHVTR6V3FidnV4Q2p0c1R6Zy1YNnJ6VEY0RnFEVnJCQ00tSDl0cE1SNjdNVzRUQ0l6Q2N3SEg4R2M4d293SFJ4aE0?oc=5"
     },
     {
-      "id": "news-accident-c1d6955ae4",
-      "lat": 35.65278,
-      "lng": 139.80888,
-      "title": "新名神の6人死亡事故 ｢軽はずみにスマホを触る考えの甘さ｣ 被告が涙の謝罪も遺族は怒り「被害者の名前も言えない」",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T10:36:00Z",
-      "summary": "新名神の6人死亡事故 ｢軽はずみにスマホを触る考えの甘さ｣ 被告が涙の謝罪も遺族は怒り「被害者の名前も言えない」&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xM29PRWFjc1FOWWk1ZENGVU85WnU4UWtJOHMyTGlKRWNwYUtkXzM4bVZSbC1qbzN6eWt0OXdQa253QWZDRGoyQTFXR0dlbGR4ZE5uVDdDM1Y2QQ?oc=5"
-    },
-    {
       "id": "news-disease-9e530e306b",
-      "lat": 32.78042,
-      "lng": 130.73565,
+      "lat": 32.76841,
+      "lng": 130.72478,
       "title": "「病気の治療に専念」 10月31日で市長辞職の意志表明 3期目の道半ば…熊本・荒尾市の浅田市長（66） 50日以内に市長選",
       "category": "DISEASE",
       "time": "2026-08-31T09:44:14Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-99dfdb9d27",
-      "lat": 32.82195,
-      "lng": 130.75684,
+      "lat": 32.84098,
+      "lng": 130.77731,
       "title": "「病気の治療に専念」 10月31日で市長辞職の意志表明 3期目の道半ば…熊本・荒尾市の浅田市長（66） 50日以内に市長選",
       "category": "DISEASE",
       "time": "2026-08-31T09:43:00Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-8704942f7f",
-      "lat": 35.61398,
-      "lng": 139.62129,
+      "lat": 35.57011,
+      "lng": 139.58454,
       "title": "病気の自覚症状ない「沈黙の臓器」…肝臓を守るポイントは? 肝がん原因の脂肪肝、医師らが予防法伝授",
       "category": "DISEASE",
       "time": "2026-08-31T07:30:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-0f3e3087d7",
-      "lat": 35.63824,
-      "lng": 139.79699,
+      "lat": 35.65321,
+      "lng": 139.80397,
       "title": "LGBTQ＋当事者が出演したことに意味がある 「性感染症の予防」看板が与える視点〈男の広告〉小林美香",
       "category": "DISEASE",
       "time": "2026-08-31T06:00:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-d8743f3f89",
-      "lat": 35.06847,
-      "lng": 135.76958,
+      "lat": 35.03662,
+      "lng": 135.74434,
       "title": "B型肝炎ウイルス（HBV）感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-31T05:30:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-a5005d47e1",
-      "lat": 43.04674,
-      "lng": 141.33679,
+      "lat": 43.07942,
+      "lng": 141.31287,
       "title": "タイ政府は、新型コロナウイルス感染症の影響で新年の祝賀行事が中止になったという偽ニュースを否定した。",
       "category": "DISEASE",
       "time": "2026-08-31T04:43:28Z",
@@ -331,9 +331,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0ZCT3FnQVI4VzlGck01X21LZW1MclMzMEFXQ2RNNDRWMmduYV9xYTRhZU1iMDg4QWI2Z2hDN2R2cTZjQkt3UU1taHBJUThYN21YSnBmeHdaTWlBem9tR25idExUdlFFRlZoOWFobk9UVDVhZ2daRnVuSHdhaC1TdFdySkFPUGlYczI3MS1wMS1hS2dYamFRcmZ3?oc=5"
     },
     {
+      "id": "news-technology-cc99d80cdf",
+      "lat": 27.64698,
+      "lng": 100.90643,
+      "title": "Zhipu AI first-half revenue grows 400%",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T11:39:48Z",
+      "summary": "Zhipu AI first-half revenue grows 400%&nbsp;&nbsp;The Mighty 790 KFGO",
+      "source_name": "The Mighty 790 KFGO",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyR2F3WUhQT1NIWkRrSWpvT2RZSkRIR3ZyVVhXY3JOQmZRM1BHTU91T1lPb01uMTd2UFU3T1BodkVBMHF6Q2RoOWtOUTlvcHlpM19BWmt2ak55eHFWTVI0bWJVWnVOT0JYQklJM2VtZVY1MHp6?oc=5"
+    },
+    {
+      "id": "news-technology-0d1a609861",
+      "lat": 38.33076,
+      "lng": -90.55808,
+      "title": "Goldman Sachs built its talent pipeline around apprenticeship. AI is now testing what that means",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T11:38:45Z",
+      "summary": "Goldman Sachs built its talent pipeline around apprenticeship. AI is now testing what that means&nbsp;&nbsp;Tearsheet",
+      "source_name": "Tearsheet",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWNxYTU3ZWtYYUxkYlBWZE9mRXJPTEVCa0tZYlFXS29vVnJkVEhjclJfTnN2bWYtVEhkclZBdDJyT2VvTVBDODBIV24teUFpSVkxWC01aDgzZS1Qa2hnQVlxNHpVMG1XOU5tYkxEZ1FUWWhGZS1Ua1cxT1REZnF5OEsyUnRUb0NELXcxMGJKN1BsS1dKcFZwTHhjcGdVNk1XMk1sSWpJSFZiNm91eWt4bGVkR3NOblNDUWZuZU5kWQ?oc=5"
+    },
+    {
+      "id": "news-technology-ab441ed74e",
+      "lat": 35.50954,
+      "lng": 139.39826,
+      "title": "リコー、フィジカルAI技術を開発＝動画から人の動き学習、ロボットに適用(時事通信)",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T11:36:00Z",
+      "summary": "リコー、フィジカルAI技術を開発＝動画から人の動き学習、ロボットに適用(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXNsTnB1cGJ6VF83TVh3RkZERklIV042ek9nQTdydTUzOXRCby1kLUpWQ0ZhN0pIVjZ3NzctVzdoeVVVa2FxTFhJQjNjM2ZfRXRGMjBZQzJKNFdrQXZWaTRUc09TQ3FlelhSQjZRM3hBU2M1UnhSbndKWUZnUXRjVXRuOVJ1TGs?oc=5"
+    },
+    {
+      "id": "news-technology-fbf8eb5a92",
+      "lat": 35.7671,
+      "lng": 139.76905,
+      "title": "自衛隊指揮統制にAI導入、ドローン取得加速…防衛省概算要求、過去最大8兆8900億円（産経新聞）",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T11:35:37Z",
+      "summary": "自衛隊指揮統制にAI導入、ドローン取得加速…防衛省概算要求、過去最大8兆8900億円（産経新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12UkdNYjM5bzVmeEszVG9YTGgwcWFyaHo3MDVyNklzT1YxclpjVFBjaE9KNU1HZGt5WmhLcXdVXzlvQ1lvaUxaV0lpTFJBaVFGOHVQSWdwN2ZfbkpUYzJfMmtrWWdLdFZYOG9WUzNaX3dTZWV4Z2o0ckJUZHNjdFU?oc=5"
+    },
+    {
       "id": "news-technology-36392caf26",
-      "lat": 34.02657,
-      "lng": -118.21709,
+      "lat": 34.06461,
+      "lng": -118.21347,
       "title": "AI is watching your spending and setting your prices accordingly. Lawmakers want to stop it",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T11:31:59Z",
@@ -343,58 +387,14 @@
     },
     {
       "id": "news-technology-af7565ced8",
-      "lat": 50.43912,
-      "lng": 1.95515,
+      "lat": 50.53643,
+      "lng": 1.94319,
       "title": "Embry-Riddle Professor Earns NSF Grant to Lead Undergrads in AI Research for Safety-Critical Systems - Embry-Riddle Aeronautical University",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T11:28:51Z",
       "summary": "Embry-Riddle Professor Earns NSF Grant to Lead Undergrads in AI Research for Safety-Critical Systems&nbsp;&nbsp;Embry-Riddle Aeronautical University",
       "source_name": "Google News (English)",
       "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSWNJczEzSXpnYUFyTm1kQ1Z0bE1oMHE3Z3FoalBxcUk0aWw0VGpzRGlIaENZNU9iNFprdUxLdW52eERvc2x1aUpTeGZmWExDS0VqblpJUHBsT2FrMEVEV1l3Vmk0T1RVb1AtMlpsRHk3NTFnTDRGeTVSTEpXdEJUUG9FUkkxMGNUR2tLTTRLcHFFNG9HalZlZFVCbjMxTGY1aWJsRnRNWjBoamxaUDlQOFZGZ0JjTG1uMi0zR1VyM0dNMFo4MWIwMHZKX29sbU0zQUN4TTR6YnV6dDU0ZVE?oc=5"
-    },
-    {
-      "id": "news-technology-9df40a36d1",
-      "lat": 51.53022,
-      "lng": -0.12818,
-      "title": "Schools adopting AI could see benefits (and more work)",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T11:28:34Z",
-      "summary": "Schools adopting AI could see benefits (and more work)&nbsp;&nbsp;Axios",
-      "source_name": "Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOEpKVEdVTmQtNkxpTXBiaGlfZlZHNVJiTXV6V05EanlQVFQ0M3BtVGxfZjRCNEllUFA5UWtrVkFxU3R1NDdSdEVyM0NSeWpPSDA4VWpXdVg5YkpJUnQ1YjVBVjFOWVE2RkdiOW5ONjdOS2h1ZXRqdDFEb2tjYlk5Y3RiVmRUNzV4ekNEcHMtR3F0X1JjdEVYb2tn?oc=5"
-    },
-    {
-      "id": "news-technology-906e902f44",
-      "lat": 42.98572,
-      "lng": -93.16145,
-      "title": "Rockwell Automation Integrates Plex QMS with FactoryTalk Analytics VisionAI to Advance AI-Driven Quality, Continues AI Expansion",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T11:24:00Z",
-      "summary": "Rockwell Automation Integrates Plex QMS with FactoryTalk Analytics VisionAI to Advance AI-Driven Quality, Continues AI Expansion&nbsp;&nbsp;PR Newswire",
-      "source_name": "PR Newswire",
-      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZDZkTFZkSTZscUMtWUdDQmJ6aWdZelJzX1ltazRSdDQ0emJjOVNjME1BSjlwMGFLZ3JLeUlPR2ZkeDJsTHJJM0dYMVNIaXE5S2N4RWlJa0ZFMGJOcHlhaGxKSEQ4XzMyam5ZYXdqVkdUMHRVVHk3ZVozVHJqVWd0U0lqeVhheV9HMFdXTUF2Y1h2WHkzbnN4OTVQdTRSX0tIUDhxTUxYblZYeDIzYzh2aFdHZjA0aFA3RjZjcDJqMVhwVWY0Q1dRUjVNMWdxMWl1bWY1eUVIUmx1eW5YejYyS2RzQ01JUl9adDdubDh6WHNGQ01GbU5RNV9yMnNtZ2R1Ui04OGpfeGdQdUVQQ3F6Q21oMXZMcXM?oc=5"
-    },
-    {
-      "id": "news-technology-76beb440c1",
-      "lat": -15.93752,
-      "lng": 35.34787,
-      "title": "John Ternus becomes Apple CEO, with AI as first big challenge",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T11:19:44Z",
-      "summary": "John Ternus becomes Apple CEO, with AI as first big challenge&nbsp;&nbsp;qz.com",
-      "source_name": "qz.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53U1c4SlhOaUpLTm54ejE0YzNYZmp0NndHRDM2cXNCNDNJZEhDUC1OandELTBkcllHWWJmcWxTZGd3NlNTRU13VTZPZ0hDWkdQVmJnVTUyRHpuX1EteDBPMU9Lei05UQ?oc=5"
-    },
-    {
-      "id": "news-technology-06d3c09c61",
-      "lat": 38.90105,
-      "lng": -77.01614,
-      "title": "Opinion | Who’s that bot? An AI cover of Madonna spurs industry changes.",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T11:18:00Z",
-      "summary": "Opinion | Who’s that bot? An AI cover of Madonna spurs industry changes.&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3JxbVFCaWdJUU02Wm15ekg2Zmt5eWY5REJMUVhRa2J0MUZNYldxLU95aXQ0SlQtU1dwV2RaOWtVZTI1d1NIRlJVdmxKVXEtbEFPUGZsbG0zV2pBMkNwUDBhUkFTRGhRR1o3ZVhYLUh5aWF3R3hydjI5aXlyNjlyYjlIZlBtcVR2b1lqQXRkUHJ1ZmRJMnE5NlRCTUZJa2ZrZ3pyMEZINDc4NkRWbWNaczBuX0s2dGpXSlBkZg?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T11:33:54Z"
+  "updated_at": "2026-08-31T11:48:34Z"
 }
