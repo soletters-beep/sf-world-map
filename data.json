@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-6c241bee5f",
+      "lat": 33.01947,
+      "lng": 56.9576,
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "category": "POLITICS",
+      "time": "2026-08-31T03:25:36Z",
+      "summary": "Iran says the attack killed two people and injured two others, in the first known US strike on Iran since late July.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "news-politics-b5a8266606",
-      "lat": 35.51468,
-      "lng": 139.52033,
+      "lat": 35.56558,
+      "lng": 139.51142,
       "title": "玉川徹氏「結局は欲と政治だと思う」止まらぬ地球温暖化めぐり私見 トランプ大統領対応にも言及（日刊スポーツ）",
       "category": "POLITICS",
       "time": "2026-08-31T02:49:11Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-505be591d7",
-      "lat": 35.52132,
-      "lng": 139.50551,
+      "lat": 35.59888,
+      "lng": 139.45957,
       "title": "玉川徹氏「結局は欲と政治だと思う」止まらぬ地球温暖化めぐり私見　トランプ大統領対応にも言及",
       "category": "POLITICS",
       "time": "2026-08-31T02:49:00Z",
@@ -23,9 +34,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSHB1SFdFUmpfbzgwUk1KZ0lHaGk4MnhQWWh1RTNISU1rV0w5SzBGSkEyTmFvZVZTT0NSTlFhQXNDUk5jQmEzTTB1aUNlR0k3dXNnYmhxUTRneDdrMjBNemJTdEFKRU1BU0FGbjRWR2tnVjJLdTlUSV9yaHhPV0RWZjd0c3JuOGNYUTZXOHpZSGFqakMwSmRHSVlITVdFUm1EbFI1akFhZVk4eHRzRzQxRzVYMTl2SHFMb0I4Qzg2cVBsTE9ZVDFiR2JMYllIbmVUNDg2c25iOTNtclNRa2RSeXdTbW81bjF1cEJ4NTJqNUw4Sl9V0gGkAUFVX3lxTE9DQVp5eUtXZDVKeElPZ3VwQWFEUFpac3hmZVlLcEJHdnd3aTl4MkRmUUdKY2RmaFBsay1XOHVRdE9CQmJYbDNsaHFpS2twbkxzVTlYOG1SSHltVXpmS0hjSGt1amFQdFp1SFdydDNqbXptUHdLa01MZ3EwMnlvdkV6RnNNbU81dlF0b2E5c01XSXI4WnYzMnhnY3hFVkV4MVJmSGI0?oc=5"
     },
     {
+      "id": "news-politics-020a3be088",
+      "lat": 34.09024,
+      "lng": -118.33335,
+      "title": "新地町長選 新人の泉田氏が当選 | ふくしまNEWS - KFBデジタル -",
+      "category": "POLITICS",
+      "time": "2026-08-31T02:47:00Z",
+      "summary": "新地町長選 新人の泉田氏が当選 | ふくしまNEWS - KFBデジタル -&nbsp;&nbsp;kfb.co.jp",
+      "source_name": "kfb.co.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14OTR5Q2JIbTBtS2hmcUh1Ri1jWUd2bzlMMHFmbUZVc1pXOUZFMGxuTktvczNBSDF6WlI3R0x6aDAyUll5VWhHOXVtZWNweThUSlU2Q2dn?oc=5"
+    },
+    {
       "id": "news-politics-d8449454b3",
-      "lat": -29.13013,
-      "lng": 27.74098,
+      "lat": -29.09948,
+      "lng": 27.7751,
       "title": "Prosecution-police team wraps up probe into political-religious collusion",
       "category": "POLITICS",
       "time": "2026-08-31T02:46:45Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-f1214e8b76",
-      "lat": 38.86779,
-      "lng": -77.09181,
+      "lat": 38.89085,
+      "lng": -76.97738,
       "title": "Trump says he will report NBC host to FCC for ‘rebuke or punishment’",
       "category": "POLITICS",
       "time": "2026-08-31T02:40:10Z",
@@ -45,31 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmk1bDFUTmpSM2M2VnVwUXBBWHdRYllnaUdpUWdvZWcwVy1abmhGTWhLTWpXVEpIa3NNSENxX1BzbUN6WEg4czlfRkgyam5mVGg4UGR1cWtIbGxMcVk2SVNPZmNac0JoV1FQdmtNY0dRLU5CRVN3akY4YUs3bVEwb1hFZDdzWUxNczAxQnktNDBqa045UlhmSlhOMklJMkNEV2dpYnpfY3JielpPalVFQg?oc=5"
     },
     {
-      "id": "news-politics-41201458f1",
-      "lat": 34.73947,
-      "lng": 135.46714,
-      "title": "「副首都」同時指定へ連携協定 北海道、大阪府両知事が会談",
-      "category": "POLITICS",
-      "time": "2026-08-31T02:39:14Z",
-      "summary": "「副首都」同時指定へ連携協定 北海道、大阪府両知事が会談&nbsp;&nbsp;沖縄タイムス社",
-      "source_name": "沖縄タイムス社",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93c1NkMzJlaGZzbEFsNl8xaUQ0U3dqMG9WUXg5OFZJTTJBTmJaUkRFa3JZQ00xSDUza3hQSHNwNkRvenltU2hQWDVTeERfSVZPNWFvdWZybGstbUhubXc?oc=5"
-    },
-    {
-      "id": "news-politics-ba59269076",
-      "lat": -12.05186,
-      "lng": -77.03979,
-      "title": "How hard-left politician Rima Hassan is testing the boundaries between free speech and provocation",
-      "category": "POLITICS",
-      "time": "2026-08-31T02:30:10Z",
-      "summary": "How hard-left politician Rima Hassan is testing the boundaries between free speech and provocation&nbsp;&nbsp;Le Monde.fr",
-      "source_name": "Le Monde.fr",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTXRqZ3QzRFd5Vk13SGoyUDhjR1p5UmtUVlVUbTg1YXlwS0RjSVpMcXZDcm5jQ3lCVHBMV2N1UlFYSWg1bTJMZng4blI1eGlsa3B0aGVjNFh0dklybkNSMlVYeVlhSG9YTTBGSmlFWVRtZW1GQjRyREJ0YXg3R2dPRm81R19maGxkQTF1RkVUQ0YtOUVUQ3JtNDByemh3X1JRZUtJdmNwNFgyeEVmel9mTl96XzBkdEJURF9TLUNfd0JnRTlLM2N6RzZCY19FZnhGVVVqRkRiXzA5ZkNkMW00TEx0M1BlbnZpOVVncGVPTmloTzhfcUhyQkJ0OA?oc=5"
+      "id": "news-finance-ae33598a75",
+      "lat": 35.65723,
+      "lng": 139.80339,
+      "title": "東京為替：ドル・円は軟調、ドル買い・円売り縮小(フィスコ)",
+      "category": "FINANCE",
+      "time": "2026-08-31T03:27:00Z",
+      "summary": "東京為替：ドル・円は軟調、ドル買い・円売り縮小(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSE41ZElMSzJaZnhuelJQU2N1cTNTQ0xJUHVLbmFLall0WUVqcFNIQ3IxU2lTaHFubG5jRVk5NjRXNHhSNWV2cWtwakE3aDFpZC04V2tHN3BQRWt4SVZfOVR2cUNVdUt1SDB3S0hpS2NDSWc0anVnYXFtVnlEYmlFT09iZ19oVms?oc=5"
     },
     {
       "id": "news-finance-2a944d5028",
-      "lat": 44.62388,
-      "lng": -72.48981,
+      "lat": 44.59324,
+      "lng": -72.53996,
       "title": "Vermont First Innovation Grant Helps Local Producers Reach Institutional Markets",
       "category": "FINANCE",
       "time": "2026-08-31T03:10:55Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-05ab10adbe",
-      "lat": 35.28365,
-      "lng": 139.71781,
+      "lat": 35.22306,
+      "lng": 139.70119,
       "title": "ニフコ株価一時3.8%高 発行済み株約9%自社株買い、需給改善好感",
       "category": "FINANCE",
       "time": "2026-08-31T02:48:50Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-0cfa0c1576",
-      "lat": 35.62351,
-      "lng": 139.76804,
+      "lat": 35.6589,
+      "lng": 139.81739,
       "title": "円高、円売り材料に反応見られず＝東京為替前場概況",
       "category": "FINANCE",
       "time": "2026-08-31T02:40:44Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-3aeb208ec2",
-      "lat": 25.26405,
-      "lng": 55.2242,
+      "lat": 25.21394,
+      "lng": 55.27421,
       "title": "３１日前引けの日経平均株価＝１０４３円９６銭安の６万５３６１円６０銭と大幅反落(ウエルスアドバイザー)",
       "category": "FINANCE",
       "time": "2026-08-31T02:31:00Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-cd28097242",
-      "lat": 35.70166,
-      "lng": 139.82909,
+      "lat": 35.7256,
+      "lng": 139.77518,
       "title": "日本精機、株価一時3.4%高 デンソーから一部事業譲り受けを発表",
       "category": "FINANCE",
       "time": "2026-08-31T02:26:32Z",
@@ -122,42 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NMHN0cmVIRDduc2l3dGczVzZXSWh0S1FxSmxudHJXakp0NmxzQXg1TTRKZC1UbjI3Nmx4a3E4X3dGWU91cmxtR0cxZzRsSkhYdWExa3lzeDRLWmtwOTQ3N2UxSG94Q0lfVVdCWA?oc=5"
     },
     {
-      "id": "news-finance-d17f4ba6de",
-      "lat": -33.92512,
-      "lng": 151.25076,
-      "title": "〔シドニー株式〕横ばい＝金融株高が産金株安を相殺（31日）(時事通信)",
-      "category": "FINANCE",
-      "time": "2026-08-31T02:26:00Z",
-      "summary": "〔シドニー株式〕横ばい＝金融株高が産金株安を相殺（31日）(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlI2b1dkelVzdVNwTjQ0ZmF5ck5qM3JXZEhXdHQ0Z19oVUR2LTh2aDh1ZzYxb1lYQVRPNUZDWjdSbWFYRzRLaFdEX3hETFZocDU5UUM4NGNKaXVNM2kzQjdOVTRWMVR2QTlFSFFVM193RDM0QVZVZ1BLY0NiWHBDVkZCWFQ1aEk?oc=5"
-    },
-    {
-      "id": "news-disaster-815e0e258b",
-      "lat": 32.78609,
-      "lng": 130.70621,
-      "title": "【地震に自信を】熊本地震から１ヶ月が経ちました（2026年8月30日 今村文彦先生）｜SUNDAY MORNING WAVE",
-      "category": "DISASTER",
-      "time": "2026-08-31T03:06:06Z",
-      "summary": "【地震に自信を】熊本地震から１ヶ月が経ちました（2026年8月30日 今村文彦先生）｜SUNDAY MORNING WAVE&nbsp;&nbsp;JFN Pods",
-      "source_name": "JFN Pods",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12a0pfeU5LSFRjaU1QQnJTRGYwbDdIWnk2VDZDTEp6QTN4LXhpY1I5a1hYRXZNemlJMEg2eXZEVUVnQ0FFR0RORDFYRFp3QTlKbjhWdnhkOF9CM3hNRjY0WkdFd3prUQ?oc=5"
-    },
-    {
       "id": "news-disaster-90d5d26a63",
-      "lat": 38.91374,
-      "lng": -76.98316,
+      "lat": 38.90963,
+      "lng": -77.0735,
       "title": "15 people may be missing after Grand Canyon flash flooding",
       "category": "DISASTER",
-      "time": "2026-08-31T03:04:19Z",
+      "time": "2026-08-31T03:25:50Z",
       "summary": "15 people may be missing after Grand Canyon flash flooding&nbsp;&nbsp;The Washington Post",
       "source_name": "The Washington Post",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5"
     },
     {
+      "id": "news-disaster-4aa55583f9",
+      "lat": 41.95486,
+      "lng": -93.34566,
+      "title": "Iowa Nepalese community holds vigil for flood victims",
+      "category": "DISASTER",
+      "time": "2026-08-31T03:22:00Z",
+      "summary": "Iowa Nepalese community holds vigil for flood victims&nbsp;&nbsp;KCCI",
+      "source_name": "KCCI",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGNJOTRwcXMyR2R3VmJzSmNTM1FzekdfWnJSVjlwb2xCTVBnejQ0MVJGOXlPWjkzT2dYNmtVRzJxZVdYT1Z1YVlCQndyaTZIUjY2VF8tVDl2aUxaaG5wWEhhSnVSWjVqX0h0akgwdnRBMk8tdVlJaUlaWkZMVHZmSkl3YzB5ZTFuNC1ac1dFOTA2NXJOWlE?oc=5"
+    },
+    {
+      "id": "news-disaster-554e3eb577",
+      "lat": 35.31459,
+      "lng": 139.5001,
+      "title": "豪雨も台風もあったのに水不足！？極端な降水分布の理由と今後の見通しは：気象予報士解説（植松愛実） - エキスパート",
+      "category": "DISASTER",
+      "time": "2026-08-31T03:12:57Z",
+      "summary": "豪雨も台風もあったのに水不足！？極端な降水分布の理由と今後の見通しは：気象予報士解説（植松愛実） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWg1cVZaNFp1Y3BTeDdkcFVGTEJBSl9vY0ctRWRYOUpfUGxOdUdqRGozTzZiY2h4MnVUenN5clBXR01lTWx6WW9tMXgwOUZURkh0QUpHSWJHRGxqUmF0WlNya2dOVGV2aklzUmpjV1N0ejNqcFJMTlBvUVREVk1kS1lNNkVUX0ox?oc=5"
+    },
+    {
       "id": "news-disaster-2fbce2c7cb",
-      "lat": 38.94239,
-      "lng": -77.07828,
+      "lat": 38.87172,
+      "lng": -77.00734,
       "title": "They went to Nepal for a spiritual journey. Then an epic flood arrived.",
       "category": "DISASTER",
       "time": "2026-08-31T03:02:22Z",
@@ -166,31 +177,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHh4V2VkYjlzVDlrcmZlLTFNaU1vVmpWQUxXa095LThpSEI0MkNZTU0xekJQNUs0MTlEcmlZMk9HdVJmM1dReGoyMHdEcDVfY3ZzSTlIUF90cUhYTkZRa2lpMERZTVo4SW4xeHNYdHR0T24xQUNFYzRNOEpYX1NweEtNZ0R5MVNqNUd4MUhDQW9iU0FrZlk4Snhqa21VMmdRanI4ckEtMGtWVHpwcXBjWU1vLXBCdG8?oc=5"
     },
     {
-      "id": "news-disaster-6693a60904",
-      "lat": 30.36035,
-      "lng": 130.54627,
-      "title": "【9月1日は防災の日】災害時も日常もあなたを守る！ 30通りの使い方で便利＆安心な『マイメロディ＆クロミのおまもりふろしき』発売",
-      "category": "DISASTER",
-      "time": "2026-08-31T03:00:02Z",
-      "summary": "【9月1日は防災の日】災害時も日常もあなたを守る！ 30通りの使い方で便利＆安心な『マイメロディ＆クロミのおまもりふろしき』発売&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WX0hIS2V5cmNjVHpodkl5M3ktaDZ2b21JbDFGbXhnRldVYkoxUDlUNmJVY0RtTm9uX1RVNER6QV9qSUZlbFJqd015ZjV6ejktY1dHMmx2bzh3dTdQS0pXX0F4dVNUTWRzaVE?oc=5"
-    },
-    {
-      "id": "news-disaster-f445751565",
-      "lat": 43.6949,
-      "lng": 3.82272,
-      "title": "飯田商工会館で「防災フェス」 炊き出し訓練や災害時の情報入手を考える（みんなの経済新聞ネットワーク）",
-      "category": "DISASTER",
-      "time": "2026-08-31T03:00:00Z",
-      "summary": "飯田商工会館で「防災フェス」 炊き出し訓練や災害時の情報入手を考える（みんなの経済新聞ネットワーク）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04YUZoY1VmODFUalhUWktvY2Nxc012SGN4TkdtNmZ4dkd2OVJFMF9XYng1OHFWV05XSWowMW15RlhxSG5aWXhrNWo4MHowMlJzOVY1S3ZrNVhBVzdOZnpPdDZ0TzlaMVU1NVVSRUtnYVlIMWppUVdreEEyUEFPbmM?oc=5"
-    },
-    {
       "id": "news-disaster-a204c79f7d",
-      "lat": 31.5854,
-      "lng": 130.57739,
+      "lat": 31.55466,
+      "lng": 130.50622,
       "title": "鹿児島県で最大震度1の地震 鹿児島県・知名町（FNNプライムオンライン（フジテレビ系））",
       "category": "DISASTER",
       "time": "2026-08-31T02:59:19Z",
@@ -199,9 +188,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QYUExMUdXVmM3cmpnYVRNdDlPNElQQVNsdjh4RE5kQ1poYTVuRDBlTE85eG8zM2FQRnFab3FrSlRpNmNYUWgwYU1kRnJ6bE9xRnJISl80LV9tMWloQzBHVDVCUDNiWFB2V1hUTE9oTDRDMkhnS0hZTlNHZE5mc3c?oc=5"
     },
     {
+      "id": "news-disaster-1ab326c1aa",
+      "lat": 23.72109,
+      "lng": 89.97513,
+      "title": "Update: Earthquake measuring 2.6 shakes area close to Delta, B.C., MX on Aug. 30",
+      "category": "DISASTER",
+      "time": "2026-08-31T02:51:06Z",
+      "summary": "Update: Earthquake measuring 2.6 shakes area close to Delta, B.C., MX on Aug. 30&nbsp;&nbsp;Fresno Bee",
+      "source_name": "Fresno Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZTU2R1ppMS0zeEhmTVIxUFVESXdZMFRyZk9iUWNHeE95YUZCYml4R2NJVUIzeFdDZEREQzJpeUpheW80MUxYN0RPOXJ5WjJYNjJfbFBxQkFSUDZpU2w0MFlCYS10S1poVWpyUmNnNzdLSUZfbE8zQ19YZzJkdlRnMQ?oc=5"
+    },
+    {
+      "id": "news-accident-70512d122a",
+      "lat": 33.56743,
+      "lng": 130.22348,
+      "title": "乗用車とトラックが衝突する事故　愛知に住む3人死亡　滋賀県高島市",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T03:16:00Z",
+      "summary": "乗用車とトラックが衝突する事故　愛知に住む3人死亡　滋賀県高島市&nbsp;&nbsp;nagoyatv.com",
+      "source_name": "nagoyatv.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53eFFINWROUzl6UVBybDAySEYtY0hjSDdxSW53QUh3WjRKTElYMUJ0N3NiMHpLaTFlZllEN3JUNWc5SlBHei1FTnZrbG5uZ3Z3MUHSAWRBVV95cUxPbEI3cGVGUGFpdnQxd3k5c2NEcUNlR0dvcDJhS2pxQ0xVdmJhUVVZLUFMd3IybnREdll5VkRUNDMtNmphNHl0WVRNcWJhbXFKX0phU3h6OFZmeXhFd0FwUUlWWm5o?oc=5"
+    },
+    {
+      "id": "news-accident-b82d610bfa",
+      "lat": 36.73552,
+      "lng": 139.12798,
+      "title": "「鹿との距離を保って」奈良公園で人と鹿の事故防ぐパトロール これからは発情期でオスの気性荒く…県職員が３か国語でマナー啓発 | MBSニュース | 関西の最新ニュースを分かりやすく。",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T03:09:23Z",
+      "summary": "「鹿との距離を保って」奈良公園で人と鹿の事故防ぐパトロール これからは発情期でオスの気性荒く…県職員が３か国語でマナー啓発 | MBSニュース | 関西の最新ニュースを分かりやすく。&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VZ2YtcjJmcnIyQmlHUVRZZ09KakRidW1yVWhsS2FMNmhKYXJjU21qZWxQeTBCQnBIWG81WDlSZVhJU2I0a1FHTDV1TmYydUh0bUZqT3lQU0Q2Zw?oc=5"
+    },
+    {
       "id": "news-accident-61f1af0856",
-      "lat": 33.57755,
-      "lng": 130.18245,
+      "lat": 33.65021,
+      "lng": 130.16717,
       "title": "トラックと乗用車が正面衝突する事故 乗用車に乗っていた3人が死亡・2人が重傷 トラック運転手が軽傷 乗用車が中央線はみ出したか",
       "category": "ACCIDENT",
       "time": "2026-08-31T03:06:00Z",
@@ -210,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNbnFSWjlJVFlPTGtnZHRQbmxJX1cwTWpqYkZJaHVDSDAyZW8zOHVFMVZCMUVVTjMweTNSeS1kWXFUZ0tUU0ZPaHRWR1VNUGdJd1czVg?oc=5"
     },
     {
+      "id": "news-accident-9e9afb7f4c",
+      "lat": 33.54163,
+      "lng": 130.20931,
+      "title": "トラックと乗用車が正面衝突する事故 乗用車に乗っていた3人が死亡・2人が重傷 トラック運転手が軽傷 乗用車が中央線はみ出したか",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T03:06:00Z",
+      "summary": "トラックと乗用車が正面衝突する事故 乗用車に乗っていた3人が死亡・2人が重傷 トラック運転手が軽傷 乗用車が中央線はみ出したか&nbsp;&nbsp;FNNプライムオンライン",
+      "source_name": "FNNプライムオンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wUndQZDNudTU3Z2ZtUnVBVlZYRjBORTZFdnZSOEdFS254Zm01RzBDNWx5b3Q1SVRLWGVoZU1DOWdrU1J0dU40aE5UMERnZw?oc=5"
+    },
+    {
       "id": "news-accident-88578d8915",
-      "lat": 37.95931,
-      "lng": 138.97363,
+      "lat": 37.91942,
+      "lng": 139.03347,
       "title": "夏休みが明け児童が登校 通学路で交通事故防止呼びかけ【新潟】（UX新潟テレビ21）",
       "category": "ACCIDENT",
       "time": "2026-08-31T03:05:05Z",
@@ -221,53 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fVEFFVnVxZFZmei1YQVdfVVpSbjRDbXVVQnA4eWR3M3JMS1lqN0c5cEhxN3NBVWFDMVlpbFY1U1hSUjJMcFY0Qlk3emVraVhJNzE1QTZVRkRFZ3dBRnFxdEFVeUo1VWZ1SUJWbm9KRU5HSzZldHF5QUJyMWpiYTg?oc=5"
     },
     {
-      "id": "news-accident-65b4237684",
-      "lat": 15.90569,
-      "lng": 107.9947,
-      "title": "飲酒運転で3台絡む玉突き事故 9歳男児ら2人ケガ ベトナム国籍の25歳男逮捕 千葉市",
+      "id": "news-accident-1bb4282669",
+      "lat": 37.92951,
+      "lng": 139.08117,
+      "title": "夏休み明けの交通事故防止へ 登校児童に注意呼びかけ 新潟",
       "category": "ACCIDENT",
-      "time": "2026-08-31T03:02:00Z",
-      "summary": "飲酒運転で3台絡む玉突き事故 9歳男児ら2人ケガ ベトナム国籍の25歳男逮捕 千葉市&nbsp;&nbsp;FNNプライムオンライン",
-      "source_name": "FNNプライムオンライン",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fT25TQ0VGSkNnaFN3SFo2RXJ0WHExVE9lZFBYQjBWc3hCcmQ0OXVvNmxYZlFfVEVxUjdMbHhxTTlrSHdrLWRYWld6WGE3UQ?oc=5"
-    },
-    {
-      "id": "news-accident-8fd61b67b3",
-      "lat": 31.55478,
-      "lng": 130.56726,
-      "title": "福岡・海の中道飲酒運転事故から20年 九州各県警が初の一斉取り締まり 鹿児島で酒気帯び運転2件など摘発",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T02:58:13Z",
-      "summary": "福岡・海の中道飲酒運転事故から20年 九州各県警が初の一斉取り締まり 鹿児島で酒気帯び運転2件など摘発&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xT21ZWlhyMWFwdjVTZ05nQXRXRDdsaGpGQlNjYnlMZ1E1bWNndzIyMmV3Z19IVVNJUWUxOTljclQ1cDBHZnFmdGgtcDdtVTIzMVB0dXYzZ3Bya0g1Ri1aamJWTy1YYnVvbWlzNzgwdzV1VTZDQk1SWXV3ajQyQjQ?oc=5"
-    },
-    {
-      "id": "news-accident-73adb1c502",
-      "lat": 31.62815,
-      "lng": 130.51159,
-      "title": "福岡・海の中道飲酒運転事故から20年 九州各県警が初の一斉取り締まり 鹿児島で酒気帯び運転2件など摘発",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T02:56:00Z",
-      "summary": "福岡・海の中道飲酒運転事故から20年 九州各県警が初の一斉取り締まり 鹿児島で酒気帯び運転2件など摘発&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TclZXTDI1MDJsZTY0b19wYTZSaXJNVWdWUDdCc3FLRXF5cExidThpOTNMWjA4cndqWmJNcXpjQlUwMEk3a2dQOTJ6Tnp1VEpfaVl2RzNBdGU4Yk9vbU8tMkFTTng?oc=5"
-    },
-    {
-      "id": "news-accident-48afef4558",
-      "lat": 41.55178,
-      "lng": -71.83975,
-      "title": "Car crashes and catches fire in Voluntown, one person dead",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T02:52:00Z",
-      "summary": "Car crashes and catches fire in Voluntown, one person dead&nbsp;&nbsp;WFSB",
-      "source_name": "WFSB",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrVmM2Um5qWE9rYWpwXzFFM2s3SkR6ZVNGMVVCZlFEcVBVeW80REw3UFpUcHZPbThnNGMtVDcyWG9aSTB5b1lHZDB0c1F2MzhQQXlzSXhEZTNOSzJranV0MWNfNFRTblBjV3F4TjJFdHREYXdzdjBKRHhn0gGOAUFVX3lxTFBJanBtU1B2bmFNanE2SmFTWWpRc2cyc0FnMFVteU1JQnRMSU5nLTQyeHpmTjZQSkRrR3hXWUZGSVZKSlBpa3g1YmlFN0kxRE8wNlVRd090eE1GLXV3QVoxYnBtVHZvSWxzbVBzdjlOR1ZzVnctbmxEeHN3akZBVnBnNGtvdTI4ZkRTRHdoUEE?oc=5"
+      "time": "2026-08-31T03:03:00Z",
+      "summary": "夏休み明けの交通事故防止へ 登校児童に注意呼びかけ 新潟&nbsp;&nbsp;NHKニュース",
+      "source_name": "NHKニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hN0RfZkp6TkY4SE9iZFJ6aGx5dmxtcnJVWGdpZjNiM25zQUNjaHI2cXVIa2RaRUt2c2RsdkRkSUV4YW9Cay13eEZUYV9CdlpjVkNmNWEwVFQ?oc=5"
     },
     {
       "id": "news-disease-aa338c8395",
-      "lat": 35.6473,
-      "lng": 139.81409,
+      "lat": 35.75715,
+      "lng": 139.72192,
       "title": "【写真】女性に多い病気「膠原病・リウマチ」ってどんな病気？ 特徴や症状を知っておこう（竹内 勤） | ＋αオンライン | 講談社",
       "category": "DISEASE",
       "time": "2026-08-31T02:35:29Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-1d66d99167",
-      "lat": 26.22828,
-      "lng": 127.68689,
+      "lat": 26.25838,
+      "lng": 127.72293,
       "title": "肺炎球菌感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-31T02:00:00Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-ca1279d864",
-      "lat": 35.46826,
-      "lng": 139.66494,
+      "lat": 35.52381,
+      "lng": 139.62305,
       "title": "生島ヒロシさん、鈴鹿で講演 「敵は病気とスキャンダル」 ユーモアあふれ 三重",
       "category": "DISEASE",
       "time": "2026-08-31T02:00:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-83fe0d827d",
-      "lat": 35.4282,
-      "lng": 139.64015,
+      "lat": 35.50088,
+      "lng": 139.60518,
       "title": "生島ヒロシさん、鈴鹿で講演 「敵は病気とスキャンダル」 ユーモアあふれ 三重（伊勢新聞）",
       "category": "DISEASE",
       "time": "2026-08-30T23:01:09Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-8bb489d7f7",
-      "lat": 34.92753,
-      "lng": 135.23895,
+      "lat": 34.8805,
+      "lng": 135.24236,
       "title": "魚中心の食生活に管理栄養士が“注意”病気のリスクも… さんま「週2回」「僕はそれ守ってます」",
       "category": "DISEASE",
       "time": "2026-08-30T22:15:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-368a151612",
-      "lat": 35.51981,
-      "lng": 139.54043,
+      "lat": 35.55865,
+      "lng": 139.53882,
       "title": "インフルエンザ様疾患による学級閉鎖等の報告状況（2026/2027シーズン）",
       "category": "DISEASE",
       "time": "2026-08-30T15:07:48Z",
@@ -331,9 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oR21oUG9GTEVzUVk3Y3FHcklZMDE3Skx5b2pWMG5yNzNFcFVkTGhWQUFjZGFOVUxjbW9qa0oxdVNuTGtJcnZHdFNaZXFaakVmTGRGU003ZzZSdlh6T0Jkc1lOelJjaEd5?oc=5"
     },
     {
+      "id": "news-technology-4e216b6485",
+      "lat": 46.01283,
+      "lng": -94.6586,
+      "title": "Minnesota man invents AI-powered machine to kill weeds - FOX 9 Minneapolis-St. Paul",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T03:21:50Z",
+      "summary": "Minnesota man invents AI-powered machine to kill weeds&nbsp;&nbsp;FOX 9 Minneapolis-St. Paul",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFlpYm52ZEFXcGdlNXpyRnZIT0I5OEE4QU9kaGxXUlJvVjFhbmlQSXdpb3RPQjlSeEMxUmphVU5fNTYyRXpiaEc2MVRUMFFpMm80bTg1M2g4enVESWpnWUNORlB5dzJWNDVpQ0FybWtUUEJlamh1SE5XT2UzWDA3ZVJOWQ?oc=5"
+    },
+    {
+      "id": "news-technology-774a5bec3a",
+      "lat": 10.28378,
+      "lng": 11.75169,
+      "title": "ソフトクリエイト、「Safe AI Gateway」に図表や画像を解釈できる「画像対応RAG機能」を追加",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T03:21:00Z",
+      "summary": "ソフトクリエイト、「Safe AI Gateway」に図表や画像を解釈できる「画像対応RAG機能」を追加&nbsp;&nbsp;クラウド Watch",
+      "source_name": "クラウド Watch",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Sd0hSUDhKMzdaS0tESHoyMDRPM2h0eTFQTWlDQjgyMFVwUlpfSVE4RDh5X0JGcmEzbVVlcWptOFc4UXpUX0ZRWWRRRHplZ1VXTWZGTDJsYVVRQzF3MTdBdHdVQ0dyUXM?oc=5"
+    },
+    {
+      "id": "news-technology-a151478485",
+      "lat": 38.32987,
+      "lng": 140.27636,
+      "title": "「生成AIパスポート」を提供する生成AI活用普及協会に聞く AI人材育成と“3つの壁”を越えるための戦略",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T03:16:25Z",
+      "summary": "「生成AIパスポート」を提供する生成AI活用普及協会に聞く AI人材育成と“3つの壁”を越えるための戦略&nbsp;&nbsp;株式会社インプレス",
+      "source_name": "株式会社インプレス",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XV1FKZllOaFpkblZFZ2k3TG1qeW42RlNyU2xGV2ZJSXIxTkg3dVpMZzhDZnpXVElzMnNtVTAxQUQyNHJQMEN3Z1pKZU9XaWM1LUJSNEtLNFVXajE0cktfdHc4amdCYTJUdGc?oc=5"
+    },
+    {
       "id": "news-technology-e9eefabdaf",
-      "lat": 35.67826,
-      "lng": 139.72239,
+      "lat": 35.67344,
+      "lng": 139.7115,
       "title": "24時間365日、広告効果に向き合い続けるAIエージェント「効果おまかせAI」がもたらす価値",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T03:14:24Z",
@@ -342,20 +375,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmLVpRd3VCTldXb3ZiWkhodTdzUm1qQXVjN1pybjRkc19tb1YyX0xZQ1JDdTlINmJkRHlVLWMxdHgwYXhwZUY3ZDQzM19Fa3MxYnJOYnFKd2tZMEVhTHhXankxSQ?oc=5"
     },
     {
-      "id": "news-technology-b5fa5c8143",
-      "lat": 35.66303,
-      "lng": 139.74347,
-      "title": "中国のＡＩエージェント関連特許 ２５年の登録３４００件超",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T03:09:00Z",
-      "summary": "中国のＡＩエージェント関連特許 ２５年の登録３４００件超&nbsp;&nbsp;新華網日本語",
-      "source_name": "新華網日本語",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3bkFxN05ZX1Vxclo0b3BwRTJCdEVDdUkyQXV4d21ZRDdVYWotSU9EYXhBclFMTDV2alNmUjEtRlNzY1JZcThGVUtFMHpaZU5Sem9MYklSanJkWG9yU19GdEZxX2g2UTFfdnVrRzIxLUF1UURzN3c?oc=5"
-    },
-    {
       "id": "news-technology-8711b9d372",
-      "lat": 34.64641,
-      "lng": 135.55276,
+      "lat": 34.74149,
+      "lng": 135.51727,
       "title": "AI・教材作成・効率化を実践、MELC大阪が教員向け無料ワークショップを10月3日に開催（こどもとIT）",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T03:03:00Z",
@@ -364,37 +386,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hMFFPbEdjMXpYRTl6SDRhRUpTR2RYMnFoMGl3UTVzbVFEaC1sSFJPcTNlQzZlMkdMYmloTHJCaFpzaG8wS1VGbVZ2cjBMX0dwRmh1YlJrZnJ0M2dRUzBKeWNCeHREbzJhaTNVcy1SLS01MkUtSlpjNmctVjhJWUE?oc=5"
     },
     {
-      "id": "news-technology-0313d0cef7",
-      "lat": 51.22693,
-      "lng": 6.80871,
-      "title": "ITADを活用したAIサーバー基盤のクラウド的提供事業に関する共同事業開発でTES-AMM JAPAN 株式会社 と基本合意文書を締結",
+      "id": "news-technology-ac533d1097",
+      "lat": 38.52346,
+      "lng": -121.55223,
+      "title": "ブリッジインターナショナルグループ、「TerraSkyDay 2026」にGOLDスポンサーとして協賛・出展、AIエージェント時代のレベニュープロセス改革をテーマに登壇",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T03:00:02Z",
-      "summary": "ITADを活用したAIサーバー基盤のクラウド的提供事業に関する共同事業開発でTES-AMM JAPAN 株式会社 と基本合意文書を締結&nbsp;&nbsp;PR TIMES",
+      "summary": "ブリッジインターナショナルグループ、「TerraSkyDay 2026」にGOLDスポンサーとして協賛・出展、AIエージェント時代のレベニュープロセス改革をテーマに登壇&nbsp;&nbsp;PR TIMES",
       "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIS183dVU4VUZtaVJDZG9WLTVkZmM4RXowckxzam5Yd3Fqa0g2TlRQTUFqbXd5NnV0TE1aZjRzMXBULVBFLU85bXBMQVAyQ2l2dDVLRmJ0b2RieVVjU3JWRWFTNktJWlFDOHc?oc=5"
-    },
-    {
-      "id": "news-technology-03905c5bfb",
-      "lat": 51.04725,
-      "lng": 6.99973,
-      "title": "CBTW Brings Governed AI Engineering to Australian Businesses Through APAC Delivery Teams",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T03:00:00Z",
-      "summary": "CBTW Brings Governed AI Engineering to Australian Businesses Through APAC Delivery Teams&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmhDTUlnaEVzTHk1RTEzQUlVUFRPck9vYWI5RjJpRHp5NzhVTTFKbFEtdm56QjI3cmYwZENZeFVLXzFGdGpkZ1k0czNjdWJIa1ZycjZJa0QydTFibWk2N1VHaWlBc1MxSDRDM2ozWFhkZXhYWnZlaV9xM1RaY2UtMGlQdFZoYzRDTWIwc0toaWREUGg5b0hFYUR3eTdINnRM?oc=5"
-    },
-    {
-      "id": "news-technology-accca00bf4",
-      "lat": 36.59685,
-      "lng": -4.57703,
-      "title": "Mitsubishi Electric Develops Task-Aware Unified Source Separation Technology",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T03:00:00Z",
-      "summary": "Mitsubishi Electric Develops Task-Aware Unified Source Separation Technology&nbsp;&nbsp;Yahoo! Finance Canada",
-      "source_name": "Yahoo! Finance Canada",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaU5qQkZRREE0ZXRYVVIzTlR6THhyeHhRTjJtdWpaNGU1ekxGZWRadHpZM0lQUHFRWFhobThfb296TFRFemN6VlB1djJNU3lLb2hpSWU2VExBTDlVcWdybUpfOVp2M1NPS0FLcWQ5Y2cyVlFZSlRfMG5vZHVfbHg1OXlrQjQ2VGg4N3NoQUg0dlViZw?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydGt1czNQbG9LTTMxLTF2eFFRZnFiX1FuUm5Eczlyek15bDJDYWJYZWFJaFJUUWRCbnA0NllsUFB6VHNONXBYT3pHMGV2S2dRNWlIV1NVZzVxdXBLamNia3owWVkxUUwzV3c?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T03:18:43Z"
+  "updated_at": "2026-08-31T03:34:03Z"
 }
