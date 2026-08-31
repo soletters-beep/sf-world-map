@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-20b34457b2",
-      "lat": 30.70617,
-      "lng": -90.92991,
+      "lat": 30.64248,
+      "lng": -90.98165,
       "title": "Pride comes before a fjord",
       "category": "POLITICS",
       "time": "2026-08-31T05:08:58Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "news-politics-1e0e61a165",
-      "lat": 64.68377,
-      "lng": 97.71494,
+      "lat": 64.73187,
+      "lng": 97.74901,
       "title": "Russia's Putin and China's Xi to attend summit in Kyrgyzstan",
       "category": "POLITICS",
       "time": "2026-08-31T05:02:53Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-6c241bee5f",
-      "lat": 32.64583,
-      "lng": 54.50681,
+      "lat": 32.66739,
+      "lng": 54.53583,
       "title": "US and Iran trade strikes for first time in weeks",
       "category": "POLITICS",
       "time": "2026-08-31T04:54:32Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-9ee1e13c60",
-      "lat": 42.42435,
-      "lng": 1.96546,
+      "lat": 42.43491,
+      "lng": 1.95867,
       "title": "政治勢力が国連主導の合意に署名し、リビアでの選挙実施への道が開かれた。",
       "category": "POLITICS",
       "time": "2026-08-31T04:45:30Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-45188e2b6a",
-      "lat": 45.39983,
-      "lng": 15.62137,
+      "lat": 45.3311,
+      "lng": 15.61349,
       "title": "無党派の「庶民」を狙うひろゆき×泉房穂新党 SNS「推し活政治」の蛙化現象を超えられるか（AERA DIGITAL）",
       "category": "POLITICS",
       "time": "2026-08-31T04:40:26Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-c481db2f84",
-      "lat": 19.13554,
-      "lng": 77.29122,
+      "lat": 19.17774,
+      "lng": 77.30498,
       "title": "‘Not today’: Gobind keeps politics off the table on National Day as questions turn to Ong Kian Ming’s DAP resignation",
       "category": "POLITICS",
       "time": "2026-08-31T04:26:00Z",
@@ -67,9 +67,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2RkT3FLN0wwU3p0WV9lMVlJSGc1UHlMZEhWMHVjRC1FNjlDOFVoSDd3Z3d5TE9Hc2g3SXlvSjRmR0lOcWxEWmRxclZ6RUdnb2Q0dFlEQ1pHVG9RNzlsOUNJbmdlRk1OU1dTVnB6bHo2VnVsYlVsbFl6TEhuVTlHOXl5X0g?oc=5"
     },
     {
+      "id": "news-finance-2f340191bf",
+      "lat": 30.14688,
+      "lng": -92.32682,
+      "title": "Private climate-focused fundraising in growth markets surpasses 2025",
+      "category": "FINANCE",
+      "time": "2026-08-31T05:40:24Z",
+      "summary": "Private climate-focused fundraising in growth markets surpasses 2025&nbsp;&nbsp;Sustainable Views",
+      "source_name": "Sustainable Views",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZXQxWURjZV9TcHhVSFFSTmN4S2d3dEVURWQ3M1hLdktocWs0MlEzZ2RTQU5TaG1VYmZwellPeTVfLW0tbE1hTnRpc3M2c29MYThmS1JIUHJCV2NjVmswTkpFU1VwOXhfMGNYUWhDZFJhRThEc0tNNUg2RXZjZWdFQ2Z6U0UzaERfb3ZCYXNiZUpEVC1Ha3VpLVpFQXpYLW9mZmVsUTc4XzRfOFhFTXVNdQ?oc=5"
+    },
+    {
+      "id": "news-finance-8479d7f2f1",
+      "lat": 35.68082,
+      "lng": 139.75588,
+      "title": "ソニーＦＧが反落、ソニー生命に金融庁が立ち入り検査検討と伝わる",
+      "category": "FINANCE",
+      "time": "2026-08-31T05:38:00Z",
+      "summary": "ソニーＦＧが反落、ソニー生命に金融庁が立ち入り検査検討と伝わる&nbsp;&nbsp;株探",
+      "source_name": "株探",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EV0l5RmxYSC03SThCWWo2dWxyWWh2NmkxNTAza2IzLVFjb0hWVjZYNURYVWQ1N2F1Q1NDTG9hSkJfaUthbTBNejZDTHJSWFc4WjYyOWtaeWQxN21tZ1d5cw?oc=5"
+    },
+    {
       "id": "news-finance-34be0b2f4f",
-      "lat": 7.17273,
-      "lng": -9.00401,
+      "lat": 7.15703,
+      "lng": -9.0498,
       "title": "日本ゼオン、株価上場来高値 野村証券が電池材料見通し増額し判断上げ",
       "category": "FINANCE",
       "time": "2026-08-31T05:23:43Z",
@@ -79,8 +101,8 @@
     },
     {
       "id": "news-finance-44033b575c",
-      "lat": 33.54667,
-      "lng": 130.37703,
+      "lat": 33.53477,
+      "lng": 130.44408,
       "title": "リクルートHD－みずほが目標株価を引き上げ 中期的な業績成長局面を迎えた〔DZH 個別株情報〕(時事通信)",
       "category": "FINANCE",
       "time": "2026-08-31T05:18:00Z",
@@ -90,8 +112,8 @@
     },
     {
       "id": "news-finance-90a3a508e2",
-      "lat": 63.87058,
-      "lng": 20.24248,
+      "lat": 63.88066,
+      "lng": 20.29894,
       "title": "As the global economy evolves, capital is crossing borders, businesses are expanding into new markets, and the pathways to growth are being redrawn. Listen to Jan Metzger, Global Head, Coverage Banking, Standard Chartered, as he shares perspectives o",
       "category": "FINANCE",
       "time": "2026-08-31T05:15:38Z",
@@ -101,8 +123,8 @@
     },
     {
       "id": "news-finance-501034c351",
-      "lat": 2.47633,
-      "lng": 103.8684,
+      "lat": 2.47462,
+      "lng": 103.83945,
       "title": "Housing survey and library deficit lead at Finance Committee Meeting",
       "category": "FINANCE",
       "time": "2026-08-31T05:05:40Z",
@@ -111,42 +133,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDlEMG1mWG51SlhSaFhBeTFWZmxZQUNhNmkyUFM5VHhUSUEwX0hqeDdzWmZLM044ejNWTEpDZng0OFFwSTQzSkUzdFBCNlpMQnhPcFM3V2cxQ1BVMHdhcGRKVERiNHAwRGV5d19DX3hGSVFSUXFTR2NUUTZXYmRRX0JoUFA2eGVkQXlSdDUyQzNYQ3NSc2VYZmEwUHU5WTdJQmJjbVdyczFMbFdvZE9zLW1Bdw?oc=5"
     },
     {
-      "id": "news-finance-a44fc3606f",
-      "lat": 60.17479,
-      "lng": 20.00078,
-      "title": "INPEX株価、一時3カ月ぶり高値 米イラン緊張でNY原油が上昇",
-      "category": "FINANCE",
-      "time": "2026-08-31T05:03:34Z",
-      "summary": "INPEX株価、一時3カ月ぶり高値 米イラン緊張でNY原油が上昇&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUcnpCd1U4WWxSSmx5b1NlOHVmWVBPLWNMNWJBUGdrY3J5cmY1cjNpMHhYLXJUeU9HN0V6T1kza0FQMkhnNTRZNno4cko1MUhpaThpalFmaUVzMkZuV0x5d1p3MFpmT0tkTm4wSA?oc=5"
-    },
-    {
-      "id": "news-finance-24668965b7",
-      "lat": 36.54008,
-      "lng": 139.23808,
-      "title": "Japan-US talks expected as G20 finance leaders meet",
-      "category": "FINANCE",
-      "time": "2026-08-31T05:01:59Z",
-      "summary": "Japan-US talks expected as G20 finance leaders meet&nbsp;&nbsp;nhk.or.jp",
-      "source_name": "nhk.or.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45amIzT1JCRE1VRlpTb21FYTkzNXQwWGNRU0xyMmZrMnhfTVFUTXZjZzI3SEZwUUthOFh6Rnlaa293VmZSbWxnYWgtT01hcnB3TGVqa3RiaWNOcWtlRXNLd1B3?oc=5"
-    },
-    {
-      "id": "news-disaster-9284875b6f",
-      "lat": -25.50521,
-      "lng": 28.14111,
-      "title": "Deadly flash flood tears through the Grand Canyon",
+      "id": "news-disaster-8adbbbe226",
+      "lat": 56.78965,
+      "lng": 21.97153,
+      "title": "近畿に4つの「Sランク」断層帯 政府の地震調査委員会が発生確率を見直し公表 「30年以内の地震発生確率が3％以上」 阪神・淡路大震災の“割れ残り”区間も 足元にある“脅威”とは",
       "category": "DISASTER",
-      "time": "2026-08-31T05:23:36Z",
-      "summary": "Deadly flash flood tears through the Grand Canyon&nbsp;&nbsp;CNN",
-      "source_name": "CNN",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOENWTWh2eDFzbHZlcnJZYW5pVkpVZHBqQnZ6bjVONE1OY0xRcnk5OWJBVkN1dVhEai1NWUZBLXh4N1NfOE5sNGZNdWRrTjFxdzJ2SEtVRXItb3k5MFJJTHlwVktadlBtbms5S3V1MnJxNVlPbUZpa2Y3c1VndF9nSnVaZXFvaUdWcnRjNzZ4TXI2Sy1nN1hwbHEzckJsN0lVb3c?oc=5"
+      "time": "2026-08-31T05:36:50Z",
+      "summary": "近畿に4つの「Sランク」断層帯 政府の地震調査委員会が発生確率を見直し公表 「30年以内の地震発生確率が3％以上」 阪神・淡路大震災の“割れ残り”区間も 足元にある“脅威”とは&nbsp;&nbsp;ktv.jp",
+      "source_name": "ktv.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rTGZ6WGFPemNFMi1YVms4X2F6T19KVDljeWVnaXVkUWo5WVREYUZfajdEcGlYSWlCOEJaQ05KWEdORG40ekEzMmVHemVsVGFGaktSM3NBaXc?oc=5"
+    },
+    {
+      "id": "news-disaster-45c24ad183",
+      "lat": -25.43529,
+      "lng": 28.06205,
+      "title": "US: Deadly flash flood hits Grand Canyon",
+      "category": "DISASTER",
+      "time": "2026-08-31T05:30:44Z",
+      "summary": "US: Deadly flash flood hits Grand Canyon&nbsp;&nbsp;dw.com",
+      "source_name": "dw.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4ZG1INUJTT3BZU3cxVVI4elBfN01IcElUYWd0NFNGVHd6dU1jb0luSkxhcHlxZkpIemFLSDdrdVFIRDZQN0d0NlRlX2ZjU01FaWVjbjY2RnRaMFdqdnVnT2o1LU5mMmNCT3NRdGd3STNqejNLZTZoVHZLTW7SAXxBVV95cUxOMDBxbVhXZkhwNHN5TXhkbXFLWi13a01lZk5oa2puS0tvYkRwb0I1alFnOVdaOS10alFySlVRdHd5R1oyT2ZZNlA1LTJJakZDaURudDItYUo1c1FoVlh2eVAtTVFJd2RxWlI3bmJsZFNqY09HM0dpYUpFZW9Q?oc=5"
+    },
+    {
+      "id": "news-disaster-fd316e0185",
+      "lat": 35.701,
+      "lng": 139.85876,
+      "title": "【速報】新たな台風発生へ 日本の南に“台風のたまご”、本州へ向かう予測 最大瞬間風速25メートルか（埼玉新聞）",
+      "category": "DISASTER",
+      "time": "2026-08-31T05:23:34Z",
+      "summary": "【速報】新たな台風発生へ 日本の南に“台風のたまご”、本州へ向かう予測 最大瞬間風速25メートルか（埼玉新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4SkZ0ZEFEenMyR3VMUlU2aFk4Q2QwR2Fka3hfdTZiQnBDTy03b3ptOGRLTXRkRFdBQ0VCNHlJMDM5VGRURUthRnpFeVhkOXN6SlFTT2xQWVpwaHZpSXFxM3REaEktNGRkYUdBbGNMeEVzZFB6anBzc19OZi1URmM?oc=5"
+    },
+    {
+      "id": "news-disaster-a0054f1cc3",
+      "lat": 48.33749,
+      "lng": 5.4436,
+      "title": "Man rescued by helicopter from Grand Canyon flood",
+      "category": "DISASTER",
+      "time": "2026-08-31T05:22:00Z",
+      "summary": "Man rescued by helicopter from Grand Canyon flood&nbsp;&nbsp;AZ Family",
+      "source_name": "AZ Family",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0lXc2pPYnhPcE1vNlJxWXlfYmhIYVhGUXVXUXpPSzJ0Mks5TlJybWI3NUNTOHd5VkR0azRnSExlU0JFSEVLcWRBYzJVSUt3eVBiNGZzbTZOZDR6QzFYVWZrQXJnTzlDOEhNaFR5VlhFekF1VEdIcmlidzJ6TFF6dHk5ZnBTOUlpenhYTldsZDk?oc=5"
     },
     {
       "id": "news-disaster-9fb03c643e",
-      "lat": 48.39843,
-      "lng": 5.52837,
+      "lat": 48.32685,
+      "lng": 5.46175,
       "title": "Man rescued by helicopter from Grand Canyon flood",
       "category": "DISASTER",
       "time": "2026-08-31T05:22:00Z",
@@ -156,8 +189,8 @@
     },
     {
       "id": "news-disaster-8e7670d37c",
-      "lat": 32.7871,
-      "lng": 130.70037,
+      "lat": 32.82312,
+      "lng": 130.68452,
       "title": "【熊本地震】授乳用Tシャツが入った防災キット60セットを送りました",
       "category": "DISASTER",
       "time": "2026-08-31T05:18:43Z",
@@ -166,42 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xQ1dvdkd0ck1CTFg0d3pNdTlJYjYzX1lGS3lMbDQtODltRzJNTEV6QlhqdXRXU2pTNTM3elE2aWEzTVU2Tlh4TVpFY1JwQ1l6dG1NenpHSnEtSzgwcl9nazZB?oc=5"
     },
     {
-      "id": "news-disaster-014b74e7b5",
-      "lat": 28.34538,
-      "lng": 83.94006,
-      "title": "Nepal on high alert for fresh flooding after river levels rise as death toll passes 900",
-      "category": "DISASTER",
-      "time": "2026-08-31T05:05:16Z",
-      "summary": "Nepal on high alert for fresh flooding after river levels rise as death toll passes 900&nbsp;&nbsp;CBS News",
-      "source_name": "CBS News",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ocXFaN1VYLTc2X01QV1dQb3MwRHZRd0hvZ1Q5b0ZFbFdOcF9IMTNXWUUtbE50R2RpYkNzWXZpQURqUUpfMFlaYTJHenBrcDM2QW5CZG1aRE0yMlM2N0ZKWjNnd0hOV2VLUldZOW9oNFpJQzMtYkxVNUxR?oc=5"
-    },
-    {
-      "id": "news-disaster-2fbce2c7cb",
-      "lat": 38.90087,
-      "lng": -77.07945,
-      "title": "They went to Nepal for a spiritual journey. Then an epic flood arrived.",
-      "category": "DISASTER",
-      "time": "2026-08-31T05:03:17Z",
-      "summary": "They went to Nepal for a spiritual journey. Then an epic flood arrived.&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHh4V2VkYjlzVDlrcmZlLTFNaU1vVmpWQUxXa095LThpSEI0MkNZTU0xekJQNUs0MTlEcmlZMk9HdVJmM1dReGoyMHdEcDVfY3ZzSTlIUF90cUhYTkZRa2lpMERZTVo4SW4xeHNYdHR0T24xQUNFYzRNOEpYX1NweEtNZ0R5MVNqNUd4MUhDQW9iU0FrZlk4Snhqa21VMmdRanI4ckEtMGtWVHpwcXBjWU1vLXBCdG8?oc=5"
-    },
-    {
-      "id": "news-disaster-940332bef6",
-      "lat": 32.74709,
-      "lng": 130.78896,
-      "title": "ムゲンエステート[3299]：令和８年熊本地震の被害に対する支援のお知らせ 2026年8月31日(適時開示) ：日経会社情報DIGITAL",
-      "category": "DISASTER",
-      "time": "2026-08-31T05:00:00Z",
-      "summary": "ムゲンエステート[3299]：令和８年熊本地震の被害に対する支援のお知らせ 2026年8月31日(適時開示) ：日経会社情報DIGITAL&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUpDcGpkR3JlMm1rQ0xwZ3F2XzNXS01ZV1luRFV3R0c0TjFCNGJXeGNzU25POU50aGRaNlI2b0JlZFhwcHZkZnVyaVB5Nl92VmZnaEhUY25ZT0NuNmE0NHlOX005MDZLbUkydmx6b1ZnZ3I1aHlCOFhDMmViODBWTy1wY1hxYmkyVTJwbkEzN19EWDJ0RHZIUGFmb1k2cjVxNVhJX1pON3dEWUpDZE9QNnFtdXUwZWNyNzJKT1ZjVXMtOUpGb2xkTlhjN0E?oc=5"
+      "id": "news-accident-454dd4d709",
+      "lat": 38.28039,
+      "lng": 140.82429,
+      "title": "原発事故の除染土、仙台市・さいたま市の花壇で再利用 都外では初 市民から賛否の声（TUFテレビユー福島）",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T05:39:16Z",
+      "summary": "原発事故の除染土、仙台市・さいたま市の花壇で再利用 都外では初 市民から賛否の声（TUFテレビユー福島）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaSV9RbG52V054bVVNd1lHUUJ1TzRBZzRjOWxuaS05cUxIdUxFMFV3aFZjVDhIVHBqdE04eFliSTZFdFFCQ2N0UV8yODJVUERnVHZLb1ZBVXN1SWs1QWp2cXh6UXRKSnE5MnNqOXFqX1JLcjVQdmNBRzBvdFhuNk0?oc=5"
     },
     {
       "id": "news-accident-eaa728209f",
-      "lat": 38.32515,
-      "lng": 140.91973,
+      "lat": 38.31202,
+      "lng": 140.82337,
       "title": "【速報】仙台南部道路で自損事故 山田―仙台南部IC間下り線通行止め",
       "category": "ACCIDENT",
       "time": "2026-08-31T05:21:44Z",
@@ -210,9 +221,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4QUM2ZFlfVXpGZ2JCVl8xVFMxOGZTWWU3QjZwWlczRUlDZF8xME1CX3FvWFVRMFlYb0pEZTdxZGRPWXVwWko5bGdDOGFvOTVWemdiRDA3QjFrMlFHZE8xZA?oc=5"
     },
     {
+      "id": "news-accident-4cfac0c7f7",
+      "lat": 38.27668,
+      "lng": 140.8905,
+      "title": "仙台南部道路で自損事故　山田―仙台南部IC間下り線通行止め",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T05:21:00Z",
+      "summary": "仙台南部道路で自損事故　山田―仙台南部IC間下り線通行止め&nbsp;&nbsp;ｄメニューニュース",
+      "source_name": "ｄメニューニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0ktUVFObGxsRHgwMzBtZXoxU0RMdGhDMmpjdzE1QkpkVldCV2hBcUFzS0VBd05UbUczWDNpd0w3dldDWjhEd2lKVWF2V01KTWZGYmFQOVhYMW52a0dROHB2bTZ4dVMtYmJDVmVZR1o0WEU5RDNTNDRsUnB1NlVlTU9IWDfSAYoBQVVfeXFMTTdCclBiQ3Q4VWtIM3dVMVVsUFYzNlV4RlBBTk1pQTVPdnFXUGRjN25Ra3E4ZmV1NlR2b1NfQzdhcjhYd1VteWowMzNhMjB3TnR6SUZIbER0SWNPdmh0OF8ySFNZaC1vY3BOQ002clg3M1oxbmtma2s3ZlJUbTNyVzZOenhHa01aS3Vn?oc=5"
+    },
+    {
+      "id": "news-accident-b319ee8041",
+      "lat": 34.54464,
+      "lng": 108.96775,
+      "title": "2 People Hurt in San Mateo County Accident on SR-84 and Memory Ln",
+      "category": "ACCIDENT",
+      "time": "2026-08-31T04:47:42Z",
+      "summary": "2 People Hurt in San Mateo County Accident on SR-84 and Memory Ln&nbsp;&nbsp;Pacific Attorney Group",
+      "source_name": "Pacific Attorney Group",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLWF1a1NWTkJuYzNYd01kdVJTbk1rVEtEaVlpVnZCY1RMNTJYeE9kUlV3a0FaWVdyd2FjNzl0WkxoRVBkOFctdFhqLUI3V1lCa2IxR0VyenhFTFlDTjVuMlplWU5qT3BMbjRBQnRlMk5vcnU2OUxKc0lxaTAtWlpTQ0UxUkRJMlUyLXo0T1RQY3RUNEI2Y1hsR2ZrYVdxb3JrXzdvYVI5TlFqWk1QR1NLY3gycXdNQWs0OFZvSHluTVJzdw?oc=5"
+    },
+    {
       "id": "news-accident-3d7652ce30",
-      "lat": 35.6172,
-      "lng": 139.76362,
+      "lat": 35.68222,
+      "lng": 139.74208,
       "title": "【山形】「夏の安全県民運動」期間中の交通事故件数は172件 前年から約2割程度減少（YTS山形テレビ）",
       "category": "ACCIDENT",
       "time": "2026-08-31T04:30:12Z",
@@ -222,8 +255,8 @@
     },
     {
       "id": "news-accident-5765955a8f",
-      "lat": 51.43285,
-      "lng": -0.18346,
+      "lat": 51.50018,
+      "lng": -0.21168,
       "title": "Grief counseling available for co-workers, fellow students of family killed in crash Saturday",
       "category": "ACCIDENT",
       "time": "2026-08-31T04:03:00Z",
@@ -232,42 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSTlkZS1nQkhTY3dQenlBZDBtekI0ZlZwcE41ZFJDSnpGNWRscWZJenBQVUE1Q2RmSDdEWVo2U1J4MkRYSUJ1YTdfWXBHVjB6N3R3aFFhOHNlOTVuWnBKekE0VmNiaTJ0OGhKR3JXSmpKTTgwU3YxdVFTU1ZHR0VYeDl1YmgtbkVpVFpTYzBxT3Z5bDR1NTFFSTRhRk9BM3NPMUktVFNCdXhnZ19Pdm9YWExpVVlCWmUwMl92LWJFUTRNbFAyNTV0MkV1cw?oc=5"
     },
     {
-      "id": "news-accident-cd5febd575",
-      "lat": 53.414,
-      "lng": -2.93703,
-      "title": "NHP: Impairment suspected in fatal motorcycle collision at US-50 and Drako Way",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T03:30:45Z",
-      "summary": "NHP: Impairment suspected in fatal motorcycle collision at US-50 and Drako Way&nbsp;&nbsp;Carson Now",
-      "source_name": "Carson Now",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzFINjRyVXpOdkdvTF9uVzZtSzJVc3NmRE1HT3VOQTZld2U5QU1SZ2lSMk0wdFFoRV9oSTdJMXg2bnlYWGJacjJRR3NiSHZwSFJVSVBUM2owOUdtdHIzMnhfaExtaTMwcVFtNzhzU1BNM2JvS0QtMGZWd284YmhxQ1FDUGJvclJjR3lOUHVndl9JbkFsR3JIRlBoS2dHY3VTYzlpYXJSd1U3Vk1sdFBCTm1BZnZqR1ZpZ0lTLUdQLU84MjFoeVpmQUVn?oc=5"
-    },
-    {
-      "id": "news-accident-aff3dd48ac",
-      "lat": 54.92647,
-      "lng": 25.9786,
-      "title": "パトカー追跡から逃走 信号無視して事故 高校生を危険運転致傷の疑いで逮捕（KBC九州朝日放送）",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T03:30:07Z",
-      "summary": "パトカー追跡から逃走 信号無視して事故 高校生を危険運転致傷の疑いで逮捕（KBC九州朝日放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISW5sX1pGaTRIU2JWaENUQlBiLVJNRndsdFJHb085X2FLOVJyVGNyLVd6MEtGSS1Wck9wM0dUM1RfemFUdzVJZmFCdUx3ZFNIVlJYNExZcnk5VEJucnZHa3NDaDJXeHFLYzZhV2xMaXR1MHVUVzEwYTNYaW0tUE0?oc=5"
-    },
-    {
-      "id": "news-accident-70512d122a",
-      "lat": 33.62002,
-      "lng": 130.19852,
-      "title": "乗用車とトラックが衝突する事故　愛知に住む3人死亡　滋賀県高島市",
-      "category": "ACCIDENT",
-      "time": "2026-08-31T03:16:00Z",
-      "summary": "乗用車とトラックが衝突する事故　愛知に住む3人死亡　滋賀県高島市&nbsp;&nbsp;nagoyatv.com",
-      "source_name": "nagoyatv.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53eFFINWROUzl6UVBybDAySEYtY0hjSDdxSW53QUh3WjRKTElYMUJ0N3NiMHpLaTFlZllEN3JUNWc5SlBHei1FTnZrbG5uZ3Z3MUHSAWRBVV95cUxPbEI3cGVGUGFpdnQxd3k5c2NEcUNlR0dvcDJhS2pxQ0xVdmJhUVVZLUFMd3IybnREdll5VkRUNDMtNmphNHl0WVRNcWJhbXFKX0phU3h6OFZmeXhFd0FwUUlWWm5o?oc=5"
+      "id": "news-disease-b6354f2d44",
+      "lat": 35.03483,
+      "lng": 135.73706,
+      "title": "B型肝炎ウイルス（HBV）感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
+      "category": "DISEASE",
+      "time": "2026-08-31T05:30:00Z",
+      "summary": "B型肝炎ウイルス（HBV）感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表&nbsp;&nbsp;アットプレス",
+      "source_name": "アットプレス",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuTlBORF9PanVUbDhtZ0c4a1B2akZTN0hjVUVqMS1uRkN4SlYwNno3UkxRaThxT2Q5WlBzVGIwSkNGMmpBVHZJdEMwQWprcU0?oc=5"
     },
     {
       "id": "news-disease-a5005d47e1",
-      "lat": 43.00813,
-      "lng": 141.29541,
+      "lat": 43.05195,
+      "lng": 141.38217,
       "title": "タイ政府は、新型コロナウイルス感染症の影響で新年の祝賀行事が中止になったという偽ニュースを否定した。",
       "category": "DISEASE",
       "time": "2026-08-31T04:43:28Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-aa338c8395",
-      "lat": 35.73484,
-      "lng": 139.77954,
+      "lat": 35.70819,
+      "lng": 139.72922,
       "title": "【写真】女性に多い病気「膠原病・リウマチ」ってどんな病気？ 特徴や症状を知っておこう（竹内 勤） | ＋αオンライン | 講談社",
       "category": "DISEASE",
       "time": "2026-08-31T02:35:29Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-8c65460b49",
-      "lat": 35.38952,
-      "lng": 139.54114,
+      "lat": 35.38266,
+      "lng": 139.42957,
       "title": "「最初は、冗談かな？ と」現役投手に“余命3カ月”宣告…ダイエー初の日本一直後、王貞治の驚愕「あんな元気な人が、命にかかわる病気だなんて」（Number Web）",
       "category": "DISEASE",
       "time": "2026-08-31T02:01:17Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-3276377120",
-      "lat": 35.28466,
-      "lng": 139.46101,
+      "lat": 35.34968,
+      "lng": 139.49834,
       "title": "「最初は、冗談かな？ と」現役投手に“余命3カ月”宣告…ダイエー初の日本一直後、王貞治の驚愕「あんな元気な人が、命にかかわる病気だなんて」（喜瀬雅則）",
       "category": "DISEASE",
       "time": "2026-08-31T02:01:00Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-1d66d99167",
-      "lat": 26.24071,
-      "lng": 127.75805,
+      "lat": 26.27674,
+      "lng": 127.77084,
       "title": "肺炎球菌感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-08-31T02:00:00Z",
@@ -320,31 +331,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WNVRWNUdsQWJRWkVGd3QzOHF1ZnY5R2tOR0VYOFZHWVZZMkZKSTRpdDZ4dzNNaW9aNjUxbXJQMTBQb0tqOFk0eEl3elUzdW8?oc=5"
     },
     {
-      "id": "news-disease-ca1279d864",
-      "lat": 35.448,
-      "lng": 139.60153,
-      "title": "生島ヒロシさん、鈴鹿で講演 「敵は病気とスキャンダル」 ユーモアあふれ 三重",
-      "category": "DISEASE",
-      "time": "2026-08-31T02:00:00Z",
-      "summary": "生島ヒロシさん、鈴鹿で講演 「敵は病気とスキャンダル」 ユーモアあふれ 三重&nbsp;&nbsp;47NEWS",
-      "source_name": "47NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DMGwxbnNzWlo0Y1AyMHdQTFlGTlhGclg4RVpCWlJTVlFjMnpCZm1hUFJHbDN3eUg2V2ZGdDEzYl9qS3lqMkstSzJSTQ?oc=5"
+      "id": "news-technology-091ee449fc",
+      "lat": 39.6904,
+      "lng": -76.59398,
+      "title": "Trump posts AI video of Iran's Kharg in 'smithereens', no evidence of attack",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T05:40:00Z",
+      "summary": "Trump posts AI video of Iran's Kharg in 'smithereens', no evidence of attack&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORVQzSG1hcjZUa3F4dlBHbmczSFliQ3d6ZVgtWjl6RzgtYjE4cGtXNjhpRHhmU0pBb1FSQl9iUHN5b0FUZHFMX0JDSFNONERPQ0c0T2Z6ejBFWE9jUldMUU9sVzJKT1Z0R0JaWGFUaHZUdnNtcVEwclRIZ29vZnpqd1JJOHg1Qmx2cHZ0TVMtVEtjWEdNbE1kZDY4cGxUNlRxYkpsVm1UUnZ3RjE2Z3cwRlQ3WVRWU0hO?oc=5"
     },
     {
-      "id": "news-technology-f4490360da",
-      "lat": 5.38623,
-      "lng": -4.14132,
-      "title": "As AI Agents Go Rogue, Cyber Insurers Are Adapting Their Policies",
+      "id": "news-technology-3a01899138",
+      "lat": 34.637,
+      "lng": 135.66881,
+      "title": "AIに便利機能を足したら情報流出？ 悪意ある「スキル」が3000件超 #エキスパートトピ（武者良太） - エキスパート",
       "category": "TECHNOLOGY",
-      "time": "2026-08-31T05:32:05Z",
-      "summary": "As AI Agents Go Rogue, Cyber Insurers Are Adapting Their Policies&nbsp;&nbsp;Insurance Journal",
-      "source_name": "Insurance Journal",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyOEYtQU9IQVRlTkVEZzBCdjZtdVZvc2hFTVVVS2hxSE5qenRtdmlKdTdoRFUxRFVKRnlhbXY1RUQxTzFseHV2aEdKNUo3LV95dHlmQkxGYnNJR2daSnNHMTJOZ2padkJqLW9Lc1dscXE4V3c4MXZN?oc=5"
+      "time": "2026-08-31T05:31:12Z",
+      "summary": "AIに便利機能を足したら情報流出？ 悪意ある「スキル」が3000件超 #エキスパートトピ（武者良太） - エキスパート&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNXZlVGR6VmQyRlJLbTRlS3lERnE3eWcxR25nc05NVzZWUEQ4cWhEdGU3bWxidklnMW41R3FqZ1NZYVo2VEdnNXZpbzN4dGdFR3Job3BrMl9aQjV3XzZSVnM0cDZvTnZwVlpYVWZnWGdyMHVJOVBZWXhXR1pEdmtpSE1McHFSS2Jn?oc=5"
+    },
+    {
+      "id": "news-technology-f21b510f1e",
+      "lat": 37.28502,
+      "lng": -82.7729,
+      "title": "Halo-record: Open-source audit trails for AI agents",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T05:30:37Z",
+      "summary": "Halo-record: Open-source audit trails for AI agents&nbsp;&nbsp;Help Net Security",
+      "source_name": "Help Net Security",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGJ4ZGE0a2lhX1RTNHVIeEdYeTcxSU83RUN5aG5sbjZaeEpSUzJseFNsNXdXWEFIdlI5eGVJaTJlc1lhT0I4OWE1VDU1MkZ2SEt1TUtMRGVVdVRyb3ZFTnV6ZmRXbnJ5TmdHOFJsSWJVQ19sOGpiQmpIc2s0WkRXdXFWd29VLVp4OFhweWEzbnVBZw?oc=5"
+    },
+    {
+      "id": "news-technology-ad3a5c52c2",
+      "lat": 35.7098,
+      "lng": 139.78366,
+      "title": "RX Japan主催「フィジカルAI Summit」9/16にパレスホテル東京で開催 経産省・NVIDIAらが登壇",
+      "category": "TECHNOLOGY",
+      "time": "2026-08-31T05:30:02Z",
+      "summary": "RX Japan主催「フィジカルAI Summit」9/16にパレスホテル東京で開催 経産省・NVIDIAらが登壇&nbsp;&nbsp;ロボスタ",
+      "source_name": "ロボスタ",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TcmpYa2FqU1FxOEZGekJKdlkwdjhtaU1EZkwweWxyZDFqdjVhalo0TUxUUndRaWFyZFQwVjZjb3NrME4ybmluSlBwdm9BaVRjNHJBdWotN2tFekw2dUJlWjBoTUw?oc=5"
     },
     {
       "id": "news-technology-cefbf9c0bc",
-      "lat": 11.57999,
-      "lng": 104.90199,
+      "lat": 11.57932,
+      "lng": 104.94468,
       "title": "CANCELED: IMTS 2026 Conference: AI-101: A Manufacturer's Guide to Driving Business Value with AI",
       "category": "TECHNOLOGY",
       "time": "2026-08-31T05:30:00Z",
@@ -353,48 +386,15 @@
       "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNmV1LThSajE2VHJZZ3FJTHRJNmpid1VDMDgzbHJuTDQ0RGYwWUk4U3lhQ1J5VkMxZ1hMdzJnVFgzVkpHMUV1cGpPS3JSYmdWbFlPOW92UVdHcjNUeFFxN2tFQUIwalY0Y0g3SWNUYl9VV0c3dk8wLXFGSXJxX2RlXzFqVGF5Zlc5UjBSQnlIM21kNmFjeDMta2JsemVhUklzTUxXZzBTWkZtM1lxdm9kT3E2elZUNnpWTWF2YVB6NjJkM3ZsMU0wbmpscw?oc=5"
     },
     {
-      "id": "news-technology-deb6b45648",
-      "lat": -3.79455,
-      "lng": -38.56773,
-      "title": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term",
+      "id": "news-technology-64f3f92cca",
+      "lat": 55.82353,
+      "lng": -4.21061,
+      "title": "The AI Skills Employers Actually Want In 2026",
       "category": "TECHNOLOGY",
-      "time": "2026-08-31T05:29:56Z",
-      "summary": "1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $50 and Hold for the Long Term&nbsp;&nbsp;The Motley Fool",
-      "source_name": "The Motley Fool",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXphMHdyc0RJdm5qNXhySXBvODBrVWZYTmdLQ0x5QVlPaFlONktCLWpkTW52Rmk1Um1tdnk2NkRPa0FrajR1VVRFN0V5bU5nNUtKRnMyRlpibmN4T2U0Y2FUM1otbGFjZV9yV0RxcTdzUmxONU83WWFsQWZJaDh0WGNnZTlnMlNPQTVUM0R3dldla09UbFp3Sg?oc=5"
-    },
-    {
-      "id": "news-technology-e86c1897ff",
-      "lat": 41.41646,
-      "lng": 2.13384,
-      "title": "動画理解AIは「検索」から「理解」、そして「編集」の時代へ。Moments Lab、Twelve Labs、Digital Nirvanaが示した放送AIの次のステージ",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T05:22:26Z",
-      "summary": "動画理解AIは「検索」から「理解」、そして「編集」の時代へ。Moments Lab、Twelve Labs、Digital Nirvanaが示した放送AIの次のステージ&nbsp;&nbsp;pronews.com",
-      "source_name": "pronews.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4RDhLZmlLUnBxWmFjU3BUN0ZRdk5kM0l1M3BXQWNRZlloVGdzdEJDcm9mdVJpS3I4MmdDWVBBc1ZKNF9FWV9sOVFud0ZBclI5UEJFMzNpUWhDUGw5TFlXZE5XQQ?oc=5"
-    },
-    {
-      "id": "news-technology-0af0ab35b6",
-      "lat": 35.74343,
-      "lng": 139.63614,
-      "title": "【AI時代の教育】生成AIを「学ぶ道具」にするには…プロンプト設計から個別最適な学びへ",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T05:15:03Z",
-      "summary": "【AI時代の教育】生成AIを「学ぶ道具」にするには…プロンプト設計から個別最適な学びへ&nbsp;&nbsp;リセマム",
-      "source_name": "リセマム",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94RWlZMTVRTDE3OHB1M0FFeEsyWlgyaXpMVEFYdGFVVlBXeWtIdWtrZWVaNl8zQ3dGZDAwY2RXRy02a3BIdjlfWmhfYWpBM1VNNEEwbkRCMVV6QVZnWk9sbVMxWEVVUQ?oc=5"
-    },
-    {
-      "id": "news-technology-8c9eb35442",
-      "lat": 36.33927,
-      "lng": -98.5469,
-      "title": "Major Tech Companies Call for Defensive Surge to Defeat AI-Driven Hacks",
-      "category": "TECHNOLOGY",
-      "time": "2026-08-31T05:13:10Z",
-      "summary": "Major Tech Companies Call for Defensive Surge to Defeat AI-Driven Hacks&nbsp;&nbsp;Insurance Journal",
-      "source_name": "Insurance Journal",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jMTFqcEhqeEUzR2R0bUdwelozY21tZGlHVjNaaEZyWWtraEctN1ZXWjZ6TGtHRU1jMzVCNHhKeTNLRFZvNkZreWdxbWtSZGNJeUFLTzVSWmZ0U0NhY0lVMHBYSnlTZXVTYzlKS2d4eWExV1FHQmhn?oc=5"
+      "time": "2026-08-31T05:30:00Z",
+      "summary": "The AI Skills Employers Actually Want In 2026&nbsp;&nbsp;Forbes",
+      "source_name": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGVYQU9aNk5MQVhBX3hreWVVX3NnRDlKOEhfNWdPRWJvdURscmg0LTgwcEJyVWRzYXE5T0pLZ2o3OWc4SzdtaXBzRjlkQ1ZpQXpFYkRtQ090dDlWUm5yMERrU0VaQUxuMTBGWTBjekxPWmFvX3ptUjJCUHlSbHZYU0EySFBmSkplQ1ZZTkxlbGM5al95TzlKYmpWc1l6RDg?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-08-31T05:33:49Z"
+  "updated_at": "2026-08-31T05:48:45Z"
 }
