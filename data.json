@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-6f53a4a00a",
-      "lat": 35.82529,
-      "lng": 139.52989,
+      "lat": 35.83844,
+      "lng": 139.55483,
       "title": "沖縄県知事選の「宿命」とは？ベテラン政治記者が現地で目にした争点と候補者間の「温度差」を解説（選挙ドットコム）",
       "category": "POLITICS",
       "time": "2026-09-01T11:23:45Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "news-politics-b7c78a8ca8",
-      "lat": 28.40359,
-      "lng": 83.94346,
+      "lat": 28.32389,
+      "lng": 83.96695,
       "title": "高市総理がネパール首相と電話会談 日本人5人の救援に協力要請 | ふくしまNEWS - KFBデジタル -",
       "category": "POLITICS",
       "time": "2026-09-01T11:18:00Z",
@@ -23,9 +23,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5icE1IT3pvcDVaSmt3LXRIQ2tqOXBvWmN0d1FlcTlmb3pVNEduNngzSnNyR1AzMnl4Zl9hbWM5Z2E4NnZucWJra2JVU09iNWdqemRIT1JR?oc=5"
     },
     {
+      "id": "news-politics-6fe91a45ce",
+      "lat": 37.77116,
+      "lng": -122.4067,
+      "title": "Unveiled: Le Pen sets tone for French presidential election rentrée",
+      "category": "POLITICS",
+      "time": "2026-09-01T11:14:43Z",
+      "summary": "Unveiled: Le Pen sets tone for French presidential election rentrée&nbsp;&nbsp;euractiv.com",
+      "source_name": "euractiv.com",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdDJycHpSLXctMmJ6QXQ0ODFWS0VLakdpQ0QyZUFNWFowSWkxSE1zeVhSZmxySFM0VlNsTnZnQTZVdVA0RUgxdlk0NmhwalZxcFlNZF9ZZllsa2x3bUdDZ09NdkY0QXYwaWRVaHlNdHZFMk9RUWRwc0dVa3NjdkdsWXZxeGtGa1BRZ3hTSW5TNFJHeEgxS3NqeC1sSUZuZw?oc=5"
+    },
+    {
       "id": "news-politics-fe43b4b378",
-      "lat": 54.3448,
-      "lng": -1.92137,
+      "lat": 54.28979,
+      "lng": -1.95603,
       "title": "Britain’s Political Violence Threatens More Than Politicians",
       "category": "POLITICS",
       "time": "2026-09-01T11:12:23Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-43debaa773",
-      "lat": 39.74132,
-      "lng": -76.55808,
+      "lat": 39.66452,
+      "lng": -76.59303,
       "title": "It's not just Trump as GOP money starts flowing in to help Ken Paxton",
       "category": "POLITICS",
       "time": "2026-09-01T11:02:38Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-7d894c1851",
-      "lat": 52.15537,
-      "lng": 18.7054,
+      "lat": 52.11489,
+      "lng": 18.70189,
       "title": "Former CSX CEO Michael Ward launches group to scrutinize Jacksonville candidates",
       "category": "POLITICS",
       "time": "2026-09-01T11:02:00Z",
@@ -56,31 +67,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWkY4Wm5Jamh3b2tWZE0zbEVhS0JyWWhKUTI5TXluVGdiMVMwNFhvM3EzemliakNGQ2s5cGxfejhSdmdXdHg4YURWVEdWWm9NWlJTOU9lSklCQzczRzRJOVlhUmNEZzFfWnI5bVBPUThBZ0VRanB2dUVLRzM0V3A4cFBEejBmbGQ0MXhXVFFEYmtrVnpEMDkwc0w1YW05S1Rub09wV2dlN3E?oc=5"
     },
     {
-      "id": "news-politics-6f83d2b125",
-      "lat": 47.61385,
-      "lng": -122.33635,
-      "title": "Climate denial is not an option: Louisiana needs the political will to act",
-      "category": "POLITICS",
-      "time": "2026-09-01T11:01:00Z",
-      "summary": "Climate denial is not an option: Louisiana needs the political will to act&nbsp;&nbsp;thelensnola.org",
-      "source_name": "thelensnola.org",
-      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOOXAyQmZDajZfc0wtNTY2RjZTakdyS3FfY2loNjBITVlPR0Vac2lyeTVFaTdNSWZmZmRYcWE2UDFKb3hud0FXWU9Hcm9EMWI2VWtXc0hZTmJHSjlJb2EwemY0ZFF3ZkdBVFZkNC1IdVhXVGpqR1NEUE5wT3UtdE55cE11RjZiRUFZQVpvUGx3eDhxWDBSSGdDODdQblhFemJJX0ZiSXVadWkwaE9NZ0lDbXhEODBRR1pGZkktaUdJMTdveTQ0cXBIakNvLU1pcVp5NWFFQ00zSzJsNGJkSzBkcXlKRWlWRVZCeDVFSG5kMGtpMWxsRk5MZXdLN0t3c2lGUWxJYXVaOWNndTV4RWVhd2Rwcw?oc=5"
+      "id": "news-finance-1d98de8c5c",
+      "lat": 59.26028,
+      "lng": 17.94986,
+      "title": "Ikea cuts prices in bid to woo cash-strapped customers",
+      "category": "FINANCE",
+      "time": "2026-09-01T11:46:05Z",
+      "summary": "The Swedish furniture retailer is cutting prices across a range of products, including the popular Billy bookcase.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-finance-45f5f67bd8",
+      "lat": 51.60306,
+      "lng": -3.19444,
+      "title": "What to do if you've been scammed",
+      "category": "FINANCE",
+      "time": "2026-09-01T11:44:57Z",
+      "summary": "Consumer Expert Harry Kind explains how you could get you money back if you have been scammed.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/videos/c5ylv1m8n66o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-finance-c3e2ae1264",
+      "lat": 55.76137,
+      "lng": 12.5249,
+      "title": "Global trade top of mind as G20 finance ministers enter second day of meetings",
+      "category": "FINANCE",
+      "time": "2026-09-01T11:20:42Z",
+      "summary": "Global trade top of mind as G20 finance ministers enter second day of meetings&nbsp;&nbsp;CNBC",
+      "source_name": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTExkbmxfbERBUThZY0hlRjRuYWE5eWwzYjgtRWRDM0x1WTNGbkozazJhU2pKQ0Q1RHFveVBhZnhNNXV6Xzg4M0tlblRPLUZTQW5xMlZKWjEtNmpDNkJCZ2R3U3h0MTJ4cklMOHdWN1NTTEVlR181bjBBWGR0Z3NnRkN1WnhuSUNqMko4Y3llaklsN08wWmlMMl9MYkUxOWRXc3hGdUo3aHNYajlRSzB1YjlQZXg4M0Q4QXVSQkJ3?oc=5"
     },
     {
       "id": "news-finance-7ef79942cf",
-      "lat": 43.16799,
-      "lng": 76.88601,
+      "lat": 43.185,
+      "lng": 76.96371,
       "title": "欧州外国為替市場概況・20時 ドル円、底堅さ維持(トレーダーズ・ウェブ)",
       "category": "FINANCE",
       "time": "2026-09-01T11:06:00Z",
-      "summary": "欧州外国為替市場概況・20時 ドル円、底堅さ維持(トレーダーズ・ウェブ)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
+      "summary": "欧州外国為替市場概況・20時 ドル円、底堅さ維持(トレーダーズ・ウェブ)&nbsp;&nbsp;finance.yahoo.co.jp",
+      "source_name": "finance.yahoo.co.jp",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ25haG0wR2FTZ1VRODUySUI1ejVINjRSU3d2VjQyVjVwRHk2U1lLMllHcWtoX2hXRDhFU0poMkFnTF9TaGdmWWtRMmJ5U1A2Zk9LQ2lERm1FNW5KQWRJZFBGS1BvVlItTWpPRzJfNV8xVEY5OVhZemM3Vm5kMmZ4S0cyWmxpQms?oc=5"
     },
     {
       "id": "news-finance-5a3fdf8cb4",
-      "lat": 36.96767,
-      "lng": -80.23242,
+      "lat": 36.87856,
+      "lng": -80.21587,
       "title": "Smart Genetics Drive Profits in Uncertain Markets",
       "category": "FINANCE",
       "time": "2026-09-01T11:03:02Z",
@@ -89,20 +122,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkg5RXVzV2piTVFyampPQ2RoVGl3VU5Qa1pTYjJxX0o1VkIxNG9sVU9aTXBjektIcWJEUWpSdVZEVFJtNkFZaGJ3MnpsTlZpWFNQaFVsVEZZa1RaTU11VXVOVzNQOXo3UExzeU1XdEhHT3dLcGtPRjNGSGQ0Ml96RmNBTkVYTS12U0h5WVVaVE1HYmNmc3g4RXlJNlFjUXBHQXFWM0JveTJsREFTZmxtZE5WOHZpUGpoQ2tiMktXX21pQnptTVZz?oc=5"
     },
     {
-      "id": "news-finance-4643f23de8",
-      "lat": 33.00028,
-      "lng": -116.98771,
-      "title": "Uncertainty builds around inflation, stock market. What could be next.",
-      "category": "FINANCE",
-      "time": "2026-09-01T11:02:00Z",
-      "summary": "Uncertainty builds around inflation, stock market. What could be next.&nbsp;&nbsp;Detroit Free Press",
-      "source_name": "Detroit Free Press",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0NUMTc0VGc4QjNrOEhUdVdIRWJVb3F4cnRTbXBIdG5QblE1U2hFaS1fNlpZdXNKMGRKcWs2WGc5a1lTT2xUU0Fv?oc=5"
-    },
-    {
       "id": "news-finance-78b45efc4d",
-      "lat": 53.34032,
-      "lng": -6.37221,
+      "lat": 53.37061,
+      "lng": -6.31432,
       "title": "Robinhood Markets shares rise 2.4% after Morgan Stanley upgrade",
       "category": "FINANCE",
       "time": "2026-09-01T10:57:32Z",
@@ -111,42 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc3B5OEo1MElTZ1M3OXpqem1fMTN4dkJOS3JBOGlKS0ZHU0ZrMEw3MFRNZmZRamw3NDZFWGRYV0IwZi1OTW1yQTg0UmJrcUpkU3BEZng3SkRDbHBTd2pxYWJBN0oyYUJSQzdpR2tNYzRpR1dWTWF2RXgzLVBmWlA1T2VsMEU3WWxoa2pmdFl6RXEtYUJ2M1ZaZ3pyUUI?oc=5"
     },
     {
-      "id": "news-finance-8b850da635",
-      "lat": 25.60062,
-      "lng": 42.30729,
-      "title": "Saudi Arabia Returns to Markets With Dollar-Bond Offering",
-      "category": "FINANCE",
-      "time": "2026-09-01T10:52:10Z",
-      "summary": "Saudi Arabia Returns to Markets With Dollar-Bond Offering&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHYwdHpTQlhXQkpJYXVTeS1HdGpKNk9vcnJfTnZTeHFUZE5BOHg1Wk9QeS1PYUJzd3dsUExQbGR0aDU5UnE3SUlhdS1lamx4S2h2VmttNmdjRGdGbWRTWGk1TkNTS0tZeHY3ako2UXZNMGtINk9od3VhUG9oZkMwb3RjME1HU1VYNkViaW1ld2d4dkNrOXZsQUFLWnN6V3RIT3NnNkM5R2Q2WXRf?oc=5"
-    },
-    {
-      "id": "news-finance-c41e2ccfb9",
-      "lat": 14.53951,
-      "lng": 121.03178,
-      "title": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap",
-      "category": "FINANCE",
-      "time": "2026-09-01T10:51:53Z",
-      "summary": "Asian Stocks to Fall as Iran Flare-Up Boosts Oil: Markets Wrap&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3lDeFpHVlptcnBMcThtNzhEVVM2d1AyMkI5bVQwSUlCQjhWd0VhbXdqaTF2NzJUc2FXSHpJX20zTVBmRlkxMG5BWXptMTQzejdQU3hqQUZHcno1bldsdE5iUG5BMFY4cUNBMDBfaGE4RG9jSElQSndGNGNBMlNMdXcyTFJaVUFhS0trQnJncFRsMExRZGluZFVOVkgzUHlFYWptTkNjQTc2OGFXYWc1Yzl3?oc=5"
-    },
-    {
-      "id": "news-disaster-b194a4aea1",
-      "lat": 38.90862,
-      "lng": -77.04813,
-      "title": "How to add disaster preparation to your travel plans",
+      "id": "news-disaster-7d3fb4c74a",
+      "lat": -3.47763,
+      "lng": 39.79131,
+      "title": "Rare butterfly spotted in Cornwall",
       "category": "DISASTER",
-      "time": "2026-09-01T11:32:10Z",
-      "summary": "How to add disaster preparation to your travel plans&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVl84Y01jXzY3T2xVWGNmOFNlamlDMEdUREFhMGpaZ1o1RmpXSU51SVNnc2xVZXhSbUoyb1ZYdnRWaTRabW51bDc4dzUwTTVoYTVDYUFKVjRQRjh1b3pCYXl3bjZWSFBHa1VlOWVDS2ZDNTgzMl9oNEtTVmNicVJWS2JyZmF2UUdZQ2tvMU5nYzBoYldYTVYw?oc=5"
+      "time": "2026-09-01T11:49:14Z",
+      "summary": "It is believed to be one of only a handful of sightings recorded in England this year.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cq63gnj8e76o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "news-disaster-4d274b8e12",
-      "lat": 46.10525,
-      "lng": -1.18424,
+      "lat": 46.18643,
+      "lng": -1.127,
       "title": "Flash-flood threat stretches across Southwest after 2 die at Grand Canyon",
       "category": "DISASTER",
       "time": "2026-09-01T11:31:49Z",
@@ -156,30 +156,19 @@
     },
     {
       "id": "news-disaster-23146d44c1",
-      "lat": 28.41295,
-      "lng": 83.99422,
+      "lat": 28.40307,
+      "lng": 83.9701,
       "title": "Nepali Society of Fargo-Moorhead raising money for flood relief",
       "category": "DISASTER",
       "time": "2026-09-01T11:21:10Z",
-      "summary": "Nepali Society of Fargo-Moorhead raising money for flood relief&nbsp;&nbsp;kfgo.com",
-      "source_name": "kfgo.com",
+      "summary": "Nepali Society of Fargo-Moorhead raising money for flood relief&nbsp;&nbsp;The Mighty 790 KFGO",
+      "source_name": "The Mighty 790 KFGO",
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2tJdjRyLTVVZ2d4Y1NkS3dyTUhFZjJjeVBwbjdfM2RoOTZCNlNqbzg1NGVaQkY0VEtOU29Pc1BkbVhCbU9WbmR4WEVNeFhvWVRCUEVjQVNoQnFFRHhLOXZsV0k4UmN4aXJ6M25jbnc0MjR0cXBKcVVVeFR0WnhHSV8wZ0k3cnUyM1Y4QzY5VUVKOEtZaTZn?oc=5"
     },
     {
-      "id": "news-disaster-5bb6cb2fc5",
-      "lat": 39.94487,
-      "lng": -86.18411,
-      "title": "2.9-Magnitude Earthquake Strikes Near Southern California’s La Quinta. No Damage Reported",
-      "category": "DISASTER",
-      "time": "2026-09-01T11:14:09Z",
-      "summary": "2.9-Magnitude Earthquake Strikes Near Southern California’s La Quinta. No Damage Reported&nbsp;&nbsp;edhat",
-      "source_name": "edhat",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFROR2VzdXpvWG1vTkZtWWV3VkxKa3FJWDB6VE5ybEpaNEFHZU9RUF96UUpNTzVXMDNRbFBxOGt5SDhFc2NNMmF0MFZCODc2S0t0bGdWMjJXTVBiSURwWFRSMFE0OTVYRzVsNEJXazJSZWk1UGQxcGFwTTZ3RXpmTEg2SUJQWVFN?oc=5"
-    },
-    {
       "id": "news-disaster-13571b6a01",
-      "lat": 48.41275,
-      "lng": 5.52802,
+      "lat": 48.43829,
+      "lng": 5.5414,
       "title": "Grand Canyon had elevated flood risk and Army Secretary Dan Driscoll to resign: Morning Rundown",
       "category": "DISASTER",
       "time": "2026-09-01T11:13:09Z",
@@ -189,8 +178,8 @@
     },
     {
       "id": "news-disaster-be38f31d18",
-      "lat": 35.0045,
-      "lng": 135.91699,
+      "lat": 35.0569,
+      "lng": 135.82078,
       "title": "防災の日 岐阜県警など官民合同の災害救助訓練 大規模地震を想定（ぎふチャンDIGITAL）",
       "category": "DISASTER",
       "time": "2026-09-01T11:12:24Z",
@@ -199,9 +188,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Y0JPdzY3Q0ZzdEhlM1ZuQkE1ZnBDZEVaREtqc3VsN2JqajM5NHNkX0kzQkV5N05KMEdGNDhNWENnYklZRkdONUQwVERRTVJhWjgyTE50S21sNDBiQWF3bkZydllWdXltRm9ZSXpqTmNRckFWbFJneDU0bmJHMVU?oc=5"
     },
     {
+      "id": "news-disaster-4b40b5bac0",
+      "lat": 35.01489,
+      "lng": 135.72822,
+      "title": "【台風24号】近畿地方、あす2日から警報級大雨の恐れ 3～5日「危険警報」クラスの可能性も（京都新聞）",
+      "category": "DISASTER",
+      "time": "2026-09-01T11:06:16Z",
+      "summary": "【台風24号】近畿地方、あす2日から警報級大雨の恐れ 3～5日「危険警報」クラスの可能性も（京都新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iR3l6Y3VnOGxNZHBGcHA2ZGE1Q1k1Vk1GVFJnMkc3aXVuVjhOelV2RWZJb0M2V3dDN1VGbVB0NGs0U0VPSUpRSXdudmdhWHBGRHdwTlBoenV5MVJkVjVwbUtEQlFsNTFXYUw0YTZ2dDVtdjQybjl1cXdhZEVkaU0?oc=5"
+    },
+    {
+      "id": "news-accident-df7cdc3902",
+      "lat": 25.10273,
+      "lng": 121.46585,
+      "title": "事故に遭った「3児の母」にテイラー・スウィフトが約800万円を寄付。さらに…→想像を超える展開「信じられない」",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T11:40:01Z",
+      "summary": "事故に遭った「3児の母」にテイラー・スウィフトが約800万円を寄付。さらに…→想像を超える展開「信じられない」&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIN2laVnlHZVhJS1c4RWg2d0gtcmpYSjI1VnlSUEJrWFozWDZMMU12UXFENURpVHNOeFF3VUR5QWpYWmFxcXhHaW41em5NUUVfbFpDclJ3clR6MnN2TXV6UXJfQUtCZDNhZTFuMWxYN3hvam4wZGNydDBWYlVkb0k?oc=5"
+    },
+    {
+      "id": "news-accident-13e0d7713e",
+      "lat": 1.81179,
+      "lng": 102.9226,
+      "title": "埼玉栄高校での男子生徒死亡事故 両親が学校法人などに損害賠償を求め提訴｜Quebee キュエビー",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T11:25:43Z",
+      "summary": "埼玉栄高校での男子生徒死亡事故 両親が学校法人などに損害賠償を求め提訴｜Quebee キュエビー&nbsp;&nbsp;qab.co.jp",
+      "source_name": "qab.co.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00a1lnV2I3YjFROE9QN09YbXA3bmxPSHVReUduczJ2cmFvcTRxZFlVcFhnb0dCNDBwVHhqYW50YktvXzhYbThYQ2tmNWVwREEwYm1wYkJFUng?oc=5"
+    },
+    {
+      "id": "news-accident-ffd8a1dc8a",
+      "lat": 26.17613,
+      "lng": 127.62533,
+      "title": "【速報】ダイビング実習で19歳溺死事故、被告側が賠償8850万円支払い　大津地裁で和解",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T11:23:00Z",
+      "summary": "【速報】ダイビング実習で19歳溺死事故、被告側が賠償8850万円支払い　大津地裁で和解&nbsp;&nbsp;ｄメニューニュース",
+      "source_name": "ｄメニューニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSGgzdU1JM3VqRWJFSHNEOEtPVDNiN3dZbDFSbUotSjVJQld2U19zLWNlV0N0eG5WaGdPdy1acXVxMGdvMGhocUhweEt6SHBGT0M1Q1ljSTI0RERQcmJPU252QmZBenZQckJRcUo3UnU5dEhzeERja2pNVXFYb2xSTmRiaERXN0p2aWJoeDNUMnRPOF91SXdJUXZqVE1PTG1vZV9OWE1oWXhkMUJ0Y09jN3dQWTBzeHpfckpZdzJJVF9HbTlOcXVjT1hPQ0dySUo4QWJvTThjeFBnZ3PSAYsBQVVfeXFMUE4wLUktM3hHVEJFSDVxeWZyNF9yR19iMkRlWGtFamhielRlM2E0QjRXakpRNVJkaS14eHp2STdVTXdOYTBvLU9HNDIwb0pkWTU3OGo1WHJSdUdvOUhGN0d5RktvS0xfNU9JemlMR2pnWnJyd0dnMkhoV0RxbHNaMWhZbjBQeS1yLXZVNA?oc=5"
+    },
+    {
       "id": "news-accident-7cebd2a027",
-      "lat": 35.01408,
-      "lng": 135.75645,
+      "lat": 35.05033,
+      "lng": 135.76823,
       "title": "【速報】ダイビング実習で19歳溺死事故、被告側が賠償8850万円支払い 大津地裁で和解",
       "category": "ACCIDENT",
       "time": "2026-09-01T11:23:00Z",
@@ -211,8 +244,8 @@
     },
     {
       "id": "news-accident-45ce96b695",
-      "lat": 35.61934,
-      "lng": 139.79725,
+      "lat": 35.61333,
+      "lng": 139.75587,
       "title": "埼玉栄高校での男子生徒死亡事故 両親が学校法人などに損害賠償を求め提訴（テレビ朝日系（ANN））",
       "category": "ACCIDENT",
       "time": "2026-09-01T11:20:02Z",
@@ -221,20 +254,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSEczS0I1QjdSZGFpLUVOc0FfVUxHdWFzckdCQVJRa0tGVkxXTE9HX0VSdHMxdVJLbzctR3Q4Q0lFVDZSYUVpaHpPVU5halpfWm5TTnhod1pqMUxJLVRYdUZ1cVY4QzY2N29RNXk1SV9naTBLTnJyOEd3d3ZiWG8?oc=5"
     },
     {
-      "id": "news-accident-070a35fddd",
-      "lat": 35.57709,
-      "lng": 139.73,
-      "title": "「農作業は焦らず、急がず、慎重に」稲刈り最盛期を前に出発式 農作業中の事故防止へ注意呼びかけも 山梨（UTYテレビ山梨）",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T11:12:18Z",
-      "summary": "「農作業は焦らず、急がず、慎重に」稲刈り最盛期を前に出発式 農作業中の事故防止へ注意呼びかけも 山梨（UTYテレビ山梨）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPQ1lsbXQwWXN2UVlTY3l1Uko3MGVPdEVYVUViT0JVcC1Dby10Z1h3ZkhyUVhYQklPMDc1cVhhb2hsOC1KT3E5YnBQOTdXOW81MDlwaTBsWFZlSlB4RG80ZnZzNEVyUThyYUZjWWxYel8wMEFIU09LaXRBdDZ2Njg?oc=5"
-    },
-    {
       "id": "news-accident-56438748a7",
-      "lat": 35.72604,
-      "lng": 139.83583,
+      "lat": 35.66624,
+      "lng": 139.75011,
       "title": "イベント受賞直後にもらい事故で全損の悲劇！ 諦めずに2台目へ乗り換えた2017年式「アテンザ」（Auto Messe Web）",
       "category": "ACCIDENT",
       "time": "2026-09-01T11:10:51Z",
@@ -243,31 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oV0NMbUNDaHhIMUNjendXV0hkZGZFZjhUVzYwQUtaQ0lvcE43NlVJcVBWLTBYMXEyd3ltWWZBQXlPWU9iWGxueUZKc05KMGw1dmtKNXRhQnpqQ1dzR2JuWHJqdlllVkNPTko4T0lZakV1OW41R2FGOE1TZnp0TUk?oc=5"
     },
     {
-      "id": "news-accident-65fedc8b5a",
-      "lat": 33.86858,
-      "lng": 132.78928,
-      "title": "歩行者の死傷率は1.7倍…生活道路の事故防げ 新学期スタートに合わせ警察が通学路で指導 愛媛・松山",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T10:45:38Z",
-      "summary": "歩行者の死傷率は1.7倍…生活道路の事故防げ 新学期スタートに合わせ警察が通学路で指導 愛媛・松山&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52dXQ1SmFFMkM5d3pCd3BDUmozTnVXd1plVUxkdFViYUxIZnBpNEpiNDdaYnNhTU52TzZXVzN4MFRMTF92T1RhY1NHV2IwYS1HMTQtS1hNSk1scXZvSXhId3lDTmpyVHc?oc=5"
-    },
-    {
-      "id": "news-accident-3006e421b8",
-      "lat": 33.87691,
-      "lng": 132.75373,
-      "title": "歩行者の死傷率は1.7倍…生活道路の事故防げ 新学期スタートに合わせ警察が通学路で指導 愛媛・松山（あいテレビ）",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T10:43:53Z",
-      "summary": "歩行者の死傷率は1.7倍…生活道路の事故防げ 新学期スタートに合わせ警察が通学路で指導 愛媛・松山（あいテレビ）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nbEttT1JrOUl2QTNFeUN6X1FndWlad19aSGFxaWxFcEpZcGxRYjFGWU50SmZIMmNFTVN1blA0M2JfM1ZPNlpMUDJiSkNzRzJsUkF0Qzg5Ty1SeHRKY2xXOVltYklkcTlrZHU3bTBJS3prQXZFRUM2U2djVlBVcEU?oc=5"
-    },
-    {
       "id": "news-disease-7dfb3399db",
-      "lat": 26.2871,
-      "lng": 127.76628,
+      "lat": 26.33197,
+      "lng": 127.7823,
       "title": "単純性尿路感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-01T09:30:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-8cc5acc34c",
-      "lat": 26.25776,
-      "lng": 127.73336,
+      "lat": 26.23058,
+      "lng": 127.70874,
       "title": "人工関節感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-01T09:00:00Z",
@@ -288,19 +288,19 @@
     },
     {
       "id": "news-disease-8c4f7bbcd0",
-      "lat": -8.50591,
-      "lng": 118.51016,
+      "lat": -8.5245,
+      "lng": 118.51054,
       "title": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消　西舘勇陽が急きょ代役",
       "category": "DISEASE",
       "time": "2026-09-01T08:55:06Z",
-      "summary": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消　西舘勇陽が急きょ代役&nbsp;&nbsp;日刊スポーツ",
-      "source_name": "日刊スポーツ",
+      "summary": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消　西舘勇陽が急きょ代役&nbsp;&nbsp;nikkansports.com",
+      "source_name": "nikkansports.com",
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sbVE4WmpxanRaak9kR2pXTkt5OUZxeEpvc1BDSncxWkU1eDJ2dlhPN2NPNGhqeUFBTFhqV2tkWkxpNnYwcnY3djRZVHFOVEtCWHFfbTk3V0ZQelhSTldCZWJVYnVHb01sSzcyUmd2R0fSAXhBVV95cUxPbXo0dl9yb1FiS3pjOHhpdko0aHM2UVFMYy1EQlBuT2NaelJzT3JEZWZxOG1QZ0RtUkxCXzFDMVZfcE9nS1NIcUJJR0VGLVd0bTNuLVJHcDlETDg3MU0tSTZ2UjlYckdiOWZFeGRuYkMzSjdLdU92YWo?oc=5"
     },
     {
       "id": "news-disease-504a6203a4",
-      "lat": -8.4946,
-      "lng": 118.52949,
+      "lat": -8.57357,
+      "lng": 118.61131,
       "title": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消 西舘勇陽が急きょ代役（日刊スポーツ）",
       "category": "DISEASE",
       "time": "2026-09-01T08:55:04Z",
@@ -310,19 +310,19 @@
     },
     {
       "id": "news-disease-a9f32c87e6",
-      "lat": -8.48932,
-      "lng": 118.52247,
+      "lat": -8.46445,
+      "lng": 118.61184,
       "title": "巨人・西舘勇陽、2日DeNA戦に急きょ先発 予定していた井上温大が感染症特例で抹消、「できることを精いっぱい」",
       "category": "DISEASE",
       "time": "2026-09-01T08:50:14Z",
-      "summary": "巨人・西舘勇陽、2日DeNA戦に急きょ先発 予定していた井上温大が感染症特例で抹消、「できることを精いっぱい」&nbsp;&nbsp;中日新聞Web",
-      "source_name": "中日新聞Web",
+      "summary": "巨人・西舘勇陽、2日DeNA戦に急きょ先発 予定していた井上温大が感染症特例で抹消、「できることを精いっぱい」&nbsp;&nbsp;chunichi.co.jp",
+      "source_name": "chunichi.co.jp",
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QdmFkMHVpaG50M3pNVXJmR2VBTzdSUjRXOHRvR0dWYWFvX0VkdE9rcFhIekh2OHFEa2d4Z0RGcEw0MTE4bFpnanJWSXczVUpadmNNbg?oc=5"
     },
     {
       "id": "news-disease-093b143f51",
-      "lat": 48.40317,
-      "lng": 3.3215,
+      "lat": 48.40759,
+      "lng": 3.36995,
       "title": "Baby Tommy's our 'light', says grieving family of newborn whose mum died in childbirth",
       "category": "DISEASE",
       "time": "2026-09-01T08:42:10Z",
@@ -331,70 +331,70 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-technology-59c447a039",
+      "lat": 13.12346,
+      "lng": 77.50999,
+      "title": "Titan’s banking-native AI bet: Banking intelligence can’t be retrofitted",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T11:39:04Z",
+      "summary": "Titan’s banking-native AI bet: Banking intelligence can’t be retrofitted&nbsp;&nbsp;Tearsheet",
+      "source_name": "Tearsheet",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazY1Y29rbjc5VDNmMjZtc09iTW94Z1hqRUlHcHh5bFd5RURHSEFkTXNFTTRFbmpSWWxoenZwZjFNUlpzT1R5TUtoVFJnZTdQS3VuR0tEbE1iV2V4TjRJSGhVMGhuckxNc0FUSG5iemtsd2xuVFZuRGo2MFpUbHBtbXdaN2ktNnF2aW5xd2o0Q05TSFpYYTJMWEZYdXg4aWc?oc=5"
+    },
+    {
+      "id": "news-technology-c58072556c",
+      "lat": 44.65411,
+      "lng": -72.54664,
+      "title": "AI in the classroom: Vermont teachers navigate the do’s and don’ts",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T11:39:00Z",
+      "summary": "AI in the classroom: Vermont teachers navigate the do’s and don’ts&nbsp;&nbsp;WCAX",
+      "source_name": "WCAX",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXd0QWZoUThNV0NrQnlvRVkzU1pZY1M0bE4tRjAtM0xyNnhCeFh1cUJ6Q29hNDVvbU82V1VWcHVRSGtOTHBxZHVEbGp5SmR6SjJJaEhDaHBGd201bGlab25ZSUNicmtpZ0NwWkNxQ2MxdVBIY1hSTnFtR0hQOGFSVWwtamVkQ0tf?oc=5"
+    },
+    {
+      "id": "news-technology-cbd6fbfc01",
+      "lat": 34.99865,
+      "lng": 138.41796,
+      "title": "「全部丸投げして聞くみたいな使い方は学びにつながらない」教育に\"AI導入\"どこまで? もはや必須か...模索する現場 小中学校の校長が効果的な活用方法学ぶ＝静岡 | 静岡のニュース | SBSNEWS | 静岡放送 (1ページ)",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T11:38:00Z",
+      "summary": "「全部丸投げして聞くみたいな使い方は学びにつながらない」教育に\"AI導入\"どこまで? もはや必須か...模索する現場 小中学校の校長が効果的な活用方法学ぶ＝静岡 | 静岡のニュース | SBSNEWS | 静岡放送 (1ページ)&nbsp;&nbsp;newsdig.tbs.co.jp",
+      "source_name": "newsdig.tbs.co.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lQXAtamoyVjBNR1pEWUpWM0RjUmJqY3VnMk42ekdycjZzYTdTekI3dXlrTFpWdGtWN3NSclhQX3Q4MWNVWEV4MlM5aWtUWC1sOW9WU3lxRnQtUG5Ia0cxdEJNM0pVRVk?oc=5"
+    },
+    {
+      "id": "news-technology-7dfc366ebb",
+      "lat": 34.70408,
+      "lng": -103.88895,
+      "title": "House Intelligence Committee warned AI could help terrorists build far deadlier weapons",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T11:36:28Z",
+      "summary": "House Intelligence Committee warned AI could help terrorists build far deadlier weapons&nbsp;&nbsp;qz.com",
+      "source_name": "qz.com",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3UHpVNVlaVXhJc0JzSnltRzhsbEhVWnJPNGQwYmFhV01PSlpZTFdaOFdxZmQyRkQxV25FcC04VlBPRC1HNS14eGZnQUJtZWlkSTJLZEx1dWJnVGlZTzkyV1RJeWdFOFVMTDlLemRMMlc5eGNYTWpua1FlVQ?oc=5"
+    },
+    {
+      "id": "news-technology-c2ec5848f7",
+      "lat": -0.36264,
+      "lng": 36.12079,
+      "title": "Workers are turning more critical of AI, and leadership is part of the problem",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T11:30:32Z",
+      "summary": "Workers are turning more critical of AI, and leadership is part of the problem&nbsp;&nbsp;HR Executive",
+      "source_name": "HR Executive",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORWVYc2wxYURRLUNvQVRiY1hVYlZRaUNNWXJSMTFSZXphVWVEaHZZbWxFcEY3UWtwRzkzOFhDZ1p6QWVtdFdPaWVCVmFIOVpDdjRiX3FveUcwU2ZNSlRDaFB5S3NCbnUtX0E2My0zbmpYa2ttWnMxWXY5Y1ZneVEzT3c0MUpNZFhnclRuQzFiSUJ2VWI2NUYyTV9aY0FHVmt5UFJzeQ?oc=5"
+    },
+    {
       "id": "news-technology-8bc6bb481d",
-      "lat": 34.28684,
-      "lng": -83.55266,
+      "lat": 34.35978,
+      "lng": -83.48773,
       "title": "Banks are outsourcing their AI strategies to their vendors",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T11:30:00Z",
-      "summary": "Banks are outsourcing their AI strategies to their vendors&nbsp;&nbsp;American Banker",
-      "source_name": "American Banker",
+      "summary": "Banks are outsourcing their AI strategies to their vendors&nbsp;&nbsp;americanbanker.com",
+      "source_name": "americanbanker.com",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1lUMHZIZlRXWU1QMDc5MkcySFFFT0lxVk9MZ3Exd0o2M01PSEZkWm5zNDVIOWRwS0ZFbW8xUlF6eG9mVlZvVFdOVENhcWxWMGxZMU5VOWhhX2ZBbktxT1VmSW1MMXA4VnBLRjJXb010cXBwT19nWGxjM2hXbmhyV2g4SVJ4TEJIdS1TblZJOXFhTXRtUUdKTGlzNWZLZw?oc=5"
-    },
-    {
-      "id": "news-technology-9c45084ba2",
-      "lat": 35.66226,
-      "lng": 139.60004,
-      "title": "親子で生成AIなど体験し思考力育む「させぼ未来探求チャレンジ」佐世保市教委と大新技研が共同企画《長崎》（長崎国際テレビ）",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T11:28:00Z",
-      "summary": "親子で生成AIなど体験し思考力育む「させぼ未来探求チャレンジ」佐世保市教委と大新技研が共同企画《長崎》（長崎国際テレビ）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNblBJOG10MjdNdWZnQWN6NGJ5Yy1kTnBjbE11TnhxSUdoclZpcUZQaTNaU0lOY1ZONm83bGFvRy1LYk56VU1GaGpEZmxmVG9kWVNrSHhHTEplSmxiM0pTUW5MT3ZwNFU0Z1RqbmVCcjREUUFMRVAwMVNtMmV1Qms?oc=5"
-    },
-    {
-      "id": "news-technology-5dde4f8e23",
-      "lat": 35.11021,
-      "lng": -101.36312,
-      "title": "法人向け生成AI「ChatSense」、Claudeでも「Deep Research」を利用可能に",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T11:25:39Z",
-      "summary": "法人向け生成AI「ChatSense」、Claudeでも「Deep Research」を利用可能に&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LUjZ0LVlwenMwc1hqc2F2dkVXVlBUWjBGVEw0OFBfZGZfQ3Q4bjNMRnJEbDk0SGVzejlabTFKeWVWYzAwSy11c1FuenVPcC1Ydzhsc1Y5WHFDS1lYTTE1Y1BRSW5uWkQ2WkE?oc=5"
-    },
-    {
-      "id": "news-technology-daa843fe50",
-      "lat": 35.70838,
-      "lng": 139.7151,
-      "title": "ＡＩ活用し生産拡大へ 横手のメーカーが東京のＩＴ企業と連携",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T11:18:00Z",
-      "summary": "ＡＩ活用し生産拡大へ 横手のメーカーが東京のＩＴ企業と連携&nbsp;&nbsp;NHKニュース",
-      "source_name": "NHKニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NaHVvLWZlUGw2a0ZaQzNIQzZPSmxlVkNINlJORnJIODBfeGMzN1dvX3FBOWVGRWVjdzVXV3ZzR2VsWU5yXzdMYWFqa01fUjRnak1SOXJHM2s?oc=5"
-    },
-    {
-      "id": "news-technology-320210c315",
-      "lat": -15.87377,
-      "lng": 35.32522,
-      "title": "John Deere’s new AI assistant can analyze farm data",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T11:17:10Z",
-      "summary": "John Deere’s new AI assistant can analyze farm data&nbsp;&nbsp;Farm Progress",
-      "source_name": "Farm Progress",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmdCQ09MX2h1RWx1b0pYUk8xUENQWmVlM1FudU9vWjZwS2NRb0ZiWlF3eWR1REU4M2E5MVYtN0ZhdHIxMkpRMTZvbExWVzBrZUJnN3plWkV2cTREWDBVeU8tSzdLOWM3ZG1TbEhTUktQTEt3Tlo0WTNzRjNHNExwYThZWDJmQmFuSXpZMXJJWlZTbVNuX0tOcjVacnFWUzg5?oc=5"
-    },
-    {
-      "id": "news-technology-007fb41896",
-      "lat": 53.55857,
-      "lng": 10.27611,
-      "title": "Bill Gates Warns That AI Will Cause \"Many Jobs to Disappear Forever.\" Is He Right?",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T11:13:29Z",
-      "summary": "Bill Gates Warns That AI Will Cause \"Many Jobs to Disappear Forever.\" Is He Right?&nbsp;&nbsp;The Motley Fool",
-      "source_name": "The Motley Fool",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlNSbHJISU1vVmJRUjJ4SUk1X2VPY1Rzc3JjZkJyWFBHN1ZzS1ZGams1ZVBFb3dLbGtjM3J1VmJlWEpkU0ZxUE53d0VNaFV0MzdCS1g5NGkzNTJQWE04LVEwQUpSaGpSWDR2ckhDdVR3VmJHbnE1bFdDWGJnMkZjYXRuSlA5RjBIVXdEZ3gxVGJGVGptVWVqaQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-01T11:37:08Z"
+  "updated_at": "2026-09-01T11:50:04Z"
 }
