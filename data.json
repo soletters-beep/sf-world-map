@@ -1,20 +1,53 @@
 {
   "news": [
     {
+      "id": "news-politics-2d0f8e5fce",
+      "lat": 32.59921,
+      "lng": 54.55272,
+      "title": "US launches more strikes on Iran as state media reports explosions",
+      "category": "POLITICS",
+      "time": "2026-09-01T20:26:38Z",
+      "summary": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-b009e8216d",
+      "lat": 30.80579,
+      "lng": 34.81769,
+      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+      "category": "POLITICS",
+      "time": "2026-09-01T20:24:28Z",
+      "summary": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-a405f7fa90",
+      "lat": 50.50058,
+      "lng": 4.91381,
+      "title": "Live updates: House passes short-term funding bill, will vote on Rep. Chuck Edwards’ censure; Massachusetts elections underway",
+      "category": "POLITICS",
+      "time": "2026-09-01T20:21:25Z",
+      "summary": "Live updates: House passes short-term funding bill, will vote on Rep. Chuck Edwards’ censure; Massachusetts elections underway&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHR3aDNrdXg4YWZldGlFU2V4czB4WmdlLUVUSkdWbzVEU0I2eWNBelNIYWJLZzNBSjlrVjZLSVdwc3B4Vm00dEdnMHRfVks0VHhaNkJWNWQ1cGwtMjNiU1M2VGRBV0o4V0hRZzU4MHlNWHhmanB5MndYYW9qOTNONGFneWg4Y3JYXy1ySjRzSGlveEJoTWV4N0I0cENVMk9KU0ZKWWpQc3FzYTE3NlBXTEgtY3dCYi1ZZHpJaHJ0NWNSeV9VNnc?oc=5"
+    },
+    {
       "id": "news-politics-9ebbefde7e",
-      "lat": 27.80328,
-      "lng": -81.40934,
+      "lat": 27.74083,
+      "lng": -81.51412,
       "title": "Florida Politics: Hope Florida, Nixon-Moody debate?",
       "category": "POLITICS",
       "time": "2026-09-01T20:07:14Z",
-      "summary": "Florida Politics: Hope Florida, Nixon-Moody debate?&nbsp;&nbsp;FOX 35 Orlando",
-      "source_name": "FOX 35 Orlando",
+      "summary": "Florida Politics: Hope Florida, Nixon-Moody debate?&nbsp;&nbsp;fox35orlando.com",
+      "source_name": "fox35orlando.com",
       "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3XzdTS3hjTkpUR29iazlZaGV5MmNsMlUtcU9TLUF6TjVyc2tSWU1VTW1qV3habnBJS0NLYTE0azJaZi1NOWRJb09iVElUYlI0MjdtbWNia3VoZk5FdUFZeG1KLU8zQdIBa0FVX3lxTE1obnpfQmZvN1BkaHplaXk3Sy05U1hzOWlhQTFkcFNiWDk3MUpJRDZuVXJ1MkxNVFZxRHFLbUpjMjJJLURnd0tsbnFTS2VlLXdHWWx4WXFZUV9SZFduMENXQ0xoanVoajdveHQw?oc=5"
     },
     {
       "id": "news-politics-be98a82707",
-      "lat": -0.05412,
-      "lng": -51.0935,
+      "lat": -0.08288,
+      "lng": -51.10676,
       "title": "Amazon buys 70 acres in Aurora",
       "category": "POLITICS",
       "time": "2026-09-01T20:06:39Z",
@@ -24,8 +57,8 @@
     },
     {
       "id": "news-politics-c80ac4e376",
-      "lat": 41.94532,
-      "lng": -89.39691,
+      "lat": 41.92054,
+      "lng": -89.4008,
       "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
       "category": "POLITICS",
       "time": "2026-09-01T20:05:23Z",
@@ -34,53 +67,31 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-7acea4fb58",
-      "lat": 26.47572,
-      "lng": 127.85693,
-      "title": "高橋洋一・政治経済ホントのところ【労働時間の指導見直し】健康に優先する仕事なし｜政治｜石川のニュース",
-      "category": "POLITICS",
-      "time": "2026-09-01T20:00:00Z",
-      "summary": "高橋洋一・政治経済ホントのところ【労働時間の指導見直し】健康に優先する仕事なし｜政治｜石川のニュース&nbsp;&nbsp;北國新聞",
-      "source_name": "北國新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84X1Z0d09kRjl3YTNpODhSa3c2R2lMNmVRMFN0WjVHOThiMV9DTTdnRW1Ib2ItNVU2NWV1SE1jMGhuTXVyazhMbWFWcXFRY1hTbE1FTEJwTQ?oc=5"
-    },
-    {
-      "id": "news-politics-cd5e920608",
-      "lat": 43.01485,
-      "lng": 141.31124,
-      "title": "〈山野知事日誌・１日〉｜政治｜石川のニュース",
-      "category": "POLITICS",
-      "time": "2026-09-01T20:00:00Z",
-      "summary": "〈山野知事日誌・１日〉｜政治｜石川のニュース&nbsp;&nbsp;北國新聞",
-      "source_name": "北國新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2Q1ZMTTJRNVpSWEd2M0NHbW5CRWJEZTFqRkIyMXZvZnBXZC1FN2RFSWRTZmx6VXI2emxzN3k2c2drYlotcXRGVnI2cVpaOFVybi1YaGFIRQ?oc=5"
-    },
-    {
-      "id": "news-politics-9e654d26a6",
-      "lat": 43.20287,
-      "lng": -5.93073,
-      "title": "議会ファイル(石井町・9月1日)",
-      "category": "POLITICS",
-      "time": "2026-09-01T20:00:00Z",
-      "summary": "議会ファイル(石井町・9月1日)&nbsp;&nbsp;徳島新聞デジタル",
-      "source_name": "徳島新聞デジタル",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSlBtYjNXdGhvN3hUTVh6TXFBTnRqVEtibDBJWmZOdDB6TDZhTWlJcmtsQU1rd3NfcGZjOXhHc2pKOWFYVXJWcURQNlRMMWt1R3E5OEhB?oc=5"
-    },
-    {
-      "id": "news-finance-73fa7e5d43",
-      "lat": 54.17628,
-      "lng": -4.54288,
-      "title": "Middle East Conflict Sends Oil Up, Bonds Down",
+      "id": "news-finance-96279b4660",
+      "lat": 35.74733,
+      "lng": 139.73341,
+      "title": "Coming Soon – 2026 Elite Private Equity Leaders",
       "category": "FINANCE",
-      "time": "2026-09-01T20:05:00Z",
-      "summary": "Middle East Conflict Sends Oil Up, Bonds Down&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXowTGpiSmZYbWx3MGt2VE5nYVFnYk04NDhQS0VXZkF4bGpCWWFKYkpEVmtDUTV1Y2J1bHc3V09lSC03UG9ZbE90RGhhZ2N4VFY4QzJaMkx1clItY2pxc2FOSGlNV180Nk1vUFpvR2xPbksxQWhHMUlNS3BwUnZIa3A3elRLanI2WVJUUnpiU1Y3X0l1Zmc?oc=5"
+      "time": "2026-09-01T20:26:34Z",
+      "summary": "Coming Soon – 2026 Elite Private Equity Leaders&nbsp;&nbsp;marketsgroup.org",
+      "source_name": "marketsgroup.org",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1R4eXZhTlZLS0dUY19zVnh3ZFllYU9RTUxpUzNWYW81dl91MnJEYUs1R3NRU1VRV2s3cEI4c3BRdzdITldVc3J4T0lLMmhkVTBfSFluTFhrTkpCRklLVWxrOWJuNjRsVEY0eHlTb09SRnpSOTM1Zlg5Q0FXWDNoVjZR?oc=5"
+    },
+    {
+      "id": "news-finance-b633871d31",
+      "lat": 54.64658,
+      "lng": -5.86646,
+      "title": "U.S. Markets Decreased Tuesday; Pershing Square Fell Furthest",
+      "category": "FINANCE",
+      "time": "2026-09-01T20:11:00Z",
+      "summary": "U.S. Markets Decreased Tuesday; Pershing Square Fell Furthest&nbsp;&nbsp;barrons.com",
+      "source_name": "barrons.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGZuVUFkU1M4Rk5VWG1CVHgxbExuV2xQTlhfd0RaZnlWOC02aFF3WU1jcHFUM1NPMFQ5OHpUOFM3T1Z4TnBFRXZDQ1R5QXRxNjRBN3lHVEVNalhkOG9ZM3RURjNWQlZMcXRsazZlWDYxWkRPOTVrdTZfSHJtUHpaemgwSUQwVV8yZndZcW1iek5pQ2F0cmhVZDNjbjZrVWlmdXd3?oc=5"
     },
     {
       "id": "news-finance-c133d5de0f",
-      "lat": 51.59897,
-      "lng": -3.17064,
+      "lat": 51.55929,
+      "lng": -3.17063,
       "title": "What Eurozone inflation means for global markets",
       "category": "FINANCE",
       "time": "2026-09-01T19:59:00Z",
@@ -89,9 +100,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUJSS21JeWlLbTI1dG9ZVk5hMHduQmY0MHZEclFneUtqSGxPM3E5UUg5SXdYR2E3SjIzUEZKSHY1TlN3ZlBkcDNLT2EtWkZjMjFzSGE1X2RMUjU1Wk4xSHB2TE1TSFd5dFdBcEI3SXRlVEtTX0paLXFld3ZKM2stN2Q0cEtfaUoybjMtVUYxTQ?oc=5"
     },
     {
+      "id": "news-finance-390b42a28a",
+      "lat": 30.85307,
+      "lng": 34.82949,
+      "title": "Israel’s multiple wars see finance, defence ministries clash over spending",
+      "category": "FINANCE",
+      "time": "2026-09-01T19:38:30Z",
+      "summary": "Israel’s multiple wars see finance, defence ministries clash over spending&nbsp;&nbsp;Al Jazeera",
+      "source_name": "Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGtjRWFvSWtoU3djYXZhWnptbUpEc2NRWlRVZUNmNmIwMXhydFFFTV9MYWdGWXE3X1didTZVaXl4QVpjSkJCczlaUktRUjZmakdJLVVvekFuSUR6WUkwc2QxVXh3aThoMV9taGVaSmpXN2g2VkZUN0RkOHlxUjdnaU9ZenBhMV9ocnhtQ1JyYUs2Y182cUthTmVWQjNycWdzUmNxblVoal9CZlpqVmljT2lB0gG3AUFVX3lxTE1mM1hsQlNYV251N1IwMUdsWXZQbFRlMHN3REVzdElRcXRDU2NyUDRreUVMd3FzRzIzMEt6aGFjTkZFTE5iNlVZSm9rWU9IaHpnMVZvdmI1TGtsYVVScmxsTzhId0gwR0xzN3d2Q1pfaWJwN1lnX1FIWVpBOEJNbFVGeEJ0empLQ25hcmlNNTJRSkRwWmhBdVdmSUVHVUdRWVZaN1VJOWZfQjEtaGNQODJ2WHJLUi00VQ?oc=5"
+    },
+    {
       "id": "news-finance-32d372598f",
-      "lat": 38.84305,
-      "lng": -89.47262,
+      "lat": 38.87559,
+      "lng": -89.48664,
       "title": "Bond Markets Signal Investor Alarm Over Debt Levels and Inflation",
       "category": "FINANCE",
       "time": "2026-09-01T19:31:12Z",
@@ -101,8 +123,8 @@
     },
     {
       "id": "news-finance-027aebdd21",
-      "lat": 1.33677,
-      "lng": 103.91143,
+      "lat": 1.38572,
+      "lng": 103.92115,
       "title": "Sticky Inflation Is Roiling Bond Markets Again",
       "category": "FINANCE",
       "time": "2026-09-01T19:29:23Z",
@@ -111,31 +133,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON29kQ3RLTVl6ZVB1WFNuQW5TNk5wZDYtSHBTN1dGaEZPNFRDeDIwZ29PaTh5bnA5YVl2YVE2bVUyMnN1RTFZTE9GR090emZQRWoxMWZKbGhUeWZNc25jVTZxUVJWZU9aSVNVMTFJUEFIdEtQcG0yWVFUVEZJaXdFVkRsX0tMOXMyRE03VzJRVG1RVVBPVEVYMThPcllkY3FNdlE?oc=5"
     },
     {
-      "id": "news-finance-e1f4123204",
-      "lat": 41.0474,
-      "lng": -88.56731,
-      "title": "Sen. Ted Budd speaks with media during G20 meetings in Asheville",
-      "category": "FINANCE",
-      "time": "2026-09-01T19:26:00Z",
-      "summary": "Sen. Ted Budd speaks with media during G20 meetings in Asheville&nbsp;&nbsp;The Asheville Citizen Times",
-      "source_name": "The Asheville Citizen Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNUc3cDJkM1huTzVHMjR3NjdyMjYxUUdUQllKRV9KVVBURU41aDJlYnBIaEI3UV90T0xodzY4U0dxd3lUQ2NYeExCTVQ2RHRaYmFkbS12X0dnTHh5SUZBenZKSDNtVFBkR2RfbWhwNkFOR3ZOYXVUX2dDajBwZHBzZTZNZ2ZPb3FoZXlnTnRLUUo5VTVnYmJ5b0pMbnpYWWx4VVlfYjVnTl94RGlGMGREYXJrUUFhLVNJWmpMWG5DUlhSb01rYk0tS2xyREpEUkdLMng1WXpreDh2S0JLTFBaelhLZ0pGY1ExeXc?oc=5"
-    },
-    {
-      "id": "news-finance-50cdf0ad01",
-      "lat": 38.86863,
-      "lng": -76.98685,
-      "title": "Bessent downplays bond market concerns amid global sell-off",
-      "category": "FINANCE",
-      "time": "2026-09-01T19:24:26Z",
-      "summary": "Bessent downplays bond market concerns amid global sell-off&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpNQm9IRWNqckx0Y0VQd19vN3I2WUNUSDMxbnFSMUFSV3A0Y3FkZlpWSC1oYjV0eTdGTjg2UTE4NTdIb2tkOWpnaEozRjF6ckVBa3ZCMTZaQkVMb1pvS3VuZ1k1amhPbHFZNVAwQ1c5QlFyZXhfOUYwaC00V1pKWkloNkZEa0tycGJqTWFDbWd6MFczd1RVcEdoSGt0QVlweWtsbnBjVGt3R3VoTzlFNg?oc=5"
-    },
-    {
       "id": "news-disaster-66643b719f",
-      "lat": 31.55946,
-      "lng": 50.95455,
+      "lat": 31.47626,
+      "lng": 50.90154,
       "title": "Understanding earthquake risk perception",
       "category": "DISASTER",
       "time": "2026-09-01T20:21:16Z",
@@ -145,8 +145,8 @@
     },
     {
       "id": "news-disaster-000918e19f",
-      "lat": 32.81579,
-      "lng": 130.74593,
+      "lat": 32.8473,
+      "lng": 130.79348,
       "title": "令和8年熊本地震 救援情報",
       "category": "DISASTER",
       "time": "2026-09-01T20:04:54Z",
@@ -155,42 +155,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12Qnd0dGdjeWRzNkMzTDVPQlh6bm5SQ1dKTllPZzcyZXJZMDdaMkQ1aDVMNmJzN0NTLVRuVTlaV3ZqSWUyUFc3LXNCVkwxZEwxam9QSjFfc1dhd21MX015RUZ0SU5pbXdPbmtpT182WDg1RHNySy1YeA?oc=5"
     },
     {
-      "id": "news-disaster-bf0fe745d4",
-      "lat": 32.77357,
-      "lng": -79.96289,
-      "title": "Charleston nonprofit deploys clean water teams to Nepal disaster zone",
-      "category": "DISASTER",
-      "time": "2026-09-01T20:02:00Z",
-      "summary": "Charleston nonprofit deploys clean water teams to Nepal disaster zone&nbsp;&nbsp;Live 5 News",
-      "source_name": "Live 5 News",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3Etdm01Q1VUWEwtd3d1dl9YbF80VEpQc01TZmE0MG1PSEx2WHpGUGxuOGlzdjlkX1VUWVNCeTRGMkFTZlI1eWJfQ1N2bnVMZVd3ZDRtTlZhSFZUZlJUdnFQNGhXMkNkUThqUENaV1Z1UW9MSGxLUUpnd0VkU3RpNVNCN1FZMnhRVUZMOUw3b01TS1N2enlQYl9ESENzUFc4ODFlUkVPbw?oc=5"
-    },
-    {
-      "id": "news-disaster-edaaa929de",
-      "lat": 32.82501,
-      "lng": 130.73707,
-      "title": "（２０２６年熊本地震）防災拠点、二次災害のリスク 安全確認に難しさ、悩む官民",
-      "category": "DISASTER",
-      "time": "2026-09-01T20:00:00Z",
-      "summary": "（２０２６年熊本地震）防災拠点、二次災害のリスク 安全確認に難しさ、悩む官民&nbsp;&nbsp;朝日新聞",
-      "source_name": "朝日新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tdEpBY1RDWWw3dzNEbEZZaWhuWXRSbVBhZGtKRzQwa21MeHNVWTB5OWhYMllpMEZiRG9KNkczc2F5b3AxUWRsRkZZVFdMOWp2VTMyV0dEU1BuYXlq?oc=5"
-    },
-    {
-      "id": "news-disaster-0a798eb35c",
-      "lat": 32.83298,
-      "lng": 130.68332,
-      "title": "熊本地震の「復興基金」創設へ財政措置検討、各地の水害も含め「創造的復興」を…木原官房長官インタビュー",
-      "category": "DISASTER",
-      "time": "2026-09-01T20:00:00Z",
-      "summary": "熊本地震の「復興基金」創設へ財政措置検討、各地の水害も含め「創造的復興」を…木原官房長官インタビュー&nbsp;&nbsp;読売新聞",
-      "source_name": "読売新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hTW5GZU0td1VvTWhleGpLMmdsa0NRZzQ2NHV5dV91OXk4MXpSQm8zUXFHSnNSdlBsd2pMdU92N2hCc3F0aVdnWV9YUVQzUG1uOFc2Zlp0MnlfQlpMdlZuX01HZHJnZw?oc=5"
-    },
-    {
       "id": "news-disaster-375e383e62",
-      "lat": 18.20238,
-      "lng": -73.86424,
+      "lat": 18.27789,
+      "lng": -73.80571,
       "title": "South Howard flood relief project faces pivotal Tampa City Council vote",
       "category": "DISASTER",
       "time": "2026-09-01T19:58:10Z",
@@ -199,9 +166,64 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDZ4MEVwUHBxQVNOYUM5QUJ5RTQ4aDVkelFteHpjdXNtdkt0ZHJEQ0IxOGdJa2kwaWpQaHpTeTFFdXZPNVZtcXZPOFNNa3c4TVdoRU9va2lNRmpQWUwyWVdZQm91aG5NNHlqa1NpbThzSlM0bEM2VHI0YWRaZlJmclhBeThaaW50SFpBRzl4eUpJczk3bDdEc0psM0VRNDZkektYRg?oc=5"
     },
     {
+      "id": "news-disaster-53377e0f84",
+      "lat": 33.73985,
+      "lng": 130.50019,
+      "title": "【台風情報】最大瞬間風速25m/s「台風24号（クロヴァン）」今後の進路は？西日本～東日本などで警報級大雨のおそれも...9月12日までの雨・風シミュレーションで確認【気象庁2日3時45分発表】",
+      "category": "DISASTER",
+      "time": "2026-09-01T19:33:00Z",
+      "summary": "【台風情報】最大瞬間風速25m/s「台風24号（クロヴァン）」今後の進路は？西日本～東日本などで警報級大雨のおそれも...9月12日までの雨・風シミュレーションで確認【気象庁2日3時45分発表】&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NZFBHOC14UDdhMGNMNzYtTFM5VUY3X1oyV2IxQ2Z4cEFfck8yZ2lmUk5lTzBKOEpQM3QwLVlfYkxKV3U2cG5SNVl0S0dydFBGVFYyUUl0Zw?oc=5"
+    },
+    {
+      "id": "news-disaster-59c9a6ed0a",
+      "lat": 53.27292,
+      "lng": -2.27194,
+      "title": "'We'll find way to save Jodrell Bank,' Burnham says",
+      "category": "DISASTER",
+      "time": "2026-09-01T19:30:02Z",
+      "summary": "Burnham said \"there is no way that we can see its demise, and it won't happen under my Government\".",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-disaster-bfc9014253",
+      "lat": 50.48025,
+      "lng": 13.57835,
+      "title": "Most Grand Canyon hikers saved from fatal flood; One missing",
+      "category": "DISASTER",
+      "time": "2026-09-01T19:27:00Z",
+      "summary": "Most Grand Canyon hikers saved from fatal flood; One missing&nbsp;&nbsp;wng.org",
+      "source_name": "wng.org",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVi1VYWRUMDZRUXphQ0ljYVJTakVORXNkejE5aS0xOWJqR180V0VSU2Y4YlJhMl9SUHVEZDJPS1hrMC1TYUpoOHRiZnpDN2tWMWJYbjNVUlUyWkJVUjVUMUFGWXMyMkhFNFpTZ1hfNV92WGE1RVFDNGhpalIwVHlMMHJwaFpRRER6XzUyVVhB?oc=5"
+    },
+    {
+      "id": "news-accident-787f7c1591",
+      "lat": 42.98875,
+      "lng": -76.20811,
+      "title": "Onondaga cancels season-opening football game in wake of car accident that injured players",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T20:24:00Z",
+      "summary": "Onondaga cancels season-opening football game in wake of car accident that injured players&nbsp;&nbsp;syracuse.com",
+      "source_name": "syracuse.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbnBwY3BDQXZBdmtfdFlpc0NYSG1rV1FSdGlXdTBUM3IyVE1yUG5iMGhZcEtOeXhKRmtDbmNBSXc3WDc3cHlTeFRscU5JZlBWS1l2VGRqazU4SDhwM3FHV09sWExsZ0dHUGpDSXlrY3VLWVJtOWtwWXlmNDlxa3VSRllrN3daQ1NLZHpqM0NGZ3AzaVVXMWNmVmhmandHOFlZaEdHTXNHc1RLOHVsR3RnZEhTY1NNU1dnT3FUVC1LT096ZDdacW4xQjZubDJBanBNRDc4U3VBLVlwMjlGNWc?oc=5"
+    },
+    {
+      "id": "news-accident-5d6924477b",
+      "lat": 52.06788,
+      "lng": 18.99292,
+      "title": "スノボ事故で顔中骨折…「見た目の劣等感から自信喪失」したバリキャリ女性KIKIさん〝3年後の現在〟に「よくぞここまで」「勇気の発信ありがとう」反響続々（西スポWEB OTTO!）",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T20:23:07Z",
+      "summary": "スノボ事故で顔中骨折…「見た目の劣等感から自信喪失」したバリキャリ女性KIKIさん〝3年後の現在〟に「よくぞここまで」「勇気の発信ありがとう」反響続々（西スポWEB OTTO!）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVHhPSlRlSUJtLW44MlBkalBnXzBzYnFRZ2lNU0lRbUFMcnAwREM4NFhwMGU2R25YV1Nxc3EyaEdOQnNOU2p0cERDUjJpU3JmZG5pbEJveV9JV29kOE9lMDlvZUpPWkdwb3VtMmNncms0OFNQbjZkRmdjMmZBcGM?oc=5"
+    },
+    {
       "id": "news-accident-1a5bdefd36",
-      "lat": 23.6965,
-      "lng": 89.97383,
+      "lat": 23.68366,
+      "lng": 90.02594,
       "title": "UPDATE: Westbound I-70 re-opens after crash in Columbia",
       "category": "ACCIDENT",
       "time": "2026-09-01T20:11:24Z",
@@ -211,8 +233,8 @@
     },
     {
       "id": "news-accident-cbec305502",
-      "lat": 42.4499,
-      "lng": -87.95029,
+      "lat": 42.43767,
+      "lng": -87.91031,
       "title": "One killed in 16-vehicle crash on Rosecrans Avenue in Norwalk",
       "category": "ACCIDENT",
       "time": "2026-09-01T20:00:18Z",
@@ -222,8 +244,8 @@
     },
     {
       "id": "news-accident-3b78f219a3",
-      "lat": -43.67082,
-      "lng": -68.71114,
+      "lat": -43.68384,
+      "lng": -68.79081,
       "title": "県立中央病院で医療事故 酸素チューブ接続ミス ７０代男性意識戻らず",
       "category": "ACCIDENT",
       "time": "2026-09-01T20:00:00Z",
@@ -233,8 +255,8 @@
     },
     {
       "id": "news-accident-47a5e332d5",
-      "lat": 26.25432,
-      "lng": 127.64718,
+      "lat": 26.27877,
+      "lng": 127.61286,
       "title": "滋賀：ダイビング死亡事故 和解：地域ニュース",
       "category": "ACCIDENT",
       "time": "2026-09-01T20:00:00Z",
@@ -243,31 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53OHRwZjVvTGtjenNORUFQcklhNm1TcDg2V2NLNDBQdFFXUUM2ZUZoS2VHM0VEMzJqSlBqazk1WHhIN2ZQcC13VTdRSExOMHJxa0tsVHRoS1h1TDJ5Zml2d1VsOUItcHlKR1REdVMtQTQ?oc=5"
     },
     {
-      "id": "news-accident-b62f9bd9b4",
-      "lat": 31.64916,
-      "lng": 130.58403,
-      "title": "栃木県教委、部活動の移動対応周知 磐越道事故受け、レンタカー利用の対応明確化",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T20:00:00Z",
-      "summary": "栃木県教委、部活動の移動対応周知 磐越道事故受け、レンタカー利用の対応明確化&nbsp;&nbsp;47NEWS",
-      "source_name": "47NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41dGtwSEFzRXo4V0U2NTlncHZUQjJPX1Z2V3FfeHYyS3ZZWkFlRW5jbG1FY0pNZWVKb0toWll1VmZyV2RkbWRzRGdwSQ?oc=5"
-    },
-    {
-      "id": "news-accident-9931a601f1",
-      "lat": 34.97784,
-      "lng": 135.74795,
-      "title": "猛暑だった7・8月の滋賀、県内水難事故で7人死亡 大津市で観測史上最高39.5度も",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T19:50:00Z",
-      "summary": "猛暑だった7・8月の滋賀、県内水難事故で7人死亡 大津市で観測史上最高39.5度も&nbsp;&nbsp;京都新聞デジタル",
-      "source_name": "京都新聞デジタル",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jb0ExTXAzdVR3bHY2ZzJEbTRIbHhjdG1VYllfbDJ5bFVGRjg2T1RSQmNiRk9WRGpoQzJGSlVZaHczbnRSUDk1OGllcUN6N3JLM1ZmUDk5VVQ?oc=5"
-    },
-    {
       "id": "news-disease-8a24f194ae",
-      "lat": 14.33999,
-      "lng": 33.551,
+      "lat": 14.40866,
+      "lng": 33.49496,
       "title": "県内マダニ注意 媒介感染症が増加 「市街地にも生息」県対策課喚起",
       "category": "DISEASE",
       "time": "2026-09-01T20:00:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-5f032beab0",
-      "lat": 40.87024,
-      "lng": 22.86785,
+      "lat": 40.85615,
+      "lng": 22.90586,
       "title": "感染症に負けないカラダとココロ＝日常ケア編　服装を工夫して体温調節しよう｜四国新聞WEB朝刊",
       "category": "DISEASE",
       "time": "2026-09-01T19:02:25Z",
@@ -287,20 +287,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vUk53V2xNWUszQTUxYkxlNmZqVEx4N3o3Z2c2M3pGWDFacTd5eUVwUHVOM0RqVzJlTzVBRHlwdzFHcFV1ZS1WTXR1TnpfWi1la05UUTBrVWdybTJkYjRFWnBYVUtMUmo5NFhSTk1ITlBRdFBqQVBV0gF8QVVfeXFMUHFTM0lQd3hwQXRLUURhVmJMdzdDdGJDUVdQc0Q3a1dHald4ZndCR1NfSUF4M01fSHBVNjg4STRXR0l2a1FadVRZemdlYVNRdDlrTk5GcTRzUnc1ZE9veXFXdXgxS0hOdExiSzIyaXhkdDV2NDJSaHpOaHdUeQ?oc=5"
     },
     {
-      "id": "news-disease-65d7f0c1c9",
-      "lat": -2.98813,
-      "lng": 23.84005,
-      "title": "Congo's Ebola caseload tops 6,000 as concerns grow",
-      "category": "DISEASE",
-      "time": "2026-09-01T18:04:57Z",
-      "summary": "Congo's Ebola caseload tops 6,000 as concerns grow&nbsp;&nbsp;dw.com",
-      "source_name": "dw.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMnlxb1VEeFh5Y2E2UnNMNnVBSUxMNEgxUkdsbnBOQkhfaHRYSk1VdE84cHUxMnRyTmtweDdzeG5TNTJKRXU5SzdIdXBreDdfcWF2ZGNMQ1ozc182dldsTlVyaV94Yi1wcVJoN3Jjb2pJaFR0TjlhSEppNEpmWHVXZE96MkRCUEpX0gGIAUFVX3lxTE1wenI5eDBCVDF2NmhZMkFZdl9FdGtmem5zSmpiZ2RRaFpmNE55Zmd5UWZVNXpobWI0cVozTUZka0xPekZDZjV3elpjYm1mOThyVldoZHNqY3JiSjduTENtMVNLQ3VGWS1wNjAxd0wxdFZmeFBvdldyVjVoVW82eFJ5b3U2aTZabTQ?oc=5"
-    },
-    {
       "id": "news-disease-9e018eb181",
-      "lat": 35.40382,
-      "lng": 139.65504,
+      "lat": 35.4953,
+      "lng": 139.69656,
       "title": "「病気と闘う子どもたちの力に」アフラック販売代理店の「横浜総合アソシエイツ会」がこども医療センターに寄付",
       "category": "DISEASE",
       "time": "2026-09-01T15:00:00Z",
@@ -310,8 +299,8 @@
     },
     {
       "id": "news-disease-e9caecf11a",
-      "lat": 59.3047,
-      "lng": 18.12673,
+      "lat": 59.26262,
+      "lng": 18.11178,
       "title": "Epidemic and emerging disease alerts in the Pacific as of 01 September 2026",
       "category": "DISEASE",
       "time": "2026-09-01T12:56:08Z",
@@ -321,8 +310,8 @@
     },
     {
       "id": "news-disease-c4424b079f",
-      "lat": 26.28825,
-      "lng": 127.68121,
+      "lat": 26.25909,
+      "lng": 127.73771,
       "title": "単純性尿路感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-01T09:30:00Z",
@@ -331,20 +320,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aeE51TjdCa0o0ajJSUHV3Z0ZTeDVRckRPNUFhWldIbjJyWUl6eUVOT0haQXNMaERHbncyZDZHamY5U2F2Wm9qTDVGRjFqWVE?oc=5"
     },
     {
-      "id": "news-technology-3598d27f6d",
-      "lat": 36.19524,
-      "lng": 44.01395,
-      "title": "TikTok’s US entity faces class action over AI homework helper",
+      "id": "news-disease-8cc5acc34c",
+      "lat": 26.23827,
+      "lng": 127.73125,
+      "title": "人工関節感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
+      "category": "DISEASE",
+      "time": "2026-09-01T09:00:00Z",
+      "summary": "人工関節感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表&nbsp;&nbsp;Newscast.jp",
+      "source_name": "Newscast.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aV1pXRXBTQzh1LUF2MjJlcWpLQU16ODBGbWdaRllUUjlxOVJ1OGtCSlV3RWpFb3RYd056Vi1IbFpsWkY5Vl9CZXlWYldON2s?oc=5"
+    },
+    {
+      "id": "news-technology-37bfa5a4a0",
+      "lat": 35.83016,
+      "lng": -89.98448,
+      "title": "Dell again lifts forecasts as AI demand powers record results",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T20:18:15Z",
-      "summary": "TikTok’s US entity faces class action over AI homework helper&nbsp;&nbsp;Courthouse News",
-      "source_name": "Courthouse News",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeDFpclJhXzNybVVnZERCVVhEUkZlSnlmbFBZc1hMQmJRcEVtWDdpbjJPZ0hmNDNFdDFrQ1c5NFhSYmo1dDRZbmRXRjZyMktwZzJpSC1JaVJicUdvOEx6ZGJDSnhLcUg2c3liMnlDa2ZyRDl2aHBmVHQ1NF8tQ1hMNDlqWGkyMG1MZ2RRNEZZWnFBbXBKU0hv?oc=5"
+      "time": "2026-09-01T20:27:53Z",
+      "summary": "Dell again lifts forecasts as AI demand powers record results&nbsp;&nbsp;1470 & 100.3 WMBD",
+      "source_name": "1470 & 100.3 WMBD",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3BBMnI5dEN2aElyUkR0OFVXWG1qdUpwOUtjb3VweWI0TGx6NEhKZVJXUGQwQVVKeVdLbzJaYkszai1ocFI2YWpkYldMWThmMGl2c1prOXgyUHZnNFJXa1hMU25ISnZQSkt6bE1aeF94bXhyRUJwQ2trUGFNQlhHa0l3aTZVeVhzSXVXYzE0a0J3cnF3enNiel9QYw?oc=5"
     },
     {
       "id": "news-technology-537bace243",
-      "lat": 44.39417,
-      "lng": -93.24812,
+      "lat": 44.3901,
+      "lng": -93.28206,
       "title": "Rice project aims to reinvent cameras with generative AI",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T20:15:10Z",
@@ -353,9 +353,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSYThEVnpYNnl4bnc0OFJHV0Y2QjlNYXhueFN4ZmJ5cVpJWkxONjVFbGt4RTZfcXdXcEtYcG1sYkhJdjEzU0JESFVQTlRvR3YwcFZlWmU3bVJGWDM1?oc=5"
     },
     {
+      "id": "news-technology-0933e6783f",
+      "lat": -6.1838,
+      "lng": 39.25703,
+      "title": "OGIG Gains 10% in August as Cloud, AI Stocks Rally",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T20:13:23Z",
+      "summary": "OGIG Gains 10% in August as Cloud, AI Stocks Rally&nbsp;&nbsp;ETF Database",
+      "source_name": "ETF Database",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1hacGFJLXRQVHhDYm1faGgwMWxCSEJFaENMemNEdFhjM1ltYUZIcXFhcnpMR2lka3FwMEpqMzYydzd1MmtPbFZOVjNaN29qR1NrNHpzdFhYSkJxU0V5WFhFUEFWLW9QUFVQTkZLYk5ScDdkeWp5b0thVm1idkN1SC1Fd1hIQQ?oc=5"
+    },
+    {
+      "id": "news-technology-5476a8820d",
+      "lat": 21.48529,
+      "lng": -158.01726,
+      "title": "New AI tool now required for some building permit applications on Oahu",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T20:13:00Z",
+      "summary": "New AI tool now required for some building permit applications on Oahu&nbsp;&nbsp;Hawaii News Now",
+      "source_name": "Hawaii News Now",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb29reV94UEtILUhLS2MtM01HT25xRGdBckE0SzRaVjN1UTIzZUh2ekNHSjJ5Y1N1ZmZVbXRyUGhiZ1loYjM4RHRuTWNDcmgyVGdiWk1tWm1PNkdnRFBhM2ZrYUdQRkc4S2VjTWtKR0ZBSk1paGEtYy1abzd0N1Y3OVJYNUIyOHd3dVVJWW96VXlDZHo4Ym9MYktNclRuNnFuNHFMTGNoVDTSAbwBQVVfeXFMTWJ2N0lVcWtjX2lXaDFBRFQ3dUl1U213VldMbUdCaWZxVTZnQkJ3TDliUDlKZElqdGJLU0Z4dGliSzF4ZzcxeEtJRUpXT0F1YzQ0U2Q4cjVGLUhBQ1BnWWpLTUZsTWpfRjZfWS0yY2xQdVZqRW9BcU1EcEQta2VXNmFwVVlzWTg0YlJmNlVjY0lIblIyMHVMRElIdmxfR01iVkhRMDdKU294cGZBRnZoWUVpOG5KaUFvMFJUckk?oc=5"
+    },
+    {
       "id": "news-technology-7e113bfafe",
-      "lat": 56.46419,
-      "lng": -3.09684,
+      "lat": 56.45898,
+      "lng": -3.08131,
       "title": "AI Insights: This Ad Was Made by a Robot",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T20:11:47Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-ee8ebae909",
-      "lat": 35.81603,
-      "lng": -90.02531,
+      "lat": 35.89237,
+      "lng": -90.01124,
       "title": "Dell again lifts forecasts as AI demand powers record results",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T20:11:45Z",
       "summary": "Dell again lifts forecasts as AI demand powers record results&nbsp;&nbsp;Reuters",
       "source_name": "Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU1OMGo5VlZVaWotQl9vRjdzaHMyZ2tyRjdyMVpDMEFlcFhjNk5TWHZybTJGLUJENDRBR0QzZHVJSjU0LW5vMk1qNERCLTZyZnpJTUd3b0g4dmg0NHVZaXNaSFVTeU9LcGFQYkpucExVaWpFXzNOMjdXVUVJcXAyUUpib3VFODU0aVFnLTU0UXdHX3BXNjd2U2VKODI5dlNpdGRwVGFn?oc=5"
-    },
-    {
-      "id": "news-technology-d2eea7131f",
-      "lat": 37.8148,
-      "lng": -122.25657,
-      "title": "Tech Life",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T20:10:00Z",
-      "summary": "AI can only communicate in languages that it's been trained on.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-technology-c96d044130",
-      "lat": 43.09909,
-      "lng": -87.98999,
-      "title": "Music Artists Sue AI Song Generator Suno Over Alleged Copycats",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T20:02:00Z",
-      "summary": "Music Artists Sue AI Song Generator Suno Over Alleged Copycats&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3lYZktHcVFsNzZ3Y25USUg3S3ZBNzVnZkRYWkdMTVRnM2VRREZad1hnSUpLU2p5VDBtQmhkZ2J5N3lJWll1enhBSlJhUDVxMEs5djR1MVVUTEo5LU45UXVjdC04am5HMktIeGd4THVidU9ieGc4VjZpMnpMYTRwR3Nzd3hYZmtGd0pTLTRnSzEtTm1WUWdhc3puVHpfMWRzbVp4d2RYVXpqZw?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-01T20:23:44Z"
+  "updated_at": "2026-09-01T20:36:57Z"
 }
