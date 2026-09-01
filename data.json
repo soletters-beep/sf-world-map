@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-ac9e87718a",
-      "lat": 38.87173,
-      "lng": -77.05654,
+      "lat": 38.88167,
+      "lng": -76.99418,
       "title": "Supreme Court clears way for White House ballroom construction to continue",
       "category": "POLITICS",
       "time": "2026-09-01T05:22:53Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "news-politics-6177da4085",
-      "lat": 27.80829,
-      "lng": -82.68152,
+      "lat": 27.71754,
+      "lng": -82.66905,
       "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
       "category": "POLITICS",
       "time": "2026-09-01T05:11:23Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-fd422769f3",
-      "lat": 38.96178,
-      "lng": -77.05277,
+      "lat": 38.89995,
+      "lng": -76.99129,
       "title": "Macho, macho men? Democrats talk masculinity on campaign trail after years of Trump's bravado",
       "category": "POLITICS",
       "time": "2026-09-01T05:05:11Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-d8215bac84",
-      "lat": 38.93864,
-      "lng": -77.08231,
+      "lat": 38.89412,
+      "lng": -77.07242,
       "title": "Trump says U.S. might ‘smack’ Iran but that fighting is likely to remain limited",
       "category": "POLITICS",
       "time": "2026-09-01T05:02:58Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-7c5ccb27c1",
-      "lat": 33.7205,
-      "lng": 66.21408,
+      "lat": 33.81967,
+      "lng": 66.2205,
       "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
       "category": "POLITICS",
       "time": "2026-09-01T05:00:34Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-00ed6901a1",
-      "lat": 32.76375,
-      "lng": -96.8074,
+      "lat": 32.74866,
+      "lng": -96.7366,
       "title": "Politics intiative includes Latinx communities in the conversation on public policy",
       "category": "POLITICS",
       "time": "2026-09-01T04:45:00Z",
@@ -67,9 +67,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xZE9BQzRvMGZCbmhYQWZyVUllX0xPNGlLSkVCYWwweGwtMVhoY0NRY21JcUtULTh5ZEFaV2Z3R3BteVBqNHpwTmZnSTM5bGw5eDltREpRdUFabGh0dTNCZUNQeHZuZjBwYi1CaGdVZEZ1SWRQ?oc=5"
     },
     {
+      "id": "news-finance-66a80ce09e",
+      "lat": 32.06297,
+      "lng": 35.84984,
+      "title": "Children sleeping on piles of clothes, says charity",
+      "category": "FINANCE",
+      "time": "2026-09-01T05:37:19Z",
+      "summary": "A Peterborough charity says hundreds of children in the city are living in bed poverty.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cx2z0pkrp3ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-finance-9cacf4f665",
+      "lat": 36.52392,
+      "lng": 139.29432,
+      "title": "Japan, US agree to continue coordination on yen, Katayama says",
+      "category": "FINANCE",
+      "time": "2026-09-01T05:28:42Z",
+      "summary": "Japan, US agree to continue coordination on yen, Katayama says&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWU1LemhhTkNyWnI0cXBSaDFxdWcxSkpFLXZqakwzZndNSUcyUVJNNjdRc1UwQVFGc2NYazNwclExenNGb0VINk5tNXVKaUtUellzdnZpNnVCdmVGLWhZeER6ajc3bGdMLVBrbHhhcllXeVM1QlI4bExNRFVuQkhxM0pRb3VxNDZMWUU1UFlDcy1qS0VoWVlYbGRqOXA0TXVmRHk3TUlQZ0RfSFR6MklzclNLaEk2ZkhMQlo4ZVk5NWRFdXdNT3VrUThpQWl0aGc?oc=5"
+    },
+    {
       "id": "news-finance-e48e0700ab",
-      "lat": -37.72548,
-      "lng": 144.75536,
+      "lat": -37.78384,
+      "lng": 144.77588,
       "title": "Hospitality wants permanent VAT cut, 'not gimmick'",
       "category": "FINANCE",
       "time": "2026-09-01T05:25:05Z",
@@ -79,8 +101,8 @@
     },
     {
       "id": "news-finance-829ee65c5b",
-      "lat": -33.10505,
-      "lng": -55.18376,
+      "lat": -33.13324,
+      "lng": -55.11282,
       "title": "パンパシHD、株価1年5カ月ぶり安値 チャート分析では下げに拍車",
       "category": "FINANCE",
       "time": "2026-09-01T05:22:25Z",
@@ -89,9 +111,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OQ2wzMWdqc1Ayb1BCTS1hR2pyT0NWcW5IRjdSTF9uUWhTWmRsellsM0pTV3NjdG5aYThXaEZjNjFLRnJ3NXUzYTB6UXhta1V0YU9ZTGRHOVdaWDh3STJOekVzNm5NTmZsc21uUg?oc=5"
     },
     {
+      "id": "news-finance-ceed9aaead",
+      "lat": 48.68772,
+      "lng": -111.96435,
+      "title": "Why Kevin Warsh’s silence on the Fed’s rate path may not rattle bond markets",
+      "category": "FINANCE",
+      "time": "2026-09-01T05:13:00Z",
+      "summary": "Why Kevin Warsh’s silence on the Fed’s rate path may not rattle bond markets&nbsp;&nbsp;The Banker magazine",
+      "source_name": "The Banker magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6ei1OX1ZRQnZlZWtCSnRSWEVQaUFSR2VkTURpVU1MSk0xSkVVX3MyYnZGWEJtalkwZUhHTHg5bkdnVXRCcVBqQVBDWFhYcDdXUUduZFZXS1ZYbjAya2xmNzIyb3FzLWZQQUNpR2FCWWZjTWFnTXdHZHF3?oc=5"
+    },
+    {
       "id": "news-finance-78582f7680",
-      "lat": 35.61597,
-      "lng": 139.71725,
+      "lat": 35.61966,
+      "lng": 139.7386,
       "title": "These emerging markets are favored to get 'a wall of money' from carry trades",
       "category": "FINANCE",
       "time": "2026-09-01T05:12:38Z",
@@ -100,53 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xVGh5dURER1ZuYnhLS0V1eEp2WjVZcGxpSjR2eUcyY0NrcVR5YkFfUGhtYVZXX3ZaZzlVQVpReGszbC1BaTFfLWdxNGFPX19neWV4YWYySmxvbHdDZU0wSnhqVE1sTUQyeENWOUpSNVFtYS1sSU5qTFdvOU7SAYIBQVVfeXFMTWUwRU01bzJSc2p6RFVGamF6UGF2c090b01CeVJvRk9xMFk4Z0JGQjdDc20yYUM3Z0tJWkgydnVmZ0V1bnBKaFRIWEI3emZGN3c0bGYtcUo0VEJtLW9Ecnczdk53SkJxaW9TLWVBS2JsRWNWeG5YOER0M1NSM1QxNGhGZw?oc=5"
     },
     {
-      "id": "news-finance-c8910d61ef",
-      "lat": 35.6605,
-      "lng": 139.799,
-      "title": "東京為替：ドル・円は高値圏、主要通貨はやや軟調(フィスコ)",
-      "category": "FINANCE",
-      "time": "2026-09-01T05:08:00Z",
-      "summary": "東京為替：ドル・円は高値圏、主要通貨はやや軟調(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd01JZEI4VllWdkp6R195RG1sX1l0eGZfczh2UlBqV2l0QjJiMGZBTWQ0MXRPdy1hNGd6ODNKbGdEOU1PQTN2LWNqZUJUT2o0SmdEd1B2bGhnNk1ZTWhpcWgtS2JLdjUzUlEwZFVyb19NUklIbFRCMU91V1E2ZmV6OFV3ZzktMzg?oc=5"
-    },
-    {
-      "id": "news-finance-f035ada33e",
-      "lat": -3.4799,
-      "lng": 39.82073,
-      "title": "'Rare' council underspend to help with cost of living",
-      "category": "FINANCE",
-      "time": "2026-09-01T05:06:09Z",
-      "summary": "The council spent £20m less than expected last year.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c74e9j1ye9vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-finance-a2061c64ec",
-      "lat": 35.69556,
-      "lng": 139.76446,
-      "title": "IHI株価が反発 SMBC日興証券が判断上げ「足元の調整は過剰」",
-      "category": "FINANCE",
-      "time": "2026-09-01T05:03:05Z",
-      "summary": "IHI株価が反発 SMBC日興証券が判断上げ「足元の調整は過剰」&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OZFZUd1lVSVdtQ2JINFRZUmZ6cXgzYVZuUVBjVjNfb05iNWlINDBnZXFBQzRPbHNkenlUVER3Ymo5NGFNUnJhQTg3S3BWNmpLMHlTWkdISmN0T1NWTVZjUnZmSmpWZWVaN28wVA?oc=5"
-    },
-    {
       "id": "news-disaster-3d9df4c260",
-      "lat": 39.7753,
-      "lng": -100.44235,
+      "lat": 39.7317,
+      "lng": -100.44178,
       "title": "American couple shares experience escaping Nepal's flood",
       "category": "DISASTER",
       "time": "2026-09-01T05:31:11Z",
-      "summary": "American couple shares experience escaping Nepal's flood&nbsp;&nbsp;nbcnews.com",
-      "source_name": "nbcnews.com",
+      "summary": "American couple shares experience escaping Nepal's flood&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjNWWk5TTTk4RDcwOUxoeHFiR0FVYllfVndyTTc3TXR2QzZEUEZSTWlCc2I4bmpnazRxbHNxMExHc1otaW04TkItTmwxbjFtZkExZnJXZXJNaFN2ZkROVS15Nmg4SkVCajhhb2YzV2RRU1hiZ1lhUllWWG56ZTl6eW81cTlORV94bVNsUUlxWk9HXzFuVS1ydzNKMU5hNzVMWnNEZVBKcDRZQQ?oc=5"
     },
     {
+      "id": "news-disaster-3f8eda4dd3",
+      "lat": -35.19861,
+      "lng": 149.17762,
+      "title": "COMMENTARY: A Himalayan wake-up call for disaster insurance",
+      "category": "DISASTER",
+      "time": "2026-09-01T05:30:00Z",
+      "summary": "COMMENTARY: A Himalayan wake-up call for disaster insurance&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMkJzSW0zbFRvSk1mUko1R2tqYWxSeUdCNHlscndvSno4YW5EN2hkUmdGbHRESUoyd1pYQTlFX1lXRDJTZG4xVFhSV2w4eUJXVnZpYjdYQmc2RE1JOG5oZ2R2TE9FQV9rRDhVSnZyU1luWUt1R1BVV3JhN1k1V3BuZFMtTGtMeENiNVViY2FJZVZpd2c?oc=5"
+    },
+    {
       "id": "news-disaster-dc1ce4e110",
-      "lat": 45.18797,
-      "lng": -67.25323,
+      "lat": 45.23036,
+      "lng": -67.2631,
       "title": "Heathland plan to support two rare species of ant",
       "category": "DISASTER",
       "time": "2026-09-01T05:27:03Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-15053bc488",
-      "lat": 70.70691,
-      "lng": 27.84022,
+      "lat": 70.66705,
+      "lng": 27.83596,
       "title": "ゲヒルンと三菱自動車、「特務機関NERV災害対策車両」5号機を配備『アウトランダーPHEV』をベースとした災害対策車を共同製作 - mitsubishi-motors.com",
       "category": "DISASTER",
       "time": "2026-09-01T05:23:19Z",
@@ -166,9 +177,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXJ0aHEyS25oVlNIaTVKTjJpN3FlUXotUG5HNEE0OGZ4aUxOSUJmREFINWM4RWdQT3JCeHRiN0hVS1FPeFprMTFfOHRJOTlnWm5JSXcwcnFQellDekpUNVFsT25fN0EwR2NMNkstdDRwYWpDaUFjZEtHa1FTNEZpTFVfSFQ?oc=5"
     },
     {
+      "id": "news-disaster-e7d25ef8a3",
+      "lat": 33.72695,
+      "lng": 130.50936,
+      "title": "【台風情報】台風24号（クロヴァン） 4日ごろには奄美近海に達する見込み 複雑な動きとなる可能性【今後の風雨のシミュレーション】（MRT宮崎放送）",
+      "category": "DISASTER",
+      "time": "2026-09-01T05:14:13Z",
+      "summary": "【台風情報】台風24号（クロヴァン） 4日ごろには奄美近海に達する見込み 複雑な動きとなる可能性【今後の風雨のシミュレーション】（MRT宮崎放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oV1VYS3VNelQ3enlfel80OEtKM3VzUmZWd1FSZjQzT3ZXQ0RMYUVDV3I3ZEI5cUQ2eEltQm5tZm1fZDZwalpJc2JPemhHZFhSMHpocTJIWkJ3ZXJsVFdmeHlZdFota25mVlBxVmZwQkRyN2NjVTkzNGFlem5oeFU?oc=5"
+    },
+    {
       "id": "news-disaster-bc2bb82c9e",
-      "lat": 38.88297,
-      "lng": -77.09009,
+      "lat": 38.87305,
+      "lng": -77.0485,
       "title": "At least 80 people rescued after Grand Canyon flash flooding; one is unaccounted for",
       "category": "DISASTER",
       "time": "2026-09-01T05:14:00Z",
@@ -177,31 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJwYmFWWGdRckdSNWtvUjNyR0xKNW1pcmZLRFh3d3pPWEowR0NaS0tVREJnVi12MnZsTkIxaW4tSkFKZ2puTGpPbFg4T3RUWW5jenBDQ3Rfcjdvb29hSkZhUEppMUw3RS1kVElRc1hGOFM5X09icjkwMjk3SlVMdWtKamZ3XzBOLThrZ1JtY0h0RDl0WE83WHdKRjhncWw5eHpwTg?oc=5"
     },
     {
-      "id": "news-disaster-a08b23e9a2",
-      "lat": 37.28981,
-      "lng": -78.6795,
-      "title": "Flood water rushes down cliff at Zion National Park",
-      "category": "DISASTER",
-      "time": "2026-09-01T05:11:00Z",
-      "summary": "Flood water rushes down cliff at Zion National Park&nbsp;&nbsp;CNN",
-      "source_name": "CNN",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2lYZVdEbDRZQ3FRV002UnNzUE8tZndJVjdzYzhRUXNhVFpVcm9aTEhmYjJIbXpvbF9kN1lRT1duN3RnLWFQVUhVUGxuLVI3T0FlSHNVRXRybDVuWUIyZkNPN1RtZHR1d1g0UnBhNzJKdHBNUmxiYWs1SGdwSUUzb0JSZ1ZINmRsTk9PbkJvUFNKWDNz?oc=5"
-    },
-    {
-      "id": "news-disaster-3b924e3040",
-      "lat": 45.8308,
-      "lng": 126.61772,
-      "title": "New storm names for 2026-2027 released by Met Office",
-      "category": "DISASTER",
-      "time": "2026-09-01T05:00:13Z",
-      "summary": "Tuesday 1 September marks the start of the UK storm season and a new list of storm names have been released including Austen, Chloe and Evelyn.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo?at_medium=RSS&at_campaign=rss"
+      "id": "news-accident-214e30b7e4",
+      "lat": 49.19652,
+      "lng": -122.86433,
+      "title": "Transmountain shut down after crash; one person suffering life-threatening injuries",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T05:37:30Z",
+      "summary": "Transmountain shut down after crash; one person suffering life-threatening injuries&nbsp;&nbsp;KFOX",
+      "source_name": "KFOX",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zM3RyS2JKZ2stNEpjNWFiYXdfQ2hsWXFQdy1aZ1Z0LUlzSVlLTkxxbWJUWVl6ZW1OMFhqU2t2NXdLSERjMVQxbUlZc1hXVnZjZEFMX2Q3TFNTWGFJOGV6VU85SW4yUjVybUZ2NWtYSUtBcWw4OTd0bmVFZGtnLXc?oc=5"
     },
     {
       "id": "news-accident-ed0b4f0f9a",
-      "lat": 35.27392,
-      "lng": 139.53023,
+      "lat": 35.35931,
+      "lng": 139.53814,
       "title": "奈良 御所 トンネル内正面衝突事故 乗用車の運転手を逮捕",
       "category": "ACCIDENT",
       "time": "2026-09-01T05:12:00Z",
@@ -211,19 +222,30 @@
     },
     {
       "id": "news-accident-7373453ee0",
-      "lat": 11.58125,
-      "lng": 104.83515,
+      "lat": 11.59494,
+      "lng": 104.874,
       "title": "Community mourns victim of Northern Colorado crash that killed one person and injured several others",
       "category": "ACCIDENT",
       "time": "2026-09-01T04:28:00Z",
-      "summary": "Community mourns victim of Northern Colorado crash that killed one person and injured several others&nbsp;&nbsp;cbsnews.com",
-      "source_name": "cbsnews.com",
+      "summary": "Community mourns victim of Northern Colorado crash that killed one person and injured several others&nbsp;&nbsp;CBS News",
+      "source_name": "CBS News",
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPREZaSlVDSVNyeEo3QnVWTlZFLVU1dWEyd2xOTEdhRU8xVk9QOTJscU9OZF9ZSTRxRUd0dlhzZFB0NEZlNE94cG1fRVdiYWxrM3lmaTJmeUd0QzNVUUtqQ1VZRm9Wb1BhWDdmV0t3MmlqUHdaQWZsTDFXRUJ6OHM1SU5oSm13alBmbFVGakNMN3piaEdCMEpNTHUyWTR0OFBLUjFWeGFyVEFLT0RHc0N4Y0hnVWhnSDVNR1c3MFFNWkx0dw?oc=5"
     },
     {
+      "id": "news-accident-d88dcce4f5",
+      "lat": -12.4316,
+      "lng": 130.94569,
+      "title": "Driver killed, passenger critically injured in head-on crash with UTA bus in Salt Lake City",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T04:25:47Z",
+      "summary": "Driver killed, passenger critically injured in head-on crash with UTA bus in Salt Lake City&nbsp;&nbsp;FOX 13 News Utah",
+      "source_name": "FOX 13 News Utah",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN1BtWGZKSTUyZ21zbEg3QlNmTW9HdW5wNkxtd21BUW10MkZNeER5TUw3N3Y0RnNZZm1PNE9mRnliejFxalpuRThZbnduTTUxNWtWTEIwUFN5Qk5IRjVid19OenNjMkl0ZHJtVEhGdTNqaVZYa0hTMXFOeVBDQUNIMUFMWEJHaE1NNmdfVExiUlpWVkMxT05PSzhmbkZ0dEFVeHNfa0xnTjRLeC10dkhfdDFPMlQ2c0QyRUNUenNMTk9nUGQ2ZzY4T2xPQQ?oc=5"
+    },
+    {
       "id": "news-accident-d01612910b",
-      "lat": 39.78993,
-      "lng": 141.13009,
+      "lat": 39.77651,
+      "lng": 141.09196,
       "title": "【辺野古転覆事故】「対応にスピード感がない」「何のためにこの場を設けたのか」…同志社国際高の保護者説明会で不満の声相次ぐ（読売新聞オンライン）",
       "category": "ACCIDENT",
       "time": "2026-09-01T04:20:05Z",
@@ -233,8 +255,8 @@
     },
     {
       "id": "news-accident-b202b649c5",
-      "lat": 41.16512,
-      "lng": -73.84945,
+      "lat": 41.14101,
+      "lng": -73.7922,
       "title": "Motorcycle crash on Flower Mound Road sends one to hospital",
       "category": "ACCIDENT",
       "time": "2026-09-01T04:09:00Z",
@@ -243,31 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRE5fbEluYjlzQmllZHdJZUd0WWotZjh5Q1pqSzRBLW9MMlVFTDlmR2RVU05nUFhDQ3hJTXJNYkI0Qzl3Yjh2VDdaYnlVOHE0ZlZ3Ql9qWGJhbEpiZ09hVHpGTFdXb2lORndkZFRWaEgxdTMtQ1RXOGVRN2pJU0Jwc2ZFd2E0anpJQU5ialBZTdIBowFBVV95cUxQWFZoODZOb2I1OHlBbTVuZksyTnBIQ3Y5UDV3elVJbTBuM0tsYXdOdlM2TWNnUjgwQk9CcUNLdzdydmVlMWhGaWRDeEU1MU05NTFwaEh6bkZaNzNhT2J1dFdOWGVudnJrWTM2a2c1aUl5TkVZQkVyZ1JoTHBSR3poWHBlWXJPYlhYMUdKRG9lekpvcmJIcnc2dWdUTVBYU2daRnBz?oc=5"
     },
     {
-      "id": "news-accident-58a637e8e8",
-      "lat": 32.80522,
-      "lng": 130.70736,
-      "title": "熊本地震の教訓生かせ…「防災の日」に各地で訓練、成田空港ではイオン爆発事故念頭の訓練も",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T04:02:00Z",
-      "summary": "熊本地震の教訓生かせ…「防災の日」に各地で訓練、成田空港ではイオン爆発事故念頭の訓練も&nbsp;&nbsp;読売新聞",
-      "source_name": "読売新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SZGdHdU1CdmtneE5BV2MyaHVfOFJhTXJNTl9Ob0hFNDgxR0ZiN1dxaFdjSVhqNkFiRTN0d0g1cTdHdXNVSEsxaDZ5VzRKR0pNUTdHbjRvcGdhNFlLSWtHbTBnWjkzZw?oc=5"
-    },
-    {
-      "id": "news-accident-214e30b7e4",
-      "lat": 49.16925,
-      "lng": -122.86941,
-      "title": "Transmountain shut down after crash; one person suffering life-threatening injuries",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T03:56:59Z",
-      "summary": "Transmountain shut down after crash; one person suffering life-threatening injuries&nbsp;&nbsp;KFOX",
-      "source_name": "KFOX",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zM3RyS2JKZ2stNEpjNWFiYXdfQ2hsWXFQdy1aZ1Z0LUlzSVlLTkxxbWJUWVl6ZW1OMFhqU2t2NXdLSERjMVQxbUlZc1hXVnZjZEFMX2Q3TFNTWGFJOGV6VU85SW4yUjVybUZ2NWtYSUtBcWw4OTd0bmVFZGtnLXc?oc=5"
-    },
-    {
       "id": "news-disease-c9335cba88",
-      "lat": 34.88525,
-      "lng": 135.23984,
+      "lat": 34.96185,
+      "lng": 135.23912,
       "title": "豊胸手術後の稀な細菌感染症のリスクに関する警告。",
       "category": "DISEASE",
       "time": "2026-09-01T05:28:44Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-093b143f51",
-      "lat": 48.36667,
-      "lng": 3.37102,
+      "lat": 48.44544,
+      "lng": 3.29522,
       "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
       "category": "DISEASE",
       "time": "2026-09-01T05:00:26Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-ef434946f0",
-      "lat": 21.04127,
-      "lng": 105.80704,
+      "lat": 21.04924,
+      "lng": 105.84031,
       "title": "学生たちが学校に戻る時期が近づくにつれ、ハノイ市は新学期を前に新型コロナウイルス感染症の予防措置を強化している。",
       "category": "DISEASE",
       "time": "2026-09-01T03:43:31Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-2018b375f4",
-      "lat": 35.51134,
-      "lng": 139.56792,
+      "lat": 35.50378,
+      "lng": 139.60703,
       "title": "犬の腹ペコサインは病気のことも？ 食欲の変化で確認したいポイントを解説",
       "category": "DISEASE",
       "time": "2026-09-01T03:06:35Z",
@@ -310,19 +310,19 @@
     },
     {
       "id": "news-disease-8bc5939578",
-      "lat": 52.26135,
-      "lng": -0.03133,
+      "lat": 52.30351,
+      "lng": 0.01494,
       "title": "\"Over 6,000 Infected, Half Dead\"... DR Congo on Alert Amid 'Worst-Ever Ebola Outbreak'",
       "category": "DISEASE",
       "time": "2026-08-31T23:23:27Z",
-      "summary": "\"Over 6,000 Infected, Half Dead\"... DR Congo on Alert Amid 'Worst-Ever Ebola Outbreak'&nbsp;&nbsp;asiae.co.kr",
-      "source_name": "asiae.co.kr",
+      "summary": "\"Over 6,000 Infected, Half Dead\"... DR Congo on Alert Amid 'Worst-Ever Ebola Outbreak'&nbsp;&nbsp;아시아경제",
+      "source_name": "아시아경제",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IMWNiSFBHS3NIQXdMdDZxbnlJVlpRNWNUMHROM2E2UE9GYWhkQ0FLN2JlTTJXZU1mRkhnbzBjLS1uYUNtMzVuU1FiRXUzSFQtSkpJRnVEUzNsNDNBMWRmQWNhbXE?oc=5"
     },
     {
       "id": "news-disease-0617c7dbbc",
-      "lat": 35.67097,
-      "lng": 139.82431,
+      "lat": 35.68076,
+      "lng": 139.81774,
       "title": "「行きたい！」を諦めない社会へ TDLから外出支援広がれ 前橋のボランティア団体・つむぎ 障害や病気のある人らと11月訪問",
       "category": "DISEASE",
       "time": "2026-08-31T23:10:32Z",
@@ -331,9 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tOFpJcUYzMERHc3RDdkdZcGR4U0JVX1h2aFM1enU2R1E3WGJoYTV4a19ybzB0MGx0UXV0MllkTVdhQ3hiZmxjdWhlWmcteV9IdS1r?oc=5"
     },
     {
+      "id": "news-technology-0e1f6de856",
+      "lat": 43.17593,
+      "lng": 76.84648,
+      "title": "コンヴァノ－底堅い AI開発室を新設(トレーダーズ・ウェブ)",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T05:40:00Z",
+      "summary": "コンヴァノ－底堅い AI開発室を新設(トレーダーズ・ウェブ)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRThJY0ZYdDJtX05sMGNkZU44OGo4YmpJaUh3WEpaNXBVcFlCRXJHTnJWeVdiYkxjZlU0RDlVMGt2a0tSOGFHV2N2TXpMUzdiTnBfVHNVOUp6Vk9Zd2tnMmJPMUJRRHgtMEVNemwwUjlwY0d5QVdNVUJXaUJaTTR4dktNbVRMdnM?oc=5"
+    },
+    {
       "id": "news-technology-1d16e655b8",
-      "lat": 11.61641,
-      "lng": 104.95163,
+      "lat": 11.50732,
+      "lng": 104.94423,
       "title": "CANCELED: IMTS 2026 Conference: AI-101: A Manufacturer's Guide to Driving Business Value with AI",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T05:30:00Z",
@@ -342,9 +353,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZUVNUHhwdm5WSTFxT2JFNWFXZ0VRUDg5Zy1HTGVsWTY2ODNhQjAwcEt6VDdITlpva0R1cnhNbXZILWFleTl2cFQ4b3lQazA2RlNuMmNveGt1S0hiVkZZYmE2enc3Q3VxSDdFVWc2TFVFdU5ta3EyOFVuMHF3YTMzT2dMS0hQclg2Ulp1cjdtUWg4VmxyV2VlN2NUeVFHRDh2TWNScTZNZlZUYzZxRUNSQ2Jsd0ZfTzMtX3RZWUNITVd1TGVSTkplRkVVcFlSR1NhN3NF?oc=5"
     },
     {
+      "id": "news-technology-75a40b0bf2",
+      "lat": 35.59448,
+      "lng": 139.62409,
+      "title": "ダイレクトクラウド、キヤノンMJの複合機と生成AIを連携させた「SmartFiling AI」を提供",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T05:29:00Z",
+      "summary": "ダイレクトクラウド、キヤノンMJの複合機と生成AIを連携させた「SmartFiling AI」を提供&nbsp;&nbsp;クラウド Watch",
+      "source_name": "クラウド Watch",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YZVd5S1ZVQUFVcE12QmRjRkJRR3FFMHRDSVRLdGxFV0RSaUxlUHJrcmR0ekU5OTVqNHR5LVVmczZnZ3FVSlNYTzNxYTBFZE1jQXZCUHVpUGhIUWFrOHc1NFppeVFMVmM?oc=5"
+    },
+    {
       "id": "news-technology-d9981bc685",
-      "lat": 35.7239,
-      "lng": 139.75505,
+      "lat": 35.67833,
+      "lng": 139.77015,
       "title": "横須賀市、スマホを持たない子でも傾聴相談サービス「AIちゃん」に相談可能に！ Web版の提供を9月より開始",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T05:28:42Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-1f666838e6",
-      "lat": 35.68585,
-      "lng": 139.77948,
+      "lat": 35.7083,
+      "lng": 139.77563,
       "title": "まんだらけ、不正アクセスで個人情報漏えいの恐れ　通販サイト停止で「大オークション大会」も延期に",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T05:25:02Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-fc8d5343a9",
-      "lat": 35.75084,
-      "lng": 139.7408,
+      "lat": 35.73627,
+      "lng": 139.71369,
       "title": "キャリア支援を人とAIでダブルサポート。安心安全なAI活用で、大学教職員による一人ひとりに寄り添うキャリア支援をさらに充実。",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T05:20:15Z",
-      "summary": "キャリア支援を人とAIでダブルサポート。安心安全なAI活用で、大学教職員による一人ひとりに寄り添うキャリア支援をさらに充実。&nbsp;&nbsp;digitalpr.jp",
-      "source_name": "digitalpr.jp",
+      "summary": "キャリア支援を人とAIでダブルサポート。安心安全なAI活用で、大学教職員による一人ひとりに寄り添うキャリア支援をさらに充実。&nbsp;&nbsp;Digital PR Platform",
+      "source_name": "Digital PR Platform",
       "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5jNjRUWmtTTExxMDUzZlZnNjBWWWhybjFXQnVRYnRYT01oc0l1YmFGN1AtZXU0UnIzbkg1ZmoxVi1OMEk?oc=5"
-    },
-    {
-      "id": "news-technology-5777b5a2c7",
-      "lat": 55.69112,
-      "lng": 12.56079,
-      "title": "Global AI boom fuels Asia factory expansion in August",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T05:17:35Z",
-      "summary": "Global AI boom fuels Asia factory expansion in August&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaG42LWQ5WFE4X0FDT25aX3Y2QUFiVEEzMVlKblRYVEE4Zlh0b2NaZS1UR0RiNUw4c1dScWNZSTdLMDJaRWl2ZE5PRWJrUVU4NThjX040WHFfM3J6WE9rYlh0YkJBdWJxcklHR3cwZ0hiTU15WlVWQU5GeGpDeWtmZWNjcmFHUVNCcUVpX2xDRzVhLTQ?oc=5"
-    },
-    {
-      "id": "news-technology-dcd0e8ae91",
-      "lat": 37.79597,
-      "lng": -78.70775,
-      "title": "AI検索対策、他社はどこまで進んでる？ 本格実施はわずか1割、KPI未設定は3割【Faber Company調べ】（Web担当者Forum）",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T05:17:00Z",
-      "summary": "AI検索対策、他社はどこまで進んでる？ 本格実施はわずか1割、KPI未設定は3割【Faber Company調べ】（Web担当者Forum）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wcndfakRPRTlkNGY2VENxLXVxSVhLd1NXdTJqU1RTb3BlNjNCVlY3alNhMzZzVEVFXzZxYWdFUTA2UGhvRlJjVjVoZHpzZ3ZvRUxFNEpteS1rNnlTMmNEWVlVMUZ4V3VXQ1BLVUF0emFlMXlvZjFDOGVJSzl1MFU?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-01T05:37:24Z"
+  "updated_at": "2026-09-01T05:50:02Z"
 }
