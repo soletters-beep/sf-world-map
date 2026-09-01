@@ -1,9 +1,42 @@
 {
   "news": [
     {
+      "id": "news-politics-2d0f8e5fce",
+      "lat": 32.68491,
+      "lng": 54.56702,
+      "title": "US strikes Iran as state media reports four killed at wedding party",
+      "category": "POLITICS",
+      "time": "2026-09-01T21:21:51Z",
+      "summary": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-2735b15dd7",
+      "lat": 35.72044,
+      "lng": 139.74606,
+      "title": "「日本史で自身が天皇より上と考えた英雄は…」細川護熙元首相が見た、高市政治の“深刻な危うさ”（文春オンライン）",
+      "category": "POLITICS",
+      "time": "2026-09-01T21:15:47Z",
+      "summary": "「日本史で自身が天皇より上と考えた英雄は…」細川護熙元首相が見た、高市政治の“深刻な危うさ”（文春オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZjB4b1llX3BxcW1vTHVZUEhnbXZoY2pMUFM4RFFMVHhmbkwxWE5lWUE1U1lOejhPTUU1eVpXc2R0aThJNmFwYk9JNVZRZUxzN1pwMVN3QzQwZ0RGUWR0SEo5T0JKZTk1Sm1fQVYtQ1p3dTh0NzdyY0ZPejhHTGs?oc=5"
+    },
+    {
+      "id": "news-politics-64ae4bdaac",
+      "lat": 32.39647,
+      "lng": -97.40639,
+      "title": "Johnson’s starring role in World Business Chicago videos draws ethics hearing",
+      "category": "POLITICS",
+      "time": "2026-09-01T21:12:00Z",
+      "summary": "Johnson’s starring role in World Business Chicago videos draws ethics hearing&nbsp;&nbsp;Crain's Chicago Business",
+      "source_name": "Crain's Chicago Business",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWTRfQ0RIV1pQaHN2eHVWMnFzYW9Ld3V2NEJqRk4ybTc4YjNVRmg4WG9nS1V1UnNZX0xHZ0U4WklDbk9vZnVzVXlzU3ZDckY5RE02OFhZRXRZZF9ibThrNTNVc2FSMm1fRVVTRGxTUlBSQl9SOVZhSmdOXzhsdzRGUXhxb0lyOHhjMUw0bmVrejVfdU1jUHhEMXpNZFV4Zm9SVmc?oc=5"
+    },
+    {
       "id": "news-politics-d5b514f328",
-      "lat": 51.11689,
-      "lng": 10.44613,
+      "lat": 51.13245,
+      "lng": 10.46724,
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "category": "POLITICS",
       "time": "2026-09-01T21:05:22Z",
@@ -12,64 +45,42 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-15ea93ae6f",
-      "lat": 35.5737,
-      "lng": 139.42479,
-      "title": "「歴史に残る1枚」発言の舞台裏 トランプ氏の「宗教観」念頭に会談 [石破政権][高市早苗首相 自民党総裁]",
+      "id": "news-politics-6b468da2b5",
+      "lat": 51.61632,
+      "lng": -3.20635,
+      "title": "What to watch in Massachusetts: From the Politics Desk",
       "category": "POLITICS",
+      "time": "2026-09-01T21:03:08Z",
+      "summary": "What to watch in Massachusetts: From the Politics Desk&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU0k4LWdPWGJCVWxzeVBRVjJkNkJJTnBwdjRKQXhYYzJVeHE3ZkdDS3p6VW1KQ2J3R1lkcmJGZDNaZ2pqeUJLZnpGWmZnb3Z4dEljMHdZRktQWlVuVVJUV1RnSFZESWFnQy1lV3lMdURoZ2JaREdCb0IyZ256a2pBN0dOUl9EWUo3anFUNVkyM0tFNGFtYWc?oc=5"
+    },
+    {
+      "id": "news-politics-05f732b436",
+      "lat": 38.40271,
+      "lng": -122.76409,
+      "title": "Voices of Our Youth Gala celebrated the impact a mentor can have | NONPROFIT REGISTER",
+      "category": "POLITICS",
+      "time": "2026-09-01T21:01:24Z",
+      "summary": "Voices of Our Youth Gala celebrated the impact a mentor can have | NONPROFIT REGISTER&nbsp;&nbsp;Colorado Politics",
+      "source_name": "Colorado Politics",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1duUXI1bzBQbTAwb2NXdkZsMDJDbmJZR2lBV21NY0EzMi04cEN5RURrRnpRT0J5bXFiUnB2ay1PVmNUc3F5WUhwdWRidV9TZnVpdmV6RENxd01uNGZEMVRCbVZ2T05oR0gteFdmVllzTWpwck8zVmxRQ0lJSU1jQ0RLOUhiSmI2ZGxmTlpwcnpKMGNXa19wdE9qZmR0YXZDMmRncFVFcFhaM2x4S1FPU3p3OGtmS2JDQUY4MU43YnVCU3UwYWFn?oc=5"
+    },
+    {
+      "id": "news-finance-aa62be456c",
+      "lat": 4.16078,
+      "lng": 9.18178,
+      "title": "モンゴDBの株価が本日急落した理由とは 執筆 - Investing.com",
+      "category": "FINANCE",
       "time": "2026-09-01T21:00:00Z",
-      "summary": "「歴史に残る1枚」発言の舞台裏 トランプ氏の「宗教観」念頭に会談 [石破政権][高市早苗首相 自民党総裁]&nbsp;&nbsp;asahi.com",
-      "source_name": "asahi.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNanRjejBaQ0FjUHZjNmlOLVNxUnVpbDlyRTU5N2dVdFFscGM0WDN4OGdQRGhQQTBmUFVKTF9JSGpsaGNFOXZCYlhMYnNBMWk1WElYQkFsR29heHV2WGxQZGl0a045NHBDRXpvNndxdmhfSFdYa3hqSlFIaEtLZEdYSXppSkZNeFkzQUlVdlJpaVl2YUdLekJpa3NqZGk0UEptb0dqZFFKS3VvRER1RndYclZ5NjhUNklGaE1fVDA5M084NzBDbnpF?oc=5"
-    },
-    {
-      "id": "news-politics-2d0f8e5fce",
-      "lat": 32.58955,
-      "lng": 54.58172,
-      "title": "US launches more strikes on Iran as state media reports explosions",
-      "category": "POLITICS",
-      "time": "2026-09-01T20:59:24Z",
-      "summary": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-61184e3c03",
-      "lat": 35.70111,
-      "lng": 139.7311,
-      "title": "河合優実が石原さとみ主演『ポリティカルパン』でフジ連ドラ初出演 女ルパンに利用される政治家の娘役【コメントあり】",
-      "category": "POLITICS",
-      "time": "2026-09-01T20:37:46Z",
-      "summary": "河合優実が石原さとみ主演『ポリティカルパン』でフジ連ドラ初出演 女ルパンに利用される政治家の娘役【コメントあり】&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92S1E0NWhVWmZicnk2Mng2VnZjTkFydGVnMk1vdEY4d3o2bXRLc2FBSlJPUnNXYkQ3N3hVSjRMZWxpMENDcmdTaWR0WGRLaHIzUW1aaFBpdDJ0ZVo0TkF4bVhXQVJST2Ywd0g5UjgtZVhfQ1c3bFYwb2tDMk9fRU0?oc=5"
-    },
-    {
-      "id": "news-politics-6aeb1fdf52",
-      "lat": 40.74639,
-      "lng": -74.06092,
-      "title": "J.D. Vance and Abdul El-Sayed Really Don’t Like Each Other",
-      "category": "POLITICS",
-      "time": "2026-09-01T20:37:27Z",
-      "summary": "J.D. Vance and Abdul El-Sayed Really Don’t Like Each Other&nbsp;&nbsp;New York Magazine",
-      "source_name": "New York Magazine",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaE5uX2M5WEpJSWtDOV9IdldPT09zQmtwdXdCdlVjU2FnM1J5b1RTNmlKQVk0eTAwMl9qSjNjbkpaZGdYSGdsalRiN0h2V1JuQkNSVFFqenc4TmRvYUktdllOYU9STmhSZHM3R0toc0Vrd3l1dHprYk5PY1h3WFVpS3pWRzFuNEo0WjVNd0dBNUQtXzJLQS0wQTRGcFhmVnFKSUE?oc=5"
-    },
-    {
-      "id": "news-politics-65f383b2b0",
-      "lat": 35.578,
-      "lng": 139.78864,
-      "title": "河合優実、フジテレビ連続ドラマ初出演が決定　石原さとみ演じる“女ルパン”に利用される政治家の娘に【コメントあり】",
-      "category": "POLITICS",
-      "time": "2026-09-01T20:34:59Z",
-      "summary": "河合優実、フジテレビ連続ドラマ初出演が決定　石原さとみ演じる“女ルパン”に利用される政治家の娘に【コメントあり】&nbsp;&nbsp;ｄメニューニュース",
-      "source_name": "ｄメニューニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2FRNVplMWhVS3dBSmtNWjJJSGYwUTlib1VJLXJXOGc3RGoyWnVlUndualB1Ty1UbjVyUnN0VjJNVlYyNUJhWHN5VXRyRFhNWTZvbWVLU194T0lOUGd0N2NmTmphVTFrWlNfQ2lnMnQ0ZjRyUEd6UnRXZDlDMDZPTdIBhgFBVV95cUxNSTk5a1F3aWpaQ0VmbDZqYVZJaENzTExfTVJJdFFKbVFpRVJNY0syUV8tT0xZT0Rib1R1bjdpVF9wMS1kb29JR1FSNWhZQUhURVFScjBLOU5KYkZNT1lzeDhXYUg5cWtneDhEcURtM2I4bFBVYVFqYXlyOWc5QXBHclpKRmthUQ?oc=5"
+      "summary": "モンゴDBの株価が本日急落した理由とは 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source_name": "FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sS2NhamhzT0tNRVJnZGw5Q2N6LTh5SGE2REE4SW9qUFJvdzR5X1RWek9NUDdLWEszejlaMDRqci1TVXpaSnZXNG5rTjlKazZ5UUdsZlM1aDlpbV9GVUhpNHRPTmZpYW9iRDJ5cVNqa2tNellUNlY0?oc=5"
     },
     {
       "id": "news-finance-027aebdd21",
-      "lat": 1.38312,
-      "lng": 103.87264,
+      "lat": 1.36233,
+      "lng": 103.88913,
       "title": "Sticky Inflation Is Roiling Bond Markets Again",
       "category": "FINANCE",
       "time": "2026-09-01T20:59:23Z",
@@ -78,20 +89,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON29kQ3RLTVl6ZVB1WFNuQW5TNk5wZDYtSHBTN1dGaEZPNFRDeDIwZ29PaTh5bnA5YVl2YVE2bVUyMnN1RTFZTE9GR090emZQRWoxMWZKbGhUeWZNc25jVTZxUVJWZU9aSVNVMTFJUEFIdEtQcG0yWVFUVEZJaXdFVkRsX0tMOXMyRE03VzJRVG1RVVBPVEVYMThPcllkY3FNdlE?oc=5"
     },
     {
-      "id": "news-finance-50cdf0ad01",
-      "lat": 38.92709,
-      "lng": -77.02535,
-      "title": "Bessent downplays bond market concerns amid global sell-off",
-      "category": "FINANCE",
-      "time": "2026-09-01T20:54:26Z",
-      "summary": "Bessent downplays bond market concerns amid global sell-off&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUpNQm9IRWNqckx0Y0VQd19vN3I2WUNUSDMxbnFSMUFSV3A0Y3FkZlpWSC1oYjV0eTdGTjg2UTE4NTdIb2tkOWpnaEozRjF6ckVBa3ZCMTZaQkVMb1pvS3VuZ1k1amhPbHFZNVAwQ1c5QlFyZXhfOUYwaC00V1pKWkloNkZEa0tycGJqTWFDbWd6MFczd1RVcEdoSGt0QVlweWtsbnBjVGt3R3VoTzlFNg?oc=5"
-    },
-    {
       "id": "news-finance-b6615da229",
-      "lat": 34.58707,
-      "lng": 108.89365,
+      "lat": 34.58143,
+      "lng": 108.92979,
       "title": "US urges G20 to cut trade imbalances, focus on China",
       "category": "FINANCE",
       "time": "2026-09-01T20:36:38Z",
@@ -100,20 +100,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkV4WWhPZ3JYeUpwMUFmWTQ4eEJLMTRyUXdxMjk1VUtwQ2FaaG01aUhRWXBXUUQyVXZJQkwtWGV5RUpfbGYxRTJ1NFl1d29lSHpFNERCNDIzRGJ2YmRzdmdBODF0TE1yZURZMlJNemtjSkRVMXlTWmZHejFCZFVFVkdoOVJfZ1dvXzk5WDFldk5nYkREUmdNRVlB?oc=5"
     },
     {
-      "id": "news-finance-5ac1d8d8a4",
-      "lat": -4.15804,
-      "lng": 29.18037,
-      "title": "Some G20 differences remain over imbalances, sovereign debt, US Treasury official says",
-      "category": "FINANCE",
-      "time": "2026-09-01T20:36:16Z",
-      "summary": "Some G20 differences remain over imbalances, sovereign debt, US Treasury official says&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFF4QjdrWE11ZEJIR0lhLUFZeUlwYzdhTlB0a2lwWkFXQ0x1WTFDNnRmeFNCLTRpWFpXcUZwZlIycW9jYzlqcl82RmNnbU9IS3N2SFgtVXU1RWpzZU5XcW02ck92c3otdTNOSE16U2EzTXVpWUNKWF93U2dOaDNSYUl5MlRHellRUWJ1bkVaUHZmSDAza3BaOEJ0anM5am5HTE90c3k1TzVQbXg5Yl9FLUFKOHJwWGk5ZzNDUEhMZkpyVkFYX2c?oc=5"
-    },
-    {
       "id": "news-finance-96279b4660",
-      "lat": 35.71465,
-      "lng": 139.67459,
+      "lat": 35.72723,
+      "lng": 139.70009,
       "title": "Coming Soon – 2026 Elite Private Equity Leaders",
       "category": "FINANCE",
       "time": "2026-09-01T20:26:34Z",
@@ -123,19 +112,52 @@
     },
     {
       "id": "news-finance-b633871d31",
-      "lat": 54.64454,
-      "lng": -5.94883,
+      "lat": 54.60497,
+      "lng": -5.9114,
       "title": "U.S. Markets Decreased Tuesday; Pershing Square Fell Furthest",
       "category": "FINANCE",
       "time": "2026-09-01T20:11:00Z",
-      "summary": "U.S. Markets Decreased Tuesday; Pershing Square Fell Furthest&nbsp;&nbsp;Barron's",
-      "source_name": "Barron's",
+      "summary": "U.S. Markets Decreased Tuesday; Pershing Square Fell Furthest&nbsp;&nbsp;barrons.com",
+      "source_name": "barrons.com",
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGZuVUFkU1M4Rk5VWG1CVHgxbExuV2xQTlhfd0RaZnlWOC02aFF3WU1jcHFUM1NPMFQ5OHpUOFM3T1Z4TnBFRXZDQ1R5QXRxNjRBN3lHVEVNalhkOG9ZM3RURjNWQlZMcXRsazZlWDYxWkRPOTVrdTZfSHJtUHpaemgwSUQwVV8yZndZcW1iek5pQ2F0cmhVZDNjbjZrVWlmdXd3?oc=5"
     },
     {
+      "id": "news-finance-0327b4adba",
+      "lat": 34.68638,
+      "lng": 135.48178,
+      "title": "金融資産多い世帯にプラス 固定型住宅ローン負担増 長期金利３％",
+      "category": "FINANCE",
+      "time": "2026-09-01T20:00:00Z",
+      "summary": "金融資産多い世帯にプラス 固定型住宅ローン負担増 長期金利３％&nbsp;&nbsp;琉球新報デジタル",
+      "source_name": "琉球新報デジタル",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12QjVBYzF3TmpsT0tMZVU1ZnJxVkNOaWtJckhDems3N21uZXRJamwyOFFsQ1R2NXphc1FqMXRZaWEyTE9zektNVkhmQVJjN1ZwZlZWNDE3QnBnYnJ5UDlvLVdB?oc=5"
+    },
+    {
+      "id": "news-disaster-a600d8e5e9",
+      "lat": 28.33009,
+      "lng": -81.54718,
+      "title": "Watch: Astronauts set out on rare all-female spacewalk",
+      "category": "DISASTER",
+      "time": "2026-09-01T21:08:48Z",
+      "summary": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-disaster-da7129b71b",
+      "lat": 41.53758,
+      "lng": -73.11351,
+      "title": "Kaynor Technical High School reopens after summer flood, welcomes 800 students",
+      "category": "DISASTER",
+      "time": "2026-09-01T21:04:00Z",
+      "summary": "Kaynor Technical High School reopens after summer flood, welcomes 800 students&nbsp;&nbsp;WFSB",
+      "source_name": "WFSB",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQblRzQ20wckhkd09xZnhkU0MzVER0RThDQURmNDg3bHBrZ2ZXMWpyclkwWnl3RDM4Y1FZcWtFenZZTHNQdlFGM2x5TjRoemx5RkhxR2ZSZzN6TnhOTFpFYWRFcENTaTVOSlUtZXVCeF9neHc3NkhNMXNSNklzUnplc2REQ0RKYmFHV3FDdmtqX25MNHJfMkJJSjlXY0xwSnZjODNmTGlNRUVSempZUTJr0gHDAUFVX3lxTE9BWUNOcERBQWxNaWJ1NURrendSUlBCb3czNHg1V3ZpX25NNEw1MjVFWFdpM2doa25hdjMzR1lSekhvbDc5YnRfSEVzelFKdVk3b2FYY2ZFdzlvMmhaOXg1QXVicGhnNDB0bWY0MGdIUlBTejNET1ZXazFlSzJjVzdKVlBZb2FZMzZUQXpuc2JRZFpCSGprYnhhRjB2ZjRJN3VPVzBIcTR2bG5CeW5oRFNPdVhHN2EtQ3pJeW5WaklkMUkwaw?oc=5"
+    },
+    {
       "id": "news-disaster-1bad97f8cf",
-      "lat": 39.26731,
-      "lng": -76.62039,
+      "lat": 39.26345,
+      "lng": -76.64461,
       "title": "Rescuing those still trapped by flash floods in Nepal and Tibet",
       "category": "DISASTER",
       "time": "2026-09-01T21:03:26Z",
@@ -144,9 +166,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObzlTbUZGeHRyZHBWbm9mRHVDOXI4a3dvTXlUZlIxOTRLMXptTzlIYzJYdUpEQTJWZWVla2pNQm1GaHhodWV1Q1prdklwN1lHTDhJY0FGcl9DT2pReWs5djY1blV1YVAzNFVGZVplWEVURWx4NmlhOGFVRkk5M0JqckM3X25fbjU5dFFwXzYtTjZra1NjVzBoN3lCdVRPaVJDRTBENWo3OEtlX2lG?oc=5"
     },
     {
+      "id": "news-disaster-a8d5e98f99",
+      "lat": 36.03962,
+      "lng": -119.53387,
+      "title": "2.9 magnitude earthquake recorded close to Corcoran, CA on Aug. 21",
+      "category": "DISASTER",
+      "time": "2026-09-01T20:48:11Z",
+      "summary": "2.9 magnitude earthquake recorded close to Corcoran, CA on Aug. 21&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zc0ZObGhEclpoM2Fjd2NkM2xJUkxFNEV3UkU1MldIRlhMUmNCRE5JUHZBZU53LURKNnc0al9zckw2cWVybzhzZDh5amFfUHFVVmtLZ2ZKZmhlQ082T0RaWlFRbVd1WGdsWUE3MlVTWURIQVctcE5zd0ZVd1Q?oc=5"
+    },
+    {
+      "id": "news-disaster-c73967c581",
+      "lat": 34.81668,
+      "lng": 137.64354,
+      "title": "【台風情報】ダブル台風 18号 24号 予想進路 特に24号は秋雨前線刺激 本州で4日大雨のおそれ 沖縄・奄美も大雨・強風注意 18号で中国大陸・台湾に大雨",
+      "category": "DISASTER",
+      "time": "2026-09-01T20:45:00Z",
+      "summary": "【台風情報】ダブル台風 18号 24号 予想進路 特に24号は秋雨前線刺激 本州で4日大雨のおそれ 沖縄・奄美も大雨・強風注意 18号で中国大陸・台湾に大雨&nbsp;&nbsp;FNNプライムオンライン",
+      "source_name": "FNNプライムオンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82LVJqd2poY0c1Q01qVW54WGxyVDVMOV9vSkdUb2UtMi1iWml0OTl0cnZITjZBM1lycUZ5UTgyejMxZE5xNEFwS3JBYUExZw?oc=5"
+    },
+    {
       "id": "news-disaster-66643b719f",
-      "lat": 31.55048,
-      "lng": 50.91653,
+      "lat": 31.58978,
+      "lng": 50.89771,
       "title": "Understanding earthquake risk perception",
       "category": "DISASTER",
       "time": "2026-09-01T20:21:16Z",
@@ -155,64 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEg5TXlIbFRISXdBV2Y3N3M3dnF2NXJZeEg1YU5OeWx2X2dYeTFPZk9VY2prU0J2d1VQSGZ2Qnd0UzQzVzBIekhEamZzVk1CXzlBU29xc3hnTm1jSkJxSnk3S2N1bmhXY3JXUzVtZ3IxTTRvNDJma3R5U2ZlQ3hQSkRBN012ZzdMcDJJNGpTbW0?oc=5"
     },
     {
-      "id": "news-disaster-1a7bc83611",
-      "lat": 33.7564,
-      "lng": 130.44829,
-      "title": "【台風情報】最大瞬間風速25m/s「台風24号（クロヴァン）」今後の進路は?西日本〜東日本などで警報級大雨のおそれも...9月12日までの雨・風シミュレーションで確認【気象庁2日3時45分発表】 (RSK山陽放送)",
-      "category": "DISASTER",
-      "time": "2026-09-01T20:16:02Z",
-      "summary": "【台風情報】最大瞬間風速25m/s「台風24号（クロヴァン）」今後の進路は?西日本〜東日本などで警報級大雨のおそれも...9月12日までの雨・風シミュレーションで確認【気象庁2日3時45分発表】 (RSK山陽放送)&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSDd0NGhNc1p6S0FXWHA5MC1JOTI3WFZlR0lRMWV2WkU4VFpPdUdrUFVHcjFWTjhaVEpfMXA0TE5RQlc4d3FwdkE1MGRGUFZxZnNkMGlJSEJuUTloRVRqQ0xzamdlS2JhandNc3BsS0hOc0U4ZnJWM2xTbHE0R3puZVFfNUFlY1JZZmRtNW9R?oc=5"
-    },
-    {
-      "id": "news-disaster-f0e80aefca",
-      "lat": -4.70857,
-      "lng": -40.07571,
-      "title": "VIDEO: Charleston nonprofit deploys clean water teams to Nepal disaster zone",
-      "category": "DISASTER",
-      "time": "2026-09-01T20:12:00Z",
-      "summary": "VIDEO: Charleston nonprofit deploys clean water teams to Nepal disaster zone&nbsp;&nbsp;Live 5 News",
-      "source_name": "Live 5 News",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRkRwNTFLY2Flbjg4Z3NYbl9JZDNCUHUtQkdQdnF3WTJZSy1tTW1lUTJYVVhGZC03ZG5GZTFXdU1jWlZMVDhPMnlTaE1FMGNlcEhpdE5mU0E3ckZMeFc1cU9wZXg4OEd5dWc2cVN6NFRXUklxeWlJd0R0aVB2V3dQZ3BmVzc0QWJTc2dzOG1uR3lEX2pfdTBOUE56MjZfU3VMUnRJRzBlMGFmakRMYnd6YTlYSUFiZzg?oc=5"
-    },
-    {
-      "id": "news-disaster-bca9e47246",
-      "lat": 47.83874,
-      "lng": 7.06057,
-      "title": "【台風情報】最大瞬間風速25m/s・992hPa「台風18号（ソウデル）」Uターン後、またUターンか…今後の進路は？9月12日までの雨・風シミュレーションで確認【気象庁2日04時05分発表】",
-      "category": "DISASTER",
-      "time": "2026-09-01T20:05:00Z",
-      "summary": "【台風情報】最大瞬間風速25m/s・992hPa「台風18号（ソウデル）」Uターン後、またUターンか…今後の進路は？9月12日までの雨・風シミュレーションで確認【気象庁2日04時05分発表】&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqcHJtVkQ2dE5saUk3QXJoakE3dVVRSUU4bXI5Y2JWTDFxdmFNcm9lWmEyS3lNU1dUaTBEVUdfRHlJUE9YRDJSZWxYaDI5eE5CdnF5YzJndTlDcFd3MU5yT0M5Vm0?oc=5"
-    },
-    {
-      "id": "news-disaster-000918e19f",
-      "lat": 32.79237,
-      "lng": 130.78526,
-      "title": "令和8年熊本地震 救援情報",
-      "category": "DISASTER",
-      "time": "2026-09-01T20:04:54Z",
-      "summary": "令和8年熊本地震 救援情報&nbsp;&nbsp;seikyoonline.com",
-      "source_name": "seikyoonline.com",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12Qnd0dGdjeWRzNkMzTDVPQlh6bm5SQ1dKTllPZzcyZXJZMDdaMkQ1aDVMNmJzN0NTLVRuVTlaV3ZqSWUyUFc3LXNCVkwxZEwxam9QSjFfc1dhd21MX015RUZ0SU5pbXdPbmtpT182WDg1RHNySy1YeA?oc=5"
-    },
-    {
-      "id": "news-accident-3fd5901088",
-      "lat": -12.44096,
-      "lng": 131.00567,
-      "title": "Driver killed after car crashes into tree on Highway 287 North identified",
+      "id": "news-accident-24081c134f",
+      "lat": 38.83586,
+      "lng": -77.35199,
+      "title": "Fairfax County student hit by car at South Lakes High School",
       "category": "ACCIDENT",
-      "time": "2026-09-01T20:28:00Z",
-      "summary": "Driver killed after car crashes into tree on Highway 287 North identified&nbsp;&nbsp;cbs19.tv",
-      "source_name": "cbs19.tv",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaE9ZeEhNWFFlZ3gyam1jaGNrc2h3WVpaWUpxdWVvQ3RSNWpSd0ZOSDUtTGF6NTZSbEtPWU45MHZUMmZTWWc2UDVpZExaY1ZnX3F1cU9BdjRydnFKM1oydHhXR0VhX0lwZmdBYW1RQ29LTnAyUDJpeVUxNHNVVEhtUmpkVklITHdCakl1d3FGUDlIRjZ5VUF5bkZGMUYydmhFVzBFRF9pZm5OcE9tSlB3X21JZ3pqNS1DVjh5TUV2MXpaaWxYVzFNRDVEeU5XNHFGYmZYb3RrVQ?oc=5"
+      "time": "2026-09-01T20:29:56Z",
+      "summary": "Fairfax County student hit by car at South Lakes High School&nbsp;&nbsp;WJLA",
+      "source_name": "WJLA",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ1VzX2JVeE5fVlZNN0ZJQThHQnRhMjRoVFQtOFl3SU9ETDJDczl6UnRmUUc1cnh3WVEySGU5eDFTZWpTc3Z4Mi1QUXl0UWtqR2pWWEV3TVpnZjlGYkRxLWZ4Wm9ZUDBpeVcyNnYyYnlqTGpETnhrUzFLcWhDeEZPTGZuVHJyNnQwU3JrYVk0aUVnQXpsSWhOTC1VSXdVRDYtMkh5SnVRa29qb3FpVE55SjIzckFsaU9KS0xwUVlvcG9ENXlibXpXWThTX3BiQkVhc3RTOENXWFVDVDQxWEFMWHVZS1NJREJ3bEJDdF9qR21QSFBvNGNRWFIyMA?oc=5"
     },
     {
       "id": "news-accident-5d6924477b",
-      "lat": 52.02623,
-      "lng": 18.92863,
+      "lat": 51.95008,
+      "lng": 18.99134,
       "title": "スノボ事故で顔中骨折…「見た目の劣等感から自信喪失」したバリキャリ女性KIKIさん〝3年後の現在〟に「よくぞここまで」「勇気の発信ありがとう」反響続々（西スポWEB OTTO!）",
       "category": "ACCIDENT",
       "time": "2026-09-01T20:23:07Z",
@@ -221,20 +221,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVHhPSlRlSUJtLW44MlBkalBnXzBzYnFRZ2lNU0lRbUFMcnAwREM4NFhwMGU2R25YV1Nxc3EyaEdOQnNOU2p0cERDUjJpU3JmZG5pbEJveV9JV29kOE9lMDlvZUpPWkdwb3VtMmNncms0OFNQbjZkRmdjMmZBcGM?oc=5"
     },
     {
-      "id": "news-accident-1a5bdefd36",
-      "lat": 23.68852,
-      "lng": 89.98718,
-      "title": "UPDATE: Westbound I-70 re-opens after crash in Columbia",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T20:11:24Z",
-      "summary": "UPDATE: Westbound I-70 re-opens after crash in Columbia&nbsp;&nbsp;KRCG",
-      "source_name": "KRCG",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2VxLWI0c1VxRzY0VVpreDBhd1MxajM5ai1BTFlnUXktOEhyTVRYSFVyVDVtS0wxd3RRNGZ4Yjl2WUFua20tdm8zd2ZIMy1IbzdaMUExS2pnLWNld1V2ZFRQcG5kcklqbkQzUldWaXcybExQcmJkTjRQLVl3a2xRbU1vVlg4emwyS2Nvbzl3aw?oc=5"
-    },
-    {
       "id": "news-accident-3b78f219a3",
-      "lat": -43.72635,
-      "lng": -68.76735,
+      "lat": -43.75604,
+      "lng": -68.75389,
       "title": "県立中央病院で医療事故 酸素チューブ接続ミス ７０代男性意識戻らず",
       "category": "ACCIDENT",
       "time": "2026-09-01T20:00:00Z",
@@ -244,8 +233,8 @@
     },
     {
       "id": "news-accident-47a5e332d5",
-      "lat": 26.25148,
-      "lng": 127.68244,
+      "lat": 26.2649,
+      "lng": 127.61871,
       "title": "滋賀：ダイビング死亡事故 和解：地域ニュース",
       "category": "ACCIDENT",
       "time": "2026-09-01T20:00:00Z",
@@ -255,8 +244,8 @@
     },
     {
       "id": "news-accident-dbc9daf5f2",
-      "lat": 32.75127,
-      "lng": 130.71415,
+      "lat": 32.73432,
+      "lng": 130.78875,
       "title": "熊本：改正道交法 事故減に期待 「生活道路」速度６０キロ▶３０キロ ：地域ニュース",
       "category": "ACCIDENT",
       "time": "2026-09-01T20:00:00Z",
@@ -265,9 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuYTVQQzhONE45Ulgya3dwQ3F2dUpaLXBpbDh5NHF2LTB0cjZidnZFMzk4QWpmMnFYQjBpV053N0tIRUlSQmh6UkEwUFBKNGZ5cl8tYkQ4aUlMclBrSDZlekw0cEpPM3Vla0JUbDZscDVDN2xI?oc=5"
     },
     {
+      "id": "news-accident-b62f9bd9b4",
+      "lat": 31.5525,
+      "lng": 130.62006,
+      "title": "栃木県教委、部活動の移動対応周知 磐越道事故受け、レンタカー利用の対応明確化",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T20:00:00Z",
+      "summary": "栃木県教委、部活動の移動対応周知 磐越道事故受け、レンタカー利用の対応明確化&nbsp;&nbsp;47NEWS",
+      "source_name": "47NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41dGtwSEFzRXo4V0U2NTlncHZUQjJPX1Z2V3FfeHYyS3ZZWkFlRW5jbG1FY0pNZWVKb0toWll1VmZyV2RkbWRzRGdwSQ?oc=5"
+    },
+    {
       "id": "news-disease-108eba937c",
-      "lat": 43.43088,
-      "lng": 28.18212,
+      "lat": 43.45442,
+      "lng": 28.2105,
       "title": "Women pose as men to buy testosterone online after prescription difficulties",
       "category": "DISEASE",
       "time": "2026-09-01T20:54:56Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-8a24f194ae",
-      "lat": 14.43521,
-      "lng": 33.47117,
+      "lat": 14.40616,
+      "lng": 33.5392,
       "title": "県内マダニ注意 媒介感染症が増加 「市街地にも生息」県対策課喚起",
       "category": "DISEASE",
       "time": "2026-09-01T20:00:00Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-5e5457b36a",
-      "lat": 50.49149,
-      "lng": 30.52461,
+      "lat": 50.44778,
+      "lng": 30.51023,
       "title": "【インタビュー｜後編】「病気にさせない」社会へ、運動・スポーツと理学療法士に期待される役割｜鈴木大地氏 - PT-OT-ST.NET",
       "category": "DISEASE",
       "time": "2026-09-01T19:50:04Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-5f032beab0",
-      "lat": 40.91956,
-      "lng": 22.89591,
+      "lat": 40.83917,
+      "lng": 22.85987,
       "title": "感染症に負けないカラダとココロ＝日常ケア編　服装を工夫して体温調節しよう｜四国新聞WEB朝刊",
       "category": "DISEASE",
       "time": "2026-09-01T19:02:25Z",
@@ -309,9 +309,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vUk53V2xNWUszQTUxYkxlNmZqVEx4N3o3Z2c2M3pGWDFacTd5eUVwUHVOM0RqVzJlTzVBRHlwdzFHcFV1ZS1WTXR1TnpfWi1la05UUTBrVWdybTJkYjRFWnBYVUtMUmo5NFhSTk1ITlBRdFBqQVBV0gF8QVVfeXFMUHFTM0lQd3hwQXRLUURhVmJMdzdDdGJDUVdQc0Q3a1dHald4ZndCR1NfSUF4M01fSHBVNjg4STRXR0l2a1FadVRZemdlYVNRdDlrTk5GcTRzUnc1ZE9veXFXdXgxS0hOdExiSzIyaXhkdDV2NDJSaHpOaHdUeQ?oc=5"
     },
     {
+      "id": "news-disease-65d7f0c1c9",
+      "lat": -3.00483,
+      "lng": 23.83532,
+      "title": "Congo's Ebola caseload tops 6,000 as concerns grow",
+      "category": "DISEASE",
+      "time": "2026-09-01T18:04:57Z",
+      "summary": "Congo's Ebola caseload tops 6,000 as concerns grow&nbsp;&nbsp;dw.com",
+      "source_name": "dw.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMnlxb1VEeFh5Y2E2UnNMNnVBSUxMNEgxUkdsbnBOQkhfaHRYSk1VdE84cHUxMnRyTmtweDdzeG5TNTJKRXU5SzdIdXBreDdfcWF2ZGNMQ1ozc182dldsTlVyaV94Yi1wcVJoN3Jjb2pJaFR0TjlhSEppNEpmWHVXZE96MkRCUEpX0gGIAUFVX3lxTE1wenI5eDBCVDF2NmhZMkFZdl9FdGtmem5zSmpiZ2RRaFpmNE55Zmd5UWZVNXpobWI0cVozTUZka0xPekZDZjV3elpjYm1mOThyVldoZHNqY3JiSjduTENtMVNLQ3VGWS1wNjAxd0wxdFZmeFBvdldyVjVoVW82eFJ5b3U2aTZabTQ?oc=5"
+    },
+    {
       "id": "news-disease-9e018eb181",
-      "lat": 35.50174,
-      "lng": 139.69435,
+      "lat": 35.41931,
+      "lng": 139.60229,
       "title": "「病気と闘う子どもたちの力に」アフラック販売代理店の「横浜総合アソシエイツ会」がこども医療センターに寄付",
       "category": "DISEASE",
       "time": "2026-09-01T15:00:00Z",
@@ -320,81 +331,70 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xWmNqR2VvQnVSVXU1Z2pZX040cGJ3Vi1TV2toQkVhdk9kaTB4WV82UVNVWEVtVWdjemtyekNvX3ZMQ2dhcTFDZXB1eEpJbVRxWXVKcW9IS3A0SW5FVXFaVTJTWjA?oc=5"
     },
     {
-      "id": "news-disease-e9caecf11a",
-      "lat": 59.31059,
-      "lng": 18.02103,
-      "title": "Epidemic and emerging disease alerts in the Pacific as of 01 September 2026",
-      "category": "DISEASE",
-      "time": "2026-09-01T12:56:08Z",
-      "summary": "Epidemic and emerging disease alerts in the Pacific as of 01 September 2026&nbsp;&nbsp;ReliefWeb",
-      "source_name": "ReliefWeb",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEFLcFM3LVdtd1JhT2NaX1otdXc5ejlfOVlnSHFwcldjb2F5N1dPaWMyblZzVjRqNXAwRmJ1Vk0wRHlVLVlES3BpZkhVMmQtOHUyczhJb2JXMHVHY0dCWmFGbVhfS0FwdjVqZjFwVXdLOUV0d3pmbkFEbGdQbFJNVTFnRTZ0c043ZzRFVGRMMDFMYWRpdDF1aHJn?oc=5"
+      "id": "news-technology-6751f0b104",
+      "lat": 39.77269,
+      "lng": 64.44993,
+      "title": "Evaluating AI adoption for EHS across US industries",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T21:19:25Z",
+      "summary": "Evaluating AI adoption for EHS across US industries&nbsp;&nbsp;Wolters Kluwer",
+      "source_name": "Wolters Kluwer",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWZFNjBKRVg0SFZ0dHRaaktBdnQ4NEgwMkFERm9kdUlnN2FubVVmQ0NPdGFJYjd0dUFVTVBJS29pSFRvNjZlQmZ1MkE4c1hXc0ptQUtGMGVzU3VqOF9MeEJkemU3NHFiTVRDVDZ1RTdtRjBEVHM5MmdKUnBwZ0FVek8wTjRBcmRueF9welFkTUUyY1RJQUd0XzY5cHNXbHhKS0E?oc=5"
     },
     {
-      "id": "news-technology-c687a06ddf",
-      "lat": 41.94267,
-      "lng": 12.45753,
-      "title": "AIが人間より優秀になる時代、ローマ教皇は何を守ろうとしているのか",
+      "id": "news-technology-ec45e37ffa",
+      "lat": 37.51497,
+      "lng": 141.00592,
+      "title": "SBエナジー、AI収入ゼロでも時価8兆円 NVIDIAの｢信用｣支え",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T21:00:00Z",
-      "summary": "AIが人間より優秀になる時代、ローマ教皇は何を守ろうとしているのか&nbsp;&nbsp;JBpress",
-      "source_name": "JBpress",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zckZ3R0tCeXBUbjBfalotdktRckl0dENMTDk3OG1kVHYyNjIwbW0wOGxVUGozN1o2c1lPYWtYQ0lwOG13V09zRHV0Ujk0MFFQclhnbm5R?oc=5"
+      "time": "2026-09-01T21:09:23Z",
+      "summary": "SBエナジー、AI収入ゼロでも時価8兆円 NVIDIAの｢信用｣支え&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5meWlJUTZrT1ozMjFaUDNKbmVCX2d5VzFsT3lfampncEZlSkQtTG5POEpxYm0yc1hETG45OVZIYVpOMlVweHlNeVFzZUVSQUEtaTd1WEdmdS1nNmdZVTl6bVlIUFpfakU3NEllNQ?oc=5"
     },
     {
-      "id": "news-technology-8bc644d2f8",
-      "lat": 57.39176,
-      "lng": 61.40457,
-      "title": "レジー×朱喜哲対談 AIが「正しい文章」を書く時代に、それでも「自分の言葉」を持つ理由",
+      "id": "news-technology-a0963f1a08",
+      "lat": 35.82887,
+      "lng": -89.99321,
+      "title": "Dell Beats Quarterly Views on Record AI Server Demand, Boosts Full-Year Outlook",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T21:00:00Z",
-      "summary": "レジー×朱喜哲対談 AIが「正しい文章」を書く時代に、それでも「自分の言葉」を持つ理由&nbsp;&nbsp;幻冬舎plus",
-      "source_name": "幻冬舎plus",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YUmgwaEQtN005NERiazlKR2lIMXRTa1JULWxHQnpvRjVzZENxWUFoWnMzU0pvWnJqdXBqVlNNd2Z1YlFVb3IzaVMzRW94cHc?oc=5"
+      "time": "2026-09-01T21:07:42Z",
+      "summary": "Dell Beats Quarterly Views on Record AI Server Demand, Boosts Full-Year Outlook&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckViRGdlMlRMcU1na0FzeWVTZ1F0ak1NblF1eFR3NWkwMkFNelFXUEhtQUI3Zl9GaXlkOWJBQy1VWWNYdENMM19pVXdfbHl6R1UtanlIbFpjY1g2WWpDeFZLem8tSDFhRkVSRkoycVdkd1FLanRRWUFjbTBRV3cxWnRia0pTMmNtTnpsMDZMR2ZVTGJRRVg5QU9IcGlZQQ?oc=5"
     },
     {
-      "id": "news-technology-c93ffe667a",
-      "lat": 57.48446,
-      "lng": -4.23988,
-      "title": "Procurement Gets New AI Connections via Civic Marketplace",
+      "id": "news-technology-6e409f702f",
+      "lat": 52.53643,
+      "lng": -1.86637,
+      "title": "Federal judge rules that AI-generated child sex abuse material is protected under the First Amendment",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T20:59:33Z",
-      "summary": "Procurement Gets New AI Connections via Civic Marketplace&nbsp;&nbsp;GovTech",
-      "source_name": "GovTech",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN29LR0dzd2ljVnBOZUtRM2VwdGFJYk5lZHBzYXV3U2w0UVZXZ2U2YUtESnRnZEg2eWxTQTF0ZFB3M1RzT3p3Z1dLVHVxUmkxeGRzN3NMVXFtUDdvTDhVMmZMV3hSSnNjWVFsa29ZQk9NQXgyQWJ5d1RUaEdYX1BrQ3VFY3NVcHl4T0lIb1J3?oc=5"
+      "time": "2026-09-01T21:07:00Z",
+      "summary": "Federal judge rules that AI-generated child sex abuse material is protected under the First Amendment&nbsp;&nbsp;WDTV 5",
+      "source_name": "WDTV 5",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ095bXQ2WHBwaG9VUUVyNEVDYzZ6WnNHTVdZZHBRWlVYUWVrQ3VpU0I1NlAwZ3g5OE9LVUtPcElocE13eEZKZGUxaHJTWDZYM0dwRWF4aEF6cG5HR1ZmbkZMblpJc3ZCbUNmVTA3bElhZm1JcWt1V3FtNzJnYXBqdnFCRGpTY0NYN0g2alQ0NGg4SDFJUG0yQnAtaUg2MVN3RjFtTmFDYmNtYURyZ2NSWEVpTm5WeUlVckNVd0I4aDdrcU5ERlp0azJ3?oc=5"
     },
     {
-      "id": "news-technology-0c97e38c38",
-      "lat": -54.63341,
-      "lng": 158.83927,
-      "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
+      "id": "news-technology-ec59b6839c",
+      "lat": -20.65154,
+      "lng": 161.18768,
+      "title": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T20:59:00Z",
-      "summary": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGZIekI3RUhxeW8zS2RjeVFBaVNFZGNBUHI1QTJzcTBqSDJDaEVlbXhQZjUzMXhZSnotcjc5S0RuME5JZ1BJeGE1eW1lSEhFUDA5OXdqNnFYTXRHVms1cF9FbkxIZXI3SC00cmNJaWFmOGJWSkFwSUFObEZOWTh4Rm90ZDVHbXJHN21zS0h3NG13XzN3SndTaS1YaVpkTnM?oc=5"
+      "time": "2026-09-01T21:05:00Z",
+      "summary": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5"
     },
     {
-      "id": "news-technology-3b73e7b25a",
-      "lat": 37.93331,
-      "lng": -121.31779,
-      "title": "The latest AI news we announced in August 2026",
+      "id": "news-technology-179e13b059",
+      "lat": 43.30397,
+      "lng": -0.40418,
+      "title": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T20:57:43Z",
-      "summary": "The latest AI news we announced in August 2026&nbsp;&nbsp;blog.google",
-      "source_name": "blog.google",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZGNXVG5UUmlUM1EzRkdxeWlFdEhUWDJKTmxjUk1sejZOT2JpS0h0bGplM0xZUnFLR0tJdERPbEZvUXlabjVKTXJhakdRMzA4UHZTRWhzME8tUE94TDZXc0REQlRCN1h2ZHlBYURDaVhnTXdjaGN2LVpGQXNMNXJEc256WE9odw?oc=5"
-    },
-    {
-      "id": "news-technology-ceaef1b40a",
-      "lat": 55.74032,
-      "lng": 12.58803,
-      "title": "The Information bets bigger on video with new AI show",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T20:55:40Z",
-      "summary": "The Information bets bigger on video with new AI show&nbsp;&nbsp;Axios",
-      "source_name": "Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mcEhNdThHcWRxOENQNzBpYU0za2FZdl9ldXdTLUtJQndwdGlwTUF1ZGsyMzJoR1dPUFRKUC1iWTZkMlJ4R3ZqbDgxZzAydmhaeFNNdXA5aV9hQXQ0eGlTZlFHcUd3cHl2b3dxNUtB?oc=5"
+      "time": "2026-09-01T21:03:44Z",
+      "summary": "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXk1N1BVQlkxV200Z2xPZkE4T2JVX1hJa0RjaUVCS2UzVjJlb0RLc25UZU5kQzZCS2R4ZlNoeXUybkpZSVdfbTFHNWc5VkpJT3AxNlp3N3E5TVdBRlk0eVhrem9YcnZnYkZManJmNlFmc0NDLXNySW5MSjBnMEpNZjJmaGhDRjFOU0dRZzFPcmJuck9wc3UzS3dDOGt6cTFMSUpyMnJDMTIyaHJyZlhRRXpESExyMWRYMERF?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-01T21:06:29Z"
+  "updated_at": "2026-09-01T21:23:23Z"
 }
