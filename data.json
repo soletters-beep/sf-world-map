@@ -1,9 +1,42 @@
 {
   "news": [
     {
+      "id": "news-politics-6834b3e35e",
+      "lat": 45.40257,
+      "lng": 12.33932,
+      "title": "Venice Film Festival turns to politics as Hollywood retreats",
+      "category": "POLITICS",
+      "time": "2026-09-01T13:54:39Z",
+      "summary": "Venice Film Festival turns to politics as Hollywood retreats&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1RGbnc1aEJlMW5SRXhxMjRRTzBVMFAxUi1rODZjNUxSc0lHcFp1aXJCQWVnY0MwekcyMVpmdlptalQ4VTBHVUVDTzlZbTE5eU1wd0dpcDZYdHhGYVpPbTdraHljWl9mcGpYcEpwbEVwSWlJQjlPS0JoaE13TDBlT1lzNTBrbllfRW00aVZSUFBJWHRZSjFPM1hkV0RURDJReVN1NlJia1NKaGt5SWQ2RzJIcw?oc=5"
+    },
+    {
+      "id": "news-politics-3169b26db6",
+      "lat": 48.5717,
+      "lng": 16.93488,
+      "title": "Who Is Backing a Local Official’s Campaign?",
+      "category": "POLITICS",
+      "time": "2026-09-01T13:54:19Z",
+      "summary": "Who Is Backing a Local Official’s Campaign?&nbsp;&nbsp;Long Island Life & Politics",
+      "source_name": "Long Island Life & Politics",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMkNjc056VjRBLW56eDJpMWZHT0NzUnBPNnlIWUpZcEtoWFRna0N0bkIyMF9EZ1BBaHhyZDVfU0NnVFNkVHVrSmVsTlZLNkphTk5BWVlVMlJQamVZWHpaNGVMdEFqMjhRYnkxVU5WMWpyR1JJcXZ1R0RyWTdPOHk4NnBjT1pVRkdJSWhB?oc=5"
+    },
+    {
+      "id": "news-politics-df95c8d931",
+      "lat": 37.76624,
+      "lng": -82.64291,
+      "title": "The Odds: A Midterm about Trump?",
+      "category": "POLITICS",
+      "time": "2026-09-01T13:48:10Z",
+      "summary": "The Odds: A Midterm about Trump?&nbsp;&nbsp;cnn.com",
+      "source_name": "cnn.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVVJMTzVXQlg2UDdPZlo2eXo3WUptVmpYRnBoalBvTnoyalZMQmRCbVpXR3JfWDFSdXdtbV9ZWHFRbVBCeGNUbHdSdTlnWWtDQTUzQVZJdUxodFIyakE1cHYzV1VKazVLaHJ6QzA1b2JuUFB5cEZQRUgwRmpsVjl1M1hPNDNfSnhGUGtIQzY4b20?oc=5"
+    },
+    {
       "id": "news-politics-bc58687b1e",
-      "lat": 43.20119,
-      "lng": -2.64754,
+      "lat": 43.14825,
+      "lng": -2.58138,
       "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
       "category": "POLITICS",
       "time": "2026-09-01T13:46:05Z",
@@ -12,9 +45,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-politics-75b2c9a174",
+      "lat": 32.61375,
+      "lng": 54.54581,
+      "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
+      "category": "POLITICS",
+      "time": "2026-09-01T13:44:18Z",
+      "summary": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit&nbsp;&nbsp;Al Jazeera",
+      "source_name": "Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMnlmRVNqUm9ZWVM2TzI2R0RqdEVLS2pZNGVXMkhsdjlmRkNDUjZMQlZKOFpVWTM5MFQxeHZtWnczaWZPdDhWZXlnUzhvWlZnb1lqWjVBNlBXV0NtNVdob0hiLUoxbWtDRm55VjA1UGwtMFB0elVzTG9lZUVxd1JLZllpRE51bTc4NlNJLVpVaU1sZXdZeUxVVWJYM3NIYlRxemZIejhENUNOU3c1SnfSAbMBQVVfeXFMT0FDQWhpa0FGT0tGT3RQRmU4QjNVcWhwOXZDU20zNDlpb3VSTExCU1VzNi1oQkZfZktLY3p4ZzdVakhWdTJUQjh1VGVMdUtLWVlhSlhHN2Yya0ZzZ1JnOEI0WU5jYkpZalNXaXFmTUY2SFVkMDJNdklMNjFDTmV1SWZiWlBMemVnYmNDTXRBU3FfRjVuS0o5TlBsN295VnlPaHdabGkxMFU3UTdrZFFOanFiSjQ?oc=5"
+    },
+    {
       "id": "news-politics-66bc08d9b6",
-      "lat": 53.26343,
-      "lng": -6.18926,
+      "lat": 53.27009,
+      "lng": -6.19122,
       "title": "Wobbly Claims Abound in Political Debates",
       "category": "POLITICS",
       "time": "2026-09-01T13:43:27Z",
@@ -23,75 +67,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2FKZ2hla0VwbjUtRjd1S0RXSWlYV3FpMWd3bWcxLVR5c1UzTW9BdzJtQmc2QWdVSlRZTG1tWjA5NmpkQWpIcEhyQTk2bzFyWnFtaEYycU1nX1N5czVlcEdJOGRjOTNPc0l2eW1fSkU2WHJ4UWR0aTFrV0FJOU10bTlFLXlQcE0?oc=5"
     },
     {
-      "id": "news-politics-cd443d96b7",
-      "lat": 31.86191,
-      "lng": 131.44163,
-      "title": "自衛隊員用アプリ導入意欲 小泉氏、割引サービス念頭",
-      "category": "POLITICS",
-      "time": "2026-09-01T13:31:05Z",
-      "summary": "自衛隊員用アプリ導入意欲 小泉氏、割引サービス念頭&nbsp;&nbsp;okinawatimes.co.jp",
-      "source_name": "okinawatimes.co.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Ldm5ORmNmRk53aDVUZ2kyaXI2eTNxWW5aNmF1NjNNVXVub0hQMjlfZDdubnRqRGYxUWRZSHlNRkVsZTNsRXVaUkdkalNtdWduWFk4MzVJQ0g4ZndETVE?oc=5"
-    },
-    {
-      "id": "news-politics-6277ae9e12",
-      "lat": 38.95101,
-      "lng": -77.05615,
-      "title": "Postal Service plans may keep voters from getting ballots, whistleblower says",
-      "category": "POLITICS",
-      "time": "2026-09-01T13:26:56Z",
-      "summary": "Postal Service plans may keep voters from getting ballots, whistleblower says&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5"
-    },
-    {
-      "id": "news-politics-b4fec69a44",
-      "lat": 41.62571,
-      "lng": -87.52335,
-      "title": "Can Burnham maintain his bounce?",
-      "category": "POLITICS",
-      "time": "2026-09-01T13:14:53Z",
-      "summary": "Can Burnham maintain his bounce?&nbsp;&nbsp;The Week",
-      "source_name": "The Week",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMTTBpVjVjOEVObW5KWHh3eDVEZloyQ2JuX1c5R2V6alZ4SHZmSXQtc3poZTQxMjBWcV9ZWVpHTTFRSVY2akNycmRsbnpKWUQ2TWVFaW9OS1hLb2Z6YlpnQnNuNFg5dGQ1dnd6Qw?oc=5"
-    },
-    {
-      "id": "news-politics-337b76a4db",
-      "lat": 51.56087,
-      "lng": -0.11697,
-      "title": "Political Science students share their best advice to incoming students",
-      "category": "POLITICS",
-      "time": "2026-09-01T13:13:16Z",
-      "summary": "Political Science students share their best advice to incoming students&nbsp;&nbsp;Michigan State University",
-      "source_name": "Michigan State University",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ib0pFV00zVzB1U3Fxcjh6Y3ctU0s1MnFVMVV3N2I0c2V0cVpqYmx2dmdKSG9qZnNiN0QyVVZsZzhtRmc2WXIwdzNHeElRVldfOWZ2WndjN1RranVyVWlOYVJEcy1ScmpX?oc=5"
-    },
-    {
-      "id": "news-finance-3228d024c2",
-      "lat": 37.97855,
-      "lng": 23.70072,
-      "title": "Euronext hires Husted",
+      "id": "news-finance-7e929d741d",
+      "lat": 33.9962,
+      "lng": -118.38941,
+      "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
       "category": "FINANCE",
-      "time": "2026-09-01T13:46:53Z",
-      "summary": "Euronext hires Husted&nbsp;&nbsp;Securities Finance Times",
-      "source_name": "Securities Finance Times",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQajF6U2dzb0ZSeXVHQWM3SEY2UjVxT2VOUmptbHFzNlc1TXhjZHlEVE5CTFNxbk5ad2p6TFE1Ym1OSHRJZm5TZW54b2lQRFFaTjR4OWRtRGJlQ3d5dW5JbzJBeXFoYmFQY1ZoWkhyRG5fWDRrMEs5VV9ONUhvWVRaUEg4RV9PVFBNYjU5NlZ6WFVBOXJ4MFlyOE13eUFQZ3FGTXFn?oc=5"
+      "time": "2026-09-01T14:00:01Z",
+      "summary": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up&nbsp;&nbsp;CNBC",
+      "source_name": "CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkxzYW5pS042R3pQNDdGbFpDSHQ0QVhoNjNHSjNnWFVmdG9yMkIwaUZCSlNybHE5R3NfanB6eFAycC1TZ25GSXlyZmVTZXZ3ZFBCZmJBSkJ4dTlwSkZkVUhHSGVRSjdteXBoZ1lPMzY1aXVlWlE4VG90NEs5N2pJUkxMYmRpTkJXbVlNN1BwQ09BdzJ5UFphVHdMLURHVTVRVDdXbC0tQ2zSAa4BQVVfeXFMT1U3MXFxeXMxcTVHZm9sdWM5NG1PNi1GNTY2MUhRaFBpN0JiTFE2NnB2RXo2WEMwcExBQW5KUWE4Q2lyWDZYV21wYllRVHBLcVQzUzljMFpIZ3B2dFpjdFJIalRwWlFhTWlTZ3NOZi1RanhNckxBMlRJS0Z6cXJOak5lS0V1MFVUenB4eTlRRG4tNmxhR2JtZFJGdUpwUGIwZWxKcC13LTczRnVBSkV3?oc=5"
     },
     {
-      "id": "news-finance-706f210cff",
-      "lat": -6.20568,
-      "lng": 106.80342,
-      "title": "Are Finance Stocks Lagging Apple Hospitality REIT (APLE) This Year?",
+      "id": "news-finance-3a68c3f210",
+      "lat": 52.83722,
+      "lng": -7.94413,
+      "title": "‘Ireland for Finance Vision 2030’ strategy sets new priorities for finance department",
       "category": "FINANCE",
-      "time": "2026-09-01T13:40:03Z",
-      "summary": "Are Finance Stocks Lagging Apple Hospitality REIT (APLE) This Year?&nbsp;&nbsp;Yahoo Finance",
+      "time": "2026-09-01T13:59:22Z",
+      "summary": "‘Ireland for Finance Vision 2030’ strategy sets new priorities for finance department&nbsp;&nbsp;Global Government Finance",
+      "source_name": "Global Government Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNFVmNFNQLUVUaFBsVGFlM0UtZ3Z0NTFNZTZYUGxuUWk2a0Vuei01WElhNEFuTTBXVi1PQjhIYXlvRTFES1ZhM0E5cmR4YmZEWmZNR3FUdlJqeGdodldpNWp6RzRXTjdqY0dPMUFuODdxcU9KdXNEZENTQ1FxQ0V6d2tpM0dLQQ?oc=5"
+    },
+    {
+      "id": "news-finance-64309b5847",
+      "lat": 39.97011,
+      "lng": -82.85535,
+      "title": "Q2 Earnings Highlights: BILL (NYSE:BILL) Vs The Rest Of The Finance and HR Software Stocks",
+      "category": "FINANCE",
+      "time": "2026-09-01T13:46:20Z",
+      "summary": "Q2 Earnings Highlights: BILL (NYSE:BILL) Vs The Rest Of The Finance and HR Software Stocks&nbsp;&nbsp;Yahoo Finance",
       "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnhzdnB5UXNQczlpdlEyY1JVdzh6N3Q2UlkwTVRqMFpXc3h4bmMwaW1HQjNjQnVLUW4wR3BQeXpXLUFfT1RkTS1ZZEU5Q3BCSmZOWHR3YTJOWFhSdTVETFpLMmh0RkFvSEp3TzdQUWtmcEtfYklCVzNlZzJsNUFNLUZGbTZNb0xFVUkyVzg0TWplM2VPemlVNjU3QlRfWVFSOTctdGlJNTE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmZEVDE5cl83R0NINExPNjV0TVJmV3U2YUV0YlJ2MG9RcWR3MTJoRUpCNklhZjAtYWIzSkk4WnV4dzAxSTZNbU50SWNiM0pNYUV3Q3kyaWoxbXIwdzZrNlJiNzRrTjlUUkVyTm9UcXJPYTBNeUpmNDczbWhQNGtJNi1lejlYd184UkIzeUtWcjlmYUJIWFdsZU5yOXVKUQ?oc=5"
     },
     {
       "id": "news-finance-14ad4aab04",
-      "lat": 39.12411,
-      "lng": -122.81523,
+      "lat": 39.1032,
+      "lng": -122.76669,
       "title": "Lake Waccamaw, Carolina Beach requests go before state finance commission",
       "category": "FINANCE",
       "time": "2026-09-01T13:40:00Z",
@@ -100,10 +111,21 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOEktZ00wc2J4X1dBUnhqaUdsRXFtV0o3ZjZJNzZNUzJQSUtCY0FPSkNvTVlaMjZFOGJjMUhVeW9qS0J4X3h1bGVuWWhjZHNmMjZ5SnZnb0VEckdxc0dGLXZKOEIxYjFhelZtUEdmV1A2Z3pJajlUMkVja2szdFRtempJejM3Y1RFUWFMYlBfZ2ZTMXhjdm9uVUZfanp1TTBWbXB2eGdXYmrSAbwBQVVfeXFMTjF6aDJ1UldnbERjNzkxVEhRRGFLNFdJd0ViajE2WnpBaVRKbjgzaGZfOEhKX05QWHNrcFJjN2F1ZkF6WU4yaElsdFAtVzZrOU9LdExfMk5yc2hBSjdyNEZHOVlseUFjUTMyNXBfSU0wa1dPQW5Ja2JlWXVjS2ZLQ05sQ0xBTk9mWEJhQ1ZXSmR1ZG9JYm9BdGI1UWtwV2NnN3JESlVKamZkR1lfRGFHcDVLRTFyeWkyN3NERUs?oc=5"
     },
     {
+      "id": "news-finance-305510048e",
+      "lat": 42.76416,
+      "lng": -110.89252,
+      "title": "Periodic Updates on the Grains, Livestock Futures Markets",
+      "category": "FINANCE",
+      "time": "2026-09-01T13:36:00Z",
+      "summary": "Periodic Updates on the Grains, Livestock Futures Markets&nbsp;&nbsp;DTN Progressive Farmer",
+      "source_name": "DTN Progressive Farmer",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlF0SHRmLU9DZk9SME1jODlGa0pISF9xZUlWXzhTUFpzcDBJb0hWRm5PbmJoNGxEU3UzV0hPV3JXcXFBOThKX3F1TzRTTGx6bXlpMGxEc3BUNFNocXhFdEN2MUZlZGg2enE4WjV2a1Z1N3BzV1RYNnVDczFLYTJ0X2JlQTlhNm5RUDhHMlBLMXRKX3NGRDRieE1JMGZIOEE?oc=5"
+    },
+    {
       "id": "news-finance-b769571000",
-      "lat": 56.2152,
-      "lng": 88.43767,
-      "title": "UK long-term borrowing costs hit highest since 1998 ahead of October Budget",
+      "lat": 56.21218,
+      "lng": 88.41314,
+      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
       "category": "FINANCE",
       "time": "2026-09-01T13:31:06Z",
       "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
@@ -111,42 +133,31 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-finance-9f59a296fe",
-      "lat": 51.60027,
-      "lng": -3.22745,
-      "title": "What in the World",
-      "category": "FINANCE",
-      "time": "2026-09-01T13:30:00Z",
-      "summary": "Data suggests women make higher returns",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/sounds/play/w3ct9905?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-finance-027aebdd21",
-      "lat": 1.36876,
-      "lng": 103.89417,
-      "title": "Sticky Inflation Is Roiling Bond Markets Again",
-      "category": "FINANCE",
-      "time": "2026-09-01T13:29:22Z",
-      "summary": "Sticky Inflation Is Roiling Bond Markets Again&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON29kQ3RLTVl6ZVB1WFNuQW5TNk5wZDYtSHBTN1dGaEZPNFRDeDIwZ29PaTh5bnA5YVl2YVE2bVUyMnN1RTFZTE9GR090emZQRWoxMWZKbGhUeWZNc25jVTZxUVJWZU9aSVNVMTFJUEFIdEtQcG0yWVFUVEZJaXdFVkRsX0tMOXMyRE03VzJRVG1RVVBPVEVYMThPcllkY3FNdlE?oc=5"
-    },
-    {
-      "id": "news-disaster-83b65ad895",
-      "lat": 34.0329,
-      "lng": -118.29661,
-      "title": "Los Angeles Basin map shows deep sediments that could amplify earthquake shaking",
+      "id": "news-disaster-503ea44c1a",
+      "lat": 42.37549,
+      "lng": -71.02926,
+      "title": "State Defense Forces & Disaster Preparedness: Enhancing State Emergency Capacity",
       "category": "DISASTER",
-      "time": "2026-09-01T13:40:05Z",
-      "summary": "Los Angeles Basin map shows deep sediments that could amplify earthquake shaking&nbsp;&nbsp;Phys.org",
-      "source_name": "Phys.org",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KRDlmRFpTOHc5RmtSZ0VHd0JJTDRSMDNfQ3FfUVY4dVpBRG5QNDZ2b0E2OWJwVzd4Q0R4SUU0eG5FYzJORHZLS1ZSMHZGNXJ1T3Z3Y1U5dEtkMUE4TkY1MkFmT3JONXFJbUYweGJsdmpnNzlFY3c?oc=5"
+      "time": "2026-09-01T14:02:10Z",
+      "summary": "State Defense Forces & Disaster Preparedness: Enhancing State Emergency Capacity&nbsp;&nbsp;American Legislative Exchange Council",
+      "source_name": "American Legislative Exchange Council",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2pFbWVvNjczcHVlYjlHQy02RzQ0Nkd6ZVMwQnV3aE5FOUMySzFCZmJiZnVLREZnT0VMZVdReERpeEJlZ2ppNUk4d0VEVVZJaVFWNEZ3Yi16dG9DQkpvV2JnSkRFZVNKSV9jT1B0V2NmczRBMnVxZFpRRmNaNlZtZElUcDUycWdMUGZ4MXhBMDNWc0gwdzFJQzdVa2pOWERIdWMxeEFrMVpIQnc?oc=5"
+    },
+    {
+      "id": "news-disaster-1d4b96cac8",
+      "lat": 42.60596,
+      "lng": -89.10085,
+      "title": "‘Rock and Relief’ flood benefit to be hosted in Noblesville",
+      "category": "DISASTER",
+      "time": "2026-09-01T13:49:19Z",
+      "summary": "‘Rock and Relief’ flood benefit to be hosted in Noblesville&nbsp;&nbsp;Fox 59",
+      "source_name": "Fox 59",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPanFIZHF6T0hoYi1GUnFDUTBKMmFKbHZGT1RsYUFjRU1TWjZHRnQ2ODU4OFVJY2ZMM2RZT1prRU85SW9JODd5LXdHdVNkVVE0SmRyZ0l1NTRiNUtEMDVPdU9TTEVzVXIxd0VSTUdZYWVLVDJIb2Z1N240ZW9Iek5vV2FwTFg2SkZ1NjZJTG5QbXVBdkYx0gGaAUFVX3lxTE9JSXFnMDRVd3JSOW9tVDhLTTAxWDRlZGZvSDJXb2dtcEJpYjd4SF8wSzMta3ZqNnFLTmRaQkdmUVhuc0l3X0xETV9zMFEyTGIyMGtLMlhEQkNXaWxoVkpwOE8xbExDRkhlZk1GVWRlQ0FkaTBvbmhXN2lUa2JJUzF2LWdreW9DTGtxYlowQVFiWkNiNnZqZzFYRGc?oc=5"
     },
     {
       "id": "news-disaster-bff8d77649",
-      "lat": 52.49696,
-      "lng": -3.02918,
+      "lat": 52.46509,
+      "lng": -3.02479,
       "title": "More hosepipe bans in force as drought declared - is your area affected?",
       "category": "DISASTER",
       "time": "2026-09-01T13:37:06Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-37455f6847",
-      "lat": 43.30507,
-      "lng": 1.67372,
+      "lat": 43.23252,
+      "lng": 1.67143,
       "title": "Miracles in the mud: Crews still finding survivors of Nepal-China flood disaster",
       "category": "DISASTER",
       "time": "2026-09-01T13:34:11Z",
@@ -167,8 +178,8 @@
     },
     {
       "id": "news-disaster-d19460b55e",
-      "lat": 48.37532,
-      "lng": 5.4847,
+      "lat": 48.37271,
+      "lng": 5.43128,
       "title": "One still missing after Grand Canyon floods kill two and prompts rescue efforts",
       "category": "DISASTER",
       "time": "2026-09-01T13:34:04Z",
@@ -178,8 +189,8 @@
     },
     {
       "id": "news-disaster-631f71f8c1",
-      "lat": 28.35456,
-      "lng": 83.98856,
+      "lat": 28.4186,
+      "lng": 84.05806,
       "title": "Nepal flood death toll crosses 1,000 as rescuers reach remote areas",
       "category": "DISASTER",
       "time": "2026-09-01T13:33:08Z",
@@ -188,20 +199,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdmIyNGQ5eW93Tm1vUnNQR0ViWUt2VUl3UnE2aDVfbV8zZnhCblFhSjlRbEQ2NVRBUU1iTERoZkIxdnRPbWQyNllfbDhWN3pyNTNBRFVaZnp0RnIzMkNhVm5ieEsxajEwM2hvbE1xa0huUGZjcWFmVVk0cnZwcVhxbE5WX0txd05Ba0J3dmdaSC1NNkNQczJGYVo4VmVlaVBDNWtqSXdn?oc=5"
     },
     {
-      "id": "news-disaster-5b9e2dcbe1",
-      "lat": 30.54481,
-      "lng": 80.58121,
-      "title": "Himalayas face severe glacial flood risks in years ahead, UN official warns",
-      "category": "DISASTER",
-      "time": "2026-09-01T13:29:11Z",
-      "summary": "Himalayas face severe glacial flood risks in years ahead, UN official warns&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEtQYjlTRkRTRWtUUWZaVkxvSVI2SHBEdkN3Mmt2X2NnSUFzQVV0aEIybVpJNVNyMEE1ZTNsaC1mTmFiOUp3cWh2NEdwY0UzYUhFTzByLVNfVi1EUHZBMXRCSm9PMXdUVmQ5MEZSYUtOeDY3MUZMaVBhRjEzaTZQQ0RyR3REVXVKRC1rRFFfcHpVdzBXaV9leWlfbDJzNGE2dENaUzV4RDFHMmMwQzRvXzd0cXI3aXN2S1NUVXF0T1NNSmtOak0w?oc=5"
+      "id": "news-accident-84cd97308a",
+      "lat": 41.26801,
+      "lng": -3.72201,
+      "title": "Sepulveda Sanchez Accident Lawyers Secure $2M Settlement for Carpool Lane Crash",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T14:00:00Z",
+      "summary": "Sepulveda Sanchez Accident Lawyers Secure $2M Settlement for Carpool Lane Crash&nbsp;&nbsp;PR Newswire",
+      "source_name": "PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSjc2QjJmQ0xzMU4yS0hCQmxaZndFZkFIRG1iaU5kVkVPLWtwbDZqNjVFYWJkOFkwbXBCYlZBUHQ2aGtmVzhuU28tZlRDWDBPVmg3LXNDSDBJSXNHaTlRcVZId1dXSVEwUmE2YVl6cjV3QnpUUDNCMVhCR25uX0RnVjMxSW1WVnNaMnM0Tk9IVkFibzgzVGM3aXBLeTJLSzRWdzdVbUlYdjBzeFJmeE10UVlGTWJUSkdUUF80MVVvc0xuSGtVNUdodEprdV8xOTg?oc=5"
+    },
+    {
+      "id": "news-accident-a80da609a6",
+      "lat": 54.64584,
+      "lng": -1.71535,
+      "title": "Man killed, passenger injured after crashing in Durham neighborhood",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T13:52:30Z",
+      "summary": "Man killed, passenger injured after crashing in Durham neighborhood&nbsp;&nbsp;WRAL",
+      "source_name": "WRAL",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHB1VFcwenRxc2hzYm5vSkZfUXNJVGJYX3JrQzdfemQ1Ul9xTGdRT1Boa2lkZ3pQaXBTb2JPNW5wUlNsZ0cycW5oRGN1NjVHOHUwMmlqQ1pEWWEwOEVCR0x2V0hCc2ZkZERMTXVhZmd3ZnZfSklNTGhZVU1CRmVqdnZSTGpFZw?oc=5"
+    },
+    {
+      "id": "news-accident-2edc952078",
+      "lat": 26.20012,
+      "lng": 127.66417,
+      "title": "福井のダイビング事故、和解成立 男子生徒死亡、大津地裁 (共同通信)",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T13:43:37Z",
+      "summary": "福井のダイビング事故、和解成立 男子生徒死亡、大津地裁 (共同通信)&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMFVLblRqaVNSZEl2Q05xaDdrd204SDQ5MzBucS02dlRVNVlFcF9fbDROX0pndUdTMnoyVFdmVWNqc0w2NnIxMk4ybDFzZ19XMnU1dUNwZnA0RkFzUktGN0RjUkUwU0RSbG9xazduQTRDd0RGZEtIS3p5bHBEM2w5RGhzNllNX0dGZzlBaVN3?oc=5"
     },
     {
       "id": "news-accident-b64d536bdc",
-      "lat": 34.09043,
-      "lng": -118.2567,
+      "lat": 34.05306,
+      "lng": -118.21084,
       "title": "Coroner responds to crash in Anderson Co.",
       "category": "ACCIDENT",
       "time": "2026-09-01T13:31:57Z",
@@ -210,20 +243,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUR0MDlZRENhdDkzRC1wZ283enBRc0lRUHJDRzNiTlR2UlA4ZEVOMmZJblZJZF96LVFqU2xHcGNRY0ZobVJKOEpRWmZDTzdzZGNJWlFmQ2FpLVVaZjZFRjFRdVo3R1pjR1hlMzA0TENUWGRrWUtEdUtDNk1HZzl6X3RKb2FybnfSAYwBQVVfeXFMTzZ1OXJ3V2lnVHl2a1RST21fSnQ4MWwwdFFDSTRhQjZiNjlsX1NrcDFtNy1BcnlJNlRYeVA2UU5KTlF0cHVmNTNDY0Q1ZEg1ck9LdXlBTEEtQmZpQmdteE90VEgyWG5mYTQ3cHlaY3oxOE5iYURzMTNqMjhIN0pXaDA0OVNCV1ZWcHJjdGc?oc=5"
     },
     {
-      "id": "news-accident-ab831119bf",
-      "lat": 26.25856,
-      "lng": 127.65648,
-      "title": "シュノーケリング中の事故 中国籍の女性が意識不明の重体 宮古島市（RBC琉球放送）",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T13:04:13Z",
-      "summary": "シュノーケリング中の事故 中国籍の女性が意識不明の重体 宮古島市（RBC琉球放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vN1U1TFdCeS03cTJCcXVXT0NEZGNpa3lxYmZybUloakd6RzVwTkxRUThkMlhZbzY3aE9LUU9LdFdEYUItN0RqN2pMR0FNa0x3YlpyRngzTjhtUXlLUGxkZnZCY2ZvVWpOa0xWT2QxMFY1SWRxYjdNaUVKNlhySGs?oc=5"
-    },
-    {
       "id": "news-accident-51f3a6e7b1",
-      "lat": 50.66343,
-      "lng": -3.13569,
+      "lat": 50.64532,
+      "lng": -3.11963,
       "title": "Beer run in allegedly ‘borrowed’ vehicle ends in crash with tree, leaving the scene of an accident charges",
       "category": "ACCIDENT",
       "time": "2026-09-01T12:54:51Z",
@@ -233,8 +255,8 @@
     },
     {
       "id": "news-accident-b33d15e5ed",
-      "lat": 26.17021,
-      "lng": 127.62249,
+      "lat": 26.26586,
+      "lng": 127.6117,
       "title": "シュノーケリング中の事故 中国籍の女性が意識不明の重体 宮古島市",
       "category": "ACCIDENT",
       "time": "2026-09-01T12:46:00Z",
@@ -243,31 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01MHhUWWFZaTBHa2JFRExQVnFaUkhiQ1dWbE44bjNUWWxNOW9wTEM4aERUdEprcW5SMkk0LWVSNEdWZzBhZ2pDczBWdGhzdmIzRkRGV015WQ?oc=5"
     },
     {
-      "id": "news-accident-42b8e9e905",
-      "lat": 59.51983,
-      "lng": 30.23474,
-      "title": "Crash into telephone pole injures 2, knocks out power for hundreds of customers",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T12:18:44Z",
-      "summary": "Crash into telephone pole injures 2, knocks out power for hundreds of customers&nbsp;&nbsp;WGAL",
-      "source_name": "WGAL",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ2VwNXY5YVU5VHVnUjI4LTdsVEIteU54cV9hZnRhRm12c1h0WU9TLVF3WkFKcE9WSGctNUdNaGNjejdqZ2R0dFVLV1A1VjhvQTdLcUNHRnVwNjMxRkxIenpVUEkxOU5samZyQU85QnRtOVVJS29pMGZYYkZSS3I0ZG9n?oc=5"
-    },
-    {
-      "id": "news-accident-0c872d1d19",
-      "lat": 34.20156,
-      "lng": -118.38775,
-      "title": "埼玉栄高校の車横転事故 死亡生徒の両親が約1億3600万円の損害賠償求め提訴 学園、教諭、運転・同乗の男子生徒らと保護者に対し（TBS NEWS DIG Powered by JNN）",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T12:18:28Z",
-      "summary": "埼玉栄高校の車横転事故 死亡生徒の両親が約1億3600万円の損害賠償求め提訴 学園、教諭、運転・同乗の男子生徒らと保護者に対し（TBS NEWS DIG Powered by JNN）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40OWtYQ1lsSkFTQWxSOGFrWl9Dam1ZZjY5RjFpRGhrTVBVNFIxZVJsTUNzRThLTGZvNWVuNmZ3UDhLU0RVZlprRVViaDM1Wjh2Y1JtMHZqbFpkZzJWY1BlZlFYRTRJd2piLWJKY05yaTNnU011cHY0SHprV1VEaDA?oc=5"
+      "id": "news-disease-5e5457b36a",
+      "lat": 50.37982,
+      "lng": 30.51811,
+      "title": "【インタビュー｜後編】「病気にさせない」社会へ、運動・スポーツと理学療法士に期待される役割｜鈴木大地氏 - PT-OT-ST.NET",
+      "category": "DISEASE",
+      "time": "2026-09-01T13:57:15Z",
+      "summary": "【インタビュー｜後編】「病気にさせない」社会へ、運動・スポーツと理学療法士に期待される役割｜鈴木大地氏&nbsp;&nbsp;PT-OT-ST.NET",
+      "source_name": "Google News (日本語)",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yRGtWTGx1bUNPZEZUdkdqWUI4c0ItTktZc3c3dHBDejA2bmtFdE5TajhCdWc3amdJMVMwaFMzTTVWMDlfS2ZNVGVveDJUTWRrWHRRRE4xTjB4Y2ZQSXUyUTNlaw?oc=5"
     },
     {
       "id": "news-disease-e9caecf11a",
-      "lat": 59.26339,
-      "lng": 18.08268,
+      "lat": 59.27144,
+      "lng": 18.11796,
       "title": "Epidemic and emerging disease alerts in the Pacific as of 01 September 2026",
       "category": "DISEASE",
       "time": "2026-09-01T12:56:08Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-7dfb3399db",
-      "lat": 26.28385,
-      "lng": 127.79238,
+      "lat": 26.32482,
+      "lng": 127.71556,
       "title": "単純性尿路感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-01T09:30:00Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-8cc5acc34c",
-      "lat": 26.21384,
-      "lng": 127.7271,
+      "lat": 26.23732,
+      "lng": 127.78998,
       "title": "人工関節感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-01T09:00:00Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-8c4f7bbcd0",
-      "lat": -8.48152,
-      "lng": 118.56566,
+      "lat": -8.50827,
+      "lng": 118.62195,
       "title": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消　西舘勇陽が急きょ代役",
       "category": "DISEASE",
       "time": "2026-09-01T08:55:06Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-504a6203a4",
-      "lat": -8.46669,
-      "lng": 118.5858,
+      "lat": -8.48086,
+      "lng": 118.615,
       "title": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消 西舘勇陽が急きょ代役（日刊スポーツ）",
       "category": "DISEASE",
       "time": "2026-09-01T08:55:04Z",
@@ -320,81 +331,70 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YeGNnN3pYbkQ2SEJ1S2VCVTlNN3cxZnl2dFE0T1FadFIyZElISktyaVB5MGJ5YmE2d2JwLXZiU0xMQjB0djh1T3U4eThJaU5IVXJPS05kX0g3d2dTcVlWM2E5ZXZMY3VpcUxDSjVkV2tEa2ladlVWVHNNRHpSOVk?oc=5"
     },
     {
-      "id": "news-disease-a9f32c87e6",
-      "lat": -8.54694,
-      "lng": 118.61803,
-      "title": "巨人・西舘勇陽、2日DeNA戦に急きょ先発 予定していた井上温大が感染症特例で抹消、「できることを精いっぱい」",
-      "category": "DISEASE",
-      "time": "2026-09-01T08:50:14Z",
-      "summary": "巨人・西舘勇陽、2日DeNA戦に急きょ先発 予定していた井上温大が感染症特例で抹消、「できることを精いっぱい」&nbsp;&nbsp;中日新聞Web",
-      "source_name": "中日新聞Web",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QdmFkMHVpaG50M3pNVXJmR2VBTzdSUjRXOHRvR0dWYWFvX0VkdE9rcFhIekh2OHFEa2d4Z0RGcEw0MTE4bFpnanJWSXczVUpadmNNbg?oc=5"
+      "id": "news-technology-e690fb5636",
+      "lat": 47.61576,
+      "lng": 13.66294,
+      "title": "AI in Leadership: Practical Playbooks for Better Decisions and Team Collaboration",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T14:05:43Z",
+      "summary": "AI in Leadership: Practical Playbooks for Better Decisions and Team Collaboration&nbsp;&nbsp;Visual Studio Magazine",
+      "source_name": "Visual Studio Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQlNITlR6aml4TTZ6RG9UM1ZNdGItUEFGUGRpTUhidXl1TGpHdzM1dk1NZU5jOUFUUGVVbzJTdXllTHB0TmxVd3BacVJVeXFQLVhqTEU3ZWpqZC1KVjl3QVdwd3VHeUJ2amFMc1NuY25kZTlEX2dlRmdiSThFME9sOG1kOGwxT0tkcHE4bm9KOC02dnZRVllCMlVSWGhCdV9EOG53RnhQVDh5WHNvdk5LcjAtMU1wdFZobVB5ZHpkVWhRcjFQcGhTb1lBTU1fNFBKLVFtbQ?oc=5"
+    },
+    {
+      "id": "news-technology-6dabeb1df8",
+      "lat": -27.53927,
+      "lng": 152.7821,
+      "title": "AI Is Changing How Companies Access Capital Markets",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T14:00:00Z",
+      "summary": "AI Is Changing How Companies Access Capital Markets&nbsp;&nbsp;Forbes",
+      "source_name": "Forbes",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOckJ3ZnYwQk9hMlRKQlNfZldtRXktYnJOZjA3eDFudGwtUnlqZFd0bV91dEFKcWZXZmFMSHlhVEVONS1CYzNsMHNGcnZUaXoxQ3VGd0VnRlFROWVMM0VySW1BbThBYnFkVGJ1ZWh3WkxwSUtqalVBSFFicG1lRV82U2szaDc1Q2Z3YldPeUZZVU0yTDdIMjJmZGtxWWp1Rkl6M2wzcDln?oc=5"
+    },
+    {
+      "id": "news-technology-ef90103d09",
+      "lat": 52.44609,
+      "lng": -1.98091,
+      "title": "Midlevel Associates Increasingly Fear AI Will Replace Them",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T14:00:00Z",
+      "summary": "Midlevel Associates Increasingly Fear AI Will Replace Them&nbsp;&nbsp;Law.com",
+      "source_name": "Law.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUW9ydE5CbmQwSHdlVl9IaWFDZ1hyQ3NmS24wRTRaMmVzSUpxaVZKWmNGa0YtdF95d0ROeC1CdU9uS1JXWWFTTG9haElKTGJQV1EyUDIwTURlSXRwQ1BucFlJU041ZTJqWmM2M1V0OVFnbm1mVFZEMjJwMnY0Nk55WW1WOXFCa2ItSGNmYVhlNmJfb0F2ZWhiWmNWa2dqRENPSVB1QTBkWUsxZw?oc=5"
+    },
+    {
+      "id": "news-technology-1f84500188",
+      "lat": 49.14339,
+      "lng": 6.23079,
+      "title": "Meta's $18 billion settlement bets on AI to tell which users are kids",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T13:57:00Z",
+      "summary": "Meta's $18 billion settlement bets on AI to tell which users are kids&nbsp;&nbsp;fortune.com",
+      "source_name": "fortune.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yUzE2aGFiZVplMTlIQnFnWEp6RFFPZ3BSWkJtVU14OUJxblA1a2xuUzNhWVBJMDhEUmM1azlBakxVZDFELXdEMV9YODRFOHRHTjQ0c1pYNHJJUklGVVNqbmdTVlVOdV9FT2c?oc=5"
+    },
+    {
+      "id": "news-technology-fe83ff11ea",
+      "lat": 51.55974,
+      "lng": 0.01531,
+      "title": "AI Is Here. Now What?",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T13:51:56Z",
+      "summary": "AI Is Here. Now What?&nbsp;&nbsp;HCI Innovation Group",
+      "source_name": "HCI Innovation Group",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLTBXQXpBX1lPY2p6ZGpRajd1UTJfTk5Lem1leTF4b2E0V29Tc0NyajBndDZZMEY2R3VFdFVqX3BwbTZYcE1UUUtSMmRvdmQ3MzdtaHA5TkF5bDlaQjNKd2VLdGlsREhVaGltZ3ZOVVVzQURvUGhVRXhqYzlpbzVGbjRCQmVOUTlYNTJtV0ZWNDJDQkVxZ085ZUJyWlBkZVhkSEdQcEVhSi1FZXNNZFBSTXVwcUxpdHcxSkJ3ajl1OEdVQVBNOGZaWWlEbUp2WDZvSmpmRkNzTnJXOEU?oc=5"
     },
     {
       "id": "news-technology-898db8ac40",
-      "lat": 38.72678,
-      "lng": -77.4767,
+      "lat": 38.74167,
+      "lng": -77.47537,
       "title": "ABS Innovation Summit Puts AI And Robotics At The Center Of Maritime Operations",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T13:45:23Z",
       "summary": "ABS Innovation Summit Puts AI And Robotics At The Center Of Maritime Operations&nbsp;&nbsp;Ocean News & Technology",
       "source_name": "Ocean News & Technology",
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS3JXS3hxeWJhNEJVczF5S2dmcl9NUHoyVE9RNG5CbXktUHdqZkR4RkdZWGhCSU8xcl9PVzZZSzM0TXNTOWlad1F2TE5VZVRhQWRMei1BZkJwdU9lZEpoZ3RIdzNnZ295cGVicXJKX3BCV1JzYk5IN1JiNjdNZng4RTgxMHhSTk10bDg1ZWw1OFVDUXhjV1NWdkx0Z044UGhNSUU1RXhKa3ZpeTBCTkFDOEhfT3BTeDU3clE?oc=5"
-    },
-    {
-      "id": "news-technology-544e771f1f",
-      "lat": 34.0485,
-      "lng": -117.43077,
-      "title": "Kaiser nurses picket over staffing, AI concerns",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T13:44:34Z",
-      "summary": "Kaiser nurses picket over staffing, AI concerns&nbsp;&nbsp;KRON4",
-      "source_name": "KRON4",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNTA3UHU1UzZhRjBER3I2Ump1LVJQSkVaNHFXZU9KV1RKWHY4NEVaNXFuWEIxbnNkSGdWRWtieUQxNDhJWWlhcGdZM0hMb1Z6dWViYzJkQ2RNaVBKVkh1bzVZRVA3VC10OTM1eU9WVWs1bEtJTzJUcThXWVBJdWl5Yk5BZFV0MF9BSmdN0gGQAUFVX3lxTE5rOWdENThZOHZDTl9xRlVXQ0NKcWFDSlZhR2lVQ1FnTml4WWRTZy00NlAzcnBoQVRCamlvaGViUGd5ZDNoZVpRQzl4dXNIMWc1cmQwZzdEWmVoQXcxcFZpSlROMDd4SURJNjZzMXpEYUl3U2hMTGRVRzdxSXY5MlI2X1I1dzRMZENUVkNMVG83dQ?oc=5"
-    },
-    {
-      "id": "news-technology-9dc0558987",
-      "lat": -15.97216,
-      "lng": 35.37637,
-      "title": "John Deere Introduces JD™, the AI Assistant That Helps Farmers Put Their Data to Work",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T13:43:33Z",
-      "summary": "John Deere Introduces JD™, the AI Assistant That Helps Farmers Put Their Data to Work&nbsp;&nbsp;Oklahoma Farm Report",
-      "source_name": "Oklahoma Farm Report",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeTR1UWpweml5d1E4bGo3amZTT1V0djBqV2dFUTFDUWdVTm5uSUo3bW1jT1BTSGQwNk90UHBobUFYbzNva1MtN21kbVQxM3hnZTJHTmJrXzNMdUwzZVhSUW1FMlZvbU55dTJUQWRNREtqUXJ6UG4yWjJrdGFlMm16Yl9vbk55dDZPNWd4cU9yUzB1UUxCTUpxV0VHTlBuY0ozcUFrU2xRdWp3bzlCeXVPc3dRQ3VCOE1lZFN3TV9zUlBScm1YaUFadTN3?oc=5"
-    },
-    {
-      "id": "news-technology-620118a8cd",
-      "lat": 42.35391,
-      "lng": -71.03888,
-      "title": "Google introduces AI Mode hotel booking",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T13:41:32Z",
-      "summary": "Google introduces AI Mode hotel booking&nbsp;&nbsp;hoteldive.com",
-      "source_name": "hoteldive.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUmVWelpGYWo0ZjVQbXM5SzdWdGktLVNfaEQ1QlVTVy15cU94Qmg3aGZFSDhuX3lYVmRUcVB0d2NFRnVaRVZBZS1YRVlSTDRUMlBnamFWQU9YbGlGemhRNHYzN2dRRnBoSy1OeHdmaFpQbHM4dF93U1dTdFdsRVd6UFBYaHo?oc=5"
-    },
-    {
-      "id": "news-technology-acb7095c7d",
-      "lat": 5.30887,
-      "lng": -4.0864,
-      "title": "AI Agents Are Learning to Skirt the Rules. Can Businesses Keep Them Under Control?",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T13:37:53Z",
-      "summary": "AI Agents Are Learning to Skirt the Rules. Can Businesses Keep Them Under Control?&nbsp;&nbsp;Darden Report Online",
-      "source_name": "Darden Report Online",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3BEdDJISnphdFZFcW1XeThlNGZfQTk0UVprb3VoakE0MmlzckJjZzRzM2JSY1ByZlFnOEo2RmZmU0NHQVpzN3ZRVEZxTG5pUDJBU19VLWpFc3ZSZzlZOTFuUk9wVV9mNEtfSTgyWHFIRkRDQXdXQVJkZ3FiUHQwdmZQcVl1akJjeXE3SDhXVHo5QWZOMTViV2RYbEtwMDB6bFE4?oc=5"
-    },
-    {
-      "id": "news-technology-589f070511",
-      "lat": 6.07724,
-      "lng": -10.0313,
-      "title": "100X 2026: Where the Energy Transition Met the AI Revolution",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T13:36:24Z",
-      "summary": "100X 2026: Where the Energy Transition Met the AI Revolution&nbsp;&nbsp;JD Supra",
-      "source_name": "JD Supra",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGlvN1QwaDJLajlZcldBMzZsbmRzQzZIQ25hQlZ2MUNHbTFCNVdfTExsdWp3X3R6RmJzYnhlbVlVS08tSnl3ZmcySU5EVDVBb3pmX2RDdzA5enBsWGd0cUJtZ19ZckY1bW1wdFRORlVBUDFSSEg3RWlRY012eEYtTnVDanlZUHM?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-01T13:51:14Z"
+  "updated_at": "2026-09-01T14:06:57Z"
 }
