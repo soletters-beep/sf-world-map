@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-9aee1509c7",
+      "lat": 34.71401,
+      "lng": -103.84599,
+      "title": "US House passes funding bill to avert government shutdown",
+      "category": "POLITICS",
+      "time": "2026-09-01T18:40:00Z",
+      "summary": "US House passes funding bill to avert government shutdown&nbsp;&nbsp;news8000.com",
+      "source_name": "news8000.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa054M1JwaEZtaUpqSGxjbUFpVVhZNkZ0LU9JN0xKdDR5NVpWYWxjRWNvaTFIN0Q0MEc2SC1ldXhab1VwSmlsblQ1VE1fZk1kQ203eFRXdGJ6S20zVGtmVzY5cjlGb0tfZTNDRGRHUG9yeG5manZ1RnR2Qlpoei04TzZONEY0NGpVYXJuYmZIS0hXRS1CU2JSbk1sdTV6X016ME1yM1pMRHNIbV9MR1hWdGpZTnR4SU9KQ2t0ckFKY1lsR3VfU01RcVh1bEVXN3hnTHB2N2UzVzBfZHAwOXpVNEpTUEU3RVZiVW9rX1NBYVFFNG5nQkJB?oc=5"
+    },
+    {
       "id": "news-politics-4f8984fbad",
-      "lat": 34.66145,
-      "lng": -103.89699,
+      "lat": 34.70838,
+      "lng": -103.89761,
       "title": "House Speaker rebuffs question on Iran war | CNN Politics",
       "category": "POLITICS",
       "time": "2026-09-01T18:34:00Z",
@@ -12,20 +23,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdmUxTnZWYjU3OXdMZ3Z5SmxySVZDXzNMa0pqRGRzRHhUTTBjVVJySWlWN2VUZkFDZTBnM3RyX0V4S2VqYnRIa1VIb0lwb196RDA0RXdHWWRJR3d4bXk3OTQ3bTNoUlRpVldmbzBZX2tVLXdhektYOFN1UmtxVVI5eG9LOUs5NVg5eVZr?oc=5"
     },
     {
-      "id": "news-politics-c132efc51c",
-      "lat": 34.66738,
-      "lng": -103.89867,
-      "title": "House passes funding bill to avoid shutdown before midterms",
-      "category": "POLITICS",
-      "time": "2026-09-01T18:29:00Z",
-      "summary": "House passes funding bill to avoid shutdown before midterms&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlZlWlJXN2lpaXlTNVVLX0VCV3FTNGVKbjM1ZUZ5YUx6aThGaTloNEtZSmlDclNZTWhsdDBpcEtBR2xOR1JJMnowUEtGX2QwTjlzeWM5dWFqQmw0cTNhQlRqX2l1cjJ3MVdtdVV6N0gxTWV1aFpYcHYwUUxyTXI1Wl9YRk15T0dCUFhsT0tMeTU?oc=5"
-    },
-    {
       "id": "news-politics-40ff422421",
-      "lat": 45.74532,
-      "lng": 15.36893,
+      "lat": 45.66158,
+      "lng": 15.41174,
       "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
       "category": "POLITICS",
       "time": "2026-09-01T18:26:12Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-7ccf55a755",
-      "lat": 28.40477,
-      "lng": -81.64114,
+      "lat": 28.38293,
+      "lng": -81.53881,
       "title": "WATCH LIVE: House passes short-term spending bill, staving off another fund fight during midterms",
       "category": "POLITICS",
       "time": "2026-09-01T18:21:39Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-2ba5a32e64",
-      "lat": 33.01351,
-      "lng": 57.05708,
+      "lat": 33.0227,
+      "lng": 57.05545,
       "title": "US military carries out new strikes on Iranian targets",
       "category": "POLITICS",
       "time": "2026-09-01T18:07:59Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-eaece63e89",
-      "lat": 43.63402,
-      "lng": -84.66613,
+      "lat": 43.63256,
+      "lng": -84.69513,
       "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
       "category": "POLITICS",
       "time": "2026-09-01T18:06:58Z",
@@ -68,8 +68,8 @@
     },
     {
       "id": "news-finance-50e5ea9d8e",
-      "lat": 38.84097,
-      "lng": -77.06544,
+      "lat": 38.90427,
+      "lng": -76.99435,
       "title": "How the Treasury's bond intervention impacted markets",
       "category": "FINANCE",
       "time": "2026-09-01T18:35:45Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-ad1919c71e",
-      "lat": 35.6242,
-      "lng": 139.77473,
+      "lat": 35.68633,
+      "lng": 139.81223,
       "title": "米財務長官、日銀・植田総裁に「日本の市場・金融政策措置を強く支持」と表明…会談概要公表（読売新聞オンライン）",
       "category": "FINANCE",
       "time": "2026-09-01T18:21:15Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-3bc3d7a5f6",
-      "lat": 23.77292,
-      "lng": 90.07627,
+      "lat": 23.75302,
+      "lng": 90.07018,
       "title": "Update: Equity Markets Fall Intraday as Oil, Yields Surge",
       "category": "FINANCE",
       "time": "2026-09-01T18:21:15Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-ddf4c187ed",
-      "lat": 35.67655,
-      "lng": 139.73291,
+      "lat": 35.59622,
+      "lng": 139.76969,
       "title": "アップル、本日ターナスＣＥＯが正式就任 株価は上昇＝米国株個別(株探ニュース)",
       "category": "FINANCE",
       "time": "2026-09-01T18:13:22Z",
@@ -111,9 +111,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnFDd0tiQzRfOGNLdnRpdTZTcFctWEJRd0NaLWZSb0hnc1BnRTZHb1VKQXhqQlBFWFpwaklzMy1JZDdGUDhQd0lSYk9zU25EelRBdTNQNDFOelkxcXljellXWVFPYUk2cVVnUzdrME1XMFNjOHZYaXpBVVdxNFpDemkxMGZjWjg?oc=5"
     },
     {
+      "id": "news-finance-dae5e9e637",
+      "lat": 50.33151,
+      "lng": 19.05166,
+      "title": "Dynamic Multi-Factor EM ETF MFEM: Up 9% in August, 26% YTD",
+      "category": "FINANCE",
+      "time": "2026-09-01T18:12:17Z",
+      "summary": "Dynamic Multi-Factor EM ETF MFEM: Up 9% in August, 26% YTD&nbsp;&nbsp;ETF Database",
+      "source_name": "ETF Database",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOUFiRTI2Wi1oZU9qMnkxdlg2TmNqSDdIUkktSjJHRXVPejdMQVdfVExOTWhTTmNGcWVNUHhnOF9QRUlJejJxMmxsY1RMMlIwdUJ3YzV2SlRnbktURVlpUjZMZEtieS1TeEVTMWxGakw3bk5YbUIyeGl6cW5Wb0V2WkMyNmFMaW1iSGpj?oc=5"
+    },
+    {
       "id": "news-finance-32d372598f",
-      "lat": 38.89265,
-      "lng": -89.4547,
+      "lat": 38.90405,
+      "lng": -89.40376,
       "title": "Bond Markets Signal Investor Alarm Over Debt Levels and Inflation",
       "category": "FINANCE",
       "time": "2026-09-01T18:01:11Z",
@@ -122,31 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWU4TFZjX3J2bEVrVWFHMmRoWFVYOU9RNy05U0pBQ2I1TlZMU2dqVk54R21xdkJTV3U2VkIyOEJ5cDFuUnNKRDRmbTB4WHlrUmhUTnAwa3FEQVpMZ2Jmd0JkZ09WaVVNenQ5c1pka1pWWkVYVklsN19NTWhrYXFnVk9jaUNwZ1FVVGFBb1hPVm1sZ2ZDaU9qaElQcXhnX0J6dEk3d1JVSE0wMzJwV2NGRXlvVWNSNDh0TjdV?oc=5"
     },
     {
-      "id": "news-finance-027aebdd21",
-      "lat": 1.34826,
-      "lng": 103.88083,
-      "title": "Sticky Inflation Is Roiling Bond Markets Again",
-      "category": "FINANCE",
-      "time": "2026-09-01T17:59:23Z",
-      "summary": "Sticky Inflation Is Roiling Bond Markets Again&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON29kQ3RLTVl6ZVB1WFNuQW5TNk5wZDYtSHBTN1dGaEZPNFRDeDIwZ29PaTh5bnA5YVl2YVE2bVUyMnN1RTFZTE9GR090emZQRWoxMWZKbGhUeWZNc25jVTZxUVJWZU9aSVNVMTFJUEFIdEtQcG0yWVFUVEZJaXdFVkRsX0tMOXMyRE03VzJRVG1RVVBPVEVYMThPcllkY3FNdlE?oc=5"
+      "id": "news-disaster-1ec1c8ecb9",
+      "lat": 48.4362,
+      "lng": 5.49148,
+      "title": "2 dead, at least 1 still missing after Grand Canyon flooding",
+      "category": "DISASTER",
+      "time": "2026-09-01T18:19:00Z",
+      "summary": "2 dead, at least 1 still missing after Grand Canyon flooding&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVVJLUNBaHFvZHVsUk9tX3gyRjlCWVRyUlFzYnlMQ05FVVhQNnVsMEZxQnRJalFtTmxiYjBmZXNsZHBKTUJmQnA2cFZMM1N3NXpINlBVUS1ER1VvMGdham9ZMlZHbG5Ocm9JRXZoeWdOSjZVSG9lLS1XcHloLThOU2E3SXVNdWExNWRiOUVZOWF4aHhfSjlwd0FPVjFBWmgtc0ZOZUpaSXRpRVM3cUlxakRuT05vaDNQVnc?oc=5"
+    },
+    {
+      "id": "news-disaster-5776706e55",
+      "lat": 35.70552,
+      "lng": 139.79214,
+      "title": "【レベル４土砂災害危険情報】深浦町（2026年9月1日掲載）｜青森放送NEWS NNN",
+      "category": "DISASTER",
+      "time": "2026-09-01T17:45:00Z",
+      "summary": "【レベル４土砂災害危険情報】深浦町（2026年9月1日掲載）｜青森放送NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+      "source_name": "日テレNEWS NNN",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlB6LUFOeE95Zzdjc0VPYVlTSGh3bGM0Y0t4TXZYNzZGa3A0azc5ZnN6WlprOER6aEZENjk0cG8yT1NuWXM3aFNwTWJwNEgwcGN1QW41LXJFLTl3SlNGZThINk5kQVhNR1dmNm9OSm1oRUxZVXZIbS1iODgyUEk1enFaQkZGRDQ?oc=5"
     },
     {
       "id": "news-disaster-c967605ddd",
-      "lat": 28.42092,
-      "lng": 84.01738,
+      "lat": 28.33686,
+      "lng": 83.9864,
       "title": "Nepal flood death toll surpasses 1,000; thousands still missing",
       "category": "DISASTER",
       "time": "2026-09-01T17:43:09Z",
-      "summary": "Nepal flood death toll surpasses 1,000; thousands still missing&nbsp;&nbsp;Gephardt Daily",
-      "source_name": "Gephardt Daily",
+      "summary": "Nepal flood death toll surpasses 1,000; thousands still missing&nbsp;&nbsp;gephardtdaily.com",
+      "source_name": "gephardtdaily.com",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmtPOWs5SmlPSkVtSURBdWI3Z2tpVno4TjBpTTNzTFhhcXZLTFRVZGpmWXRvdEdaeHN6dGlZMkIwR1FZRHVPRS1oaTRTWVpCRUg4eXNvcjBvX2JZU2c0SVFYUVQzb3RSMklQYkNsa3BFQTNRLWJpb29mSGdJWUFwVldJdGc5ZmZyaVJBcV9vdTdGekpxR0JLaTgzcml5U1BHUGc?oc=5"
     },
     {
       "id": "news-disaster-ea604a3328",
-      "lat": 61.08551,
-      "lng": -107.99647,
+      "lat": 61.04045,
+      "lng": -108.04976,
       "title": "How a small island in Canada appeared, vanished, and was found again",
       "category": "DISASTER",
       "time": "2026-09-01T17:36:44Z",
@@ -155,9 +177,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-disaster-875aa3c353",
+      "lat": 40.65853,
+      "lng": -73.9546,
+      "title": "How to Help Nepal Flood Victims",
+      "category": "DISASTER",
+      "time": "2026-09-01T17:29:21Z",
+      "summary": "How to Help Nepal Flood Victims&nbsp;&nbsp;The New York Times",
+      "source_name": "The New York Times",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2JKYkZ0QWU0X2NJakJha2hnSUptVnFST05OSmNKel9WaE52YmtnT0NqejFDRTItUGhBNjJSaElOU2xYQ3dPaGVNdlcxSllEWTljd0VNWTFvSXlCbXBHcVV4Yk1peGFqOHR5SDFVU0lqdmRYRGRDTXRKa1N1MnBQNWhQM3JGbHEzUHR4TEFnNFhTMHdsRnc?oc=5"
+    },
+    {
       "id": "news-disaster-596763281e",
-      "lat": 35.67966,
-      "lng": 139.71861,
+      "lat": 35.67581,
+      "lng": 139.73526,
       "title": "【レベル4土砂災害危険警報】つがる市、鯵ヶ沢町（2026年9月1日掲載）｜青森放送NEWS NNN",
       "category": "DISASTER",
       "time": "2026-09-01T17:27:00Z",
@@ -166,42 +199,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRUpqamNvUndFcGhxX2JtM0VEZXBuYmluTXk4cV9MMlRsRmN6NFNwU3dBOGxQeFp3U2FMZlYxUzFGLTJXNjM4WEszSXkxaVhKaHg0NkdvTTViYjNwRFdjS04tcmFmN1hTalBjaVhrMVdnQkNFSHk3RFkybktWdEtDSjFfQkItNzg?oc=5"
     },
     {
-      "id": "news-disaster-8637be80b9",
-      "lat": 45.88878,
-      "lng": 126.62041,
-      "title": "Met Office: Summer 2026 was UK's hottest ever",
-      "category": "DISASTER",
-      "time": "2026-09-01T17:25:35Z",
-      "summary": "The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/videos/cn74vl31r48o?at_medium=RSS&at_campaign=rss"
+      "id": "news-accident-66b233e8d7",
+      "lat": 39.87401,
+      "lng": -3.98837,
+      "title": "Toledo police identify suspect in accident involving Rep. Kaptur",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T18:49:38Z",
+      "summary": "Toledo police identify suspect in accident involving Rep. Kaptur&nbsp;&nbsp;toledoblade.com",
+      "source_name": "toledoblade.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc1JIQ241eHZZRHB6R0Zlbml6cFVYUGxwUHBlakpwZzFubmR2MGdCbmlOU2JXV2hSejhRY0ZpMmZESWd2RG85N1lVT3ZJR1A4STExTmdpcUlUakdBSDRjeE1oLXdibzBEdU1HVEtXV25TWjhuZGY4SUx3YldOR0pJckFSdGJCSThzbXRKaXllNGtPOEt5S2poQmJ6dHpwT0V1SXJLTXZmeTZEeUl2bkFsNVkxQU92QWVsbW5LZVRYN3F2STM1cEtvVjJzTE9rZUExc0xxY3hIYw?oc=5"
     },
     {
-      "id": "news-disaster-86a5598752",
-      "lat": 39.98116,
-      "lng": -86.15005,
-      "title": "Magnitude 3.6 earthquake rattles South Texas, shaking felt in Falls City",
-      "category": "DISASTER",
-      "time": "2026-09-01T17:24:00Z",
-      "summary": "Magnitude 3.6 earthquake rattles South Texas, shaking felt in Falls City&nbsp;&nbsp;FOX Weather",
-      "source_name": "FOX Weather",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONVVQNXNGRlByUWVzcGFocXNSei02WU5GVGVzZm0yZmgwVUMtWlVxenZNMTBfX3ltSWhxY1I3NWdFRC01WWh3Wm5OSXNzS0ZjVGVYYVV6bEFXLXhEZ1Z4QUtNSXdHS1RLWXJrQlNXdFp0M0VsSzFnYVV3UVItOC1JTF9pMHI1QnJhV3BycEtTUDnSAZYBQVVfeXFMUHR4Q2ZtVU9TcS1ROXd6UGk0Zy1BcWJmNkVRQWRsOWhLbUpmNm5tdWZIby1jRnhLTmxDYmpLZnlKc0pBblNNR2VNU195bzJmbloxS2lNRkQ3S1pIbWc5S1BBRTZLOEN4RTFHemJjVzR4dHFmNGtOeWpoX1BjZUthSDU2WGdVc2tNaTMzTzE3eGZkbHUzajVB?oc=5"
-    },
-    {
-      "id": "news-disaster-534a248fa7",
-      "lat": 28.35686,
-      "lng": 84.02832,
-      "title": "In Nepal's Tragedy, a Warning for a Warming World",
-      "category": "DISASTER",
-      "time": "2026-09-01T17:20:00Z",
-      "summary": "In Nepal's Tragedy, a Warning for a Warming World&nbsp;&nbsp;Time Magazine",
-      "source_name": "Time Magazine",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOVpMQmk0WU5QbFRGN1puQlFMTHlPVGtzY2xnejgyVUlRRjlaQ3FucDhKbExBNDl1b3pFaVg2YjNZb2tUU3draXFXd1Z3aWZVOE51SjhZbE9STWhvYldvS0EtdGtnVTBVbC1ad1IyM0JNOGpVR01LaktGalo5OE40V3podkJFdWZuSVBlc1FuOA?oc=5"
+      "id": "news-accident-f73d150b64",
+      "lat": 33.80933,
+      "lng": -84.39766,
+      "title": "Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T17:59:03Z",
+      "summary": "Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"&nbsp;&nbsp;CBS News",
+      "source_name": "CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5"
     },
     {
       "id": "news-accident-24081c134f",
-      "lat": 49.55322,
-      "lng": 19.38457,
+      "lat": 49.53257,
+      "lng": 19.31969,
       "title": "Student hit by car at South Lakes High School",
       "category": "ACCIDENT",
       "time": "2026-09-01T17:54:12Z",
@@ -210,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZ1VzX2JVeE5fVlZNN0ZJQThHQnRhMjRoVFQtOFl3SU9ETDJDczl6UnRmUUc1cnh3WVEySGU5eDFTZWpTc3Z4Mi1QUXl0UWtqR2pWWEV3TVpnZjlGYkRxLWZ4Wm9ZUDBpeVcyNnYyYnlqTGpETnhrUzFLcWhDeEZPTGZuVHJyNnQwU3JrYVk0aUVnQXpsSWhOTC1VSXdVRDYtMkh5SnVRa29qb3FpVE55SjIzckFsaU9KS0xwUVlvcG9ENXlibXpXWThTX3BiQkVhc3RTOENXWFVDVDQxWEFMWHVZS1NJREJ3bEJDdF9qR21QSFBvNGNRWFIyMA?oc=5"
     },
     {
+      "id": "news-accident-0524d33c66",
+      "lat": 38.8837,
+      "lng": -77.05786,
+      "title": "Camp Washington Chili closes after crash. Driver arrested on OVI charge",
+      "category": "ACCIDENT",
+      "time": "2026-09-01T17:52:00Z",
+      "summary": "Camp Washington Chili closes after crash. Driver arrested on OVI charge&nbsp;&nbsp;Cincinnati Enquirer",
+      "source_name": "Cincinnati Enquirer",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTFFNMEF1My02VGxOQXkxZ3BfMUxpVFdtYm5uTmpTZGRFZk9UaTJ5V3ptblYwdVd0MWV0RDlZZzMxOVN5cWpaaGNpUnV3ZWxhV2pOaDR6aXZHa3J6NjFfWW8yNm5fbkNhQkt2Um1NbUcwOVUydlRxdTg0VG4zZXBqc05pSExmekQxSGhGSG5DLUViYkR2UkwtSWlfVGRUaktRRTRfLW1kcWxERTRkR0otTTJTbXQ1RGpLQnVna3hmRXo1bHBSbDctR3JZbWg?oc=5"
+    },
+    {
       "id": "news-accident-4200bb2636",
-      "lat": 54.39327,
-      "lng": 18.60857,
+      "lat": 54.37232,
+      "lng": 18.6636,
       "title": "TRAFFIC ALERT: Eastbound I-40 shut down near Brownsville due to fiery multi-vehicle crash",
       "category": "ACCIDENT",
       "time": "2026-09-01T17:31:00Z",
@@ -222,8 +255,8 @@
     },
     {
       "id": "news-accident-b1c411d2b9",
-      "lat": 32.48276,
-      "lng": -82.96358,
+      "lat": 32.49598,
+      "lng": -82.9589,
       "title": "Moores Hill man charged with felonies following fatal Dearborn County accident",
       "category": "ACCIDENT",
       "time": "2026-09-01T17:24:29Z",
@@ -232,42 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcXAzZWQ0XzZXbDNsYU1SVi1rSF9maHllZ2g1VHlSRjhwRDJFMG90bWlCUHFfU0ZIMzRyZ01WSnNURjhwWU1IUXVyeVcxTzNFTmJpSDhaa2lELWNtQWxiX1kwY2lDa0ctdVFuay1GVEk1QkpvOTN6dHN6RlFKQjlIdnVWRmU4WGhTNWtKNUdubTQ1LWR3dUdfTjhmcHhVTmhaR0FJV25FRW84bXIycjRwazlDSk9kZw?oc=5"
     },
     {
-      "id": "news-accident-5d6419989b",
-      "lat": 33.74168,
-      "lng": -84.3446,
-      "title": "Atlanta Police Department employee dies in crash on Moreland Ave.",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T17:02:04Z",
-      "summary": "Atlanta Police Department employee dies in crash on Moreland Ave.&nbsp;&nbsp;FOX 5 Atlanta",
-      "source_name": "FOX 5 Atlanta",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHA?oc=5"
-    },
-    {
-      "id": "news-accident-fc3477005a",
-      "lat": 36.25891,
-      "lng": -98.49508,
-      "title": "Major wreck on I-40 eastbound near mile marker 73",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T17:01:00Z",
-      "summary": "Major wreck on I-40 eastbound near mile marker 73&nbsp;&nbsp;wbbjtv.com",
-      "source_name": "wbbjtv.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY0VxdWtmbXd4WW1vMHFKczd2WW02MXU3NDFoRGQzUldxNjgyTXpHR0tEeV91Y2gxaGx0SlZ5UGZQSnhEeGw1bHhYLVpxZ2pjY3d0b1NYY1JVak9IT1I1dkR3cFVoaHhFNFduRVd5U2dSamtKUVY2T3VOa0t4ZWVFZ2pYRmctQjBW0gGcAUFVX3lxTE55NHRFOWs1cWhMZmgyQ21YVzExbWNhMWcwSHkxZnphLV9Eem5VVXhENHlwZ19rOGE2N2EyR3J0VGJFNFhsOEdYRzhxVlpPTHI5U3IxTUIwS0hJOXI0X0VQMURNVGNWTXIzYmxSQUFWQmRCcm9YTHNkWDFtYmk3MjBfT1F6Z1c3M1JuY0UyVkhCZHBhaTR1WHZvTmI1WA?oc=5"
-    },
-    {
-      "id": "news-accident-af048ca3a7",
-      "lat": -5.15757,
-      "lng": 139.93546,
-      "title": "Woman who was killed in hit-and-run crash identified by South Carolina coroner",
-      "category": "ACCIDENT",
-      "time": "2026-09-01T16:30:00Z",
-      "summary": "Woman who was killed in hit-and-run crash identified by South Carolina coroner&nbsp;&nbsp;The State",
-      "source_name": "The State",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vYUwwbzkwbWpySHZTOEFVMkJFeVRfLUQ3al9PWUlEQ2dueVFHbGJWUjh5NVNYVzU0OXZUX282eU90TkVCWVRzemcwZ0VIdXN4NlY3RU1qVEx1czFNX2pha0xUSHFfeXVNaEtv0gFrQVVfeXFMUDkxaFd2NGFIVDVFLTVtSm9EQ1JoR2VZMGlFakJRYXhyR3liSHE1YkIzalpycHRUQm1vX2x5VWhSaXNwRGdMZExJb2J6X1hIQVNrdE94bGt0RFRmbUtUUENKU1lZU3FDcERPd0U?oc=5"
+      "id": "news-disease-45e31c30e6",
+      "lat": -3.03568,
+      "lng": 23.81457,
+      "title": "Congo's Ebola caseload tops 6,000 as concerns grow",
+      "category": "DISEASE",
+      "time": "2026-09-01T18:04:57Z",
+      "summary": "Congo's Ebola caseload tops 6,000 as concerns grow&nbsp;&nbsp;dw.com",
+      "source_name": "dw.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMnlxb1VEeFh5Y2E2UnNMNnVBSUxMNEgxUkdsbnBOQkhfaHRYSk1VdE84cHUxMnRyTmtweDdzeG5TNTJKRXU5SzdIdXBreDdfcWF2ZGNMQ1ozc182dldsTlVyaV94Yi1wcVJoN3Jjb2pJaFR0TjlhSEppNEpmWHVXZE96MkRCUEpX?oc=5"
     },
     {
       "id": "news-disease-9e018eb181",
-      "lat": 35.46903,
-      "lng": 139.58381,
+      "lat": 35.40901,
+      "lng": 139.69634,
       "title": "「病気と闘う子どもたちの力に」アフラック販売代理店の「横浜総合アソシエイツ会」がこども医療センターに寄付",
       "category": "DISEASE",
       "time": "2026-09-01T15:00:00Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-5e5457b36a",
-      "lat": 50.47534,
-      "lng": 30.50824,
+      "lat": 50.45477,
+      "lng": 30.47523,
       "title": "【インタビュー｜後編】「病気にさせない」社会へ、運動・スポーツと理学療法士に期待される役割｜鈴木大地氏 - PT-OT-ST.NET",
       "category": "DISEASE",
       "time": "2026-09-01T13:57:15Z",
@@ -288,8 +299,8 @@
     },
     {
       "id": "news-disease-e9caecf11a",
-      "lat": 59.25653,
-      "lng": 18.07094,
+      "lat": 59.3091,
+      "lng": 18.11491,
       "title": "Epidemic and emerging disease alerts in the Pacific as of 01 September 2026",
       "category": "DISEASE",
       "time": "2026-09-01T12:56:08Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-c4424b079f",
-      "lat": 26.25787,
-      "lng": 127.77232,
+      "lat": 26.24479,
+      "lng": 127.68382,
       "title": "単純性尿路感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-01T09:30:00Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-8cc5acc34c",
-      "lat": 26.26739,
-      "lng": 127.79347,
+      "lat": 26.22904,
+      "lng": 127.7175,
       "title": "人工関節感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-01T09:00:00Z",
@@ -320,20 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aV1pXRXBTQzh1LUF2MjJlcWpLQU16ODBGbWdaRllUUjlxOVJ1OGtCSlV3RWpFb3RYd056Vi1IbFpsWkY5Vl9CZXlWYldON2s?oc=5"
     },
     {
-      "id": "news-disease-8c4f7bbcd0",
-      "lat": -8.4927,
-      "lng": 118.52947,
-      "title": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消　西舘勇陽が急きょ代役",
-      "category": "DISEASE",
-      "time": "2026-09-01T08:55:06Z",
-      "summary": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消　西舘勇陽が急きょ代役&nbsp;&nbsp;日刊スポーツ",
-      "source_name": "日刊スポーツ",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sbVE4WmpxanRaak9kR2pXTkt5OUZxeEpvc1BDSncxWkU1eDJ2dlhPN2NPNGhqeUFBTFhqV2tkWkxpNnYwcnY3djRZVHFOVEtCWHFfbTk3V0ZQelhSTldCZWJVYnVHb01sSzcyUmd2R0fSAXhBVV95cUxPbXo0dl9yb1FiS3pjOHhpdko0aHM2UVFMYy1EQlBuT2NaelJzT3JEZWZxOG1QZ0RtUkxCXzFDMVZfcE9nS1NIcUJJR0VGLVd0bTNuLVJHcDlETDg3MU0tSTZ2UjlYckdiOWZFeGRuYkMzSjdLdU92YWo?oc=5"
+      "id": "news-technology-b1619889c2",
+      "lat": -3.19292,
+      "lng": 33.77346,
+      "title": "Who Owns the Rate? AI Is Creating a New Distribution Problem for Car Rental",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T18:52:16Z",
+      "summary": "Who Owns the Rate? AI Is Creating a New Distribution Problem for Car Rental&nbsp;&nbsp;Auto Rental News",
+      "source_name": "Auto Rental News",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSGdzY3BZbGQ5NW12ME1WMjhjUjVsalpLMGpLOEFOQWptX3N2NXFkVm9ORDBNd0h5U0lybkE3M055ckhEVTNzaGtFU2RkUUgwcmhIcFo5aXNycmU5cnd2UC1Vd0ZqQnpUaEo3SjN1dnRNQ3dlV19jUldLMm03MnN1U1FLUXhmYlNNQnVpQkstWmFSSVFRVW40WGtmOUpNX1VJckxEcWZFaEZ3Z0NGbEt3d3pqVEo?oc=5"
+    },
+    {
+      "id": "news-technology-11958c0a82",
+      "lat": 52.27006,
+      "lng": 10.55542,
+      "title": "CyCon 2026 Series – Governing Responsible Military AI Through Defense Procurement",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T18:47:21Z",
+      "summary": "CyCon 2026 Series – Governing Responsible Military AI Through Defense Procurement&nbsp;&nbsp;Lieber Institute West Point",
+      "source_name": "Lieber Institute West Point",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzdUT1h1M2xGUzc0aThmS01kY0VOZFVrWUhLRWlVUGlIZEJVbkJ0WmttSWdhRVEza2JoLUlNMl9LeVhrZG84bjlMSEV0cmJkX0Nhd0xpNUpvYVhUbnBNX3B0WFVTcUJxVXF5MG1yY0xFNDhHZmwzQVVPbFR2TGw1MWI4NTdIQUNtUHRzNFpGVXJMdXNrVmc?oc=5"
+    },
+    {
+      "id": "news-technology-4c3e2e5510",
+      "lat": 38.93239,
+      "lng": -77.01886,
+      "title": "Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T18:47:20Z",
+      "summary": "Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0taN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw?oc=5"
     },
     {
       "id": "news-technology-a4cb450f86",
-      "lat": 47.11207,
-      "lng": 9.12407,
+      "lat": 47.11862,
+      "lng": 9.16815,
       "title": "After successful DMV pilot, Nebraska expands Tyler Technologies AI tools statewide",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T18:41:21Z",
@@ -343,8 +376,8 @@
     },
     {
       "id": "news-technology-f7b9a7e7b4",
-      "lat": 59.20359,
-      "lng": 10.23483,
+      "lat": 59.17733,
+      "lng": 10.25744,
       "title": "From assessment to action: A law firm’s AI transformation journey",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T18:32:30Z",
@@ -354,47 +387,14 @@
     },
     {
       "id": "news-technology-e658ef3440",
-      "lat": 30.80176,
-      "lng": 34.87719,
+      "lat": 30.84979,
+      "lng": 34.86619,
       "title": "Israel wants to lead in AI education. Its teachers aren’t ready yet",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T18:25:00Z",
       "summary": "Israel wants to lead in AI education. Its teachers aren’t ready yet&nbsp;&nbsp;calcalistech.com",
       "source_name": "calcalistech.com",
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zVFBJZ3ZYb3UwUnFsMktZcjN3NWI0TVcycGpvNTFrTFJHTTFSMlRMaWVMS2poaG5rNVdOZEZHMG8yZk1iNG1LN3JuRG9ZVVFnN0lNWUJ1NTYxMTFrUG9oTGdHS2JaalRP?oc=5"
-    },
-    {
-      "id": "news-technology-2800c4f63d",
-      "lat": 54.39213,
-      "lng": -5.59198,
-      "title": "SmarterX Launches Marketing AI Month to Expand Access to Practical AI Education",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T18:21:00Z",
-      "summary": "SmarterX Launches Marketing AI Month to Expand Access to Practical AI Education&nbsp;&nbsp;PR Newswire",
-      "source_name": "PR Newswire",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDAzeWxOQlZPNFBmNVVMX1dKTnZ2Z2ZwY0pyb2JPbEl0SE43eFpyRzhVZUptbHczck94QnJMcWhKc3dXcjNNYklJTHdadlFSTERpSjQtQW9NMENZczZfYmpPMm9USUhSOG11WEZoY2NTQ2xISDAxWkJWeVc2ek14VmpMS21vYjBYZHhQcTFLRFd1bFVxS0hNUERMZURDN2c5MzFOWGEyZ08xTDJJSmE5REp5OFo2ZHNxeVdVdUJabXVrTk5VbDU5cjdIYThKZ3Ft?oc=5"
-    },
-    {
-      "id": "news-technology-0365e81047",
-      "lat": 47.67046,
-      "lng": -122.3104,
-      "title": "Can Palantir's Customer Surge Sustain Its AI-Driven Growth Momentum?",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T18:13:00Z",
-      "summary": "Can Palantir's Customer Surge Sustain Its AI-Driven Growth Momentum?&nbsp;&nbsp;finance.yahoo.com",
-      "source_name": "finance.yahoo.com",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGw2Z2t2SEVhQkxyVy1IXzZuZnhKbWwzbXEtUEMwQkd5RFRNdW83SkY3R2hsZ1dzZ2JuVi1MYkpreVQtWm9TY1RjVEc1N2paczFyWmI4OV9aZzNtaWcwVjZHcFFSeWRnTHQ4c2tZR3FqLVNWSXhacnNrckwyRGtJVnpVSktNeWpBcktKXzJtcnBPUi1DQmlUS2h1clgyY0lF?oc=5"
-    },
-    {
-      "id": "news-technology-c213313738",
-      "lat": 46.59371,
-      "lng": -0.38642,
-      "title": "Retail Investors’ 2 Favorite AI Stocks for the Long Term: Alphabet, IBM",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T18:10:46Z",
-      "summary": "Retail Investors’ 2 Favorite AI Stocks for the Long Term: Alphabet, IBM&nbsp;&nbsp;finance.yahoo.com",
-      "source_name": "finance.yahoo.com",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORVdRSnV4dDVVYXg5T2FGT180ZlhpQWxQdzZzQTAyVHc1QUxZN2Q0SFFlU3JoSjZnSkh4VmhpMUR1ODAwVG9yN3VSU0Z2NGdVbkI2RjFxRlFPSkhROThPc2I5TXQwdEh3RVFMN3pMV2doQnE0UThrUFhHcGJmLVlyOFNwdlRTX0Q0QXNfU3pKSkV2Q0pWY1hWUkFMQQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-01T18:42:22Z"
+  "updated_at": "2026-09-01T18:53:18Z"
 }
