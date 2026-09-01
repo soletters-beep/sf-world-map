@@ -1,86 +1,130 @@
 {
   "news": [
     {
-      "id": "news-politics-9a0be4ee25",
-      "lat": 32.76327,
-      "lng": -96.75011,
+      "id": "news-politics-6277ae9e12",
+      "lat": 38.854,
+      "lng": -77.0243,
+      "title": "Postal Service plans may keep voters from getting ballots, whistleblower says",
+      "category": "POLITICS",
+      "time": "2026-09-01T14:32:29Z",
+      "summary": "Postal Service plans may keep voters from getting ballots, whistleblower says&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOGxKMC1Qbl96RS0tQ2FLekFhWUpOMEFGVnJOeEVNbG1kYVlmcDFNS2VzcmhuamVJSXhPMHdUNnIxLUZ6bzhNblpNZnVaaDRNZjZTVWFnTEJiWXVVN2dnZ3ZyMFltODNFVzFhNWsyUkJuaEpsUFNkLWhLWXFVUkh2SzVHR0kyNFR2QndOSVk1ZTl2YU56b0NGWmdiaVlTS3FQdml4dHUwSFlTdE9v?oc=5"
+    },
+    {
+      "id": "news-politics-b3f7082bf8",
+      "lat": 34.37529,
+      "lng": -85.85122,
+      "title": "GUEST VIEW: Politics or Governance: Budgets, tax rates, and real consequences",
+      "category": "POLITICS",
+      "time": "2026-09-01T14:32:08Z",
+      "summary": "GUEST VIEW: Politics or Governance: Budgets, tax rates, and real consequences&nbsp;&nbsp;Odessa American",
+      "source_name": "Odessa American",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2RBRWkySHk1ZTZVdlZjRnhKa3lCUWtGMk1vZXlFQjlkREFnNEYwMzV5QVptYklCOTJXUzFDSElCSFBWbm01RXJhMVFhTmRlbGVoU2NLZXoxMy1pMU00cEllQjRYUllxbEozR29HTk1IY0g2SkRjanFNZWhVTTRYT3B6WGtFMHY1Y3AzTmdGRDVZRWhUZzctMy1wNTlBRUwyTV9aUi02b0ZSQQ?oc=5"
+    },
+    {
+      "id": "news-politics-f8f9d42454",
+      "lat": 8.01448,
+      "lng": 32.99845,
+      "title": "Keir Starmer announces he is standing down as MP",
+      "category": "POLITICS",
+      "time": "2026-09-01T14:31:51Z",
+      "summary": "Keir Starmer announces he is standing down as MP&nbsp;&nbsp;BBC",
+      "source_name": "BBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyR2pPcTRIYVBheGVIazg2X0FmWXl4TElxWXVJYTRxY1pwQkdhNWt5VlZHUjZOQkd5MFJ3WGUxWEZ3SWVIZmt4c295TldqWjd6R3hjOUctS0FOdw?oc=5"
+    },
+    {
+      "id": "news-politics-4c0992a8ee",
+      "lat": 33.82563,
+      "lng": 35.79817,
+      "title": "Lebanon Diary | Mary Turfah",
+      "category": "POLITICS",
+      "time": "2026-09-01T14:29:11Z",
+      "summary": "Lebanon Diary | Mary Turfah&nbsp;&nbsp;N+1",
+      "source_name": "N+1",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJY282U0xxb0JrMG0wR2NxT0JoVzYxU25Rd3NpWHl5UXRIZEJWREcxQldQTmNqbERjM3dGRVBoVTIwak5ITGd1UE1wMm02WE5LY2lyOW9nZWlOcTlsdmF3Y1FjcVo0Y25wUlhmaw?oc=5"
+    },
+    {
+      "id": "news-politics-522fdf1806",
+      "lat": 55.58048,
+      "lng": 8.52893,
+      "title": "Whistleblower warns Postal Service's new mail ballot system has \"potentially catastrophic problems\"",
+      "category": "POLITICS",
+      "time": "2026-09-01T14:19:57Z",
+      "summary": "Whistleblower warns Postal Service's new mail ballot system has \"potentially catastrophic problems\"&nbsp;&nbsp;CBS News",
+      "source_name": "CBS News",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0t1LVplUHk3STV2VWs2SlRZUF90SWpvMUtTamJCUzVHSFFUSGJSWDh5cVFCVks0U2JpeGRldlV2eDRvU3FmbHNnNEx6ZTJmNUZWc2JzaG9tQ29BTGVDTW9WWXFjN25TV2xGX3B6VWVKSGVwN1hROEJmaXRSQXlkakwtbzd4Ym9I?oc=5"
+    },
+    {
+      "id": "news-politics-3bf201ae1a",
+      "lat": 32.77813,
+      "lng": -96.75351,
       "title": "Politics set to star at Venice as Hollywood battles tight budget",
       "category": "POLITICS",
       "time": "2026-09-01T14:16:33Z",
       "summary": "Politics set to star at Venice as Hollywood battles tight budget&nbsp;&nbsp;Reuters",
       "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2w2Tzc2Z2d6RDAzMzZMbmE0QjNWOTRqZ3BfMTk1d0EyNkVycXVKUlJsMG5KNDcyQTFfdW5WRnFzbGxBYnlFLVBnektrMk9JTi03SGpUNXc5N0lsRlBibW9MY2IwNWlkNmtDTGo4T2tadTdsNEptbzBHSlE1OE5xNGpLbERrNzZueXNQQVRjUVplTHFZMlBz?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uYUhqRE51a1hOYVpQMzU0a3ZMOUstUUlDdDZYa0Jzek1KN041LUhHMGkxLTJtT3pFYlRVd1pvV1ZZVFJ0ekVNV3NzamNIMzZzRHlYNFVHWHBmc2FpR3Itdlh2LXJHbUk?oc=5"
     },
     {
-      "id": "news-politics-21afde1b07",
-      "lat": 61.15047,
-      "lng": 8.72994,
-      "title": "Norway's Haakon takes oath as mourners pay respects to late King",
-      "category": "POLITICS",
-      "time": "2026-09-01T14:06:58Z",
-      "summary": "Norway's new King takes the first major step of his reign as his father, the late King Harald V, lies in state at the Royal Palace.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-6834b3e35e",
-      "lat": 45.40547,
-      "lng": 12.3945,
-      "title": "Venice Film Festival turns to politics as Hollywood retreats",
-      "category": "POLITICS",
-      "time": "2026-09-01T13:54:39Z",
-      "summary": "Venice Film Festival turns to politics as Hollywood retreats&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1RGbnc1aEJlMW5SRXhxMjRRTzBVMFAxUi1rODZjNUxSc0lHcFp1aXJCQWVnY0MwekcyMVpmdlptalQ4VTBHVUVDTzlZbTE5eU1wd0dpcDZYdHhGYVpPbTdraHljWl9mcGpYcEpwbEVwSWlJQjlPS0JoaE13TDBlT1lzNTBrbllfRW00aVZSUFBJWHRZSjFPM1hkV0RURDJReVN1NlJia1NKaGt5SWQ2RzJIcw?oc=5"
-    },
-    {
-      "id": "news-politics-3169b26db6",
-      "lat": 48.49347,
-      "lng": 16.94318,
-      "title": "Who Is Backing a Local Official’s Campaign?",
-      "category": "POLITICS",
-      "time": "2026-09-01T13:54:19Z",
-      "summary": "Who Is Backing a Local Official’s Campaign?&nbsp;&nbsp;Long Island Life & Politics",
-      "source_name": "Long Island Life & Politics",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMkNjc056VjRBLW56eDJpMWZHT0NzUnBPNnlIWUpZcEtoWFRna0N0bkIyMF9EZ1BBaHhyZDVfU0NnVFNkVHVrSmVsTlZLNkphTk5BWVlVMlJQamVZWHpaNGVMdEFqMjhRYnkxVU5WMWpyR1JJcXZ1R0RyWTdPOHk4NnBjT1pVRkdJSWhB?oc=5"
-    },
-    {
-      "id": "news-politics-2efe7c01f3",
-      "lat": 41.81664,
-      "lng": -87.75355,
-      "title": "Tim Cook’s legacy isn’t just phones, it’s politics",
-      "category": "POLITICS",
-      "time": "2026-09-01T13:51:02Z",
-      "summary": "Tim Cook’s legacy isn’t just phones, it’s politics&nbsp;&nbsp;The Verge",
-      "source_name": "The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBeWRKX3dtVjZjMW16aVNHYWhNUlh3V3lnd09JdVA2SHZscW0zSXRpcnhUbnNOR2h5b2c1YkliR2FQa2N5V2J5WkVDVmxuS3FFY2dzWkJmWm90cmFYU0FSeTJvbVVNMkR2NzFMbkw1TQ?oc=5"
-    },
-    {
-      "id": "news-politics-df95c8d931",
-      "lat": 37.7584,
-      "lng": -82.66745,
-      "title": "The Odds: A Midterm about Trump?",
-      "category": "POLITICS",
-      "time": "2026-09-01T13:48:10Z",
-      "summary": "The Odds: A Midterm about Trump?&nbsp;&nbsp;CNN",
-      "source_name": "CNN",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVVJMTzVXQlg2UDdPZlo2eXo3WUptVmpYRnBoalBvTnoyalZMQmRCbVpXR3JfWDFSdXdtbV9ZWHFRbVBCeGNUbHdSdTlnWWtDQTUzQVZJdUxodFIyakE1cHYzV1VKazVLaHJ6QzA1b2JuUFB5cEZQRUgwRmpsVjl1M1hPNDNfSnhGUGtIQzY4b20?oc=5"
-    },
-    {
-      "id": "news-finance-5830baf974",
-      "lat": 12.55446,
-      "lng": 99.89973,
-      "title": "アカマイ、アナリストが投資判断を「買い」に引き上げ 株価は下落＝米国株個別",
+      "id": "news-finance-90ee635da3",
+      "lat": 34.85916,
+      "lng": 135.5861,
+      "title": "デュオリンゴが上昇 アナリストが目標株価をウォール街最大の２１０ドルに引き上げ＝米国株個別(株探ニュース)",
       "category": "FINANCE",
-      "time": "2026-09-01T14:21:00Z",
-      "summary": "アカマイ、アナリストが投資判断を「買い」に引き上げ 株価は下落＝米国株個別&nbsp;&nbsp;株探",
-      "source_name": "株探",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RVDNubk1iQUxxa2N2cEJOaDhwQnhSZHY3ODNyZ1RjQjhEM1BjUi1zcURkQ19XOG9mczRRZDVJM0FvZS15OV9SeGFFV3pWMVptc3U1U1lXRW5reWNlN1hNWXlR?oc=5"
+      "time": "2026-09-01T14:35:00Z",
+      "summary": "デュオリンゴが上昇 アナリストが目標株価をウォール街最大の２１０ドルに引き上げ＝米国株個別(株探ニュース)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjR4OEJEX2lvUldxT0F2ZW15dU10bVZ2QlNySnluRUQ4cVJMS2lQNmh2SGVSeFZLOEhMeWRjd3h1WHJOZnlCVk9PaGN2aW1wY2o4VXFhTDBIU3NQanh1NVJ3OTBWX2hCRnBzVGxXczlacmNPYVIxalFBcW1GUnItX3RWaFJBa0E?oc=5"
+    },
+    {
+      "id": "news-finance-8111e69e5a",
+      "lat": 38.95847,
+      "lng": -77.52134,
+      "title": "Prediction Markets Across Sports, Media, and Finance: Institutional Entrenchment and the Risk of Path Dependence",
+      "category": "FINANCE",
+      "time": "2026-09-01T14:32:32Z",
+      "summary": "Prediction Markets Across Sports, Media, and Finance: Institutional Entrenchment and the Risk of Path Dependence&nbsp;&nbsp;The Roosevelt Institute",
+      "source_name": "The Roosevelt Institute",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVnZyQXNHZDZTZVM1Q0d6Q3FXLXltVWVDMEJhSl9lR2Y4VVBqNVpIdUhwNWlIaGx3c29nMjlxX3pncHlHQ21aMzRFTkV0M0twN2N2M2FLUXJQazB5MkJfQzNHbjRnaERDcE5VX2o0aTdkamljOURva1JUOEFXR0lRWElOTmlCOVhtXzBfOTJTcFBXa0FMeGJtWlUySzJEMnkxQUNTdjd6OW10ZlFnNGR1WWZKdmxER0JWQ19DTDd3S2o2MTBpdWVDRWZiR0QwTnlBOVdTTlRmSFl3dC03Q0wyZFpEdWMwRUloVWc?oc=5"
+    },
+    {
+      "id": "news-finance-dffe70d53d",
+      "lat": 33.67899,
+      "lng": -117.19277,
+      "title": "Ruggie on AI, private markets, and the bubble he sees coming",
+      "category": "FINANCE",
+      "time": "2026-09-01T14:23:42Z",
+      "summary": "Ruggie on AI, private markets, and the bubble he sees coming&nbsp;&nbsp;investmentnews.com",
+      "source_name": "investmentnews.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaWpCVER4YWlqZ2dVYzJjbzdFaENsRUdHWFJUaHotWUpZMnJBWEpvQ0xNRHhvQm8tTmF6bE5ibmhmTlNqUjVOaGFMY0NNRUFrUDdGQWJyZHRSWlVkV0hLcVlZSjZrQUtrWFVaa0t3b3lWaU1DcmRYcG14MHRnY2x4RHhmSjNDTWFvTlVEQ1c5ZFFTUHMySEg3MTJKRHVtVW9rY01Iaks0bWJsbUw4MHhfUWJSU1YxYVQ5?oc=5"
+    },
+    {
+      "id": "news-finance-e3d9904b29",
+      "lat": 18.19818,
+      "lng": -76.96986,
+      "title": "Copper Price Surge: Tariffs Speculators & Supply Issues",
+      "category": "FINANCE",
+      "time": "2026-09-01T14:23:29Z",
+      "summary": "Copper Price Surge: Tariffs Speculators & Supply Issues&nbsp;&nbsp;Funds Society",
+      "source_name": "Funds Society",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSE1HejJ3SkdHTnV4VElyeS1ibmZ3VmtYaUo2NE5NcWM3Q09tdnRZcVN6anFWVmdkRjRmS2tHM19qenEyRm55M1E1dmNxLWlfUjBkMXJTYkhBMjJManNPTjFBZjdJdzBIRWVnN0FpeEQ3NjdqTkRMa1VIOFRGSjBhdG9pcUY0djR5RlRYZ09iSjVoeTJ6c2hwUVlxNHVfRTd1Vm15SWlHRVVmNl9QV0JzcjJCa3pxdUJiYVpERGQ0OUJSRGlvMWFB?oc=5"
+    },
+    {
+      "id": "news-finance-75e62a3fa2",
+      "lat": 12.59187,
+      "lng": 99.903,
+      "title": "アカマイ、アナリストが投資判断を「買い」に引き上げ 株価は下落＝米国株個別(株探ニュース)",
+      "category": "FINANCE",
+      "time": "2026-09-01T14:22:00Z",
+      "summary": "アカマイ、アナリストが投資判断を「買い」に引き上げ 株価は下落＝米国株個別(株探ニュース)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaUZkWFhiXzhjdWZ4RjdTeTVRSENkY2VpTzdoSHRuUlVfUnVpZUNIUE1QWU1IaWU3OVJaeTdEZnJoYkJtMXdEMW1DV1ExMTF2US1jZDQ3Z05zVlVSMXNBOUIwbV9NN0hiSTV0UHh1Wk40UmpzSkc0UERLSUtSajVwbEdQNHZxSkU?oc=5"
     },
     {
       "id": "news-finance-91728936a0",
-      "lat": 42.14078,
-      "lng": 70.43595,
+      "lat": 42.16046,
+      "lng": 70.38015,
       "title": "Explainer: What's behind the selloff in world bond markets?",
       "category": "FINANCE",
       "time": "2026-09-01T14:14:02Z",
@@ -89,64 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN01sQ1RpX1dfMlY5bzVSbjc5RnMxb3I4RnZZQW1BZnJBM3R2S0Zkdk95dGNnWFNQOXo1Y0FqSlprVHZ5czZ5ZHdQMGtzM1FqUHpaUjV2bnBaVlYtdW9CRk9iT3hEYnFqc1VzbmFmZ3FUY2lXZnNoSFM2c0s3dGtOcXBmbnFfTUtULUk5WHhDbGY4THBfOVBZ?oc=5"
     },
     {
-      "id": "news-finance-753fa798f7",
-      "lat": 51.03957,
-      "lng": 9.9864,
-      "title": "Europe blasts Russian finance minister’s attendance at Asheville G20",
-      "category": "FINANCE",
-      "time": "2026-09-01T14:12:00Z",
-      "summary": "Europe blasts Russian finance minister’s attendance at Asheville G20&nbsp;&nbsp;The Hill",
-      "source_name": "The Hill",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaV9DdGRtQ1l5M3BRZlhjX0pBWmlMeFRhN3haalh0QjJ3SHN3eUVQbDJ6Qmk5WUZFVUg4amRMQUx4ZmROdlJDVUpvaTlaV2h0Q1VtaE9pMnpYZEhlQ0NlQXoyTHVYR3pjcndzVmU4aENCTHhpVjN5NmxkSzhDVWVuX24xbkpPTTRyYlRoMNIBkgFBVV95cUxPLW1IQWU3dWZnY2E5dHBBdVQ4eVpvVXBjTVZUN2JCWGtnd1JsYVpzQUVoUS1fdW4zcUxrU3QtM0FYM2Juend5RGFJUVRDOFZmbXh2aThVaDVwRElMRkRXZzVuRjJTMWhSc2ExX2RFQmh2TlhNQ2dWN0pRV25qbFpQQXNyMDJVVjI0OTNpOG13dHkxdw?oc=5"
-    },
-    {
-      "id": "news-finance-3fef659184",
-      "lat": 0.16425,
-      "lng": -75.87561,
-      "title": "Sept. 9 talk to discuss modeling historic flood impacts on housing markets",
-      "category": "FINANCE",
-      "time": "2026-09-01T14:11:39Z",
-      "summary": "Sept. 9 talk to discuss modeling historic flood impacts on housing markets&nbsp;&nbsp;The Pennsylvania State University",
-      "source_name": "The Pennsylvania State University",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVldPQldOWktFdkhHaHZFYkhGOGtpVG9tTFpURndwVzI1dlVrUEk2X0I3WmY2X3NQWTcxSXRucmRiTEVpd2NMYnp1Y3RVWjRrSDVweGg3TjdnQURnaElHcHRhS3BjdUJSTW9rYmNQbkc0UDBsNDRTUmVDZk91SDNGU0RFVnI4T1pNV0VEMDh2cE1EbUJ4VVhyb3A3UHpsT2U1YU00bWE3VTl2VUxIRC1UeXFLV1NQN1dT?oc=5"
-    },
-    {
-      "id": "news-finance-a871a88671",
-      "lat": 41.91523,
-      "lng": -87.60332,
-      "title": "F5’s (FFIV) Commitment to Customer Excellence in Technology",
-      "category": "FINANCE",
-      "time": "2026-09-01T14:06:44Z",
-      "summary": "F5’s (FFIV) Commitment to Customer Excellence in Technology&nbsp;&nbsp;finance.yahoo.com",
-      "source_name": "finance.yahoo.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOajU0RHRZZmN3MUl5X3l1Z1lFTUdiRDRkcEhlXzJWMlBWU0pKZkN1VUNEdGpUY0RoS2I4RkdkeWFreVhaMVNJRFN5amJvQ29lMzFwNWk1eTJJOG1Demg1Tzl1d0o0QlVHekVkTG5ybFhUWHFQWTdwbEJZZDcxMG8tWFJ6STZkN2EzM1lsY3FfSFgyVGxaRmZwNFNDZGwxSjFIRUc1VWt3?oc=5"
-    },
-    {
-      "id": "news-finance-7e929d741d",
-      "lat": 34.0459,
-      "lng": -118.43048,
-      "title": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up",
-      "category": "FINANCE",
-      "time": "2026-09-01T14:00:01Z",
-      "summary": "Waymo and Zoox expand into more U.S. markets as robotaxi race heats up&nbsp;&nbsp;CNBC",
-      "source_name": "CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkxzYW5pS042R3pQNDdGbFpDSHQ0QVhoNjNHSjNnWFVmdG9yMkIwaUZCSlNybHE5R3NfanB6eFAycC1TZ25GSXlyZmVTZXZ3ZFBCZmJBSkJ4dTlwSkZkVUhHSGVRSjdteXBoZ1lPMzY1aXVlWlE4VG90NEs5N2pJUkxMYmRpTkJXbVlNN1BwQ09BdzJ5UFphVHdMLURHVTVRVDdXbC0tQ2zSAa4BQVVfeXFMT1U3MXFxeXMxcTVHZm9sdWM5NG1PNi1GNTY2MUhRaFBpN0JiTFE2NnB2RXo2WEMwcExBQW5KUWE4Q2lyWDZYV21wYllRVHBLcVQzUzljMFpIZ3B2dFpjdFJIalRwWlFhTWlTZ3NOZi1RanhNckxBMlRJS0Z6cXJOak5lS0V1MFVUenB4eTlRRG4tNmxhR2JtZFJGdUpwUGIwZWxKcC13LTczRnVBSkV3?oc=5"
-    },
-    {
-      "id": "news-disaster-bb768f3484",
-      "lat": 28.38537,
-      "lng": 84.03468,
+      "id": "news-disaster-429282588e",
+      "lat": 28.34135,
+      "lng": 83.98825,
       "title": "Nepal flood disaster sparks concern over glacier-related events amid climate change - ABC News",
       "category": "DISASTER",
       "time": "2026-09-01T14:18:22Z",
       "summary": "Nepal flood disaster sparks concern over glacier-related events amid climate change&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
       "source_name": "Breaking News, Latest News and Videos",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3A1MlJUUTR4RzUwSUxjVjVvUzhielc3VmZ6bUtGd09BREJLYnBzME9VUkZrOUpBRmlORWd6U1BnQUd6V3FELWRIRXJOY1VxdExIbU0yMWlYeVBlYmNsS3Zpa1BrNjBFU0trRDZhc3NzdGxEbXB1UG9fd0VKRlJlNTd2ck5jSVBnNmRUYjk4SFhJWWtCclBIOXh2ZFYtZzhsUXfSAacBQVVfeXFMTU9wdmluUC03WDUwbDF3ZXM3c3R1V2JYMDh5Ni1Cb2hseFBidzBwM2p0UWZoV1Y2OUg0ODh2NHdCWE5NSTBvNDIyUDNhVzR2bFU2aHRKdFd3c1FrUFpUSGZadVh5MlpLblZ0MUItZlF1VXY0OGpZQTNZX3AycDhPVDZLWXFMSGNZZUs3VG94UTBjMzBybkktbFlVOTBlU1ZBZkJiRWZXZVE?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3A1MlJUUTR4RzUwSUxjVjVvUzhielc3VmZ6bUtGd09BREJLYnBzME9VUkZrOUpBRmlORWd6U1BnQUd6V3FELWRIRXJOY1VxdExIbU0yMWlYeVBlYmNsS3Zpa1BrNjBFU0trRDZhc3NzdGxEbXB1UG9fd0VKRlJlNTd2ck5jSVBnNmRUYjk4SFhJWWtCclBIOXh2ZFYtZzhsUXc?oc=5"
     },
     {
       "id": "news-disaster-e8c2d887e6",
-      "lat": 48.37213,
-      "lng": 5.51127,
+      "lat": 48.36073,
+      "lng": 5.47336,
       "title": "Grand Canyon flash floods leave 2 dead, at least 1 still missing, park officials say",
       "category": "DISASTER",
       "time": "2026-09-01T14:15:33Z",
@@ -156,8 +156,8 @@
     },
     {
       "id": "news-disaster-3fef659184",
-      "lat": 0.16489,
-      "lng": -75.9103,
+      "lat": 0.06796,
+      "lng": -75.892,
       "title": "Sept. 9 talk to discuss modeling historic flood impacts on housing markets",
       "category": "DISASTER",
       "time": "2026-09-01T14:11:39Z",
@@ -166,9 +166,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVldPQldOWktFdkhHaHZFYkhGOGtpVG9tTFpURndwVzI1dlVrUEk2X0I3WmY2X3NQWTcxSXRucmRiTEVpd2NMYnp1Y3RVWjRrSDVweGg3TjdnQURnaElHcHRhS3BjdUJSTW9rYmNQbkc0UDBsNDRTUmVDZk91SDNGU0RFVnI4T1pNV0VEMDh2cE1EbUJ4VVhyb3A3UHpsT2U1YU00bWE3VTl2VUxIRC1UeXFLV1NQN1dT?oc=5"
     },
     {
+      "id": "news-disaster-3d7bc69aa0",
+      "lat": 34.69245,
+      "lng": -86.49872,
+      "title": "Hikers describe flash flood in Grand Canyon that left 2 dead, 1 still missing",
+      "category": "DISASTER",
+      "time": "2026-09-01T14:08:00Z",
+      "summary": "Hikers describe flash flood in Grand Canyon that left 2 dead, 1 still missing&nbsp;&nbsp;WISN",
+      "source_name": "WISN",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVXJLbkJZdDlOdnhHNm9mZDNadkMwQkJFWlE2bmJMT2ZwVW94azZ4M293NmljeDFPQ2ZYc2htb3B6cUVTQ24yWW5ocE5NVUlTaGUtQTRUSXJiaVNjUFlBTjItUnFtZm5RY1JnTEJMYVptTWl2V2I0RHlMczhDRnVvQjlxN1Y?oc=5"
+    },
+    {
       "id": "news-disaster-5b9e2dcbe1",
-      "lat": 30.55008,
-      "lng": 80.57306,
+      "lat": 30.49968,
+      "lng": 80.53861,
       "title": "Himalayas face severe glacial flood risks in years ahead, UN official warns",
       "category": "DISASTER",
       "time": "2026-09-01T14:05:07Z",
@@ -178,8 +189,8 @@
     },
     {
       "id": "news-disaster-503ea44c1a",
-      "lat": 42.41313,
-      "lng": -71.10554,
+      "lat": 42.34862,
+      "lng": -71.08908,
       "title": "State Defense Forces & Disaster Preparedness: Enhancing State Emergency Capacity",
       "category": "DISASTER",
       "time": "2026-09-01T14:02:10Z",
@@ -188,20 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU2pFbWVvNjczcHVlYjlHQy02RzQ0Nkd6ZVMwQnV3aE5FOUMySzFCZmJiZnVLREZnT0VMZVdReERpeEJlZ2ppNUk4d0VEVVZJaVFWNEZ3Yi16dG9DQkpvV2JnSkRFZVNKSV9jT1B0V2NmczRBMnVxZFpRRmNaNlZtZElUcDUycWdMUGZ4MXhBMDNWc0gwdzFJQzdVa2pOWERIdWMxeEFrMVpIQnc?oc=5"
     },
     {
-      "id": "news-disaster-1d4b96cac8",
-      "lat": 42.71419,
-      "lng": -89.13545,
-      "title": "‘Rock and Relief’ flood benefit to be hosted in Noblesville",
-      "category": "DISASTER",
-      "time": "2026-09-01T13:49:19Z",
-      "summary": "‘Rock and Relief’ flood benefit to be hosted in Noblesville&nbsp;&nbsp;Fox 59",
-      "source_name": "Fox 59",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPanFIZHF6T0hoYi1GUnFDUTBKMmFKbHZGT1RsYUFjRU1TWjZHRnQ2ODU4OFVJY2ZMM2RZT1prRU85SW9JODd5LXdHdVNkVVE0SmRyZ0l1NTRiNUtEMDVPdU9TTEVzVXIxd0VSTUdZYWVLVDJIb2Z1N240ZW9Iek5vV2FwTFg2SkZ1NjZJTG5QbXVBdkYx0gGaAUFVX3lxTE9JSXFnMDRVd3JSOW9tVDhLTTAxWDRlZGZvSDJXb2dtcEJpYjd4SF8wSzMta3ZqNnFLTmRaQkdmUVhuc0l3X0xETV9zMFEyTGIyMGtLMlhEQkNXaWxoVkpwOE8xbExDRkhlZk1GVWRlQ0FkaTBvbmhXN2lUa2JJUzF2LWdreW9DTGtxYlowQVFiWkNiNnZqZzFYRGc?oc=5"
-    },
-    {
       "id": "news-accident-dd26ddbf75",
-      "lat": 59.48494,
-      "lng": 30.15767,
+      "lat": 59.49525,
+      "lng": 30.19087,
       "title": "Two-vehicle Crash On Route 17 In Orange County Claims Young Life",
       "category": "ACCIDENT",
       "time": "2026-09-01T14:02:33Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-84cd97308a",
-      "lat": 41.27279,
-      "lng": -3.74407,
+      "lat": 41.25473,
+      "lng": -3.76767,
       "title": "Sepulveda Sanchez Accident Lawyers Secure $2M Settlement for Carpool Lane Crash",
       "category": "ACCIDENT",
       "time": "2026-09-01T14:00:00Z",
@@ -222,19 +222,19 @@
     },
     {
       "id": "news-accident-a80da609a6",
-      "lat": 54.67353,
-      "lng": -1.74578,
+      "lat": 54.61669,
+      "lng": -1.7406,
       "title": "Man killed, passenger injured after crashing in Durham neighborhood",
       "category": "ACCIDENT",
       "time": "2026-09-01T13:52:30Z",
-      "summary": "Man killed, passenger injured after crashing in Durham neighborhood&nbsp;&nbsp;wral.com",
-      "source_name": "wral.com",
+      "summary": "Man killed, passenger injured after crashing in Durham neighborhood&nbsp;&nbsp;WRAL",
+      "source_name": "WRAL",
       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHB1VFcwenRxc2hzYm5vSkZfUXNJVGJYX3JrQzdfemQ1Ul9xTGdRT1Boa2lkZ3pQaXBTb2JPNW5wUlNsZ0cycW5oRGN1NjVHOHUwMmlqQ1pEWWEwOEVCR0x2V0hCc2ZkZERMTXVhZmd3ZnZfSklNTGhZVU1CRmVqdnZSTGpFZw?oc=5"
     },
     {
       "id": "news-accident-2edc952078",
-      "lat": 26.26144,
-      "lng": 127.67961,
+      "lat": 26.24648,
+      "lng": 127.67297,
       "title": "福井のダイビング事故、和解成立 男子生徒死亡、大津地裁 (共同通信)",
       "category": "ACCIDENT",
       "time": "2026-09-01T13:43:37Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-b64d536bdc",
-      "lat": 34.00455,
-      "lng": -118.17838,
+      "lat": 34.08908,
+      "lng": -118.24403,
       "title": "Coroner responds to crash in Anderson Co.",
       "category": "ACCIDENT",
       "time": "2026-09-01T13:31:57Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-1ad8357190",
-      "lat": 51.87586,
-      "lng": 0.13005,
+      "lat": 51.85254,
+      "lng": 0.15412,
       "title": "Injury collision in Warren County leads to road closure, chemical spill",
       "category": "ACCIDENT",
       "time": "2026-09-01T13:30:00Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-5e5457b36a",
-      "lat": 50.43269,
-      "lng": 30.56395,
+      "lat": 50.45113,
+      "lng": 30.4885,
       "title": "【インタビュー｜後編】「病気にさせない」社会へ、運動・スポーツと理学療法士に期待される役割｜鈴木大地氏 - PT-OT-ST.NET",
       "category": "DISEASE",
       "time": "2026-09-01T13:57:15Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-e9caecf11a",
-      "lat": 59.29355,
-      "lng": 18.02329,
+      "lat": 59.27815,
+      "lng": 18.07323,
       "title": "Epidemic and emerging disease alerts in the Pacific as of 01 September 2026",
       "category": "DISEASE",
       "time": "2026-09-01T12:56:08Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-7dfb3399db",
-      "lat": 26.26825,
-      "lng": 127.70778,
+      "lat": 26.27418,
+      "lng": 127.70288,
       "title": "単純性尿路感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-01T09:30:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-8cc5acc34c",
-      "lat": 26.2823,
-      "lng": 127.73295,
+      "lat": 26.24786,
+      "lng": 127.79924,
       "title": "人工関節感染症パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-01T09:00:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-8c4f7bbcd0",
-      "lat": -8.54334,
-      "lng": 118.61564,
+      "lat": -8.47214,
+      "lng": 118.5327,
       "title": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消　西舘勇陽が急きょ代役",
       "category": "DISEASE",
       "time": "2026-09-01T08:55:06Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-504a6203a4",
-      "lat": -8.51422,
-      "lng": 118.60348,
+      "lat": -8.47115,
+      "lng": 118.51057,
       "title": "【巨人】井上温大２日DeNA戦の先発回避、感染症特例で登録抹消 西舘勇陽が急きょ代役（日刊スポーツ）",
       "category": "DISEASE",
       "time": "2026-09-01T08:55:04Z",
@@ -331,20 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YeGNnN3pYbkQ2SEJ1S2VCVTlNN3cxZnl2dFE0T1FadFIyZElISktyaVB5MGJ5YmE2d2JwLXZiU0xMQjB0djh1T3U4eThJaU5IVXJPS05kX0g3d2dTcVlWM2E5ZXZMY3VpcUxDSjVkV2tEa2ladlVWVHNNRHpSOVk?oc=5"
     },
     {
-      "id": "news-technology-1378feea74",
-      "lat": -3.97083,
-      "lng": 11.28523,
-      "title": "AI Can Help You Build Faster. It Won't Make Billing Low-Risk.",
+      "id": "news-technology-e8b0ec3fe8",
+      "lat": 6.34954,
+      "lng": 2.40107,
+      "title": "Agentic AI may take humans out of the loop",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T14:21:36Z",
-      "summary": "AI Can Help You Build Faster. It Won't Make Billing Low-Risk.&nbsp;&nbsp;Advisor Perspectives",
-      "source_name": "Advisor Perspectives",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQS1UcHphajFnY0lEU2Z1cXE5aF9VZ3RuekFfc1JDSmljYUlvbmRFTmR5NjdLX19XRHV1elM0bm1weGN2Qml2eml1RE52Ui1mMUhVcU1pUW05dWJNc01fMWFwWjBzQnQtUUhfMXB2eUp3TXhsU0VRV0piNExCemFmNm1vN2U1Z2NLMkFiLTFneF9oU3NVa0VJZWJoamR2aWc?oc=5"
+      "time": "2026-09-01T14:33:36Z",
+      "summary": "Agentic AI may take humans out of the loop&nbsp;&nbsp;Managed Healthcare Executive",
+      "source_name": "Managed Healthcare Executive",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOXzl0T2RfcHA3M1QxZ0hYdFVnUUtYQnI3UEJwUXFMNmVMX2lyNkR0cEwzUnJ1dWRRdFh3UmdmT1FkOS1aenZTZUkzV3F5VkNhZjlXZmFzdzJOR01DeDc5WHk4NmFwSDlFLVZyQWtMZXk4eHp3UG13ellHQ0tJYnFJZk9FYVhuN2RGNG9qMm1udXplelBKM3ZDWV9yN2o0dHVtRFY4?oc=5"
+    },
+    {
+      "id": "news-technology-b704806172",
+      "lat": 40.57885,
+      "lng": -100.48194,
+      "title": "The FRONTIER Act Is Congress’s Best AI Bill Yet",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T14:32:11Z",
+      "summary": "The FRONTIER Act Is Congress’s Best AI Bill Yet&nbsp;&nbsp;The Foundation for American Innovation",
+      "source_name": "The Foundation for American Innovation",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlRwNHY0STl2VHBOYV9JSGxQSlBEdGhQV3lNMlFDZFNFYlFsYVdMS1NXMzhIdE50eVJxVGoyd0F1dS1nVFVOeWVPZFFNR3FudWFZd3F3T0t0YWIybVVYWVl5UFNTRnJRc21iMkhnazZzaDJDZG5QY3U1RVI3dllkVW13?oc=5"
     },
     {
       "id": "news-technology-00a9030d93",
-      "lat": 48.78331,
-      "lng": 30.18759,
+      "lat": 48.75513,
+      "lng": 30.21037,
       "title": "The Human Soul of the Fight to Control AI",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T14:16:14Z",
@@ -354,8 +365,8 @@
     },
     {
       "id": "news-technology-e09ada6890",
-      "lat": 35.62677,
-      "lng": 139.78945,
+      "lat": 35.60987,
+      "lng": 139.73705,
       "title": "AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T14:12:23Z",
@@ -365,25 +376,14 @@
     },
     {
       "id": "news-technology-24424f0bf8",
-      "lat": 56.44215,
-      "lng": 24.1369,
+      "lat": 56.49155,
+      "lng": 24.18326,
       "title": "VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T14:07:23Z",
       "summary": "VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装&nbsp;&nbsp;Publickey",
       "source_name": "Publickey",
       "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kckVKelZXMmU5aUI4VjV2V2d6cmhyeEg0Q1ZJWkY5WGR3QkNoa3ItbzlJdWpBWm1mZTNSWi1JRi1LWHBjRVBFSktJZUU5UVNWMEJuT3IwdE5MaHRrQ1hOcFJ3aG0xdVNZTlg0?oc=5"
-    },
-    {
-      "id": "news-technology-e690fb5636",
-      "lat": 47.64556,
-      "lng": 13.64543,
-      "title": "AI in Leadership: Practical Playbooks for Better Decisions and Team Collaboration",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T14:05:26Z",
-      "summary": "AI in Leadership: Practical Playbooks for Better Decisions and Team Collaboration&nbsp;&nbsp;Visual Studio Magazine",
-      "source_name": "Visual Studio Magazine",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQlNITlR6aml4TTZ6RG9UM1ZNdGItUEFGUGRpTUhidXl1TGpHdzM1dk1NZU5jOUFUUGVVbzJTdXllTHB0TmxVd3BacVJVeXFQLVhqTEU3ZWpqZC1KVjl3QVdwd3VHeUJ2amFMc1NuY25kZTlEX2dlRmdiSThFME9sOG1kOGwxT0tkcHE4bm9KOC02dnZRVllCMlVSWGhCdV9EOG53RnhQVDh5WHNvdk5LcjAtMU1wdFZobVB5ZHpkVWhRcjFQcGhTb1lBTU1fNFBKLVFtbQ?oc=5"
     }
   ],
   "vehicles": [
@@ -426,5 +426,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-01T14:25:53Z"
+  "updated_at": "2026-09-01T14:40:09Z"
 }
