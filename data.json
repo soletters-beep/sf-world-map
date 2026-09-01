@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-ac9e87718a",
+      "lat": 38.96643,
+      "lng": -77.08567,
+      "title": "Supreme Court clears way for White House ballroom construction to continue",
+      "category": "POLITICS",
+      "time": "2026-09-01T03:46:19Z",
+      "summary": "Supreme Court clears way for White House ballroom construction to continue&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVU3b25SV3d1WlRDSmUtWVVvYURpbk5DLVRoQTVoR1BlNUFzQ1BobkR3SjhvLS03WEVid3Y2OWExVkRQY2RwZ2lHSTlTSXJGUzdNMFRjWVlHajIyMnViVEt6S3pHbjI0cU5md3ZpcjlMWmlZS0IxWHNmVW0tME02T2ZiUkpIYkNmZDN6X0lINTlQbmlsRkg4ajhXajhTX2tXRVJ2ZUJIc3Jjdw?oc=5"
+    },
+    {
       "id": "news-politics-9961635c0b",
-      "lat": 22.3018,
-      "lng": 114.15422,
+      "lat": 22.31119,
+      "lng": 114.17265,
       "title": "Shein shares slide in long-awaited stock market debut",
       "category": "POLITICS",
       "time": "2026-09-01T03:11:13Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-d7c30faa7c",
-      "lat": 34.15217,
-      "lng": -118.39241,
+      "lat": 34.09697,
+      "lng": -118.37658,
       "title": "「防災の日」政府が総合防災訓練 千島・日本海溝地震など想定 | ふくしまNEWS - KFBデジタル -",
       "category": "POLITICS",
       "time": "2026-09-01T03:10:00Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-f9d746aff6",
-      "lat": 45.55648,
-      "lng": -122.54957,
+      "lat": 45.50242,
+      "lng": -122.53484,
       "title": "Bipartisan lawmakers call for restrictions on Flock cameras",
       "category": "POLITICS",
       "time": "2026-09-01T03:09:18Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-3fcff7591c",
-      "lat": 35.68929,
-      "lng": 139.62757,
+      "lat": 35.6653,
+      "lng": 139.61843,
       "title": "フラット３５、金利３・４６％、過去最高",
       "category": "POLITICS",
       "time": "2026-09-01T03:02:30Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-993949b74d",
-      "lat": 34.70011,
-      "lng": 134.95803,
+      "lat": 34.71057,
+      "lng": 134.93126,
       "title": "【中国ウオッチ】粛清機関、真夏に謎の会議◇党内引き締め強化か",
       "category": "POLITICS",
       "time": "2026-09-01T03:00:00Z",
@@ -56,20 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aRzFRR3RtRE54TWxFNk5XX1RVTG91RWhDU0MxRlNkbEQwWnFxMjFaTFlEUFpvSFpTMThBZ05NdS12NFh2TWNhN1dXR2dVMlVkalgxZTVFaW1pclp3OWc?oc=5"
     },
     {
-      "id": "news-politics-7ea9a86ca7",
-      "lat": 38.93921,
-      "lng": -76.97912,
-      "title": "Mike Johnson said he supports ‘great member’ Max Miller’s reelection bid",
-      "category": "POLITICS",
-      "time": "2026-09-01T02:37:36Z",
-      "summary": "Mike Johnson said he supports ‘great member’ Max Miller’s reelection bid&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVlFUkpKTE1VSTVoZlNhUVZlZjFPRkNFdUN3ck9FZl9JZHNiYlhudW9aaEhjUzZocE5SS1ZUcE50a0RDbzBzTEd2VkxXUDk1X3ZQZlEwaDJaaWNwRHdmNG05NFZhQ2lnaVlqNGw2YzAwRXMyaDdURVBleXlEM0NrNzRaODJFUGpVay1jWmtfMjlyMW5vUjdKTUJKYmsyektLTWY4Q0JucW02UE01aDdQME5fSzVqVGkxWmlybmx3?oc=5"
+      "id": "news-finance-d2e55dfb51",
+      "lat": 43.04262,
+      "lng": -89.32869,
+      "title": "Madison Finance Committee rejects $28,500 request for independent police monitor",
+      "category": "FINANCE",
+      "time": "2026-09-01T03:40:00Z",
+      "summary": "Madison Finance Committee rejects $28,500 request for independent police monitor&nbsp;&nbsp;WKOW",
+      "source_name": "WKOW",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTlNlVnBtZDI2SlNxVXBiOFV0MEcxUjd5REEtdDc4SzB5dm93cVFna3BHbVRqVkQ3dVNIU195T1gwbUYzZEpuWThqS21YRk0xRm5mUlJoMEhCS19qUDdDWGJsUFhsWGJremRSb1l3SVp2cjU4RmdzSUI0WExjM1NBWGkzcHgzN1RhVHlKUmthdGh0X2h1cEJicWVIelJKZlRVT1pNVDFJSHFGNmpYNjNCWjNMRE9zT3ZCempJakRiZzlEUUw2amRvZnpscnN4dHRZcllEOVAxSkpSU3JESEpJOVBMQWNBMWQxQ2k4V2VFT0dYZXVCaVpfLTNBWQ?oc=5"
     },
     {
       "id": "news-finance-197f51cc03",
-      "lat": 25.15228,
-      "lng": 55.23633,
+      "lat": 25.15187,
+      "lng": 55.21488,
       "title": "９月１日後場寄り付きの日経平均株価＝１７７円９２銭安の６万６１３４円０１銭(ウエルスアドバイザー)",
       "category": "FINANCE",
       "time": "2026-09-01T03:34:14Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-4496422f08",
-      "lat": 35.72307,
-      "lng": 139.78956,
+      "lat": 35.66495,
+      "lng": 139.8149,
       "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る",
       "category": "FINANCE",
       "time": "2026-09-01T03:31:00Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-31f1a0240f",
-      "lat": 35.66,
-      "lng": 139.79714,
+      "lat": 35.65897,
+      "lng": 139.75761,
       "title": "東京為替：ドル・円はもみ合い、方向感を欠く展開(フィスコ)",
       "category": "FINANCE",
       "time": "2026-09-01T03:23:00Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-3eee360a1c",
-      "lat": 31.30341,
-      "lng": 77.56847,
+      "lat": 31.29091,
+      "lng": 77.55801,
       "title": "Panel - Global Capital Markets Advisory Council Roundtable (Invite only)",
       "category": "FINANCE",
       "time": "2026-09-01T03:22:18Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-0e943896cd",
-      "lat": 31.40956,
-      "lng": 77.52763,
+      "lat": 31.33011,
+      "lng": 77.5975,
       "title": "Panel - The New Credit Landscape: Private Credit, Asset-Based Finance, and the Refinancing Cycle",
       "category": "FINANCE",
       "time": "2026-09-01T03:21:38Z",
@@ -122,31 +133,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3czTXIxTlVXZHBzRmR3Sk5uSlAxaDBjcXBZdUpiek5jUS1qcTR1Mlh6YVZIZUhLb3VzbkhZOFhPMVRrdGdyUXlneUpNU0VTOFJMUG9ROGdpNVZ0WmU5R2hRcUgwQXlybXhJQUJsN3I4djBzVXBHLXBPUXFVVGF4YmFrQjlfRGI2MEpDUDNSRXpiaGQ3eVR5YUFoZ1NfMTNELVliTVRvaVI3Q0dxYXczekZyS0pZeDYyOTR6NnhCVlA0d1BjQk1VNTln?oc=5"
     },
     {
-      "id": "news-finance-9961635c0b",
-      "lat": 22.27269,
-      "lng": 114.12575,
-      "title": "Shein shares slide in long-awaited stock market debut",
-      "category": "FINANCE",
-      "time": "2026-09-01T03:11:13Z",
-      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss"
+      "id": "news-disaster-b5d6580a60",
+      "lat": 34.49733,
+      "lng": 108.95757,
+      "title": "China-Nepal flood: Family travels to search for Poonam Thakkar, Bartlett missing woman, after devastating flash flooding",
+      "category": "DISASTER",
+      "time": "2026-09-01T03:44:28Z",
+      "summary": "China-Nepal flood: Family travels to search for Poonam Thakkar, Bartlett missing woman, after devastating flash flooding&nbsp;&nbsp;ABC7 Chicago",
+      "source_name": "ABC7 Chicago",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOTNGenpNWjRLMUhJbG9XRWdTeklkNnpvNFhOU3QwTU9DOWExcU1uSzlLa2pvMktQdmg3WFBnajRrVWM2SVF3QXV5NFQwY05USG5zeHNzMlNCQlJfRkhteE4xSmNJamdySjNYRklfVXdQSVlXUVdNemMzZXo0SDFLeVVSWUF0ZktXT2JyWno1cmFNQXRWelJKQmtPaFRuX0Z4YzJ0ZG1icVc4bnlLaUtrQi1HVzNxVmNSN0lBa3d3SHR5TEhRdVVSOUpzclp1RW42ZTNiYVI1VGZfcUHSAeABQVVfeXFMTll0ZTVfMDBQZGVLMTNRdUIwUUVJWUdnZUVSenRJaDdXcWdyUG5RcVFUaHdEdmd2T2Zub1p1WnpEdWFWN29OQk1GNVZwYWtpZVlod3FjQVJrcHhhRHNNT2JPNDdJN1duVzJHbTJnM1FtYVJNTFhIc01EaHJuRXRYNS1nZzJobWJoZ2ZZZ2pQMDhUeU1URmJqYkZ1cndhWWhPdV9LYmYxLWszbThpRjhscEw0RkVwdmNzN0hPZk0yZlR4STVVV25wcy1CWWN0RFVLUlYxemNTZndlQjdJZ2JEcEc?oc=5"
     },
     {
-      "id": "news-disaster-89dd26fe5f",
-      "lat": 48.35741,
-      "lng": 5.52055,
-      "title": "Grand Canyon flash flood kills 2, leaves 1 missing: What we know",
+      "id": "news-disaster-75072c7201",
+      "lat": 34.64524,
+      "lng": 135.44927,
+      "title": "南海トラフ巨大地震を想定し緊急速報メールを一斉送信 「大阪８８０万人訓練」 初動対応を吉村知事が視察",
       "category": "DISASTER",
-      "time": "2026-09-01T03:21:00Z",
-      "summary": "Grand Canyon flash flood kills 2, leaves 1 missing: What we know&nbsp;&nbsp;WOWT",
-      "source_name": "WOWT",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWkzUFNBVW9kTndRWlhFcm8zdi1FaDNfNXZiRlZBcmxBTVpvNlNwSGxzNzhzRWZvU1AtU3VVXzh4REFScWJfUlRia19uc25GRzFXQkdDckFvalZmX2pBckd1T1dneFYyNC1waFFuSV9NUWx4QnRLNko4YVlNY2dqektwa1NwZU1vUllsRW0ycEcxdkM3c1VmYlhOUXZxRjdtdGhj?oc=5"
+      "time": "2026-09-01T03:35:36Z",
+      "summary": "南海トラフ巨大地震を想定し緊急速報メールを一斉送信 「大阪８８０万人訓練」 初動対応を吉村知事が視察&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxQ2MxQ1E2cVdoLTZ0UU1DemFMSU1YZUdMQV9pMEVwMDI3eEgyZUpEMXBjektyMkgxQUtQTTduU1JxQ2dfZGZxcXB3akNXUFgxamhtbFg5LTFkaHNsRGRUWmNSbi11WXJrUElUZjZ2dWo4MWxyTlRQQ1QwQ2hBb0k?oc=5"
+    },
+    {
+      "id": "news-disaster-e23cf43631",
+      "lat": 31.60246,
+      "lng": 130.49973,
+      "title": "【台風24号】鹿児島県全域が強風域へ 気象予報士解説 [雨風シュミレーション・波シュミレーション]（MBC南日本放送）",
+      "category": "DISASTER",
+      "time": "2026-09-01T03:32:15Z",
+      "summary": "【台風24号】鹿児島県全域が強風域へ 気象予報士解説 [雨風シュミレーション・波シュミレーション]（MBC南日本放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Iam1fQ0F6eVRKUWpmbUVGNlZCWmdWdEZvYjhUdHJmUVNrZTZMSnJiVmNMY0wya2NDZjA3RVhnSkxmeW43SEc4N09GclZ1WTF0T285RzMweUw3ZXFfV2k5WmE0SFNacVRyU3BHUjM3c01PV0VMbWZNSC1tcjN1Unc?oc=5"
+    },
+    {
+      "id": "news-disaster-9766e45dcf",
+      "lat": 51.57508,
+      "lng": -0.11661,
+      "title": "City launches free disaster preparedness program for Oahu businesses",
+      "category": "DISASTER",
+      "time": "2026-09-01T03:30:00Z",
+      "summary": "City launches free disaster preparedness program for Oahu businesses&nbsp;&nbsp;Hawaii News Now",
+      "source_name": "Hawaii News Now",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTl6amRpcTZPeV9MSzNpaDVnaXF5NE1SU0RZNlpKRkNnRlRCdWo4eDI1OWxLd0VWQ1JWaDBTcTFiNk1hMEpycXBQakZDYWp6SXNJQTZUd2NwNFlmLUYwVUFfR3l4WFlwYjFMUWdkMFhNb2xDNlltSk04ZFVTR3ZReDl2ZUF3LXFQaVRUTTY0S09KWndKLU83WndmT3VNejVRZ1dua0RKU0dxUdIBvgFBVV95cUxQT2E1d1lsbndlYlFmVDVqZ0VFWWtWMWtWMTBpSHN6QXprRWlQZ2cwTE4zbUJWRkhqTVpVQTN1ZG1fdmtLU2RDbldpeXJfd3QwWVRCSm9BQ1hONWNFdUdQMThMX2lmR180NEh4Q2VrcHdMRGtTZzRGc1BPamVCY0V2UEFFZVpLWUtFeFpNa0hvNkQzWnFzdzVuOFRPUUlZRE51Nk1iMU5SeWh1eGJLVDRfS1BWRjFrU3ZLUDdyMkRn?oc=5"
     },
     {
       "id": "news-disaster-eda0718fb3",
-      "lat": 34.86153,
-      "lng": 135.69767,
+      "lat": 34.86083,
+      "lng": 135.73682,
       "title": "千葉豪雨で死亡事故のアンダーパス 今後は「レベル4大雨危険警報」で通行止めへ 全国初",
       "category": "DISASTER",
       "time": "2026-09-01T03:10:32Z",
@@ -156,8 +189,8 @@
     },
     {
       "id": "news-disaster-49a8dac70d",
-      "lat": 35.62242,
-      "lng": 139.77236,
+      "lat": 35.67633,
+      "lng": 139.74064,
       "title": "台風24号 55年ぶりの早さで発生 西日本付近で迷走し秋雨前線の大雨が長引く恐れ（テレビ朝日系（ANN））",
       "category": "DISASTER",
       "time": "2026-09-01T03:03:16Z",
@@ -166,42 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FaVNrdURpSXNKWDQzdzdTMmd4ODdoT0ZvdWdFdElsUXRrZlZ5aEI1X3lHeV8xUmhDZ2oyb01nMUhGeURsdWFNaG9iTUt3ZlZKUEpUSnBOVWFveVRGSDVjN1pnX0p5ckJrOE00bnVUSXNoLTVhNk1NLU5xdWt5Tjg?oc=5"
     },
     {
-      "id": "news-disaster-8a290636ac",
-      "lat": 34.61982,
-      "lng": 135.49206,
-      "title": "地震が起きたとき、家に居るとは限らない。自然災害時、防災グッズに頼れない外出先で効く、スマホの無料「耳防災」",
-      "category": "DISASTER",
-      "time": "2026-09-01T03:00:02Z",
-      "summary": "地震が起きたとき、家に居るとは限らない。自然災害時、防災グッズに頼れない外出先で効く、スマホの無料「耳防災」&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50Y0NLcjZjd2Z4bzBkOEZlOS03bXpua0xFcVIxb0lHZHJhSjdLYlVNUmQ3NF95bXdQLTNJajFUNTVHTHFfWWFrMVgtYWtOS3ZRbGh6dmtaZGdCcGhic2lFNmQyZ2NYWjlLMnc?oc=5"
-    },
-    {
-      "id": "news-disaster-d48ac0e0f9",
-      "lat": 35.04028,
-      "lng": 135.78218,
-      "title": "【速報】【台風24号】近畿地方、広範囲で「レベル4土砂災害危険警報」可能性 長時間の強い雨恐れ",
-      "category": "DISASTER",
-      "time": "2026-09-01T02:58:00Z",
-      "summary": "【速報】【台風24号】近畿地方、広範囲で「レベル4土砂災害危険警報」可能性 長時間の強い雨恐れ&nbsp;&nbsp;京都新聞デジタル",
-      "source_name": "京都新聞デジタル",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oZjNUOC04eHhGclo3aDlLVjJUQzl1WG1HdXBheHRtaWVQR2FlY3RsaEhLMUFVeHZva09BaXpCSWozd3kxb0JkaUs5bXBwRW5kNzdoLVV5LXI?oc=5"
-    },
-    {
-      "id": "news-disaster-af87d5b673",
-      "lat": 18.3122,
-      "lng": -73.89629,
-      "title": "South Korea to send 44-member disaster relief team to Nepal after floods",
-      "category": "DISASTER",
-      "time": "2026-09-01T02:56:06Z",
-      "summary": "South Korea to send 44-member disaster relief team to Nepal after floods&nbsp;&nbsp;The Mighty 790 KFGO",
-      "source_name": "The Mighty 790 KFGO",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcDJPMnlaeTZJYVpYY0o1NHNfY19kSTZMRzZjN1dtd3p5NGRESmpXWE40aUE3LVdaUDBkTFZfNGoyYmo4T1lwVnlwOWRpUjljdEZETHA5aGduSkY0T1BuUTMwekxjUFo3TGRwRkM0OTg5Y2c1Z1dmUWltNHQ1OWV0MWNXTE1HeUIxODRR?oc=5"
-    },
-    {
       "id": "news-accident-09f872600d",
-      "lat": 36.70251,
-      "lng": 138.19832,
+      "lat": 36.61123,
+      "lng": 138.2354,
       "title": "「酒を飲んで運転したことは間違いない」松本市職員の46歳男を現行犯逮捕 運転中に単独事故、呼気から基準を超えるアルコールが検出 酒酔い運転の疑い（NBS長野放送）",
       "category": "ACCIDENT",
       "time": "2026-09-01T03:23:01Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-eda0718fb3",
-      "lat": 34.92348,
-      "lng": 135.78339,
+      "lat": 34.82169,
+      "lng": 135.71643,
       "title": "千葉豪雨で死亡事故のアンダーパス 今後は「レベル4大雨危険警報」で通行止めへ 全国初",
       "category": "ACCIDENT",
       "time": "2026-09-01T03:10:32Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-433813298c",
-      "lat": 36.70883,
-      "lng": 138.20407,
+      "lat": 36.67191,
+      "lng": 138.19744,
       "title": "酒に酔った状態で車を運転し単独事故 酒酔い運転の疑いで松本市職員の46歳男を現行犯逮捕 呼気1リットル当たり0.5ミリグラム以上のアルコール検出 容疑認める【長野】",
       "category": "ACCIDENT",
       "time": "2026-09-01T03:03:00Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-a6cf222a7a",
-      "lat": 35.652,
-      "lng": 139.80424,
+      "lat": 35.60118,
+      "lng": 139.78834,
       "title": "駐車場ではねられ40代女性が死亡 運転手の70代女を過失運転致傷で逮捕 福井市江端町（福井テレビ）",
       "category": "ACCIDENT",
       "time": "2026-09-01T02:44:01Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-214e30b7e4",
-      "lat": 49.27342,
-      "lng": -122.90967,
+      "lat": 49.21492,
+      "lng": -122.88005,
       "title": "Transmountain shut down after crash; one person suffering life-threatening injuries",
       "category": "ACCIDENT",
       "time": "2026-09-01T02:41:46Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-7af3b0af79",
-      "lat": 40.9954,
-      "lng": 28.94845,
+      "lat": 40.95575,
+      "lng": 28.92458,
       "title": "52歳女優、船宿の知人の交通事故被害にショック「１日も早く回復を」運転手は逮捕（日刊スポーツ）",
       "category": "ACCIDENT",
       "time": "2026-09-01T02:40:47Z",
@@ -265,9 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GU1liTWhXRk9JbEJSUTRsM0ZibHRQVnBkR09ZNFBYWlVrVnp5Vy1neUxmM3l2QTRLRzN1aWlza2NTeWRKdUNnSHRybTd1OWxPVmVqOFBDREVKazRHc2VQZkl4Y242QVhuQVZCTDg5cUV0U0xETlBBZW8zN0VsQzg?oc=5"
     },
     {
+      "id": "news-disease-ef434946f0",
+      "lat": 21.06119,
+      "lng": 105.84608,
+      "title": "学生たちが学校に戻る時期が近づくにつれ、ハノイ市は新学期を前に新型コロナウイルス感染症の予防措置を強化している。",
+      "category": "DISEASE",
+      "time": "2026-09-01T03:43:31Z",
+      "summary": "学生たちが学校に戻る時期が近づくにつれ、ハノイ市は新学期を前に新型コロナウイルス感染症の予防措置を強化している。&nbsp;&nbsp;Vietnam.vn",
+      "source_name": "Vietnam.vn",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd2N0eExBRDdLdWVJYloxQUYzZXkyNHJsZ1kwbkFVNFFDQmc4bGNSUU1hRmxyUFZXRmFEMjF6bFFZTllTUUxDV093cnJURUt4VXBQTUdCQ3Q1VWYyMTRsUWhDUVo2VVNET3M0dnh2YnlhbXhoSDZLUExHQUlrNFZtNHFTclJjYl85V21VZUl3Sl94UGI5cm1RTWhR?oc=5"
+    },
+    {
       "id": "news-disease-8bc5939578",
-      "lat": 52.29799,
-      "lng": 0.04408,
+      "lat": 52.33507,
+      "lng": -0.01998,
       "title": "\"Over 6,000 Infected, Half Dead\"... DR Congo on Alert Amid 'Worst-Ever Ebola Outbreak'",
       "category": "DISEASE",
       "time": "2026-08-31T23:23:27Z",
@@ -277,19 +288,19 @@
     },
     {
       "id": "news-disease-0617c7dbbc",
-      "lat": 35.7421,
-      "lng": 139.55001,
-      "title": "「行きたい！」を諦めない社会へ TDLから外出支援広がれ 前橋のボランティア団体・つむぎ 障害や病気のある人らと11月訪問 - tokyo-np.co.jp",
+      "lat": 35.72075,
+      "lng": 139.77954,
+      "title": "「行きたい！」を諦めない社会へ TDLから外出支援広がれ 前橋のボランティア団体・つむぎ 障害や病気のある人らと11月訪問",
       "category": "DISEASE",
       "time": "2026-08-31T23:10:32Z",
-      "summary": "「行きたい！」を諦めない社会へ TDLから外出支援広がれ 前橋のボランティア団体・つむぎ 障害や病気のある人らと11月訪問&nbsp;&nbsp;tokyo-np.co.jp",
-      "source_name": "Google News (日本語)",
+      "summary": "「行きたい！」を諦めない社会へ TDLから外出支援広がれ 前橋のボランティア団体・つむぎ 障害や病気のある人らと11月訪問&nbsp;&nbsp;東京新聞",
+      "source_name": "東京新聞",
       "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tOFpJcUYzMERHc3RDdkdZcGR4U0JVX1h2aFM1enU2R1E3WGJoYTV4a19ybzB0MGx0UXV0MllkTVdhQ3hiZmxjdWhlWmcteV9IdS1r?oc=5"
     },
     {
       "id": "news-disease-7d08afa4aa",
-      "lat": 4.97282,
-      "lng": 5.6928,
+      "lat": 5.03176,
+      "lng": 5.61183,
       "title": "【千葉・殺人豪雨】災害ゴミが路上大量放置で「悪臭＆感染症の二次被害」危機（FRIDAY）",
       "category": "DISEASE",
       "time": "2026-08-31T23:00:44Z",
@@ -299,8 +310,8 @@
     },
     {
       "id": "news-disease-fb3f348f15",
-      "lat": 58.09097,
-      "lng": 7.94274,
+      "lat": 58.17222,
+      "lng": 7.97776,
       "title": "Grim milestone as Ebola outbreak continues to grow",
       "category": "DISEASE",
       "time": "2026-08-31T22:49:50Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-093b143f51",
-      "lat": 48.37025,
-      "lng": 3.3085,
+      "lat": 48.43986,
+      "lng": 3.28924,
       "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
       "category": "DISEASE",
       "time": "2026-08-31T21:51:13Z",
@@ -320,31 +331,42 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-disease-742b219ffc",
-      "lat": -8.36749,
-      "lng": 115.6047,
-      "title": "住民のデータをもとに病気リスク解析 養老町と大学が共同研究",
-      "category": "DISEASE",
-      "time": "2026-08-31T21:26:00Z",
-      "summary": "住民のデータをもとに病気リスク解析 養老町と大学が共同研究&nbsp;&nbsp;news.web.nhk",
-      "source_name": "news.web.nhk",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Jbld2cVRoSTlkbi1sbFBTdGQwWm82UFFGeXN0RnVRZ0ZHODctZ3ZFY2xMVHpoSDRIamJVSjNaU0s5RGFmeTliVE9mWG50N2RlLVFrLWMzZmo?oc=5"
+      "id": "news-technology-b3816dac7e",
+      "lat": 35.69818,
+      "lng": 139.82672,
+      "title": "Question of Diplomacy: Board game helps us determine limits of AI",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T03:45:00Z",
+      "summary": "Question of Diplomacy: Board game helps us determine limits of AI&nbsp;&nbsp;The Journal Gazette",
+      "source_name": "The Journal Gazette",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbTNiTWRRNmZsVllGQll6RnBZV0RBWWxmQkQ5RGpkRkhZV2JoNkJvV1NvbHNIY0lENmV3RzdHTkhsQWg3b0g0dEVTTGlyWnVmNl9CT0V5a0hrVGtvdmlKYmtXLXRWdUloWnJ6YUZnc0ZJdElTcVVPVTBraDBkTVJJTnlULUZiTXpqYXA1a1ROVVNCRmlFYl9HeDlJaUlvOE9vX3J2Uk5LNVVPLTNKcnJKZ21NSmZUN2ZnekEtYkk3eko1WVBxYjhLSDBhT1RTX2p6cWZVWWZSazZiTlJfQzlfMS1YVFRxeERIdkE5RWtleXNXRWt4NzBN?oc=5"
     },
     {
-      "id": "news-technology-13afe759d2",
-      "lat": 43.03574,
-      "lng": 141.42442,
-      "title": "「デジタル規制」先行企業のプロジェクト体制から学ぶデジタル法規制対応",
+      "id": "news-technology-e3557e0dce",
+      "lat": 48.30938,
+      "lng": 11.87684,
+      "title": "テンセント、オープンウェイトAI新版「Hy4 preview」公開──総パラメータ7700億の旗艦モデル",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T03:34:20Z",
-      "summary": "「デジタル規制」先行企業のプロジェクト体制から学ぶデジタル法規制対応&nbsp;&nbsp;PwC",
-      "source_name": "PwC",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFVOaDZsSUVPaEdXRkpZWTlvOTVjUHF6aHozakx5bFZteG9MUXY5ZTN4aHNYRnZVXzE0UVpVRDJqVmE1NG5vWDVnZTg2US1nanRlcklmSXBXRzRVNmhQczlXWmxoSXFFTWN1OWdaNEhtdExJbEJqODIxQ3dMTVRyR1dsUDgzOTJFb0E?oc=5"
+      "time": "2026-09-01T03:43:00Z",
+      "summary": "テンセント、オープンウェイトAI新版「Hy4 preview」公開──総パラメータ7700億の旗艦モデル&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JcEpOckhJV181WmZPWUZ3cE5TX09zd01wNjZJaFJrd2NJZWtWRVFYR0RoZ0IzaDdoOXNld2hWNWd2MWhPQUZYVVRQTV9Td1hFeUJSajRIRF9ZaGZ5QWRDcl9XZXB1dUpGRldMWHFPNXI5OFU5bDFuSFM1TTlzX1U?oc=5"
+    },
+    {
+      "id": "news-technology-2fe11b105a",
+      "lat": 35.58048,
+      "lng": 139.49474,
+      "title": "シーズン４ ９月ラインナップ - リリース情報 - 眠れぬ夜は AIさんと",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-01T03:35:31Z",
+      "summary": "シーズン４ ９月ラインナップ - リリース情報 - 眠れぬ夜は AIさんと&nbsp;&nbsp;NHK",
+      "source_name": "NHK",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nSGRIR1o2Z1htejJ2SjhVeVBtOXlCWkFCSFFweGFCMi1ES21RdGYxWDgxajJPUnVhdHlBS3cxajc5eGRiU3l3czFJTFFvMTJXRTQ0SkRPUGo4Q2ZTcTFLQ3lCQTFURFVDVmpWMlVyUkx2TGtHRUUw?oc=5"
     },
     {
       "id": "news-technology-34d0f873c1",
-      "lat": 35.71554,
-      "lng": 139.30609,
+      "lat": 35.70715,
+      "lng": 139.41371,
       "title": "情報戦略テクノロジー－底堅い 社長直轄の新組織「AICT部」を設置(トレーダーズ・ウェブ)",
       "category": "TECHNOLOGY",
       "time": "2026-09-01T03:34:00Z",
@@ -353,48 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3FoSlhDcVpwdzlfN3oxblF2aEg3c0NWYzl4bG9lVDNQcE9YbWlLdlNEWG0xNHhJZ0Z0MGs1Tjl5TnNScmJkTllzNklqbUJId0Y5b2l6N0kwdThPcnNQQjRHYzNMeVZ1ZzRmYm8xYTcxMm5hbmFLVEtjYmpsVkJkRFF2MFpFTVE?oc=5"
     },
     {
-      "id": "news-technology-b8e0cb25f7",
-      "lat": 31.31637,
-      "lng": 77.5272,
-      "title": "Panel - AI Investors’ Forum | Beyond Frontier Models: Turning AI Breakthroughs into Real Value (Invite only)",
+      "id": "news-technology-13afe759d2",
+      "lat": 43.0887,
+      "lng": 141.38956,
+      "title": "「デジタル規制」先行企業のプロジェクト体制から学ぶデジタル法規制対応",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T03:24:02Z",
-      "summary": "Panel - AI Investors’ Forum | Beyond Frontier Models: Turning AI Breakthroughs into Real Value (Invite only)&nbsp;&nbsp;Milken Institute",
-      "source_name": "Milken Institute",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVnprSlVFOUVxX0xSMFh5TkM1WUR0WVJSdEh1WkFIdjFvQWYyU2F3dlJteWRWMGRfdzgxd1ZrRVV5NWotWENhR2gzQlVZVzdHNHZCZkpuZ2dYQnFrMVN6SVZLQkkyd2xDa1BsMDRLWDZuNjVhLS1RRnZpcFI0X0RRd3pWQzdhbGZnem9xeUhLRzl6UHFKa2ZxYkk1dXhIRlZpUGhXSFhQSm5TYVBHVHgxQXJtSDNmQ1hEN3Zfa3YzanpUZ0FTdDhmMF84S0VXLVVzb1lkaF90SVVWZw?oc=5"
+      "time": "2026-09-01T03:33:08Z",
+      "summary": "「デジタル規制」先行企業のプロジェクト体制から学ぶデジタル法規制対応&nbsp;&nbsp;PwC",
+      "source_name": "PwC",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFVOaDZsSUVPaEdXRkpZWTlvOTVjUHF6aHozakx5bFZteG9MUXY5ZTN4aHNYRnZVXzE0UVpVRDJqVmE1NG5vWDVnZTg2US1nanRlcklmSXBXRzRVNmhQczlXWmxoSXFFTWN1OWdaNEhtdExJbEJqODIxQ3dMTVRyR1dsUDgzOTJFb0E?oc=5"
     },
     {
-      "id": "news-technology-24bb89b0b5",
-      "lat": 30.01268,
-      "lng": 31.51844,
-      "title": "AI Investors’ Forum | The Enterprise AI Opportunity: Scaling Intelligence Across Regulated, Diversified Businesses",
+      "id": "news-technology-1fbac60000",
+      "lat": 27.49651,
+      "lng": -99.5396,
+      "title": "AI-generated ‘Cat in the Hat’ posts prompt police response in Laredo",
       "category": "TECHNOLOGY",
-      "time": "2026-09-01T03:24:01Z",
-      "summary": "AI Investors’ Forum | The Enterprise AI Opportunity: Scaling Intelligence Across Regulated, Diversified Businesses&nbsp;&nbsp;Milken Institute",
-      "source_name": "Milken Institute",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMHBYb0hOR0JnYzRHcmZiTUhKRUtUckJFWURrcEZWZkt5NmRSR2N4R2dMdHNvdEg3Y2tvY0VVV3FuVlRYaG45R1ludzVNUGpReEFrRnVGVmlJY21mZ3N3Q09zc0VZSVpjUV9QeWNWZXNXMFhVcXBsWjFNaHJCQm9iRmY2M3BzMWk3aFlGY3Z2SV9vc0xVZUhEaTJTRDFwWFFXRUZXQnlLZGd4aGlqOEV1RmFLOVg1UmZRVlEzUFhZUHdRWFRXaExvUmlNUU1aY2Y5UTloMm8zcXptRGpWN21uMQ?oc=5"
-    },
-    {
-      "id": "news-technology-c7a4779cb5",
-      "lat": -15.89466,
-      "lng": 35.41584,
-      "title": "John Ternus to lead Apple into the age of AI",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T03:22:30Z",
-      "summary": "John Ternus to lead Apple into the age of AI&nbsp;&nbsp;Al Jazeera",
-      "source_name": "Al Jazeera",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFJXbVlMMGdzcl9FRUhKTloxbDJ3X3N5V3MwV0JlV0lCQTV3THhBdWQzb0JSWG5neTFVY2NlVlNmM0YwX0tiMVRVdzYxdzNpeG9yWGp6alRJZmdVcmNaS2IzYkZYRjdiOWgwNVBOZHZqUC11V0Vyb3IyTlhlSkZPNUVMWFJXOWt5MXktcl9LUHbSAZYBQVVfeXFMUHNER09BS20zb0IyMUowSm1hd0tlcFB3NEZFenNSYTdiLVlyclVsTEU5R2haMnZlY25GaDg1YkZqc3EwWm51ZXFNelVPNE5sUDVWci1HUHhBb0daUzJtMl91Nkt1WWs2OGdVMG1WRDMwQVAtMnc5Qms2emd3TEpPUDQ3ZjFLMEE1UFhGSFViWkpJVFpJZHhR?oc=5"
-    },
-    {
-      "id": "news-technology-b0010ea1ac",
-      "lat": 31.38923,
-      "lng": 77.58588,
-      "title": "Panel - Infrastructure Powering Intelligence: What It Takes to Make AI Run",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-01T03:22:16Z",
-      "summary": "Panel - Infrastructure Powering Intelligence: What It Takes to Make AI Run&nbsp;&nbsp;Milken Institute",
-      "source_name": "Milken Institute",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm5tb1JneHoyQjMzVm9ydlRZcGRiV0JIdU11YVdzdVMxb1MzTzMwNktqczItS29jQXlnZG9nc1ZhZ29HVG5EbHl5amVRM29XaVlTeDRxV09DcGZhSE8wYlhUYWJ1QUtkcHhqdXRfOE94V1BEdTBXeFNtM09hT3Fsak9CaVZwYjRndGlTdUZlVElNUFYxU1oyWV9YQWJXb3FmUEpxR25tdmlodGpFRFVBc2I2VTVhUQ?oc=5"
+      "time": "2026-09-01T03:29:00Z",
+      "summary": "AI-generated ‘Cat in the Hat’ posts prompt police response in Laredo&nbsp;&nbsp;KGNS",
+      "source_name": "KGNS",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjBwLURiSWVURGJqN1FKVzNxb3NmaTE1MTNEOHd2RklaZ2kxdFpINTFCRnJ0Q2ZfYWVGbnNlcWJkOUJUT3dHMzVmR1Y4NVBKZy05UUpqejZXczE2Mk4yNVNuazA5UHlhTk01a0o0akNoU2FiQ08wWEJGWXNISjRBN21mdDNBeUpMalFNbVQycnRCRGxPRVV3RGd3?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-01T03:38:35Z"
+  "updated_at": "2026-09-01T03:51:27Z"
 }
