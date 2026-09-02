@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-dea0b6a954",
+      "lat": 33.11292,
+      "lng": -89.02241,
+      "title": "Winston Mayor sends letter to Congress members asking about mail delivery issues",
+      "category": "POLITICS",
+      "time": "2026-09-02T21:26:00Z",
+      "summary": "Winston Mayor sends letter to Congress members asking about mail delivery issues&nbsp;&nbsp;NPR for Oregonians",
+      "source_name": "NPR for Oregonians",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbnkwV0pCMXJ5ZUdJd0R0QnpmUko4cEMwdzNIcjBSbmtabGJfVVQxV1VyeWRsOWF4SUs2UTc2cE9sVG1qZG1yUFd4a0xiYXBsai1xa1hENTBIR29weGFIT0pqY1o1bFRycEx2b25JX0VmWU9raEhjZEk2eFVHWXFRdHdibGhsX19kNTRLOTJxel9JXzVRdFQwSnNkdno3eThOeDRYSGNfNXgwVkNWU2x4Slh6NWhodGZ5NkdCUTNxVHVjX0luZ3dkTGR1ZXA?oc=5"
+    },
+    {
       "id": "news-politics-c05a30809c",
-      "lat": 18.27528,
-      "lng": -73.82933,
+      "lat": 18.2838,
+      "lng": -73.82073,
       "title": "South African airline behind daring stadium stunt cancels next flyby",
       "category": "POLITICS",
       "time": "2026-09-02T21:21:08Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-e80dcc4dce",
-      "lat": 32.71888,
-      "lng": -96.79283,
+      "lat": 32.74027,
+      "lng": -96.75825,
       "title": "Dallas County Elections Department hosts Volunteer Deputy Registrar Class at SMU",
       "category": "POLITICS",
       "time": "2026-09-02T21:20:30Z",
@@ -23,20 +34,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNkJsbWZ4SlFERERSSW9wRExra1RkR1dsTmN1LS1LTk8wY1dGcFB4cEw1amNmRTIzREg1TlhlYVlyQkNKZ29kVUhNQ2h1SFowTDJ1ekx3aGlpX29IbWhZTUdJNzdZeE5hWkc5Nm1pSDVmS0dmSGhLMGpDb1p0UHcxYnAwT0ZDdTVkWWlQYy1KamlTSU5lOWZRWUFvc2Y1czJZNEZmNVN4c3ZDa3pNelFLMVRzMFdXOU5XX0Jad185YzdCa0U?oc=5"
     },
     {
-      "id": "news-politics-9269032cc6",
-      "lat": 52.19936,
-      "lng": 1.05586,
-      "title": "Suffolk seeks to move millions for killed Ronkonkoma convention center to other big-ticket projects",
-      "category": "POLITICS",
-      "time": "2026-09-02T21:15:54Z",
-      "summary": "Suffolk seeks to move millions for killed Ronkonkoma convention center to other big-ticket projects&nbsp;&nbsp;Newsday",
-      "source_name": "Newsday",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMXZXVURGMzV3X2tmR2VpbkVCbFRKX21TaUtpU09iNVJzc3c0alVhVmRBM05haHNENjRoSGhJS1JUUjE5M0ItZUk1dTdNakxkMVJGdVZPdGNnWDBobHJsOENjS2FzV3pVT2xWV3ZFTTZpUHgtU1g5dnJKdlF0bThNMENiZXN0TEV4d2c?oc=5"
-    },
-    {
       "id": "news-politics-b36ad96f7a",
-      "lat": 38.89995,
-      "lng": -76.99487,
+      "lat": 38.91542,
+      "lng": -77.08949,
       "title": "Analysis | What to know about Abdul El-Sayed",
       "category": "POLITICS",
       "time": "2026-09-02T21:12:50Z",
@@ -45,20 +45,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS1RqSS1OZTZnRTlaZnpIdm43bDlNa0lsSDBrNFVwbUVmRFpCUDg2RWFIYTBfT2gyZjdiMFZ0Vzh0YUpjY0hST2h0ckJ1eVVEN3lOS3ExcGRpbmhVTEpYXy01empQdzZpUWlrX2hJbDZXMTBsclNOQUdpY2xFTkpRUjFWTThoTDZMbFE?oc=5"
     },
     {
-      "id": "news-politics-02c19f21a6",
-      "lat": 39.74007,
-      "lng": -76.58254,
-      "title": "Trump says midterms won't impact Iran war efforts: 'I'm not running'",
-      "category": "POLITICS",
-      "time": "2026-09-02T21:10:00Z",
-      "summary": "Trump says midterms won't impact Iran war efforts: 'I'm not running'&nbsp;&nbsp;USA Today",
-      "source_name": "USA Today",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ21HQTZIbk81alUxbktFV0ZiVDRaQzJULU1WQW5LdlcyTUdIYkJsamYxNzV4SDl1bWhhUGxIQ3MtVDQ5bHBMY21Nb0RCbVYwM25zZ0ZLRjVsWV96TkNQM1A3YURDaVdidnRYYnBYRlBIN1Fnb2QtUzVzYjgyWnktTXNXQWZNbWs2SXB4QUZqZTgyMVJ3c1BhNEdFd3p1T3hsc2d4VUt0S3A1dFU?oc=5"
-    },
-    {
       "id": "news-politics-8db3d3b56d",
-      "lat": 47.12367,
-      "lng": 9.22355,
+      "lat": 47.06995,
+      "lng": 9.2132,
       "title": "After RFK visit, board members seek new policy to keep politics out of schools",
       "category": "POLITICS",
       "time": "2026-09-02T21:08:52Z",
@@ -67,9 +56,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVm9wQXlhZk82T1puazhsMC0yNjk4cFo1TjZqT1g3Z05pdXBZYl9lZ1BURGxlVm9kcmUyMWZRTGk3aGJIdGlfTEo3MWIzd2NsUS1SSS1XaGdXNVM4c3ExS2JyTFdrbklCN0Q4djB1c0xuanJHQnZ1a2lxaDQ4dldJTTNOUDVveVVGYXpNTGpRXzlXbm1yRzhhM0FScFlWSTdoNEhqdkwtU1Y4RVpHTjRJRFRZZ0ZUODdRUG83MEo5eWw?oc=5"
     },
     {
+      "id": "news-politics-29e8ff8f88",
+      "lat": 51.50864,
+      "lng": -0.13213,
+      "title": "Political analysis: Markey wins MA primary, and new pro-Trump economy ads",
+      "category": "POLITICS",
+      "time": "2026-09-02T21:01:00Z",
+      "summary": "Political analysis: Markey wins MA primary, and new pro-Trump economy ads&nbsp;&nbsp;Scripps News",
+      "source_name": "Scripps News",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRWx5OXlsellxWm84X2tselBZY0gyeVlJMUg1dXZwNldDakdtWUZqR05odWtuMlljbWUxNi1iMkUtNnlLM2liaG1Pa0NYeEsxTzJQZFpCYmtITWsyN2FIdnlhTHpPcndtb2lmWm1yb0RtclBCQ3NoVnBWRTE3Sl82ZVRGMExKNjd5T2I5UnE0a1BWY1NwVTB4TzRDTDhVTWVrU1dNenRDc0t4eGFDenlWV1poSW9la2hxeFNZcXRTNVpOMTZLSkhmVQ?oc=5"
+    },
+    {
+      "id": "news-finance-a8b7b78045",
+      "lat": 35.6549,
+      "lng": 139.7993,
+      "title": "NY主要株価－エヌビディア、オラクル、マイクロン、メタが上昇 モデルナ、プロロジスが下落(トレーダーズ・ウェブ)",
+      "category": "FINANCE",
+      "time": "2026-09-02T21:40:44Z",
+      "summary": "NY主要株価－エヌビディア、オラクル、マイクロン、メタが上昇 モデルナ、プロロジスが下落(トレーダーズ・ウェブ)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEduZWpLM1VVM25BR3pHOWRBOHpJSHlKOUFVSm5ObDlqeDVud1pLYXBqN09VNEl6LXRCVXVmcHVoYjNQbnFnM2FES0lkSG5JRXFZRE1vdkhWckxvQ01LTkp6TUNCX0tzbExxQV9FaEVpQnFJcUJZWGU2WHh6NE05WU1ENjl4d0U?oc=5"
+    },
+    {
+      "id": "news-finance-cf310528ea",
+      "lat": 59.92295,
+      "lng": 30.37194,
+      "title": "Samsung's insurance arms line up record-breaking push into US and UK markets",
+      "category": "FINANCE",
+      "time": "2026-09-02T21:28:57Z",
+      "summary": "Samsung's insurance arms line up record-breaking push into US and UK markets&nbsp;&nbsp;Insurance Business",
+      "source_name": "Insurance Business",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUDQyN1g0djNwdGNGVmQzVnVqSmxZLW9aMlhfQzRfNUJqMmg5VkxGX2dNVkVHd2ZDeXVIMnhIS0hkWGgwUTEtM1o2dm5Jd1FCVzh1Y2pFU3ZJVzdRbThCZmlVLVJ6dnM3dGRiYWc2eGVLUUx2eTVBcm9iYjZRUmZmT25ZTWlrR0NSNXluUUt3aThLZnhIVVlZQ3JvTmUxeE82cjNRQjhmaU1JWlpsN2RWaUsxdlotblVZZGtseFJEQU8tb2JhWW9RVXQydmYyYVYzRVZCSDdFbWYzM2VyLXc?oc=5"
+    },
+    {
       "id": "news-finance-423fba1e8e",
-      "lat": 40.67733,
-      "lng": -73.97953,
+      "lat": 40.76537,
+      "lng": -74.05311,
       "title": "ニューヨーク外国為替市場概況・2日 ドル円、反落(トレーダーズ・ウェブ)",
       "category": "FINANCE",
       "time": "2026-09-02T21:07:36Z",
@@ -79,19 +101,19 @@
     },
     {
       "id": "news-finance-41e0712463",
-      "lat": 39.13119,
-      "lng": -90.32992,
+      "lat": 39.09883,
+      "lng": -90.38361,
       "title": "New Jersey asks U.S. Supreme Court to hear case on whether prediction markets violate state laws",
       "category": "FINANCE",
       "time": "2026-09-02T21:05:00Z",
-      "summary": "New Jersey asks U.S. Supreme Court to hear case on whether prediction markets violate state laws&nbsp;&nbsp;Audacy",
-      "source_name": "Audacy",
+      "summary": "New Jersey asks U.S. Supreme Court to hear case on whether prediction markets violate state laws&nbsp;&nbsp;audacy.com",
+      "source_name": "audacy.com",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbkhmcXl0MkhUT0xzRXd0WkMxaWlZUHYyanRUMlhzX2VDRUo3M3FSWGRuQUpWRHNBMHZwWVluckRGdjRUNGNFOWFhcFdQam40cHg3aDhENUdGSGk2S1NtaHBVNHZiTVJYMVpRdlBoS3BxbUo3cXUyOXlYZ1ZtZnJaMVpwQlRvdGRP?oc=5"
     },
     {
       "id": "news-finance-d9b61a83c0",
-      "lat": 33.58222,
-      "lng": 130.3804,
+      "lat": 33.62612,
+      "lng": 130.36138,
       "title": "フォーカス 日本政策金融公庫津支店長兼国民生活事業統轄 福岡和樹（ふくおか・かずき）氏 創業と事業承継に注力 積極的な情報提供も",
       "category": "FINANCE",
       "time": "2026-09-02T20:46:20Z",
@@ -101,8 +123,8 @@
     },
     {
       "id": "news-finance-039cb9c8d3",
-      "lat": 30.21651,
-      "lng": -82.16812,
+      "lat": 30.25323,
+      "lng": -82.11368,
       "title": "Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - Charleston Gazette-Mail",
       "category": "FINANCE",
       "time": "2026-09-02T20:45:00Z",
@@ -111,31 +133,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOb0poTmZpN19PUFdrRW5sVjhrekhiOUNMLWwzaDlwbGFrb3lhWkp0ckZoX243UU9JU3JRMzYxYXVQSEZOQWtVSGpEUzF2M1lLbFJfaUZKcFdKeEY0c0R1UXpKYjdDYTlPV0M5UFBZdTZiWDJzOHhKeEhtSl9Ld2hGck00bVlfNGk5RERwQnJkZjFCWE9FcjlBMnpNTXhwQWFZTUVyNjlCRWlHVUlFT2FIdzZ6T3lYZXZvM1hSSjQ3NzNMTmpLQkRPeVp4WUd1R1NWS1lfTDdFbFl2Y1l6MzZSbF9mOWExRTBmekxCaG5mcGpOb2pORGw1Sk1SUXY5SjBkU3dSc0lRYzhza1BqNVRjT0ln?oc=5"
     },
     {
-      "id": "news-finance-660f7df094",
-      "lat": 42.94407,
-      "lng": -3.88715,
-      "title": "Virtus Stone Harbor Emerging Markets Income Fund Announces Distributions",
-      "category": "FINANCE",
-      "time": "2026-09-02T20:35:00Z",
-      "summary": "Virtus Stone Harbor Emerging Markets Income Fund Announces Distributions&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDFZZ0oyN2EwWXREc1hfajNkVnk0dWxyWE5rejdHQlZwMmN5bWlINU80LUNOZ1R5dTJhb09vbnN1bGZTMzFKQXljY1hCS0hBNmZoMlBocnAxR2lMRnhVa2NxVzNuV0Z3VlYtb2QtVUk0QjYwTzdWZ3kxTnV2dDZWMHprRzdCOGd2RGpiVlQxTVZVS1NwSUtiUWczZnZ3bmFjdlhF?oc=5"
+      "id": "news-disaster-ce81b5cfc0",
+      "lat": 35.68706,
+      "lng": 139.72489,
+      "title": "【レベル3土砂災害警報】富山県・氷見市に発表 06:35時点（TBS NEWS DIG Powered by JNN）",
+      "category": "DISASTER",
+      "time": "2026-09-02T21:42:41Z",
+      "summary": "【レベル3土砂災害警報】富山県・氷見市に発表 06:35時点（TBS NEWS DIG Powered by JNN）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxY1RVcml3V0JhdnNmcXNxeFVVMHVENlZlRDFOUnI0Z3FMeE1Wd2JNdDQ2dXVtejFWYm9qd0dkaHBLbGJxUG1KTUVja2xfNTQxVml1MldnUWJ1T1Z1dllNRG5hSGlnbm1OUzUyTDFDS1NRZTlsZENpRE5QSTVicjA?oc=5"
     },
     {
-      "id": "news-finance-f32692a194",
-      "lat": 51.67416,
-      "lng": 0.40345,
-      "title": "Stock market today: Dow, S&P 500, Nasdaq edge higher as bond yields pause climb",
-      "category": "FINANCE",
-      "time": "2026-09-02T20:13:32Z",
-      "summary": "Stock market today: Dow, S&amp;P 500, Nasdaq edge higher as bond yields pause climb&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXctcnVGX1dZRXpzLVoxeVhrUWxzVDFPQVROMVY1b2oxN1FFc1RyR0ZFcWFMZ0FlYklFajlRc0YzSzFEX0ZMdFp2eE1sTjV4RjRwcHFqTFl2RzRYOGRmTzdWMUh3N09KRTlHRkhsUXE2My16MTlycmgzVlJWSzNoUTN0VUhuV0YwR1ZUMkZHaWItMGxOWnlHbl8wQXp2UUZNTGhLNWhVdWhUM1FLcUNVaGdR?oc=5"
+      "id": "news-disaster-f24ed5656c",
+      "lat": 32.80887,
+      "lng": 130.76131,
+      "title": "熊本地震で再注目、災害時にEV「二刀流」の実力…移動だけじゃない「強み」とは（ビジネス＋IT）",
+      "category": "DISASTER",
+      "time": "2026-09-02T21:35:25Z",
+      "summary": "熊本地震で再注目、災害時にEV「二刀流」の実力…移動だけじゃない「強み」とは（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RcW1iRVRSVGlZUE9MQTNDQW4zeW5rb3kyY04xaWE3UjVXZmUtRThsTlYyLWUxdHhHQkFQNkdOWTdqM09HM0lsRWFFMzNsbkNzVXd0eUJmX0FSWWJLNVh3d3ZoZVh5UnVmQWxuVjdzZEFNQ0JHT24wZldWTGppYXc?oc=5"
     },
     {
       "id": "news-disaster-d5397d70e8",
-      "lat": 47.76417,
-      "lng": 7.05654,
+      "lat": 47.7754,
+      "lng": 7.14872,
       "title": "台風24号“Uターン”の可能性も 秋雨戦線との影響で週明けにかけ西日本から東日本にかけ警報級の大雨の見込み",
       "category": "DISASTER",
       "time": "2026-09-02T21:15:00Z",
@@ -145,8 +167,8 @@
     },
     {
       "id": "news-disaster-98766c2b56",
-      "lat": 43.7409,
-      "lng": -97.708,
+      "lat": 43.68179,
+      "lng": -97.62809,
       "title": "Farmer loans available after USDA declares Northern MN drought disaster area",
       "category": "DISASTER",
       "time": "2026-09-02T21:13:00Z",
@@ -155,53 +177,64 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnJhUWRuQ1FaQXhCVlZnTzRyWU12UDhORzM0NjJ4bVFYMm5QZWdsc1R6Ymo0d3kwZUpHZzJLa0RLUEJWNWRZQjltazFRd3lqWEVpVlgwaFVER01uNHZIOEZzbVlKOHRJWG9ISzk5R0huLU1oeG9uc2dZcmYwM01lVVRPd2hLNzJrOWFaLTVWaTc5alI1VXcwQ0VkMEpEdDNPcUthamZJcw?oc=5"
     },
     {
-      "id": "news-disaster-91f027e5b7",
-      "lat": 36.74717,
-      "lng": -4.46863,
-      "title": "Disaster declared in Livingston after Edouard brings high winds, flooding",
-      "category": "DISASTER",
-      "time": "2026-09-02T21:07:00Z",
-      "summary": "Disaster declared in Livingston after Edouard brings high winds, flooding&nbsp;&nbsp;KHOU",
-      "source_name": "KHOU",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdkMxTXNRaF9rU0Q1ZjNSSHQ3bGhYODBGS3BRLU02cU9leDhDT2dBNDZpREZhMFN1MzVHa2hQZ3QxbkJLRGItWWlnMVhkaHBIY3AtckJJeGIzbDB3RkRhMXFVdllPc0FSWHotbjB6b0tXbnRmOTZvZ0Z1ZnJDQjQzQWdvZWxuZm92M0JWc3hESnlJQkRSRUFaYUkyaUVQSzFMZGpOYWFYd0Rsck45S0pWUFBETXdDal8tYnJrR0ZDaUdXaVVq?oc=5"
-    },
-    {
-      "id": "news-disaster-e2e3705f9c",
-      "lat": 36.73949,
-      "lng": -4.472,
+      "id": "news-disaster-a6c3dbf0ce",
+      "lat": 36.72745,
+      "lng": -4.47675,
       "title": "Disaster recovery center coming to Delaware County",
       "category": "DISASTER",
-      "time": "2026-09-02T21:04:13Z",
-      "summary": "Disaster recovery center coming to Delaware County&nbsp;&nbsp;ballstatedailynews.com",
-      "source_name": "ballstatedailynews.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa0dUaGdfYW1Ia2c2VFI2ZVlTXzVhZTBLTVhRNmIyb0MtbnBOZVJXWVJJaG5mYk9jMThTZUpzekRHaUVoUE5wR3JwVHJuTGNVN1pWb2ZOMWtxaWpZYkl0ZDBiQi1mdXlGel9QR19Rck9SWnVUVWk5ZWItcGswZGtta1YwS1hPQmdnTV8yUDJhWkFaX2tBM2dDSm9nVHdaaUs1Znh6UA?oc=5"
-    },
-    {
-      "id": "news-disaster-94aa9046d7",
-      "lat": 43.029,
-      "lng": -87.89866,
-      "title": "‘We believe she’s still there’: Family searches for Bartlett woman missing in devastating Nepal flood",
-      "category": "DISASTER",
-      "time": "2026-09-02T20:57:15Z",
-      "summary": "‘We believe she’s still there’: Family searches for Bartlett woman missing in devastating Nepal flood&nbsp;&nbsp;Daily Herald",
-      "source_name": "Daily Herald",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdWN5X3NBWGFoVTB0YXd5RDJFMXR4X1h2cWlKRnM3aHVXU1pJVHI5R0ZfZy14cTNNcGpsa1VXdnVpYXNFSTI1cC1nUWJHWlVxa3lwVTFaaXQ5MmM3WE1RZ3l6cXlPeFZCMmhSNDd3NVM0emJwaGUzWTMwRWQtLVhWd0Flc3lmMzJVMjBTMU1Hb08xTF92bzloQnVQeHFTVXloRGg1X19YUExsZ1pET2t6WHlzVkhET2pkYUhSNmRKbnZXRmE5d2pjeFNhVjUwb2dUSGwzcFBR?oc=5"
+      "time": "2026-09-02T21:02:19Z",
+      "summary": "Disaster recovery center coming to Delaware County&nbsp;&nbsp;ballstatedaily.com",
+      "source_name": "ballstatedaily.com",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYzR6U2t5d0VkQi1TUm8yM08xa2QyNGlnSVA0NDFla19ISFM0SFZBMXdpWWItaEtwdmRicHAwMXlPak9SVXl1MlZ3SkpPVFdEaWNkeTBEWHBjWWxKem50WHNZMkZVa0lPRUxsTHpwTUI4MkVJOEhKdk9uc0RlaERLZjVyaUJlQzdndHVSTEswTkN2ZXl5YU8xVkotVDdJLWc?oc=5"
     },
     {
       "id": "news-disaster-7c6fdc912a",
-      "lat": 32.75131,
-      "lng": 130.76225,
+      "lat": 32.73372,
+      "lng": 130.74028,
       "title": "熊本県で最大震度2の地震 熊本県・芦北町",
       "category": "DISASTER",
       "time": "2026-09-02T20:56:00Z",
-      "summary": "熊本県で最大震度2の地震 熊本県・芦北町&nbsp;&nbsp;newsdig.tbs.co.jp",
-      "source_name": "newsdig.tbs.co.jp",
+      "summary": "熊本県で最大震度2の地震 熊本県・芦北町&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hUlpQUTkwM3liTFlETVVGTzZjV01rQVFXdkh3dl9Xblpja1Q1c1AyZ1RNb0g0YWRrNTJ5YURnRVpDcnhHLUIyUnNIdDRKNWR6T2t4X0prNkRnNHNhdGZQMV9tUzk?oc=5"
     },
     {
+      "id": "news-accident-dd7ea0b15e",
+      "lat": -8.29575,
+      "lng": 115.61314,
+      "title": "「高齢者＝事故が多い」は本当？ データで見えた意外な事故率と死亡事故の実態【自動車保険】（MotorFan）",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T21:39:59Z",
+      "summary": "「高齢者＝事故が多い」は本当？ データで見えた意外な事故率と死亡事故の実態【自動車保険】（MotorFan）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OOHE3bUNqLTY5WjNYNU5NVkJMRmYxcFM4dzBwc2E5MlBZSFVqaFZmMndNZVVQSXkwTTFBNFBuT0tHSERSSWhqazJBTndWYkUta1h6VnVTX2U3M24xSFMyWWxGVy1Zd2VXSWJwVFhhNlZjR1YwN2FxTUFIeUNoSm8?oc=5"
+    },
+    {
+      "id": "news-accident-80161b31a0",
+      "lat": 48.16707,
+      "lng": -1.73183,
+      "title": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge - Pittsburgh Post-Gazette",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T21:30:39Z",
+      "summary": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDc1aXFkQmpJQ0Y1YmZzT1BsWXJhU0Naam1GZE5ZY1ZFRUI0YW9wTDk4c3dBcFJqTWF0a1NyWUdQaWFsX0dEQU1naHRmaFBjcVNRenZXZW53cW82OW85cmpoNjNCSjI3cjlGUEdLZEZOQ0JkTGs0NHVOeDhPVDJhOFJTQ0hQcGtaUWJaS0EyVjV2WG9oV3BuYWk4Y2stZVhFNDc2NG1kNA?oc=5"
+    },
+    {
+      "id": "news-accident-19d36f514c",
+      "lat": -11.91825,
+      "lng": -77.09653,
+      "title": "Report sheds light on reason for Washburn coach's crash - The Topeka Capital-Journal",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T21:25:00Z",
+      "summary": "Report sheds light on reason for Washburn coach's crash&nbsp;&nbsp;The Topeka Capital-Journal",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMlNhRlNwS19BWl9PLWU4MHlIZWM3ckJIVzZMZkJ0bTJUeUhxNmpnR1hnLTBZZ1VlazBkTmdRMlhJZEtPSDdrLTJHYlRtQlV3eFBjZ0FyWC1Edlpsc0NTOE9OYXdZZGkxVWNRVkFpam1YN0prcXdvcjF2NlhlMFRpY19yZGt2THFzLWpISWxBRXBpOTZwOUJhanIzdEt2WTQ4NTI5b1lUUkhFMDdKT1d2cGtYa3d1eDBXekVOZ1UxNXoxbDVFOV85QU93?oc=5"
+    },
+    {
       "id": "news-accident-b6c0ed2e72",
-      "lat": 42.38903,
-      "lng": -71.07691,
+      "lat": 42.41266,
+      "lng": -71.0338,
       "title": "2 people hospitalized after reported rollover crash on State Road 112 in Miami-Dade, fire officials say",
       "category": "ACCIDENT",
       "time": "2026-09-02T21:02:00Z",
@@ -211,8 +244,8 @@
     },
     {
       "id": "news-accident-2df6baba96",
-      "lat": 33.55363,
-      "lng": 130.40293,
+      "lat": 33.53058,
+      "lng": 130.38047,
       "title": "［福岡県］交通死亡事故「危機的」 県警、啓発強化へ特別対策部隊 来月末まで活動",
       "category": "ACCIDENT",
       "time": "2026-09-02T21:00:00Z",
@@ -222,8 +255,8 @@
     },
     {
       "id": "news-accident-5debddbca7",
-      "lat": 51.85591,
-      "lng": 0.94301,
+      "lat": 51.89037,
+      "lng": 0.92409,
       "title": "Troopers identify victim in fatal turnpike crash",
       "category": "ACCIDENT",
       "time": "2026-09-02T20:48:45Z",
@@ -232,42 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXR6YkZtQmVJQ0ItamZrb2xmaVpaNFRvbWJzRTRXcjRBa1dPX0I1UEpMSmduS3NoOVF1cnQ2TjMxZnU3NmxhVG5ta2xyNzBLelJTMzlqQ0FNTzJwWTV3TF91dG82dUtGeURRaDhENklqZTZFeUVmM29YVTZ5RHZkRV96dXJCS2xEb1ZJTFpCZFhfUDJ5d29scEt5Sjg2dEd0WG55amNaNlpWUzNCMkg5ZUR1dnlwSzVHSHJ4SS1TRUtNYjdEbWc?oc=5"
     },
     {
-      "id": "news-accident-a2d4401775",
-      "lat": -12.53725,
-      "lng": 131.00752,
-      "title": "Driver killed after SUV slams into cement truck, bursts into flames",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T20:32:35Z",
-      "summary": "Driver killed after SUV slams into cement truck, bursts into flames&nbsp;&nbsp;WOAI",
-      "source_name": "WOAI",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW83MVZ6SWhOQ0NEdFFTNVBnTWJzZzBpeGg4UGN4dTFLb2p1ZU9XQmMyeHFQQ05nT3BYRWZhTTh6VXBIVk13dXEzY25WeG5aaGMyMzlURjd2dHl3YXQ5a2JFTG02Wnh2YWVSUVdobVE3Nkp1XzVYZjZIQURLSWViUkozR1F5bjQ3djFHbE9n?oc=5"
-    },
-    {
-      "id": "news-accident-41ffaeb392",
-      "lat": 32.76953,
-      "lng": 130.7442,
-      "title": "（２３）原発事故の現場でロケハン",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T20:15:06Z",
-      "summary": "（２３）原発事故の現場でロケハン&nbsp;&nbsp;熊本日日新聞社",
-      "source_name": "熊本日日新聞社",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TcVdmX2lhaUtveDV2RXhDLXpNaGMwR0JMRHJrNnFWQXJRanRRcHFPamFvM29pQ0dQZVl0VEFiWk5iam94WTBWT05ROWM1Y28?oc=5"
-    },
-    {
-      "id": "news-accident-3b0e48d187",
-      "lat": 32.7307,
-      "lng": 130.78778,
-      "title": "日立会長「年功幹部」終焉／熊本地震、LPガス事故／新興SNS「セットログ」（2026年9月3日版）",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T20:00:59Z",
-      "summary": "日立会長「年功幹部」終焉／熊本地震、LPガス事故／新興SNS「セットログ」（2026年9月3日版）&nbsp;&nbsp;business.nikkei.com",
-      "source_name": "business.nikkei.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBS1RxUVhac3RKVjdIeGVXUXdTWEVpOGRVRmZmT2ZtQlY1ak5xdjdETmctMEt2eFJwVF9jWG54QzRZNkd4QmRUX1BvdjNFTjhPTVdIbEEzcUNMQVBRTUprdU01WENoamZNUmc?oc=5"
-    },
-    {
       "id": "news-disease-8b3a6dc993",
-      "lat": 42.32182,
-      "lng": -91.44322,
+      "lat": 42.29633,
+      "lng": -91.52161,
       "title": "Ryan Jones: Unbreakable",
       "category": "DISEASE",
       "time": "2026-09-02T20:58:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-3ba399f4d5",
-      "lat": 8.54462,
-      "lng": -71.23927,
+      "lat": 8.54423,
+      "lng": -71.24911,
       "title": "Moral Maze",
       "category": "DISEASE",
       "time": "2026-09-02T20:00:00Z",
@@ -288,19 +288,19 @@
     },
     {
       "id": "news-disease-ea3b661e26",
-      "lat": 49.7831,
-      "lng": 143.01909,
-      "title": "夏バテとケトン代謝について - クラウドファンディング",
+      "lat": 49.7546,
+      "lng": 142.9965,
+      "title": "夏バテとケトン代謝について",
       "category": "DISEASE",
       "time": "2026-09-02T19:11:23Z",
-      "summary": "夏バテとケトン代謝について&nbsp;&nbsp;クラウドファンディング - READYFOR",
-      "source_name": "READYFOR",
+      "summary": "夏バテとケトン代謝について&nbsp;&nbsp;readyfor.jp",
+      "source_name": "readyfor.jp",
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96bk1rWFB2MjFwVWFpWnNFOFZPZnpHZjIxUTVfSlJVUG9EN3JzR1V0QlQ5dXFVSThRTXM5OWRnSHVoRi1EalpzcVBKYmJuQ0hNcERuXzNGS3lYYkZvU3MyV1VBOUZLY29qZE5kSXRhZzUtajdTUGc?oc=5"
     },
     {
       "id": "news-disease-47674b079d",
-      "lat": -2.95752,
-      "lng": 23.8668,
+      "lat": -2.95921,
+      "lng": 23.80787,
       "title": "Congo's Ebola outbreak shows no signs of slowing as deaths top 3,000",
       "category": "DISEASE",
       "time": "2026-09-02T18:51:44Z",
@@ -309,20 +309,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHVPR1F5RFhMN2Z5YlI5TVNicTh5WWRKcDJ6Yzg0SjRMTlZoSW5NZHBOeGcyQ0gzQV9uN09MT09iMmtpdElRWDZ3ZWNNMmhrNERzZHVJb29VcmpTd192c3VlR3Z3WGF6SW0tU2NPNktJWTFDRDJEdDlQSXg5QW9ybGxJMjRWSGNhWm5Wb01YQjFUdlFBaG94VWZValVpeXFraVZKT3gwQUFLUQ?oc=5"
     },
     {
-      "id": "news-disease-d444d25bd4",
-      "lat": 15.08904,
-      "lng": 38.48417,
-      "title": "WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak",
+      "id": "news-disease-21d7ff3073",
+      "lat": 15.01501,
+      "lng": 38.51681,
+      "title": "WHO's Tedros Says Ebola Response Must Be Scaled up to Tackle Congo Outbreak",
       "category": "DISEASE",
-      "time": "2026-09-02T16:38:37Z",
-      "summary": "WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeWNxZHZHdGQta0ZUeEo2Y09vUjVDYXhBcTRuZW44TldiZ216SXJFakFRU0UtdkxmQVF3bWpLV2NReGZTb1VEUDhVNTVmU0tmLVBqZkRzLXZuQkpQbkF3ZXI4VW5KYUV1b3JRZTJhckczTDdVN2tPdHdSR3J0NFFqWVFYUElURmpCeTJoNVRUbVBZVUZnN3pvT2tKYzhJZGVfR29fNVNkcjZLUVNrSmF0TG9obUlwSHpkYnRXUE1hUUlpNGlIT2p6d2ZEdVlWUEJseUw0aGhsWDhLZlk?oc=5"
+      "time": "2026-09-02T17:23:17Z",
+      "summary": "WHO's Tedros Says Ebola Response Must Be Scaled up to Tackle Congo Outbreak&nbsp;&nbsp;U.S. News & World Report",
+      "source_name": "U.S. News & World Report",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjRNZzlPNjdZMkp5ZUthdUFEVVpFbGlaTkE0TWlsdTFqdENHbFZaTldZU2h6RVZoNU5Oa2NOaGtrZ1hRQlczenhkOTFWa3oxU1ZLaXY3a3J6RlJNYmMxenl5cGVPQzRBaWY1M1ItTi1LVy1xNGpsQUlwNFJRVV9NdmtGalJVbkFmWGlLblhJai1zQlVad2lNaFd4X01hZWQ5MXRWMmctaVQwZFRHRXVGLU1RWHZiQ0N4TG91TVN2WmotOU5ORjgw?oc=5"
     },
     {
       "id": "news-disease-2d0b8aeb8c",
-      "lat": 52.48939,
-      "lng": -2.91573,
+      "lat": 52.50172,
+      "lng": -2.91094,
       "title": "More than 3,000 people have died from Ebola in the Democratic Republic of the Congo",
       "category": "DISEASE",
       "time": "2026-09-02T15:44:46Z",
@@ -331,70 +331,70 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NWWZadHdSdjh1dUtac1U0RzdYWDJwd1gyTEk3dVFmSXo2VG50WXBFSjZ2SldaSlRPLWNic0FJRF9DOVdGU2tBUTJTQ3hUTHR3T3RhREx6UC16NDFPZ3F6SzdvTF9mZEFRZlJuRDJKTkgzZGczVU4xaFpGSQ?oc=5"
     },
     {
-      "id": "news-technology-80a39e7db5",
-      "lat": 40.65496,
-      "lng": -73.94749,
-      "title": "New York City is banning AI in elementary and middle schools. What is Connecticut's policy? - News-Times",
+      "id": "news-technology-907fca97a6",
+      "lat": 34.66437,
+      "lng": 135.60171,
+      "title": "大手銀行が新卒採用を削減！AI時代に「淘汰される若手」「求められる若手」の違いとは？（ダイヤモンド・オンライン）",
       "category": "TECHNOLOGY",
-      "time": "2026-09-02T21:31:22Z",
-      "summary": "New York City is banning AI in elementary and middle schools. What is Connecticut's policy?&nbsp;&nbsp;News-Times",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTnRhclF2aVhyejB2RlVZbExuR1FzVDBQWjBGNm1vS1FoUXlDYTJPYlZGYmJtc3Z0QV9oNDJQMjlQR1VNZVdEMXF3VGNaOVFwcmc1NkowaUhkQldrQU9WX2tVV2NDendmejlmNC03d0JsbXE1MERDNVRZaExLRzN4Vmx5T0JhSWFON19EYVNjdDFUY2k2NXVrZ1lwTzdJZDVZeDVyU0FmWDVBTnM?oc=5"
+      "time": "2026-09-02T21:45:21Z",
+      "summary": "大手銀行が新卒採用を削減！AI時代に「淘汰される若手」「求められる若手」の違いとは？（ダイヤモンド・オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQ2F3NTB0Yk5KdUJDYVdhTHVhM3BqT2dEQkVSSHRubDE5ekxjcHFSQ3dORUlraS1Ed3pjS3c2enNWV3Axb1JTNUNMMmMyUm4zLThFMjA2SURrQ2NiVTU4LVVIWl9pMTUzMW9BNmd3YmhwVlp3c2w1WGZLc2VnX1U?oc=5"
     },
     {
-      "id": "news-technology-d53ee4791a",
-      "lat": 36.43764,
-      "lng": 140.50744,
-      "title": "セイコーソリューションズ、AIがプロジェクトマネージャーの意思決定を支援するプロジェクト推進基盤「TierX」を発表",
+      "id": "news-technology-726d7987f4",
+      "lat": 37.54999,
+      "lng": -85.17456,
+      "title": "Kentucky lawmakers taking a look at how AI is being used in the classrooms",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T21:35:34Z",
+      "summary": "Kentucky lawmakers taking a look at how AI is being used in the classrooms&nbsp;&nbsp;FOX 56 News",
+      "source_name": "FOX 56 News",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWt6QnJYVFc4WU5nak5obGgtcmZadURhWldCMkZDVWJsODVjSGlhWG9HNkhRSkx3S2tLMmFaZlNWOUF1UGxoeWMyekswQV9hOUZ2ZWFNYThLclI2Q3Fudl9LNG5wOVFNODJrUmdZSU12aDFBTlQ5N0pkZEdpSkctZFB0RWNiMDdiUklEVm5raXhoN0Vna3JENUFuN1FmeWdlN2FLZGhLYVd0alFwenRkSNIBtgFBVV95cUxNUXUxU2FCZWt2YUNMaGdxVmo1OFNleXExNkdWMERtNGJnaXBGMVVnWTZsT09TRGtfUHdwOW5XRTNyQTJmWi1LNGxPbU8wQUlhMm9hVFlfNHk3c3NzclJ0eHhRTHFkbjZZVVJHeUN3aS02U3MxNFhXMmc1ZDUyZFB6Y0haekhCdUgyeF9WUi05bWJoMkxQZEpfYVBVTGxPZkN2dXhoZDFIbldFZzJlMlgyRnk3amxXUQ?oc=5"
+    },
+    {
+      "id": "news-technology-6cf4462291",
+      "lat": 40.65956,
+      "lng": -74.03679,
+      "title": "New York City is banning AI in elementary and middle schools. What is Connecticut's policy?",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T21:34:41Z",
+      "summary": "New York City is banning AI in elementary and middle schools. What is Connecticut's policy?&nbsp;&nbsp;CT Insider",
+      "source_name": "CT Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORzdxdmpXQzBFTk56VHdmcTlYVGpiQ3JZaEVWR2ZMR3I4ZmlfQ2Z0d01XNHJFc1dKTU9GMTM5WmxqaWIyYlFBV0o2dkZyWU1SQnM3RE02MzZTZzFBcVh0aF9mSXNrUFVfcWtQR2d1ZUd5cnc4UzNpTkNpMWhORDRQM0hRNGZKYXRwWExaN0ZYYldac2lyTWh3Q3NKVHJHeFpqRThWelVlLWdHbFE?oc=5"
+    },
+    {
+      "id": "news-technology-3546210d05",
+      "lat": 35.07796,
+      "lng": 135.76654,
+      "title": "AIで丸ごと生成したゲノムからウイルスを作製…衝撃の新技術がもたらす可能性とリスクとは",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T21:30:00Z",
-      "summary": "セイコーソリューションズ、AIがプロジェクトマネージャーの意思決定を支援するプロジェクト推進基盤「TierX」を発表&nbsp;&nbsp;クラウド Watch",
-      "source_name": "クラウド Watch",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QRzVKbGFKdFVYYzBaNGRsX0t6MnRucWNxbmY3LUgwMmx6eTNFSms3RFFmc3hnMWJpaFFtajdGbDBQYWpDTFNDSUYtYW5HS0dVVUwtVlRpal9rSzFuRHNCTjA5WnZhYW8?oc=5"
+      "summary": "AIで丸ごと生成したゲノムからウイルスを作製…衝撃の新技術がもたらす可能性とリスクとは&nbsp;&nbsp;東洋経済オンライン",
+      "source_name": "東洋経済オンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MZWRISURZdkdzdkctU00wdXdUSGNUZ3FUakdOcF8wbzBYaHBEWkw3MW1SaXJSM3B5RUtXY1BIN0dCVDRuVG1wZUNCdzdqaFQ4S1l5YzVkdVZNSWl1bW9Z?oc=5"
+    },
+    {
+      "id": "news-technology-8aeaf2f67d",
+      "lat": 41.50314,
+      "lng": -72.30381,
+      "title": "C3.ai, Inc. (AI) Reports Q1 Loss, Beats Revenue Estimates",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T21:25:03Z",
+      "summary": "C3.ai, Inc. (AI) Reports Q1 Loss, Beats Revenue Estimates&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdVpzbmxaSUtNNGNaS0JTcjh5WUt6SWtSaV9BZ3JTZ3U3OWZuUXVOdXZjeU5KSks3LXQwRWZZYUtyQzJQNW9TS3lLNTZJMmVlenp4TWZORDhiZURaNkN2ZGZDR2NfYXdzd2pjX3pzamNRZklaWC1pVXZXdVBqV2VoNnlNc0xZX3U3eXJBa3ZR?oc=5"
     },
     {
       "id": "news-technology-0f71f30079",
-      "lat": 34.81348,
-      "lng": 134.86289,
+      "lat": 34.7604,
+      "lng": 134.85353,
       "title": "モスバーガー、郊外立地の次世代型店舗 AI空調、AIドライブスルーを実験",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T21:25:00Z",
       "summary": "モスバーガー、郊外立地の次世代型店舗 AI空調、AIドライブスルーを実験&nbsp;&nbsp;foodrink.co.jp",
       "source_name": "foodrink.co.jp",
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YRUJCQkhCQjN2Z3pJc3o2T2t5NmFWUmlNWGRlVWJsTG9DWFA2Um1MMUFkTnBpSHNESXBQdWpOU0NpMldJMzdvb0ljTWNkVUl2aDZJSmVSX0s3aUJwZFJoc1VB?oc=5"
-    },
-    {
-      "id": "news-technology-e052216cb0",
-      "lat": 37.41127,
-      "lng": -122.05194,
-      "title": "Microsoft to Change Reporting Structure to Reflect Effects of AI",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T21:22:38Z",
-      "summary": "Microsoft to Change Reporting Structure to Reflect Effects of AI&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU3hZTS1LdVBJWUFVdjZ2ZUpUQ1hSMkJJYkRzVmJ5aWZ1UHdscUtrLW1WNzR3eEZBYW9DZFhYWERCaEtYVTZ5VDExelNWZTRzTHRjaTRqX3B3VTNMWjRIRlNVSjdDSEFPU21lRzZmZWh3cXhlVUlmNXZmTnpZc3p0ajZPUjFoNlRNVlAtVmkwdkJiQUgtczJ2MkpSR3FuLXdQZ29v?oc=5"
-    },
-    {
-      "id": "news-technology-dc0ec8ace4",
-      "lat": 42.85324,
-      "lng": 2.54855,
-      "title": "How AI is being used to track art stolen by the Nazis",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T21:17:00Z",
-      "summary": "How AI is being used to track art stolen by the Nazis&nbsp;&nbsp;Utah Public Radio",
-      "source_name": "Utah Public Radio",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZW9PQnktanh1Uk1DV2dWcF9ONUJyUjM5VGtydzNYLUpuNVFVSjJqOGhwTmh1S1pLcW5BUlNNWXlJNWdIaUxPVE9jXzFZbWRwYzRvTHRieEZEOHJUN3RZdm1MZXFGeWdfYVBzaGlpNUFQeXd4WEMzYS1KQ0U0NVVCdS1RQ09SMEJXOXFZcA?oc=5"
-    },
-    {
-      "id": "news-technology-f506a8f994",
-      "lat": 42.36055,
-      "lng": 142.33881,
-      "title": "住友商事の上野社長、エネルギー事業に一段と注力－AI需要が追い風(Bloomberg)",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T21:15:08Z",
-      "summary": "住友商事の上野社長、エネルギー事業に一段と注力－AI需要が追い風(Bloomberg)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3pxbUFxcTZFTTUtQzVpSVNwUEJJRHB2Q0F0SWFNOWxibXBGUkpEVzJURHJuLWxkbjNjcUUzWTQ2V2ZvVmlsSVItNHlKZ1RYRHRLcE5NNkd5clhZN25BMzdVdERnU3R0NFhNcVlpblcyS1lYSk9kMXAxSnhYenlIZVZSVVRrem8?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-02T21:36:50Z"
+  "updated_at": "2026-09-02T21:49:33Z"
 }
