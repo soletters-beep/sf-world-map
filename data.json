@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-a3cd906de1",
+      "lat": 37.18941,
+      "lng": -82.85773,
+      "title": "Democrat Josh Smead believes Missouri’s 6th District is undergoing political shift",
+      "category": "POLITICS",
+      "time": "2026-09-02T20:25:00Z",
+      "summary": "Democrat Josh Smead believes Missouri’s 6th District is undergoing political shift&nbsp;&nbsp;STLPR",
+      "source_name": "STLPR",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUN1cHRIN215VGJhX0piQlFubzhvcEdadnBmZUdWclpCcThZQTI5TmFrMGFyTDJ2VFc1RlhERmpPNV9DeTdXcEdFSDFsZUVmdk9CWThjTFUtR1d2dHFuVk9iLWludUlvUEtEcHJvMmlsNHY4dVBQMDlQQU9zQTB0ZjdTSU9FNDhmcTBIa2V0aW1iUlg5QjBZOXFOc1lzX0piMzloaTg5V3BfbFMxUVFheUdVek1abGgySTBpbE1nTFFBUEJXcXhtZE5kUFJka1BVUDdyQkVjNXVjbk0?oc=5"
+    },
+    {
       "id": "news-politics-a595bb7106",
-      "lat": 37.73297,
-      "lng": -122.38945,
+      "lat": 37.72175,
+      "lng": -122.40625,
       "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
       "category": "POLITICS",
       "time": "2026-09-02T20:21:04Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-87fe5f4782",
-      "lat": 31.29508,
-      "lng": -98.52017,
+      "lat": 31.30686,
+      "lng": -98.50382,
       "title": "Texas' first post-Roe look at maternal deaths won't be ready by midterms",
       "category": "POLITICS",
       "time": "2026-09-02T20:18:42Z",
@@ -23,64 +34,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeW5OaUxDT1JFNlZuOTVuMk1qaWh0eVlFb3E1RlJuTl9mSjZSUlVESXVwREt1YzZXdzdfUEdsMERkbTA4MVVpSDVkM2dqRjNaUlExaE9CUmczYS1SNmIzZ2VjNGlVWlAwWXpMdTFJbk53blRqSHNNLWJaWEhsUHV4MzVtN21Lbk1FTmNuVlpickJkM0hRV0dJUw?oc=5"
     },
     {
-      "id": "news-politics-c0731332bb",
-      "lat": -28.16427,
-      "lng": 151.92754,
-      "title": "Massie urges Republicans to 'take credit' for release of Epstein files ahead of midterms",
+      "id": "news-politics-3efc64b7b8",
+      "lat": 36.59927,
+      "lng": -77.84725,
+      "title": "USPS Is Building a Mail-In Ballot Screening System Despite Legal Battles Over Trump Order",
       "category": "POLITICS",
-      "time": "2026-09-02T20:10:47Z",
-      "summary": "Massie urges Republicans to 'take credit' for release of Epstein files ahead of midterms&nbsp;&nbsp;WHAS11",
-      "source_name": "WHAS11",
-      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOakltRUs1aWh0VkF0d3VYeVZ4bVluMHhqU2VVcWYwREktc3B5ZFhHbkVlekFQRlA4bm1LS0hNVjVnUzJyZjZtZTU0UzNkWlFDRkRBengyYmg1RGR6Y1UzOXVTWDlBVWt0UHZNNHlPM045aDlNajhuRkY4RzBSbGVSc3hfNWtsNEx6bk1rcFpHQmU2SW9LUkV0WXBMc2JjVm9abkdySVpJTVJVYjRCQ19xbVdwSEhWcjNPXzg3NmdJYWRVTEd6OTRKb2J3ZGI4dVFYbW84bUZVZmpndFNxODFCamxaNVp1MTdFMHB0cXdtWEZtX1M0cHJjMDQyd1UxUWhsTGc?oc=5"
+      "time": "2026-09-02T20:17:27Z",
+      "summary": "USPS Is Building a Mail-In Ballot Screening System Despite Legal Battles Over Trump Order&nbsp;&nbsp;nytimes.com",
+      "source_name": "nytimes.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdG5zQ0N6R2VKMXRkVkk1NHV3cFROOFdSLXFQNFJMQjU1UmtYNmJKOGtBZjAwcDAwbjhGak0xTUowMkxkY21kVUx6VXhXS1VVQjdnQUZiNGYwRm9hTDRxQTNtb1Z5d0dvdE9raHR6c05yQm81TS11Y0x6ZHJaSFBYbWdwODlneFVPVjNpV3pIY0dXN3dy?oc=5"
     },
     {
-      "id": "news-politics-0faaf6597c",
-      "lat": 35.64386,
-      "lng": 139.71071,
-      "title": "「豚以下のように扱われ…」政治犯強制収容所で28年間、脱北者が語る北朝鮮の人権破壊",
+      "id": "news-politics-4cb4da72a3",
+      "lat": 37.94922,
+      "lng": -89.06378,
+      "title": "Christopher Borick blends public opinion with politics at Lehigh Opinion Observatory",
       "category": "POLITICS",
-      "time": "2026-09-02T20:00:00Z",
-      "summary": "「豚以下のように扱われ…」政治犯強制収容所で28年間、脱北者が語る北朝鮮の人権破壊&nbsp;&nbsp;東京新聞",
-      "source_name": "東京新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zU2U0RGNyMU5hYjZNMVM3Zl9MZ0E2X0hTMmRDcUF4ZzJ6YkFDYmRrbDFNblBkNjF5QzcyV0dlMjNCdG9kd0hmUnplTGhWR1FDN2o4?oc=5"
+      "time": "2026-09-02T20:03:53Z",
+      "summary": "Christopher Borick blends public opinion with politics at Lehigh Opinion Observatory&nbsp;&nbsp;The Brown and White",
+      "source_name": "The Brown and White",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM2JEaU9GZzIyZVZXZ1J4dC02Nk9tUEFibDdqOGQ1ai1fZ2gycVIwZ2VxU01GaHlZemROMEUxbDdWanRJdUdEVHd1LTJPZEZxNW5XYXBwTlZIS2Y3NnRfVFdvaTBQSkk3ZHd2LXNFdTg1Yi1XX3hOREd1TElYYnh0N053amI1dFdQeFMwcTh3STNLN1h5T1U5UHJaZUxHcmk2Mzd4cDY4M2Z0czYtVC1MMHBYZmtpLVNSMHVWTHF2QlpmTms?oc=5"
     },
     {
-      "id": "news-politics-b8e7badc0f",
-      "lat": 35.39592,
-      "lng": 139.59484,
-      "title": "横浜市長選、自民擁立調整｜政治｜全国のニュース",
+      "id": "news-politics-af4854a2d5",
+      "lat": 38.88672,
+      "lng": -77.0859,
+      "title": "Trump’s Lake America stunt exposes politics of pointless renaming",
       "category": "POLITICS",
-      "time": "2026-09-02T20:00:00Z",
-      "summary": "横浜市長選、自民擁立調整｜政治｜全国のニュース&nbsp;&nbsp;北國新聞",
-      "source_name": "北國新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zYndQS3pvY3k4VlJFaUFVMmlsNElmOWl2NERhamtPYmZ1WGFJQ1JjVGZwZTJlNkxJc3YwSk5tbHNLSzhNQmh3R242V1pqcXo5cFY0MWVtTQ?oc=5"
+      "time": "2026-09-02T20:03:42Z",
+      "summary": "Trump’s Lake America stunt exposes politics of pointless renaming&nbsp;&nbsp;Washington Times",
+      "source_name": "Washington Times",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaC1hX2dNZXl5RlkzaER5WE1KdVRBbnMyWkozUEthSHphX2ZLY3N3d1Y0LTRwbFk1Q1dxNERNWFJGTVg1aFA1c3A1am1EWnh0VjIwYjdFUVhmczZLUzZJZ1VyX09TUy1wLTBab0xnVDlKd2oxbG9QVnhTNHRNNEZTVHJzcVMyTndEbDVPR01HX2FTRlQ3anl5SXFiLUc4ZUZ3bDdlcUIzMm1UWFd1d2U4?oc=5"
     },
     {
-      "id": "news-politics-210c553088",
-      "lat": 40.6771,
-      "lng": -73.96652,
-      "title": "Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms",
-      "category": "POLITICS",
-      "time": "2026-09-02T19:49:07Z",
-      "summary": "Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFNreXdGcF91cUV3V3lSbU9jN1J5M3RkLXAtdWh5YXJ0RHlZdXh5X3BwZXRvYjJsbmUtZHFlU3BwSy1mZjhOSEdhU2lxWG1MTnRvR1FPem1MYUZzcUl1RDVURmxXVTRxaWxWTEY2WnFvNEFqdmdwTlRpZ2lNZGs5Z1JyaVo?oc=5"
-    },
-    {
-      "id": "news-finance-6ec1a26891",
-      "lat": 14.96546,
-      "lng": 74.07003,
-      "title": "Kalshi eyes never-expiring oil futures amid trading debate with CME Group",
+      "id": "news-finance-e590d6e590",
+      "lat": 53.47147,
+      "lng": -2.03106,
+      "title": "Stocks Rise As Middle East Tensions Fray",
       "category": "FINANCE",
-      "time": "2026-09-02T20:16:00Z",
-      "summary": "Kalshi eyes never-expiring oil futures amid trading debate with CME Group&nbsp;&nbsp;Crain's Chicago Business",
-      "source_name": "Crain's Chicago Business",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNjgxZS1aV2R2Y3FjSDFPci1fdWJCbF9qSzE4bE9LVXBBTDloMlZlYU5QbjJ0R05MMGFNUWhkemJEelVzVDdXTktVWWRHT25Hc2ZvYXRBQktkSjVIVnpnYVB1TlhFcFk2QklnX3BSWmFxQXhYMkx6VFZrdl9Bcnl5bmNHd2JOZG5PMHVteUNYOA?oc=5"
+      "time": "2026-09-02T20:11:06Z",
+      "summary": "Stocks Rise As Middle East Tensions Fray&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0s1M1JrT1cyeExIUzRmNldHeTduY19wVWRGOUNYVGtwTElHYWtKYkVVLXE3NFY2UEFSSGJCV3NyakVyek14dDRDN1BpY1RnUVBBRjJ2VVFuc3RhV0tScVNlck5LMFRKWi1QSEptSnlJcWlGQTV2QU94U2lWVk1ReEdjS21IRjVqR2pwcA?oc=5"
     },
     {
       "id": "news-finance-c5d259b376",
-      "lat": 42.83184,
-      "lng": -88.78493,
+      "lat": 42.84509,
+      "lng": -88.69453,
       "title": "Cravath Capital Markets' Pro To Become Liberty Media's CLO",
       "category": "FINANCE",
       "time": "2026-09-02T20:10:00Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-8cee60ff7b",
-      "lat": 32.27257,
-      "lng": -90.22598,
+      "lat": 32.33541,
+      "lng": -90.18874,
       "title": "Jackson Hole Takeaways on the Onchain Future of Finance",
       "category": "FINANCE",
       "time": "2026-09-02T20:06:41Z",
@@ -101,8 +101,8 @@
     },
     {
       "id": "news-finance-a9bc3cf4db",
-      "lat": 25.1679,
-      "lng": 55.23243,
+      "lat": 25.23503,
+      "lng": 55.28462,
       "title": "金融教育も「一極集中」で開く格差 お金や投資の中立認定アドバイザー、東京には279人いても高知は2人",
       "category": "FINANCE",
       "time": "2026-09-02T20:00:00Z",
@@ -112,8 +112,8 @@
     },
     {
       "id": "news-finance-9f98d76a07",
-      "lat": 49.30729,
-      "lng": 17.27657,
+      "lat": 49.35998,
+      "lng": 17.32091,
       "title": "東大からMARCHまで「難関大の新卒者」を多く採用している企業ランキング【25年・鉄・金属・エネルギー20社】5位日本製鉄、1位は？大学別内訳も公開",
       "category": "FINANCE",
       "time": "2026-09-02T19:55:00Z",
@@ -123,8 +123,8 @@
     },
     {
       "id": "news-finance-dffcdba80e",
-      "lat": 44.86208,
-      "lng": 18.41861,
+      "lat": 44.84734,
+      "lng": 18.42211,
       "title": "VIDA Markets Names Michael Chen Head of APAC as Regional Hiring Takes Shape",
       "category": "FINANCE",
       "time": "2026-09-02T19:36:10Z",
@@ -134,8 +134,8 @@
     },
     {
       "id": "news-disaster-578b237577",
-      "lat": 35.69709,
-      "lng": 139.76451,
+      "lat": 35.6681,
+      "lng": 139.74872,
       "title": "【速報】秋田市に「レベル4土砂災害危険警報」 厳重な警戒を",
       "category": "DISASTER",
       "time": "2026-09-02T20:12:41Z",
@@ -144,9 +144,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnQW03d0J5UVhIR0J2TFBDRUJDN01nc3N6RFAzamdIaWtsN3FlZEZ4b01UQmNES21aOW15aDhPU2t4b2ZRdVU5UlRlSkZMbjc2ODZxenZIa1NUZWJYRlFfakFMdDVzb0VrVEluVjJWemdCUQ?oc=5"
     },
     {
+      "id": "news-disaster-c8de893a3d",
+      "lat": 52.05542,
+      "lng": 10.66786,
+      "title": "Gov. Rhoden Receives Disaster Declaration from President Trump",
+      "category": "DISASTER",
+      "time": "2026-09-02T20:07:53Z",
+      "summary": "Gov. Rhoden Receives Disaster Declaration from President Trump&nbsp;&nbsp;SD.gov",
+      "source_name": "SD.gov",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWVI3ZWlyUnpmM0FTdG1LbW50UWhwSTRlT0JPdXpjVkxNRFZaaTItOUVpQmVFcWdIaGQwVzdfRERHOExhVmNYV0JCQ1RYQVY3NGREdmgyMkJTbGRmeS01UHNiTHhTMTJOSjJuaE9vMDZOLWZaNW1USERrWGtLeUpRcUhnWUJybUxULVM5dnFtc04wdw?oc=5"
+    },
+    {
       "id": "news-disaster-c6701afa74",
-      "lat": 33.78379,
-      "lng": 130.43758,
+      "lat": 33.76327,
+      "lng": 130.43969,
       "title": "【台風情報】最大瞬間風速25m/s「台風24号（クロヴァン）」今後の進路は？週末全国的に警報級大雨のおそれも...9月13日までの雨・風シミュレーションで確認【気象庁3日3時45分発表】",
       "category": "DISASTER",
       "time": "2026-09-02T20:04:00Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-61d4516f52",
-      "lat": 34.72029,
-      "lng": 135.18421,
+      "lat": 34.73768,
+      "lng": 135.21313,
       "title": "「冠水エリアには入らない・行かない」 豪雨による浸水被害 全国で相次ぐ車の水没・立ち往生 水害リスクに備える ”秋雨前線”＆”台風24号” 「警報級大雨のおそれ」",
       "category": "DISASTER",
       "time": "2026-09-02T20:00:00Z",
@@ -166,20 +177,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fbVNkYkQtRHZuVkUtUEZHZ1ZqVmx0VndlWTlBdVQ1X2RuVzIyMjZiNHpSTEpJajA2ZFRNd3pfZ3g2ZmJSMW42UElBcGp6RlVza3hyZXhfYXRDRXBOYnlNd3gzRWI?oc=5"
     },
     {
-      "id": "news-disaster-a8656b3455",
-      "lat": 39.66096,
-      "lng": -76.54442,
-      "title": "Trump approves major disaster declaration for North Dakota after June storms",
+      "id": "news-disaster-fef4ee22f9",
+      "lat": 32.80375,
+      "lng": 130.70771,
+      "title": "＜お知らせ＞熊本地震、救援金受け付け",
       "category": "DISASTER",
       "time": "2026-09-02T20:00:00Z",
-      "summary": "Trump approves major disaster declaration for North Dakota after June storms&nbsp;&nbsp;Valley News Live",
-      "source_name": "Valley News Live",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcnl1WlkyVzNVVjd6NVRjMkd1bHdPcW1SWVpRcjBtbzFXMEpoeHBFSHAxLUtFNk1NdGV6SG1pejM2dUgteEpYUXoteGxCN3NYTXFDZ0I5MXZOUVI4RlNFLTI4anhkajl4dmRMTXRlRWlWMlA3RUliQVhOWFREX0FsdXpLZnF4U2Y0RFAxbmZlTGt5dU9YdnhjUlUtV25JRERKa3NGczUzVV9wek1LYVJWQ2doUndkdw?oc=5"
+      "summary": "＜お知らせ＞熊本地震、救援金受け付け&nbsp;&nbsp;朝日新聞",
+      "source_name": "朝日新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwS1JqYm5WWEx6bTRaX3FlOU1mRlRYYzBadVRCSS1CR1l3UF9mWEhsMldJbFUzSkVoZUJnOFlRVHVocUp5U0QtcUZ3NHFSWVFsbUI1d01PNG9fTU5T?oc=5"
     },
     {
       "id": "news-disaster-58df336056",
-      "lat": 53.80229,
-      "lng": 14.83656,
+      "lat": 53.7963,
+      "lng": 14.82833,
       "title": "'We are going after you.' Rokita warns scammers taking advantage of state disaster",
       "category": "DISASTER",
       "time": "2026-09-02T19:53:00Z",
@@ -188,20 +199,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXZEa1BaalZiTUJYMW9Ub1hzTWtIZ0R4dzZuZTY1LXBnc203aTJCM1NOYU12SjNkYkFQQnlrbnI5aVFPMmdEaHRpUTk2dmh0NWJjYUlOdnV6X3ZGV25JUl84ejRfaFlnZTZTOGpaQlg2M3phNlRDOEhEMnhobmZfSHY1aTZTRmlsdEItbFJJaFJ1UnZTMTkyaUwwQ28teGxOMGtzb1NBbDNfSnVuTkJERC1sTDdydnhoVjI3N2tR?oc=5"
     },
     {
-      "id": "news-disaster-2692c4d4cf",
-      "lat": 51.21712,
-      "lng": -4.72661,
-      "title": "Earthquake close to Ontario in San Bernardino County reported – magnitude 3.4 on Sept. 2",
-      "category": "DISASTER",
-      "time": "2026-09-02T19:49:09Z",
-      "summary": "Earthquake close to Ontario in San Bernardino County reported – magnitude 3.4 on Sept. 2&nbsp;&nbsp;Daily Bulletin",
-      "source_name": "Daily Bulletin",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFZ0WGJveWxQQmYyckNRc0RDMFEzV3NhQ2xxYW55aWdWRmZEXzJ6cTZmaURoM0Y4LTJjSF9idEE2VzRhZlQtVGE1b0licTN2NWZPQnJyamNwM3VycmxHSGRBaFZNdnY4Z3haUFlQcTY5Zm5KMDU1b0dMR1pUZy1XRFJBMHVURVhZR0N6aFI1aElmLTY3eENEVkNVNlo0WXh2QkNzYTJhOEVIdDVwY3FnbWRzV19uVlRTQk1ad3NMeWllLURFS3c?oc=5"
+      "id": "news-accident-80161b31a0",
+      "lat": 48.07614,
+      "lng": -1.74068,
+      "title": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge - Pittsburgh Post-Gazette",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T20:33:29Z",
+      "summary": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDc1aXFkQmpJQ0Y1YmZzT1BsWXJhU0Naam1GZE5ZY1ZFRUI0YW9wTDk4c3dBcFJqTWF0a1NyWUdQaWFsX0dEQU1naHRmaFBjcVNRenZXZW53cW82OW85cmpoNjNCSjI3cjlGUEdLZEZOQ0JkTGs0NHVOeDhPVDJhOFJTQ0hQcGtaUWJaS0EyVjV2WG9oV3BuYWk4Y2stZVhFNDc2NG1kNA?oc=5"
+    },
+    {
+      "id": "news-accident-fa0af9e689",
+      "lat": 30.31171,
+      "lng": -94.44567,
+      "title": "1 dead after accident involving 18-wheeler in Hardin County",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T20:27:00Z",
+      "summary": "1 dead after accident involving 18-wheeler in Hardin County&nbsp;&nbsp;WHAS11",
+      "source_name": "WHAS11",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRFVoWGFIVzU5M1hnM3prUHJBUmNHc2JPSU5MUHNPbkVoaFllTTBpSklXbDR3R2dtNHd3dXVWRU5LdWRfYTRhbmdCNEhYdjNpS0htMkl0NEV3U3ZPWjJuekNjckoxcjcxd0pLUzI1RHczVktxUGNCSVV0a0J5RmtTSzVyX1pMTlo4ZkktbzlUU2xKb2dMS1Voa3dsTWZSaEF6MHBLRllEcjUzN0NyeFR1Q2pKUXpBelVpVDgyZmpqVDRiQQ?oc=5"
     },
     {
       "id": "news-accident-41ffaeb392",
-      "lat": 32.83696,
-      "lng": 130.77051,
+      "lat": 32.76428,
+      "lng": 130.70541,
       "title": "（２３）原発事故の現場でロケハン",
       "category": "ACCIDENT",
       "time": "2026-09-02T20:15:06Z",
@@ -210,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TcVdmX2lhaUtveDV2RXhDLXpNaGMwR0JMRHJrNnFWQXJRanRRcHFPamFvM29pQ0dQZVl0VEFiWk5iam94WTBWT05ROWM1Y28?oc=5"
     },
     {
+      "id": "news-accident-03acb71f9b",
+      "lat": 27.72373,
+      "lng": -81.49013,
+      "title": "Florida woman killed in chain-reaction car crash involving alligator",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T20:08:01Z",
+      "summary": "Florida woman killed in chain-reaction car crash involving alligator&nbsp;&nbsp;WRIC ABC 8News",
+      "source_name": "WRIC ABC 8News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdUxJTWcwaXVuZ2RsbEZoaU5NWWxNRjRCcHdrNEhQcy0wVjBjeExrd3NyempiQjFxSXlYVkxyT1N2bDZtZlVGVW5aeTRSZ1laQmNnMW1HUHJUUEprUWJCcUx0U3VjRzV0YTlBWGRwbUtndEFvb0pJclBLV0VQWVA2eXQyWDBrY0cyaXlEcGRHdDREOWZCTmVGN0R2X2owYnRGcW9jRVhlMzjSAa4BQVVfeXFMTmNCWUNWVHkxN1FRSGhQZDlEdnpsVjAxdms2QzdlTFRXcU1Pam9mODNnaEdGTUdrcWZYOEI1NTZzVFZzM0Z2YVBqVGUtRGRxdWZKNjZreExYbjVOZDNQemRHaS1RYjVVdzVVaWJxa1EtWXBtTmVmUk1uRF8xVDdJVERuVy0xdW1TdXA2WnRqVWR3TGZWLTRhZW1PbUlzdEJEaUhwM1FHMEpXdHdOZ0tR?oc=5"
+    },
+    {
       "id": "news-accident-83c5d3cd1a",
-      "lat": 35.20488,
-      "lng": 129.11608,
+      "lat": 35.25807,
+      "lng": 129.08136,
       "title": "School bus crash reported in North Stonington, serious injuries reported",
       "category": "ACCIDENT",
       "time": "2026-09-02T20:03:45Z",
@@ -222,8 +255,8 @@
     },
     {
       "id": "news-accident-3b0e48d187",
-      "lat": 32.8452,
-      "lng": 130.69651,
+      "lat": 32.80178,
+      "lng": 130.68876,
       "title": "日立会長「年功幹部」終焉／熊本地震、LPガス事故／新興SNS「セットログ」（2026年9月3日版）",
       "category": "ACCIDENT",
       "time": "2026-09-02T20:00:59Z",
@@ -232,42 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBS1RxUVhac3RKVjdIeGVXUXdTWEVpOGRVRmZmT2ZtQlY1ak5xdjdETmctMEt2eFJwVF9jWG54QzRZNkd4QmRUX1BvdjNFTjhPTVdIbEEzcUNMQVBRTUprdU01WENoamZNUmc?oc=5"
     },
     {
-      "id": "news-accident-a2d4401775",
-      "lat": -12.53178,
-      "lng": 130.94364,
-      "title": "Driver killed after SUV slams into cement truck, bursts into flames",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T19:51:53Z",
-      "summary": "Driver killed after SUV slams into cement truck, bursts into flames&nbsp;&nbsp;WOAI",
-      "source_name": "WOAI",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW83MVZ6SWhOQ0NEdFFTNVBnTWJzZzBpeGg4UGN4dTFLb2p1ZU9XQmMyeHFQQ05nT3BYRWZhTTh6VXBIVk13dXEzY25WeG5aaGMyMzlURjd2dHl3YXQ5a2JFTG02Wnh2YWVSUVdobVE3Nkp1XzVYZjZIQURLSWViUkozR1F5bjQ3djFHbE9n?oc=5"
-    },
-    {
-      "id": "news-accident-a59f868d98",
-      "lat": 27.77482,
-      "lng": -81.50512,
-      "title": "Florida woman killed in chain-reaction car crash involving alligator",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T19:48:20Z",
-      "summary": "Florida woman killed in chain-reaction car crash involving alligator&nbsp;&nbsp;WAVY.com",
-      "source_name": "WAVY.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGJHWFRJZjNvWmFpUlZoMjJYTnZPdlUzNjM4MnpZSDRXVGpuRXRoSHIzLXFKNDlqS1FoYlNtdGRjMnE4MVdaa29JQWRYVGg2YkJ5aExzRVRqQjROTGVjVG9tYnZJSnFGbGo1TnJIajh0Sm5pbHlOc3VHaE5MTjc0dlViN0hsMXBHVldiNENoRjdhd2JZNUc3OVhXZkNQajRGQjF6T2lEc9IBrAFBVV95cUxQYW1LMVNidDJBUUNPaGZkcW9fOTZkVkpXeWxVUVRhb2l5NkM1U1ktX1NsaFJxVXY5ZjFZbEpyNG9nb2IxeThRR1RvUkE2dUVXZElYdDhaZG42b2FhRjdjT2ZwWExkRXdQWWlHVURHQWU1VDhzSldjaWxiLVl0S0c5VnFpLVAwbVdHRGhOSkIxZFRkLTExRnVoMlNHUFBkTFJrZ3AweWRvUDVYYVVO?oc=5"
-    },
-    {
-      "id": "news-accident-d2f4beab5f",
-      "lat": 54.34883,
-      "lng": -4.43302,
-      "title": "Bride-To-Be, Future Scientist, Gone At 26 — The Story Behind The Tragic Death Of Ph.D. Student Kennedy Reed",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T19:44:55Z",
-      "summary": "Bride-To-Be, Future Scientist, Gone At 26 — The Story Behind The Tragic Death Of Ph.D. Student Kennedy Reed&nbsp;&nbsp;MadameNoire",
-      "source_name": "MadameNoire",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wdm1YSzVsSmxZdFhuT05GRDRLaTBZTW9YZXFtbktrX25PaXk0MV9TMzc0VWNTb2Y1Y2tQcHc2NmxkZXA1bGR3VkpWZUdhYjhDREFTcnVhUXNyUVN1eVFETkp0OENhd0gwS2c?oc=5"
-    },
-    {
       "id": "news-disease-3ba399f4d5",
-      "lat": 8.56592,
-      "lng": -71.21847,
+      "lat": 8.5462,
+      "lng": -71.20676,
       "title": "Moral Maze",
       "category": "DISEASE",
       "time": "2026-09-02T20:00:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-ea3b661e26",
-      "lat": 49.78705,
-      "lng": 142.92993,
+      "lat": 49.76661,
+      "lng": 142.94181,
       "title": "夏バテとケトン代謝について - クラウドファンディング",
       "category": "DISEASE",
       "time": "2026-09-02T19:11:23Z",
@@ -287,20 +287,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96bk1rWFB2MjFwVWFpWnNFOFZPZnpHZjIxUTVfSlJVUG9EN3JzR1V0QlQ5dXFVSThRTXM5OWRnSHVoRi1EalpzcVBKYmJuQ0hNcERuXzNGS3lYYkZvU3MyV1VBOUZLY29qZE5kSXRhZzUtajdTUGc?oc=5"
     },
     {
-      "id": "news-disease-d444d25bd4",
-      "lat": 15.05086,
-      "lng": 38.51309,
-      "title": "WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak",
+      "id": "news-disease-47674b079d",
+      "lat": -3.03994,
+      "lng": 23.83846,
+      "title": "Congo's Ebola outbreak shows no signs of slowing as deaths top 3,000",
       "category": "DISEASE",
-      "time": "2026-09-02T16:38:37Z",
-      "summary": "WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeWNxZHZHdGQta0ZUeEo2Y09vUjVDYXhBcTRuZW44TldiZ216SXJFakFRU0UtdkxmQVF3bWpLV2NReGZTb1VEUDhVNTVmU0tmLVBqZkRzLXZuQkpQbkF3ZXI4VW5KYUV1b3JRZTJhckczTDdVN2tPdHdSR3J0NFFqWVFYUElURmpCeTJoNVRUbVBZVUZnN3pvT2tKYzhJZGVfR29fNVNkcjZLUVNrSmF0TG9obUlwSHpkYnRXUE1hUUlpNGlIT2p6d2ZEdVlWUEJseUw0aGhsWDhLZlk?oc=5"
+      "time": "2026-09-02T18:51:44Z",
+      "summary": "Congo's Ebola outbreak shows no signs of slowing as deaths top 3,000&nbsp;&nbsp;Big Rapids Pioneer",
+      "source_name": "Big Rapids Pioneer",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHVPR1F5RFhMN2Z5YlI5TVNicTh5WWRKcDJ6Yzg0SjRMTlZoSW5NZHBOeGcyQ0gzQV9uN09MT09iMmtpdElRWDZ3ZWNNMmhrNERzZHVJb29VcmpTd192c3VlR3Z3WGF6SW0tU2NPNktJWTFDRDJEdDlQSXg5QW9ybGxJMjRWSGNhWm5Wb01YQjFUdlFBaG94VWZValVpeXFraVZKT3gwQUFLUQ?oc=5"
+    },
+    {
+      "id": "news-disease-21d7ff3073",
+      "lat": 15.07977,
+      "lng": 38.54794,
+      "title": "WHO's Tedros Says Ebola Response Must Be Scaled up to Tackle Congo Outbreak",
+      "category": "DISEASE",
+      "time": "2026-09-02T17:23:17Z",
+      "summary": "WHO's Tedros Says Ebola Response Must Be Scaled up to Tackle Congo Outbreak&nbsp;&nbsp;usnews.com",
+      "source_name": "usnews.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjRNZzlPNjdZMkp5ZUthdUFEVVpFbGlaTkE0TWlsdTFqdENHbFZaTldZU2h6RVZoNU5Oa2NOaGtrZ1hRQlczenhkOTFWa3oxU1ZLaXY3a3J6RlJNYmMxenl5cGVPQzRBaWY1M1ItTi1LVy1xNGpsQUlwNFJRVV9NdmtGalJVbkFmWGlLblhJai1zQlVad2lNaFd4X01hZWQ5MXRWMmctaVQwZFRHRXVGLU1RWHZiQ0N4TG91TVN2WmotOU5ORjgw?oc=5"
     },
     {
       "id": "news-disease-2d0b8aeb8c",
-      "lat": 52.54221,
-      "lng": -3.02289,
+      "lat": 52.54399,
+      "lng": -2.98239,
       "title": "More than 3,000 people have died from Ebola in the Democratic Republic of the Congo",
       "category": "DISEASE",
       "time": "2026-09-02T15:44:46Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-bed5586f48",
-      "lat": 32.02552,
-      "lng": 35.88954,
+      "lat": 31.97944,
+      "lng": 35.88837,
       "title": "Children as young as six going to A&E in mental health crisis",
       "category": "DISEASE",
       "time": "2026-09-02T12:21:27Z",
@@ -320,42 +331,53 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-disease-546cffcfbb",
-      "lat": -17.97485,
-      "lng": -63.26923,
-      "title": "歯みがきで「血が出る」人は要注意！ 全身の病気と老化を招く“歯ぐき”の危険度セルフチェック｜3ページ目",
-      "category": "DISEASE",
-      "time": "2026-09-02T11:26:27Z",
-      "summary": "歯みがきで「血が出る」人は要注意！ 全身の病気と老化を招く“歯ぐき”の危険度セルフチェック｜3ページ目&nbsp;&nbsp;OTONA SALONE",
-      "source_name": "OTONA SALONE",
-      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14RU1iV0RuQ21pcFBuRm1MSUp5LVgwN0ZBUFdiNGFEWEFOUHpjVDVyTmFVeEtvMExqMVpWMm1UMDQwYi1WcW5Wbg?oc=5"
+      "id": "news-technology-dcdab907ad",
+      "lat": 48.13811,
+      "lng": 11.72881,
+      "title": "Broadcom Third-Quarter Profit Soars on AI-Driven Revenue Growth",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T20:36:36Z",
+      "summary": "Broadcom Third-Quarter Profit Soars on AI-Driven Revenue Growth&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVZZdENPOUlETmdDb3VpR2tlRVJpX2tUUkx4aktLZlpXcEhlYTMtbHNlOEVyeDU1bFFxMWUzemtZVzZCQTBaUVpYTGl5Tko1QnBCallrMGI5LUxLSG9KUHcxOXJvUmhVMUZMRVBqMmVNWmw2T2kwX2UtdmVYZnJ3ZU9HZkNodDlwakVNV3p6YnBQam1pN2lJYXFPQ2lhZjBPZTZ1Q1VRWERtYjlIOGVj?oc=5"
     },
     {
-      "id": "news-technology-34ffd3a96c",
-      "lat": -25.25986,
-      "lng": -57.55604,
-      "title": "Consumer Technology Association Ends Lobbying with McDermottPlus",
+      "id": "news-technology-b2538d9201",
+      "lat": 35.52435,
+      "lng": 139.50171,
+      "title": "トランプ政権、G20でAI規制論けん制 米テック首脳も発言",
       "category": "TECHNOLOGY",
-      "time": "2026-09-02T20:19:45Z",
-      "summary": "Consumer Technology Association Ends Lobbying with McDermottPlus&nbsp;&nbsp;Legis1",
-      "source_name": "Legis1",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WYk5wZG02b3d0NlM3Y0R1RjhyYUpsOEhpdkRSbVZjY3J6d1NVUTNrU0Nsdm8xZnJGUGdseXliZTBDSkRPSjNCN1ZJUkFzT2J6LUlkS1VJZjFxeEtsaDhCbWwya21YcHNuSmFweEdyck55WmF1U1l5Ng?oc=5"
+      "time": "2026-09-02T20:29:19Z",
+      "summary": "トランプ政権、G20でAI規制論けん制 米テック首脳も発言&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCODkzTTdQSlJZM0QzMmJqckVjUnN5MXVNQ3FYR2tyNHZ1UjR2WE1uOVhFSkJQc0pZNlRrOG4zZHkwRTFSQmdhTWtuYk1HOFhEM1JXQXdKeGt4YTZiUEpIVGRkTXhBbWpJYm1ORg?oc=5"
     },
     {
-      "id": "news-technology-752f649bb1",
-      "lat": 51.02731,
-      "lng": -114.10781,
-      "title": "Mamdani imposes one-year ban on AI for most NYC students",
+      "id": "news-technology-b90ca58256",
+      "lat": 31.28282,
+      "lng": -98.5632,
+      "title": "グラディアント、テキサス州西部のハイパースケールAIデータセンターキャンパス向け大規模水供給施設に関する契約を獲得",
       "category": "TECHNOLOGY",
-      "time": "2026-09-02T20:17:05Z",
-      "summary": "Mamdani imposes one-year ban on AI for most NYC students&nbsp;&nbsp;whbl.com",
-      "source_name": "whbl.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVE1VcEVKc05BdDBQaWY0Y0I3aEl0UUNTblJrNU5hT3VYM1ZsSWRBRWlRV1RnTmxPTlBRSEY5eWpyRVlrR1E5Vm12NElhbTFncEZSbkJTbHM0V2dabWxEVkR4aGNsNUxDajhOYWJ0azgweEZaVE91Wl9sbnNhcEMyeDNpbFRURmJwWXMyUU9R?oc=5"
+      "time": "2026-09-02T20:25:00Z",
+      "summary": "グラディアント、テキサス州西部のハイパースケールAIデータセンターキャンパス向け大規模水供給施設に関する契約を獲得&nbsp;&nbsp;Business Wire",
+      "source_name": "Business Wire",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uMlJrNEI1WWxvRWhBcE1Qck43YnN0WjJhRk5nX25lU1o1Ry1JVEpHb2VqcldZWkhtOFVZVm1KYkhPXzFsZlc5MUZNcjQ1am00aHdJZmhBd2NsX0RYcDNxbTlDeFZyLWs?oc=5"
+    },
+    {
+      "id": "news-technology-d0eb9d2c78",
+      "lat": 1.33472,
+      "lng": 103.71453,
+      "title": "Wonderful raises $550M at $5B valuation for its AI automation platform",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T20:25:00Z",
+      "summary": "Wonderful raises $550M at $5B valuation for its AI automation platform&nbsp;&nbsp;SiliconANGLE",
+      "source_name": "SiliconANGLE",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWpwQk9RNGJoX21Samo2Z1lIVktLb3BmZW1XSy1BMFpEcU1uV25aRm9FWjBxVkhrVnEyeS0zQVZWNGlTT0VLNFFfUGlHVm5adlZMMmhKVXpEVHVEZUR4TVNLZ09tSkFYeDB4M1Q5Q0dkWDJZVlpwZHlfMTE4X2duTTRHc09XZ1k1NGRCNTRsN3J0eUQxcUo5QUoteThQRU54UURkYnFnVHg?oc=5"
     },
     {
       "id": "news-technology-f653ab34df",
-      "lat": 32.72047,
-      "lng": -96.77802,
+      "lat": 32.76767,
+      "lng": -96.83811,
       "title": "At Dallas’ TestFit, AI Assistants Can Now Direct Real Estate Feasibility Studies",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T20:10:21Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-caec9ff5b3",
-      "lat": 34.52106,
-      "lng": -110.06736,
+      "lat": 34.49209,
+      "lng": -110.07292,
       "title": "Snowflake Earnings Today: AI Drives Beat",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T20:05:00Z",
       "summary": "Snowflake Earnings Today: AI Drives Beat&nbsp;&nbsp;Barron's",
       "source_name": "Barron's",
       "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pcXJnUmJMc3pDaG1lTExOUEcyOHZsbjJ1YTg5c0kyNkNBeUxqalZIckFuYXR5dFlYdUdxRUxaQ2FnUW1HOHpvN1Q5TFdtN1JfNzBmZUNlNEF1S1VGSlVhT3llRDRQanN6c0pZWF9iRnBuUlFFZnY4OGQwak8?oc=5"
-    },
-    {
-      "id": "news-technology-3fac153561",
-      "lat": 49.1666,
-      "lng": 6.17062,
-      "title": "Meta says AI glasses fix stops users from secretly recording others",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T20:02:43Z",
-      "summary": "Meta says AI glasses fix stops users from secretly recording others&nbsp;&nbsp;CBS News",
-      "source_name": "CBS News",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5"
-    },
-    {
-      "id": "news-technology-f85f43e2fa",
-      "lat": 35.58261,
-      "lng": 139.67448,
-      "title": "トヨタ系のAIサムライ、AIが特許網を生成 中小も技術保護しやすく",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T20:00:00Z",
-      "summary": "トヨタ系のAIサムライ、AIが特許網を生成 中小も技術保護しやすく&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMWlZBUmFGRG9sWkpHczQ5bE82VEJOenZpcm5YLWs4LU9ieXhoNTBsM2JHNVFUY2xXelBEV3k2NzhMY2pjbEpBLWlqOUpJV2ZYUURfRjFldXRzamdkN1NPSTE2SEtVdl9uNXV1Yw?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-02T20:25:19Z"
+  "updated_at": "2026-09-02T20:38:07Z"
 }
