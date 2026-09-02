@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-8c1affc0d2",
+      "lat": 42.00619,
+      "lng": -124.23072,
+      "title": "Republicans Just Handed Democrats a Surprisingly Potent Win",
+      "category": "POLITICS",
+      "time": "2026-09-02T17:37:00Z",
+      "summary": "Republicans Just Handed Democrats a Surprisingly Potent Win&nbsp;&nbsp;Slate",
+      "source_name": "Slate",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaEl1WktGdXN0dC1YUEVVM0lRbi1ac2R4dWpCNDVlQ1FwNHJNSFdCUFVLbUVVNnFyaXlyNFpyeGM3bFZXYmk5VXBkNzRsd3RlY25NU0UzOFZQXzZ5TUhDejJTeEpXSHVxbzJPY1MzS1l2VVVBbFhzNWpJR1ZnQk9TUG9qTXpQaU53?oc=5"
+    },
+    {
+      "id": "news-politics-b2d58a50eb",
+      "lat": 53.86943,
+      "lng": 10.23412,
+      "title": "Why didn’t the age argument work for Seth Moulton?",
+      "category": "POLITICS",
+      "time": "2026-09-02T17:35:59Z",
+      "summary": "Why didn’t the age argument work for Seth Moulton?&nbsp;&nbsp;WGBH",
+      "source_name": "WGBH",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3ZtWFFvbUNaT0p0UnU1SzViRmdIX3ZkTnIwVkJGZTYzR2s2aUZMVW0yNVZpb0pMcVExZS02RGJRamcwM2pYeGowTGFVQm93enRXSEZnSm82S0VFREVJMTllM2g2TEtaYTFzRTFjSmM2SlNESnl6V0hrbnFqdzV5R0RMdXpqNC0yY1QwaHhtVmhMMlduOE1XUTdR?oc=5"
+    },
+    {
       "id": "news-politics-b23220bf5e",
-      "lat": 32.9679,
-      "lng": 56.96543,
+      "lat": 32.96352,
+      "lng": 57.05682,
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "category": "POLITICS",
       "time": "2026-09-02T17:33:45Z",
@@ -12,9 +34,31 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-politics-593f6a5248",
+      "lat": 27.77712,
+      "lng": -81.49938,
+      "title": "Florida Gov. Ron DeSantis takes on several hecklers at GOP event",
+      "category": "POLITICS",
+      "time": "2026-09-02T17:33:00Z",
+      "summary": "Florida Gov. Ron DeSantis takes on several hecklers at GOP event&nbsp;&nbsp;Tallahassee Democrat",
+      "source_name": "Tallahassee Democrat",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQnUtZ1NBaFkwTFR2VmhfaENocDB4bk9za1dFUkdSOS1Wd0JGdXE5Q09vNlYxNllFTWZQaTV0TV9xSkZxbWpFZGZFS2l3OUYtMlZuX2xTc1ZDSWwyMmpGVlo1YURQYlVBUm1XTm1WeDAweDUxZHpFdGZWZVptMWZRalJ4M1FmSndLam04dEpJc01YaGZock5Hb1dESElYY1JZTmtvNmY4V3ExVERqcll5a1M2MHBwcG8yemNBZzQ5aTZpSGtxMkI1VWkwYmNLMnNFdVJsU2w5RC1udw?oc=5"
+    },
+    {
+      "id": "news-politics-6460d77f76",
+      "lat": 42.36942,
+      "lng": -83.03681,
+      "title": "Detroit Free Press. . Free Press politics reporter Clara Hendrickson discusses the two candidates In the November election for Michigan governor: Democrat Jocelyn Benson and Republican John James.",
+      "category": "POLITICS",
+      "time": "2026-09-02T17:25:34Z",
+      "summary": "Detroit Free Press. . Free Press politics reporter Clara Hendrickson discusses the two candidates In the November election for Michigan governor: Democrat Jocelyn Benson and Republican John James.&nbsp;&nbsp;facebook.com",
+      "source_name": "facebook.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVVZlVDhfZXF4LXM4U1ZzQkZwMmVtaHVkenhhUGdTeFhuWERvZ2pZbE55YXhVRjZvQXlnZlFyYUZvcWNFR2ZBc09QVlVUQ296cHVsUWZ3dWFrbjdMc0Z6RG1tV1JqMC1HaEN1d2JfQ19PWTNTMUJNQkd2UmVKU1FuanZqWXZuU1dMSU9xRU1uYmVoaFAxcHVMODAtWVVMRFNWNWprUDRjRm5pSUx3OUpTRERnQjZoTUxnaGJMMEwyYmdOcG1kUVNmRnRzejQ2WGNndlRoNlhxQk5YbDczWFlKbw?oc=5"
+    },
+    {
       "id": "news-politics-bd5d8e7cab",
-      "lat": 42.05517,
-      "lng": -124.31774,
+      "lat": 42.04566,
+      "lng": -124.26356,
       "title": "As Republicans plan to gather in Bush’s backyard, his influence is largely absent from the party",
       "category": "POLITICS",
       "time": "2026-09-02T17:23:29Z",
@@ -23,64 +67,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR1VodUx4STQtOEprSzc0eWF1OUhYcDFLSDlZN2N1NW85dU9rMVBDX25SV2o4M3VHZHlMdXpKcWRiY0dNQVhyaks1cFgzcjZlaUtPMngxckE2dkt0YlNRcmFDS1RyZkNNNWRhUFdwZWQ0UE9kN013ZERzV0lLUnYxYUpsMU90b0I5T1libzVtX3VvRWVxSVZ0aDBpbVd2a01jZHlGSE1SRkU3Y1RIeDU2a20wNVM5c2xTVkJYMFVFMmFJaG5SUFViMFJlZW43ejVLWFVUTU9DdDJvOG15LUFXV1N3d3lYcjTSAe8BQVVfeXFMTnppeWMxSUJWa3paVTNaaVBXUXFMLWpVSm5TRllzN211aXpFaVNzVFFwOWFXM1ZzREtXQWpNMllwSGZncXJhVUpQTkdOQnZyb3dzcHE3RTN6QUlLOFUzMUpKYXhpZ1VoN3RoQ1djeDREV19sQi1XQ3VXOVBPLTZFRHVmVlA5ZmVPZE1GMDI1OWE3WXlkVkxEZVZHM1kxQ0l3ZjFvUDhOY2p2R2duVGhtdDZSeExzZXNwOWx1bGJXTFFMdVBBSWhuaU5SOXZtamppZmZDbGNzMmdIWDNvd2I4NjNWSUt2Ri1Fa1RZRVpHc2M?oc=5"
     },
     {
-      "id": "news-politics-d11513b99f",
-      "lat": -33.94126,
-      "lng": 18.62968,
-      "title": "FACT FOCUS: Texans listed as 'suspense voters' can still cast a ballot if they confirm their address",
-      "category": "POLITICS",
-      "time": "2026-09-02T17:06:13Z",
-      "summary": "FACT FOCUS: Texans listed as 'suspense voters' can still cast a ballot if they confirm their address&nbsp;&nbsp;Houston Chronicle",
-      "source_name": "Houston Chronicle",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnFJYUZJWVUyS09rU0tydGQ1b1hEMWlHS2F1aFpnU0M0SzlLTVo5Tlktb045X1MzR0ZTNTVoMjVyUjF0aGdYWGZVaFl2eGlRQWExOTVFelJ5T0k5R25WcFRhZ3NKVlhqcTRycmNrV2pJb0sxMmY4MDdLU3d1WHlyUGhQQ0dLV0lmSFNCRlE5cVpCYk1VWnZnbWdzWjFlQjZ6UDFJUjRsaFgySGJ1eUNNRA?oc=5"
-    },
-    {
-      "id": "news-politics-007479b027",
-      "lat": -5.08147,
-      "lng": 139.93008,
-      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
-      "category": "POLITICS",
-      "time": "2026-09-02T17:05:09Z",
-      "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-8c03053f1d",
-      "lat": -34.12197,
-      "lng": 150.79585,
-      "title": "Parenting in political chaos: Guide for families",
-      "category": "POLITICS",
-      "time": "2026-09-02T17:02:08Z",
-      "summary": "Parenting in political chaos: Guide for families&nbsp;&nbsp;vnews.com",
-      "source_name": "vnews.com",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rRWdJVVh5aTg2MnN5QWhMWnBRaW0wTHQ0T05VRVBvVVNDY1hmckdJZlBzbGpfMmlDXzJvVHpZdXljNlRJNG5CbmU2TkZYZ1RSM1hFbDdLZHFoTkpMeUVJY1pCbUZiTTlVNzhiLWk5aw?oc=5"
-    },
-    {
-      "id": "news-politics-c05a30809c",
-      "lat": 18.31604,
-      "lng": -73.88402,
-      "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
-      "category": "POLITICS",
-      "time": "2026-09-02T16:58:59Z",
-      "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-finance-e4a9954feb",
-      "lat": 47.07246,
-      "lng": 9.20893,
-      "title": "After Merger, GoPro Hopes To Expand in AI, Defense, and Aerospace Markets",
-      "category": "FINANCE",
-      "time": "2026-09-02T17:37:43Z",
-      "summary": "After Merger, GoPro Hopes To Expand in AI, Defense, and Aerospace Markets&nbsp;&nbsp;POWDER Magazine",
-      "source_name": "POWDER Magazine",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01YTU1aW5JQ1RodWkwQWtIVFhpYWhuY2hiZlUxV2RtcHFZQTlwaE82WlJmUzdUUWJXclJqUWdUdE1Hd3Z5NDd1d3NrZEpBZU5waVpmVjllQW9HMFhh?oc=5"
-    },
-    {
       "id": "news-finance-45aac517df",
-      "lat": 4.00481,
-      "lng": 12.54404,
+      "lat": 3.97469,
+      "lng": 12.62045,
       "title": "SEC Eyes Plan to Open Private Markets to Retail Investors",
       "category": "FINANCE",
       "time": "2026-09-02T17:25:12Z",
@@ -89,20 +78,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaU42Rnhybjc1aXJldnJsYzhPU1J4akVUc1FXUUU0Wnc3aVc1a1lfMms5ZEVhaEo5QzlTRHAwZngzX0Y5UVNUeXEwOWM3ZUd2a0JBUzYwbWZqVk1UaHM0dXVSaTAyN2ZEcko0RGZRem1OVUlFVXFJRVpTVFFSLVRrRi1lMnpXN25uSXR2SzBaREFIcWZobXRKQm1MbFJ2aEE3Mzd6XzBlaGU2UVNFRWpZUDFKRQ?oc=5"
     },
     {
-      "id": "news-finance-92b72c97e9",
-      "lat": 39.06791,
-      "lng": -90.31445,
-      "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
+      "id": "news-finance-1e088f91b9",
+      "lat": 41.6384,
+      "lng": -87.50502,
+      "title": "Burnham beware, the bond markets will demand proper answers in the budget | Nils Pratley",
       "category": "FINANCE",
-      "time": "2026-09-02T17:23:48Z",
-      "summary": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets&nbsp;&nbsp;CoinDesk",
-      "source_name": "CoinDesk",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOejhsSzliSTdZa2pjb25IcktRejYtMk1VTDNZQXlCWE5peU8yTDdLWTdYRU84ejJZVWZ1UE5VTG1qY3VLcXNaRHo2MnM2SnB2QnNyRWRkb0t1OElqMjlPMHZBRUNXRVFhMThlNEY1dmhmSU9LcXdZS3JqRy1vckxkRmg1bmRWVnBJUnZ6SEF3b0hGb3pxT2R2ekNjMEdVbVlfMmMxcFhhN1dtUTR0RFgzbzFwZm1PSGFfRGV5UldzY3NNUUxsOXk4?oc=5"
+      "time": "2026-09-02T17:16:00Z",
+      "summary": "Burnham beware, the bond markets will demand proper answers in the budget | Nils Pratley&nbsp;&nbsp;theguardian.com",
+      "source_name": "theguardian.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTE5aWE5aZEw4NGRiZ0JNNC12NmtMZGdYUjllaF94RVQ1M2pHRkxReWE1SnZSWXJ3bkxCYzViY3JvS01sRVdHM1BES2lkWEl5M253dlRscnB5bjdEQTltMUxOdlFGcURXZFUyZ3dBMENucVFCajJ1MjdXeFZsa2dtbm45QjlTY2owZnVvcEd2LTJ5b2FDTmNXYWc1aVYyYUVsb1hQeTB1cDRfc2xlWEdpTkRBdkdETV8zNjEyWHpSZw?oc=5"
     },
     {
       "id": "news-finance-a5d2c2f1ec",
-      "lat": 65.8333,
-      "lng": -144.11625,
+      "lat": 65.8494,
+      "lng": -144.11762,
       "title": "Circle CEO Urges U.S. to Lead Digital Finance With Stablecoins",
       "category": "FINANCE",
       "time": "2026-09-02T17:15:00Z",
@@ -111,20 +100,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGlrdkJwVWFFMVgxNnBPOE0zZl9uZXVrMlVCMkp2a1hwWHgxd1g4bHVwY0FOcndjWFJ2NXF3cWFSOFM0bXRkVXBKZ29nVTg2V2pzYVpCWnRHUElGRDJjMlpCNS1sVWg1YTJFdDZHa1FnR3VXQnp6VlhIaHRQbDZ5Y09CQlh1LUVkaEMwMnpqdnBaZw?oc=5"
     },
     {
-      "id": "news-finance-f7ded90408",
-      "lat": 39.14285,
-      "lng": -90.28809,
-      "title": "New Jersey asks U.S. Supreme Court to decide whether prediction markets can bypass state sports betting laws",
+      "id": "news-finance-7e9859ee5d",
+      "lat": 36.74232,
+      "lng": -118.80562,
+      "title": "California Mega Team Tafoya Real Estate Joins eXp Realty",
       "category": "FINANCE",
-      "time": "2026-09-02T17:01:41Z",
-      "summary": "New Jersey asks U.S. Supreme Court to decide whether prediction markets can bypass state sports betting laws&nbsp;&nbsp;WRNJ Radio",
-      "source_name": "WRNJ Radio",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSXRiWkY5VGdGYUk2NjZrTU9RVm1vUXhrVlVBR3NJUWF4QTZubkFRX29DUUFFbmNFM3FXOVRNNFFYeGg2QW1FNXhKa19YTjllM2FVdzdIejdpb3NMV24ycnRYWGd3OUNkajdxYzRKU2lJbThzTWlKcVRsZ202T2hqSC1ENkUxMHRINURsSWNfX2NTMXdKNkNnZFJDbnZiQUgtb3VtS0RuRUlfVW4ya29vTEx0TllidWhwVDQ0YW9leVRvUFJhVHBCVFd3?oc=5"
+      "time": "2026-09-02T17:05:17Z",
+      "summary": "California Mega Team Tafoya Real Estate Joins eXp Realty&nbsp;&nbsp;markets.businessinsider.com",
+      "source_name": "markets.businessinsider.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZXZ5N1pfb25DNXU3NGZaVmlHbzFvSU1EeWtaQWh0QW5saU5OSzlNVzJMVDByMzNsdDNQaTRBenh4dTFhc0JSdzdzRGdVVmFwNTEzVlZ4QUxBVHR2UjdORnVscm9GZ1JLUXpPaHdnY2RZY2hZYm5PdFhvVy1rUlU0eWN4WkVCdlRmbjF5c0MydHJ4RS1YWVBobXMtWEdHTjAxQXM0bDB5VXlibWZSRWJVTDlONmpzdw?oc=5"
     },
     {
       "id": "news-finance-58d71f20cf",
-      "lat": 54.18092,
-      "lng": -4.54175,
+      "lat": 54.16826,
+      "lng": -4.48841,
       "title": "The AI Infrastructure Stock Nobody Talks About Enough",
       "category": "FINANCE",
       "time": "2026-09-02T17:00:57Z",
@@ -133,9 +122,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbTNoSjZ5ekxwX2Q4eFJPX21NRGZkRG9vWWVkSmplelVuQTFjRHc4OXdIVkJfb1ZEanJMYTNqZkt2TnhtYTlrdXpZOWxLWXhRbFBqN3ZUMlMzWkVvSFNIMU1SNXQtc0VDakpwV0x1U25mUHM4U1lNVy0wa0RmQmFmTXVEYXMtbHZnYkUwZjBwaW5iY3lMMUVVaklBbzA2RDR5REp3?oc=5"
     },
     {
+      "id": "news-finance-301f85000d",
+      "lat": 34.68364,
+      "lng": 135.29266,
+      "title": "ペイパル・ホールディングスの株価が本日上昇した理由とは 執筆 - Investing.com",
+      "category": "FINANCE",
+      "time": "2026-09-02T17:00:00Z",
+      "summary": "ペイパル・ホールディングスの株価が本日上昇した理由とは 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source_name": "FX | 株式市場 | ファイナンス | 金融ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAta0YxOTg4MWl6Zl8yOW1XUGtGVndKMnpiMmxBYlRGS2ZGMDhwRjBFVTdSLUJBanZ2bDd5bjNTdnpac2hGNGY4VW1HdkVoX24yeXUzUjJxUVJUcUZoZGJOZ3dDcE9OdEwxWFppWHV5aUlQQkU0QVlr?oc=5"
+    },
+    {
+      "id": "news-disaster-5d0d8cb6b3",
+      "lat": 40.47989,
+      "lng": -74.33989,
+      "title": "New field house flooring installed after flood at Edison Local schools: Now who pays?",
+      "category": "DISASTER",
+      "time": "2026-09-02T17:59:08Z",
+      "summary": "New field house flooring installed after flood at Edison Local schools: Now who pays?&nbsp;&nbsp;WTOV",
+      "source_name": "WTOV",
+      "source_url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQVldtaWYzb1ZaeVl3OVFVNURlMXRheGRQWGFQcEZ5YTRmdUNEZzdFUzB0UGNDY0hfWUthQkJiY21BRllrcXJuSl81QzFodml5WTJYZWVpRkdyenA2VVRFb2JYNEUxNHRsU3R3VjVLc0gzTzlPTXkyV1hhOGJzTWhSV0pDU20yZ1c4T1FWOUNKT3pzd3J0RmxOMUZYYjFsbkliNWxkWlFLemkybERzb2ZJMWVUcElZWU9ZV2libEM1MEFncXVXT1lfMERVbUkyZ2RBUGZpbUxFMmlsRFRoTXo5OThVMHVJQkZUSldYVGdQcnZGRFhERHowWDJ3UnZDMnU2XzdFZUNVNUZQYUc0ZndESWUyakFjU01TeVQzYmY3MVhqVHl4YmxBaXN3aExFU19LTzFrU09CUXZNaG1ERVQtSzdIREx0d3dMMllidG56cm02SlVJeUVLZEltU1VLSTVOWi1NWHFHdXlMTzdzVS10SXRfY01UbllzM2ZEZTUtWEFZV1M0YU9zdDhyWExleGZnbktXV1NB?oc=5"
+    },
+    {
+      "id": "news-disaster-a4201d6a95",
+      "lat": 18.87455,
+      "lng": -72.12979,
+      "title": "Edouard delivers an outsized flash-flood punch to eastern Texas",
+      "category": "DISASTER",
+      "time": "2026-09-02T17:42:18Z",
+      "summary": "Edouard delivers an outsized flash-flood punch to eastern Texas&nbsp;&nbsp;yaleclimateconnections.org",
+      "source_name": "yaleclimateconnections.org",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1pIM0REeFpWVUNCSmtxMTZQbFlXLXhTY0tobGtTWTlGWTdWRjBsSmFtX05UZ1lycTVRcXJkUGt4R2hjUkxpQTRMaFg0aklfaW4zTFYzSDR5OGR4eVhJbU51QTNJS09RV2ptNnd3S18xbHk0MTkyM3FoYlVSMnF5NkZHbHFmZ2tqdXhGSkdJVlpzc3hkRGJ0emdqMTlJTjUteklkdWNjTk81TkE?oc=5"
+    },
+    {
       "id": "news-disaster-f2934fce16",
-      "lat": 47.41592,
-      "lng": 6.01746,
+      "lat": 47.35761,
+      "lng": 6.06848,
       "title": "‘They have nothing’: Flood donations accepted in Preston County -",
       "category": "DISASTER",
       "time": "2026-09-02T17:32:17Z",
@@ -144,9 +166,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1YxTGJQRHl3LThsUVlKME51M0N1VDhMbmw3M1hqSm96MjdCU1JyVFoxVXZRVmxIRE96YlkwTlVfbE9ETDhUNmFIb3Y5MzgyTXR6bm9iWThieGR6Z3R3N0tUZmd2TER0NHFhWldHMU5JN3pvNE0wUHZZeW1URGtmcXM1aTRvNFYyYTIxblVBWWpDTkVrNVRiQ1haR3F2M1F1Y3BJ?oc=5"
     },
     {
+      "id": "news-disaster-bb8bc4bdb3",
+      "lat": 30.08038,
+      "lng": -99.14808,
+      "title": "Kerrville parks make progress after another summer flood",
+      "category": "DISASTER",
+      "time": "2026-09-02T17:30:00Z",
+      "summary": "Kerrville parks make progress after another summer flood&nbsp;&nbsp;Spectrum News",
+      "source_name": "Spectrum News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVDZJbVRMeGFIbmprekJHZTRJZEd5SVUxMUxJMzhVLVVld1oxT2lzNHVXWGdsdXBoUTRuVnhXMWFHaVkzalRhSmNmUEw2Wm5nRktzS05nVy1NU3JYcEZZU2dMYXBVZEdnSGJfTnJneDNZTno5TktLWjRiSXJlOV9VMUhyUHV2TVU4eEJ5YQ?oc=5"
+    },
+    {
       "id": "news-disaster-f99410ec29",
-      "lat": 40.04081,
-      "lng": 112.40788,
+      "lat": 39.93571,
+      "lng": 112.43767,
       "title": "County to wage weekly battle on ground squirrel population at Flood Park",
       "category": "DISASTER",
       "time": "2026-09-02T17:24:24Z",
@@ -155,20 +188,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2gwMlBjbUNvNVNIUExzcy1FdlFvSk5McWVyQTZ3MXdEX3JKQVAyZXpMZnNRT3RYQjFrR21qdmNIR1dfQ2xlQ3E2cFJNRDZIMHpIU1Q0WTUxTE1NQ2w2T2U2Q1p4dHlmWEZxdzZiQ0l4ZU1IVGJ6QzYwSU14M2hWaExKdHg4SUxfSkV0OXVGTzNuc3dzQWFLY0YxOW9NakgyRkFDWWNUekxPMFJ6X0lsUHh5NXE1Y1dy?oc=5"
     },
     {
-      "id": "news-disaster-954d3723e6",
-      "lat": 53.25469,
-      "lng": -1.08421,
-      "title": "‘Pitiful’: experts condemn initial US aid contribution for Nepal flood victims",
-      "category": "DISASTER",
-      "time": "2026-09-02T17:22:00Z",
-      "summary": "‘Pitiful’: experts condemn initial US aid contribution for Nepal flood victims&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80WVJaVmNPV2pkQkE2QlF3Q0NOZTNDX1JNYUpITURGZm5oZERUaUNZN25wTlprcnhUSEdMT01JdFJMUUFGcXBZOWNDSENwWmU1aGNSenV1cHJRUC1jOHFPQ2RfaG9pT2NWaDFPRXE0dHo?oc=5"
-    },
-    {
       "id": "news-disaster-d28b1d603f",
-      "lat": -3.52167,
-      "lng": 39.83193,
+      "lat": -3.53,
+      "lng": 39.80115,
       "title": "Rare high flood risk for Texas as Edouard dumps over 20 inches of rain, with more to come",
       "category": "DISASTER",
       "time": "2026-09-02T17:09:31Z",
@@ -177,31 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSk5pX1dkUTE3X1lnOTJMSTNCRUtfM1Y5WjJKdXBDbFNUckdNWl9oM1dTQjdIUkloRHJuNVROSlZfVHZRNG9YOFd4WGZyNnR2RjUxSnpxVHZCZm9kUzlVNTZVd0tMVDhMeVM1NWNjQjRTbXBjQk1JeEJiLUc4OTA0ZG5DZkhUWmdoLVNZZy1reWtyaU5acTJZUEJvbWtMZVBUQ2lreXdHaTlrd2pBTF94dFlYYW5UdnpMRFViRHA3cjhSZkg0enBrdlVLUVJPVUJGUzNfcFktLXBScHM3RWF1TnQ0MXZfd2I5QlU2a1oyTVlOUG1OamZyR2JqTExLVXVO?oc=5"
     },
     {
-      "id": "news-disaster-213672c37a",
-      "lat": 38.8681,
-      "lng": -76.93612,
-      "title": "Swept away: inside the 4 September Guardian Weekly",
-      "category": "DISASTER",
-      "time": "2026-09-02T17:04:00Z",
-      "summary": "Swept away: inside the 4 September Guardian Weekly&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUllFdEtPTU1NSm9YNXZFTXk3RW1sdHJCVXZuMy1tTWg4Wm1XZnNOVnVoYW5DXzNNQ1Q3Unh3U3EwZExPTTFiWTFfSFRucUNGYzhGNTB5bkJ1WGk4dVprU0NCcEdUMEJTLUMyZFZISVAyZ0Z0endKRXhsVFhUNnN2azZ6ZVY4SkhNS25UTE5QR0NySFE5VHZJS3pR?oc=5"
-    },
-    {
-      "id": "news-disaster-4ca726f3ea",
-      "lat": 39.97997,
-      "lng": -83.03349,
-      "title": "Columbus Bhutanese community raises money after deadly Nepal floods",
-      "category": "DISASTER",
-      "time": "2026-09-02T16:53:00Z",
-      "summary": "Columbus Bhutanese community raises money after deadly Nepal floods&nbsp;&nbsp;The Columbus Dispatch",
-      "source_name": "The Columbus Dispatch",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjNBU3Y1MWJMTWpwbzdTV2NUYVdBQjd3cG1XRk51Y2pRb2RmUlllZjZyWjJEd1FZLWRTMWI3NE1ITENNRlN3TGNFdjJPQnpHc3BoMElMYVN3cDlkNmJfaDd3bm1WRVZRSXVDZnhMdER6X1Z5ejN6c0hOTUpjdFlROWk4QkdnTXE5UTZTMnJiSmhuSDVOS0RwVU5EYnNqYVB0bVJ2WmxmS2Q2NXlHcmJEbFExQXNIT01fUjJlMnA5aU5jUQ?oc=5"
-    },
-    {
       "id": "news-accident-80161b31a0",
-      "lat": 48.11867,
-      "lng": -1.6791,
+      "lat": 48.07023,
+      "lng": -1.70834,
       "title": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge - Pittsburgh Post-Gazette",
       "category": "ACCIDENT",
       "time": "2026-09-02T17:32:36Z",
@@ -211,41 +211,30 @@
     },
     {
       "id": "news-accident-365a41fd04",
-      "lat": 40.78357,
-      "lng": -92.35513,
+      "lat": 40.73989,
+      "lng": -92.36009,
       "title": "Davis-Woodhall a doubt for Ultimate Championship after car crash",
       "category": "ACCIDENT",
       "time": "2026-09-02T17:29:12Z",
-      "summary": "Davis-Woodhall a doubt for Ultimate Championship after car crash&nbsp;&nbsp;france24.com",
-      "source_name": "france24.com",
+      "summary": "Davis-Woodhall a doubt for Ultimate Championship after car crash&nbsp;&nbsp;France 24",
+      "source_name": "France 24",
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVRaRXluQTRVOHB5VWtRQ21uSWhlRUZzVUNnQ0c3SFY5M1d6ZDBYQ2JTYmxGWkhpNTNEMG9BN2ZFWU9GaUdOTVJQenFieGJYQnB3OVpsWkg5Nk00QldKMHFyU3o1N19kLWkxaHRLQnZTbUpiTnZNY3NDc1o1ZGRlTkhGUWVGQ2llOGNWZ29KbmR1R2VjeHBFZmNPYUVIQnpVeHlFbm9xOVQwOC1JTWVoTA?oc=5"
     },
     {
       "id": "news-accident-05e17ca73b",
-      "lat": 50.99784,
-      "lng": 6.58392,
+      "lat": 50.94119,
+      "lng": 6.58309,
       "title": "I-85 S crash causes major delays at Indian Trail Lilburn Road",
       "category": "ACCIDENT",
       "time": "2026-09-02T17:14:47Z",
-      "summary": "I-85 S crash causes major delays at Indian Trail Lilburn Road&nbsp;&nbsp;fox5atlanta.com",
-      "source_name": "fox5atlanta.com",
+      "summary": "I-85 S crash causes major delays at Indian Trail Lilburn Road&nbsp;&nbsp;FOX 5 Atlanta",
+      "source_name": "FOX 5 Atlanta",
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5"
     },
     {
-      "id": "news-accident-a2d4401775",
-      "lat": -12.48128,
-      "lng": 131.02107,
-      "title": "Driver killed after SUV slams into cement truck, bursts into flames",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T17:02:35Z",
-      "summary": "Driver killed after SUV slams into cement truck, bursts into flames&nbsp;&nbsp;WOAI",
-      "source_name": "WOAI",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW83MVZ6SWhOQ0NEdFFTNVBnTWJzZzBpeGg4UGN4dTFLb2p1ZU9XQmMyeHFQQ05nT3BYRWZhTTh6VXBIVk13dXEzY25WeG5aaGMyMzlURjd2dHl3YXQ5a2JFTG02Wnh2YWVSUVdobVE3Nkp1XzVYZjZIQURLSWViUkozR1F5bjQ3djFHbE9n?oc=5"
-    },
-    {
       "id": "news-accident-83c5d3cd1a",
-      "lat": 42.40436,
-      "lng": -71.0682,
+      "lat": 42.35884,
+      "lng": -71.00578,
       "title": "State police confirm serious injuries in North Stonington school bus crash",
       "category": "ACCIDENT",
       "time": "2026-09-02T16:53:57Z",
@@ -255,8 +244,8 @@
     },
     {
       "id": "news-accident-c66cea7642",
-      "lat": 31.95172,
-      "lng": -99.74846,
+      "lat": 31.95893,
+      "lng": -99.80968,
       "title": "Crews Respond to Early Morning Wreck Outside of Jonesboro",
       "category": "ACCIDENT",
       "time": "2026-09-02T16:27:14Z",
@@ -265,9 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmtBR1NoWmZxa19wOGVxZGxzMjh1c2IzcTJYQzFFak1OODJva1FBNHhVU0tocTZpYlNDdDdZX3l4azAtbjJ3d0hwdFNXZjFoZDc0M0xoMGtVOG0yVGtsSjBuSUp3RmV3LU5mUDNCU0RfNlY1TTJnajhJMk41enc0a3MybzdlMkxYWG9hbVdyT3hZQ2xfbldJWHhXMFlDQVptZ3c?oc=5"
     },
     {
+      "id": "news-accident-3e386333d8",
+      "lat": 35.7097,
+      "lng": -97.41571,
+      "title": "3 taken to hospital after multi-vehicle crash shuts down southbound I-35 in Edmond",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T16:24:00Z",
+      "summary": "3 taken to hospital after multi-vehicle crash shuts down southbound I-35 in Edmond&nbsp;&nbsp;KOCO",
+      "source_name": "KOCO",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjkzOUpKNllWZHFUV2RmNDVLWmxMZjJIOGVSMmF0WmV6Sk03YkZwQ25QLVI2Mzd6RTREZlhHUkJKTUc0Ukc2QjlDTDA5NnN3RG1haFdFQV9JRzBacE5yVHc4R2RYUjBJWWtUNW1vZ0dPZ3hDS0xXNVlLenFtZEV5cVgwT1I?oc=5"
+    },
+    {
       "id": "news-disease-2d0b8aeb8c",
-      "lat": 52.46192,
-      "lng": -2.97457,
+      "lat": 52.4598,
+      "lng": -2.94211,
       "title": "More than 3,000 people have died from Ebola in the Democratic Republic of the Congo",
       "category": "DISEASE",
       "time": "2026-09-02T15:44:46Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-3fabbdc2ae",
-      "lat": 3.5606,
-      "lng": 21.7122,
+      "lat": 3.47192,
+      "lng": 21.67842,
       "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
       "category": "DISEASE",
       "time": "2026-09-02T15:09:32Z",
@@ -287,20 +287,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjUwMFo1WUtEN0t1RFpuaUh5N0c5UGFOSW1oVGZZbDZFLXYzbUI2MFJmdS0wM294ZDliYXo5dEU1Nk9rOHpOMlJITWpBQmRRV2pJczFTSVg2SmRyNU8tTVZrMGlhcFZuTXhpNW82ZHlzVjZ6SGlCRFpVNmdkdnotUU83dDU0S0pq?oc=5"
     },
     {
-      "id": "news-disease-0846499a92",
-      "lat": 35.00712,
-      "lng": 138.34393,
-      "title": "「警戒感を強めていかないといけない」静岡市がインフルエンザ流行期入り \"異例の早さ\"流行のピークはいつ? 感染症の専門家に聞いた=静岡（静岡放送（SBS））",
-      "category": "DISEASE",
-      "time": "2026-09-02T13:09:16Z",
-      "summary": "「警戒感を強めていかないといけない」静岡市がインフルエンザ流行期入り \"異例の早さ\"流行のピークはいつ? 感染症の専門家に聞いた=静岡（静岡放送（SBS））&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6Z1pJQk9LWmlPUzRBSEFyYlEzaG95ck9BS0RFMi1oWTdGMjdtVkFzYmRGTnhwOW1Tb1Voc2otOVlvTnZXZjBXZS1RemliVVlKZ0JtQTFZWm1RTlVGSlBVZ3d5R2haT2t1a1ppYzd0YVc3SDRQelB1NDRUNzM5TG8?oc=5"
-    },
-    {
       "id": "news-disease-bed5586f48",
-      "lat": 31.97793,
-      "lng": 35.79042,
+      "lat": 32.02302,
+      "lng": 35.85987,
       "title": "Children as young as six going to A&E in mental health crisis",
       "category": "DISEASE",
       "time": "2026-09-02T12:21:27Z",
@@ -310,8 +299,8 @@
     },
     {
       "id": "news-disease-546cffcfbb",
-      "lat": -17.99195,
-      "lng": -63.26734,
+      "lat": -17.96238,
+      "lng": -63.27346,
       "title": "歯みがきで「血が出る」人は要注意！ 全身の病気と老化を招く“歯ぐき”の危険度セルフチェック｜3ページ目",
       "category": "DISEASE",
       "time": "2026-09-02T11:26:27Z",
@@ -321,8 +310,8 @@
     },
     {
       "id": "news-disease-db74af0288",
-      "lat": 36.69759,
-      "lng": 139.58957,
+      "lat": 36.79736,
+      "lng": 139.66268,
       "title": "尿路感染症が疑われても「とりあえず抗生剤」はNG【クスリ社会を正しく暮らす】",
       "category": "DISEASE",
       "time": "2026-09-02T09:55:00Z",
@@ -331,70 +320,81 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IRWQtc1lXQm1MVFRjMjRzakNwQ0R0N3dLc19CbTZUU1NCYl9uYzZxTUVHcXFaek9aTzQ3OEV1dWZsM2R4WmpYb0hybFk2QS1GRFNEM0xQLXBGNzhZYzh1Q3FZb3k?oc=5"
     },
     {
-      "id": "news-technology-7cc2593516",
-      "lat": 45.03881,
-      "lng": -93.20708,
-      "title": "Cities turn to AI to speed housing permitting",
+      "id": "news-disease-40c713c8da",
+      "lat": 52.12522,
+      "lng": 18.74067,
+      "title": "Former nurse dies amid dementia drug shortages",
+      "category": "DISEASE",
+      "time": "2026-09-02T09:23:27Z",
+      "summary": "Pearl Roche died with dementia weeks after her family struggled to get supplies of her medication.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/videos/cwyzpy028r3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-technology-18aedf687c",
+      "lat": 52.48082,
+      "lng": -1.99128,
+      "title": "Archive Intel, Zocks pair up to tackle AI notetaker compliance gap",
       "category": "TECHNOLOGY",
-      "time": "2026-09-02T17:34:25Z",
-      "summary": "Cities turn to AI to speed housing permitting&nbsp;&nbsp;Anchorage Daily News",
-      "source_name": "Anchorage Daily News",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd2NfdHJuMnZoTGhaM0JuRjRXM19VWEYwcThOUW1rdEpobUdrZ09FVXJvS18xcWdHMFhiQ3hqV0VsMU9uMWE4QWxYdmdJMDY0NU50MldqV2VackNpMmY3c3lvXzVHQnFpQUFpVUt1blFiU2JVczZObTF5elF1SGtxOUZfTG8wbFhZTzhadE9JOXlXN09rb2pkWC1B?oc=5"
+      "time": "2026-09-02T18:06:07Z",
+      "summary": "Archive Intel, Zocks pair up to tackle AI notetaker compliance gap&nbsp;&nbsp;InvestmentNews",
+      "source_name": "InvestmentNews",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0RfLUZ5elF6YVhOVEZxdmNoenhnWnB3WnFTLU1GQjBOa3FHanJvM242Qm5WeTQwdWZ6VkhTUGtOTzZQb1FmY3NjcjZwd29GM3ItVUN6czc4V1V6N3JibHZlcnRvT2ZraVZQcHJkZ3hWM3NPVjlpWFJIcTJ5ZVVITlpWdHgwTFRMMmhiV21XeW9WeXpjaEZ4TnluWTF2TnRRejhya2RTTDhVVWZOUWtJcg?oc=5"
+    },
+    {
+      "id": "news-technology-1afa19dd8a",
+      "lat": 51.05053,
+      "lng": -114.12928,
+      "title": "Mamdani announces ban on AI for young students in NYC public schools",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T17:42:52Z",
+      "summary": "Mamdani announces ban on AI for young students in NYC public schools&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFh6ZUdPR2g0YUpLb2pCVWRVQkRlOHlhSlZ0R0xpZWN1UXNVX0xsZnVBNWN0RjhsN2ZLSlI2TFdOaHBPUnlUMmJ0NFd1VzM2XzFrWVp4R1VzeHUtd21JMDlhTWZyaG44WXdRaElCUkdlaUhROUhaY0ZjWWxRaHQ5MkJXZGJ1QzVOd3RXMzZteFA2aV8yd25ZVG5oc01feWtIY0U5M25aZ25OWlV4NHk2YkpPVUhXQQ?oc=5"
+    },
+    {
+      "id": "news-technology-1b8c5ae489",
+      "lat": 49.74548,
+      "lng": 4.61753,
+      "title": "This UM professor uses AI to invent new languages and preserve endangered ones",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T17:39:49Z",
+      "summary": "This UM professor uses AI to invent new languages and preserve endangered ones&nbsp;&nbsp;NBC 6 South Florida",
+      "source_name": "NBC 6 South Florida",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXNsUm1OSHp6ZEd1VWUzUWhoYVBIMDllanBObGZ4amhmWEFiSDBVMGRHdWdpWEk5OTBhekNnN0pKSzU0SHFSYjUxdWUxb3p4M3dwZ0hQTXBCbWx6WXRRN09GSFhLcmdrUDZUcktFVVhpOFd3LUFEenMzOFJlLVJZTUVGMjl5X09oSGRWTEFRRFZjbTMzUlZxUE5YTVdoQUNE0gGoAUFVX3lxTE5ZVUFWUnpYVXhVUDZNNjVRMjRENTAzNXB1MmdjXzhZUS03RTNzeW96WVRUNzZzZXRqamllMjBVb3hNTkRtRENUcWlvNklrem1telcwX0wtazUtdG5pZzg1Q1pNR0VjSWtMQ28tcFZwblV5Q01HMDhCREx3X3JHekswdTNhMzBiZUpQUUYtWXV4ODhoeGpRY2QwcWFaWEgzMEsyeklSX2hGUQ?oc=5"
+    },
+    {
+      "id": "news-technology-1f5f0ba9a2",
+      "lat": 1.37495,
+      "lng": 103.70643,
+      "title": "Wonderful Raises $550M Series C to Scale the AI Operating System for the Enterprise",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T17:37:41Z",
+      "summary": "Wonderful Raises $550M Series C to Scale the AI Operating System for the Enterprise&nbsp;&nbsp;hpcwire.com",
+      "source_name": "hpcwire.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnp0alhTTF9KN05Jd1FobWQ3MWZscXc4X3YwTDNqRmVhQ2dsdHIyUktLZGZLcXUybG9zM1BHNWFlY3JYSjUtMk03cFQ5NDB5Nm5VdWpPRVRfOVVCb0p1M0VYX1FxYmNiMkl0LU9wZVdRdnNYV1RvcW9rVHVSM0FwV2FvUTJmbGZMTmRKVXV3NnVfbFZHbS1iOW5JcC1nZTNOTTN6dDUyY1hQWW1mZmVOU0tiZmgyVXBNdjBsN0RzaElmTXc?oc=5"
+    },
+    {
+      "id": "news-technology-e69a141204",
+      "lat": 34.77121,
+      "lng": -86.54598,
+      "title": "Hikers who relied on Google’s Gemini AI rescued from Mount Shasta",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T17:32:35Z",
+      "summary": "Hikers who relied on Google’s Gemini AI rescued from Mount Shasta&nbsp;&nbsp;KRON4",
+      "source_name": "KRON4",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2JHQThVaXp3c09vS29uZFc4MUJZU29xYWlXMHpnUTN0WjB5amRNUzV0MnJDNUM4ckQxMHhjRGN0b0t2aTJQV0sxeC12bkFnb2NEZVo0YVY0WTNHMHF2RGlNYmw5ZFdhUVQxWHFnQy1yMmFlYVFPNWptc1gwdDZDVXRmbzNVVmMwVVZyZmlENlBrUjRnYVJRcElvNDNzMThXckRHR0NOSm10d9IBrwFBVV95cUxQTXhwODhGVHliM3F4RmJPRVVtU1FNeVVWZlBGOUZaM2FwdUJPV1lYajhjbl95dVB6Z0hJTjlOMEJqaEwwUTdWXzN3Ull0Y0lLNFV2SWJ4MmdBVFI5aU8yV2ZIdE04LWs2Z2JXZ1RTNHZNQTd2Yk5EeFJCRGdDU0JrdGVSNWJSendEMUJKN2QxZTI1RW1hdkp1Rlc5WDdIcFdydzhEUEJTai1zVGZBQlNB?oc=5"
     },
     {
       "id": "news-technology-7939e001ef",
-      "lat": 35.78638,
-      "lng": 139.65025,
+      "lat": 35.68776,
+      "lng": 139.6774,
       "title": "The FTC Is Coming for AI’s Honesty Problem",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T17:25:21Z",
       "summary": "The FTC Is Coming for AI’s Honesty Problem&nbsp;&nbsp;PYMNTS.com",
       "source_name": "PYMNTS.com",
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXFYSVBZR0FxMDlpNG9OR3VaTGJJclJWeV96TTZ2a25qZkI2cW9uZEQxcXpfZGtUR01fX1RYUTVIOTdaanlQWmFtMG5TQnpaTXN1NUswYTRlYlB6LUl4OGRSekZoMzVmMmIxWEhaT3lnWVdEeUdYMjJZa2ljVzAxdTVJWnM5X0tHT0ktT1kwSExvVEdfZld2MmlpTmtkblNw?oc=5"
-    },
-    {
-      "id": "news-technology-3cf4ca81c4",
-      "lat": 35.70848,
-      "lng": 139.74514,
-      "title": "エヌビディアCEO、G20各国にAIの導入加速呼びかけ－経済効果を強調(Bloomberg)",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T17:24:11Z",
-      "summary": "エヌビディアCEO、G20各国にAIの導入加速呼びかけ－経済効果を強調(Bloomberg)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOUlkdVZqMEhjcFF6cEhHbHZmZWppMzN4akNxZkM3clhabGNOY0ZrREl0UlA4aWM3R3lUOU5odWEzeW0yWUJ2UDNqYWQwR2lZRm80R1VWYmgwSlpwVTJjSXR3T1M3c0p1eXZPVE5zdTVjbnlvQ0Y0aWpudERqOG1EdVo3VnZnV2M?oc=5"
-    },
-    {
-      "id": "news-technology-19d5d8d9fc",
-      "lat": 50.92347,
-      "lng": 14.04478,
-      "title": "Patient rights and AI medical chatbots: Alignment between the GDPR and EU AI Act",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T17:11:21Z",
-      "summary": "Patient rights and AI medical chatbots: Alignment between the GDPR and EU AI Act&nbsp;&nbsp;IAPP",
-      "source_name": "IAPP",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN3RtVE5majJVeVZETUt3bVRLRVdteWFVVVdqb1Job1FrQ0NwUDJ2R1M3TXdVdG8xQVA2S2x6ZHFSb0w5dDRHNjdrS0doZVRkaHZSZk0tNTBZYUVicWh0cDJsRUlMSm1lWGx3aTh0MFptaHp5SVpzd0gyNDNISnpjN082ZUQwTUZSdzAxMjFMbHNNLXZXN1JCTVRLUldma3o1QW9Ia0tB?oc=5"
-    },
-    {
-      "id": "news-technology-35b59c13b9",
-      "lat": 35.51812,
-      "lng": 139.56737,
-      "title": "ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES）",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T17:10:03Z",
-      "summary": "ポケットサイン、全国初※の「マイナンバーカード（JPKI）×生成AI」で住民向け行政窓口サービスを提供開始（PR TIMES）&nbsp;&nbsp;毎日新聞",
-      "source_name": "毎日新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50dFBDUmVKWjAtQlZEREhjOXNSVFc3YUFGeS1EdmNHQ3llNm90TC1sUVFXSFF5MFR3cXkyaWRneDJnX3JOMXFIaW5NemY3eV9mX1VRd2E3c21Vd2tpYTVndkxkZU1HNGtH?oc=5"
-    },
-    {
-      "id": "news-technology-9dcb77533c",
-      "lat": 51.44639,
-      "lng": -0.05799,
-      "title": "Here’s Why Berenberg Sees More Upside on Autodesk Stock Despite Key AI Headwinds",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T17:07:06Z",
-      "summary": "Here’s Why Berenberg Sees More Upside on Autodesk Stock Despite Key AI Headwinds&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWWxvTEpFVWVVZENGMUpDUnltVVRqNWI2elE5M0RsY1p0MnA0Xy1zNGxmMW9vV1NNMG52Y2R3OFhNYV9vd0tpYVpIZjdrV1NRcXdwdVBGQ3Q2dWRSTk11U0lnMi01Q2M0SndwS0haQkFPalBLeHh3U2x0OGxzaGtVR2lLbWpMOElNS3QxVjk5dzNWTGcxNGxVYnJiYw?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-02T17:48:59Z"
+  "updated_at": "2026-09-02T18:07:49Z"
 }
