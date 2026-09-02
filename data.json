@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-e56d0526e3",
+      "lat": 38.50591,
+      "lng": -90.3954,
+      "title": "Fenton cites ‘geographic politics’ as Governor’s Council bid fails",
+      "category": "POLITICS",
+      "time": "2026-09-02T19:04:15Z",
+      "summary": "Fenton cites ‘geographic politics’ as Governor’s Council bid fails&nbsp;&nbsp;The Reminder",
+      "source_name": "The Reminder",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzgyUjR1LVFCNTFfeDRfY3JEVVI5MFc0UXU0YjdoNzRjaTFrd0llZURGejNYT2x1c0NaWnRmUFRSVUZRODg5cmxFMVBWaFB2QUNpb3BmRzVLNXNzNnkxT0xpdjlMbWloSkhwWHZISVY3MzBpR1N3VGZmb2lnaExkamNPd1ZqeUxPb3liRFBrUHR0U1lpSTk3a3dTbFNYcmNO?oc=5"
+    },
+    {
       "id": "news-politics-7a31d8f204",
-      "lat": 43.11415,
-      "lng": 141.33946,
+      "lat": 43.09515,
+      "lng": 141.2981,
       "title": "アイヌ民族や性的少数者ら多様な出演者次々 社会問題や政治批判 笑いに 札幌 無料ライブ「辻立ち」盛況",
       "category": "POLITICS",
       "time": "2026-09-02T19:00:00Z",
@@ -12,64 +23,86 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RNFk0MXlDV0xRVkdBWmoxNmpxZXQtZFk1WTVCSGQtR05nNENXelVPMmg1U2FSa25vNTFvYUJjTDEtOFJZRFpDX0lRcmtIN3d5bXhxdjZiSGxtQQ?oc=5"
     },
     {
-      "id": "news-politics-e56d0526e3",
-      "lat": 38.53826,
-      "lng": -90.40375,
-      "title": "Fenton cites ‘geographic politics’ as Governor’s Council bid fails",
+      "id": "news-politics-77fd8700e5",
+      "lat": 42.42354,
+      "lng": -72.01058,
+      "title": "Massachusetts Senate Primary Election 2026 Live Results: Ed Markey, Seth Moulton and More",
       "category": "POLITICS",
-      "time": "2026-09-02T18:52:32Z",
-      "summary": "Fenton cites ‘geographic politics’ as Governor’s Council bid fails&nbsp;&nbsp;The Reminder",
-      "source_name": "The Reminder",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVzgyUjR1LVFCNTFfeDRfY3JEVVI5MFc0UXU0YjdoNzRjaTFrd0llZURGejNYT2x1c0NaWnRmUFRSVUZRODg5cmxFMVBWaFB2QUNpb3BmRzVLNXNzNnkxT0xpdjlMbWloSkhwWHZISVY3MzBpR1N3VGZmb2lnaExkamNPd1ZqeUxPb3liRFBrUHR0U1lpSTk3a3dTbFNYcmNO?oc=5"
+      "time": "2026-09-02T18:58:45Z",
+      "summary": "Massachusetts Senate Primary Election 2026 Live Results: Ed Markey, Seth Moulton and More&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXpjdmdSZERkTzlCTWJGbTJPc1lnb3RoTWxZaTFRbl85Q1UwUmFicXRiTFZmZ3JIRWtxclB5MjlFSGY3dUZWMTFuNFZ6UlM2c3I5c0VXYnhqODhxXzNKUy14TmhONDdCV1pkek9oU0FUSVliTlNicWRRSjFxRGxLV1JHZkFGR2hMMWhhZQ?oc=5"
     },
     {
       "id": "news-politics-60a53d626f",
-      "lat": 13.5605,
-      "lng": 7.523,
+      "lat": 13.58497,
+      "lng": 7.48705,
       "title": "Farage compares standards inquiry to investigations faced by fellow ‘outsider’ Trump",
       "category": "POLITICS",
-      "time": "2026-09-02T18:12:00Z",
-      "summary": "Farage compares standards inquiry to investigations faced by fellow ‘outsider’ Trump&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
+      "time": "2026-09-02T18:40:00Z",
+      "summary": "Farage compares standards inquiry to investigations faced by fellow ‘outsider’ Trump&nbsp;&nbsp;theguardian.com",
+      "source_name": "theguardian.com",
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEJ0YnN2b3ZEckRUQk9aNlVGYVlZbUlOeW1yY0JIV0hEMVFlRkREWFF4VkpncjgtOFdkVjVNZHJSaGpYbk50M2djdDE0czVFbm5JR1pJb1poREdSa3lsa2t4b3V0a2VRdVl5OEVtQ0ZfdmE3U3FYTG5SeFllSV91ZDNqZk9HME1Gc2hhc055WUp0MlFPcFJPWVhEQ2tVNHR5S1Vr?oc=5"
     },
     {
-      "id": "news-politics-270b0bc087",
-      "lat": 38.70798,
-      "lng": -92.5824,
-      "title": "Missouri’s gerrymandered map faces final test as Supreme Court weighs referendum",
+      "id": "news-politics-47b8fafdd8",
+      "lat": 39.73008,
+      "lng": -76.56874,
+      "title": "As Trump Throws a Midterm Party, Some Vulnerable Republicans Send Regrets",
       "category": "POLITICS",
-      "time": "2026-09-02T18:03:00Z",
-      "summary": "Missouri’s gerrymandered map faces final test as Supreme Court weighs referendum&nbsp;&nbsp;Kansas City Star",
-      "source_name": "Kansas City Star",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1feWw3WWd3ZlFvYTgySzJVRjJBajNvNVQzSlhBY21QZWljQTM2QXhGcWxhMVFOMTQzdjN5Y2xUemFfUnprNGlQTElScGxaaUVnb05XMUhJYmM1NXhkWlhxdXB3N25HR2txQUZXc2E3bE5ZY1JQQm9nbENIdUtKZ9IBfkFVX3lxTE1OZ0tYemItVmZLQ1pmZVN5Z3BheHltQ1hsaENWbnV4SlI2d2JMZVRaeFBNT0FneGdMRF9MN2FlRTJMbzdCeWIySGdwRVhudHpsQWVMRkE3QlRjdFVrVWRtQzRnQXZiZGo5MGRzek5fcUxIY1RkbWFYa0U0T0toUQ?oc=5"
+      "time": "2026-09-02T18:38:37Z",
+      "summary": "As Trump Throws a Midterm Party, Some Vulnerable Republicans Send Regrets&nbsp;&nbsp;nytimes.com",
+      "source_name": "nytimes.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEUyNHowNjJoeGFiMmtvZVhoX3c3c2doT1czLUxXUy1NTGg0cXFxY3BxX0R3RXlqbWpLVGJ3N0JIdGtFbThQck9wYTlRMW5aTVJyZkdzWDRNXzZjdTFjVmNQSW9DQlE5N2VvREp5ZGtmc25Td1RQYy1wY09pMVU4TzM4VjlackVhSEZJRUo5N3Z4QQ?oc=5"
     },
     {
-      "id": "news-politics-cfa783d900",
-      "lat": 33.3528,
-      "lng": -87.96279,
-      "title": "Reform up against 'complainants' society', Farage tells BBC",
+      "id": "news-politics-0e5f5d6458",
+      "lat": 51.29083,
+      "lng": 12.32199,
+      "title": "Leipzig: Merz under fire over response to Russian attack",
       "category": "POLITICS",
-      "time": "2026-09-02T17:43:48Z",
-      "summary": "Reform up against 'complainants' society', Farage tells BBC&nbsp;&nbsp;bbc.com",
-      "source_name": "bbc.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iT3VjbFlBRTFGZnMxT254cHVndDZBcFlWODdrUDZBNlBqdDJWRDh6cHZmU3ZHa09CejJDNmxCbjhVNzBMZnZXY0JyMkJyYVlZUVlkM0Y0ZF9JZw?oc=5"
+      "time": "2026-09-02T18:33:32Z",
+      "summary": "Leipzig: Merz under fire over response to Russian attack&nbsp;&nbsp;euractiv.com",
+      "source_name": "euractiv.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlItOVkxbzFRRDRsT3MyX3RCRDRzV1duZHFhQWw2VVVta0dFb2t4SkpFUnZVX21JWE5PclJkY1F1Y1ZqZk1nbElMV3htTzBFVUxka19IQ2cta0NJVWNaUDNzNV9ONEpyWVMteXVGVVRzZ3hWbkRFcGlxR2tNeV9xODZab2VMWnNsRHY1OW9YUQ?oc=5"
     },
     {
-      "id": "news-politics-9803d56422",
-      "lat": 52.54043,
-      "lng": 13.34598,
-      "title": "Berlin's punitive measures unlikely to deter Putin: experts",
-      "category": "POLITICS",
-      "time": "2026-09-02T17:41:35Z",
-      "summary": "Berlin's punitive measures unlikely to deter Putin: experts&nbsp;&nbsp;DW.com",
-      "source_name": "DW.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDNXWHVmU21TLUkwT1ZBNkkyX3l6OEVfZVdWN3NNVkgzVzlBWjJPYmduLXI1NU11STRIa1lfM2d2ZktsVUR3VEM2c1dUSFhaQjBVX2dsemgyU0d0U1VSZUlkVF9LOHdDTGdfRzVreGF0VlhpV0h6dVJfT2s3bWRVa1d0VVYycndBZC0wNkM2RjlrZ1Fp0gGUAUFVX3lxTFA1dGdaNl9LY0JOOHo3dW1kaGxEMTh3SlI3Q081andHUEtwZlVNOENqQXVEMC1EckJMd3FncVNVQjEwNEhNSjNYOUNpSExRdTVTR2ROMExra2o0NWlXZW91UmFURnVzTEhROGdlNUpuWjJCQUhkeUktQjhvUkRFTnNDWmlMWkhZQ195dm5tLThqWkFFLTk?oc=5"
+      "id": "news-finance-89f4ad220a",
+      "lat": 29.8882,
+      "lng": -90.98694,
+      "title": "NJ wants US Supreme Court to review Kalshi’s sports markets",
+      "category": "FINANCE",
+      "time": "2026-09-02T19:26:45Z",
+      "summary": "NJ wants US Supreme Court to review Kalshi’s sports markets&nbsp;&nbsp;New Jersey Monitor",
+      "source_name": "New Jersey Monitor",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRWFKdnhWSmVwYnNwSFMzeVlVOXR4alExdHY3QlprcTJwRFBpQV9LRE14Qng3U1RHS0ZjNkREbnZXZ3lSSUF3eEF1X1p6VmhUdWp5OUZuS25KSjg4dXFXNVdmbkVQeFY0eGtPZHBwRmUtcEhlWDJ0bUxZV3pDWXRueUpVMHlJZw?oc=5"
+    },
+    {
+      "id": "news-finance-d5dab31c6a",
+      "lat": -32.01759,
+      "lng": 115.51278,
+      "title": "Inventory-Balanced Markets Buoy Home-Purchase Application Activity",
+      "category": "FINANCE",
+      "time": "2026-09-02T19:24:04Z",
+      "summary": "Inventory-Balanced Markets Buoy Home-Purchase Application Activity&nbsp;&nbsp;RISMedia",
+      "source_name": "RISMedia",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZnpva3R3MWRDbjhtdm1KalhxQldaclB0ajhZblhDel9VRjMwSjdGLUg1ODBocll1OGIxZDI5MGdxejM5UnlfbW92RXBTa2NUeWJwc18zOXZweUJ1Wnl6S2Vtal9pOW95M0hIR0dTUUstX3UwUVhkZWF5OXk3NEVNOU9hb09KZW1IN0NNY3VtTDZGNWhMei1pMlVKdzl2S1owNVE?oc=5"
+    },
+    {
+      "id": "news-finance-f32692a194",
+      "lat": 51.67508,
+      "lng": 0.46877,
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rebound as oil prices, Treasury yields pause climb higher",
+      "category": "FINANCE",
+      "time": "2026-09-02T19:08:24Z",
+      "summary": "Stock market today: Dow, S&amp;P 500, Nasdaq rebound as oil prices, Treasury yields pause climb higher&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXctcnVGX1dZRXpzLVoxeVhrUWxzVDFPQVROMVY1b2oxN1FFc1RyR0ZFcWFMZ0FlYklFajlRc0YzSzFEX0ZMdFp2eE1sTjV4RjRwcHFqTFl2RzRYOGRmTzdWMUh3N09KRTlHRkhsUXE2My16MTlycmgzVlJWSzNoUTN0VUhuV0YwR1ZUMkZHaWItMGxOWnlHbl8wQXp2UUZNTGhLNWhVdWhUM1FLcUNVaGdR?oc=5"
     },
     {
       "id": "news-finance-2617a5d11c",
-      "lat": 40.67584,
-      "lng": -74.0368,
+      "lat": 40.69789,
+      "lng": -74.01699,
       "title": "ニューヨーク外国為替市場概況・4時 ドル円、じり高(トレーダーズ・ウェブ)",
       "category": "FINANCE",
       "time": "2026-09-02T19:08:19Z",
@@ -79,8 +112,8 @@
     },
     {
       "id": "news-finance-4e7328f9c6",
-      "lat": 35.47335,
-      "lng": 139.57192,
+      "lat": 35.41962,
+      "lng": 139.63239,
       "title": "シリウスＸＭが上昇 アナリストが目標株価を４５ドルに引き上げ＝米国株個別(株探ニュース)",
       "category": "FINANCE",
       "time": "2026-09-02T19:06:05Z",
@@ -90,8 +123,8 @@
     },
     {
       "id": "news-finance-b15df8896d",
-      "lat": 36.34483,
-      "lng": -95.24459,
+      "lat": 36.32888,
+      "lng": -95.21935,
       "title": "Mayes opens investigation into 3 Arizona candidates accused of campaign finance violations",
       "category": "FINANCE",
       "time": "2026-09-02T19:04:00Z",
@@ -100,42 +133,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVmhPR0JRWXQyb2gyQ1c1UmJpOGRBVGRYSDdVbXNXT1BDOWM5Vnp2QkY5LWs3Mjl0YkV4VGRaYjJnZUlPTXdhdGtDcDhqOVpQbDczT3kyV0owQU1xSnJpMXFJTW1SU3NHMWZnTkNGV2NMTGJ6QlRPN0dZNm1mUHExTjR0N3ZlYjNIUkpKX2NFTE5PUzdpTXFROWRpSmc4SjZlU1RNblB6MXc2MkpzM29jcTdQR09JcWJxc3V3NzQ3LUlDNlpPUWlJLUJuNVk?oc=5"
     },
     {
-      "id": "news-finance-c4660af805",
-      "lat": 37.95956,
-      "lng": -121.22808,
-      "title": "August Extremes Set the Stage for Fall Markets",
-      "category": "FINANCE",
-      "time": "2026-09-02T19:02:24Z",
-      "summary": "August Extremes Set the Stage for Fall Markets&nbsp;&nbsp;American Ag Network",
-      "source_name": "American Ag Network",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa2Z6ZTZRNHZ3SWduNGxCdE1sODlMSlF0TnNrSG0zT0czc1R4bGducmxWNHFENkRLbDkydDB1dTNWRWdRTWhKeEdxYXJseXB1a0RIYTlHS3NsdWVjaXNkMzBDdUxoQ3J0OThsQzNZaTZydHl4dGJFZS0yRnMzVW10MmZzenhhQmU0ajh5SVktVVlHdHpJTENv?oc=5"
-    },
-    {
-      "id": "news-finance-79d016732c",
-      "lat": 37.65556,
-      "lng": -121.81214,
-      "title": "$10M in PFAS settlement funds released by Wisconsin finance committee - apg-wi.com",
-      "category": "FINANCE",
-      "time": "2026-09-02T19:00:00Z",
-      "summary": "$10M in PFAS settlement funds released by Wisconsin finance committee&nbsp;&nbsp;apg-wi.com",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcFMxWTltLTItUVh2LW5GSy1BdEJvOEhrNVNiZW5zNzAtcUtkNU1TNEQ4dmFVbllKQjFHRkE5cWRGTzFHTDhmUkE4RnJfdGo4eGpIS3F5ekRXV0dVTG9DRUJlSjY3NkFUSkVpQWRzbXRYb080bk1QUUs1MlJfQnEzN21nemtleV9oWDBDQks0T0xROHVZS2ktbldNVDFTRTg4M2pEZ2pCb0NBU1NGTVB1c0VGUGh3U2ItbVgwX3B1X2lzZ0FUeWdoeTVabnIyd2hXYlBPOUFCamN6ZmtwX0tES3hqWnFucEk?oc=5"
-    },
-    {
-      "id": "news-finance-6355a5b44a",
-      "lat": 45.34863,
-      "lng": -75.94211,
-      "title": "IQVIAの株価が52週高値265.29ドルを記録 執筆 - Investing.com",
-      "category": "FINANCE",
-      "time": "2026-09-02T18:31:00Z",
-      "summary": "IQVIAの株価が52週高値265.29ドルを記録 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_name": "FX | 株式市場 | ファイナンス | 金融ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDbFVjNnJBbDVyWk1aTy1qUEt5dC00WHR1MGV4Y2ZPR1VpaWY0RnJfRVpYMGRzcWJUVVNGRHdZbE9ESUpKaGNfbUxRYWE3VjRmSi1lcncwQXRoSDQ1eFFNSjE5LXg4cFpsZVNqWl9FTzQ?oc=5"
-    },
-    {
       "id": "news-disaster-17625cc69a",
-      "lat": 36.21737,
-      "lng": -86.79464,
+      "lat": 36.20339,
+      "lng": -86.78321,
       "title": "Nashville Nepalese Association raising money for flood relief efforts after more than 1,100 people were killed",
       "category": "DISASTER",
       "time": "2026-09-02T19:16:00Z",
@@ -144,9 +144,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWGNCTW5GTzRaemJxOWdYQVRKLURmM0syckJJUnNNcnpBeGJRclNjVk1NRXVTdkI4M19CSmJtQ2V1MEpWNHAtbVJUQThlQXNHQlpodmpOOVJqVFZJQ3dQeFpZd1lQdWUyR0lPZjVIWjhGTy0zM1hSM2t1ekpFU0FENDJ6SVotRnJPRFlxTklpdVFFczF4blBpcFladXkyeUNMVGxncEdubV9kOFUwWFV0S3ktcWlmZ1ZrSXMyWGE2R3pWU1l3V1EtMzJzZm95bDJZTmFucA?oc=5"
     },
     {
+      "id": "news-disaster-f8058528e9",
+      "lat": 23.77562,
+      "lng": 90.00863,
+      "title": "Update: 3.2 magnitude earthquake shakes near Ontario, CA on Sept. 2",
+      "category": "DISASTER",
+      "time": "2026-09-02T19:10:13Z",
+      "summary": "Update: 3.2 magnitude earthquake shakes near Ontario, CA on Sept. 2&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mMVc4YjBQeF9seEFBZG9BZWloRlAxcDZBaHdrTlc2dUstZ2V6QWFfdnEwZmVlTnd2MG9fM2NtNE5WLVhTUHU0N1JmWXNxd2hxWTFjRWgyVWlZZ0JuMUdjWlB4Um9tb19LT1EwVHZoQ0ZOY1N3RDdlNUpUeEI?oc=5"
+    },
+    {
+      "id": "news-disaster-376b7b2f8a",
+      "lat": 27.79057,
+      "lng": -81.43483,
+      "title": "Can you buy flood, home insurance in Florida during hurricane season?",
+      "category": "DISASTER",
+      "time": "2026-09-02T19:02:00Z",
+      "summary": "Can you buy flood, home insurance in Florida during hurricane season?&nbsp;&nbsp;Florida Today",
+      "source_name": "Florida Today",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHc5elNrV19iOUdway1hNmxQT2tMZDlmQ2JFZnNzR2FjTGFUcENsS1l2RG1rMk50bXRud2ZhUFRXUE1YckZBbjFqU2o4cE9HaG9UaEpubGVzWVhyR1FhYnpDQnd4UzNYeUZUdDhTTUt4R0xjLWphMlJhdFAyTXZ6cXZJMmxSSng3bUZORlFlN3VOQU14MWZuU3FnRFl5TkNHaVhJMndESFJZeTFRaUtIcUtsUnlLV1dTN09OcS1TeXE0dzB2dU93WERVeGJ2Zw?oc=5"
+    },
+    {
       "id": "news-disaster-0e915d8ba8",
-      "lat": 31.5695,
-      "lng": 130.51312,
+      "lat": 31.59333,
+      "lng": 130.52287,
       "title": "台風被害の鹿児島・徳之島 復旧途中で新たな台風接近 警戒強める",
       "category": "DISASTER",
       "time": "2026-09-02T19:00:43Z",
@@ -156,8 +178,8 @@
     },
     {
       "id": "news-disaster-699e775dc5",
-      "lat": 49.03224,
-      "lng": 19.31962,
+      "lat": 49.04659,
+      "lng": 19.29062,
       "title": "Urgent needs persist three weeks after earthquake in Colombia",
       "category": "DISASTER",
       "time": "2026-09-02T18:56:19Z",
@@ -166,20 +188,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWZXaWsyMHpoVWJiLWxpM0FNUDI4dXZaaDJDSHZMbG52ZHN3U2YtUkxpdDhfQVVWS25QYmVEQ182UjFtdXNkLTBIeFpzakJ3RFI2MUFfTktnb082NDhlX1F0bXA2clh3OHJRZXNUekhfV29zSVhDVkNZRTVwUTlSaDhuMFgzQXBUMzExalVxS1RSdV9qV2laMGlHZ0pHTVFGakZqUXFB?oc=5"
     },
     {
-      "id": "news-disaster-d5d8b85b32",
-      "lat": 28.36167,
-      "lng": 84.01765,
-      "title": "Who’s cashing in on fake Nepal flood videos — and why they’re so popular",
-      "category": "DISASTER",
-      "time": "2026-09-02T18:55:27Z",
-      "summary": "Who’s cashing in on fake Nepal flood videos — and why they’re so popular&nbsp;&nbsp;Straight Arrow",
-      "source_name": "Straight Arrow",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPREt0LU11NHhWay03bHNPa2FtOW5XOHc2Tkk2Q2Y5YmZfc1dsLWY5OW5IQmxGQlVWRFVGOTVXNHI4T2FBb0hISnQza0I3d19LSlQ4S2F3bjlwZUw5UGQ5eWQ0aW54TU41ZDAtS19oZER0c25BbkM0d1NVNG11aG1rcUdIUGxyeUxMTGxHdW5EdjMxUQ?oc=5"
-    },
-    {
       "id": "news-disaster-3bdea138bc",
-      "lat": 43.27611,
-      "lng": -0.38174,
+      "lat": 43.2966,
+      "lng": -0.4173,
       "title": "Palo Alto businesses raise funds for Nepal flood relief",
       "category": "DISASTER",
       "time": "2026-09-02T18:46:32Z",
@@ -188,20 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fNklhZTBhVEhPb01sWHZJNHQ2QTQ0djZUY1VNMFBsY1FmT1FUQV9CbE85eDQ0MVY5N0J0WlkyU2hUbTRkbzMtaDZTMDJjaGx1S0ZmdVZSYndVcGVvczFDcDJJNkxMckthemtJ?oc=5"
     },
     {
-      "id": "news-disaster-c21399c2fe",
-      "lat": 37.33511,
-      "lng": -79.86184,
-      "title": "Peachtree City Dentist Dr. Ken Ginoya Missing After Nepal Avalanche and Flood Disaster",
-      "category": "DISASTER",
-      "time": "2026-09-02T18:37:15Z",
-      "summary": "Peachtree City Dentist Dr. Ken Ginoya Missing After Nepal Avalanche and Flood Disaster&nbsp;&nbsp;TheCitizen.com",
-      "source_name": "TheCitizen.com",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFBtTWpjWUJWR1RteFJQRHR6UFNDaXljQ3Q0Z1NUZDMyRFRDQTFyai1KTEl6V21fS19ZTnlpaWZ5bWEtZk1RNTZaMGF2NFBkOVpQb095elFtUDJLQzJEUHE5LXpLOWV3ZUlScTJ0VWdYWTlicy1wTmZpclpMOFVXdzZoQTJHZE9WYlpRdmRJQ2VnNFktXzN3bzloa2UyNkl2NlRtZllyM1B0bC1YOUszbVp5OXVBSDZ5dEJqVw?oc=5"
+      "id": "news-accident-5debddbca7",
+      "lat": 51.84721,
+      "lng": 0.90858,
+      "title": "Troopers identify victim in fatal turnpike crash",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T18:56:15Z",
+      "summary": "Troopers identify victim in fatal turnpike crash&nbsp;&nbsp;local21news.com",
+      "source_name": "local21news.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYXR6YkZtQmVJQ0ItamZrb2xmaVpaNFRvbWJzRTRXcjRBa1dPX0I1UEpMSmduS3NoOVF1cnQ2TjMxZnU3NmxhVG5ta2xyNzBLelJTMzlqQ0FNTzJwWTV3TF91dG82dUtGeURRaDhENklqZTZFeUVmM29YVTZ5RHZkRV96dXJCS2xEb1ZJTFpCZFhfUDJ5d29scEt5Sjg2dEd0WG55amNaNlpWUzNCMkg5ZUR1dnlwSzVHSHJ4SS1TRUtNYjdEbWc?oc=5"
     },
     {
       "id": "news-accident-ce9688bc30",
-      "lat": 41.42292,
-      "lng": -73.41775,
+      "lat": 41.41071,
+      "lng": -73.42627,
       "title": "One person dead, another injured in collision involving two tractor-trailers on I-84 in Danbury",
       "category": "ACCIDENT",
       "time": "2026-09-02T18:34:58Z",
@@ -210,20 +221,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWkpTODMzZTZ0bTBBcmFaQVVvdDBQZ0RlUVItVWZoRVhZSWY5Um5VbWxvaHNSUDFXR2xocERkbDFTUjhOOHU1R0xENkQ4V1J2MmpJZUppVUl6OHRuS3BySTFrTTNSd09fNGVFWVFpa20zeWxraWVrOVdCOUhackJFUXBmdm83MEZPVFRUZnA4ODJQdjFuQTRFN2tmSWhVN0w4NWI4YjR0eTdhTTJDeExSaDZ0SjBaNHdLaVBpYTh2c2UySVRFUWc?oc=5"
     },
     {
-      "id": "news-accident-f26607c694",
-      "lat": 34.80184,
-      "lng": -83.46077,
-      "title": "Tiger Woods pleads no contest to reduced charges in Florida car crash",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T18:33:00Z",
-      "summary": "Tiger Woods pleads no contest to reduced charges in Florida car crash&nbsp;&nbsp;USA Today",
-      "source_name": "USA Today",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGoteTRTMTV0RTlVQW5iWVN4VmxmQTZ1enFCOGhCZWhTdlg0anR0ZGVxUEg2Z2s5ZVVYRm9naUpTZGljZGJCQVdxcHNlZlpaR2VfQ216ZGd5TlYxc3pWb3B1SkJnUkdvMlJjV09RRmp3S1Q1akQ2Q0VBNXJQQkd0TDduTExpTWs0TW9nLUI2YldtcjdDM0hEV0JaTV82SDVfcExzTlNCUGdEdXJ6OV94ZXJB?oc=5"
-    },
-    {
       "id": "news-accident-b6a22a788f",
-      "lat": 43.26771,
-      "lng": -79.89868,
+      "lat": 43.30641,
+      "lng": -79.87119,
       "title": "Car strikes Hamilton bookstore Booktrader damaging building",
       "category": "ACCIDENT",
       "time": "2026-09-02T18:30:42Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-80161b31a0",
-      "lat": 48.14918,
-      "lng": -1.64953,
+      "lat": 48.06953,
+      "lng": -1.74109,
       "title": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge - Pittsburgh Post-Gazette",
       "category": "ACCIDENT",
       "time": "2026-09-02T18:29:50Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-a5e1459f13",
-      "lat": 50.40598,
-      "lng": 30.5418,
+      "lat": 50.3971,
+      "lng": 30.52481,
       "title": "Athletics-Car crash leaves Davis-Woodhall facing late decision on Budapest event",
       "category": "ACCIDENT",
       "time": "2026-09-02T18:18:04Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-5ec6376dcb",
-      "lat": 59.54394,
-      "lng": 30.25291,
+      "lat": 59.55072,
+      "lng": 30.16444,
       "title": "Bus Crash in Egypt Kills at Least 22",
       "category": "ACCIDENT",
       "time": "2026-09-02T18:03:06Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-058c52a66e",
-      "lat": 8.51125,
-      "lng": -71.31348,
+      "lat": 8.57075,
+      "lng": -71.27868,
       "title": "Moral Maze",
       "category": "DISEASE",
       "time": "2026-09-02T20:00:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-ea3b661e26",
-      "lat": 49.72244,
-      "lng": 142.96922,
+      "lat": 49.73548,
+      "lng": 142.9213,
       "title": "夏バテとケトン代謝について - クラウドファンディング",
       "category": "DISEASE",
       "time": "2026-09-02T19:11:23Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-d444d25bd4",
-      "lat": 15.00729,
-      "lng": 38.43986,
+      "lat": 14.98326,
+      "lng": 38.48362,
       "title": "WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak",
       "category": "DISEASE",
       "time": "2026-09-02T16:38:37Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-2d0b8aeb8c",
-      "lat": 52.53816,
-      "lng": -2.98884,
+      "lat": 52.54754,
+      "lng": -3.02428,
       "title": "More than 3,000 people have died from Ebola in the Democratic Republic of the Congo",
       "category": "DISEASE",
       "time": "2026-09-02T15:44:46Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-3fabbdc2ae",
-      "lat": 3.54481,
-      "lng": 21.69121,
+      "lat": 3.50082,
+      "lng": 21.61252,
       "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
       "category": "DISEASE",
       "time": "2026-09-02T15:09:32Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-bed5586f48",
-      "lat": 31.99145,
-      "lng": 35.84597,
+      "lat": 32.04139,
+      "lng": 35.83559,
       "title": "Children as young as six going to A&E in mental health crisis",
       "category": "DISEASE",
       "time": "2026-09-02T12:21:27Z",
@@ -331,9 +331,31 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-technology-9fe434aa1a",
+      "lat": 56.0755,
+      "lng": 92.8702,
+      "title": "Runwayがコード不要の対話型インターフェイス世界モデル「Solaris」を発表",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T19:17:16Z",
+      "summary": "Runwayがコード不要の対話型インターフェイス世界モデル「Solaris」を発表&nbsp;&nbsp;ビジネス+IT",
+      "source_name": "ビジネス+IT",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4dk9yLWFrb09PTzZjUjkzbWpvSk85bnI5RGdtYTBSVS1pUGFjalk0T2FMTkYtWnNPVTR2U05iRGNjSkx2WC1TenVhWHNSTTJYSE1J?oc=5"
+    },
+    {
+      "id": "news-technology-3c3630b7b5",
+      "lat": -20.22378,
+      "lng": 57.52648,
+      "title": "Generative AI helps scientists design entirely new RNA transporters - News-Medical",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T19:12:00Z",
+      "summary": "Generative AI helps scientists design entirely new RNA transporters&nbsp;&nbsp;News-Medical",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDZKbkdaVGZyWHRlZnJhTS1wTXRSYmVHMGw4elpPQk5iaERZekZzNXRXci1UY1gxZ2ZEN1o1X1VHRzBrQUV3Tl9SeWdQT1FXS2FaS2FKM3NKbVh5cU5aM0w0aGZsRjYya0NjZ0lCMDh1aGFZTFFxNlRrcU1SRGlZVVl3UlZOMjZDOGtrOVRJSmRQeU1nNzRFWFg1MzJMMDZiTTN1b1ZMU3djQllWbHBWeGpnai1OUQ?oc=5"
+    },
+    {
       "id": "news-technology-64024433d0",
-      "lat": 45.1968,
-      "lng": 11.41299,
+      "lat": 45.21701,
+      "lng": 11.48937,
       "title": "ZAICO、棚卸の「数える」をAIで省力化",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T19:11:35Z",
@@ -343,8 +365,8 @@
     },
     {
       "id": "news-technology-2934aa75bf",
-      "lat": 59.16423,
-      "lng": 10.2468,
+      "lat": 59.10633,
+      "lng": 10.29565,
       "title": "From AI Overload to Action: UMB Faculty Turn Ideas into Institutional Priorities",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T19:07:23Z",
@@ -353,48 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ21ZUXhHMDlkZzJWWDBINHRKQ2hMRTk1VlpyaHM5dGR1QkUyYURfTU1oZHctZXVWcUd1QmtGUm1oY3FlZkZfc3poYThSTnNqQnQtenQzSzEyb3RiSDV6U1ZSVDczTy1tZWRfaVZMdW1tWVVjdnY2dTR6dUlPRkRpZUdBRjhsN0c1Mk5URzVmNm5OTHhPVFZ4Vk5zTUQwaU5UM3gzRGpzYktmMVlvWEtMNC1ST3VwNUlPZ3psODdCS1RSeWpK?oc=5"
     },
     {
-      "id": "news-technology-b56310a925",
-      "lat": 48.83794,
-      "lng": 2.35151,
-      "title": "Nation’s largest school district bans AI in the classroom through 8th grade",
+      "id": "news-technology-44ac2d43f5",
+      "lat": -17.90389,
+      "lng": 19.72607,
+      "title": "A Safari extension that hides YouTube AI-labeled videos",
       "category": "TECHNOLOGY",
-      "time": "2026-09-02T18:59:38Z",
-      "summary": "Nation’s largest school district bans AI in the classroom through 8th grade&nbsp;&nbsp;WPSD Local 6",
-      "source_name": "WPSD Local 6",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONFY5QlZGdC0xWkwwN055cng5ajBpclFsSWdoS09qNG9lUjZCRVMxdkwzV1V2RW00OXdEVFV1OFFYd2IycExDNzNxZ2FZb2poQkQ2Sno4MDM0cmNWSlVUR2xLelUyZ19feDlNMHEwQ2IzcUdpSzhQOHVRcDdRcjdKZGF0enhsX3RlcHlObk1fQjZYTEJBX2Uyb2N2SkVPZlFnRkVGOFB2ZEFhZWtMbVo1b1RYQ292R2NrYTY5d3RUN01zVnVUb1piWm1EV294MmJmNVdQWHhNSC1xRGJONGVQUlJ2TmwtQjN3UFJ0ZDFB?oc=5"
-    },
-    {
-      "id": "news-technology-b66a6601ba",
-      "lat": 40.69642,
-      "lng": -73.98308,
-      "title": "New York City Bans A.I. in Elementary and Middle Schools",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T18:56:00Z",
-      "summary": "New York City Bans A.I. in Elementary and Middle Schools&nbsp;&nbsp;nytimes.com",
-      "source_name": "nytimes.com",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wXzZnbFJaZHpuN1pnMWRTOWRJYXBnWHJIRDhzc0dEczB1anRKbjhiM2l1VXZkR1B2NFZTTjZOZ1NHeUdlbDRCeUR5dmpvSzdjNmlUUlI3N0pqTUI3VlhuZU1SbmRLN05vZnEtM0pjSFcxYUZBWVE?oc=5"
+      "time": "2026-09-02T18:57:51Z",
+      "summary": "A Safari extension that hides YouTube AI-labeled videos&nbsp;&nbsp;Adafruit",
+      "source_name": "Adafruit",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLURRUTFxd0xMMUozUzZORzlZSmExS0kxMEJKeHp5b2xJNDBtd0V3Y09pMVRPN01IYkR1eGk3dkt3X0dqZHlTNGhyMnFJZEZtVnNFRGdINWhNbEZmRWxTMnZlTTN0V3d6aDRNR0VvX3o2ZHZVVTBvWVpMSHMwcTY3bm9PVno0aFg4OW85d2xBMlRTVFp3SEtDMQ?oc=5"
     },
     {
       "id": "news-technology-af4d6d1b2c",
-      "lat": 39.90893,
-      "lng": -75.18846,
+      "lat": 39.9176,
+      "lng": -75.19441,
       "title": "Webinar: Solving yesterday's cases with today's AI: How artificial intelligence is transforming cold case investigations",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T18:55:16Z",
       "summary": "Webinar: Solving yesterday's cases with today's AI: How artificial intelligence is transforming cold case investigations&nbsp;&nbsp;Police1",
       "source_name": "Police1",
       "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNa1ppT3A2LWxVeXZCWmVUUU9LaEU2Y1BxV2NkV2NBRWE4bWY4SVNVMWpBeTV2cmZqWnlKMU81WkF0YVhIYzNCaGZpRno0a0FMU2h2MUFsWHhRUHYtb0g0V2FPa1JCNFdnb1NieEdPOFNWZHRrQnpRTEt6Y1BoSUhKQ19iVERLQWF3aTl4TDI2akR4WU11T2RWYjdfd0hvR0J1Yy1wLUIxYlV1aUF0RnQ3VTBkU3FlMk0ya3hicVc0VlFIQ2VFOFgwblJSVWtGMHJwcEQzdEVoN1ExbE5IUl95UHM0OGNhU2xrdm5PSDU4aDhPdFFvV09z?oc=5"
-    },
-    {
-      "id": "news-technology-eb99d72b3b",
-      "lat": 42.32617,
-      "lng": -71.06121,
-      "title": "GSI Technology to Participate in Nasdaq / LD Micro Summit Series on September 9, 2026",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T18:48:00Z",
-      "summary": "GSI Technology to Participate in Nasdaq / LD Micro Summit Series on September 9, 2026&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOW9vbXhudDNLdHJ3OWZrTnJpc0NrdHZyMWYwRFFqOThrMEFjd2ZaMWt3MFEyaFpGWVNPRFllbzh2NHF1TGdBNDh0MEYwTlhIS0owMTk1dkVzTm9ER2pVYXJ0c3AxT3dESDNKal9mVkduc2pkZGk4SHNXd3V6d3UxeFNqNmt6bmFaaHZieEFiQm5JaDRZeE1sN3h1OXROSFNGX1E?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-02T19:22:18Z"
+  "updated_at": "2026-09-02T19:34:15Z"
 }
