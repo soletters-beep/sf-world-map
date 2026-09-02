@@ -1,9 +1,42 @@
 {
   "news": [
     {
+      "id": "news-politics-007479b027",
+      "lat": -5.17012,
+      "lng": 139.97056,
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "category": "POLITICS",
+      "time": "2026-09-02T17:05:09Z",
+      "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-c05a30809c",
+      "lat": 18.22737,
+      "lng": -73.85166,
+      "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
+      "category": "POLITICS",
+      "time": "2026-09-02T16:58:59Z",
+      "summary": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-6aae35eaf6",
+      "lat": 33.32858,
+      "lng": -87.98133,
+      "title": "Reform UK bans three journalists who have investigated party from its conference",
+      "category": "POLITICS",
+      "time": "2026-09-02T16:56:00Z",
+      "summary": "Reform UK bans three journalists who have investigated party from its conference&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGphdGRkNUtqcGw5QlJfcEQtUkpwb0Zyd3JuQlRUb3hZeklqYk55S2h5eE5ramlCd0I4amstMFpPQWZ2UWJNSnFnXzExUFlwUFdUYWlSS2Y0RmJnUnlSQkU3WkczN3JkVXlUeE1qbkt4MWpGQ0NwMVZQZk13RmtodEpIUDB1WXVWSkdCNA?oc=5"
+    },
+    {
       "id": "news-politics-49022bfdd0",
-      "lat": 52.56451,
-      "lng": 13.38497,
+      "lat": 52.50632,
+      "lng": 13.39223,
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "category": "POLITICS",
       "time": "2026-09-02T16:49:00Z",
@@ -12,64 +45,64 @@
       "source_url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-fc2a4a1bfa",
-      "lat": 38.88685,
-      "lng": -77.08794,
-      "title": "Takeaways from Massachusetts, where generational challenges fizzled",
+      "id": "news-politics-5d8a8f93a8",
+      "lat": 35.60354,
+      "lng": 139.41707,
+      "title": "トランプ氏支持率、政治的窮地を浮き彫りに－共和党全支持層で支持後退",
       "category": "POLITICS",
-      "time": "2026-09-02T16:42:02Z",
-      "summary": "Takeaways from Massachusetts, where generational challenges fizzled&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUEyaFMxQVpVQXN6ZjNrMDBteVMtb0xZdEVFY3BhY2trekRPY0c2QW1hT2k3cFlEWl9rN3U2NEJTR0NwaHd6aDlQbjktbWVsTDBpOUNEMWEtR0lrX1F1Nk1PcXp4MEVyRnA4TFdyRmw1MEl6aFZ5c20tVVdseGFjT0JoeDdWZENrbnAzTkx3?oc=5"
+      "time": "2026-09-02T16:46:50Z",
+      "summary": "トランプ氏支持率、政治的窮地を浮き彫りに－共和党全支持層で支持後退&nbsp;&nbsp;Bloomberg.com",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVEhzM2ZLdm12ckphYVpvUzVrQ0wzM1JwdzlRSFd2Sl9ZMVU2a3NndVdOUXhmMHF6XzFWbWR6bVRlODV1YUpVLXRRN2FJUXhublFKLUpMbVhzZV81dVhLR0FHRjRUQTluM1djMk11UVVjUGE2SkJmMlJLWDdIRW51RExVY2NsV2ZXcW1pUzRR?oc=5"
     },
     {
-      "id": "news-politics-f2b782345d",
-      "lat": 41.58478,
-      "lng": -87.54818,
-      "title": "Burnham’s first PMQs showed a leader who wants to please – but knows how to push back",
-      "category": "POLITICS",
-      "time": "2026-09-02T16:28:00Z",
-      "summary": "Burnham’s first PMQs showed a leader who wants to please – but knows how to push back&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdjRZSmVHelVNejRTWm50VHctYjhfLTRndkt5eU1UeDBaX3p5SHlhVEJ1WGRKYkpwSWpab3FFSXZDajR1d0V6ODhuOWNhRlF4WlhONFU2QmFLY2FEZGhXNHB1Mk5mdU9xekJwT1QzOUJyLW9mV1NUbHd5LWVrejlRNFlTM2JGY2Nkc3NlLXBwTFItNm9RZ1FzMkd6UFRjcDhCZnc3ZXkwcloxdXpnWUpJc3ZDUTJVdVZaWXF6X2xxaE01dXBteVZMdW91Yw?oc=5"
-    },
-    {
-      "id": "news-politics-fd2fa506a2",
-      "lat": 54.49097,
-      "lng": -0.88615,
+      "id": "news-politics-e50d4aff07",
+      "lat": 54.44858,
+      "lng": -0.86657,
       "title": "Heads or tails? $1 coin with Trump's face and gold finish to go on sale",
       "category": "POLITICS",
       "time": "2026-09-02T16:27:00Z",
-      "summary": "Heads or tails? $1 coin with Trump's face and gold finish to go on sale&nbsp;&nbsp;Spectrum News 13",
-      "source_name": "Spectrum News 13",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkh3aTh5cDFadG9YbDBQLXdYYW1MU0pUaDVtcDJ4UEdkRWhKeHI3WEpZN2FkYVQyY3FPWjM3NDVGWlF3WmE1RXoybVJsOU1PZV9DT0w5Nm5VXzBLZ2RXN194VTJ6Vkx4YkFyTmN2OFd1RU1hWWhmZllNdWZRM0ZuU1JrLU9KMmVoaEhGWGtTU0o?oc=5"
+      "summary": "Heads or tails? $1 coin with Trump's face and gold finish to go on sale&nbsp;&nbsp;spectrumlocalnews.com",
+      "source_name": "spectrumlocalnews.com",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXNudEdaanZkZUxWTWZoNGJYRWpiNnlzMFBTVHlSUW4wQlZTLVVwTG5TQVNELTZ0S2lnNmR5cnE3YTFqOGFnZkhOcFF0VXJNUV9fWFItQUJ0eUczY0xyejdQdW13enlDcGthYS1wTlNfX1JOLTVsdHBUanhUdWRDYllrYkt5QzQ2VUIxb2xOUDdHblROaG1rVXNZaw?oc=5"
     },
     {
-      "id": "news-politics-f0de1c949b",
-      "lat": 59.185,
-      "lng": 10.22935,
-      "title": "From Murdoch to Musk: This Year’s Venice Lineup Is Its “Most Political Ever”",
-      "category": "POLITICS",
-      "time": "2026-09-02T16:23:01Z",
-      "summary": "From Murdoch to Musk: This Year’s Venice Lineup Is Its “Most Political Ever”&nbsp;&nbsp;The Hollywood Reporter",
-      "source_name": "The Hollywood Reporter",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY2ZONENGZDlQZ1RicmMzbEJHSTVnUDA3RzVjcGxvdzFzdWF1QmsyN25LZWpVOS1JQVQtRlhrNWxucm1QTHVGMzhPZkI0Qk55VURyNlhsN1EwVE9kWUs0dW9lc20zWktMbERIRUVGM0oyQ083QktWbFhVdEFwRXJhMlBCUDlXcmtLSEtrZ3doZ05VcFJZdDRsbC0xV1I5RGIwX3hkVUNyU0M?oc=5"
+      "id": "news-finance-85164415c2",
+      "lat": 30.22264,
+      "lng": -82.09559,
+      "title": "Bessent: China not among countries agreeing ‘cheap exports’ are unsustainable",
+      "category": "FINANCE",
+      "time": "2026-09-02T16:58:00Z",
+      "summary": "Bessent: China not among countries agreeing ‘cheap exports’ are unsustainable&nbsp;&nbsp;The Hill",
+      "source_name": "The Hill",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11WTZURW9KTmdNRWtxbnNXSDJadmZEQkRMUVR6UF9oVEw4NGpsUVBYN0JpbjFMS2hmN0NpX2VkOUhYNUVoVl85NzNQcmxPU2YtdmVna093NF82dXhVQ0xBbi1jNDY3eEd0bFhUQnozeTFseE1Fa2JPLVJfWdIBgAFBVV95cUxPR2tXNjRrVzhRaG1kM2tUN21SQ1pVb1l5UjVEZUNwbzlvdTAzamhnWGdVSHI2aFhyWndnVjIxY292SmpOb19oaVRKMUlZdm1LLXJUNy1yaEZYRGZJNHdqTElGeWNZTjJSSksyTWh4TG9BUTk3RXJwMzBWTGZNWlg4cg?oc=5"
     },
     {
-      "id": "news-politics-007479b027",
-      "lat": -5.15484,
-      "lng": 140.00228,
-      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
-      "category": "POLITICS",
-      "time": "2026-09-02T16:18:55Z",
-      "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
+      "id": "news-finance-67af94b0df",
+      "lat": 37.81392,
+      "lng": -122.38664,
+      "title": "Uber to cut over 3,000 jobs in major global restructuring",
+      "category": "FINANCE",
+      "time": "2026-09-02T16:51:49Z",
+      "summary": "The company says cutting roles would make its operations \"simpler and faster\".",
       "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss"
+      "source_url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-finance-6cfb393f7c",
+      "lat": 51.60639,
+      "lng": -3.22448,
+      "title": "What's closed on Labor Day? Mail, banks, stock markets",
+      "category": "FINANCE",
+      "time": "2026-09-02T16:51:24Z",
+      "summary": "What's closed on Labor Day? Mail, banks, stock markets&nbsp;&nbsp;Tallahassee Democrat",
+      "source_name": "Tallahassee Democrat",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVNKNjFkMllCMm1kcUdYTWpRTTJqektTR2lBNUhLMDdIUmNFenluMjltNnNoQ3JJTHhqcnhXSEdpd0RXTk4wa09yWWV0UG1td3pUM2lXNkRpZkZZLUI2djIxVWt6WURkSFd4OWJ4U2RXV3hiUkg4Ymc5UW5lV3RoaWZoRkd5d3Bubk5EZ2hMcnRFZE9pd1BaWWlJc3BiVVA3R2tBam5laGgxc3RNUzJpTEZR?oc=5"
     },
     {
       "id": "news-finance-883a32bcd2",
-      "lat": -19.60405,
-      "lng": -63.40731,
+      "lat": -19.61836,
+      "lng": -63.36793,
       "title": "原油高・ユーロ安の相関が強まる＝ＮＹ為替",
       "category": "FINANCE",
       "time": "2026-09-02T16:41:33Z",
@@ -78,20 +111,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WbWgxdmlPR01QTXNvdHhYTi1kdWNNWkdwczZ6bklKcG1LYVRqNWsyZG9hN1NpSHJnelMyTVprVm8zWXY5QjE2Xw?oc=5"
     },
     {
-      "id": "news-finance-d54003b3cb",
-      "lat": 46.82455,
-      "lng": 8.2164,
-      "title": "Swiss Bitcoin app Relai lands finance influencer FinanzFabio as investor",
+      "id": "news-finance-25ae1909ab",
+      "lat": 34.0573,
+      "lng": -118.20976,
+      "title": "画像・写真：一時１９００円超下落した日経平均株価：時事ドットコム",
       "category": "FINANCE",
-      "time": "2026-09-02T16:23:24Z",
-      "summary": "Swiss Bitcoin app Relai lands finance influencer FinanzFabio as investor&nbsp;&nbsp;app.dealroom.co",
-      "source_name": "app.dealroom.co",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzRyS08xRDNBaGlaU2luYVUtbjhBNzlEbElxYnc1akpEd0tmUTVtckMwSi1pMU9xeU9YcGhMeG9kTW1jQ1hxNVFSR2pHaTVWdE1sX2VkSFhYcEV4ZHdnMDlpVElJdTVVV19SaHBLandES0RhX1dUQXhHTzJIMWI2WGxhOXMtT0VudHNfa0F6X1E4TndybXViMmtoTU9IUkxQTkNKYWJxZmtnUQ?oc=5"
+      "time": "2026-09-02T16:23:17Z",
+      "summary": "画像・写真：一時１９００円超下落した日経平均株価：時事ドットコム&nbsp;&nbsp;時事ドットコム",
+      "source_name": "時事ドットコム",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmpxR21ULVBPcnRnMGczZmVjc2d5cXBRcmhBSFFsb2l2SWRNMHBGNWJ2a0ZQV05Lbmd6Z3ZGUmg4ZGc3dDlleHFiaExoZmRPN19uY2owaEtTeExvcnV4aWJwNG0?oc=5"
     },
     {
       "id": "news-finance-0e09da5af8",
-      "lat": 42.30333,
-      "lng": -83.11818,
+      "lat": 42.36183,
+      "lng": -83.10796,
       "title": "ビザ、顧客口座から資金が流出する前に、金融機関が不正を阻止できるよう支援する「A2A Protect」の機能強化版を発表",
       "category": "FINANCE",
       "time": "2026-09-02T16:23:00Z",
@@ -100,53 +133,64 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55NTdELWNJeEZ4VTh2RmpXa1FQUHNINGEtSEkzM3NPeFdwRGJPZHhsVWZZdWttMG5PQXRnOXQySHZxLVpkU1AwN1RSUGtxZDBxREdkRUtvVEtTU2ZhTUhNTVBqa2VzSk0?oc=5"
     },
     {
-      "id": "news-finance-2a7375fb31",
-      "lat": 53.49451,
-      "lng": -2.00715,
-      "title": "U.S. Stocks Rise as Treasury Selloff Pauses",
-      "category": "FINANCE",
-      "time": "2026-09-02T16:20:00Z",
-      "summary": "U.S. Stocks Rise as Treasury Selloff Pauses&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDdYMmM3M0MxMkYxV25aRU11U1lwVEtvcFRtUmRFc2FNVC1EZ1VQZW5zY2w4b1lkQjNfMHFoMk1GSnc4Sm9YajFoeS1MTDZwOW0yeGN0WUFlcm9BREl0a1JNdjVQc3haTDVLTVpsOXRWbWQwRThKbFZ5bUJGMXRlNTgwb1pKdy1fNjUwTFl3N0RYMVM2MlB5RmhTaFhnQUYxYzZiLWxzUzdhbTBlVDE1ZE5zd2RpWWp6?oc=5"
-    },
-    {
-      "id": "news-finance-cfb4dbe8c7",
-      "lat": 36.26106,
-      "lng": -119.08733,
-      "title": "How Lindsay Hadley Built Harbor Fund To Finance The Movies Hollywood Won't Greenlight",
-      "category": "FINANCE",
-      "time": "2026-09-02T16:15:49Z",
-      "summary": "How Lindsay Hadley Built Harbor Fund To Finance The Movies Hollywood Won't Greenlight&nbsp;&nbsp;Forbes",
-      "source_name": "Forbes",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUC1xRERtSkU2aG5kZ0hVWFI5S3Mtcy1JSGRmWENSclVTcFllQnJJZVcyRlRjdEdNa20zeEFyN2lfanU0RE5OTTAtOE40ZjVoQ3ZJTVpac2RKYmg5REJGQ1YyN3pWZS0ybnlwU3BEbER3SURzQlQ2ZDFrMlBld1JJYWZNUjVXMEZNb084NWdiOVc5M2x5SjEyUTJWWFVSNzVJUmhnMDhhLXJQUmE1RWRqRTlfaGtoWFN5a3RVWUhqWGdobDd4aHVvR2pRcHpZT0ZDamc?oc=5"
-    },
-    {
-      "id": "news-finance-11f83dd0aa",
-      "lat": 46.45574,
-      "lng": 7.63078,
-      "title": "First challenge to prediction markets reaches Supreme Court",
-      "category": "FINANCE",
-      "time": "2026-09-02T16:14:35Z",
-      "summary": "First challenge to prediction markets reaches Supreme Court&nbsp;&nbsp;AppleValleyNewsNow.com",
-      "source_name": "AppleValleyNewsNow.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPalhtZXQxdFQzNFNjUDl2d0g4WlVHeE1PUzN0Ny1jYWQzSFR6Nk4zX3RjYkdxandRSi0tWU5BMXlrVThuUGFuU2s1RmhWN2UwRWZiQTVDVkJQcTh6RHRoV2Rjajh2elpaZWZleElmX25GRmZ1MmRMS3FqN2tQY1pzV1RhazNwVFI4UVI5WElLc3JGUnNib1NCckFDbjdMMjFaOW01dEJlSXlkekhYdW9lM00wMU5XY0tNeUVvT1ZUZnJnNlA0VDU5TFNETUxKSGw0T196TXN5eXJfOTFlZzRHeHl4cjRNN1pRbUxxNm1mS0tORHBxRGF4VGYydHc0OVJLZ09aMG5rRQ?oc=5"
-    },
-    {
-      "id": "news-disaster-590c85fe6e",
-      "lat": 37.39115,
-      "lng": -88.63561,
-      "title": "Pope speaks with Colombia’s President following devastating earthquake",
+      "id": "news-disaster-4ca726f3ea",
+      "lat": 39.9313,
+      "lng": -83.00719,
+      "title": "Columbus Bhutanese community raises money after deadly Nepal floods",
       "category": "DISASTER",
-      "time": "2026-09-02T16:26:11Z",
-      "summary": "Pope speaks with Colombia’s President following devastating earthquake&nbsp;&nbsp;Vatican News",
-      "source_name": "Vatican News",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWZwLVN5OFZ3TElfYmdFaG9qa3JZTlBTNFZ5R2ZxTHJlTDFnMzlGbEhTMnVQYXluUDJZeWIzU3drNVVod1R5eklMeFAxa0hqQ1FNRm95TV9tUzdMcXRJQlZ1Tk5SdlJwQlo1VS1rM2dzd0JwYmVsTlFkRGpBdTloMUZ4SkcyWjlibzFVcDZJX3pFM2NDYzVsSGRGcUN2SlI3cjdySUhWV3NNRWhs?oc=5"
+      "time": "2026-09-02T16:53:00Z",
+      "summary": "Columbus Bhutanese community raises money after deadly Nepal floods&nbsp;&nbsp;The Columbus Dispatch",
+      "source_name": "The Columbus Dispatch",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjNBU3Y1MWJMTWpwbzdTV2NUYVdBQjd3cG1XRk51Y2pRb2RmUlllZjZyWjJEd1FZLWRTMWI3NE1ITENNRlN3TGNFdjJPQnpHc3BoMElMYVN3cDlkNmJfaDd3bm1WRVZRSXVDZnhMdER6X1Z5ejN6c0hOTUpjdFlROWk4QkdnTXE5UTZTMnJiSmhuSDVOS0RwVU5EYnNqYVB0bVJ2WmxmS2Q2NXlHcmJEbFExQXNIT01fUjJlMnA5aU5jUQ?oc=5"
+    },
+    {
+      "id": "news-disaster-516beb4615",
+      "lat": 37.34586,
+      "lng": -78.72426,
+      "title": "Flood watch issued for parts of Upstate NY until Thursday morning caused by prolonged downpours",
+      "category": "DISASTER",
+      "time": "2026-09-02T16:52:00Z",
+      "summary": "Flood watch issued for parts of Upstate NY until Thursday morning caused by prolonged downpours&nbsp;&nbsp;Syracuse.com",
+      "source_name": "Syracuse.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcU5LdS12MnE1blNvN2E1VE9EOTdIYmg3RHBwNDZhR1NETXdCX0VYVzVWWjBPVXl1Y0lnbGJ6VTVCN1d4NW9PT3FFdFdSVlZwSG00RnhGVVg3RU9BQnBJcEV0UzI0NUFPdkNPaTlQTW1pcVJsSnpiUDZ1SlNsbmxmaXl6UTVtT0MwYTRWaklYaHVSeWJfc1FsTlE1dlhiZkhLVnN4cmVqd3VtYlFPTlBFLXRBcmhEd0NUUEtWdU82UTJKZnFsRGlvM2NkWG9wWGZWcmRLSFhHT0EzaW5nc0wyLVRR?oc=5"
+    },
+    {
+      "id": "news-disaster-c3e631a51a",
+      "lat": 38.9005,
+      "lng": -76.99742,
+      "title": "President Trump approves major disaster declaration for nine Missouri counties",
+      "category": "DISASTER",
+      "time": "2026-09-02T16:50:00Z",
+      "summary": "President Trump approves major disaster declaration for nine Missouri counties&nbsp;&nbsp;KY3",
+      "source_name": "KY3",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX19Pb3hhUHVFNmxaQm1uQzFLTlFZbWdzS1VpdDZadnNzSEV3Q0Y3cGNOUGtNMHdyVGJuWFBScFZOZ0xKSHJseFFVekdKU19BbmZ3MUFLOWpKNFhyRkJmUnRNV0cxeWgtUVdZd1B0eWJRblgwRzlfOEhHX0MxQ0R2MldFclZNMmoxNnd0aGN1SXFFR2swbFZZcHloaFlPalB0TGRTWkVpRllkZ9IBvgFBVV95cUxPeVNVTDV6QVZxUUQ2d0NqVUZMVmttVEdweFpsc2pNeVJvZkFvdUZtWHNtUUFtX2hhQVZvekVMVGNOMTZMaU4xekZvNDd4T1JjdGw2OVlWZWY1Z3lia2t2UDgwdkt0NWJ6VzFQMzFsRG5Ta3FJdy1IdEtTWHMxV3pfRUNVc0RvS2x2eFlTa1loQUoySUJMbng4bWZTWDhaY0NnWW5ySDN5Sk1ScE5OWTRXNGZVQzhSQ2ZWbE52ZlBR?oc=5"
+    },
+    {
+      "id": "news-disaster-e47c587e20",
+      "lat": 47.12187,
+      "lng": 9.14922,
+      "title": "After the flood: human suffering on an unfathomable scale in Nepal’s worst-hit districts",
+      "category": "DISASTER",
+      "time": "2026-09-02T16:44:00Z",
+      "summary": "After the flood: human suffering on an unfathomable scale in Nepal’s worst-hit districts&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHpFdE5OaHVhTGFpX2FRZGxlOXg3RnFkbG5RZXNhSElEWlhDdW95V1c3UFBoczlnWUFqYzRwRzU3UVlTeExJR2F5T0pMeWUtMTIxOUxVaDgwNnNhLURTTi1tZzI2QXlUMElWM3ZBN29TNWRhSmpZWFY5QVdrOVFiR3cwYnEtU0FjNUxWZVdZN2dDTWloMDlfYlp1YXgyZVN5MVJQRkJR?oc=5"
+    },
+    {
+      "id": "news-disaster-670c0e9fac",
+      "lat": 37.94228,
+      "lng": 23.71786,
+      "title": "Himalayan Disaster Tests China’s Clout as Regional Leader",
+      "category": "DISASTER",
+      "time": "2026-09-02T16:21:00Z",
+      "summary": "Himalayan Disaster Tests China’s Clout as Regional Leader&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWG9ITF8zNnZqWjVxWTdVT18zVGZldmFhWnBublgwOFV5cDBYazVjS1ZkZVNTYzR2VHZzbjBVYV91NVlBV2NZMHhnQXY2QVBrTFBQNGV6YmpmTTJ1RjRpREtWdFNjY3d3TTNySmVTSXpFOXNJbnhZZ3ZsV0hJdVpRSWxzXzZPUlNYVXZVdUYzeVFQVFZhcDRhTWhjSTU?oc=5"
     },
     {
       "id": "news-disaster-b56f5fbb87",
-      "lat": 43.23997,
-      "lng": -79.86005,
+      "lat": 43.25966,
+      "lng": -79.92839,
       "title": "3.0 magnitude earthquake strikes west-southwest of Hamilton City",
       "category": "DISASTER",
       "time": "2026-09-02T16:18:58Z",
@@ -155,53 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU4zLXZjZHUyWUVYdjVpem02SGVCMmxQNnR6TlgwWUJsaFlOMUJKQnpjUnZJNVhoVmt2SERMQXhoMjRhUHEwT3Exa1AtVFphYkFZQkd2MGVjZU1RUW5aWU5KcVk3T1dxRlVFTUo5dWdNSzRVc09zQ1hORXVPbmk4ZnFOQlBzU3NDRVM4QjZMZGM5ZVpJV2YxQ1JxRkRGX0g1X3h3NWlVUGZ5blU?oc=5"
     },
     {
-      "id": "news-disaster-023e3c7457",
-      "lat": -8.2106,
-      "lng": 115.00948,
-      "title": "Did you feel it? Small earthquake centered near Ontario rattles SoCal",
-      "category": "DISASTER",
-      "time": "2026-09-02T16:07:00Z",
-      "summary": "Did you feel it? Small earthquake centered near Ontario rattles SoCal&nbsp;&nbsp;The Desert Sun",
-      "source_name": "The Desert Sun",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeTZraHExU0xhNTZIc0NSREFlek1KZE03VlR1Y1F6cC04MGxBblpHQzFpakJnXzFFd3ZuN1RxUTdsVkpkUUJGemNWUEVpdkt0UmFYNE9aZlRSckZuRVRpcnlkdHZzT0ZxejlaUUpPMlBqOC0yZFNBaHlScTZzVUZJaGdsaEtTSEpISUxHSzhVaXRnX1p6WWMyUmdNbDB0aDYyZU5PaGhUS1hEZ2dHcV9xXzdmaUgtVG8?oc=5"
-    },
-    {
-      "id": "news-disaster-6a9243bf3b",
-      "lat": 38.98422,
-      "lng": 125.78703,
-      "title": "Scientists may have found first hint of dark matter",
-      "category": "DISASTER",
-      "time": "2026-09-02T15:54:03Z",
-      "summary": "The mysterious material has eluded scientists for nearly a century.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/cvgypvnx1jgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-disaster-eb0792c1e6",
-      "lat": 35.75371,
-      "lng": 139.7821,
-      "title": "【レベル4土砂災害危険警報】平内町（2026年9月2日掲載）｜青森放送NEWS NNN",
-      "category": "DISASTER",
-      "time": "2026-09-02T15:54:00Z",
-      "summary": "【レベル4土砂災害危険警報】平内町（2026年9月2日掲載）｜青森放送NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-      "source_name": "日テレNEWS NNN",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkQxdHhza0NxY29UMDhrd2JFckxYNUN1alNJOWExRjlJNlF4LWRPajlxdk4wUUQ0emZRMUUwM0NieS05THFtekltLW9lRHBsd0VId05JempnUkl6ZTF5UWt4QW9rX0E2RmRTWUpUX1c1Q0lrd0xJWmNBV3Nva25STTZKS2Y2MFk?oc=5"
-    },
-    {
-      "id": "news-disaster-97f3e42bfd",
-      "lat": 31.21745,
-      "lng": -98.51268,
-      "title": "Texas Flash Flood Warning: 4–16 Inches of Rain Threaten Liberty and Polk Counties",
-      "category": "DISASTER",
-      "time": "2026-09-02T15:46:00Z",
-      "summary": "Texas Flash Flood Warning: 4–16 Inches of Rain Threaten Liberty and Polk Counties&nbsp;&nbsp;Forth.News",
-      "source_name": "Forth.News",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90ZUtJZXV1WGt0TVZUMkxyRG9nY19OVGFGaTA3c1dLOUVtNm1UZF96WEh6blh6d282U19SZjEyT2Z5em8zM3AwYTBIQ0IzSmhYLXFtSDFNdDdRZDBGZUhqWGN3?oc=5"
+      "id": "news-accident-80161b31a0",
+      "lat": 48.16851,
+      "lng": -1.67798,
+      "title": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge - Pittsburgh Post-Gazette",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T16:59:59Z",
+      "summary": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDc1aXFkQmpJQ0Y1YmZzT1BsWXJhU0Naam1GZE5ZY1ZFRUI0YW9wTDk4c3dBcFJqTWF0a1NyWUdQaWFsX0dEQU1naHRmaFBjcVNRenZXZW53cW82OW85cmpoNjNCSjI3cjlGUEdLZEZOQ0JkTGs0NHVOeDhPVDJhOFJTQ0hQcGtaUWJaS0EyVjV2WG9oV3BuYWk4Y2stZVhFNDc2NG1kNA?oc=5"
     },
     {
       "id": "news-accident-c66cea7642",
-      "lat": 31.90044,
-      "lng": -99.79827,
+      "lat": 31.9403,
+      "lng": -99.81985,
       "title": "Crews Respond to Early Morning Wreck Outside of Jonesboro",
       "category": "ACCIDENT",
       "time": "2026-09-02T16:27:14Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-1227f9298f",
-      "lat": 34.85179,
-      "lng": -83.3744,
+      "lat": 34.84903,
+      "lng": -83.38107,
       "title": "Tiger Woods’ Rollover Crash & Arrest 2026: Updates After the Accident",
       "category": "ACCIDENT",
       "time": "2026-09-02T16:20:00Z",
@@ -221,42 +232,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXRjNWdGckxpcjFGZGZ4LTJiczBHLVM4Wl83RnJGX3pnbXluSU9Qd2kxU2kwOGdVaG9EUGZpa2FRLXFNdm11blR0Q3AxdTNfbEcyUlBGZHNvNkUwQ1lpXy1SckFDbXpBaXI0ekdYZUo3X1B6MG43ZUFnbnlDYlduUHFQVkPSAYoBQVVfeXFMTXlzYm1kVVI1VUFPVHhVUVhnRFh2WVJ4VURqX1JKUW1Tb2NWUkpkMF8wLU9PU3F4c0Y4YUcwbTE2OHZqcERuR0FnRjF3NUQtWEI4azJ4NmlrY3VTVG9CdGtKYlJWX3NrQlJremFTVlRHNWZuaTVERzJyV3Zvazl6Ri1ON08xYUtOY1ZR?oc=5"
     },
     {
-      "id": "news-accident-e2eecdbc3b",
-      "lat": 34.86648,
-      "lng": -83.45966,
-      "title": "Tiger Woods driver's license suspended for five years after crash - push.abs-cbn.com",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T16:12:57Z",
-      "summary": "Tiger Woods driver's license suspended for five years after crash&nbsp;&nbsp;push.abs-cbn.com",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXNINm1qLTZZNlpBQXRNT3FBcFBoQU1xd1hsdXlsRU41Z1V1YmZFTE9rYnpZNVVJRC1heFZ6TWk0eW9oNVFIclpJd1ljRXJ0Zl9pLW1IOHFyN2RkQUoxbWxNcnFuWFlzanVMdHNfTmdCNmpBOUMtcmU1elUyRUtvREdlOWVBV0haQWdTakJhSHJidVVraFVHQVBjMkkwWmltc1JjaTZqZk4wU3FlTjhKT3N1X3ZQZjNWTHd5dkdaZE4?oc=5"
-    },
-    {
-      "id": "news-accident-31e86034ad",
-      "lat": -33.96531,
-      "lng": 20.41792,
-      "title": "SAPD: 1 dead, another hospitalized after fiery crash shuts down portion of north-side highway",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T15:58:00Z",
-      "summary": "SAPD: 1 dead, another hospitalized after fiery crash shuts down portion of north-side highway&nbsp;&nbsp;kens5.com",
-      "source_name": "kens5.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdVM3U0x2TmRXZk5BYWY1eXNpZjJwWG5ydzZtZ1JUUnJwN2dxWHprOW5nalQ1eXBBWUdQUEZjd2lWOG84QlJmcDFrY25kdVRxZnRrSmdNRm1pVkJyN0RFYWQxb19UMUxzUE1GTTI2OTREanluVjItcDlWWlBvMlFIaTlCOUV5dnhOTnZ5S2ZOTTFCSkhwWWFEbDV3R2U3cEk5Z25tTGtORmRoU3M4OFh3cXJiaEZSTnJFZHhORlR0TThJcG4yV05pc3otSEgybzNYa0k2NW82TjhBVzRFVEVDYkdqVVI1YV9pU013SmtOUS02eU5Va2V5Q082eTFFdmVIcHZ1VUhXanZMc3ViaDdhLTM0bm1xLUVYczVJYXI1RkxrMkJNLUdMYnVrSE9NUQ?oc=5"
-    },
-    {
-      "id": "news-accident-edfd3e2a1a",
-      "lat": 34.91161,
-      "lng": -98.13896,
-      "title": "Car and Cement Truck Crash: No Reports of Injuries",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T15:53:00Z",
-      "summary": "Car and Cement Truck Crash: No Reports of Injuries&nbsp;&nbsp;wktv.com",
-      "source_name": "wktv.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkhVVFZaWEh1dGJ0ZEhWd1h2UkNweFFqam9kWTg1dXA2MFRuQ216dUpUMHoycV9YR2NWamhCeGc4RXcwVjhoYVhlQlg1SUx6cVZGRFBac1N1MU5WVF9wUy1RbnpuaHhkQnJjcWh2WWNMaVVDc3N6Nkd4SDNMTE10Z2xGc0J5U2JVQ3lKTE11TDVGZnFKb29MWU90enZ5cFFiLVdMZHZNcko3dnJaY3MxeHhJdk10VWU5RGtlcUpwemdmdHM?oc=5"
-    },
-    {
       "id": "news-accident-170ec9ed71",
-      "lat": 59.56423,
-      "lng": 30.22091,
+      "lat": 59.53643,
+      "lng": 30.22946,
       "title": "Crash blocks westbound I-80 lanes near Sierra College Blvd in Rocklin",
       "category": "ACCIDENT",
       "time": "2026-09-02T15:38:00Z",
@@ -265,9 +243,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRE4zRHVDdXZxMXR2UGYyWGs3cGtYRHdZc1pLLTNEM3dRYlYwTnNZYUxYVTB6MmZMU1JGTVNqTVFiekFwMU9YLXRZMmhWSm80RWVjOXBhWDZuWi1jQjl6NjFnTWQySlFrQzdKUFVpNnJ5VEFGZ0FrN01NLTd5ZE9jUE15LUJSa2xJcm40NE1XMHplNFFHX29OcmpmY1pRZlRkUnJtZkF3SEh2bEVSeERJRnVpRzBNbXZZTjNTZlEwSEkwUUhxR2loR1c0Z3dyc1BLV0tWaDFvWC1BcFFiLUg3bDRBMjdDUkRONlM5Z1JVYw?oc=5"
     },
     {
+      "id": "news-accident-35cd2d51de",
+      "lat": 34.04366,
+      "lng": -118.43286,
+      "title": "Waymo Crash in Denver Puts New Focus on Driverless Accident Questions",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T15:31:00Z",
+      "summary": "Waymo Crash in Denver Puts New Focus on Driverless Accident Questions&nbsp;&nbsp;EIN Presswire",
+      "source_name": "EIN Presswire",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2hUc0pDNVRhMTBTUHlYc2x4aHpoVWF5S0VnSjRXX2dpVndsVzYtT0pLSkFudEY5OEJKS2hidjc2TWstQm5LX1dkVU9qVDRXcEgwRWRZSjVQaVB4Z0pNRWx4bjNhckdjRWthb0FNWXBnemIxelVVdlI0b3ZycFlEalRYMWJZWVJqWUVtSjQ4NjFGaGQwNDdCdmxEY2thUjZzS0hSQ2dhN2UtZnNEOUFkcmZyYThWYms?oc=5"
+    },
+    {
+      "id": "news-accident-89b0869d90",
+      "lat": 54.14866,
+      "lng": 9.90361,
+      "title": "1 dead, 1 hospitalized after fiery multi-vehicle crash on NW Loop 1604, SAFD says",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T15:22:16Z",
+      "summary": "1 dead, 1 hospitalized after fiery multi-vehicle crash on NW Loop 1604, SAFD says&nbsp;&nbsp;KSAT",
+      "source_name": "KSAT",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEQ4S2ZCNklVdU1lQjUzLWwwa1lLTVM4RzRjOEstRjlPM0JyVmVLMG5VSXFDSWRNb011RXJBNm90dnlkQmEySUhqazVxMm4zTG9KR2hhZThQYzNUcWt3LXZrU3ItTXgyalBkdEFuYTFzNGI0VDhuLVRidTd6Z0ZwemptdFVYbWlndzBfTGMyallPLWU5V2xsUGYwN0JnZmRPT2pOeXVUTFU5c2plbFlNRkk2SDV3M1JO?oc=5"
+    },
+    {
       "id": "news-disease-2d0b8aeb8c",
-      "lat": 52.54231,
-      "lng": -2.97777,
+      "lat": 52.52784,
+      "lng": -3.02394,
       "title": "More than 3,000 people have died from Ebola in the Democratic Republic of the Congo",
       "category": "DISEASE",
       "time": "2026-09-02T15:44:46Z",
@@ -276,9 +276,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NWWZadHdSdjh1dUtac1U0RzdYWDJwd1gyTEk3dVFmSXo2VG50WXBFSjZ2SldaSlRPLWNic0FJRF9DOVdGU2tBUTJTQ3hUTHR3T3RhREx6UC16NDFPZ3F6SzdvTF9mZEFRZlJuRDJKTkgzZGczVU4xaFpGSQ?oc=5"
     },
     {
+      "id": "news-disease-0846499a92",
+      "lat": 34.96617,
+      "lng": 138.35903,
+      "title": "「警戒感を強めていかないといけない」静岡市がインフルエンザ流行期入り \"異例の早さ\"流行のピークはいつ? 感染症の専門家に聞いた=静岡（静岡放送（SBS））",
+      "category": "DISEASE",
+      "time": "2026-09-02T13:09:16Z",
+      "summary": "「警戒感を強めていかないといけない」静岡市がインフルエンザ流行期入り \"異例の早さ\"流行のピークはいつ? 感染症の専門家に聞いた=静岡（静岡放送（SBS））&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6Z1pJQk9LWmlPUzRBSEFyYlEzaG95ck9BS0RFMi1oWTdGMjdtVkFzYmRGTnhwOW1Tb1Voc2otOVlvTnZXZjBXZS1RemliVVlKZ0JtQTFZWm1RTlVGSlBVZ3d5R2haT2t1a1ppYzd0YVc3SDRQelB1NDRUNzM5TG8?oc=5"
+    },
+    {
       "id": "news-disease-bed5586f48",
-      "lat": 31.98161,
-      "lng": 35.897,
+      "lat": 31.99522,
+      "lng": 35.8468,
       "title": "Children as young as six going to A&E in mental health crisis",
       "category": "DISEASE",
       "time": "2026-09-02T12:21:27Z",
@@ -288,19 +299,19 @@
     },
     {
       "id": "news-disease-546cffcfbb",
-      "lat": -17.95942,
-      "lng": -63.27211,
+      "lat": -17.91613,
+      "lng": -63.2173,
       "title": "歯みがきで「血が出る」人は要注意！ 全身の病気と老化を招く“歯ぐき”の危険度セルフチェック｜3ページ目",
       "category": "DISEASE",
       "time": "2026-09-02T11:26:27Z",
-      "summary": "歯みがきで「血が出る」人は要注意！ 全身の病気と老化を招く“歯ぐき”の危険度セルフチェック｜3ページ目&nbsp;&nbsp;OTONA SALONE",
-      "source_name": "OTONA SALONE",
+      "summary": "歯みがきで「血が出る」人は要注意！ 全身の病気と老化を招く“歯ぐき”の危険度セルフチェック｜3ページ目&nbsp;&nbsp;otonasalone.jp",
+      "source_name": "otonasalone.jp",
       "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14RU1iV0RuQ21pcFBuRm1MSUp5LVgwN0ZBUFdiNGFEWEFOUHpjVDVyTmFVeEtvMExqMVpWMm1UMDQwYi1WcW5Wbg?oc=5"
     },
     {
       "id": "news-disease-db74af0288",
-      "lat": 36.72703,
-      "lng": 139.59139,
+      "lat": 36.74515,
+      "lng": 139.60622,
       "title": "尿路感染症が疑われても「とりあえず抗生剤」はNG【クスリ社会を正しく暮らす】",
       "category": "DISEASE",
       "time": "2026-09-02T09:55:00Z",
@@ -310,8 +321,8 @@
     },
     {
       "id": "news-disease-40c713c8da",
-      "lat": 52.20233,
-      "lng": 18.67783,
+      "lat": 52.12848,
+      "lng": 18.7034,
       "title": "Former nurse dies amid dementia drug shortages",
       "category": "DISEASE",
       "time": "2026-09-02T09:23:27Z",
@@ -320,20 +331,20 @@
       "source_url": "https://www.bbc.co.uk/news/videos/cwyzpy028r3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-disease-f6949cf8c6",
-      "lat": 26.31795,
-      "lng": 127.74666,
-      "title": "術後感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
-      "category": "DISEASE",
-      "time": "2026-09-02T09:00:00Z",
-      "summary": "術後感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表&nbsp;&nbsp;アットプレス",
-      "source_name": "アットプレス",
-      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHdk9MRFY3Vkg5UWppVktrZHJ0WXVlME9IMWc5ejB6QzFuMUwtU05qZUxXMEppZnlRQ0FjTTEzZW9DeTRFd0RfZTRqN3JhOE0?oc=5"
+      "id": "news-technology-7de8895b60",
+      "lat": 35.63094,
+      "lng": 139.75445,
+      "title": "エヌビディアCEO、G20各国にAIの導入加速呼びかけ－経済効果を強調",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T16:54:45Z",
+      "summary": "エヌビディアCEO、G20各国にAIの導入加速呼びかけ－経済効果を強調&nbsp;&nbsp;Bloomberg.com",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ3F5M0h5aS1teHU4aS04UzNNS2dkWDJlLXVKMXdCdWptajFjLXQxVGd3UTZ1Rm1GN1NnSVhGQmlzZ1NOdXJ4QUVwNS1sWFZienFXUTVQOEhoOHdpNGMycVpnQjR2MU5jeURkT1Q3ek5YZEFxTnFwemlzQXF3dUttSF8xeDBBU3hiSjI5V1JCVVI?oc=5"
     },
     {
       "id": "news-technology-67af94b0df",
-      "lat": 37.74864,
-      "lng": -122.36564,
+      "lat": 37.80207,
+      "lng": -122.3718,
       "title": "Uber to cut over 3,000 jobs in major global restructuring",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T16:51:49Z",
@@ -342,9 +353,20 @@
       "source_url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-technology-5bc5ae480d",
+      "lat": 37.83688,
+      "lng": -84.33496,
+      "title": "empirik.ai emerges from stealth with $21 Million to build the AI Agent for Infrastructure Change",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T16:51:00Z",
+      "summary": "empirik.ai emerges from stealth with $21 Million to build the AI Agent for Infrastructure Change&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcG1Qd2oxOXEwRGM4N1B6OF94cWhLXy0xR0FFMzJzVEYwQk9vc2l5UTg3dEJrZzZzZDVYZnJaV3BzbE5JQ2wwdjh6akhIaEljcXdwZ1FPd1ZrRENmTDBaalc3MFZqeG5OTmVFU2ZQdGoxeUZUOURTVjZLU2RYQ3p2ejczZTJ2RmhzT25JVXNOQ0Y5YTJvc2V2Tw?oc=5"
+    },
+    {
       "id": "news-technology-8f83eed8ec",
-      "lat": 37.83461,
-      "lng": -122.21569,
+      "lat": 37.77838,
+      "lng": -122.28832,
       "title": "Tech: Lutnick’s thoughts on AI, tariffs and data centers",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T16:47:47Z",
@@ -354,8 +376,8 @@
     },
     {
       "id": "news-technology-c732ce47d9",
-      "lat": 59.92277,
-      "lng": 30.32816,
+      "lat": 59.96348,
+      "lng": 30.27809,
       "title": "INFUSE Bone Graft for TLIF receives eligibility for Medicare New Technology Add-on Payment, Advancing Reimbursement Support for Hospitals and Spine Surgeons – Ortho Spine News",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T16:33:25Z",
@@ -365,36 +387,14 @@
     },
     {
       "id": "news-technology-ebb22cd859",
-      "lat": 34.30178,
-      "lng": 71.00263,
+      "lat": 34.26804,
+      "lng": 71.04006,
       "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T16:29:46Z",
-      "summary": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season&nbsp;&nbsp;wtvbam.com",
-      "source_name": "wtvbam.com",
+      "summary": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season&nbsp;&nbsp;WTVB",
+      "source_name": "WTVB",
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjR4UDRTZVRHV1RfNzBkY0hoWjg2dmlpNU0yc3N4RWxYUXp1TlJGYWlRbFBValNZZWc4c25lQzRBY1N0TU9KUDN4SmZZQW1CT2ZrYWtRd3NlRmpnbU5CUmwtQmdWUUJCQ0hRd0dRZE42QTZzR0JEZnp1a2FDN2lfc2hjWHVGakpMS0tETW8tV1kyMTBpRndYZkpweWNFR2dzV0NsN2RKdEJlcDF0Z1dpVUI4N1lzcGc?oc=5"
-    },
-    {
-      "id": "news-technology-08c421e682",
-      "lat": 40.43984,
-      "lng": -88.86497,
-      "title": "McLean & Company Launches Human-Centric AI Program to Build Organization-Wide Capabilities for Responsible AI Adoption",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T16:27:00Z",
-      "summary": "McLean & Company Launches Human-Centric AI Program to Build Organization-Wide Capabilities for Responsible AI Adoption&nbsp;&nbsp;PR Newswire",
-      "source_name": "PR Newswire",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRlFiVUEtcW5OYU1QMDRQbkFfUTRrMnEwWHVhUjhZeVJDOHNzeC10Zm9WSnFpYVYyMVdkaWhuMmZtRVNBdmo4TkFBNGRUMUpWdTMxRmJqSjNBaGV5OWhWNnZVWW1YalFpSUt1WVBGTW9xeFp6VE5Hcm9SbWRjb1lPRndQZ3djNld1NzhDUzVsY3l6WHkwM3RpV05uRThjVTlEWkhKazZtemJZOU1PWWw5ZjQ5V241WHQtbUVEcHpud1Jwa0dqUndNOFJZZy1NY2lyVmo2YjlGNERvLTk3aUJXVDhmWTZQSTU3NFBjUWNsVURSNGJhRUZycTV3LXBMS1BLeldR?oc=5"
-    },
-    {
-      "id": "news-technology-638515805c",
-      "lat": 45.30454,
-      "lng": 5.41403,
-      "title": "Plan A Technologies Acquires Stealth AI Assessment Technology to Expand Technical M&A Due Diligence Capabilities",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T16:25:00Z",
-      "summary": "Plan A Technologies Acquires Stealth AI Assessment Technology to Expand Technical M&amp;A Due Diligence Capabilities&nbsp;&nbsp;PR Newswire",
-      "source_name": "PR Newswire",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSlZzQWc3YXd2LUl4Z1RKaGZGc2ptTEFlXy0xUHR4bEowRjJxdGYyOUxMNmw5TFVYQVBaeDBmZEt0YWRTRncxQ1ZvNnJoaTNpdGtsVkRTUVlpQ3p1bU5ETEkydm1EWVpJdnpoWVZvaXBhTUNxXzh1a1QwZEhYcWM4dEh4c3BzbU9IdkMxdjc3TG1pUnhaRnZ2cXRsSlhpSTB5dENRTXY1N3A1T0ZDb2hDOTlGWVYzTEdXbWdCZ1MydDJzVmpIQlRBTjlPZnQtUTlFRktLZlFwdjBMVlc0RkpUNEdwd0hTSWwyTkpNZHBjSVlvOTRfSGtONlV1cw?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-02T16:52:17Z"
+  "updated_at": "2026-09-02T17:05:38Z"
 }
