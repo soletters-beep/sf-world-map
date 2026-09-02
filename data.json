@@ -1,9 +1,64 @@
 {
   "news": [
     {
+      "id": "news-politics-fd2fa506a2",
+      "lat": 54.47376,
+      "lng": -0.83186,
+      "title": "Heads or tails? $1 coin with Trump's face and gold finish to go on sale",
+      "category": "POLITICS",
+      "time": "2026-09-02T16:27:00Z",
+      "summary": "Heads or tails? $1 coin with Trump's face and gold finish to go on sale&nbsp;&nbsp;Spectrum News 13",
+      "source_name": "Spectrum News 13",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUkh3aTh5cDFadG9YbDBQLXdYYW1MU0pUaDVtcDJ4UEdkRWhKeHI3WEpZN2FkYVQyY3FPWjM3NDVGWlF3WmE1RXoybVJsOU1PZV9DT0w5Nm5VXzBLZ2RXN194VTJ6Vkx4YkFyTmN2OFd1RU1hWWhmZllNdWZRM0ZuU1JrLU9KMmVoaEhGWGtTU0o?oc=5"
+    },
+    {
+      "id": "news-politics-f0de1c949b",
+      "lat": 59.17655,
+      "lng": 10.23605,
+      "title": "From Murdoch to Musk: This Year’s Venice Lineup Is Its “Most Political Ever”",
+      "category": "POLITICS",
+      "time": "2026-09-02T16:23:01Z",
+      "summary": "From Murdoch to Musk: This Year’s Venice Lineup Is Its “Most Political Ever”&nbsp;&nbsp;The Hollywood Reporter",
+      "source_name": "The Hollywood Reporter",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY2ZONENGZDlQZ1RicmMzbEJHSTVnUDA3RzVjcGxvdzFzdWF1QmsyN25LZWpVOS1JQVQtRlhrNWxucm1QTHVGMzhPZkI0Qk55VURyNlhsN1EwVE9kWUs0dW9lc20zWktMbERIRUVGM0oyQ083QktWbFhVdEFwRXJhMlBCUDlXcmtLSEtrZ3doZ05VcFJZdDRsbC0xV1I5RGIwX3hkVUNyU0M?oc=5"
+    },
+    {
+      "id": "news-politics-007479b027",
+      "lat": -5.17848,
+      "lng": 140.00604,
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "category": "POLITICS",
+      "time": "2026-09-02T16:18:55Z",
+      "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-politics-7d4c60c8e6",
+      "lat": 42.32731,
+      "lng": -72.03581,
+      "title": "Massachusetts Sen. Markey wins primary over opponent who called for generational change",
+      "category": "POLITICS",
+      "time": "2026-09-02T16:18:42Z",
+      "summary": "Massachusetts Sen. Markey wins primary over opponent who called for generational change&nbsp;&nbsp;PBS",
+      "source_name": "PBS",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY2VRNWtMRW55Q1pjczAzeE0wd3ZQSHN5YnhIdGJmWm5UYUx1SnhwUWlsbFQwVHpfbVdnQWlxQkc4R2VyYjd0R2NqamNlckVVb2xud3N4UDBCRDgtWVpxckFvbTNLRjVUMnhRUndpeGNFRWpSRnNrNW9RbGNveWlhUTN6QUJqMFZmRVk3c2UzUDhwb3NpNmt3UkRnaUoxUC1lVV82WjFOQmdtRjE5b3FxaFVWdTZqOHJfbU5LdWRYREpmQdIBxwFBVV95cUxNbURXYmV6LXFBanZTcmw3LUt6M3c5YWo3R0t3NGR5RVItUVZxUDV4dEV1X1d5QldMQjNkOVpYQjNfSkRXa1U1WFN3Z19qUDNXZ0laSF9IaTBVNFZoNFdXalZ5T0xEd3ZSY05GaE1kYlRXSkQxb01zeF83VWF1QnRPTTBIV1JrZjluT2p5bWhFN0pKR2lMMHBTS21RUnVmSXB1RnNUcXM4YnpNU1BhbndEVVZkZWlhVl9PZ1VQVjlHY2xwcmh4Ulc4?oc=5"
+    },
+    {
+      "id": "news-politics-333ebee78e",
+      "lat": 46.46982,
+      "lng": 7.59269,
+      "title": "First challenge to prediction markets reaches Supreme Court",
+      "category": "POLITICS",
+      "time": "2026-09-02T16:14:35Z",
+      "summary": "First challenge to prediction markets reaches Supreme Court&nbsp;&nbsp;KTEN",
+      "source_name": "KTEN",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdDFIbnlEVVlLN3NfcWRjYUlyWXNtZDFpNFJSd3NaWEdjX2VBTnhfeVkzM0lua3dCTEtxLWRuaWRSa3hMay1nd1BHc0ROa2RnWDlpSW9LckZJR1ZaQklJV1BoVWhnamNRSWhyOWFHQVdwQnQzcEpZNkpqR0JrdW5mcHhieTNfM3Y2MGRlYklpYUEtWlBsaGEtZ0NEbFdqclNQNkIza18wby0zZkdzUTZaVVFaWkhBLUFENWlrT3YwMC1IQ0VxT1ExbTRGTFYtd2dyMHBDdnR5ejVlQm1N?oc=5"
+    },
+    {
       "id": "news-politics-53fdd13811",
-      "lat": 49.28876,
-      "lng": 13.18866,
+      "lat": 49.22045,
+      "lng": 13.13093,
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "category": "POLITICS",
       "time": "2026-09-02T16:12:43Z",
@@ -12,64 +67,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-77fd8700e5",
-      "lat": 42.34011,
-      "lng": -72.03627,
-      "title": "Massachusetts Senate Primary Election 2026 Live Results: Ed Markey, Seth Moulton and More",
-      "category": "POLITICS",
-      "time": "2026-09-02T15:59:25Z",
-      "summary": "Massachusetts Senate Primary Election 2026 Live Results: Ed Markey, Seth Moulton and More&nbsp;&nbsp;NBC News",
-      "source_name": "NBC News",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXpjdmdSZERkTzlCTWJGbTJPc1lnb3RoTWxZaTFRbl85Q1UwUmFicXRiTFZmZ3JIRWtxclB5MjlFSGY3dUZWMTFuNFZ6UlM2c3I5c0VXYnhqODhxXzNKUy14TmhONDdCV1pkek9oU0FUSVliTlNicWRRSjFxRGxLV1JHZkFGR2hMMWhhZQ?oc=5"
-    },
-    {
-      "id": "news-politics-3e32eb8134",
-      "lat": 28.3237,
-      "lng": 84.02064,
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "category": "POLITICS",
-      "time": "2026-09-02T15:57:13Z",
-      "summary": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "news-politics-6526cc71c8",
-      "lat": 40.67023,
-      "lng": -73.99539,
-      "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
-      "category": "POLITICS",
-      "time": "2026-09-02T15:56:27Z",
-      "summary": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmxaUjBiTVdCY0tPX2FJNk1KNVZyNUxyZWE4QkFMcEcyaXJ5RUJjS2lTLUdPMWR5dWhkbVB3b1hHTjViMkZBRE04ZDRtZGE4VWxkaFJuSHVoMU5ic2FLSE81M3RJajFQa3dZTUo1OHdnNkUzOG9TX2U0QkVWN1BNcjZNRzEwOG5CUncxRFJycktEVXVk?oc=5"
-    },
-    {
-      "id": "news-politics-5ef0f48f59",
-      "lat": 16.4966,
-      "lng": 120.60602,
-      "title": "U.S. Ambassador Hoekstra visits Northeast Ohio to address Canadian tariff uncertainty",
-      "category": "POLITICS",
-      "time": "2026-09-02T15:52:00Z",
-      "summary": "U.S. Ambassador Hoekstra visits Northeast Ohio to address Canadian tariff uncertainty&nbsp;&nbsp;Crain's Cleveland",
-      "source_name": "Crain's Cleveland",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUEZEX29hdkltMEpjSjJUeXplTHQtVDQ3SlZ5RXdZa1lOVll6NG9EMEIwdFUzcHhJR2dTelZZeFBkNXB1ZnZoZG51UkgxaFhyb0RDVUljOGg0Z2hIeVhmd09SaE42azItemQ4aVZQMkRQUGlUSElUM29FcTdsdUVIbHFB?oc=5"
-    },
-    {
-      "id": "news-politics-6484754ab7",
-      "lat": 44.8403,
-      "lng": 34.79353,
-      "title": "ソンキー村の警察は「祖国を愛する」と題した政治活動を行い、国旗を掲揚した。",
-      "category": "POLITICS",
-      "time": "2026-09-02T15:33:53Z",
-      "summary": "ソンキー村の警察は「祖国を愛する」と題した政治活動を行い、国旗を掲揚した。&nbsp;&nbsp;vietnam.vn",
-      "source_name": "vietnam.vn",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnRzQzdtMzZaZ252Z1kyS3dfa0cyMzdoYTQ5VE93c3M1SmQ2RmFHRm9TR1h5aTRwOER0LVNVZEVtRlRaaEhQY055RTZEVzgzNENpSXc0RTlxOXhuREdWb2VvVjJvOGFMY1pyUWtmVHlMQ09YVG9rVHVYM0RBejk3aUkwTXRTaWRxbzVfMVpiRFZQREZTZmRESTdmNlFYYVlwSjFVaXJmbXJ2WHkzX0xBaE9FUGI1QQ?oc=5"
-    },
-    {
       "id": "news-finance-25ae1909ab",
-      "lat": 33.99137,
-      "lng": -118.27508,
+      "lat": 33.99667,
+      "lng": -118.20865,
       "title": "画像・写真：一時１９００円超下落した日経平均株価：時事ドットコム",
       "category": "FINANCE",
       "time": "2026-09-02T16:23:17Z",
@@ -78,20 +78,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSmpxR21ULVBPcnRnMGczZmVjc2d5cXBRcmhBSFFsb2l2SWRNMHBGNWJ2a0ZQV05Lbmd6Z3ZGUmg4ZGc3dDlleHFiaExoZmRPN19uY2owaEtTeExvcnV4aWJwNG0?oc=5"
     },
     {
-      "id": "news-finance-edea69572a",
-      "lat": 46.50376,
-      "lng": 7.66172,
+      "id": "news-finance-0e09da5af8",
+      "lat": 42.37363,
+      "lng": -83.05607,
+      "title": "ビザ、顧客口座から資金が流出する前に、金融機関が不正を阻止できるよう支援する「A2A Protect」の機能強化版を発表",
+      "category": "FINANCE",
+      "time": "2026-09-02T16:23:00Z",
+      "summary": "ビザ、顧客口座から資金が流出する前に、金融機関が不正を阻止できるよう支援する「A2A Protect」の機能強化版を発表&nbsp;&nbsp;Business Wire",
+      "source_name": "Business Wire",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55NTdELWNJeEZ4VTh2RmpXa1FQUHNINGEtSEkzM3NPeFdwRGJPZHhsVWZZdWttMG5PQXRnOXQySHZxLVpkU1AwN1RSUGtxZDBxREdkRUtvVEtTU2ZhTUhNTVBqa2VzSk0?oc=5"
+    },
+    {
+      "id": "news-finance-2a7375fb31",
+      "lat": 53.53521,
+      "lng": -1.9934,
+      "title": "U.S. Stocks Rise as Treasury Selloff Pauses",
+      "category": "FINANCE",
+      "time": "2026-09-02T16:20:00Z",
+      "summary": "U.S. Stocks Rise as Treasury Selloff Pauses&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDdYMmM3M0MxMkYxV25aRU11U1lwVEtvcFRtUmRFc2FNVC1EZ1VQZW5zY2w4b1lkQjNfMHFoMk1GSnc4Sm9YajFoeS1MTDZwOW0yeGN0WUFlcm9BREl0a1JNdjVQc3haTDVLTVpsOXRWbWQwRThKbFZ5bUJGMXRlNTgwb1pKdy1fNjUwTFl3N0RYMVM2MlB5RmhTaFhnQUYxYzZiLWxzUzdhbTBlVDE1ZE5zd2RpWWp6?oc=5"
+    },
+    {
+      "id": "news-finance-333ebee78e",
+      "lat": 46.53196,
+      "lng": 7.61011,
       "title": "First challenge to prediction markets reaches Supreme Court",
       "category": "FINANCE",
-      "time": "2026-09-02T16:21:25Z",
-      "summary": "First challenge to prediction markets reaches Supreme Court&nbsp;&nbsp;KRDO",
-      "source_name": "KRDO",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2F4alQzdG1OUUhfSGg3a3RDNnNFNnlZeEFmXzZ6NEh0REVKaE5rOXNfNmlkc09sSGhweExOT0ZCVHVvdFhxWXRLcHFjRjJWY0t4TFF0MG1hZGFHcE1XbWdNanRvUzRydWFDYll4RDBRa1o4NnQ2YnI5dTh2LXc4aVJzY2d4eTF5VDVxNFB3LWpQMmJsbS1TRlBLdThBMHBjaTBkVkY4Y3NDemhjNFA0T0JYUQ?oc=5"
+      "time": "2026-09-02T16:14:35Z",
+      "summary": "First challenge to prediction markets reaches Supreme Court&nbsp;&nbsp;KTEN",
+      "source_name": "KTEN",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdDFIbnlEVVlLN3NfcWRjYUlyWXNtZDFpNFJSd3NaWEdjX2VBTnhfeVkzM0lua3dCTEtxLWRuaWRSa3hMay1nd1BHc0ROa2RnWDlpSW9LckZJR1ZaQklJV1BoVWhnamNRSWhyOWFHQVdwQnQzcEpZNkpqR0JrdW5mcHhieTNfM3Y2MGRlYklpYUEtWlBsaGEtZ0NEbFdqclNQNkIza18wby0zZkdzUTZaVVFaWkhBLUFENWlrT3YwMC1IQ0VxT1ExbTRGTFYtd2dyMHBDdnR5ejVlQm1N?oc=5"
+    },
+    {
+      "id": "news-finance-53f780e206",
+      "lat": 41.27316,
+      "lng": -88.27213,
+      "title": "Diamond Price Recovery Broadens Further in August",
+      "category": "FINANCE",
+      "time": "2026-09-02T16:06:44Z",
+      "summary": "Diamond Price Recovery Broadens Further in August&nbsp;&nbsp;markets.businessinsider.com",
+      "source_name": "markets.businessinsider.com",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGZJcExKWlo1MVFVRXJkM0tuVHBkUjJNTldtOHhBaXhWbThjOThFX3hHNW1FVW1EMXVkYlg4clhqYUQ5dTlYdjdrOUtjSVUtbk5WMmhMVm0zMkZ2dmJMc3BsVE9mOFl1MEM4YlR2M2JLM2thcWs1X1o1dWtuX2tLZTdEMHlmQnd3aEJjdk9CX0VTQU5lSkZtSlZqTlh0dmhsRmJfOW85NllqNHo3?oc=5"
     },
     {
       "id": "news-finance-2bb9b0e5f0",
-      "lat": 31.72118,
-      "lng": -99.03644,
+      "lat": 31.73786,
+      "lng": -99.02899,
       "title": "Brown-Forman sales dip 1% to $911 Million, but emerging markets and ready-to-drink brands show strength",
       "category": "FINANCE",
       "time": "2026-09-02T15:43:44Z",
@@ -100,75 +133,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXlkeEF4V0N6N180MUR4cWxqOC1felkySUx0WEY0ZG5FRlRTMElad29xZlJfZFdEWWU3enJwY2IyMmFiVnI1NXhxS2hCWW9FQUFXdm45RjJId3RVeWs1TXoxZWFTVzRYSFlCZ0J5QVhpYUFEM0E2dWNnN2pEWHFRUkx4c2NXbDlaLXh5dTVFUkp0WEk?oc=5"
     },
     {
-      "id": "news-finance-4baa7c68b0",
-      "lat": 35.72551,
-      "lng": 139.59972,
-      "title": "【テクニカル】日経平均株価テクニカル分析－大幅安で100日線を下回る",
-      "category": "FINANCE",
-      "time": "2026-09-02T15:41:03Z",
-      "summary": "【テクニカル】日経平均株価テクニカル分析－大幅安で100日線を下回る&nbsp;&nbsp;外為どっとコム",
-      "source_name": "外為どっとコム",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11d2VjaFlzOTdqNHlPeHh6V1ZvaFBjcUQ0WW9fXzdQUjJlcDNyOXdvOWVTbnpOcUw0cjBzTTJyWDJ1NjhUeVpuTmhONllfX2dVVVRuU3BxQ3d0c2ttOVJQR19TRQ?oc=5"
-    },
-    {
-      "id": "news-finance-e22326a5bb",
-      "lat": 8.68913,
-      "lng": -9.99199,
-      "title": "S&P DJI, Kaiko Combine Digital Asset Index Offerings",
-      "category": "FINANCE",
-      "time": "2026-09-02T15:33:45Z",
-      "summary": "S&amp;P DJI, Kaiko Combine Digital Asset Index Offerings&nbsp;&nbsp;Markets Media",
-      "source_name": "Markets Media",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS1pTc2VTTTJSYmtGUzQzcTY4UzlUQ2h3WWhCcUMzZ3NfRjhzYXhOaHVjUnRNd2YxajNrWW9kaGU4TmJ0ZlhqVzQwNFJlQlZfYjBXd3A2bHdOMGg3cGUwOHozZUNrcXExaXZ2YUlSSWhoOTE1NENDVUJwaGwzRExCa29CZHRmR3c?oc=5"
-    },
-    {
-      "id": "news-finance-0f411cd7c4",
-      "lat": 46.52666,
-      "lng": 7.65936,
-      "title": "24X Completes First Spot Crypto Trade",
-      "category": "FINANCE",
-      "time": "2026-09-02T15:33:45Z",
-      "summary": "24X Completes First Spot Crypto Trade&nbsp;&nbsp;Markets Media",
-      "source_name": "Markets Media",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DOU5Rd0wxVWJaX0NfdGNtUlRkQzhnVElad3BnbG9NZXAwNTRqM2lNLVZFcTNWQWl1SlVtb2RKTHh1Q2VBOEN5V2FwWU5rdEZ2ZzI2dFZ4bVE1MnJOWHVKbGFqWmYwb2dPZDNuQmlOZGJPZE5hanc?oc=5"
-    },
-    {
-      "id": "news-disaster-670c0e9fac",
-      "lat": 38.01166,
-      "lng": 23.71704,
-      "title": "Himalayan Disaster Tests China’s Clout as Regional Leader",
+      "id": "news-disaster-1d2aa4e4a2",
+      "lat": 48.33853,
+      "lng": 5.53662,
+      "title": "NPS identifies 2 hikers found dead after Grand Canyon flash flood",
       "category": "DISASTER",
-      "time": "2026-09-02T16:21:00Z",
-      "summary": "Himalayan Disaster Tests China’s Clout as Regional Leader&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWG9ITF8zNnZqWjVxWTdVT18zVGZldmFhWnBublgwOFV5cDBYazVjS1ZkZVNTYzR2VHZzbjBVYV91NVlBV2NZMHhnQXY2QVBrTFBQNGV6YmpmTTJ1RjRpREtWdFNjY3d3TTNySmVTSXpFOXNJbnhZZ3ZsV0hJdVpRSWxzXzZPUlNYVXZVdUYzeVFQVFZhcDRhTWhjSTU?oc=5"
+      "time": "2026-09-02T16:32:11Z",
+      "summary": "NPS identifies 2 hikers found dead after Grand Canyon flash flood&nbsp;&nbsp;Deseret News",
+      "source_name": "Deseret News",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1ZmR2UzajBjdW9lb3lxc01ZaVk0Sl9oOXRQTTRJYWJIdlRkRzVmUFhvbm9HZ0lVRmhRZEY0cFRwMUh4d2tQUnpEaVJDSF9keEdDeEJXYTAxMlV5Rm9sbzRuZld2U29tRWdiTEFDQXR6dFB3dFhzWjVwUXZvekxaSXhScjVKTXA1cmJaeldPUF9UR01XbzdVbDM2UFNkRkNzY1lv?oc=5"
     },
     {
       "id": "news-disaster-b56f5fbb87",
-      "lat": 43.31575,
-      "lng": -79.91297,
+      "lat": 43.23407,
+      "lng": -79.88279,
       "title": "3.0 magnitude earthquake strikes west-southwest of Hamilton City",
       "category": "DISASTER",
       "time": "2026-09-02T16:18:58Z",
-      "summary": "3.0 magnitude earthquake strikes west-southwest of Hamilton City&nbsp;&nbsp;krcrtv.com",
-      "source_name": "krcrtv.com",
+      "summary": "3.0 magnitude earthquake strikes west-southwest of Hamilton City&nbsp;&nbsp;KRCR",
+      "source_name": "KRCR",
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaU4zLXZjZHUyWUVYdjVpem02SGVCMmxQNnR6TlgwWUJsaFlOMUJKQnpjUnZJNVhoVmt2SERMQXhoMjRhUHEwT3Exa1AtVFphYkFZQkd2MGVjZU1RUW5aWU5KcVk3T1dxRlVFTUo5dWdNSzRVc09zQ1hORXVPbmk4ZnFOQlBzU3NDRVM4QjZMZGM5ZVpJV2YxQ1JxRkRGX0g1X3h3NWlVUGZ5blU?oc=5"
     },
     {
       "id": "news-disaster-1def2bc304",
-      "lat": 40.75125,
-      "lng": -73.96469,
+      "lat": 40.65998,
+      "lng": -73.98525,
       "title": "Great New York State Fair gates temporarily closed due to flood damage",
       "category": "DISASTER",
       "time": "2026-09-02T16:10:00Z",
-      "summary": "Great New York State Fair gates temporarily closed due to flood damage&nbsp;&nbsp;WWNY",
-      "source_name": "WWNY",
+      "summary": "Great New York State Fair gates temporarily closed due to flood damage&nbsp;&nbsp;wwnytv.com",
+      "source_name": "wwnytv.com",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnNWa3NiSFBjejc4UXpnSTc5NHZ0anFOek5TN19UaGozaEVEQ1lLV1JMS2ZibHVVaXFrME1HTGZsbzdIcnBvdGxaclFsQlUzZzNJOGNSdGNLV2NIS2todWRvdGw5ZjFjOTVYc1FORGxicldRYmU5S2xxNEY4U3lKQWRqY0JHTzkzbmF6Z00yVWlVWFlSRUY2bXd4QWJfemw4NEtNdg?oc=5"
     },
     {
       "id": "news-disaster-023e3c7457",
-      "lat": -8.31783,
-      "lng": 115.05622,
+      "lat": -8.26877,
+      "lng": 115.08602,
       "title": "Did you feel it? Small earthquake centered near Ontario rattles SoCal",
       "category": "DISASTER",
       "time": "2026-09-02T16:07:00Z",
@@ -178,8 +178,8 @@
     },
     {
       "id": "news-disaster-6a9243bf3b",
-      "lat": 38.93906,
-      "lng": 125.71202,
+      "lat": 38.96802,
+      "lng": 125.7547,
       "title": "Scientists may have found first hint of dark matter",
       "category": "DISASTER",
       "time": "2026-09-02T15:54:03Z",
@@ -189,8 +189,8 @@
     },
     {
       "id": "news-disaster-eb0792c1e6",
-      "lat": 35.70563,
-      "lng": 139.77773,
+      "lat": 35.70575,
+      "lng": 139.73789,
       "title": "【レベル4土砂災害危険警報】平内町（2026年9月2日掲載）｜青森放送NEWS NNN",
       "category": "DISASTER",
       "time": "2026-09-02T15:54:00Z",
@@ -199,9 +199,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbkQxdHhza0NxY29UMDhrd2JFckxYNUN1alNJOWExRjlJNlF4LWRPajlxdk4wUUQ0emZRMUUwM0NieS05THFtekltLW9lRHBsd0VId05JempnUkl6ZTF5UWt4QW9rX0E2RmRTWUpUX1c1Q0lrd0xJWmNBV3Nva25STTZKS2Y2MFk?oc=5"
     },
     {
+      "id": "news-accident-c66cea7642",
+      "lat": 31.87824,
+      "lng": -99.74725,
+      "title": "Crews Respond to Early Morning Wreck Outside of Jonesboro",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T16:27:14Z",
+      "summary": "Crews Respond to Early Morning Wreck Outside of Jonesboro&nbsp;&nbsp;Jonesboro Right Now",
+      "source_name": "Jonesboro Right Now",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTmtBR1NoWmZxa19wOGVxZGxzMjh1c2IzcTJYQzFFak1OODJva1FBNHhVU0tocTZpYlNDdDdZX3l4azAtbjJ3d0hwdFNXZjFoZDc0M0xoMGtVOG0yVGtsSjBuSUp3RmV3LU5mUDNCU0RfNlY1TTJnajhJMk41enc0a3MybzdlMkxYWG9hbVdyT3hZQ2xfbldJWHhXMFlDQVptZ3c?oc=5"
+    },
+    {
+      "id": "news-accident-1227f9298f",
+      "lat": 34.80048,
+      "lng": -83.43174,
+      "title": "Tiger Woods’ Rollover Crash & Arrest 2026: Updates After the Accident",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T16:20:00Z",
+      "summary": "Tiger Woods’ Rollover Crash & Arrest 2026: Updates After the Accident&nbsp;&nbsp;Hollywood Life",
+      "source_name": "Hollywood Life",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXRjNWdGckxpcjFGZGZ4LTJiczBHLVM4Wl83RnJGX3pnbXluSU9Qd2kxU2kwOGdVaG9EUGZpa2FRLXFNdm11blR0Q3AxdTNfbEcyUlBGZHNvNkUwQ1lpXy1SckFDbXpBaXI0ekdYZUo3X1B6MG43ZUFnbnlDYlduUHFQVkPSAYoBQVVfeXFMTXlzYm1kVVI1VUFPVHhVUVhnRFh2WVJ4VURqX1JKUW1Tb2NWUkpkMF8wLU9PU3F4c0Y4YUcwbTE2OHZqcERuR0FnRjF3NUQtWEI4azJ4NmlrY3VTVG9CdGtKYlJWX3NrQlJremFTVlRHNWZuaTVERzJyV3Zvazl6Ri1ON08xYUtOY1ZR?oc=5"
+    },
+    {
       "id": "news-accident-e2eecdbc3b",
-      "lat": 34.83925,
-      "lng": -83.39779,
+      "lat": 34.8304,
+      "lng": -83.48968,
       "title": "Tiger Woods driver's license suspended for five years after crash - ABS-CBN",
       "category": "ACCIDENT",
       "time": "2026-09-02T16:12:57Z",
@@ -210,20 +232,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXNINm1qLTZZNlpBQXRNT3FBcFBoQU1xd1hsdXlsRU41Z1V1YmZFTE9rYnpZNVVJRC1heFZ6TWk0eW9oNVFIclpJd1ljRXJ0Zl9pLW1IOHFyN2RkQUoxbWxNcnFuWFlzanVMdHNfTmdCNmpBOUMtcmU1elUyRUtvREdlOWVBV0haQWdTakJhSHJidVVraFVHQVBjMkkwWmltc1JjaTZqZk4wU3FlTjhKT3N1X3ZQZjNWTHd5dkdaZE4?oc=5"
     },
     {
-      "id": "news-accident-edfd3e2a1a",
-      "lat": 34.94122,
-      "lng": -98.12494,
-      "title": "Car and Cement Truck Crash: No Reports of Injuries",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T15:53:00Z",
-      "summary": "Car and Cement Truck Crash: No Reports of Injuries&nbsp;&nbsp;WKTV",
-      "source_name": "WKTV",
-      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkhVVFZaWEh1dGJ0ZEhWd1h2UkNweFFqam9kWTg1dXA2MFRuQ216dUpUMHoycV9YR2NWamhCeGc4RXcwVjhoYVhlQlg1SUx6cVZGRFBac1N1MU5WVF9wUy1RbnpuaHhkQnJjcWh2WWNMaVVDc3N6Nkd4SDNMTE10Z2xGc0J5U2JVQ3lKTE11TDVGZnFKb29MWU90enZ5cFFiLVdMZHZNcko3dnJaY3MxeHhJdk10VWU5RGtlcUpwemdmdHM?oc=5"
-    },
-    {
       "id": "news-accident-35cd2d51de",
-      "lat": 34.08644,
-      "lng": -118.45821,
+      "lat": 34.08091,
+      "lng": -118.42343,
       "title": "Waymo Crash in Denver Puts New Focus on Driverless Accident Questions",
       "category": "ACCIDENT",
       "time": "2026-09-02T15:31:00Z",
@@ -232,9 +243,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2hUc0pDNVRhMTBTUHlYc2x4aHpoVWF5S0VnSjRXX2dpVndsVzYtT0pLSkFudEY5OEJKS2hidjc2TWstQm5LX1dkVU9qVDRXcEgwRWRZSjVQaVB4Z0pNRWx4bjNhckdjRWthb0FNWXBnemIxelVVdlI0b3ZycFlEalRYMWJZWVJqWUVtSjQ4NjFGaGQwNDdCdmxEY2thUjZzS0hSQ2dhN2UtZnNEOUFkcmZyYThWYms?oc=5"
     },
     {
+      "id": "news-accident-80161b31a0",
+      "lat": 48.08129,
+      "lng": -1.66064,
+      "title": "Bodies of all 3 missing boaters recovered from Monongahela River after deadly crash with barge - Pittsburgh Post-Gazette",
+      "category": "ACCIDENT",
+      "time": "2026-09-02T15:30:03Z",
+      "summary": "Bodies of all 3 missing boaters recovered from Monongahela River after deadly crash with barge&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDc1aXFkQmpJQ0Y1YmZzT1BsWXJhU0Naam1GZE5ZY1ZFRUI0YW9wTDk4c3dBcFJqTWF0a1NyWUdQaWFsX0dEQU1naHRmaFBjcVNRenZXZW53cW82OW85cmpoNjNCSjI3cjlGUEdLZEZOQ0JkTGs0NHVOeDhPVDJhOFJTQ0hQcGtaUWJaS0EyVjV2WG9oV3BuYWk4Y2stZVhFNDc2NG1kNA?oc=5"
+    },
+    {
       "id": "news-accident-89b0869d90",
-      "lat": 54.20643,
-      "lng": 9.92266,
+      "lat": 54.12537,
+      "lng": 9.89295,
       "title": "1 dead, 1 hospitalized after fiery multi-vehicle crash on NW Loop 1604, SAFD says",
       "category": "ACCIDENT",
       "time": "2026-09-02T15:22:16Z",
@@ -243,31 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEQ4S2ZCNklVdU1lQjUzLWwwa1lLTVM4RzRjOEstRjlPM0JyVmVLMG5VSXFDSWRNb011RXJBNm90dnlkQmEySUhqazVxMm4zTG9KR2hhZThQYzNUcWt3LXZrU3ItTXgyalBkdEFuYTFzNGI0VDhuLVRidTd6Z0ZwemptdFVYbWlndzBfTGMyallPLWU5V2xsUGYwN0JnZmRPT2pOeXVUTFU5c2plbFlNRkk2SDV3M1JO?oc=5"
     },
     {
-      "id": "news-accident-3efeae9819",
-      "lat": 56.07453,
-      "lng": 85.60208,
-      "title": "タイガー・ウッズ選手に5年間の運転免許停止と罰金1500ドルの支払いなど命じる 3月の自動車事故",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T14:50:33Z",
-      "summary": "タイガー・ウッズ選手に5年間の運転免許停止と罰金1500ドルの支払いなど命じる 3月の自動車事故&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5VM0FMcndOTElBa2JBWHNhT0dpV3ljWmFQbVI1U1NJLUM1ZW1VU2V2cnZuZm1SRFh6blcyaWJWMVZ1YU5KakhMM2xOazRoSzhnSzhRelltdw?oc=5"
-    },
-    {
-      "id": "news-accident-6270103e3d",
-      "lat": 56.11349,
-      "lng": 85.64935,
-      "title": "タイガー・ウッズ選手に5年間の運転免許停止と罰金1500ドルの支払いなど命じる 3月の自動車事故",
-      "category": "ACCIDENT",
-      "time": "2026-09-02T14:48:03Z",
-      "summary": "タイガー・ウッズ選手に5年間の運転免許停止と罰金1500ドルの支払いなど命じる 3月の自動車事故&nbsp;&nbsp;news.yahoo.co.jp",
-      "source_name": "news.yahoo.co.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHY1p0cmttdFU2bGpySmQ1bVNvWkNZYU80aVdVb0FHM3hORGdULTV1d21WZEtpTVc0TUZEY3BxaHM1SUh3S0RWUFVoNnFwTFdKUDhmRVV0TTFnQWpDcUlYTnc2eVVQeEVvendfcHhYNVFIT0xZTGNWZ0ZWN3p4aTA?oc=5"
-    },
-    {
       "id": "news-disease-2d0b8aeb8c",
-      "lat": 52.50442,
-      "lng": -3.02612,
+      "lat": 52.52467,
+      "lng": -3.00496,
       "title": "More than 3,000 people have died from Ebola in the Democratic Republic of the Congo",
       "category": "DISEASE",
       "time": "2026-09-02T15:44:46Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-bed5586f48",
-      "lat": 31.99802,
-      "lng": 35.85105,
+      "lat": 32.06058,
+      "lng": 35.87969,
       "title": "Children as young as six going to A&E in mental health crisis",
       "category": "DISEASE",
       "time": "2026-09-02T12:21:27Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-546cffcfbb",
-      "lat": -18.01063,
-      "lng": -63.17364,
+      "lat": -18.01946,
+      "lng": -63.20557,
       "title": "歯みがきで「血が出る」人は要注意！ 全身の病気と老化を招く“歯ぐき”の危険度セルフチェック｜3ページ目",
       "category": "DISEASE",
       "time": "2026-09-02T11:26:27Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-db74af0288",
-      "lat": 36.69923,
-      "lng": 139.67047,
+      "lat": 36.73933,
+      "lng": 139.57205,
       "title": "尿路感染症が疑われても「とりあえず抗生剤」はNG【クスリ社会を正しく暮らす】",
       "category": "DISEASE",
       "time": "2026-09-02T09:55:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-40c713c8da",
-      "lat": 52.17742,
-      "lng": 18.69588,
+      "lat": 52.20089,
+      "lng": 18.75797,
       "title": "Former nurse dies amid dementia drug shortages",
       "category": "DISEASE",
       "time": "2026-09-02T09:23:27Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-f6949cf8c6",
-      "lat": 26.23807,
-      "lng": 127.74865,
+      "lat": 26.23701,
+      "lng": 127.77975,
       "title": "術後感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-02T09:00:00Z",
@@ -331,31 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHdk9MRFY3Vkg5UWppVktrZHJ0WXVlME9IMWc5ejB6QzFuMUwtU05qZUxXMEppZnlRQ0FjTTEzZW9DeTRFd0RfZTRqN3JhOE0?oc=5"
     },
     {
-      "id": "news-technology-255696ddb2",
-      "lat": 38.89327,
-      "lng": -76.99764,
-      "title": "States Defy Washington, Tech Lobby as Voter Backlash Fuels AI Regulation",
+      "id": "news-technology-ebb22cd859",
+      "lat": 34.21203,
+      "lng": 71.08904,
+      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season",
       "category": "TECHNOLOGY",
-      "time": "2026-09-02T16:25:15Z",
-      "summary": "States Defy Washington, Tech Lobby as Voter Backlash Fuels AI Regulation&nbsp;&nbsp;PYMNTS.com",
-      "source_name": "PYMNTS.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMHBZMDNfbm42R0REQU45VElqLTJ1Y050N2FiV1VLOW5DUWlkRkU0MTEwYzkteGFLVDc3LWh4LWtNTlg4UXhqUWhvU2FpTGc0Z0RGMFVYUTZjdnZZMzd5SVEyOV9nQTAySFdnMVRSQXBWS2VDZVNhWlp6WDF2NVhaamZYMEdmRkVxMmVVZVdleFdVQWswcjBYUDdhV2JLbWoybzZ1WkNOMEZHV29oN0tUenJ4RXQxY0dwaE5FQkFoQXhMSVE4?oc=5"
+      "time": "2026-09-02T16:29:46Z",
+      "summary": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping season&nbsp;&nbsp;wtvbam.com",
+      "source_name": "wtvbam.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjR4UDRTZVRHV1RfNzBkY0hoWjg2dmlpNU0yc3N4RWxYUXp1TlJGYWlRbFBValNZZWc4c25lQzRBY1N0TU9KUDN4SmZZQW1CT2ZrYWtRd3NlRmpnbU5CUmwtQmdWUUJCQ0hRd0dRZE42QTZzR0JEZnp1a2FDN2lfc2hjWHVGakpMS0tETW8tV1kyMTBpRndYZkpweWNFR2dzV0NsN2RKdEJlcDF0Z1dpVUI4N1lzcGc?oc=5"
     },
     {
-      "id": "news-technology-30ace6b12e",
-      "lat": 41.46275,
-      "lng": -87.99308,
-      "title": "Will AI save or ruin democracy? It depends on whether we allow computers to stand in for people",
+      "id": "news-technology-638515805c",
+      "lat": 45.31951,
+      "lng": 5.37371,
+      "title": "Plan A Technologies Acquires Stealth AI Assessment Technology to Expand Technical M&A Due Diligence Capabilities",
       "category": "TECHNOLOGY",
-      "time": "2026-09-02T16:17:50Z",
-      "summary": "Will AI save or ruin democracy? It depends on whether we allow computers to stand in for people&nbsp;&nbsp;The Conversation",
-      "source_name": "The Conversation",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUJ4QkV3dkJlZHFaQW5JLWdCcEQ0TVgzZ0Rmd2FPa2ozbVlhdVJpVlYtQ18xSUJMbGxEY2o4YmlvTUdOTzkyT0xzNGNjNXFhWXF5X3F4cHdrN0VzeV9NQmh3MTdQbjJvRE5UWDQtUFhZYmtHLXNkd0hhMFQ4U2lrMUZrbVFNYzREdFc0al9GbHdVTlk2UUJBUnRPRlNMbzBMRW1WYi1YenFOT0k4RWM0N0UwcVNjMW5Ib1BCWlhkcWFMLXB0STU1Yw?oc=5"
+      "time": "2026-09-02T16:25:00Z",
+      "summary": "Plan A Technologies Acquires Stealth AI Assessment Technology to Expand Technical M&amp;A Due Diligence Capabilities&nbsp;&nbsp;PR Newswire",
+      "source_name": "PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSlZzQWc3YXd2LUl4Z1RKaGZGc2ptTEFlXy0xUHR4bEowRjJxdGYyOUxMNmw5TFVYQVBaeDBmZEt0YWRTRncxQ1ZvNnJoaTNpdGtsVkRTUVlpQ3p1bU5ETEkydm1EWVpJdnpoWVZvaXBhTUNxXzh1a1QwZEhYcWM4dEh4c3BzbU9IdkMxdjc3TG1pUnhaRnZ2cXRsSlhpSTB5dENRTXY1N3A1T0ZDb2hDOTlGWVYzTEdXbWdCZ1MydDJzVmpIQlRBTjlPZnQtUTlFRktLZlFwdjBMVlc0RkpUNEdwd0hTSWwyTkpNZHBjSVlvOTRfSGtONlV1cw?oc=5"
+    },
+    {
+      "id": "news-technology-3fac153561",
+      "lat": 49.13926,
+      "lng": 6.21805,
+      "title": "Meta says AI glasses fix stops users from secretly recording others",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-02T16:21:50Z",
+      "summary": "Meta says AI glasses fix stops users from secretly recording others&nbsp;&nbsp;cbsnews.com",
+      "source_name": "cbsnews.com",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nU1pxblBSRVNhMmpWeEd6UEQtdFRFa1hNQ1p1ZWpMMndfTTJtcnZ1TEhoZnNxQkd4V2JQSTUxVVFrc3pULTljZkh1Y1Nhc3o4c2RiM0NqaklINl9CSnZJVmgxdDdzWWpOajI4NExfQ0I3YUYwaGg0?oc=5"
     },
     {
       "id": "news-technology-b6c19d6ca7",
-      "lat": 32.28066,
-      "lng": -107.78596,
+      "lat": 32.20579,
+      "lng": -107.7917,
       "title": "Deming Backs More AI Use, AI-Proof Assessments in Harvard Classrooms",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T16:09:48Z",
@@ -364,31 +375,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VR2dEbUN1UldBRmNHRG5wbmZPUnNaak5LS1M3Y1FXcEVGNDBxakVHQnBjaEM3TnB3MHVsN0pfOUxJZHpTanRaek9HUWktN1VNRUdRZFJqUk9PRmQxaFRMMU1BbHYyZUJ5XzVRMDBiY0JTZw?oc=5"
     },
     {
-      "id": "news-technology-21f7bf41b8",
-      "lat": 40.71882,
-      "lng": -73.99922,
+      "id": "news-technology-127b22b5c8",
+      "lat": 40.65397,
+      "lng": -73.98402,
       "title": "New York City to ban AI in elementary, middle school classrooms",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T16:07:00Z",
-      "summary": "New York City to ban AI in elementary, middle school classrooms&nbsp;&nbsp;WTHR",
-      "source_name": "WTHR",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVHNqVkdDeVh5cUpGMHcwTkUyZW1xVVpQT2xuQlBMRlg4bXBOSWJ1QzZYWWticFp1MzQ2ZnFOX205Ry10NHZNZzhELUJabEUyaWN2VF9NeGx1UUhIVEpYWHozU3NZQkY3czdIUDhYa0hsQTJrY0E4M1dJOXJPUC1kd2ZncmFwVFRKLUk3d2pFRE5UUnZmdFJmTEpkMVMxbHRBcDdzTEFNRmxYM0dsMG9yNWRWRkFDWGJsWWZkSkJPeVNnM3VLNFNJMjdtSmdWUTRocE55Qm92ZnRmSnFI?oc=5"
-    },
-    {
-      "id": "news-technology-4beda12975",
-      "lat": 45.17592,
-      "lng": 17.29608,
-      "title": "Invasion of the Robot Teachers",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-02T16:06:24Z",
-      "summary": "Invasion of the Robot Teachers&nbsp;&nbsp;Reason Magazine",
-      "source_name": "Reason Magazine",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zOUFaU0J6LVhTZlpTTzVKLTVEOUY4Nll4Z1JtTkhkenE5UGVVc19ZTGVrcDJYZ2tsUGdMM0hCOEpTZmhtdFAteWxoQmRORzgxZXVUZng1SHZzWjRWTnI1UG9qLTByVEtHWkxuN0t3?oc=5"
+      "summary": "New York City to ban AI in elementary, middle school classrooms&nbsp;&nbsp;thv11.com",
+      "source_name": "thv11.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdFRfYm1PRFAtS21GVHlHS3p4VE0yWE5FdHRNUmZxeXpodndoZndUdy1IOGlGSkIzWmpJMkFxeXR6Z3UxYkZlNGhyYkhoaWl0SWl6eGNVWmNoYlcwX0tjcWtRNHVSZk9kY0p1dXhQVERUUnN3YUhGS0FPVm9oY085Rkp5b2J1RS11WW9DRzkwcmZkeXhGZUZDMDVDYVlDMVFuNGxpMXpTbXZZaWpWWm55OGZ3ZWxPRUtzY21EWC1Id0ZpUktlQmdsZWt0MHFnMVU0SFMwRGc5OXh6QWpLd0E?oc=5"
     },
     {
       "id": "news-technology-e05e75189a",
-      "lat": 34.01358,
-      "lng": -97.25509,
+      "lat": 33.94697,
+      "lng": -97.24643,
       "title": "Love or hate ‘em, AI-generated signs are all over the NYS Fair, stirring debate",
       "category": "TECHNOLOGY",
       "time": "2026-09-02T16:05:00Z",
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-02T16:26:23Z"
+  "updated_at": "2026-09-02T16:39:35Z"
 }
