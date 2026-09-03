@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-5e0dec07dc",
+      "lat": 35.68265,
+      "lng": 139.89635,
+      "title": "🔴 ライブ配信：政治局の複数の決議および指令を普及・実施するための全国会議",
+      "category": "POLITICS",
+      "time": "2026-09-03T01:43:04Z",
+      "summary": "🔴 ライブ配信：政治局の複数の決議および指令を普及・実施するための全国会議&nbsp;&nbsp;Vietnam.vn",
+      "source_name": "Vietnam.vn",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTRBNWxQRjZZbFFwT0NxalJTaXlGNkZJWDBlRjN6UUR4LTBhRWJ4X1VVRkNkRlM1dXQ2bHIyRi1Nb1pYSkZuTzBpdE1lWnNSamQ1R0ZKeGJVMzV1WEtIa1BUMzB6LUQ0WlIxd0dnTlYydTFGRUU4Nk1OWGlPbG9pT2NldllleW5DdENRV3lJSEtxV0VCMFFsQW1jNmJJSWhxWkJrNktmNVBNeWdqVkxWVi1pXzUxWkdmV2cyT2NJWFMzWGc0X2RBNVBBeDQ?oc=5"
+    },
+    {
+      "id": "news-politics-c7e37c75c5",
+      "lat": 7.64388,
+      "lng": 124.7489,
+      "title": "PUBLIC NOTICE: Why The Battalion has political advertisements",
+      "category": "POLITICS",
+      "time": "2026-09-03T01:25:18Z",
+      "summary": "PUBLIC NOTICE: Why The Battalion has political advertisements&nbsp;&nbsp;The Battalion",
+      "source_name": "The Battalion",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEdLMU9McE05V3BXZW5FOHZwcDExd3pVUWRqbjFyeUEza1dHVFJlQzJpUDhYaV9ocmFLM0xwSGNFM3dJX0w1QjdQVVBzS3ZKbUgyRXNBNUN6NndXSlA3SVB1ejNPclJVME1rSGxVT21HSGo4TmwtNVlkaC1TdGp4czRsN3k0STAxRHBpY1FnSFFGdjZFMjVQY09kcDE2UmI4YUZobVQ5djVvNFdpdjVB?oc=5"
+    },
+    {
       "id": "news-politics-57483509a9",
-      "lat": 39.64336,
-      "lng": -76.55843,
+      "lat": 39.6532,
+      "lng": -76.60186,
       "title": "Trump promises to campaign for Republicans and says they have a winning midterm message",
       "category": "POLITICS",
       "time": "2026-09-03T01:21:31Z",
@@ -12,9 +34,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVhMU2s4dldIRDZoemlnMDVfdUVyOExfT0haaF9aVmZ4Tm5Ed3ZRUzVRLTRHczY2MS1NejVFSGJQMDZYOFdpbGIwMC1zeGhwdmhNbEp3X3ZhenJPQm8tM0tXRW1XeXFiUDUwRzZ1SHB4eGVBREc4ME50ZExwdGl0Y1pPX1RpSngxZUVBOS1MQjVVZlBBVUs4NUo5QWkwYVIwdTVHbGpoQnlUN0tiMHBCVmptNFMwV1F1ZlZnMWJ4WXpCekxnZUloSHdlalNOZXpOSW41UQ?oc=5"
     },
     {
+      "id": "news-politics-35b3c899f4",
+      "lat": 33.30308,
+      "lng": 131.47925,
+      "title": "政治家の靖国参拝、なぜ問題？「パフォーマンスじゃない」と言うけれど 昭和天皇が参拝やめた理由（withnews by 朝日新聞）",
+      "category": "POLITICS",
+      "time": "2026-09-03T01:08:50Z",
+      "summary": "政治家の靖国参拝、なぜ問題？「パフォーマンスじゃない」と言うけれど 昭和天皇が参拝やめた理由（withnews by 朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmJTS2x0TUpZY3llbGNYd0xfbDNHOTEtR1o1amlzUFlJRnRyVXVIWXoySnlIaHdNbEJHM05TLVhSclVwZ2g5by1kUHo2NUg4WVNkelBDUUt1UHNiVUVvQl84X21fbVdGb3Q2Z2EwOUp0T0Q1TmI5cFVzazJVX1pwbzF6b1FEenc4?oc=5"
+    },
+    {
       "id": "news-politics-b219b0f90d",
-      "lat": 34.7527,
-      "lng": 135.29743,
+      "lat": 34.6655,
+      "lng": 135.34335,
       "title": "枝野幸男氏が国会の「外」に身を置いて、初めて見えて来たこととは。リベラル政治の旗手が決意とともに綴る、政治と人生の第二幕！",
       "category": "POLITICS",
       "time": "2026-09-03T01:00:02Z",
@@ -23,64 +56,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OeDUzTmdwOUVEWTN1QzJMeGJjNlQ4ODdPdGMzZWltYUdNWEpwZzhfbVVtdVRxYzZBdkN6ai15YVdIR1U4bm9iRmM1c3dYbzYwNmNNeWo4Wks1eGQ5Sk52dTd6SWtmX0pEQmc?oc=5"
     },
     {
-      "id": "news-politics-fac31471a3",
-      "lat": 34.96928,
-      "lng": -97.39624,
-      "title": "Tom Purcell - Finally a season to calm our politics - The Crescent-News",
+      "id": "news-politics-67fa54a64f",
+      "lat": 36.65066,
+      "lng": -90.01531,
+      "title": "Bernie, AOC and Bannon Can Agree on One Thing: the Fight Against Data Centers",
       "category": "POLITICS",
       "time": "2026-09-03T01:00:00Z",
-      "summary": "Tom Purcell - Finally a season to calm our politics&nbsp;&nbsp;The Crescent-News",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQanJkZEpLRzNUOS00a09uTEwzYnl2UWJfNDhCZFFGNllhNmZZVVBRX2FUTGkxT0MxbVhqVlZScmxmdE55NFZmSXFwOFBfV1FfWm5uTjlOSGVtektLM2dqcnpiMDg0RlNVZ1pFb1VqUXd0dGhaMkhndVNaRGJyMkVUdkZTamxYd2RkOVhDMERmcHdlVS01YlNtQ3dRTFBkamZpZWVPZE51UWxYMTFtQWk2SkpKdk05NVlrb2hPLVp0bXozM05yQ1hIOWs3MjVjVWcyZkVveHJmMnIxNzNBNFVpVWJMTFlUX0ZGWl85bk5B?oc=5"
+      "summary": "Bernie, AOC and Bannon Can Agree on One Thing: the Fight Against Data Centers&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMDVUa3VDNkVsNXNIVENlRUpLMGFVVGs0Q09HMDRsZy03SnlzV214ZlMtTE4zb2NocHlvZk03cmlMLXBTNWU4bGtMSWZNVEdMOUdNX2NESWY5UVBQSkk5TlgwMVRhVGdwa2FOeXY4SElVQXprZWh0Qm5DUmhxLTJ5TG0tVXNyNGRTV1dUWG0zV0xXTGxxeExoTzBCY05ZYURBN21nZGJ4cUFGb0kxbGhDd0FFa0NRSnZLNzY1Rg?oc=5"
     },
     {
-      "id": "news-politics-72ab8c73de",
-      "lat": 46.52369,
-      "lng": -96.85089,
-      "title": "Christine Flowers - Love, politics and Dolly Parton - The Crescent-News",
-      "category": "POLITICS",
-      "time": "2026-09-03T01:00:00Z",
-      "summary": "Christine Flowers - Love, politics and Dolly Parton&nbsp;&nbsp;The Crescent-News",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQmNtTlFkdmhBek9rOEFUaVhaazlOTl9kR3dMUFdrVWs1Wm0xeVFPWGxFNmlNTGhmSlB6bHhHaTFrUHo5Njhud0JfamZCcjE3NlhqMm1GNGphRXo0d2N6OWRUV19OTFZweW1IcEh1UkViVjFqX2xybzVtaDBrbGhSUklnaUdwTFpWYlNKYTh2X1RWVzRScUZnTkZsTnR5YkJFeDZJTlpNYWY4NDB4OFp2UzVwekRrVGxvWXN5TVZhTjZmM2wtYUw4V3p1VXRrQm9vUmFvaTZoV2R0QkJjOWU2QVpjZ3dRTTFldkpsVQ?oc=5"
+      "id": "news-finance-0fcaa932e2",
+      "lat": 40.74043,
+      "lng": -74.05663,
+      "title": "United States - Mayer Brown Adds Structured Finance Partner Michelle Herman In New York",
+      "category": "FINANCE",
+      "time": "2026-09-03T01:43:49Z",
+      "summary": "United States - Mayer Brown Adds Structured Finance Partner Michelle Herman In New York&nbsp;&nbsp;Mondaq",
+      "source_name": "Mondaq",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHJmVkxma0IyVjBSd2xCVHFtQTluVnJzOE1TbEpheExLcDk4a2VXX2lhdGlvZEcwT3RLOFh4UGIzNzl6d3ZqWllrRE82TFFQXzB5bDNWbDNBTkVzWnU4YndZY04tcWRJLU1GR3hfMkh0VEZVYzF3RGRNMV9mV2xRdWtrYmlucWRhUVQ4TE5mbFUzaXlfdzRESjdJQ2otUVNnNXhwbDFqdmwtRnR6V0Fqa1BXTzc?oc=5"
     },
     {
-      "id": "news-politics-ab5edd6813",
-      "lat": 40.70096,
-      "lng": -74.05291,
-      "title": "El-Sayed Wants to Mend Ties With Jewish Democrats, but Some Are Still Not Impressed",
-      "category": "POLITICS",
-      "time": "2026-09-03T00:55:39Z",
-      "summary": "El-Sayed Wants to Mend Ties With Jewish Democrats, but Some Are Still Not Impressed&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnpWV2dLNUg4c29uVEhxZUFvcDRBMDFZZERZT1FndlFJTkN1R2NBWlRKRl9jU1NJbFRYcXJjb1AzbjdMSjRUVWxqN196YzVnc2w1cURyN0Ryc01TRlpvSnVJLWY4Z2RETFJCd0d2Rm4wUk1WUTY4Nm9mckd6YXgwVnpyU1FscVR0QzhmM2tFUQ?oc=5"
-    },
-    {
-      "id": "news-politics-7374d6ca89",
-      "lat": 25.15148,
-      "lng": 55.2531,
-      "title": "「安住淳氏からアドバイスもらっている」村井嘉浩宮城県知事が中道分裂に絡み言及 政治に緊張感求める",
-      "category": "POLITICS",
-      "time": "2026-09-03T00:49:26Z",
-      "summary": "「安住淳氏からアドバイスもらっている」村井嘉浩宮城県知事が中道分裂に絡み言及 政治に緊張感求める&nbsp;&nbsp;47NEWS",
-      "source_name": "47NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zYjZ0QVZQMG0wQVhBemY5VF9HTjNMQ1hRMjN6VzFUdWR6dWdLUXlHY25jUTM2b0NxV01tSXJGSkdJV0VyWDhDU1I0UQ?oc=5"
-    },
-    {
-      "id": "news-finance-635632c001",
-      "lat": 34.7336,
-      "lng": 137.65608,
-      "title": "関西ペイント－SMBC日興が目標株価引き上げ 欧州インドでの収益性改善の顕在化に注目〔DZH 個別株情報〕(時事通信)",
+      "id": "news-finance-9a3de8f9a6",
+      "lat": 15.57729,
+      "lng": -90.72419,
+      "title": "【為替本日の注目点】ドル円１６０円台半ばから１５８円台前半まで急落(サーチナ)",
       "category": "FINANCE",
       "time": "2026-09-03T01:36:00Z",
-      "summary": "関西ペイント－SMBC日興が目標株価引き上げ 欧州インドでの収益性改善の顕在化に注目〔DZH 個別株情報〕(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "summary": "【為替本日の注目点】ドル円１６０円台半ばから１５８円台前半まで急落(サーチナ)&nbsp;&nbsp;Yahoo!ファイナンス",
       "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUdPdFc2UHJ5ZmE0MUhPYnRUbGVEc0x1WVJrZDhKaWpLdGdCLXpmazBQcEpTODg1ajUzUUEwM091MjVxWVA4d2h0c2gyNDNvVFY2d0NPV2ZZaUlLbF84dUZTWTI4Rno2c285ZzM5TGl2alp4QWRBZWgzNWdRb3ZhRDUyRDYzc00?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1plT0l0QXJSazFsZjBrOXY1T092VW95Uk1XX3JLYXVXa0ZmTlFiX1V3czRoZmpCZUhnM19ka096SUJsOG5wSGd4X2hpMURXZ2VMS0s0RkxNMkh5SXB0bV9tWXlTZkxTRG9EZVFHOVRHd1loVUsydURES2VnX0tHQWwzSXRxUE0?oc=5"
     },
     {
       "id": "news-finance-57809a3acc",
-      "lat": 35.62936,
-      "lng": 139.74148,
+      "lat": 35.72268,
+      "lng": 139.81093,
       "title": "丸紅－東海東京が目標株価引き上げ 収益力の強化が着実に進展〔DZH 個別株情報〕(時事通信)",
       "category": "FINANCE",
       "time": "2026-09-03T01:21:00Z",
@@ -89,9 +100,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHlFeWc4TF9YMEFkU2RPemFCZFNoUFI0dzJLODhUMGtwYVZWS0t4X3EtR0gxUGJnbElxdnFKTTJqQ2d6a25wa0pFaGY2R2tfTVB1Zkg1Mm5aWkRVZHhhdXJ4TkRxM0ktNVhuTmY4ZzVTNmYzVmZNckRZRTJsZXBQMjhBLWhEUzQ?oc=5"
     },
     {
+      "id": "news-finance-301fe126b9",
+      "lat": 43.25105,
+      "lng": -80.00678,
+      "title": "Jim Cramer explains Palantir, Salesforce rebound",
+      "category": "FINANCE",
+      "time": "2026-09-03T01:17:00Z",
+      "summary": "Jim Cramer explains Palantir, Salesforce rebound&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0x1aW5aVVVUbGFoYWZVX1VaZEk5UEdFZld2YlZabGFUR1NsM05HdUdoaVpwLWphZHd6Nk9OMkRBZjVDbWVyWS1uaWNCWi1fMTR1Sl9WMW1QN0tUY09iSkM3Sl9nb3VLeE5LTUI5MkItOXFWclFyaUF4bk5QVTRLM21PVEY3YnYwcnlpcE0yRW1WN180TGJVdC1FMWhzMFN6a0hoUGYtcw?oc=5"
+    },
+    {
       "id": "news-finance-17373fa157",
-      "lat": 35.8878,
-      "lng": 139.6238,
+      "lat": 35.79741,
+      "lng": 139.70287,
       "title": "ＮＥＸＴ ＦＵＮＤＳ ブルームバーグ米国投資適格社債（１－１０年）インデックス（為替ヘッジあり）[2554]：ETFの収益分配金見込額のお知らせ 2026年9月3日(適時開示) ：日経会社情報DIGITAL",
       "category": "FINANCE",
       "time": "2026-09-03T01:07:23Z",
@@ -101,8 +123,8 @@
     },
     {
       "id": "news-finance-18ee6e0bf6",
-      "lat": 35.68494,
-      "lng": 139.81165,
+      "lat": 35.65589,
+      "lng": 139.7721,
       "title": "東京外国為替市場概況・10時 ドル円、上値が重い(トレーダーズ・ウェブ)",
       "category": "FINANCE",
       "time": "2026-09-03T01:07:00Z",
@@ -111,42 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUI2dzhRYjI4V0wxcng3eWRPM210SGp0ODNXTkdLczdRcFRCalJ1djBiS0pPc05RNVdzZnZzZVBsUk5PdEFTMjlRVEs5Z2xVTDNTd3dFdzNiZXpCV01lWGlPSXhUR1EteUhMZWxZUmg0OVlkU1MzUnZsVjRrN01hOXo3dXVNeUE?oc=5"
     },
     {
-      "id": "news-finance-c28a889e31",
-      "lat": 42.05116,
-      "lng": 21.42928,
-      "title": "IMF's Georgieva says rising bond yields threaten progress on developing country debt",
-      "category": "FINANCE",
-      "time": "2026-09-03T01:05:55Z",
-      "summary": "IMF's Georgieva says rising bond yields threaten progress on developing country debt&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaEZ5T0FvMmdwMjQ3ZGc3elJOaGk0RVJnYzVlTVMtb1JDT3FMT0toODlmLXEtZkNpdHE4Z1dYV2dReVR1WVJqNU5vN2ZCV2FlLXR4Zk1fTEtLc2dfZHNkR1VMTFR5ZDRhMEFjU2JhQ0lMNFlSLVZPSXl0MTF2M2lLN05rQjA0X3NsdERUVjJlbEsxUE9Qb1ExZEpZcHVSSlZfZ2didk1lb3Vja1hGXzV4VUxxWVdoQXBKbkpCQThGVG51aS0tSjVr?oc=5"
-    },
-    {
-      "id": "news-finance-c4a317c7da",
-      "lat": 35.71893,
-      "lng": 139.71242,
-      "title": "東京為替：ドル・円は一時158円54銭をつける場面も(フィスコ)",
-      "category": "FINANCE",
-      "time": "2026-09-03T01:05:00Z",
-      "summary": "東京為替：ドル・円は一時158円54銭をつける場面も(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZV8wem5RSlFIRFVVTzZUSjZyQ0hjdXZIMWRiNGxxQTNaZmpkcndmemFfazFqVW5Gc2tMVUJVQXFJREVCRjFiTWxFVjhmbHJpMlczemRwTlVXSnFxSHNKSzJJU2VSeV9xTkphZE9ZSjBNTkFFZDlTOW9VTU9jOGllb19WaHZfSEU?oc=5"
-    },
-    {
       "id": "news-disaster-92875564ff",
-      "lat": 33.68674,
-      "lng": 130.516,
+      "lat": 33.69876,
+      "lng": 130.45353,
       "title": "【台風情報】最大瞬間風速35m/s・985hPa「台風24号（クロヴァン）」は北上中...今後の進路は？全国的に警報級大雨のおそれも...9月13日までの雨・風シミュレーションで確認【気象庁3日9時45分発表】",
       "category": "DISASTER",
       "time": "2026-09-03T01:20:00Z",
-      "summary": "【台風情報】最大瞬間風速35m/s・985hPa「台風24号（クロヴァン）」は北上中...今後の進路は？全国的に警報級大雨のおそれも...9月13日までの雨・風シミュレーションで確認【気象庁3日9時45分発表】&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
+      "summary": "【台風情報】最大瞬間風速35m/s・985hPa「台風24号（クロヴァン）」は北上中...今後の進路は？全国的に警報級大雨のおそれも...9月13日までの雨・風シミュレーションで確認【気象庁3日9時45分発表】&nbsp;&nbsp;newsdig.tbs.co.jp",
+      "source_name": "newsdig.tbs.co.jp",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84VEhtVTdLeHFqaXVaT2luME9wTmJhN1FBZk91c3lRX0tjSDJNOTZQa1g2RXI5bTVmWEM4TURwY01uLWlFS1E5eS1UYkUwWnUwSTlOYW4tbFU2VXdheXlEYVJxS3M?oc=5"
     },
     {
       "id": "news-disaster-7f4f3e38b2",
-      "lat": 40.25084,
-      "lng": -82.67289,
+      "lat": 40.26789,
+      "lng": -82.64143,
       "title": "Ohio governor requests federal disaster aid after severe storms",
       "category": "DISASTER",
       "time": "2026-09-03T01:10:00Z",
@@ -156,8 +156,8 @@
     },
     {
       "id": "news-disaster-5705f8df24",
-      "lat": 34.64539,
-      "lng": 135.54276,
+      "lat": 34.70941,
+      "lng": 135.45509,
       "title": "熊本地震で房として出荷できなくなったシャインマスカットを、期間限定ドリンクに。大阪6店舗で9/10発売",
       "category": "DISASTER",
       "time": "2026-09-03T01:00:02Z",
@@ -167,19 +167,19 @@
     },
     {
       "id": "news-disaster-189482f1cf",
-      "lat": 32.76837,
-      "lng": 130.73834,
+      "lat": 32.7369,
+      "lng": 130.73695,
       "title": "熊本地震の被災地に車を 日本カーシェアリング協会「車検切れでも」",
       "category": "DISASTER",
       "time": "2026-09-03T01:00:01Z",
-      "summary": "熊本地震の被災地に車を 日本カーシェアリング協会「車検切れでも」&nbsp;&nbsp;朝日新聞",
-      "source_name": "朝日新聞",
+      "summary": "熊本地震の被災地に車を 日本カーシェアリング協会「車検切れでも」&nbsp;&nbsp;asahi.com",
+      "source_name": "asahi.com",
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53c2VpNERFMFlMcE5haG95MFVySUg4SlJDMHV5VUo2aUFHdTRFWFk2c05hUmJtSndLZ2xNekdpUTVtUTBtQXk1eXlTNHF4eVppY1ZwZ09ZVDdhTk5hTUhVS1ZvZ1MtR28?oc=5"
     },
     {
       "id": "news-disaster-99d624e1bc",
-      "lat": 37.8861,
-      "lng": 138.98602,
+      "lat": 37.89485,
+      "lng": 139.03924,
       "title": "地震保険は液状化も対象「知っている」新潟市民は37％…周知に課題 損保協会支部調査",
       "category": "DISASTER",
       "time": "2026-09-03T01:00:00Z",
@@ -188,20 +188,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81dEVGWS01VDM1a1lfV2VkZGlkS0FIbUlXb2Nlc1JvTGtiWExRaEZDdTBEMUhzVmlXVjVZdGVvaWJyMTlmXzFxUXNxUElQekh1YjJuNWh6VHVjb19sM0E?oc=5"
     },
     {
-      "id": "news-disaster-1690a4e580",
-      "lat": 28.36066,
-      "lng": 84.02275,
-      "title": "Why Nepal floods should worry India",
+      "id": "news-disaster-7595d1cb9c",
+      "lat": 34.65022,
+      "lng": 134.92615,
+      "title": "酷暑や豪雨でインフラに異変 路面損傷で飛行機立ち往生 ゆがむ道路…路面70℃の時代",
       "category": "DISASTER",
-      "time": "2026-09-03T00:58:44Z",
-      "summary": "Why Nepal floods should worry India&nbsp;&nbsp;BBC",
-      "source_name": "BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYTZlUGFTMjJFVFBkVlRoUGItYzZTWWI4QTRpdWhvbi1CUm9vZ1J3UlBGT0JRT3FUVkw4elZudkIwMFl6VlE1LXdabFNKSko2MzJ0RXEyYUJjdw?oc=5"
+      "time": "2026-09-03T00:58:00Z",
+      "summary": "酷暑や豪雨でインフラに異変 路面損傷で飛行機立ち往生 ゆがむ道路…路面70℃の時代&nbsp;&nbsp;テレ朝NEWS",
+      "source_name": "テレ朝NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ULUwwRDJ1c3F4ZGQ4ZjlBa3VERnRjTTdGaHB3dEIzUk1yYkZaYnJYZXpRVnpsRHNJSGk4TFk4eXN3eWNQejdLVUdDMlFQQzA5Z3psaDVPcEViakFQOE1aNkNwZ1d3YU5TenVVc0hncGkzUQ?oc=5"
+    },
+    {
+      "id": "news-accident-e2fc0d3270",
+      "lat": 34.79858,
+      "lng": 135.41464,
+      "title": "運転技能検査見直しの内容 - 高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認 - 写真・画像(1/1)",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T01:46:04Z",
+      "summary": "運転技能検査見直しの内容 - 高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認 - 写真・画像(1/1)&nbsp;&nbsp;西日本新聞me",
+      "source_name": "西日本新聞me",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0eUE0TUtVRE9MbjJYamtQZHFaMnBqc19VLURTN3hCY0s3RFlqUGRaZ0tUSG5CSFBKa3p3c2trenlPM1Z5ZnAwZndEdEZ1OG9idF9IYTJSaw?oc=5"
+    },
+    {
+      "id": "news-accident-7a5104b4e6",
+      "lat": 56.02204,
+      "lng": 85.63153,
+      "title": "タイガー・ウッズ選手に5年間の運転免許停止など命じる 3月の自動車事故めぐり、米で司法取引に応じる（日テレNEWS NNN）",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T01:30:00Z",
+      "summary": "タイガー・ウッズ選手に5年間の運転免許停止など命じる 3月の自動車事故めぐり、米で司法取引に応じる（日テレNEWS NNN）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCd0tVc2dxbUd4SFFkUkpqOHE2dVdsTlJsTXhNUjFtZTRWNlFIY3IwbXg5QzFJbklfMVFHU04yYW1ZUU9abGpRMFlXQ0lUbm82STJLSHdUVk01cDJVUFdKSG1ROTVuMWNMYzM4clRFa1ctYlkxVlRPTUtDWWU0TjA?oc=5"
     },
     {
       "id": "news-accident-a67292e315",
-      "lat": 34.65211,
-      "lng": 135.18778,
+      "lat": 34.64428,
+      "lng": 135.23591,
       "title": "高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認",
       "category": "ACCIDENT",
       "time": "2026-09-03T01:20:00Z",
@@ -210,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kZU05U3lUeTQ5OUdQRmhtb2RRTXoxU3Btd1JmVXdMcmI1OWY5cFpNY3R4Z2RoVHd4eFJEWXpaSFh2N1NkdjNtbDdrMDdoY2ZkanQ3ZFZFLUtsT08tVFYyelFXVHBBbW1iWHR4UjdqNDdUS1plaVJnUGJn?oc=5"
     },
     {
+      "id": "news-accident-9400714d26",
+      "lat": 34.79209,
+      "lng": 135.41134,
+      "title": "高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T01:19:36Z",
+      "summary": "高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認&nbsp;&nbsp;河北新報オンライン",
+      "source_name": "河北新報オンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CeGszazQxQzFBdTZZNVQ2YnR0Um5TaVJSdEl3a2VkbXZFbHlQMGoyUWtYMl9yWmdnTER2ZjhRVlpSYzNQT2J0ZnotYzFqWWJzeXhrSkktVkNWRGhmRVp1OGlmUQ?oc=5"
+    },
+    {
       "id": "news-accident-5e4c49eb01",
-      "lat": 34.82242,
-      "lng": 135.37676,
+      "lat": 34.72931,
+      "lng": 135.41985,
       "title": "高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認",
       "category": "ACCIDENT",
       "time": "2026-09-03T01:19:36Z",
@@ -221,53 +254,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QUjRpR1ZnRG53Y1lUc19YS0R2WWtpOXIyMl9SeWdUc2xDeEpiVlJoUGRLMXZjaFhVX3RGRVFDb1Itemc3TWtBVUk5cG5UbEYzeXI0OFNR?oc=5"
     },
     {
-      "id": "news-accident-418dcfa841",
-      "lat": 34.7709,
-      "lng": 135.43814,
-      "title": "高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認 | | 全国のニュース",
+      "id": "news-accident-b1a26be4d0",
+      "lat": 34.82473,
+      "lng": 135.35518,
+      "title": "高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認",
       "category": "ACCIDENT",
-      "time": "2026-09-03T01:19:00Z",
-      "summary": "高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認 | | 全国のニュース&nbsp;&nbsp;佐賀新聞",
-      "source_name": "佐賀新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GMkZoNkdSeFJWdTRFekV0cGxtMnRlY21hdEdHVmVLOFVWbEx0eG5yaDdET1BrNFcyUFUzMlJud0U3anVBSnA5SkNWWVZ2TEVnVWtVbk9B?oc=5"
-    },
-    {
-      "id": "news-accident-80161b31a0",
-      "lat": 48.16131,
-      "lng": -1.67219,
-      "title": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge - Pittsburgh Post-Gazette",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T00:44:09Z",
-      "summary": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge&nbsp;&nbsp;Pittsburgh Post-Gazette",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDc1aXFkQmpJQ0Y1YmZzT1BsWXJhU0Naam1GZE5ZY1ZFRUI0YW9wTDk4c3dBcFJqTWF0a1NyWUdQaWFsX0dEQU1naHRmaFBjcVNRenZXZW53cW82OW85cmpoNjNCSjI3cjlGUEdLZEZOQ0JkTGs0NHVOeDhPVDJhOFJTQ0hQcGtaUWJaS0EyVjV2WG9oV3BuYWk4Y2stZVhFNDc2NG1kNA?oc=5"
-    },
-    {
-      "id": "news-accident-e9bb0d68af",
-      "lat": 60.62713,
-      "lng": 24.8039,
-      "title": "Janessa Gonzalez Dies after DUI Pedestrian Crash on Avenue 96",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T00:36:22Z",
-      "summary": "Janessa Gonzalez Dies after DUI Pedestrian Crash on Avenue 96&nbsp;&nbsp;Pacific Attorney Group",
-      "source_name": "Pacific Attorney Group",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZE1VWGdBS0lHWWJ2T3g2cjdfZkpBdElIcUtZWE5ZQlhnSElicWVHbzBaTXQyMlRCeHpHbGJHcFNHMGJQWnRkc05tNFpEWFBCT2JpYWFSU1pZeEhjcW00N2JlNGxncmFpX3NJYmJyeVU5dVR0ejdWZDlfOVg2T24zaW9lbjlIMmJYblVEaUlBclpqemQtMlpnWG5oM0NhaWlBelBrbUNkR19GZGFqc2FhdHYyZzBETFdyY0ptMzBfeWtQNEZ2MnYtN092REZhY1lDa0hqNllDdw?oc=5"
-    },
-    {
-      "id": "news-accident-37fb660eed",
-      "lat": 56.08415,
-      "lng": 85.60391,
-      "title": "タイガー・ウッズに5年間の運転免許停止と罰金1500ドル 3月の自動車事故で司法取引",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T00:08:32Z",
-      "summary": "タイガー・ウッズに5年間の運転免許停止と罰金1500ドル 3月の自動車事故で司法取引&nbsp;&nbsp;ALBA Net",
-      "source_name": "ALBA Net",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1akEyMHlpUW5HYXhpY050ZXZfTXExUUxlTndja1h6Tm9icmdQeXdYTEJmR3NYMkZEWFE4STZESnlHdlMwcUtEbDJ6NkJfUG5ZdVdvaHhrZ203VmJ6LVZ3bnJDVmRnSGhtSlIwaVVJSHliOFFPWm1r?oc=5"
+      "time": "2026-09-03T01:19:36Z",
+      "summary": "高齢事故防止へ更新時の試験強化 ペダル操作、実車で確認&nbsp;&nbsp;ryukyushimpo.jp",
+      "source_name": "ryukyushimpo.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VQjM3QjZzVHl1bjdiRk9HaWdsU3NoYTdhWkRqeXF4dTNRREpJSDB3d0syRGVUaUYweHozd1NPNlR2MUdCSG91bFlKek1YZFZzZ1NlSE51SWtVRmc0?oc=5"
     },
     {
       "id": "news-disease-5f53f30415",
-      "lat": 10.78307,
-      "lng": 106.67185,
+      "lat": 10.69492,
+      "lng": 106.66792,
       "title": "Chasing a perfect sleep score? You could be making it worse",
       "category": "DISEASE",
       "time": "2026-09-03T00:41:27Z",
@@ -276,20 +276,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-disease-3fabbdc2ae",
-      "lat": 3.49109,
-      "lng": 21.65781,
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-      "category": "DISEASE",
-      "time": "2026-09-02T21:11:49Z",
-      "summary": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda&nbsp;&nbsp;European Centre for Disease Prevention and Control (ECDC)",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjUwMFo1WUtEN0t1RFpuaUh5N0c5UGFOSW1oVGZZbDZFLXYzbUI2MFJmdS0wM294ZDliYXo5dEU1Nk9rOHpOMlJITWpBQmRRV2pJczFTSVg2SmRyNU8tTVZrMGlhcFZuTXhpNW82ZHlzVjZ6SGlCRFpVNmdkdnotUU83dDU0S0pq?oc=5"
-    },
-    {
       "id": "news-disease-8b3a6dc993",
-      "lat": 42.32904,
-      "lng": -91.50984,
+      "lat": 42.29486,
+      "lng": -91.51815,
       "title": "Ryan Jones: Unbreakable",
       "category": "DISEASE",
       "time": "2026-09-02T20:58:00Z",
@@ -299,8 +288,8 @@
     },
     {
       "id": "news-disease-3ba399f4d5",
-      "lat": 8.54698,
-      "lng": -71.22097,
+      "lat": 8.56051,
+      "lng": -71.25397,
       "title": "Moral Maze",
       "category": "DISEASE",
       "time": "2026-09-02T20:00:00Z",
@@ -310,8 +299,8 @@
     },
     {
       "id": "news-disease-ea3b661e26",
-      "lat": 49.80074,
-      "lng": 143.00853,
+      "lat": 49.76145,
+      "lng": 142.96474,
       "title": "夏バテとケトン代謝について - クラウドファンディング",
       "category": "DISEASE",
       "time": "2026-09-02T19:11:23Z",
@@ -321,8 +310,8 @@
     },
     {
       "id": "news-disease-47674b079d",
-      "lat": -3.00424,
-      "lng": 23.8351,
+      "lat": -2.93886,
+      "lng": 23.86714,
       "title": "Congo's Ebola outbreak shows no signs of slowing as deaths top 3,000",
       "category": "DISEASE",
       "time": "2026-09-02T18:51:44Z",
@@ -331,20 +320,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHVPR1F5RFhMN2Z5YlI5TVNicTh5WWRKcDJ6Yzg0SjRMTlZoSW5NZHBOeGcyQ0gzQV9uN09MT09iMmtpdElRWDZ3ZWNNMmhrNERzZHVJb29VcmpTd192c3VlR3Z3WGF6SW0tU2NPNktJWTFDRDJEdDlQSXg5QW9ybGxJMjRWSGNhWm5Wb01YQjFUdlFBaG94VWZValVpeXFraVZKT3gwQUFLUQ?oc=5"
     },
     {
-      "id": "news-technology-ef9adb3a51",
-      "lat": 49.16736,
-      "lng": 6.13507,
-      "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "id": "news-disease-d444d25bd4",
+      "lat": 15.03891,
+      "lng": 38.54979,
+      "title": "WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak",
+      "category": "DISEASE",
+      "time": "2026-09-02T16:38:37Z",
+      "summary": "WHO's Tedros says Ebola response must be scaled up to tackle Congo outbreak&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeWNxZHZHdGQta0ZUeEo2Y09vUjVDYXhBcTRuZW44TldiZ216SXJFakFRU0UtdkxmQVF3bWpLV2NReGZTb1VEUDhVNTVmU0tmLVBqZkRzLXZuQkpQbkF3ZXI4VW5KYUV1b3JRZTJhckczTDdVN2tPdHdSR3J0NFFqWVFYUElURmpCeTJoNVRUbVBZVUZnN3pvT2tKYzhJZGVfR29fNVNkcjZLUVNrSmF0TG9obUlwSHpkYnRXUE1hUUlpNGlIT2p6d2ZEdVlWUEJseUw0aGhsWDhLZlk?oc=5"
+    },
+    {
+      "id": "news-technology-8a3603de45",
+      "lat": 34.0914,
+      "lng": -118.20111,
+      "title": "LAUSD enacts a moratorium on student AI use, another big move to limit classroom computer use",
       "category": "TECHNOLOGY",
-      "time": "2026-09-03T01:32:00Z",
-      "summary": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing&nbsp;&nbsp;WIRED",
-      "source_name": "WIRED",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVltcmNvczI1UFVDcUtNeFR1SGxwaHFlaHB0cWVrUTZ2cS1mOXFOdWdzM0hBbHpNUXpRcGwtU19aeDBvSVRBVHB2T3JvYlhtY3ZzTzQ5UlNtNnF5ZzBNNm5BVlBvcGI5czlwTnR2MzJTdjE2RjI5VkV0ZUhtMmJPWXE2dkJXVXhINEoxTHR1elZOUV9hRE5tLTJvdFVuR2dmSnc?oc=5"
+      "time": "2026-09-03T01:46:00Z",
+      "summary": "LAUSD enacts a moratorium on student AI use, another big move to limit classroom computer use&nbsp;&nbsp;Los Angeles Times",
+      "source_name": "Los Angeles Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjFKaVptZ3ZTXzZXT1hoV3BTTE5wZi1iWU8tTnlWZGdmS2d3Z0FBWU00ZU5fNVNHTjlJdlMtTWhySi1KVkJQNUJrV3FyYzF2T3hOSWlqR0lEckRjWi1ncTREdFF6bzhBRWpkVFpNNExtWEdGRWMtQUxWVGp6UGpVdHZidGhQZw?oc=5"
+    },
+    {
+      "id": "news-technology-e6ee097b4b",
+      "lat": 33.247,
+      "lng": 130.25747,
+      "title": "SIA - AIサーガ 西暦2026年〜2035年",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T01:39:46Z",
+      "summary": "SIA - AIサーガ 西暦2026年〜2035年&nbsp;&nbsp;moomoo.com",
+      "source_name": "moomoo.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLVJUcnpqaXFjd3NWWDlmVmZoTVpUVlJKSjFLN2huaGJjWTNocGdpQXU2UFNoUERsTzhNRE90Y1FrZjdLQ0JmUVJJc2tmS1U5UXRQZ0ZQbUNJY255QjYxZzVGWmQ3SlZrMUZsRkV5RU1mbFFjNUN5V3I2aV9aT2tGQkZ1em55YkZUMzlF?oc=5"
+    },
+    {
+      "id": "news-technology-613516e6ea",
+      "lat": 54.54907,
+      "lng": -2.53995,
+      "title": "The Threat of AI Takeover Is Real",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T01:36:53Z",
+      "summary": "The Threat of AI Takeover Is Real&nbsp;&nbsp;The Free Press",
+      "source_name": "The Free Press",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c?oc=5"
     },
     {
       "id": "news-technology-e9243b6992",
-      "lat": 35.12847,
-      "lng": 136.85136,
+      "lat": 35.22196,
+      "lng": 136.8312,
       "title": "サイオステクノロジー、「社内ナレッジ活用AIチャット導入サービス」の新機能を提供開始",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T01:30:01Z",
@@ -353,48 +375,26 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kajVTNmlGMnNiTWZSTWlIY2VxeWVnSmZlckdMbEVDdmlMUkdjaWJLMGQyOThPaVh2V1pKMDU1QzBBeE1DTG84OXk4c1dIanF3cjhOWHRWUktKcW45cUw2Z1BQOXZVM2VkNFE?oc=5"
     },
     {
+      "id": "news-technology-91be0e60cf",
+      "lat": 40.72537,
+      "lng": -73.94492,
+      "title": "NY Times Rips Trump's DOJ For Backing AI Companies In Class Action Suit",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T01:29:00Z",
+      "summary": "NY Times Rips Trump's DOJ For Backing AI Companies In Class Action Suit&nbsp;&nbsp;Deadline",
+      "source_name": "Deadline",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVExsNlFTNEhqanR6YXNKS3p4Q1lTellOSXl1ekVFeTVENWZSUDBVNHptVVM0a1pKVVZmVURCN3d0T1hWYzBMM3o4SmxZM0MtRjA2d0JJV0sxQ2Z0NjdnOHJZdWZSVVRFZmt2WkhEdWotM3FVTkhjTWpveEZtOGd0OXdIM2tTTVdZ?oc=5"
+    },
+    {
       "id": "news-technology-c4c19fb6a7",
-      "lat": 43.19726,
-      "lng": 76.96201,
+      "lat": 43.2419,
+      "lng": 76.84885,
       "title": "住友商事－大幅反発 全国19空港とAIを活用した実証実験開始(トレーダーズ・ウェブ)",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T01:28:00Z",
       "summary": "住友商事－大幅反発 全国19空港とAIを活用した実証実験開始(トレーダーズ・ウェブ)&nbsp;&nbsp;Yahoo!ファイナンス",
       "source_name": "Yahoo!ファイナンス",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORG9qb0JKQmphaUthc3NJRkRIc2ZnaXVoWk1RSmt2Zi1RVHd4U19zSlZJNEVaazkycXdFdk9TdFFCenRfQzVMNldMWXhUNWpVYk1yQ2dPOTlXX3FuS3hIa1YyRWZnQ1NhLXl3UVZxTnpBd0s4NmcxMUFKQ3R4RnZlU1ljTmN0dG8?oc=5"
-    },
-    {
-      "id": "news-technology-85df4cbb8f",
-      "lat": 56.75428,
-      "lng": -3.30616,
-      "title": "Why AI Needs More Than Models: Inside CLOE's Human Perception Architecture",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T01:25:03Z",
-      "summary": "Why AI Needs More Than Models: Inside CLOE's Human Perception Architecture&nbsp;&nbsp;kyodonewsprwire.jp",
-      "source_name": "kyodonewsprwire.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TNUQ5TjNxZU9uTXJfOHFpem5PVkJsQnYxNTRwMV8yTVlmUFktU2k5SENpTTdpSGRnbHhyX1hYMG4wOGwwc1V0RmN6MVlXWURkWEpNUjRYTkxNUmc?oc=5"
-    },
-    {
-      "id": "news-technology-982d553d84",
-      "lat": 42.33709,
-      "lng": -71.08445,
-      "title": "Google、士林AI研究開発センターを6割拡張 台湾企業が共同設計パートナーに昇格",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T01:25:00Z",
-      "summary": "Google、士林AI研究開発センターを6割拡張 台湾企業が共同設計パートナーに昇格&nbsp;&nbsp;BigGo ファイナンス",
-      "source_name": "BigGo ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81RS1FOWJYWG50eUFRYjlHbFZJVllsN19tT1plVkIzTzlwM3RCQ1ZVVXJWU2k2eVljYVFhSHdoQmF4Um1oWXRSdE9ZZzFaOXdJUFpDdU9zcWg5eFFidVhPQzFYcTF6R1lUdjEtOWdqMEF3bjZX?oc=5"
-    },
-    {
-      "id": "news-technology-94d6c3a314",
-      "lat": 35.75319,
-      "lng": 139.68952,
-      "title": "ブシロード、AI子会社設立へ 「定型業務をAIで支援」",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T01:22:38Z",
-      "summary": "ブシロード、AI子会社設立へ 「定型業務をAIで支援」&nbsp;&nbsp;ITmedia",
-      "source_name": "ITmedia",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40N0RhMW1zS0gwY2pMSElqVGNPenNpWU9MWUh2cjBBMzAzMVRnOXFMMTdGdElIQ25XWlQtWXo1X3M5bFBFUXZON2t0R2xfTlc3eTFKSHQxakVVNnhoUTdKYzNad18xZkdJMUF1TA?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-03T01:41:29Z"
+  "updated_at": "2026-09-03T01:52:03Z"
 }
