@@ -1,86 +1,130 @@
 {
   "news": [
     {
-      "id": "news-politics-d22ae7f2a8",
-      "lat": 43.97252,
-      "lng": 7.1296,
+      "id": "news-politics-21166025b0",
+      "lat": 38.87555,
+      "lng": -77.08597,
+      "title": "The places where the government has put Trump’s name and face",
+      "category": "POLITICS",
+      "time": "2026-09-03T19:29:53Z",
+      "summary": "The places where the government has put Trump’s name and face&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWkY3NHlqZWQ2bk93TGZNRlFQekRCNV9YUFAyZEM3dU5qVGd0b3JWdHVsaXBZd1dUM3JZRExlTkpnbjVyNGlacXdNaEpXR2xxZ0RVSEhHend1UWFsNkVTaW93MVlOSDVqMEFnN2NaeVFRQkkwcGk1cGg5bmtMMTlIVl9Uc1dVUTBtZkNya1BEdWJ5dzd2UThQV3dndUlFV1IxMkJ6QVpSczJaZFJfRmQ0dA?oc=5"
+    },
+    {
+      "id": "news-politics-0abd674195",
+      "lat": 36.36507,
+      "lng": -78.45938,
+      "title": "Vance pushes back on reports that US strikes hit wedding in Iran but says ‘sometimes things happen’ – live",
+      "category": "POLITICS",
+      "time": "2026-09-03T19:27:52Z",
+      "summary": "Vance pushes back on reports that US strikes hit wedding in Iran but says ‘sometimes things happen’ – live&nbsp;&nbsp;The Guardian",
+      "source_name": "The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTkJmWWtiTWpna0luS283aXdWLXdwTWYwTllJckpBZVN6d2Q3Ql9KZVpPU2EzS2tpR2hnM096YjdhdTVrMFFNT1QxbGtDUE1mZHE0ckQtVjl4REFCcGRPS1k1WEUzVmhtQUhCazM2dEV0dEVVa2tkTExqR1JhdUI1anZ5RjNrUGlPLXhwUGJXN0VKbnZuNFlSYUE5RVBmdTZZX0Z1V3RmWWJfN19zZ212czBmXzFYUlNOVXZURFlJOEV2Y05hU0xKR1FEdGo?oc=5"
+    },
+    {
+      "id": "news-politics-850cbfd536",
+      "lat": 34.04844,
+      "lng": -118.27873,
+      "title": "Commentary: The bigoted rhetoric against Muslim American politicians is backfiring. Next up: Abdul El-Sayed",
+      "category": "POLITICS",
+      "time": "2026-09-03T19:22:11Z",
+      "summary": "Commentary: The bigoted rhetoric against Muslim American politicians is backfiring. Next up: Abdul El-Sayed&nbsp;&nbsp;Los Angeles Times",
+      "source_name": "Los Angeles Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEZGVTVYU2FQNm5mVGNWN20wcldsVDdTd2RqaUdVS3EzMWlUdUJxMmhpZ3BCOGpkaGpuSlhiTS1VUkxIakp1TFdFMkxIVGFpY0ZKYU9lNVN5MkVFSFU5NFMxWUlIbUF0eU9ISGdsdTVIdHd1Q3JycHlqOVdNU0RmMXNxWDNnNDBlT21fVXZZbjF6ZXhJU3Rlb2hLaE40TlBsb2hURmZ2YThsUGRMald2b0loSC1CTjI3WUdj?oc=5"
+    },
+    {
+      "id": "news-politics-7b06d37be4",
+      "lat": 35.53469,
+      "lng": 139.48689,
+      "title": "人に会わない高市主導の「公邸（皇帝）政治」はいつまで続く？トランプ一辺倒に限界も",
+      "category": "POLITICS",
+      "time": "2026-09-03T19:15:00Z",
+      "summary": "人に会わない高市主導の「公邸（皇帝）政治」はいつまで続く？トランプ一辺倒に限界も&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "source_name": "ダイヤモンド・オンライン",
+      "source_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yMTh5UFFkaEFnc2Z4WURGWlhkOEtkX3hlTHNQY0M4bFJXWlZuM1pzRkhCMWVsdFNYQmtRYUpXdUFMS2pPNkxwc3NEeVTSAU9BVV95cUxOQnBwM3AtNUhPc3NPOF9sYmFiUGRKR1ozT0E1X0tIcmZnOXFpLWFsbXEzN1VVOENJUDAxTmxvMFNwWE9Kcmd3cWlDNExTajlF?oc=5"
+    },
+    {
+      "id": "news-politics-11c804b618",
+      "lat": 44.08544,
+      "lng": 7.17362,
       "title": "Maria Bartiromo leaves Fox News after more than a decade; no reason specified",
       "category": "POLITICS",
       "time": "2026-09-03T19:12:00Z",
       "summary": "Maria Bartiromo leaves Fox News after more than a decade; no reason specified&nbsp;&nbsp;Spectrum News",
       "source_name": "Spectrum News",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzFZeEtsQmc5SWxVc0ZZTk42MEk1aXJmR0NjLXZJbXhLZUJVS0FNMWE3RVJCbTkyZ29FRG9hai1oek5MOG9BVlRBTloxVzd4dGI0SkZUZHJDMTlhSlBsOTI1Vlp1d0xJaWZYejZ0bm9kQ2NSY184MGF4WGdUdlByXy1OQ1k?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEU4eFJMS3FmbklSdzRUQjFucThEUWY0WjlieVJSTzhtQUhiYlMxSFhWX19fN1NuYUhVZUk4dF9WcXR4bnEzWmh0TXNLS2JRa3NZMURldTVfZVlNaXVRVHk3Y0JOUkZfNW00RV8tbmVXczd4Q0V2bTRCZGVDRTdoX1J5Y2taVUtNd1UwclQ0RQ?oc=5"
     },
     {
-      "id": "news-politics-ea96378288",
-      "lat": 8.38553,
-      "lng": -82.43463,
-      "title": "David Jolly said the vast majority of Floridians oppose new data centers. Polls back that up.",
+      "id": "news-politics-079aa3e187",
+      "lat": 28.32961,
+      "lng": -81.60621,
+      "title": "WATCH: Vance holds White House briefing after Leavitt's departure",
       "category": "POLITICS",
-      "time": "2026-09-03T19:00:00Z",
-      "summary": "David Jolly said the vast majority of Floridians oppose new data centers. Polls back that up.&nbsp;&nbsp;WLRN",
-      "source_name": "WLRN",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY2RwbW5zbDRFUmJOWGVSdWxGU3VXQzdwVEFRSkZsdWRSZjU5eTZYTm9EcE1XdC1kTkNDUmk0VVZfM2Fpb0w2Q3BvNlZRb29WRmtyV291YlUyOTAzbU5TWDdER1ZnTmcwVjI1QjZyc0t0Tl9VQ0pCSmUyTmY0TWtRQ2tVVm9WVTdDRHJYVUI1aHlWYWliUTBEVWF0Y29Gd0xuNnRvaWN1c2ZMR1pCcE5WWVprdGJPUVJWLW5FRG5zY0tLYWdXc21pY1RPRzBxdDZrSnNsb3Naa1JTR1E?oc=5"
+      "time": "2026-09-03T19:07:11Z",
+      "summary": "WATCH: Vance holds White House briefing after Leavitt's departure&nbsp;&nbsp;PBS",
+      "source_name": "PBS",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVRDVDhVUkE2Mzd2NHNsaVMzbnZxOWN3RFBUam4wcGtfM0d4T1BvSUdfUWxzeVJJR0VIcVhoU2x2OVFUZl9EQzk1V09nYTJKTFRqbXFOWFlsX19KcFNhcWphWUpCOEN0UXc1ZzdiVnF5alFTT0tkcURIR2FOYUJkQmFsUC13MnVPbC03LVR1aDNVOS0tQ0JLemh6TmtET2thTzRvQlplakV6QdIBrwFBVV95cUxNcllmV0lldW80VW1tTzBxalN0ZmNzdkxhc3A2dmZKVTRNdXp3OTA0TFl4dTVJU1piNWI0d0xLd3pnTlhfbVUzbFBIcEpmdUpLREh6WGYwWHBJOW1JTmtDVDlRSlpyOEVUNC04RzdyRWhaVDJjZUlkRElFUlItNzd3VHlsVHFGRVRfOGZMWGR2Tk1pM0hyS3M2ZTFwa3JvTVUzNmtmN3ZMckFCdUltbG5B?oc=5"
     },
     {
-      "id": "news-politics-f10596f4c1",
-      "lat": 38.93865,
-      "lng": -77.01941,
-      "title": "Judge blocks Trump’s latest attempt to limit birthright citizenship",
-      "category": "POLITICS",
-      "time": "2026-09-03T18:59:41Z",
-      "summary": "Judge blocks Trump’s latest attempt to limit birthright citizenship&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMFBCa3prOVZzV3o5eEs4eWh4U1Y4YVA5LUxUeUp4ODZESWxEb0wzaGNTX1lIV2xZc19PNEJpQ0dTaVpVemY3WkZNN1dnOW5nYUx0ZW8wdUhlX2tuUWFEWDZlREgwRFh4OENnYnVka3dfWmVFQk9BREdIM1ZQSGRGellLOFVqX0RZUzVOd2JBWjg3cWFJN3VBanZ5SW9YaENGV3R6OVFTMk9pOFMwTF82UERiZ0k1UQ?oc=5"
+      "id": "news-finance-d3ad2eab8b",
+      "lat": 28.36925,
+      "lng": -81.54493,
+      "title": "Watch Trillion-Dollar Dislocation Hides in Calm Credit Markets",
+      "category": "FINANCE",
+      "time": "2026-09-03T19:18:53Z",
+      "summary": "Watch Trillion-Dollar Dislocation Hides in Calm Credit Markets&nbsp;&nbsp;Bloomberg.com",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVYySk4tTW5palRWeHBtWE84cC02ZE54NUJKSHdmXzMzVFFObDhoZ3NJaFV3dDdHeFA2djVfdkVvRld5VVBPdDF4VzJhVmhzTENkcjREQkJjNV9faDN4eHJxb2xOZmpZRjhJLS1INGp1VzVaejRVQUt3dE5heDY2Rzd1NkxMdEpySGRXUG9XT3R2RFh3STJCZjlaTXYtM3E3YmkxQU1nSHpyY1B2NFBlVA?oc=5"
     },
     {
-      "id": "news-politics-1f5be52c11",
-      "lat": 52.53322,
-      "lng": 10.17319,
-      "title": "‘Those efforts did little to assuage wider public opinion’",
-      "category": "POLITICS",
-      "time": "2026-09-03T18:54:03Z",
-      "summary": "‘Those efforts did little to assuage wider public opinion’&nbsp;&nbsp;The Week",
-      "source_name": "The Week",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZTI4OGpFVS1kOUVjQmtHLUtQaU5HVDRTQ2V2MEFWS0tIV2Y1ZHpyT1JTUUY0MjFvOXRTR3BLelhyTVQyMG51Zi1sZzdnOWFfX0lSN0R4a2NqNXVnQ21BOHZ4dnE2eGlxUWJtLWxqQ0toMmw0ZTVCT1M4NmZnMnNEcWpKRlVDUQ?oc=5"
-    },
-    {
-      "id": "news-politics-aca0bd8f82",
-      "lat": 36.40106,
-      "lng": -78.44326,
-      "title": "Vance asked how he lost ‘ton of weight’ | CNN Politics",
-      "category": "POLITICS",
-      "time": "2026-09-03T18:53:00Z",
-      "summary": "Vance asked how he lost ‘ton of weight’ | CNN Politics&nbsp;&nbsp;edition.cnn.com",
-      "source_name": "edition.cnn.com",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObkVpZUQ2VUNLaEhVUklnUVJLN1M3azJvS1NpMHEzQWU4VjJjNjVHTFp5Z1NrX3hnWlpwYWFsV0FUa3FUSkxHSHNPeVA1NHI2UnBXRFlvRnFpWEpIMUpWVmxNanVpcS1NS1NyUm1OangxZ18tNkV4RW5Mamo1NE9rSjYwSGxQdWhBLVZNTU04VQ?oc=5"
-    },
-    {
-      "id": "news-politics-6f1eaa40e6",
-      "lat": 38.94839,
-      "lng": -77.00861,
-      "title": "Republicans fear Trump will keep super PAC money and not spend on the midterms",
-      "category": "POLITICS",
-      "time": "2026-09-03T18:52:11Z",
-      "summary": "Republicans fear Trump will keep super PAC money and not spend on the midterms&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSlRJNUpKRFNPRnBhVjJRaWExNEdqYlhQMWZ5ZktpODl0cGxzVzFQbVVqSlRieWhGdVFvWkl2MXNJV2Q0T2s0SkljRllLbGV2ZUhmMFNJaEtDUVFYdmF5OWFvVGsycnU5anpja0Z6ODVRM2ZEbHVpU2NWYmx3VGR3WWRyNGY4ZTZ1NXRSX2FmWWtybFA3QTltRE5UT2hESGRYSUZ0NGc0OVR1bTJ0UE9IR0hFQ2pPdjBUX0hhd2lRQ0lSUQ?oc=5"
+      "id": "news-finance-c87d3b5729",
+      "lat": 51.682,
+      "lng": 0.46247,
+      "title": "Stock market today: Dow, S&P 500, Nasdaq surge as traders pare rate-hike bets, bond yields ease",
+      "category": "FINANCE",
+      "time": "2026-09-03T19:12:03Z",
+      "summary": "Stock market today: Dow, S&amp;P 500, Nasdaq surge as traders pare rate-hike bets, bond yields ease&nbsp;&nbsp;Yahoo Finance",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFQzczVJcTRIS1ZyX1FXU2Z1UGdJdy1rODZfUzlNaE5OMGYyTklaSndXZ1B0YlF1WFoteWpNdUNGY1NLdEFFTzNPS0w5bVNRNV9GOGg2MUR0MWV6Zk4wRjA2NWdDaFg0a2J1R2NqZjRIUWhGT3hVcHhHUWFJVzU2ZTNJcnhiNFdmLTE1ZGduelBSSjNXZ0lnY0NNeHlGbkVPbDVjVFZ4OExxMzhmTW1lT3NteGRxY1dZZ1Nn?oc=5"
     },
     {
       "id": "news-finance-1841b815a1",
-      "lat": 52.49418,
-      "lng": -8.60115,
+      "lat": 52.5852,
+      "lng": -8.66529,
       "title": "Mortgage Rates Rise This Week as Markets Anticipate Fed Hike",
       "category": "FINANCE",
       "time": "2026-09-03T19:09:39Z",
-      "summary": "Mortgage Rates Rise This Week as Markets Anticipate Fed Hike&nbsp;&nbsp;Purdue Exponent",
-      "source_name": "Purdue Exponent",
+      "summary": "Mortgage Rates Rise This Week as Markets Anticipate Fed Hike&nbsp;&nbsp;purdueexponent.org",
+      "source_name": "purdueexponent.org",
       "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLTRkYXVad0tLSWd2bTNJZ1YwM3czTDdoYklwajdmcWxEZy1ZTTJ1Q2llc1JJSVRCNXdUTVhtSkFDal9jSDlYZHpSSWZrTXJwV0VHLTV1YjRuRl83OEZTOERxNDFKSVBsRVk0UlhmMXJJenNLeENoNEJrbnptbHdHN1FyN0I2RWxjbW9TbU8tM3F4YVZrbExKWHJ3ZFgwNEp5eXdkUnREdmNIYy1fOEdWT055dFgtZDNqVEc0WVoydl9rZUxQZm1EVnNaZ0VfekZ0SEk3cFhJbkpPak1fZW9mTi1UMVRWUTBkX28w?oc=5"
     },
     {
+      "id": "news-finance-922a866da7",
+      "lat": 34.96061,
+      "lng": 136.63654,
+      "title": "キオクシア、「双子の弟」サンディスクに劣る株価 足らぬ市場対話力",
+      "category": "FINANCE",
+      "time": "2026-09-03T19:00:00Z",
+      "summary": "キオクシア、「双子の弟」サンディスクに劣る株価 足らぬ市場対話力&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44NTk1Q0NBTkZoSnoxdldVVkw5aUQ4YlJqRDI4SUZOT1JTalFEN3R4NkpZY05yRjdldEpkeUZ2ck82eC1UMGdBem5fcFNWaUhGRkF3dFY0bTJKMEdGUDh2cW5nSVlORXVLaUlkeg?oc=5"
+    },
+    {
+      "id": "news-finance-e3f21f15c9",
+      "lat": 34.98385,
+      "lng": 136.65291,
+      "title": "キオクシアの株価変動も2倍に 「レバレッジ型ETF」のからくり",
+      "category": "FINANCE",
+      "time": "2026-09-03T19:00:00Z",
+      "summary": "キオクシアの株価変動も2倍に 「レバレッジ型ETF」のからくり&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82dFMzbXZUU204c09TU1NhVm9VSGlrSENaeXo3RzZNb2ZJQWtlaVdKNmw1Sk9DamRWem8yU2N3YS15Y2h2b2pNNWxGWXlCSXNBVk5wWGlaemVJRnVRcVVfLUR4TFhLSUZnLWNGZQ?oc=5"
+    },
+    {
       "id": "news-finance-04b47a851c",
-      "lat": 40.00578,
-      "lng": -75.21677,
+      "lat": 39.97523,
+      "lng": -75.2227,
       "title": "Is AI Impacting Global Labor Markets?",
       "category": "FINANCE",
       "time": "2026-09-03T18:56:15Z",
@@ -89,53 +133,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPem5yeGtkYkxVY0NjQmlTUmhBRW1tOTQxSFQ0blpKWjRrNjlCNzZSNXZoenY3cmgtODd5LXN1eUhvRC1icEZQNnpkVE04aUk1RXdGNkxkaXJ1ZW5aRVpjQW55T0xzdXdpMUJkSl9UeGpMWXZUX3VMQXFrQW1mM0o3dTU3Y1EzbXdjMUYw?oc=5"
     },
     {
-      "id": "news-finance-b8c2dae66b",
-      "lat": 33.6089,
-      "lng": -7.61917,
-      "title": "Forvis Mazars Enhances U.S. Energy & Infrastructure Finance Practice",
-      "category": "FINANCE",
-      "time": "2026-09-03T18:53:07Z",
-      "summary": "Forvis Mazars Enhances U.S. Energy & Infrastructure Finance Practice&nbsp;&nbsp;CPA Practice Advisor",
-      "source_name": "CPA Practice Advisor",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmMzT2NNSThVcHRHYXZzRHc2dXlZbVVPeTVUNGNWMVVrUWIzbkVQR0lLMUs1bWUxMmRSSnZRejBHeGR2UkdMR0lpZDhJeUdQbkgzSDZ2V3VSa2Q3X2lLVHo0THJRQ2FTdkVhWlJYY3dUb1A2cGt1N3FIRWViVDBHeTZFb29ZRDNBRzJOSFE2WDVVU3lHdnM5MUMxM0dFZm1vcWh4ZUhDZUs2a1RnaWlKeE5Ud3MtVW5YSWhJ?oc=5"
-    },
-    {
-      "id": "news-finance-eca0647391",
-      "lat": 49.66346,
-      "lng": 5.03701,
-      "title": "FIS Debuts Embedded Finance Platform Geared Toward Banks",
-      "category": "FINANCE",
-      "time": "2026-09-03T18:39:18Z",
-      "summary": "FIS Debuts Embedded Finance Platform Geared Toward Banks&nbsp;&nbsp;PYMNTS.com",
-      "source_name": "PYMNTS.com",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2pFejJzMjNXV0t6QjA0RVd2SlA2YUpxR0hlQ0g4VDBPRWplZXJCQ1ZOcmxWTE1STjF0Y2RtdktBbTVvTEg0OWh6YU10dF83emhxVzNEb2wyd01tdnBlMmlhZHY4YnMwczFuaVQ1RFd1UW9ub1JPbTVmR3NJcmFnQUx5VmtRZjliWnFxYXl5SkpiVUFMWkZ0UktXZDdIaFk?oc=5"
-    },
-    {
-      "id": "news-finance-6a792f4d9f",
-      "lat": 28.50503,
-      "lng": 77.12494,
-      "title": "Genpact Launches Agentic Record-to-Report Suite for Finance Teams",
-      "category": "FINANCE",
-      "time": "2026-09-03T18:37:55Z",
-      "summary": "Genpact Launches Agentic Record-to-Report Suite for Finance Teams&nbsp;&nbsp;Supply & Demand Chain Executive",
-      "source_name": "Supply & Demand Chain Executive",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUnRIM1MxT0FkU0E1aWVEbnhHcFF0QVFCejROMzJtOUMxbDcwRS1JLVdCQk5GOGhzNzVaeFpkT2VESURKQUhvYWo5TndZNXRYZEhORnRjSzA2cEE1TncyejBqUXRYYnBNaUhDMVd0cE5jb0ZxaHhyaEtuY2xRY3phc3FvVjVOOERHSFBsMW1namM3ZUdsWHdaNktGT2VON1JEaURBUjB2VU9mdzJTMk9nR1hVRGxzUmtqbGdlMTl3ZGdRX3VQNUkyVFJ0MUE5bGV6?oc=5"
-    },
-    {
-      "id": "news-finance-7e59506f9d",
-      "lat": 53.49038,
-      "lng": 10.17531,
-      "title": "Pappas is making campaign finance part of his US Senate bid. His opponents cry hypocrisy.",
-      "category": "FINANCE",
-      "time": "2026-09-03T18:35:54Z",
-      "summary": "Pappas is making campaign finance part of his US Senate bid. His opponents cry hypocrisy.&nbsp;&nbsp;New Hampshire Bulletin",
-      "source_name": "New Hampshire Bulletin",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNXzk5SkRwSEtONWp6RUF4eXNMQ3pWVGZ5OVZCYXYxMGxjUlJQX3ZUZlhKazg1TFRhR2pHLUQyUmIwd25oai1hSG11Z0JFSGE2WEU4Umc0bVBYUTh0bkxfMVQ1M29sRWRkRS1zOFU5QzY0Y09WRVB2WV8zSHFReTJGQlVzX1hKWHp0LUFxQ3NjaUlMUTR0eWF1UkZUak15RE14ZWN0T0tEelNFcldEb1k4enBUSnF3ZjdVbXRVUTJRYVRYOElPdWtWMTR5d0k?oc=5"
-    },
-    {
       "id": "news-disaster-16b376f6c7",
-      "lat": 18.87916,
-      "lng": -72.08439,
+      "lat": 18.85446,
+      "lng": -72.09598,
       "title": "Edouard’s flood threat finally wanes after dumping 20+ inches on east Texas",
       "category": "DISASTER",
       "time": "2026-09-03T19:19:39Z",
@@ -144,9 +144,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTFJlVnZLdkdjaTd1Qy10eGRQRUx4cGhGUGU1cHVRU25VSDFnZVRFSGFHbldueGI5NUl0ak1la3k3LUZvYlBIY1c4ckVET2NoelBfSmFjeXVBMDlCVEtmcGc5QkxrT2lPLWkzQlUwMDRPNE5xOElPZmRNdmdUbm5sa2g2eWVrNVdzU3BfZG41TnYyXzdIUV9EZkNPdFBocTRCMUE1WUZ4QzJlZE5XTnFZUzJhT3Y0bUR6UF9ORUc5M09jNUpkNy14QmljNm1mOGFwX2JPQnRhc2xzc3daNHFYWnUzQWNaNVdOdURWdEM1SjNHZ3lCTFZubkU0NzhnSUE?oc=5"
     },
     {
+      "id": "news-disaster-ce2c018d21",
+      "lat": 33.9961,
+      "lng": -118.24112,
+      "title": "Coastal flood advisory affecting Los Angeles County beaches from Saturday to Tuesday",
+      "category": "DISASTER",
+      "time": "2026-09-03T19:13:29Z",
+      "summary": "Coastal flood advisory affecting Los Angeles County beaches from Saturday to Tuesday&nbsp;&nbsp;Daily Breeze",
+      "source_name": "Daily Breeze",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaTlSbHBOWFA4eVJtclVPWDFSOXpXLVFCRWJ6eUlOZDVnWUNYZVUwaFI2TFZCNmFuUmozS1VoM05SWENkeE5JcUEyS2hjTW12YUtQZC1FN1FuUldld3FkMjFRMzZBcHBRQlZOY0FCZ3RPdDFRZHpBRm4wbFJEVjZjRjctaDhiT2ZfTDNwUFkzNi1xcVJPNkdqVWN1ZzJYWVMtZWdqTlQweHB3Ukg5RTFINmlPOHJfWVUwMDN5Ym1QX0p0Zw?oc=5"
+    },
+    {
+      "id": "news-disaster-ae03d05015",
+      "lat": 23.72787,
+      "lng": 90.03751,
+      "title": "Update: Earthquake jolts region close to Larkfield-Wikiup, CA on Sept. 3 - 3.5 magnitude detected",
+      "category": "DISASTER",
+      "time": "2026-09-03T19:13:09Z",
+      "summary": "Update: Earthquake jolts region close to Larkfield-Wikiup, CA on Sept. 3 - 3.5 magnitude detected&nbsp;&nbsp;Sacramento Bee",
+      "source_name": "Sacramento Bee",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EN040Q005NkpvMVZ6b0c2aWxZc2lwS0VHV3V1RG1FSW5Kb0xnR2hyVno3cHdYU1R5aGRtVzhrcGVUUWFIRm05dmZtUV9QT0FHTWc5Q3Y1QVBTc1YxZ3NRZklJMG9kZ1NjQVNoSi1rX3laTHhSMmlBZkM1Y28?oc=5"
+    },
+    {
       "id": "news-disaster-8008555033",
-      "lat": 39.98703,
-      "lng": -86.17331,
+      "lat": 39.9953,
+      "lng": -86.15743,
       "title": "Magnitude 3.5 earthquake strikes Sonoma County",
       "category": "DISASTER",
       "time": "2026-09-03T19:07:30Z",
@@ -155,20 +177,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMWl2YXJkLXZLcy1DQVNBOXlDakZJVmN3MVY4NUkxZUU2U1hKLWRGNm5OSWhqd2htRXZHdG9FcVB1SGFiU2paek5uMmdiemg4ZWk2VzhNZVFEWVp6YWY5ZUtuVzNsU3F2Z1JxSUUtTzJKNGdhODZTcUlnR3dZNndiajlPRnRMeUJrNGdjSHVqS3M1WEgwcGZGRWFxeXhNQQ?oc=5"
     },
     {
-      "id": "news-disaster-f2a8dc6886",
-      "lat": 39.72947,
-      "lng": -76.62439,
-      "title": "Trump approves Missouri’s disaster declaration for July flash flooding incident",
-      "category": "DISASTER",
-      "time": "2026-09-03T19:06:00Z",
-      "summary": "Trump approves Missouri’s disaster declaration for July flash flooding incident&nbsp;&nbsp;STLPR",
-      "source_name": "STLPR",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVh0U3lhNmhJeXR3akwtX2RmYmstRGVmd2VNUGZqV3kwWkRCeW1xNTBPZmIxbWEtRi1hUmozU2ZIalBwOUpwc1psY2s4X2ozUEE0dGNocG40MHd3d0NUTE1zMF9nZ1EzNGRkeVZFU0dScTFjTFh2UE9TU1I5bmhEc0FLc3VfSXU4cGM5SktkaFpMZGNWZnZ1NG5wVzF3YkNfOUZFeDln?oc=5"
-    },
-    {
       "id": "news-disaster-2c5a3682a1",
-      "lat": 47.70455,
-      "lng": 7.10499,
+      "lat": 47.73302,
+      "lng": 7.07074,
       "title": "3.5 magnitude earthquake hits north of Santa Rosa",
       "category": "DISASTER",
       "time": "2026-09-03T19:05:00Z",
@@ -178,8 +189,8 @@
     },
     {
       "id": "news-disaster-8244c63b76",
-      "lat": 39.49928,
-      "lng": -116.88982,
+      "lat": 39.45756,
+      "lng": -116.88995,
       "title": "New funding pushes Nevada closer to earthquake early warning system",
       "category": "DISASTER",
       "time": "2026-09-03T18:58:00Z",
@@ -188,20 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXJpM0VhUzBQUVkyRV9EUUI5N1BTM2lqUE5waXRGU0dIcEJEZWlFZUExMEZvQ0FlOXpVTmtHdTIwZHlUYVhrZG4xcmNLdnY4em5lclJZWlF3a242eVRHd00zdkF3MVk5LUpySUtSbDdXWlZ6M2RyUWlFdjFITlV3X3c3ak50N0U5cnl4eXFsTVdkSjh4TzN3X1FhNGNWa2JXOXM5Tw?oc=5"
     },
     {
-      "id": "news-disaster-0f672f9d10",
-      "lat": 47.78102,
-      "lng": 6.99943,
-      "title": "Santa Rosa earthquake: Preliminary magnitude 3.5 quake shakes Sonoma County in North Bay, USGS says",
-      "category": "DISASTER",
-      "time": "2026-09-03T18:56:15Z",
-      "summary": "Santa Rosa earthquake: Preliminary magnitude 3.5 quake shakes Sonoma County in North Bay, USGS says&nbsp;&nbsp;ABC7 Bay Area",
-      "source_name": "ABC7 Bay Area",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3Rjay1OU1BVVTRQc0UyZTNYeEYtdjFMMHZsR0lETklDMHRmbWc1eUJuUWpSV0NycTZSM0pfSlA2ZU9MUE81ZXU4NjNCVzJwME9sLUZwTnI1LTlDSVIzR0U0aV92Y3owb3EyZDF2clpxbFp2WGV1bHpmWjBMZ3p5Z1VrckF1cHgwVTh4Wm9ibmNWVTR4bHpneHh5ajZXbW1DdHRZSlVHSmhvSHFpUGdIVGxfTUFzaElyLWd2WU5MUFNBUTVKTGtBQ9IBzgFBVV95cUxQMm1ETENfbzRrdXFRd2FKSWE0X1dfXzExOE1MRXZseUJnV1plVks4TjNSTER5ZTN5VnJ6Y2ZycnUzY3ROSkc4V3ZaWXlyZHY1SEdYMDRBRkxHTzNXbGVwMVlPOU52bmYyYzNkQWN6OHdra01VWm1JMEpVNFBFSU5aampLOC00U2VWNVNGYm1qcUw5Y2hBYzBQckh0ZnR2N3F2UkluM1hHRFJ6QXdHRFp6Q2p5QmwxdWxSM1BiTWRwVkgyQ2tTOUhLRmZsbFVwQQ?oc=5"
+      "id": "news-accident-38a9375559",
+      "lat": 33.60174,
+      "lng": 130.18559,
+      "title": "全ト協、事業用トラック死亡事故110件",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T19:18:45Z",
+      "summary": "全ト協、事業用トラック死亡事故110件&nbsp;&nbsp;LOGISTICS TODAY",
+      "source_name": "LOGISTICS TODAY",
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03aGJIbWRCSVY0THRvMnR2N3dMV2FfU0dQTUlrT2ZScnBkZS1XSVc3WFJMWENQSTZjelQyVDBBbkdSVktFdUhONA?oc=5"
     },
     {
       "id": "news-accident-ecf0d93d3d",
-      "lat": 58.55152,
-      "lng": 11.20833,
+      "lat": 58.54432,
+      "lng": 11.27358,
       "title": "Stolen car causes deadly crash in Atlantic County, 4 arrested",
       "category": "ACCIDENT",
       "time": "2026-09-03T19:06:20Z",
@@ -210,20 +221,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY2czZHFNSFpBdlVlNXB5UnlFdzNXaWtTUHpQYlJrOE1NY2lMQUhUcWdSc0N6OVU4TWtkOHM1ODJxZVV0R1Z3RDhJdXFPUkRqWGVTMjNKWmFOSG9qN1dnUzlpUm1JTVhRUTAwQ083REtkNjdhNjhHRkRVQ09PbWVFdmlR0gGHAUFVX3lxTE01WTFfcW1lS0dEdW53S1c4aUxOTU9OME5pN29aV1ZsSUR3VWpuSzhHMmgtWEhsaVVxM1NLeE1EY1BEVlZkRjVpM1YwR2pyNExfX2pydm1oaW5xaUptVGNId1hFNjBRaDNCUmdPZTVRTU5NbFpGUVdQSVJIZDFvYnFDLTVRZXZ3Yw?oc=5"
     },
     {
-      "id": "news-accident-1fbeb459a1",
-      "lat": 44.49183,
-      "lng": 18.63858,
+      "id": "news-accident-5667d1b160",
+      "lat": 44.55976,
+      "lng": 18.57787,
       "title": "Plane crash-lands near elementary school, playground",
       "category": "ACCIDENT",
       "time": "2026-09-03T19:05:00Z",
-      "summary": "Plane crash-lands near elementary school, playground&nbsp;&nbsp;KSLA",
-      "source_name": "KSLA",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYldaTk9XZWV6TEl0UTNSYWJIOWstUERxSEdJZzM2c2NnNVZqLTFJZHh3bmVDM0JmekpHUWdwSlpMOUxhT0U4WGZuTEExYUlTSmwtS19ERDNHVEJIS1FHN1RlZEZEWFphdklmektUZ0dxZzc1ei0wY0g1MzN5dFVDS2N0NUh4SEdCUTMwb9IBoAFBVV95cUxOWVZrUGh4ZU5vNDZXXzNDXzZtdnYwamNKRGVtVUtPTVBndnkwZmhCSlFJNS1na3N5Q3hNTE5LZFhBTk92TWRsSk1aSGM3cWNYRDZFUENIZ1pKR2M1LW12QnJOUS1JMHFzQVIwamlIY3BHQklsSUZ3alFiR1NJSEh2VVVWcUNSUHRRWFNyZlFyeFJuaUlfUXN0V3ctVVdGU1Zy?oc=5"
+      "summary": "Plane crash-lands near elementary school, playground&nbsp;&nbsp;Western Mass News",
+      "source_name": "Western Mass News",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmI4ZExLa3NIWVg2eVdCWWhYWXRfMXBTSjdCN29rbWpXM09ZbE84dzU0dFlMeTlqVG1zU2JjUWwteHFxNGlTRVVhaHlJT2tSWG4xN3phRmIzeUVPUHFrUVRmbUdRSUVwS0pYaFViN2FONFJzZlZ6d3VVOXVyNmRDV1M2UjJQX0dFOE9CODNNRzY5MF91VEZ6ei0yVdIBrwFBVV95cUxQU1lCZWQtWDdRU2ZyeG1tbjNqRmRYdWhLcnV3YUJuT0lWQjBQRXVDaWJxZU5YbHJVNjkzUHN4VUI4VkQ2RXpEbEduMzYzZXpTbTBlc3JlV1FsNzFyNUd2Ty1CQm1BdVhGRXY1VDZKZFp6WnlOcFJUSndSM0RDVy1KRERBYVZUYjlWLWsyemRXVlFMeWQxQW5aRUlRYnBWTkNTd3hERVdkUWlZZ1hRdnBn?oc=5"
     },
     {
       "id": "news-accident-758096bdaf",
-      "lat": 34.82476,
-      "lng": 135.34477,
+      "lat": 34.78228,
+      "lng": 135.4012,
       "title": "高齢事故防止へ試験強化 ペダル操作、実車で確認 ２７年実施へ 相次ぐ踏み間違い受け",
       "category": "ACCIDENT",
       "time": "2026-09-03T19:00:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-92260c401d",
-      "lat": 29.17189,
-      "lng": -80.96884,
+      "lat": 29.20463,
+      "lng": -81.05215,
       "title": "Daytona woman surrenders in fatal wrong-way crash, court records show - Daytona Beach News-Journal",
       "category": "ACCIDENT",
       "time": "2026-09-03T18:51:00Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-90038fcdc2",
-      "lat": 32.69775,
-      "lng": -16.93357,
+      "lat": 32.75994,
+      "lng": -17.0002,
       "title": "1 teen, 3 adults killed following two-vehicle crash in Madera County",
       "category": "ACCIDENT",
       "time": "2026-09-03T18:27:24Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQmVpdkFRdkZJVVhFbWw0U21LRVRYbnEwSnlva1ZpMl9EWVZ0VjRtVTlSNVQ4VVc3SWlNcjBhNEc4TEp1Rm1jQWFuUk9PSFpEbVBUMVZYcWVrTGt3SjFiQnVMb3EwWWNBdEdWeW1XTFRiM1pxQjU4SjI1UmFPbjVxUmZLNFpHQkl1WHBmczVZZUFodTJ2Q1lVN9IBngFBVV95cUxNUERURndwOEdTbk1YX001SE9mc1RLZEFTUTdIcVMwTUVqellYRm1LN1JJX041SmpSc0xUdzJPWXRlSm1XaHlkNkdjcEZDdDhrQ0lOcUQzSnl6bDkyRm8zVld4SVJpUWJvRmFkeS1UdDdJVTUya01mNnNqQTVONEt4cjJYbW1PR2Yta2tOUkNQdjF6X3pXUlFZZUdfcUROQQ?oc=5"
     },
     {
-      "id": "news-accident-37405aa5a4",
-      "lat": 38.93505,
-      "lng": -77.03884,
-      "title": "A year after crash of an iconic Lisbon streetcar, a memorial but no promises for restored service",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T18:24:06Z",
-      "summary": "A year after crash of an iconic Lisbon streetcar, a memorial but no promises for restored service&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWVB5VkdybkFWeGM1X21QR1NkdXBrYzFDdEIxYWFvOGNFaGJJMVFMZk1kUUNZSnRGRkd1Z0JDMTM0NEtiTVZTUnNLSUNwU05CRVZpZHo0blVjZElTVlZzN0NESDdTOHpyZWIwbUpOUU5RWk9LcXhGMmdzWXBjQWVLRnVXcnY5RzJ6RDJSV1VMSHlUWWl4M28zekRzazhSU0RnNTBybUtIUnhFX3RtV3oyWVZhSC1STnZXTHNUZGZSeVQxYndQV2FJN1Q5R0U4UnlKZ2pIOXNqbmVzX2NrYkxj?oc=5"
-    },
-    {
       "id": "news-disease-d1cbec5bb6",
-      "lat": 34.98513,
-      "lng": 135.77508,
+      "lat": 34.95367,
+      "lng": 135.74957,
       "title": "病気マサノリ",
       "category": "DISEASE",
       "time": "2026-09-03T16:14:30Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-2e211fcb0f",
-      "lat": 3.48643,
-      "lng": 21.64471,
+      "lat": 3.49795,
+      "lng": 21.62298,
       "title": "Ebola Outbreak ‘Still Evolving’ as Deaths Pass 3,000",
       "category": "DISEASE",
       "time": "2026-09-03T15:42:19Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-9d2e3687af",
-      "lat": 43.54622,
-      "lng": -73.97894,
+      "lat": 43.59653,
+      "lng": -74.00668,
       "title": "Measles outbreak in Sweden: most cases in unvaccinated children",
       "category": "DISEASE",
       "time": "2026-09-03T15:41:11Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-41616db119",
-      "lat": 35.65227,
-      "lng": 139.75047,
+      "lat": 35.67336,
+      "lng": 139.80499,
       "title": "異例の流行“インフルエンザ” 医師「基本的な感染症対策に尽きる」 長引く咳は結核の可能性も（福島テレビ）",
       "category": "DISEASE",
       "time": "2026-09-03T10:25:01Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-8e2da947f3",
-      "lat": 22.39051,
-      "lng": 78.64937,
+      "lat": 22.30842,
+      "lng": 78.62183,
       "title": "India’s current flu spike is a test for the next pandemic. Failure is not an option",
       "category": "DISEASE",
       "time": "2026-09-03T10:09:50Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-4a5e75a67f",
-      "lat": 3.54863,
-      "lng": 21.69115,
+      "lat": 3.5228,
+      "lng": 21.71087,
       "title": "WHO warns Ebola outbreak in DRC is spreading rapidly",
       "category": "DISEASE",
       "time": "2026-09-03T09:20:37Z",
@@ -331,20 +331,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnZ6RF9RWGRyU2lfV1haTXN5aHJSck1KUFNlWDVXdDZwQVE3S255YWluVU9ja1ROdEV2NHRHQkEteXZpcGI5SXgtSi1zdW9tVDBFbmpWaGxodVRnYWhoQ0lVdWZPaWk4WlUxUEQ1bnZvOGZZWi1xRm01X1pPWmN0QjlyWDlPdU42?oc=5"
     },
     {
-      "id": "news-technology-e802270b8b",
-      "lat": -11.89628,
-      "lng": -77.10453,
-      "title": "Report: Most Companies Can’t Measure Returns On Customer Service AI",
+      "id": "news-technology-8736604884",
+      "lat": 35.18176,
+      "lng": 136.87036,
+      "title": "中国AI、世界へ 「コスパ」武器に米AIとすみ分け可能か",
       "category": "TECHNOLOGY",
-      "time": "2026-09-03T19:08:37Z",
-      "summary": "Report: Most Companies Can’t Measure Returns On Customer Service AI&nbsp;&nbsp;CU Today",
-      "source_name": "CU Today",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeWNVZjJ6SE1uWG5fTlhsMm9teU9xZXNmandBVkpGVmtyTFBxb1BDX1U5ZkFVMFdfbEFQcE5SeGtyQ2hYNjFRZXdsa29KZjBkR0hPbFVEUzk1QjVJaWJOQW5pcU5sREthejcwT3VkWkQtcEVVdnVkbnRoZTcwVlRQTUtIM3oyU00wbGhYdXJHbDUtYUFsMnhPNDlCSW1hWEl1Ui04d29R?oc=5"
+      "time": "2026-09-03T19:30:00Z",
+      "summary": "中国AI、世界へ 「コスパ」武器に米AIとすみ分け可能か&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZVDBWOHhYMDVGcklmZTE5RV9yMjUzZE0yZTI0RDNZQUVhc1ZSLWYzaVBBdXNZWEk2ek1yRVd0QmpHWjlmVDV2cldwZWNhVE4wNXlTOXBFSFA3Z185M19WdXdFS1hJb1o0elk4Rw?oc=5"
+    },
+    {
+      "id": "news-technology-520e23b91f",
+      "lat": 30.05617,
+      "lng": -99.27457,
+      "title": "Should you trust AI with your health questions?",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T19:26:47Z",
+      "summary": "Should you trust AI with your health questions?&nbsp;&nbsp;NBC 6 South Florida",
+      "source_name": "NBC 6 South Florida",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNEpfVnhMZFF1U0wwU0U5R3hfc3dOaDA0cFY4RThtOG1QRm1fNU1SNjRkUVVQXzVUa0V2dEtNWDVRbnF3b2Nza2tJcE4taTVlS1dpN04xSWMzcVZ0cUxXZE5yV1g1bFZjeTAxUjN3YXpGaWFZVkJjTE0tR0ZoSUZKcm1aVDF0elh1NkRlMjFmcGd6WEJVRVHSAZ4BQVVfeXFMUGF6Sy1OTWlCa3JtbENlanJhY0dIVFlud0MycHhoV0E2UVZ3U0RmYlpuZm1tSFlQWjk0c0NPS25lb1hiMEVveTQ0SGh5YUg1ZlRJVlB5U2FEMTIzN0lqbHJUZ1NfLVM3Qmp2dXVwbWJzMTVpLUZHWDdYU1dJM2RMUHZYTjRURzEyOWtMMlJGOEFPcjNvVWRJZ3pLVUpQaXc?oc=5"
+    },
+    {
+      "id": "news-technology-54ff37ddd9",
+      "lat": 52.07353,
+      "lng": 5.11412,
+      "title": "ThinkOn advances private AI infrastructure with VMware",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T19:26:00Z",
+      "summary": "ThinkOn advances private AI infrastructure with VMware&nbsp;&nbsp;SiliconANGLE",
+      "source_name": "SiliconANGLE",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUY0U2NXeGE2ZnlsSExoOF9xUkJ4VE5QN2lEUjFRWm9XVnBKc1paTlBaY2Fqa2pSc0Zta3FDaHY2Nk9xTlJfblJYVV8tcXlxaXo5MTM5R0xNWk1fUC1fYUI4UThzNGlFR3ZOQVZTZ0JISTBPSVVZeVBqdDZkX29tb3lNZ0tPTWNrdHItd3FIUW1ydXBPc2dpRzh5MUgxak1NNU5oR2d1ekxpNThZTmd1SFZSUV81NnlO?oc=5"
+    },
+    {
+      "id": "news-technology-d026f74810",
+      "lat": 6.09655,
+      "lng": -9.70056,
+      "title": "Why Hugging Face Is a $13 Billion Look Into AI’s Future",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T19:08:11Z",
+      "summary": "Why Hugging Face Is a $13 Billion Look Into AI’s Future&nbsp;&nbsp;Barron's",
+      "source_name": "Barron's",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pb3prN0ZYdk93VXJRQXAxdG9IRktFdnE3Umo1bERFajF3S284UkUyZzVBYTV5djRlV09fcjZYeVlfNVVCY3pPZGhuR0M5cnlma2JnSnJBR1F4cUs3SUVYcUM1d0tkSGhmVG1TZi1rbWVId1M1Zlk3ZEVVLWo?oc=5"
     },
     {
       "id": "news-technology-9afd3bdbf3",
-      "lat": 38.87525,
-      "lng": -77.08406,
+      "lat": 38.95479,
+      "lng": -77.00755,
       "title": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T19:02:50Z",
@@ -354,47 +387,14 @@
     },
     {
       "id": "news-technology-48d03d8b61",
-      "lat": 49.18271,
-      "lng": 16.40789,
-      "title": "AI visionary Ray Kurzweil joins neurotech startup Subsense as product and vision advisor",
+      "lat": 49.13529,
+      "lng": 16.40866,
+      "title": "AI visionary Ray Kurzweil is joining a Silicon Valley startup developing a brain computer system that involves snorting nano particles",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T19:02:00Z",
-      "summary": "AI visionary Ray Kurzweil joins neurotech startup Subsense as product and vision advisor&nbsp;&nbsp;Fortune",
+      "summary": "AI visionary Ray Kurzweil is joining a Silicon Valley startup developing a brain computer system that involves snorting nano particles&nbsp;&nbsp;Fortune",
       "source_name": "Fortune",
       "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaWsxNURtUVhjV2pRRDVFR1Zza1QwWGVlWldvQWVGa0pVQ0x3Z3I1QzV4VmY4SjhXcmEzTTd0MmNLWWFPNFZ6cUszOGNFbC1kZ0FwczVLZXBiYzB4YkZDNzdjTDJ5cjBLb3pBLUtXUlJBSXZILWxOVWtOQVNTRkxEcmVDMnoxVU1lV0VUb2RhVE5mRkFKNmwzM3BleXBMVUdxQ1hodHNYbEFNdjAwN1dNVEtDejVzTFBCYWtVYVVHU1hSYjZWRE5sNjVGMTZoRTY5ZTJDMzFtNWNicXhuMkU5SUxjRDZHZUpMOHZoUU1kU0tyVFVRa1BqNjFR?oc=5"
-    },
-    {
-      "id": "news-technology-adeb56751f",
-      "lat": 69.20769,
-      "lng": -153.38334,
-      "title": "'We relied too much on AI': Three hikers from Roseville rescued from Mount Shasta hike",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T18:56:00Z",
-      "summary": "'We relied too much on AI': Three hikers from Roseville rescued from Mount Shasta hike&nbsp;&nbsp;KCRA",
-      "source_name": "KCRA",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFlqdUZDOUdFcmp4c29NeExGR0NDTy13THNRQUkyWmJkNHpVWjI0OG9jYnh3bEJFTHFsMDdLV05IV0Q5Zm1MM2xVNlJ0Qm5NRUhYN3BvbmhBd05nTmgzU2lCVmx1cEhaR25wNDQyRmZTd1VrRnRKdFdBa0cySXItX2pqbWMzSmNwUkZWa0pn?oc=5"
-    },
-    {
-      "id": "news-technology-0d94c47218",
-      "lat": 50.43734,
-      "lng": -4.62785,
-      "title": "3 hikers who say they used AI to plan trip rescued after becoming stranded on Mount Shasta",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T18:53:39Z",
-      "summary": "3 hikers who say they used AI to plan trip rescued after becoming stranded on Mount Shasta&nbsp;&nbsp;6abc.com",
-      "source_name": "6abc.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVN4dFRoNW1jWmtLeGFIMnd1V0tDNDRSX2dLdlpGUHVwcjR6VnJnNGdVaExkU0V1M1h6cHFGeXlWajl2a2Exa3l6bXUtaHJKdlBPa3N4MWNBZUhsN3dXczZDNFZlZ3dZM3FmcXRuSndRX3F1cnRVVnJfMm1SV2hsZ0lDcmtWU2luZm1IeHJqNXlza3UxYjdFbTJYUVhkMVpiVDBNRQ?oc=5"
-    },
-    {
-      "id": "news-technology-5d60f7597a",
-      "lat": 39.5589,
-      "lng": -76.9397,
-      "title": "Maryland Governor launches AI-assisted community development tool",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T18:50:00Z",
-      "summary": "Maryland Governor launches AI-assisted community development tool&nbsp;&nbsp;WYPR",
-      "source_name": "WYPR",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmFrUU1FdUEzLU9jamhPOE1welNKZlo5cGM2cXFsYzE3TzBIVVlXV1lwV2x3MjFWcVR5MmZRZEtqMnF6cUduNW5DdC1PcEdCaWJ5NTZ1MDYxRWV5dEdwUWY3d255SjZpNVBTelhXUTZ3a3BfUG80anY4RWY3VmUxUU1hVHdRUVU3VnA0S3dsZEJLWTRiWkZmUFVzMXpTaGl0RDRqN3kzSzdNZ1E?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-03T19:21:12Z"
+  "updated_at": "2026-09-03T19:34:07Z"
 }
