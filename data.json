@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-611d2d6947",
+      "lat": 36.10328,
+      "lng": -77.08513,
+      "title": "Republican state party leaders grumble about the timing, cost and planning of Trump’s midterm convention",
+      "category": "POLITICS",
+      "time": "2026-09-03T21:36:40Z",
+      "summary": "Republican state party leaders grumble about the timing, cost and planning of Trump’s midterm convention&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHMtRU9qOVU0UW42eE5mSnM2S2pZVjVUd3A3UzJJS211OVd3Y0Q3R2c3NGMzdTZUQjNTd0J4RnJTLWZwOXUyU0pCT2wzWVVZeENRTDhCX2hUaXQ2TTdVUWZmZ1JzTnRUbThkeGsyRUE4RHd0eGRnMG9rS1VNVkdVdTRvSmZ2OFRGNVRZOERHVkw5ZVZMSVBwdlRvQ05HbVBlLTJ3WFlpNWhsLU44TnFpV3BUdGpFMFNQRlB3aVVB?oc=5"
+    },
+    {
       "id": "news-politics-5741bea469",
-      "lat": 38.88,
-      "lng": -76.98874,
+      "lat": 38.85121,
+      "lng": -76.98427,
       "title": "How Trump is leaving his mark – literally – on Washington and beyond: From the Politics Desk",
       "category": "POLITICS",
       "time": "2026-09-03T21:27:35Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-47c48be3b4",
-      "lat": -8.09049,
-      "lng": -78.98789,
+      "lat": -8.093,
+      "lng": -79.02063,
       "title": "Beyond the 'Great Divide': What we really know about political polarization",
       "category": "POLITICS",
       "time": "2026-09-03T21:20:01Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-54d6cef15a",
-      "lat": 39.65536,
-      "lng": -76.63184,
+      "lat": 39.7194,
+      "lng": -76.64076,
       "title": "The Trump Administration Halted a Great Lakes Project. Then Whitmer Called Trump",
       "category": "POLITICS",
       "time": "2026-09-03T21:15:07Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-ef205372ae",
-      "lat": 53.62484,
-      "lng": 9.93886,
+      "lat": 53.62746,
+      "lng": 9.9895,
       "title": "SEC Moves to Nix Rule on Investment Adviser, Political Donations",
       "category": "POLITICS",
       "time": "2026-09-03T21:12:23Z",
@@ -45,53 +56,64 @@
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSExNU0F0XzJKMzA0dk9qaWoyYlI3b041NVlxNF9YcDJpYS1sMEU1Q0JDSWphNDZiS3RvR2plYWNBc2xsb3hSd0VyN1NnbmFDQUJxOThaSkh0LTlWUUg5SFBBNWpHc0VMWEJhTGctdHhDUUw5anlRZzU5Vm5xQUphdkVwMUFXTnAzRjFWOFlQclUyWHI3Y01YN0V5N1d3WlgtZEJCczBPUVB5U2F2ZFlYWk9FMDA?oc=5"
     },
     {
-      "id": "news-politics-a621b45a5c",
-      "lat": 33.64855,
-      "lng": -93.62203,
-      "title": "Hope Florida burns, Trump on midterm, Florida economy: IFP podcast",
+      "id": "news-politics-84bba42ebc",
+      "lat": 29.80695,
+      "lng": -90.9997,
+      "title": "DOJ asks Supreme Court to allow Trump’s USPS action on mail-in ballots to proceed ahead of midterm elections",
       "category": "POLITICS",
-      "time": "2026-09-03T21:05:00Z",
-      "summary": "Hope Florida burns, Trump on midterm, Florida economy: IFP podcast&nbsp;&nbsp;Florida Today",
-      "source_name": "Florida Today",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDJBaUdoNXNNNTlLN2MwalIxbHN1TDRadm9GdEVTV0NodE5fMlNJaGptazNWQV9ES0RXWG16TzNHYVM0c0FyNG1acFl4a0czRUlLMUdRdDJ4dGtxTVl6MHZ2MHc0RS16eHk1R0U3WFZzczlfSlpTN21WTHRqS2JENTltbWdIY2RUcFJLWngyR0wwNWxlYkxnR09xbTNtZnExekVKeVY5RDlEbmNqaHdsc19RS1ZYRmV5VzNyMTBmRlh3a185ODBheVBza1RyeG5z?oc=5"
+      "time": "2026-09-03T21:07:00Z",
+      "summary": "DOJ asks Supreme Court to allow Trump’s USPS action on mail-in ballots to proceed ahead of midterm elections&nbsp;&nbsp;NBC News",
+      "source_name": "NBC News",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS1NxUXkyX1JTZVJfMHlzcHNBRXdDTDFxOFp0TTltVFVXaUdVRnNnSW5lbWpKb3U3ckFzNzB6OF81WnVrZ0dqM3p0cVRLYjl5aEZHZmJxbE5WV1R4ZzFVaklfNEJoRDA2ZDc2bnh5OUdJYWowRHp0NXpMQWQwRnZNUXBvVDJTVWRoWF9lRWJPMVdvVjFZeC1qMHpBSlYwTkM5cmpEUDlXOEtvVlNBNmtwM2l3bVI0SVZ2MzA4WnRKbGY5WEFRV1VrVG1hR1k?oc=5"
     },
     {
-      "id": "news-politics-6f1eaa40e6",
-      "lat": 38.94022,
-      "lng": -77.06996,
-      "title": "Republicans fear Trump will keep super PAC money and not spend on the midterms",
-      "category": "POLITICS",
-      "time": "2026-09-03T21:02:46Z",
-      "summary": "Republicans fear Trump will keep super PAC money and not spend on the midterms&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSlRJNUpKRFNPRnBhVjJRaWExNEdqYlhQMWZ5ZktpODl0cGxzVzFQbVVqSlRieWhGdVFvWkl2MXNJV2Q0T2s0SkljRllLbGV2ZUhmMFNJaEtDUVFYdmF5OWFvVGsycnU5anpja0Z6ODVRM2ZEbHVpU2NWYmx3VGR3WWRyNGY4ZTZ1NXRSX2FmWWtybFA3QTltRE5UT2hESGRYSUZ0NGc0OVR1bTJ0UE9IR0hFQ2pPdjBUX0hhd2lRQ0lSUQ?oc=5"
-    },
-    {
-      "id": "news-finance-1f5cac8a21",
-      "lat": 45.4118,
-      "lng": 13.62109,
-      "title": "JUKI株価が1カ月で1割超上昇、2026年12月期上期は営業利益21億円で黒字を維持(LIMO)",
+      "id": "news-finance-73fa7e5d43",
+      "lat": 54.22163,
+      "lng": -4.55585,
+      "title": "Middle East Conflict Sends Oil Up, Bonds Down",
       "category": "FINANCE",
-      "time": "2026-09-03T21:32:49Z",
-      "summary": "JUKI株価が1カ月で1割超上昇、2026年12月期上期は営業利益21億円で黒字を維持(LIMO)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNUhWT3VhV2VyMzJpSXFDQW9NVlhXTjJtTy1QZndvR0ZuOUtxczNKTGctcGlnNzZPNG55Sk42eTNibXNqa1dqWEY1eXBybUpQeUdmRjhSNjVpQXlIQXBfVGx6Q25JeHNLSVJ1REVwYThPZGNORFh5bmd5YmJDVG0xRjNjcDJaNWc?oc=5"
+      "time": "2026-09-03T21:41:25Z",
+      "summary": "Middle East Conflict Sends Oil Up, Bonds Down&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXowTGpiSmZYbWx3MGt2VE5nYVFnYk04NDhQS0VXZkF4bGpCWWFKYkpEVmtDUTV1Y2J1bHc3V09lSC03UG9ZbE90RGhhZ2N4VFY4QzJaMkx1clItY2pxc2FOSGlNV180Nk1vUFpvR2xPbksxQWhHMUlNS3BwUnZIa3A3elRLanI2WVJUUnpiU1Y3X0l1Zmc?oc=5"
     },
     {
-      "id": "news-finance-a902af9457",
-      "lat": -19.62009,
-      "lng": -63.3552,
-      "title": "３日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）",
+      "id": "news-finance-10bbd0642a",
+      "lat": 41.53527,
+      "lng": -5.42985,
+      "title": "Toro earnings rise 19.4% as professional sales grow",
       "category": "FINANCE",
-      "time": "2026-09-03T21:30:00Z",
-      "summary": "３日の為替市場の四本値（ドル円・ユーロドル・ユーロ円）&nbsp;&nbsp;みんかぶ",
-      "source_name": "みんかぶ",
-      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1obzBlU1RLa29HSlZ0em1mQXk5U2dHV1dvWnB5akxpYVd0RlVwVXBEallNVkgxdDJVU0pRNlJOUUhMWmJ1eWc2RA?oc=5"
+      "time": "2026-09-03T21:39:29Z",
+      "summary": "Toro earnings rise 19.4% as professional sales grow&nbsp;&nbsp;Equipment Finance News",
+      "source_name": "Equipment Finance News",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWhjT3REZmZIM3IxZ0o3cnlzU2hzSUxwMER2Vl9oV2dLM1lrb3JoblIwQkh2ZXRjYXkwaC1mSXAtMjM1bkkyNF91ekMxeW5oNE44VFNKUjUxaUZzYUhyZGRWc2liWlQ4ejNXa3IxRWlfQngyZFBidWx5Zm1meUZ1MWd4THBKZlEyYnlhVTMzWmhoQS1JTjRmZ2liSlUtb09STk5KeVRxdldkdFU?oc=5"
+    },
+    {
+      "id": "news-finance-72af246b0f",
+      "lat": 48.48606,
+      "lng": -123.45113,
+      "title": "UK Capital Markets Reform: Where Are We Now?",
+      "category": "FINANCE",
+      "time": "2026-09-03T21:37:22Z",
+      "summary": "UK Capital Markets Reform: Where Are We Now?&nbsp;&nbsp;JD Supra",
+      "source_name": "JD Supra",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVVuWTNjWDRmN21DVXI5ZktKaU9LTUhET0NmN01DUnMwaTZQSkR6OWdZNUZUZm16N3FOOHliVUdyRlY1aXMyXzE1UG1RdWFQemg3WGdlWTdYNThzQUVSN25YWVFQM0NKekxOMXAyUG1DaDhCSEVzNW9nd0hXR3E5TzRrWHR5bGdL?oc=5"
+    },
+    {
+      "id": "news-finance-2e3fb21a66",
+      "lat": 45.47303,
+      "lng": 13.7067,
+      "title": "JUKI株価が1カ月で1割超上昇、2026年12月期上期は営業利益21億円で黒字を維持（LIMO）",
+      "category": "FINANCE",
+      "time": "2026-09-03T21:35:39Z",
+      "summary": "JUKI株価が1カ月で1割超上昇、2026年12月期上期は営業利益21億円で黒字を維持（LIMO）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlp5elk0bUJ2OVdSSjRRbzczUTUzYVhpTmJXUWlDUGQ4djFYQjNZOTZXN0dSZWJ5Z3ZSbTcxRGxscVlkcEt4STEtWC1QdUlQeklETnlPY3p3T01MZGpuSUF3c3JUVWR3QllUTHh4UC15WjVYTEVuN1NtakI1dmwzRk55R1pHeXJIdzJjU193?oc=5"
     },
     {
       "id": "news-finance-1e326a5ca6",
-      "lat": 42.62402,
-      "lng": -73.29583,
+      "lat": 42.53253,
+      "lng": -73.31758,
       "title": "Sen. Rounds, Bengs battling over AI, campaign finance as election nears",
       "category": "FINANCE",
       "time": "2026-09-03T21:27:00Z",
@@ -100,42 +122,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa2dxZHdZZzUwenl2OFcza2hOMmNqaUc4TGNyMWF5dW5JVkhWTHNKRHlJc1RiMVBUREwzZ0VtazBTeUNvSE1DYUZoMkY3Mk44Y21ISG10XzRlTVF3eWFveVFoVTFXNy1ObkhWQzcwNlVqLXlBb0dDVmVQd1U1TXM5bEdwbUpmT3MtLXI3YnhnMGlxQXRISGNvSkZxSDhpWDZYTHc?oc=5"
     },
     {
-      "id": "news-finance-0d1e1d1529",
-      "lat": 40.76357,
-      "lng": -74.04586,
-      "title": "ニューヨーク外国為替市場概況・3日 ドル円、大幅続落｜FX・為替ニュース",
+      "id": "news-finance-b89d645b1d",
+      "lat": 34.26177,
+      "lng": 133.68405,
+      "title": "３日の為替市場の四本値（ポンド円・豪ドル円・カナダ円）",
       "category": "FINANCE",
-      "time": "2026-09-03T21:03:00Z",
-      "summary": "ニューヨーク外国為替市場概況・3日 ドル円、大幅続落｜FX・為替ニュース&nbsp;&nbsp;ザイFX！",
-      "source_name": "ザイFX！",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lZmMwUzlMY0NkZHl2N1RyTEFCMjYwY1VFQjAwNDBTV0p2TGNITGVoNnBiUE9YZWNTT3BwWmlqUWFEd0ZTNk1mbzdqbmloaXZ2SHc?oc=5"
-    },
-    {
-      "id": "news-finance-b35fa6bd77",
-      "lat": 50.93464,
-      "lng": 7.36201,
-      "title": "So Much Intervention Talk Is Making Markets Jumpy",
-      "category": "FINANCE",
-      "time": "2026-09-03T20:54:04Z",
-      "summary": "So Much Intervention Talk Is Making Markets Jumpy&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONy1CWmx4RUhLT2dneGd0NlprOU8xdnZFSHpaeGRvSzhUT19XWXBnQ2d0Vzh2d09Weks4eHRhNzk0d202dFp5eE1hcExYeGVrcTMxOUhFaE9wd0hVbjIzM1VSaEp6cTlzTmN5NkpOeVNUMkJaRC1SOUFDTlpJWG0wemx5QWRGTFBBWVNWaHlrN1M1UElIeEsyVXREd1lrenpqZTBoZG9R?oc=5"
-    },
-    {
-      "id": "news-finance-44d48887dd",
-      "lat": 51.54026,
-      "lng": -0.09158,
-      "title": "City of Charleston to hold Business Finance Resource Fair",
-      "category": "FINANCE",
-      "time": "2026-09-03T20:46:46Z",
-      "summary": "City of Charleston to hold Business Finance Resource Fair&nbsp;&nbsp;WCBD News 2",
-      "source_name": "WCBD News 2",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUpHYmFWT0ZhSTd0OGNIb0h6aTB0Q01FdVdOUFNxZVVLUXo4Nkl1RlJ2Sy1ubGprTkROMGZrbjdvb2NqeERJVG9GbXdtYk5Eajh5RjVGaXc5dHp0Y3BNNkt6VkU5bjlscndiVVJpcGh5cFR1a05TR1VWQkM2bkJSWmdtbnd5TGp3SkZ0aEVsZ2pTUdIBlwFBVV95cUxOSURaM3hwbm9jenQ1NnliM2VWRXR4RlRqc20wT1N4WjFNVS04Z0IwWWY2TkpqSk42NjFPaDhrWlJqZm5QSzJqX3ZBNndLQjBGZVNhdUFLeTFXS0NEMXRHZk9YMGo4UFMyVHYwYTZpRkRjeGRBQlZvQ1dNenY3UWdjSjRoUm5tNE5HWEZKLUlsVHJsYW1YUEdN?oc=5"
+      "time": "2026-09-03T21:21:32Z",
+      "summary": "３日の為替市場の四本値（ポンド円・豪ドル円・カナダ円）&nbsp;&nbsp;みんかぶ FX/為替",
+      "source_name": "みんかぶ FX/為替",
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9COWF2Y3lxOEoxLThzbTN2MXRfWnp6c2IxS2N6dktUMVh2d3VlNVB0X2RTT0FwZDBwazhHVXA0Nm1aOEo4c1RGMw?oc=5"
     },
     {
       "id": "news-disaster-cad09c97b8",
-      "lat": 28.36473,
-      "lng": 84.02812,
+      "lat": 28.37626,
+      "lng": 84.00164,
       "title": "NH Nepali community raises money for disaster relief in Nepal",
       "category": "DISASTER",
       "time": "2026-09-03T21:30:00Z",
@@ -144,9 +144,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVG12eXhuMlRfTUp3MHRPOTBTTVUyMzJsM0RXRGd1X0VSZTl4cTBzSDZWZ2k1Q0UxWEhHMGVoc25mX2c2b2FyVkI0RVM2dktyVXRqeUxQeVFoN2wyajF6Z1RUd1F3a21idjBQTjlnanhmUkFfS2h0RlVfS2JHUTdmaUlPRUx1cS0yMzZTaUU2MEVldmhzYzJhdUlDSGEwSGlOUkhj?oc=5"
     },
     {
+      "id": "news-disaster-7fea902768",
+      "lat": 19.54909,
+      "lng": -155.47963,
+      "title": "Hawaiʻi already had a billion-dollar disaster this year. Will there be another?",
+      "category": "DISASTER",
+      "time": "2026-09-03T21:30:00Z",
+      "summary": "Hawaiʻi already had a billion-dollar disaster this year. Will there be another?&nbsp;&nbsp;Hawaii Public Radio",
+      "source_name": "Hawaii Public Radio",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3dTOW10ZDVtZ09LOFItSzJjSEVhaXd3cnMxc2VCUkNKM0RtYWtpYnBWY245Y1d6TVlzaS11dHdtSFZaSUxwMHJjUzVlTGdGVHFUWlo3UFpKSkd5Y2tkYkJTcmdwWjFobDdfS0lGVV8zZ0xHdkdldjFOZklGdUZlNExVMHVQREd2ZHY4QWsxVmo4Z1I2RjVZRVZWLVVybi1xNndod0V3eWZpMEoydXhwM3RkYjV1b0h2Y1JpQU1yR25FZGZZUVNCN1owbDh4QTQ?oc=5"
+    },
+    {
+      "id": "news-disaster-74db2749b6",
+      "lat": 45.56538,
+      "lng": 9.30269,
+      "title": "Satellite Radar Detected a Himalayan Slope Accelerating Weeks Before Nepal's Catastrophic Flood",
+      "category": "DISASTER",
+      "time": "2026-09-03T21:24:39Z",
+      "summary": "Satellite Radar Detected a Himalayan Slope Accelerating Weeks Before Nepal's Catastrophic Flood&nbsp;&nbsp;discovermagazine.com",
+      "source_name": "discovermagazine.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcnJ5M2RCWlg4NXZDczdDZUg5bElyVnNpZ0wtakVkX3pwVWIzM1p4eGlsQnpmd0d2ekg4M3hkaTFMWXJNV2VuUy1RcXlVcFBnb1huaS10ZGxoNE1zRXllU05xa2hCR01xNTd2Z3AwVHU0V1RQRU5pMllDUXhjM2ZON1Y1UW1qNS1jeDVjbFBPMklLS19DNVhsWE9tNHlGNmlIRk11aU1EVVh3N2hhaGtJRlg5dy0xTmowMWpxNHJPdmJ2SHFpangwWUwyb0VncVk?oc=5"
+    },
+    {
+      "id": "news-disaster-4913cc1b5d",
+      "lat": 52.50159,
+      "lng": -1.87147,
+      "title": "Federal disaster aid approved 7 weeks after South Central Texas floods; Bexar windstorm assessment begins",
+      "category": "DISASTER",
+      "time": "2026-09-03T21:24:00Z",
+      "summary": "Federal disaster aid approved 7 weeks after South Central Texas floods; Bexar windstorm assessment begins&nbsp;&nbsp;Texas Public Radio | TPR",
+      "source_name": "Texas Public Radio | TPR",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUWl4cUtKUDRQdDExT0hrQVMxangxNHNwdU01U2FOdFc2TW5Fa2ZtZjNPMVAxSnRWbl9XczVVLU9WSUF0VnByMGlxdkwwN0xLVGozQ1lSR0Y5d0R5Y0c2Z1BEV0hjajVJY0dNTlIyWE41M25CTS11Qy1BT0xXZG9TeTlqTHgtdWJSTW4yT1BYM2Y5aXVCWk45ekt5NDV2anhuOUZSMnBmNUkxUmF2OGU2OG9NTkIyT3JoSjZUTmd4WEdzV2dQb3N6dElFXzRiYjZPN1lRbnVPb3ZObkxZ?oc=5"
+    },
+    {
       "id": "news-disaster-bc28e47170",
-      "lat": 42.06276,
-      "lng": 19.17521,
+      "lat": 42.092,
+      "lng": 19.17818,
       "title": "地震後に起きる火災 「感震ブレーカー」で防ごう！",
       "category": "DISASTER",
       "time": "2026-09-03T21:19:18Z",
@@ -155,53 +188,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QS3dNcmpicnZqZ2F2YUQzclRRbzZ2Tk5hUTc4ZHUxSG5vNG1GUnhMMHVIc2tIYl9lZy1wZXl0OW9KZGdkOXlVald3aEVlSDlocjFDMVBrNkhCX2JQVG91Vlhn?oc=5"
     },
     {
-      "id": "news-disaster-dc57de7d38",
-      "lat": 39.58124,
-      "lng": -104.87189,
-      "title": "'You could hear boulders moving': Visitors describe Grand Canyon flash flood",
+      "id": "news-disaster-3f38ab9915",
+      "lat": 33.72043,
+      "lng": 130.52148,
+      "title": "【台風情報】台風24号（クロヴァン）沖縄付近で停滞か 週明けにかけて太平洋側を中心に広い範囲大雨の予想【風雨シミュレーション】（tbc東北放送）",
       "category": "DISASTER",
-      "time": "2026-09-03T20:58:36Z",
-      "summary": "'You could hear boulders moving': Visitors describe Grand Canyon flash flood&nbsp;&nbsp;SFGATE",
-      "source_name": "SFGATE",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHRGd2RlZElORGtycXFzczNibEZDRlJMZ3cybktOOWJwUHFUam5qdDFjTmliN1YzczZwazk1UWZPbjRhQUp1ZzYyT09ocC1JcEY0Zy1mZlBhcDhlWC1vdUMyenpiNHBxU3FwZ081eHNhbjRVMlFHTTlhNnZvQzYyWmtsYmNKSnE4TFFMRFYzMm1aekE?oc=5"
+      "time": "2026-09-03T21:02:52Z",
+      "summary": "【台風情報】台風24号（クロヴァン）沖縄付近で停滞か 週明けにかけて太平洋側を中心に広い範囲大雨の予想【風雨シミュレーション】（tbc東北放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13dGR2Xzg0RWh2Y2hWY0l3cVZLWk5GR2I2N0xwUU4yM0JfbVBjSFFlZEJiS2d0OEM3Vm9GZlVSSE5IaVg4YnZ0elZfSWxZSk5RclJiTlNlbFBNbFhxNTZlMXVuT1JLcVFXc3ZZb19rSVpjZmJYemxpUHJBa05sMHc?oc=5"
     },
     {
-      "id": "news-disaster-a22901bd04",
-      "lat": 34.97289,
-      "lng": -79.01989,
-      "title": "Coastal flood advisory issued for San Diego County Coastal Areas and Orange County Coastal",
-      "category": "DISASTER",
-      "time": "2026-09-03T20:57:08Z",
-      "summary": "Coastal flood advisory issued for San Diego County Coastal Areas and Orange County Coastal&nbsp;&nbsp;sacbee.com",
-      "source_name": "sacbee.com",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFc0hudWdSZ3dsT2dZdkhfX25iNmZfQkxlZG9tbjFuSzN5dVJfRkgtV09XVlViamR4dGFCQXVlV0lfM0hOemg4dkh0YjhDM0k0aEl2QWZoU19LeXJxTnN1eXV5LWRqNzdCV1pLYlNYTQ?oc=5"
-    },
-    {
-      "id": "news-disaster-f548aec2b3",
-      "lat": 38.30263,
-      "lng": -87.6197,
-      "title": "Gibson's reopens after summer flood in Kerrville",
-      "category": "DISASTER",
-      "time": "2026-09-03T20:47:31Z",
-      "summary": "Gibson's reopens after summer flood in Kerrville&nbsp;&nbsp;Spectrum News",
-      "source_name": "Spectrum News",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1EyR3dVbENUajl4YXM1dWlWWjRWb3QyYms4Wl81SmlLZzBNTnptbGtGd0pxUWc5OHRGSzJtdDUzdDllakdmOExsOXNNMlEwNXoybG95UE5QeENNeFhMWEIzU25SNVF5MENiSTNFRG0yQkI2dWRWNmFRM3lFY1BvZ1EyUjdsanpLUUE?oc=5"
-    },
-    {
-      "id": "news-disaster-9732d0d42b",
-      "lat": 35.79246,
-      "lng": 139.87819,
-      "title": "【台風24号】迷走、影響長期化か 北大東で最大瞬間風速30メートル（4日朝）",
-      "category": "DISASTER",
-      "time": "2026-09-03T20:47:29Z",
-      "summary": "【台風24号】迷走、影響長期化か 北大東で最大瞬間風速30メートル（4日朝）&nbsp;&nbsp;琉球新報デジタル",
-      "source_name": "琉球新報デジタル",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSlZ0MXMwMUV0dUNteU9WdG9wZUd0MGpoaDZJQTlWSVlKdkpWNlFBZWQxU2xRN21nandvbGNSMWFPRlkyWXFzRHlqVnZzNHhJTTlYTlJUQmZUUjg3SEFsaA?oc=5"
+      "id": "news-accident-3916a5bfbe",
+      "lat": -5.18487,
+      "lng": 139.99258,
+      "title": "Woman hospitalized after medical emergency leads to crash into Cypresswood home",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T21:23:50Z",
+      "summary": "Woman hospitalized after medical emergency leads to crash into Cypresswood home&nbsp;&nbsp;Click2Houston",
+      "source_name": "Click2Houston",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVDZNbkdja08zUFd2QWVuVTJnWHBaWkNlWUVvNEgteGd4ZmRucW5MLWNYc1VRZG5QR1pGWEZwUnFmLVM4MUJsNXBucHJvTTJ2WTB4c2k2RXlGbnA0OVB4WlluZmV0Tk1WRFJWNWVmMXFFUnFNSW52UHlfMUVlajJDT2Q4Y21RdkctT2VQdTd3aDUweU5uMEkxNW9LYVR0ZzR1enR6ZGFUbnJtM0kzdHFGUmVvb0JlMWh0ckg3NVRzSHd4eC1HSDVkR0FmVkQ?oc=5"
     },
     {
       "id": "news-accident-f56d7f0672",
-      "lat": 50.56608,
-      "lng": -2.45197,
+      "lat": 50.57748,
+      "lng": -2.41795,
       "title": "Injuries reported after crash involving school bus in Williamstown, New Jersey",
       "category": "ACCIDENT",
       "time": "2026-09-03T21:22:30Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-a1fc966e8a",
-      "lat": 38.75533,
-      "lng": -105.61094,
+      "lat": 38.74655,
+      "lng": -105.65577,
       "title": "Colorado man dead in Reeves County crash",
       "category": "ACCIDENT",
       "time": "2026-09-03T21:21:00Z",
@@ -221,9 +232,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZl9zZkQxa0VFT3hJVmFqX2ZwY0lJSV9RTDEwQjRRRVA2TGtVWmVXaWZYNk0tdjNhNVFRMWJnVWE2V3BNTDZNUWpUS0RSQlAtUVZyQlNYT3VsVjVZMndKUVFQX09Oa1BTUGg0M0ZEU1dyY3VJd3pNNWtaU2NVSTB4MjdoVGxHcWdUcURRQUZSWGE1eU41TFRjNkxWOTBWMTNWTjYzMEo5T3ZrekYtYjdXTjg5VWhWdlBpS2lHRy1LS0Q?oc=5"
     },
     {
+      "id": "news-accident-d53898d6a7",
+      "lat": 49.6719,
+      "lng": 2.4038,
+      "title": "A car crashed into a pond in Plainville on Thursday.",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T21:20:48Z",
+      "summary": "A car crashed into a pond in Plainville on Thursday.&nbsp;&nbsp;facebook.com",
+      "source_name": "facebook.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbFR3N2VqV1ZfbDRUd1A2UUJ2U1BZeGFfWEVlQmdIZGFnYThISktxd3hIX1hZMHA4RElpbEZSV0lWRkpnVEZ3YzRqZlRMVHQwT1ZUR1d3YXktaU5LdnctZkJzTmxqRGFQalo2REN0VXVPRUtJZ2hEU0JWdEdhQzhBbFJDUUZIYlkzb21RUktCY0lNTWc4S2R4NGNodER3ZTNBS2lTM1lFeHI4blk2YmxWaWlOUQ?oc=5"
+    },
+    {
       "id": "news-accident-d626b45058",
-      "lat": 34.73638,
-      "lng": 135.30992,
+      "lat": 34.69122,
+      "lng": 135.2867,
       "title": "遮断機・排水ポンプと対策も、相次ぐ「アンダーパス」水没事故…なぜ？「急激に水位が上がる」道路の構造上ある危険性も 鳥取・米子市 | BSSニュース | BSS山陰放送 (1ページ)",
       "category": "ACCIDENT",
       "time": "2026-09-03T21:00:00Z",
@@ -233,8 +255,8 @@
     },
     {
       "id": "news-accident-0d17e483fc",
-      "lat": 40.76824,
-      "lng": -73.95567,
+      "lat": 40.74747,
+      "lng": -74.04747,
       "title": "2 teenagers charged after 13 parked cars were hit in Gravesend Brooklyn, police say",
       "category": "ACCIDENT",
       "time": "2026-09-03T21:00:00Z",
@@ -243,31 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTEZqcmVxRUJTZUxoc3prc1RFYi1DVXBqVEhLQmpsejVyRFZ4Qm5lX0JLdjhwckVJMWdBaHpoNHVzTTZ1Nng1eW4taUJOaFJ0WElwdGZZdE1MdmpDY2dKZEhMbjhDSm1iUGc4V2VLYVhjWEJ3eUY3S1d0Vk1ZQXZncXIxcXFGZzNjZlM5VHBjSmlaX284cWl5MFZzSWZHa2JqSXA0cnFzSWJfVVXSAbABQVVfeXFMTW53b2lCMTJzbVNqeWdyaWNTUzVVbUFvX2FUMXhKanFVR0V6U2thSEptc2tzS0ZzVlFqSlhjQmkzblRIU2tBWXVxNk54NUpYOGxqTGwzVnVTMDhENW10bW92Rl9xWHpIS0V4ZU5YODhRbC1pakg3WFJubGtudWlOdFBmVnhzTGl3S19IZGFLc0pZQTdwWWQ5VjhsYS1wbEY4MTczX2F4eklFRWF4Ti1PSkw?oc=5"
     },
     {
-      "id": "news-accident-b0a0a4b06e",
-      "lat": 59.88135,
-      "lng": 11.91254,
-      "title": "MIT Professor Dies of Injuries Sustained In Previously Unreported Crash On Memorial Drive",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T20:54:00Z",
-      "summary": "MIT Professor Dies of Injuries Sustained In Previously Unreported Crash On Memorial Drive&nbsp;&nbsp;Streetsblog Massachusetts",
-      "source_name": "Streetsblog Massachusetts",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcnByZ0V2MFlsUnFieUxjOWNmZVR4SGc0bDU5TzZoZ2ljSnJIU0tMWWlqSXlKeWtfcGpFS09BU3ZTcVFwX29pRmd2a1VSaEJqYk1tMURrTXI5ejEwR0ZYS3JoUHVxVGo1MEkxYnNObXJ5eUpLbXlCelRIVVVQXzdpOVJiTDNycDRCUjU0Z1dIM1VkdG8zaXpxN3B2TFZJeXZyQ0p5SmhtNUp5cWdjNG16Y2Rzd3BOVFFzRnVWS3ExMDhJLV9vSGRlaQ?oc=5"
-    },
-    {
-      "id": "news-accident-fed2784de4",
-      "lat": 40.15993,
-      "lng": 140.0363,
-      "title": "画像・写真：イオン爆発事故、調査委が初会合：時事ドットコム",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T20:43:17Z",
-      "summary": "画像・写真：イオン爆発事故、調査委が初会合：時事ドットコム&nbsp;&nbsp;時事ドットコム",
-      "source_name": "時事ドットコム",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1REpmaU5xWnh3Um1Jd3A5MVRRS190M0l1RXQxWnR2S1M0RTA3UmVWTnVpM2E5QXZTQzVzZi16eGZYRm1LaGh4M2Y2Q0wzYy16Uk1nSHAzZm1nZThTdm9qS3RDRnU?oc=5"
+      "id": "news-disease-2e211fcb0f",
+      "lat": 3.49727,
+      "lng": 21.61063,
+      "title": "Ebola Outbreak ‘Still Evolving’ as Deaths Pass 3,000 - healthpolicy-watch.news",
+      "category": "DISEASE",
+      "time": "2026-09-03T21:14:56Z",
+      "summary": "Ebola Outbreak ‘Still Evolving’ as Deaths Pass 3,000&nbsp;&nbsp;healthpolicy-watch.news",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUJoLWJaU1hZVmQ4Y3E5MGtrNS1qWVQ2ZlMyLW9OcDZwTFdDS1FPZTRQY2g1S1pWTWlKSW5KY0ZqRENKT2FqaW5GdUtsTjRGR2pMb0k3Qk1FNFR2eEtIU1l3bHFWRHVmSEZwLXJCY1pZZkJGQkRBOTVsdTQ1Z3hMOEItUE5seC1xblE?oc=5"
     },
     {
       "id": "news-disease-a60364af83",
-      "lat": 3.53076,
-      "lng": 21.64512,
+      "lat": 3.52531,
+      "lng": 21.62141,
       "title": "Ebola Outbreak in DR Congo Surpasses 6,000 Cases as Deaths Top 3,000",
       "category": "DISEASE",
       "time": "2026-09-03T20:45:00Z",
@@ -277,8 +288,8 @@
     },
     {
       "id": "news-disease-77eaf6e5db",
-      "lat": 3.56468,
-      "lng": 21.64229,
+      "lat": 3.53343,
+      "lng": 21.62905,
       "title": "Ebola case counts reach 6,250 in DR Congo outbreak",
       "category": "DISEASE",
       "time": "2026-09-03T19:54:00Z",
@@ -287,20 +298,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWDNsbDNjYWRkMjcxa09IcWNZTDE3ckg5OHQtN01GVFd2SUVRREsyWnJZNlo4Y29IcXE2S2NEUURoZkhUQVhPUG1CT3ZSNWdDaG1DWHFRUjk4am1EVkRnZFFYNnd0b09MZlFBZ3kxbzk3ZmN6SmJVeXRwWFJ1eEM3UDJkUXVhUQ?oc=5"
     },
     {
-      "id": "news-disease-3fabbdc2ae",
-      "lat": 3.46695,
-      "lng": 21.67698,
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-      "category": "DISEASE",
-      "time": "2026-09-03T18:29:22Z",
-      "summary": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda&nbsp;&nbsp;European Centre for Disease Prevention and Control (ECDC)",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjUwMFo1WUtEN0t1RFpuaUh5N0c5UGFOSW1oVGZZbDZFLXYzbUI2MFJmdS0wM294ZDliYXo5dEU1Nk9rOHpOMlJITWpBQmRRV2pJczFTSVg2SmRyNU8tTVZrMGlhcFZuTXhpNW82ZHlzVjZ6SGlCRFpVNmdkdnotUU83dDU0S0pq?oc=5"
-    },
-    {
       "id": "news-disease-d1cbec5bb6",
-      "lat": 35.00853,
-      "lng": 135.74271,
+      "lat": 35.0166,
+      "lng": 135.70117,
       "title": "病気マサノリ",
       "category": "DISEASE",
       "time": "2026-09-03T16:14:30Z",
@@ -309,20 +309,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wV3Y1S0NGQ3ZMMm9aeXpRaEFSWGVITDB5T1ZoVTVIZzFYWlBwaHBZd1FBUGdPYlRaNk0zQUlvYml4djBEMDVCUA?oc=5"
     },
     {
-      "id": "news-disease-2e211fcb0f",
-      "lat": 3.47874,
-      "lng": 21.60653,
-      "title": "Ebola Outbreak ‘Still Evolving’ as Deaths Pass 3,000 - healthpolicy-watch.news",
-      "category": "DISEASE",
-      "time": "2026-09-03T15:42:19Z",
-      "summary": "Ebola Outbreak ‘Still Evolving’ as Deaths Pass 3,000&nbsp;&nbsp;healthpolicy-watch.news",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUJoLWJaU1hZVmQ4Y3E5MGtrNS1qWVQ2ZlMyLW9OcDZwTFdDS1FPZTRQY2g1S1pWTWlKSW5KY0ZqRENKT2FqaW5GdUtsTjRGR2pMb0k3Qk1FNFR2eEtIU1l3bHFWRHVmSEZwLXJCY1pZZkJGQkRBOTVsdTQ1Z3hMOEItUE5seC1xblE?oc=5"
-    },
-    {
       "id": "news-disease-9d2e3687af",
-      "lat": 43.55569,
-      "lng": -73.93195,
+      "lat": 43.53332,
+      "lng": -73.92422,
       "title": "Measles outbreak in Sweden: most cases in unvaccinated children",
       "category": "DISEASE",
       "time": "2026-09-03T15:41:11Z",
@@ -331,70 +320,81 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWszMngxYThpdE90Q2cyMk5Sd0xWUnFab09aQUJzZ2gtMXZEc2dwSnR0SklQMTB1ak5DbWUtRDdxaU5mLUVSc3hDN2NKd0liQUoyc2p6alBRY3VxVVl5YWxKSTR1UmFzSlZJM3V0OW5LdFlrMXBKa2pVSWZaWlJhTlh4dnhZaV9IVGxZd2lPemxYQVZkN01DazdR?oc=5"
     },
     {
-      "id": "news-technology-34047c2d67",
-      "lat": 45.54459,
-      "lng": -122.87058,
-      "title": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion",
+      "id": "news-disease-86ef49360b",
+      "lat": 3.49843,
+      "lng": 21.71684,
+      "title": "WHO warns Ebola outbreak in DRC spreading rapidly",
+      "category": "DISEASE",
+      "time": "2026-09-03T10:56:22Z",
+      "summary": "WHO warns Ebola outbreak in DRC spreading rapidly&nbsp;&nbsp;gazettengr.com",
+      "source_name": "gazettengr.com",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Y0xtWE05UklRTGhzTGpEcGt1WnltaXU1UVlRMk5ybDh4TEMzdlE0R1pGRWNvbTZnR3ZhNk82RklzUDFtS09WaTRDY2YyeTN2RVFtZUhqenU2ek9kVUtPTzNQNGp2SzhjRGpyYjZ2cFZVNGhmRTNUdm9YUW81Zw?oc=5"
+    },
+    {
+      "id": "news-technology-70500101da",
+      "lat": 38.90309,
+      "lng": -77.02605,
+      "title": "Another big school district bans generative AI, this time for all students",
       "category": "TECHNOLOGY",
-      "time": "2026-09-03T21:34:26Z",
-      "summary": "Nvidia to buy Hugging Face for $12.93 billion in major AI expansion&nbsp;&nbsp;France 24",
-      "source_name": "France 24",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDVnSy1YY2xfMFpCOG80RmttNFhsUjVYWWhaNHNoMC1RY2ZhTzdieFgwMmlTYXNVTzV6bHVqMWdLUE96R1AwMXh1Q0pVLWxuRV95NUZWaGhtZnNEU3VCVFZGTVlQLUs4Q3MwSHBtUFlUYU9CM0ZIVEhULVpOQUxLbG03MFhxbFg1a1IxYjVpOU9jb25yd3hDYk0zZkF1b0NqZV9zY0pLTG9LQzR0TlJDaEt4d2Q?oc=5"
+      "time": "2026-09-03T21:41:09Z",
+      "summary": "Another big school district bans generative AI, this time for all students&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHpJX3V5bG5QVU5wMFZ6WHBTUWc0b1V6a3VkbXRNb0stbGlveEw2MHlsdHd1dktVSVFpamxWaXA1MUlKa2swTDMweW1IQm03dlh3ZDhxUHRNUUdUejgySklUVVpiSExqZnhBblg3VmhtTGl4LXUtNE5GUWItX3g4T1NGa0RFZktITmRqUmNzRUpKTFBMdmxraVJJNk1OSzUxbC1KdFRzWmxmcGVCclUxRnRWVjFUSlFnVjlTQ0pzYw?oc=5"
+    },
+    {
+      "id": "news-technology-1917729139",
+      "lat": 43.0356,
+      "lng": 141.32018,
+      "title": "AIがレンブラント復元… 「1億円超」作品も登場で激変するアートの価値とは",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T21:40:00Z",
+      "summary": "AIがレンブラント復元… 「1億円超」作品も登場で激変するアートの価値とは&nbsp;&nbsp;ビジネス+IT",
+      "source_name": "ビジネス+IT",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81TWszUnNEMS04UjVudS10SjVzU18ycEhsdVRKOVFITU9TWGlPX0VJTXlZTmFZWEdqTzRfNmkzOXFkYzFjRmdDVzZKUm1sclUtTDRv?oc=5"
+    },
+    {
+      "id": "news-technology-2da9dbd2c4",
+      "lat": 35.62312,
+      "lng": 139.69288,
+      "title": "メタ、AIエージェントにはSlackの方が優れているとしてGoogle ChatからSlackに移行",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T21:40:00Z",
+      "summary": "メタ、AIエージェントにはSlackの方が優れているとしてGoogle ChatからSlackに移行&nbsp;&nbsp;Business Insider Japan",
+      "source_name": "Business Insider Japan",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wWWRramxZNmlOYUpDbk1zTmRSSDg1cHJ1SFlUYWo1UDY5ZjVoQWZKNTRGb0Q4Q05JWnVKdEVvRGgyOS0xN011cTlUMzhDWUowekYyRFY1MEt5QnFZNjQwdk1JZEtzMzduRFlUSnRVallPREdo?oc=5"
+    },
+    {
+      "id": "news-technology-0ef3dae579",
+      "lat": 38.87748,
+      "lng": -77.02132,
+      "title": "OpenAIはAIの恩恵伝える取り組みに不備－サム・アルトマンCEO認める",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T21:38:13Z",
+      "summary": "OpenAIはAIの恩恵伝える取り組みに不備－サム・アルトマンCEO認める&nbsp;&nbsp;Bloomberg.com",
+      "source_name": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YVTlST0pCTmN3LVBVbWotWm1JeGJ6V3NLeTFNR0VMTTNRYl9JX21vM21LcTMtS09RdFBSM2g0YjBvanJFV0Y4RFhzZDZuSWtNTHMzZ3VXWGRjemF3Zy03RlF6d1QxMVNIdG9ab1hwc2RTR2RYSUFR?oc=5"
+    },
+    {
+      "id": "news-technology-a6b70069c4",
+      "lat": 38.86145,
+      "lng": -77.05332,
+      "title": "米OpenAIがGPT-6 Astra発表「AGI時代へようこそ」",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T21:37:04Z",
+      "summary": "米OpenAIがGPT-6 Astra発表「AGI時代へようこそ」&nbsp;&nbsp;株式会社エクサウィザーズ",
+      "source_name": "株式会社エクサウィザーズ",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95M0JVX1JvOGxOM1RheDY4TElrX1h2X0lSM0Vob2w4c2VrRlhqZzZRbU1RbExxVEFQZGNfZk9maUI3MDhqYVIzdXRiTVN4dmRDNUtxdmFiUF81bzlMVmdHT3cydDA2dw?oc=5"
     },
     {
       "id": "news-technology-23651bcc4d",
-      "lat": 35.63033,
-      "lng": 139.68606,
+      "lat": 35.63674,
+      "lng": 139.79123,
       "title": "3つの調査が示したAIエージェント導入における不都合な真実",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T21:33:03Z",
       "summary": "3つの調査が示したAIエージェント導入における不都合な真実&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yVGtpemo4TzFhMWlDQWFWYTJOS1VVTzdaQklYNU90NWRFcGZmQThlN1JIcUpUTGk5YlhhbTlTdEYzUGU4WHRXMXZ4Qjl6ZnI3SndxQjB3MlN6M3doS2o2NThSM1VqODBlaThmVGJjM3JhampIWUxpVll3SnIwVE0?oc=5"
-    },
-    {
-      "id": "news-technology-de53411f2e",
-      "lat": 35.31412,
-      "lng": 137.10302,
-      "title": "AI開発最前線のエンジニア・牛尾剛も驚いた、勝間和代の「ゴルフスコアを10改善した」“AIコーチ活用法”（文春オンライン）",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T21:23:30Z",
-      "summary": "AI開発最前線のエンジニア・牛尾剛も驚いた、勝間和代の「ゴルフスコアを10改善した」“AIコーチ活用法”（文春オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uX1NWSFQxN0dHWjBTNDVyWm9TOHNRNnJCcWNjMkdFWk8zeFV3MnJYWkpYWTd2dnJ6ek9YeWd2QTAzdE5kMlN1TUd5Ym44aWRVNEQtTHVqTklJaUZYbmpZVno3S1VtVEptWTJIRDFUeGZHdlI0dzZNUEpnSXJZMFk?oc=5"
-    },
-    {
-      "id": "news-technology-197f11ff13",
-      "lat": 34.77543,
-      "lng": 135.50015,
-      "title": "米オクターブ、日本市場で産業用AI提案。鉄鋼・金属業界向け設備情報を統合（鉄鋼新聞）",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T21:19:07Z",
-      "summary": "米オクターブ、日本市場で産業用AI提案。鉄鋼・金属業界向け設備情報を統合（鉄鋼新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NWHhsaUVZU09Cb1kxLVNjWUlpVjcwbFdYUVpwc0UwX0hfdDBidm85Z2V4OHNpWTY2NUZnRm5NMUJyUC0tU0xIdnh0TTRDMEZYVkprOHlRNGtTXzJwR2pPRFV5dWszLVNkemdPZVM5ZU8yTWxXaVZTU2I3WE5LWXM?oc=5"
-    },
-    {
-      "id": "news-technology-675a2426d7",
-      "lat": 34.66005,
-      "lng": 134.92595,
-      "title": "日立の最先端AIと社会インフラDXが集結！「HSIF 2026 JAPAN」展示会場の見どころ",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T21:15:00Z",
-      "summary": "日立の最先端AIと社会インフラDXが集結！「HSIF 2026 JAPAN」展示会場の見どころ&nbsp;&nbsp;クラウド Watch",
-      "source_name": "クラウド Watch",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aeWgyckJUSTNJV3F4OWJuODEtaVlmSTMyakJqTWVjT19CNUc5NTBEOFo0aXZQVDN0TUliQVcwMTVHMG9XZjludU9TeWxtbElhUzBDTnI4UEdtS2ttX25pSTVKOVU0eklC?oc=5"
-    },
-    {
-      "id": "news-technology-1f1aa14a57",
-      "lat": 38.91232,
-      "lng": -76.98915,
-      "title": "OpenAI、新型AI「GPT-6アストラ」提供 アンソロピック猛追",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T21:10:18Z",
-      "summary": "OpenAI、新型AI「GPT-6アストラ」提供 アンソロピック猛追&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BM3NaVV9rNzduaTktdFlxMExsVjhrckxzOG9nRUl3VDNfWXY5dVJQMTRieTNSWDdIWldCTFY5Y2NfMXpoUldJSVdxdjJZNm9RZlJvdlM4M3plM1NkUlI2YjdQUGJrQ0kzRDhESA?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-03T21:35:52Z"
+  "updated_at": "2026-09-03T21:48:40Z"
 }
