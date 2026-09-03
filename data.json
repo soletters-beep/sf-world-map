@@ -1,9 +1,20 @@
 {
   "news": [
     {
+      "id": "news-politics-890df7d873",
+      "lat": 38.85993,
+      "lng": -77.05559,
+      "title": "With his eye on reelection, Israel's Netanyahu turns his focus to his divided base",
+      "category": "POLITICS",
+      "time": "2026-09-03T05:48:56Z",
+      "summary": "With his eye on reelection, Israel's Netanyahu turns his focus to his divided base&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcEI4SUgwdF9CYzhkMFhiaFB4MGlEY0N2TWx6ZzNiaUJuUko3eVZCYWM3bUtvc2lNVDd0bVN4MlBCbWlXdkpqOUpnQVh2TUMzZlpxYVE1cEI2U1Mxdk5MVjJtaDVJOGtjNzV4Q21rSEtvTFpiOWdUWFMwRnJQQVpTbmQ2UUlFNmJBMzVyTVAzVkx0UEJ0anZGOENDY0NpMG9MN1FMSFZyX2VuUHRYZGNLWWMwckdGMm1Da3V0TVVTY3RCbklOcGpRci13?oc=5"
+    },
+    {
       "id": "news-politics-6f1be123c1",
-      "lat": 43.03743,
-      "lng": 141.3751,
+      "lat": 43.11248,
+      "lng": 141.32666,
       "title": "選挙投票締め切り2時間繰り上げへ／平川市選管｜行政・政治｜青森ニュース｜Web東奥",
       "category": "POLITICS",
       "time": "2026-09-03T05:20:00Z",
@@ -13,8 +24,8 @@
     },
     {
       "id": "news-politics-2d855cd8af",
-      "lat": 34.13464,
-      "lng": -118.36266,
+      "lat": 34.14033,
+      "lng": -118.41657,
       "title": "内閣改造 今月中旬にも 木原官房長官ら留任有力 | ふくしまNEWS - KFBデジタル -",
       "category": "POLITICS",
       "time": "2026-09-03T05:19:00Z",
@@ -24,8 +35,8 @@
     },
     {
       "id": "news-politics-dc8123cf63",
-      "lat": -15.7994,
-      "lng": -47.89777,
+      "lat": -15.7957,
+      "lng": -47.97659,
       "title": "Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage",
       "category": "POLITICS",
       "time": "2026-09-03T05:17:04Z",
@@ -35,8 +46,8 @@
     },
     {
       "id": "news-politics-c36e2d9f27",
-      "lat": 49.99966,
-      "lng": -2.19817,
+      "lat": 49.94596,
+      "lng": -2.2726,
       "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
       "category": "POLITICS",
       "time": "2026-09-03T05:00:04Z",
@@ -46,8 +57,8 @@
     },
     {
       "id": "news-politics-ba2804d69e",
-      "lat": 63.56261,
-      "lng": 22.99461,
+      "lat": 63.56983,
+      "lng": 22.96226,
       "title": "With his eye on reelection, Israel’s Netanyahu turns his focus to his divided base",
       "category": "POLITICS",
       "time": "2026-09-03T04:57:53Z",
@@ -56,20 +67,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjJHalZMbnJMcEs4YmdLcnVGdFZmMGxMVkMxeDNUc2dGa21EODd3ZlRmN3RobDY3TGoycXFGcE9xblVpWlpNSWp0MHVPOGRDMjBwTjdfMmRHbXZkcnN5d01vOG02ZWlUMzhSYzFGOFNWbGFrMWtpTUpldXNPZ0pUVWUyYkRidG5YVlVRMHhrS2pSNE5OWGJxb2x1ZXJnUldXWnF2NXRZM2JEYkJrd29VODZR?oc=5"
     },
     {
-      "id": "news-politics-a48af269e8",
-      "lat": 43.70164,
-      "lng": 142.59885,
-      "title": "フォトギャラリー：産業貿易省党委員会は、政治局の様々な決議や指令を検討し、実施する。",
-      "category": "POLITICS",
-      "time": "2026-09-03T04:51:07Z",
-      "summary": "フォトギャラリー：産業貿易省党委員会は、政治局の様々な決議や指令を検討し、実施する。&nbsp;&nbsp;Vietnam.vn",
-      "source_name": "Vietnam.vn",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMTNvM1JGVHNwU1FHODhpUkFLY29JbnFvMUhkUnc0TVVmQnRsN2ZZZVJibGZ0eDUtbnY4QWx6TjQtRjcyV3VTUldSU1pmdTFDcndSQW9UYnByY3M5X1pudGM4NjRGdzNxb1F5dTIxOURldGpMaGViWVdIY3NfUDhTQlFQZHgwMlZ0M181cGEzdkFKSXhPMW9kZExiX2g1U1RwS1plYkUxMDkxdVF0dkZsb1QyMnhnY0pMcWc4?oc=5"
+      "id": "news-finance-690f9405a1",
+      "lat": 35.55628,
+      "lng": 139.70138,
+      "title": "ニチコン、株価4カ月ぶり安値 CB発行で需給悪化を警戒",
+      "category": "FINANCE",
+      "time": "2026-09-03T05:54:19Z",
+      "summary": "ニチコン、株価4カ月ぶり安値 CB発行で需給悪化を警戒&nbsp;&nbsp;nikkei.com",
+      "source_name": "nikkei.com",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ScERSWTFwSFJVYm5CSENWcmY5ZVdmYVFQbXVWM1NFTmFYZWF1elM1eXZHaEtFSk95Y2JSUzk1dXlxYlpfZXVja2pSS2M5S0hZLVNVMm90NVRIVTlsMUs4NndpUDVJMmlRc0ZDYw?oc=5"
+    },
+    {
+      "id": "news-finance-5068c0f31c",
+      "lat": 32.49264,
+      "lng": -85.68773,
+      "title": "WasabiCard Expands Global Payroll and Creator Payouts for Livestreaming Businesses",
+      "category": "FINANCE",
+      "time": "2026-09-03T05:48:28Z",
+      "summary": "WasabiCard Expands Global Payroll and Creator Payouts for Livestreaming Businesses&nbsp;&nbsp;markets.businessinsider.com",
+      "source_name": "markets.businessinsider.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOElEZXhTM3MtRFZKcnNmdGhhdkpnaV9KN2E2R1Uyano2NWF0c2MtaFZ4TXFYX3ptUTdtWXQzcHVQaDcxUTdzSmFETXJYWHRKVXNMbkZYVURnU2dGemxtb3VYU2dWZkZEUjdtVi02MzFrVlJ3Q2NQdFpPbV8xVWRPZXRuSzFHUnZCRXNzalExRXhZRWxIbEl1NXZ4OWlPTFdBRzJ3cjRkVUt0WEVHZTRsaFdKSk0taVE1aFBmbk9yU2NKOXh3S3pxNVdEQWxTR3YwVXZEZExzOXA?oc=5"
+    },
+    {
+      "id": "news-finance-f5a7e53c90",
+      "lat": 41.16571,
+      "lng": -74.18791,
+      "title": "Almost half of households do not see benefits of economic growth, report says",
+      "category": "FINANCE",
+      "time": "2026-09-03T05:47:11Z",
+      "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-finance-faf49347e0",
+      "lat": 35.73833,
+      "lng": 139.7828,
+      "title": "東京為替：ドル・円は安値もみ合い、クロス円も追随",
+      "category": "FINANCE",
+      "time": "2026-09-03T05:41:36Z",
+      "summary": "東京為替：ドル・円は安値もみ合い、クロス円も追随&nbsp;&nbsp;株探",
+      "source_name": "株探",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KT3ozVEdGMnV4ZW5SWWZzNXdGME5yYlVxbWVVUGdlNHYwdThIaktiZmNsRUZXUGtDQVM3SWkzTUtXZ1dmNDRlSWVlMS1iT0M3YlE?oc=5"
     },
     {
       "id": "news-finance-682d64469f",
-      "lat": 54.64338,
-      "lng": -5.97517,
+      "lat": 54.61851,
+      "lng": -5.88244,
       "title": "Markets Are Volatile — Could These Three Asset Classes Help Balance Your Portfolio?",
       "category": "FINANCE",
       "time": "2026-09-03T05:37:53Z",
@@ -78,64 +122,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX3ZzVm00UUhNejR3QnZqTGRzTWRKTUpDTmF1cDk5VUp5c0I3NkthenpXOGo4Rk5TT3Q0ZWtrc1VGc1FtMDlvMV96OXIzZktYbkUtUENrSlpKVWJxOVMzQ050azNkRUhCdi1EQXhPRzM0NjJtYXk5c1ZzakpkRlh1N0RSaUpkckYyMXZpc1lEZDZNRFR0bF9IM1pDWWk5Zm4wQ1N4ZEN1MktKYXl4N0xHaUVsLVlJd2hmNFlB?oc=5"
     },
     {
-      "id": "news-finance-70554d7e0c",
-      "lat": 35.69378,
-      "lng": 139.81036,
-      "title": "Shares, bonds rally as markets await Fed signals; yen jumps",
+      "id": "news-finance-097af75206",
+      "lat": 39.06591,
+      "lng": -122.83269,
+      "title": "Lake Tahoe Markets – Tahoe’s Newest Culinary Adventure",
       "category": "FINANCE",
-      "time": "2026-09-03T05:19:44Z",
-      "summary": "Shares, bonds rally as markets await Fed signals; yen jumps&nbsp;&nbsp;The Lufkin Daily News",
-      "source_name": "The Lufkin Daily News",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMkVfT2JadzhGY1RjcnVVMENZN29OT1NVN0hoWDlhX1VadnVGNGRRVUJlQWlYbng4UkNTZlFqaWJsXzdVMFJnV1FEejUwVmp4eUdxcEpEZzVsQVByTHVFOWFGMjh5cF9WcHNyNWZLY1YwQzJ5LUdLZWFXb3dFX2l2c3N0X2RPQ0ZkM1M0RWhtRVVDV0VsdF9iM1Z6SFE1dG9vMTJNMDRNZ2llejk2V0lKalduRWpCN3pyR3Bid0EyTi04VXZvTldWNkdoWEcxRWloUS04amxOS21ocUhKZDBoandqZ3VDMUtsNmRpcXpR?oc=5"
+      "time": "2026-09-03T05:29:48Z",
+      "summary": "Lake Tahoe Markets – Tahoe’s Newest Culinary Adventure&nbsp;&nbsp;South Tahoe Now",
+      "source_name": "South Tahoe Now",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeHg5c3cxdWR4bjhTT0ZlUEZGUTNPd29CZVlPSXVQdzJWeDNBVWlrbWpKc2pGYUhtYkJuQTI4ejJOUUxMeDJtbm1EMzJTZlVLaFB3M2F5Q3pJTTlVQWZFUnB1V1hDQXRKaXloeUtfTHUyMzNPeG1NTDdoRVJTSFlpeWtZM3lZTVlrQkgxaGhoUzdjUQ?oc=5"
     },
     {
-      "id": "news-finance-acc2e24279",
-      "lat": 34.7289,
-      "lng": 135.16778,
-      "title": "【アナリスト評価】ニトリＨ、レーティング中立を据置き、目標株価3,060円に引上げ（欧州系大手証券）(アイフィス株予報)",
-      "category": "FINANCE",
-      "time": "2026-09-03T05:05:00Z",
-      "summary": "【アナリスト評価】ニトリＨ、レーティング中立を据置き、目標株価3,060円に引上げ（欧州系大手証券）(アイフィス株予報)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnpwbEtheERRNzl4MVJCVmdtZ20za1hkcEVjbDZsVk51c21lc1ZiNkgwMEJRUjdQak91azkxNWVCRTgyZlhGX2psc3ExekVOLTBPejR5RDhJaWVfT1NtQ2lUZEhsUzAyMTd0X3czVHo4aTVMcWd2bjBoV1RaclF0ZDFlb1d2WDQ?oc=5"
-    },
-    {
-      "id": "news-finance-56530cb742",
-      "lat": 48.46255,
-      "lng": -123.4342,
-      "title": "VGP Announces Capital Markets Day Webcast",
-      "category": "FINANCE",
-      "time": "2026-09-03T05:00:00Z",
-      "summary": "VGP Announces Capital Markets Day Webcast&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQzdYeTJxNzRPZThXRGtXSjE0dXVVU1A2T2h2VzlDZjRDYkRiY3QxNy04TTBVOWp2WGJIdXZpeHhvZG5HdkRFMmQtclVPZkFzUHZRR00xS3FVaDBaczBTenZaU2oyaUxFcUxtU3hPNkZEVDlwNUpfcG1mRzh0ZWstUjZ5STJTaTkzcV9POXdQaklacExtXy1sVTdCSQ?oc=5"
-    },
-    {
-      "id": "news-finance-25c0595c24",
-      "lat": 35.66428,
-      "lng": 139.76121,
-      "title": "三菱倉庫－SMBC日興が目標株価を引き上げ 資産回転本格化による利益成長や割安感を評価〔DZH 個別株情報〕(時事通信)",
-      "category": "FINANCE",
-      "time": "2026-09-03T04:48:00Z",
-      "summary": "三菱倉庫－SMBC日興が目標株価を引き上げ 資産回転本格化による利益成長や割安感を評価〔DZH 個別株情報〕(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnROZEI2Ny1FcjNCVFY1aVF1NzNiVG5ZTmhMeVZ1N29fX0RPZ1Z4aTlUSGNoOE05LXhnR3BYRzczRDRwcUxhR2tBU3k0Z2JHUnBqVXdrUUN4Z2RWMjBPREs0MXltcFVRY2YyLTN1WENlazhyYkhoQkNzSk1BanBDSFNrekNPZDQ?oc=5"
-    },
-    {
-      "id": "news-finance-9b9937813c",
-      "lat": 35.62945,
-      "lng": 139.78378,
-      "title": "東京為替：ドル・円は続落、円買い止まらず",
-      "category": "FINANCE",
-      "time": "2026-09-03T04:47:33Z",
-      "summary": "東京為替：ドル・円は続落、円買い止まらず&nbsp;&nbsp;株探",
-      "source_name": "株探",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjemU3RXR2d1Q2Q0gtRjNqdDBGVWlhcXZsdXFMX2I1ZEUzWVdtdnhmaXI5cEl3Y2xaWjFoS21pRmFoeHpIbktjaWJtZTFEMS1xejVvcU8wSHNnak5qWnlrMQ?oc=5"
+      "id": "news-disaster-96fc9fce4b",
+      "lat": 35.66058,
+      "lng": 139.81863,
+      "title": "【レベル4土砂災害危険警報】鳥取県・日南町に発表 14:41時点（TBS NEWS DIG Powered by JNN）",
+      "category": "DISASTER",
+      "time": "2026-09-03T05:42:18Z",
+      "summary": "【レベル4土砂災害危険警報】鳥取県・日南町に発表 14:41時点（TBS NEWS DIG Powered by JNN）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fdzJPMy1lTDVOSk1IZWtOcmlLSm9lc0RwbVhCZVhaYXhuTGY0OFJNMURtbkw3alpMbW1qYlBuZ1l4Vjlqd2tieUl4SkFyOHNUeVZYdXo2RlUySkRucXh4c2JGMjF3Qzd3MFE1VXhSZnZzTnNmTXZhRFpVaEZteUE?oc=5"
     },
     {
       "id": "news-disaster-2612736493",
-      "lat": -34.3757,
-      "lng": -59.60801,
+      "lat": -34.4651,
+      "lng": -59.71421,
       "title": "Heavy rain and flash flood risk return to southern Arizona through Labor Day",
       "category": "DISASTER",
       "time": "2026-09-03T05:31:00Z",
@@ -145,8 +156,8 @@
     },
     {
       "id": "news-disaster-b93cfe9250",
-      "lat": 33.75671,
-      "lng": 130.43307,
+      "lat": 33.71984,
+      "lng": 130.42838,
       "title": "【台風情報】台風24号(クロヴァン) 奄美に接近し複雑な進路に 宮崎県はじめ九州南部は「線状降水帯」発生の可能性【今後の雨のシミュレーション】",
       "category": "DISASTER",
       "time": "2026-09-03T05:26:00Z",
@@ -155,9 +166,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aUmNXQXhmVUluYWVDcVgxQWoxTmlaRHpvVnM5d05FNi1FMFVTbXEtQVlYRGFicWJ5a1hBRk5zVFFMX0V2YjF4RE1ZSHlrZS1ES3hpbl9zTGpEREdSSTZ5MlVYaEM?oc=5"
     },
     {
+      "id": "news-disaster-46845add62",
+      "lat": 35.6645,
+      "lng": 139.80211,
+      "title": "【レベル4土砂災害危険警報】鳥取県・日野町、江府町に発表 14:22時点（TBS NEWS DIG Powered by JNN）",
+      "category": "DISASTER",
+      "time": "2026-09-03T05:24:18Z",
+      "summary": "【レベル4土砂災害危険警報】鳥取県・日野町、江府町に発表 14:22時点（TBS NEWS DIG Powered by JNN）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oeE12M1M0cGxleUdUWkVmNkVkSnhKU3NvNDAxXzdSMENiaWNSYVFENUl4ZDdPa2FSMWExbVhLQU9HWmRDeXR0OGZvVjUyNEd0MTBQdDJ1SVZ1S0hGX0h6SG1WSGdYT3ZUaWd2MnpvVG80MGlra2VjaHY2X0hlaDA?oc=5"
+    },
+    {
       "id": "news-disaster-4ecd0aeb4f",
-      "lat": 35.65829,
-      "lng": 139.83258,
+      "lat": 35.65969,
+      "lng": 139.77765,
       "title": "南海トラフ地震で最大津波想定の町 高知・黒潮町での「防災意識」を高く保つ取り組み（テレビ朝日系（ANN））",
       "category": "DISASTER",
       "time": "2026-09-03T05:21:17Z",
@@ -166,20 +188,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKM1V0M2YzUzFHSTJMa2doZzJ3VF9pQmRiUTh0SkEzTG5BdmZGTnlOdFdTNlhGLUdqSndaZElVclJSN1Z2Uk84SURRQkpUS0lsZnMwdDNUY3Y5ZnFWQUpLeU5BTU4yMGNGdDBjSmhmZVVHMlF2YVdiWE4tVGN1clk?oc=5"
     },
     {
-      "id": "news-disaster-482299c1db",
-      "lat": 32.66843,
-      "lng": -97.3575,
-      "title": "Multistate disaster relief response shows Cooperative Program at work",
-      "category": "DISASTER",
-      "time": "2026-09-03T05:12:11Z",
-      "summary": "Multistate disaster relief response shows Cooperative Program at work&nbsp;&nbsp;The Christian Index",
-      "source_name": "The Christian Index",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3hHakFiVVB0QVZ0Z29EQ2VuTWRONUZlU3BRTklZMG12cThEa2J3SmQ5ZmdrcHdLNlBsNTFoSm03NC0tUWtQUkkxVDAyQ2p0SGZHZlB2WGRUVnZnZ1JhSElLbU03Y1plcmp4WGhWYl9vSnMwS3k2Vlo2aFJBTFNRYXBTUlhzLWFQZzNzbWFkU1RQOE0tb1VmM1BKVzRmYjVTVzU5aDZQUGxwYWhrLWVNUA?oc=5"
-    },
-    {
       "id": "news-disaster-8334eb705e",
-      "lat": 35.65781,
-      "lng": 139.81468,
+      "lat": 35.64066,
+      "lng": 139.80063,
       "title": "【レベル４土砂災害危険警報】青森県・中泊町に発表 14:11時点",
       "category": "DISASTER",
       "time": "2026-09-03T05:11:00Z",
@@ -188,20 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iaEY2QnRHdXpyU1hvT3lJRWlBSzFjOU9lVVhUaW9SWFdTS1RNZXB2NmtfYjBpNGRDSWlqN19ZakpTaDFpVUdqREpBQzgzTUNwdFNEcFdpWQ?oc=5"
     },
     {
-      "id": "news-disaster-6e646ed62b",
-      "lat": 33.70006,
-      "lng": 130.47578,
-      "title": "【台風情報】週末にかけて全国各地で大雨に “迷走台風”と”秋雨前線” 動き鈍く雨長引くおそれ 今後の雨･風シミュレーション",
-      "category": "DISASTER",
-      "time": "2026-09-03T05:10:00Z",
-      "summary": "【台風情報】週末にかけて全国各地で大雨に “迷走台風”と”秋雨前線” 動き鈍く雨長引くおそれ 今後の雨･風シミュレーション&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tZ3k2Yk5wVUJmVWNTZVNjclJVQWs4VEtxWFRzaVUtMFktY3EyZ19Nc2ZnSEduS1l4clgxU3d3SHhkR0pDOUZnS0w2MUR4V3FlQmVlek9lUjZsVV91d1kw?oc=5"
+      "id": "news-accident-80161b31a0",
+      "lat": 48.176,
+      "lng": -1.68104,
+      "title": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge - Pittsburgh Post-Gazette",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T05:40:15Z",
+      "summary": "Bodies of all 3 missing boaters recovered from Monongahela River and victims ID’d after deadly crash with barge&nbsp;&nbsp;Pittsburgh Post-Gazette",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDc1aXFkQmpJQ0Y1YmZzT1BsWXJhU0Naam1GZE5ZY1ZFRUI0YW9wTDk4c3dBcFJqTWF0a1NyWUdQaWFsX0dEQU1naHRmaFBjcVNRenZXZW53cW82OW85cmpoNjNCSjI3cjlGUEdLZEZOQ0JkTGs0NHVOeDhPVDJhOFJTQ0hQcGtaUWJaS0EyVjV2WG9oV3BuYWk4Y2stZVhFNDc2NG1kNA?oc=5"
     },
     {
       "id": "news-accident-beae609ea9",
-      "lat": 34.50202,
-      "lng": -94.90935,
+      "lat": 34.52679,
+      "lng": -94.8783,
       "title": "Honobia, Oklahoma woman dead following collision in LeFlore County",
       "category": "ACCIDENT",
       "time": "2026-09-03T05:30:42Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-620e313acc",
-      "lat": 35.67594,
-      "lng": 139.81249,
+      "lat": 35.67966,
+      "lng": 139.71342,
       "title": "福島第一原発事故受け関西に避難した人たち起こした裁判 国の責任認めず 一部の原告について東京電力に賠償命じる 大阪地裁 2022年に最高裁が国の責任を否定して以来、同様判決続く",
       "category": "ACCIDENT",
       "time": "2026-09-03T05:18:13Z",
@@ -222,19 +233,19 @@
     },
     {
       "id": "news-accident-e61b3cd04e",
-      "lat": 32.79952,
-      "lng": 130.74141,
+      "lat": 32.79083,
+      "lng": 130.74749,
       "title": "「今までに経験したことのない事象」イオンモール熊本の事故調査委員会　初会合が開催　火災や建築構造の専門家が出席　今後、爆発のシミュレーションなどを行う方針",
       "category": "ACCIDENT",
       "time": "2026-09-03T05:04:00Z",
-      "summary": "「今までに経験したことのない事象」イオンモール熊本の事故調査委員会　初会合が開催　火災や建築構造の専門家が出席　今後、爆発のシミュレーションなどを行う方針&nbsp;&nbsp;ｄメニューニュース",
-      "source_name": "ｄメニューニュース",
+      "summary": "「今までに経験したことのない事象」イオンモール熊本の事故調査委員会　初会合が開催　火災や建築構造の専門家が出席　今後、爆発のシミュレーションなどを行う方針&nbsp;&nbsp;topics.smt.docomo.ne.jp",
+      "source_name": "topics.smt.docomo.ne.jp",
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jQVhYb0g1MDhJTENTOTVUa0UyWEszaHhMVVhlQlQ4Z1dvdmJqYjgxYlN6bkVwSTdnOVljQnJTelNiRVRXQkQ0UFdlSDV4REFBMHo3R2ZMaEZ1ZGVPSzZuWnlPSTAydTVJaHhkT09KTmluUdIBd0FVX3lxTE1PVGhpVF9YREtBeExRRkFNcUw5bE1QSzFYMjgtSzRLcmtUTC1oa1dzQ1JkNGxwdVpzU2FKeXd6ei1uektrOHpOMzRhcU9fYVdzZ0VOdk1raGJqekc5dTlBT0NLSEtoZmhBMHNqYjJPNWlqazJfOFZz?oc=5"
     },
     {
       "id": "news-accident-90c218d1fe",
-      "lat": 56.02788,
-      "lng": 85.63911,
+      "lat": 56.03892,
+      "lng": 85.67568,
       "title": "タイガー・ウッズ選手が「無謀運転」認める 5年間の運転免許停止と罰金1500ドル 運転中衝突、事故時にポケットから鎮静剤",
       "category": "ACCIDENT",
       "time": "2026-09-03T04:55:00Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-e6ce1d9b6c",
-      "lat": 34.42314,
-      "lng": 132.50023,
+      "lat": 34.42934,
+      "lng": 132.50516,
       "title": "【現場の画像】車７台が絡む多重事故 事故の状況を捜査中 北海道北広島市・国道３６号",
       "category": "ACCIDENT",
       "time": "2026-09-03T04:44:00Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNktkbnRqWjUyREdXR0tKakgwTW9uWEs5VGZuREF3OTRQWWcwS2lTcmp5TlFGOUdJTk84M3Iza09KLWhuR3piZXg5VG5IOFBSRGY1NElxUnUySU1qekZWUzd3OUk3ZUFkZjBCSWRRV2VocmMwTUNoUzBWcVBRak8xR21aanFQZlU?oc=5"
     },
     {
-      "id": "news-accident-4e51bad22e",
-      "lat": 34.3965,
-      "lng": 132.44331,
-      "title": "【速報】国道３６号で車７台が絡む多重事故 事故の状況を捜査中 北海道北広島市（2026年9月2日掲載）｜STV NEWS NNN",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T04:42:00Z",
-      "summary": "【速報】国道３６号で車７台が絡む多重事故 事故の状況を捜査中 北海道北広島市（2026年9月2日掲載）｜STV NEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
-      "source_name": "日テレNEWS NNN",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmFWWmNlaVZIalFnWnFvOUtjQVhXRUxiQzYwR2pOVmlpektqbjlnT1hraE03VjVPUHNFWEZjQ3piMU05RDI0WjkyQUtaTWkxQlRLZGwwekYzMjI4Q2ZRckYwWFBwT3ZVVHpmX3hTQmNSSVpfOTRQVVE2YTVEcXlQQkc5UDBmSDg?oc=5"
-    },
-    {
       "id": "news-disease-aecf8fda14",
-      "lat": -2.97022,
-      "lng": 23.81804,
+      "lat": -3.02259,
+      "lng": 23.77762,
       "title": "Congo's Ebola outbreak shows no signs of slowing",
       "category": "DISEASE",
       "time": "2026-09-03T05:00:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-202c1d6e70",
-      "lat": 26.32496,
-      "lng": 127.79656,
+      "lat": 26.2582,
+      "lng": 127.75649,
       "title": "手術部位感染症（SSI）治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-03T02:00:00Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-5f53f30415",
-      "lat": 10.72446,
-      "lng": 106.64112,
+      "lat": 10.76263,
+      "lng": 106.65571,
       "title": "Chasing a perfect sleep score? You could be making it worse",
       "category": "DISEASE",
       "time": "2026-09-03T00:41:27Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-8b3a6dc993",
-      "lat": 42.40994,
-      "lng": -91.45515,
+      "lat": 42.37137,
+      "lng": -91.46786,
       "title": "Ryan Jones: Unbreakable",
       "category": "DISEASE",
       "time": "2026-09-02T20:58:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-3ba399f4d5",
-      "lat": 8.50284,
-      "lng": -71.20939,
+      "lat": 8.48911,
+      "lng": -71.21248,
       "title": "Moral Maze",
       "category": "DISEASE",
       "time": "2026-09-02T20:00:00Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-ea3b661e26",
-      "lat": 49.70402,
-      "lng": 143.03448,
+      "lat": 49.76419,
+      "lng": 142.99431,
       "title": "夏バテとケトン代謝について - クラウドファンディング",
       "category": "DISEASE",
       "time": "2026-09-02T19:11:23Z",
@@ -331,20 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96bk1rWFB2MjFwVWFpWnNFOFZPZnpHZjIxUTVfSlJVUG9EN3JzR1V0QlQ5dXFVSThRTXM5OWRnSHVoRi1EalpzcVBKYmJuQ0hNcERuXzNGS3lYYkZvU3MyV1VBOUZLY29qZE5kSXRhZzUtajdTUGc?oc=5"
     },
     {
-      "id": "news-technology-e6c1c3fa01",
-      "lat": 50.9267,
-      "lng": 14.47164,
-      "title": "AI In Computer Vision Market Size, Share | CAGR of 27.5%",
+      "id": "news-technology-9cb48e01dc",
+      "lat": 35.61835,
+      "lng": 139.80227,
+      "title": "AI時代、人材育成の仕組みはどう変えるべきか？4つのステップで考える教育体系の再設計",
       "category": "TECHNOLOGY",
-      "time": "2026-09-03T05:38:01Z",
-      "summary": "AI In Computer Vision Market Size, Share | CAGR of 27.5%&nbsp;&nbsp;Market.us",
-      "source_name": "Market.us",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16dmVWNzJrLVV4WUx2d3FEVzNmMzdqUERBWjJiN01JNDlPb0RYc1E5WUtlX1pqYTg5dElMWGlrcGE4SXYyZjVHWG1PYzhSRjI2YnhjQklId2FfRjBnQkg5ZnNBRnI?oc=5"
+      "time": "2026-09-03T05:48:36Z",
+      "summary": "AI時代、人材育成の仕組みはどう変えるべきか？4つのステップで考える教育体系の再設計&nbsp;&nbsp;PR TIMES",
+      "source_name": "PR TIMES",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FQVoxLWhSZU8ydk00Z3k2OVRTc2Vkd1lXSms5RmV1WGVjTmdHQnhXVFZnRUIzcEEzMjU3QWJYUHhlWUQyMC1IZi1wb2Y1QVdrVG9QOGRDOEJRYkNMaFFPVWVmUDNyRTFJYVE?oc=5"
+    },
+    {
+      "id": "news-technology-486aa986af",
+      "lat": 51.45793,
+      "lng": -0.09504,
+      "title": "ウーバーがロンドンで自動運転配車、欧州2都市目 ウェイブのＡＩ搭載",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T05:47:00Z",
+      "summary": "ウーバーがロンドンで自動運転配車、欧州2都市目 ウェイブのＡＩ搭載&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05d2V1ME5nVG9ZdmtqZy14YmlXRVF5X2ZZelV6SUJ5dWh6NlhZNEozR2NoTFMwWG13clJ2VHktaG0wVmdiOXNvbWpLRDN0Xzl6dy1RLVFDSW1kMmlqZlVTcW1OeHdxZ0I2STloVWRFTVJMZ1RfQm9sbA?oc=5"
     },
     {
       "id": "news-technology-30ba2b326b",
-      "lat": 41.14061,
-      "lng": -8.38388,
+      "lat": 41.19959,
+      "lng": -8.41154,
       "title": "3D生成AIを手がける「Tripo AI」が、シリーズBおよびシリーズB+のラウンドで約30億元（約690億）を調達",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T05:33:35Z",
@@ -353,20 +364,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNMElISkJFWVR6czdWem1NMUhBR3Z1VFNWanhzME1zUExXakZjZkRjeERUcER3LWpNeDJVNEtYc1dwLVV2UXJZbDFTTVhhREtDYUpMYlZIbnM0WXpTWTlJNg?oc=5"
     },
     {
-      "id": "news-technology-7668e75957",
-      "lat": 35.70593,
-      "lng": 139.72434,
-      "title": "【参加無料】AIが「攻撃者」になる時代へ―「AIエージェント×ランサムウェア攻撃」9月14日開催",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T05:30:22Z",
-      "summary": "【参加無料】AIが「攻撃者」になる時代へ―「AIエージェント×ランサムウェア攻撃」9月14日開催&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wams4aXU5YzBEUW5lSVpXdlZDZkY5eW12ZF9JbVdkVllrUXdLb1M3N1FuTkxENzlTOHJFTHI4WGNUY3V6TXhtd2NqNWtrcEFYRERpNERndXh0VXlwaHhVYXQ0Umd5ZllZRXc?oc=5"
-    },
-    {
       "id": "news-technology-9be3b059ec",
-      "lat": 36.51719,
-      "lng": 136.70801,
+      "lat": 36.59775,
+      "lng": 136.6714,
       "title": "高校生と金沢工業大学の学生がスタンフォード大学を訪問。THINKプロジェクトの成果発表とスタンフォード大学発の学習環境「AI Tinkery」の視察を実施。生成AIに触れ、試し、対話しながら、自ら付き合い方を考える新たな学習環境の国内展開へ | 金沢工業大学",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T05:21:05Z",
@@ -375,20 +375,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE15c0VsZ1hGN3ZhMDZMZF84SnVCaG5TWU9fNWxaMHhNQ0dkVDVuT0FoNlBLZ0c3U244dDY0VHpkZWl3aFE?oc=5"
     },
     {
-      "id": "news-technology-b2d1370c5a",
-      "lat": 36.3787,
-      "lng": 140.42576,
-      "title": "【青山美智子×梶裕貴×音声AI】異色の共創プロジェクトが始動！ 新作小説『愛の声が聴こえたんだ』がWEB別冊文藝春秋で公開開始",
+      "id": "news-technology-1cb3fc5e85",
+      "lat": 36.54835,
+      "lng": -119.40677,
+      "title": "Dinuba Unified to deploy AI-powered weapons detection system",
       "category": "TECHNOLOGY",
-      "time": "2026-09-03T05:12:40Z",
-      "summary": "【青山美智子×梶裕貴×音声AI】異色の共創プロジェクトが始動！ 新作小説『愛の声が聴こえたんだ』がWEB別冊文藝春秋で公開開始&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HSmx0Qmd6d3JMMmJfcGFCRDdTWTBsM1FxLVVnU3FBdkdrWUJ5Q180UmFXekdCX0NpdFFOekExWDdpaF8xVzkzVFU4LVZ4b29DWFRaM2tIS3pJTnFTTmVEQU5rSHRJOWpkcEE?oc=5"
+      "time": "2026-09-03T05:20:40Z",
+      "summary": "Dinuba Unified to deploy AI-powered weapons detection system&nbsp;&nbsp;YourCentralValley.com",
+      "source_name": "YourCentralValley.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWDZEbEFjcEttbGN4TzY5YWxhS0RKdUVsaVFRSlYxdGJWVTR6TG5pUnJwTm9Wbk0xWFRBenBtQ29DTDRrbWswcExGUEs2elpWREJmRUoxUzNCSWNvSVlZRnBYQ1kyNjB3R1FNU0h6UDRkUVNac2xvR2dBTDJOSTdrRXZOVdIBiAFBVV95cUxOVEY5QWlWbWE4cnhOQVhBVVQ2aXUxZmZnZkE4ZEVxcThETmcxOV9DQmRyMF9hQTIyMG81YldVTEFUUkpsZW9YUndMdlgyYWdVenpjNWVuUmxucmE4bU9XNWgyREg5ZGs2ekc2RGpIdkNiTmZ6MHhzVzJsRXdIN2lScFJ1S2ZZRGk1?oc=5"
     },
     {
       "id": "news-technology-7ead93846f",
-      "lat": 10.26727,
-      "lng": -66.651,
+      "lat": 10.25786,
+      "lng": -66.65176,
       "title": "「AIが転倒を即時検知」物流センターで実践するAIカメラ活用｜安全管理と業務効率化を動画で公開",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T05:00:20Z",
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-03T05:42:53Z"
+  "updated_at": "2026-09-03T05:58:56Z"
 }
