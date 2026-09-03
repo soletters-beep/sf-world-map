@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-5f93d7748f",
-      "lat": 52.52708,
-      "lng": -2.92279,
+      "lat": 52.57203,
+      "lng": -2.94792,
       "title": "More than 80 migrants feared dead after boat rescued off Canary Islands",
       "category": "POLITICS",
       "time": "2026-09-03T10:37:06Z",
@@ -12,20 +12,9 @@
       "source_url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-politics-6f1eaa40e6",
-      "lat": 38.94859,
-      "lng": -77.05569,
-      "title": "Republicans fear Trump will keep super PAC money and not spend on the midterms",
-      "category": "POLITICS",
-      "time": "2026-09-03T10:32:46Z",
-      "summary": "Republicans fear Trump will keep super PAC money and not spend on the midterms&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSlRJNUpKRFNPRnBhVjJRaWExNEdqYlhQMWZ5ZktpODl0cGxzVzFQbVVqSlRieWhGdVFvWkl2MXNJV2Q0T2s0SkljRllLbGV2ZUhmMFNJaEtDUVFYdmF5OWFvVGsycnU5anpja0Z6ODVRM2ZEbHVpU2NWYmx3VGR3WWRyNGY4ZTZ1NXRSX2FmWWtybFA3QTltRE5UT2hESGRYSUZ0NGc0OVR1bTJ0UE9IR0hFQ2pPdjBUX0hhd2lRQ0lSUQ?oc=5"
-    },
-    {
       "id": "news-politics-a5b95db768",
-      "lat": 39.63885,
-      "lng": -76.65671,
+      "lat": 39.67218,
+      "lng": -76.63191,
       "title": "Trump $1 coin makes him first living president on US currency in a century",
       "category": "POLITICS",
       "time": "2026-09-03T10:25:43Z",
@@ -35,8 +24,8 @@
     },
     {
       "id": "news-politics-634f8de5ff",
-      "lat": 52.43483,
-      "lng": -1.9433,
+      "lat": 52.42383,
+      "lng": -1.91656,
       "title": "Federal judge considers whether to extend ban against US Postal Service mail voting changes",
       "category": "POLITICS",
       "time": "2026-09-03T10:25:30Z",
@@ -46,8 +35,8 @@
     },
     {
       "id": "news-politics-9205d626d3",
-      "lat": 40.70608,
-      "lng": -74.01532,
+      "lat": 40.74948,
+      "lng": -74.01983,
       "title": "Feminist activist and journalist Gloria Steinem dies at 92",
       "category": "POLITICS",
       "time": "2026-09-03T10:24:26Z",
@@ -57,19 +46,30 @@
     },
     {
       "id": "news-politics-b960356859",
-      "lat": 12.95709,
-      "lng": 121.44974,
-      "title": "Gloria Steinem: An icon of American feminism",
+      "lat": 12.94694,
+      "lng": 121.50837,
+      "title": "How Gloria Steinem changed the lives of generations of women",
       "category": "POLITICS",
       "time": "2026-09-03T10:22:18Z",
-      "summary": "The trailblazing feminist was an iconic leader of women's rights in the US.",
+      "summary": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash.",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "id": "news-politics-172cde00b5",
+      "lat": 34.16523,
+      "lng": -118.38764,
+      "title": "“一騎打ち”国民民主党代表選 大詰め 続投か新代表か 結果は6日に | ふくしまNEWS - KFBデジタル -",
+      "category": "POLITICS",
+      "time": "2026-09-03T10:09:00Z",
+      "summary": "“一騎打ち”国民民主党代表選 大詰め 続投か新代表か 結果は6日に | ふくしまNEWS - KFBデジタル -&nbsp;&nbsp;kfb.co.jp",
+      "source_name": "kfb.co.jp",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fVnV4Q1dBaW13eVNuSWRvNXN5QXFGZDVGZGxaLUs1TGtQTHBhTmZ3b3NpV25lR05OTWNnekFobTN3VjRnSHhkNzl0YVlDLWtGWHFwU25R?oc=5"
+    },
+    {
       "id": "news-finance-df480a6cde",
-      "lat": -34.89173,
-      "lng": -56.03403,
+      "lat": -34.86615,
+      "lng": -56.0871,
       "title": "Movie Marketing and Publicity Expert Rob Deacon Sets Up Phoenix Film Finance (Exclusive)",
       "category": "FINANCE",
       "time": "2026-09-03T10:27:22Z",
@@ -79,8 +79,8 @@
     },
     {
       "id": "news-finance-a5b95db768",
-      "lat": 39.73603,
-      "lng": -76.54836,
+      "lat": 39.69765,
+      "lng": -76.56046,
       "title": "Trump $1 coin makes him first living president on US currency in a century",
       "category": "FINANCE",
       "time": "2026-09-03T10:25:43Z",
@@ -90,8 +90,8 @@
     },
     {
       "id": "news-finance-b35fa6bd77",
-      "lat": 50.90909,
-      "lng": 7.37957,
+      "lat": 50.85452,
+      "lng": 7.3636,
       "title": "So Much Intervention Talk Is Making Markets Jumpy",
       "category": "FINANCE",
       "time": "2026-09-03T10:22:42Z",
@@ -100,9 +100,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONy1CWmx4RUhLT2dneGd0NlprOU8xdnZFSHpaeGRvSzhUT19XWXBnQ2d0Vzh2d09Weks4eHRhNzk0d202dFp5eE1hcExYeGVrcTMxOUhFaE9wd0hVbjIzM1VSaEp6cTlzTmN5NkpOeVNUMkJaRC1SOUFDTlpJWG0wemx5QWRGTFBBWVNWaHlrN1M1UElIeEsyVXREd1lrenpqZTBoZG9R?oc=5"
     },
     {
+      "id": "news-finance-78ea197151",
+      "lat": 35.71483,
+      "lng": 139.78421,
+      "title": "【アナリスト評価】東京建物、レーティング強気を継続、目標株価4,600円に引上げ（日系中堅証券）(アイフィス株予報)",
+      "category": "FINANCE",
+      "time": "2026-09-03T10:15:00Z",
+      "summary": "【アナリスト評価】東京建物、レーティング強気を継続、目標株価4,600円に引上げ（日系中堅証券）(アイフィス株予報)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUnBVaDRrYkVwSzR4bHNhc1VvZnc1aFNGYVlDVjlEekgzOC1rRXhzUkUwVEh6RnpQelFBcDhJT2NoMVhCOV80bE1paGo2anZEMUZnSksxV1ZVc004eGZhdDdfVjhVMTktSi1jcUFid0pMQmhrNW1ETVJEQS1MaUdjN2NLa3BZdjA?oc=5"
+    },
+    {
+      "id": "news-finance-4437066828",
+      "lat": 34.8725,
+      "lng": 138.56226,
+      "title": "【アナリスト評価】スルガ銀行、レーティング中立を据置き、目標株価3,000円に引上げ（日系大手証券）(アイフィス株予報)",
+      "category": "FINANCE",
+      "time": "2026-09-03T10:12:00Z",
+      "summary": "【アナリスト評価】スルガ銀行、レーティング中立を据置き、目標株価3,000円に引上げ（日系大手証券）(アイフィス株予報)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDhSdHhpT2kzT0JyaC1UODlKR2pud3dGZl9jVnpvaHpkcVFjVERFU05vNmg1S2tRNE1sZ2pidEtRaldXLTFrOXpQS0F1a3ROTWEtME50RlphSmQzSnpkOWlzRHFqenNBbzE5UkZoLWlHRU5iUDJWcU9BdEowR281bk9OTU1OblE?oc=5"
+    },
+    {
       "id": "news-finance-52de32037a",
-      "lat": 48.98214,
-      "lng": 11.35638,
+      "lat": 48.98574,
+      "lng": 11.43917,
       "title": "Free travel pilot scheme for young people approved",
       "category": "FINANCE",
       "time": "2026-09-03T10:08:41Z",
@@ -111,31 +133,53 @@
       "source_url": "https://www.bbc.co.uk/news/articles/clyk1nm6gv1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-finance-685edae34d",
-      "lat": 57.8277,
-      "lng": -5.04305,
-      "title": "How prediction markets differ from sportsbooks | Letters",
-      "category": "FINANCE",
-      "time": "2026-09-03T10:08:00Z",
-      "summary": "How prediction markets differ from sportsbooks | Letters&nbsp;&nbsp;The Tennessean",
-      "source_name": "The Tennessean",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMG1iOE91NkgwMFJKNkRnSXZSXzF2dmc3czBxMkVnSXpISVYtUjNFdlVaQ29RMzhfZUszakt5Q2FFNmNDUG40MFk2NVY1em5KSTFkVmhfMW9oWk9OLWU4NGNtMmZWOU1mV3ZxVURHVzJHamVrRklOMTdKTVBTNVZXQVE1LVJxQU1hU2ExRHdvSks3YmI4d2QwYXNBcHY3SWVhV29GSno2X2g5YzF2Sk9QSGtqYmdHc1E5cnF2VVFYdEVuVWRCWnRvSlJn?oc=5"
+      "id": "news-disaster-bc39decdd4",
+      "lat": 46.12707,
+      "lng": -1.20392,
+      "title": "N.J. weather: Flash flood warnings issued with multiple rounds of thunderstorms in forecast today",
+      "category": "DISASTER",
+      "time": "2026-09-03T10:43:00Z",
+      "summary": "N.J. weather: Flash flood warnings issued with multiple rounds of thunderstorms in forecast today&nbsp;&nbsp;NJ.com",
+      "source_name": "NJ.com",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVNKYnJjYmJxb0xROHZYcXM4bVoyUVIyQTg2cWRpYTVWcDFYaDZqbmhPQ1BnZGdjSE9zcGNJeXYtbnpuRlpTbHloS2hBdXZoY0YxU29BR0wzWkd0Z2Y3M1p0OWExbmdCYzNnYVpjMW9vQV8tdTFYOGh3YnFzdTY4d0tNaVVZc19KUzJJS1lXSzQ1a2QxWGxKaVhOeTBhNzNSRE9uRl9BNlExNFdKQUIwdTFpTlhxNGsxN2xPTE9NOVJGcGlpTWFVM0lWTW9Wc2fSAeMBQVVfeXFMTTgta0xEMlJNX2ZYVjNMNkFCWW5HMGhvaV8zMno0VUpycjh4elhUVHdDdnVWYnptdnFOeEJZTVRQZk4telc1Q05SNnBvRlJFZXUzdlNIMDg0VUstMHM2UmR2eVlOdDhJd0xBaDZuRUZtbW1HTVVjVW91a011WDJVLVBnY1djODVwRElQVmtHYUdfZ1BIY1RrckRuSE5RVmV1NTd5bW5nX21jdW9ERmxVSlI0dEtXVzFqZUlNV0Jsb211MUtZQWZ5b3FUSXhReW54V2tSdUlxc2tiV3FvejhIMUtjWkk?oc=5"
     },
     {
-      "id": "news-finance-ddbdc4a782",
-      "lat": 36.54545,
-      "lng": 139.23315,
-      "title": "Japan FX chief Mimura says on alert over yen moves, not reassured",
-      "category": "FINANCE",
-      "time": "2026-09-03T09:57:44Z",
-      "summary": "Japan FX chief Mimura says on alert over yen moves, not reassured&nbsp;&nbsp;Reuters",
-      "source_name": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3NMVnIydWl1Yk42VUEzbWlBaWNIclZkYks4UlJrZlZQZlkxUHhCOFFmcUxxWmR3dnBWYm1FTUFwU1JnMW5MQ1RHZjdldC03Z1hadFM3bVI2RU5XVmNrZHNrTWhvbHF5b0tHWHNjVnhJTmVNQXRrc3ZXQjBUMVUtMk92SWE0NmFjTGJnVjg3SEYyQk56TVdJLUhvTUd6ak5VZFU2czA0Qk5IUENXSnFmeE0yVGx6REk?oc=5"
+      "id": "news-disaster-d5f94ec3c8",
+      "lat": 35.68472,
+      "lng": 139.72871,
+      "title": "台風24号》で警報級大雨の恐れ 週末にかけ最大500ミリの予想 土砂災害や浸水に警戒【高知】（高知さんさんテレビ",
+      "category": "DISASTER",
+      "time": "2026-09-03T10:41:01Z",
+      "summary": "台風24号》で警報級大雨の恐れ 週末にかけ最大500ミリの予想 土砂災害や浸水に警戒【高知】（高知さんさんテレビ&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tVVRkSnA3aFZuZ3BqV3Noa2VESVRzYnNRQ2NKcTFyck1GWWNnQ2ZMcDBxME81SmdORDNfeV9ibUhpcWUxV3hMVmg0MXV2eWpoLUlDQzdQQ2ZUVlcwSUlqTUp4VWxTNWlYZzhNTXU0NWxNbzhIX3U2eXdnSlB1Y28?oc=5"
+    },
+    {
+      "id": "news-disaster-a2f5118957",
+      "lat": 34.28366,
+      "lng": 132.90547,
+      "title": "台風24号が奄美に最接近 進路定まらず“迷走”へ――空の便38便が欠航フェリーや高速船にも影響",
+      "category": "DISASTER",
+      "time": "2026-09-03T10:34:00Z",
+      "summary": "台風24号が奄美に最接近 進路定まらず“迷走”へ――空の便38便が欠航フェリーや高速船にも影響&nbsp;&nbsp;日テレNEWS NNN",
+      "source_name": "日テレNEWS NNN",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObF9IVER0cjdaclNiejJwVTU4YllTQnE1S0VjbXJUR2VKSV92eUVGZmFpcE5rOWFwUTAwbVYtM1VaTHA1UW1fb0FIX2VxSFFWV1UxRGZiOEYwckVzZjFkM0VuNWo4aS1wUTg5emF3U0plMDRJM1hUakR5cmJYRzNIeGRLMjhFN3M?oc=5"
+    },
+    {
+      "id": "news-disaster-8d263aac12",
+      "lat": 34.125,
+      "lng": -118.32273,
+      "title": "いつどこで起きるか分からない豪雨災害 福島県が情報連絡会議を実施（ふくしまNEWS -KFBデジタル-）",
+      "category": "DISASTER",
+      "time": "2026-09-03T10:33:52Z",
+      "summary": "いつどこで起きるか分からない豪雨災害 福島県が情報連絡会議を実施（ふくしまNEWS -KFBデジタル-）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BZE5hT19qNEdXM25xMHluQWhZV1JBR3JOaWhxRnF5ZzNweU5ka0VxRWN6Q28wVkFBbXVsNlpHWDBWRDF0ZFhPVmpQTHluSkxTamt4M0lQbnNTZDBmRFlzMzVCc1YtMDV5Qkl6MzNYU01XQ0lHY1hzNEVpel9UMFU?oc=5"
     },
     {
       "id": "news-disaster-f4d150bed9",
-      "lat": 32.74042,
-      "lng": 130.69661,
+      "lat": 32.7318,
+      "lng": 130.79704,
       "title": "[TKUニュース 26.09.03 19:00 ] 熊本地震 熊本市南区で液状化被害 工事の有無で明暗？【熊本】",
       "category": "DISASTER",
       "time": "2026-09-03T10:31:08Z",
@@ -144,20 +188,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zVGJMNTlYeXg4Um0ybDVHaWJrY0VYdHliMGF0b2pPRk1aeGV3LThfM1lYZW10UzJSbjNTREU3bGg1eVluWlpqbFprSmF5ZV9WR3RfMkJwdkotUXU3bUxxNXF1VQ?oc=5"
     },
     {
-      "id": "news-disaster-9af91d78a4",
-      "lat": 40.01417,
-      "lng": -75.16488,
-      "title": "Our summer of floods | Inquirer South Jersey",
-      "category": "DISASTER",
-      "time": "2026-09-03T10:30:00Z",
-      "summary": "Our summer of floods | Inquirer South Jersey&nbsp;&nbsp;Inquirer.com",
-      "source_name": "Inquirer.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjZOX09zblQ4VGNTQzFTUVJPbnRSVGpyN2wzSUhKdTRXazlkT2g4WW1Vb2pFTDE5X2k3TjZZNFdLbFpJQ2dKZFozVTQwTElsLU5vRWhESHBOLVNxc1JvWTBUMENmQXk2MEhWTjcxYVZOOXdNNmc5dUV1dHZlVTdXNUt4V3YyaEJsWXNER2hER3NOMFdxbWxnSUlDTTdPTEpHRGlrYU93Tlhnc1dEWG5tX1VTUXFINGQwZ195bFRDR2I1N1lLRkl5N2gtR1k4d0xz?oc=5"
-    },
-    {
       "id": "news-disaster-5765158d9a",
-      "lat": 17.44883,
-      "lng": 78.47701,
+      "lat": 17.41784,
+      "lng": 78.46922,
       "title": "Delivering aid to Nepal flood survivors 'very, very difficult': UN",
       "category": "DISASTER",
       "time": "2026-09-03T10:29:45Z",
@@ -166,42 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc0N6UEE0RG5kdld0UUNIY0h5ZlBEM2F1RFhmNmI5R1U1VjNWeUtGUml5QTRRMXF0VkFFTkZwUXRzdlc2bVlra21sTkphSnZ3UFFiUG51c2tOQmY1MzZ2eVlmUkJSUk15aTl4M1RUbVlXU0VKdTZRTFFhZFBJMGs5dlQ3OF93SU5IM0Vxc1g4eFJMeU40MVhpMg?oc=5"
     },
     {
-      "id": "news-disaster-a5436f2c8b",
-      "lat": -34.64573,
-      "lng": -58.41737,
-      "title": "Before the Hindenberg, another airship crashed over Ohio",
-      "category": "DISASTER",
-      "time": "2026-09-03T10:26:34Z",
-      "summary": "Before the Hindenberg, another airship crashed over Ohio&nbsp;&nbsp;Axios",
-      "source_name": "Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYmJBWG5rRHFvT2RVeTlIRmVCQ3NHU0x5YWQyR3lBMVk1ek9sZTUxZ3NkUTF5dkVpcTlPZjRTVjh6RVQzb1pTMTVGTkxPdjdOQmtZeGt4cWVSWjlWT0NjbUFJMzhCdXc3aE9FTm1UNVJycTJTRTM3cVFDODJIeXUzMEE3Yw?oc=5"
-    },
-    {
-      "id": "news-disaster-c4cbf703e0",
-      "lat": 33.71523,
-      "lng": 130.46444,
-      "title": "【台風情報】動きが遅くなる台風24号 前線は南下し、ほとんど停滞の見込み 東日本から西日本の太平洋側を中心に広い範囲で総雨量が多くなるおそれ 【進路予想・雨と風のシミュレーション】 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ)",
-      "category": "DISASTER",
-      "time": "2026-09-03T10:18:00Z",
-      "summary": "【台風情報】動きが遅くなる台風24号 前線は南下し、ほとんど停滞の見込み 東日本から西日本の太平洋側を中心に広い範囲で総雨量が多くなるおそれ 【進路予想・雨と風のシミュレーション】 | 山梨のニュース | ＵＴＹテレビ山梨 (1ページ)&nbsp;&nbsp;TBS NEWS DIG",
-      "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TTDM5LXpjcWZWQVdlZ3hjbTIyNlpOUThORkxDYTdWdERTVFd3dFJ5MURILXZuWjhkR0F4TklsRldmclhCcWZlNi0tZFR6TWZrc2NTX2psN2wxQmtEMzQxaHpSeThRcXc?oc=5"
-    },
-    {
-      "id": "news-disaster-9760d2a89a",
-      "lat": 35.04305,
-      "lng": 135.79622,
-      "title": "京都府内は5日にかけて 土砂災害・浸水・増水に注意（KBS京都（京都放送））",
-      "category": "DISASTER",
-      "time": "2026-09-03T10:13:21Z",
-      "summary": "京都府内は5日にかけて 土砂災害・浸水・増水に注意（KBS京都（京都放送））&nbsp;&nbsp;Yahoo!ニュース",
+      "id": "news-accident-3b78d70d74",
+      "lat": -8.35558,
+      "lng": 115.58455,
+      "title": "「ヒヤリハット」を地図で可視化…運転データで交通事故防止へ あいおい損保など約50団体が分科会立ち上げ 福島",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T10:42:19Z",
+      "summary": "「ヒヤリハット」を地図で可視化…運転データで交通事故防止へ あいおい損保など約50団体が分科会立ち上げ 福島&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51dnpPUlZtSjBjMElURE95LTdGbUxSRWhPMzNKdkNMd25uRG5ueW5VMFJMd2k0MThXc0JVa082UDg2NHhWcFZ0Mnd0LUhXOEIzUlp4MWQyUFo4WTBLN3hWX1ZKNDlZdzRoT3Q1bUNzbEZtalo2U0hXWnZGbGYxZTQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yN2xfcy1UZjJWaWpVeHc0bElWMS1HX0ZodG91ZFNWRWFEMlBQVGNyYmZhNnBiWlMwNU9mUVo1TTRGR3A0ajRxZDh4aDlZcXZVM2RzcE9fYlVvYVNra3dORG5ESUpiQWgzd2VnTmlRMXpxaWhxVEZ3RV9TSENsSnM?oc=5"
     },
     {
       "id": "news-accident-984ecdf568",
-      "lat": 32.80834,
-      "lng": 130.74175,
+      "lat": 32.72995,
+      "lng": 130.73729,
       "title": "イオンモール熊本の爆発事故の原因究明へ調査委員会が初会合",
       "category": "ACCIDENT",
       "time": "2026-09-03T10:34:29Z",
@@ -210,20 +221,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zSGVWSmx5M1FlTFdXS05FcmlxZExuZHV4aXkwWjExNVNjVmxQemVTNGt5dElNd3E0NVhxZHFFSVB4OXFRbWlWeEJobEZSS3JiemhrWG1n?oc=5"
     },
     {
-      "id": "news-accident-e3dd1f123a",
-      "lat": 34.40056,
-      "lng": 132.42353,
-      "title": "大竹市でインドネシア人の技能実習生がミキサーに巻き込まれ死亡　塗装作業中の事故　広島",
+      "id": "news-accident-de5518e165",
+      "lat": 43.11895,
+      "lng": 141.37538,
+      "title": "無免許運転罪に切り替え起訴 札幌の追突事故 過失致傷とひき逃げは不起訴 - hokkaido-np.co.jp",
       "category": "ACCIDENT",
-      "time": "2026-09-03T10:30:00Z",
-      "summary": "大竹市でインドネシア人の技能実習生がミキサーに巻き込まれ死亡　塗装作業中の事故　広島&nbsp;&nbsp;ｄメニューニュース",
-      "source_name": "ｄメニューニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LNjhtM1Y0RUNZMHhzOXEtcGh5b1Vka3E2VXVKTHF2SV9Vd1p1X3EwUzVEbThQS1psY2diWUZ2Y1p3Q1hEQzdvdWxKUm43WWx2YUl4RkVXNWQ5eTlXOFhzZUtKaEpIS1ZEVFg1ZNIBckFVX3lxTE5nX2hDRmlkenRGR1ZIZ0d5c0pnWmZfTEdmU3dVSDlVUzJ1YU9UMm1NRlRnWFVsakFhTTJsODZtVlhUUmxhM0ZoRC1wS2hZUjFMQzZMNXM5dGVhcjkwcmN5RnVqajBva1hhVTdQUTZ4SGFYZw?oc=5"
+      "time": "2026-09-03T10:33:17Z",
+      "summary": "無免許運転罪に切り替え起訴 札幌の追突事故 過失致傷とひき逃げは不起訴&nbsp;&nbsp;hokkaido-np.co.jp",
+      "source_name": "Google News (日本語)",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OWk9fVkhjbnpzSkdDRzR3TnlYRThNWFg2LVYzdkpnaC1OY1QyTk41R3RJMDg2RlhQSDYwWkx4QThUdTBjTEVSZ0h2OGV6Z3BwVUR2aUFPdHdHQQ?oc=5"
     },
     {
       "id": "news-accident-9d8502306d",
-      "lat": 32.8464,
-      "lng": 130.7318,
+      "lat": 32.75761,
+      "lng": 130.68938,
       "title": "イオンモール熊本爆発めぐり事故調査委の初会合 現地調査のデータや再現実験などから原因究明へ",
       "category": "ACCIDENT",
       "time": "2026-09-03T10:19:00Z",
@@ -232,20 +243,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX1hFOXBuZ0FiTU5rMVI1eWQ2bTd5TVJtRVROc01KMUdhMVVpNWdYVWllZkRJbU5INEhQUUpJYzh3N2RndWFERDZqWkxVX0VJU0plQjJDUk9sbzRDQ3lEQUtjVDB1eUdNbmU1YUFwOG0zMWY0ZVI4TEI0UUZrb3h0Y3hqN05JZW8?oc=5"
     },
     {
-      "id": "news-accident-d2f4b5fe07",
-      "lat": 32.79147,
-      "lng": 130.73677,
+      "id": "news-accident-08bf3b1b31",
+      "lat": 32.77722,
+      "lng": 130.69793,
       "title": "「経験ない事象」 原因究明に向け事故調査委が初会合 漏洩や着火源のシミュレーションへ ＜イオン熊本爆発事故＞",
       "category": "ACCIDENT",
       "time": "2026-09-03T10:06:00Z",
       "summary": "「経験ない事象」 原因究明に向け事故調査委が初会合 漏洩や着火源のシミュレーションへ ＜イオン熊本爆発事故＞&nbsp;&nbsp;TBS NEWS DIG",
       "source_name": "TBS NEWS DIG",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90VTZVVWFKMTREWHBjWXI3WHJtVUpaZE5MV0FrRGZMdGpXZTcxWTBDN0haZ1VGemV0S0FHN29JSXpWMWNWdWppWTlLcXgyeGxwTUFld0xiVzZsdUFtMkNWWGloS04?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XN29lQXBza05qZTRZbW1scFFwYk5LUmxhd25QWS1BcnRfbk5RU2RfcUVBTmEySTZwbjB5bmUzc0dBOWtndW1qbU9qZHg3ekxodmF0QWZWanB5X2Nsc2d4Ym1OY0FJeUk?oc=5"
     },
     {
       "id": "news-accident-b4ad7983d6",
-      "lat": 26.28089,
-      "lng": 127.78153,
+      "lat": 26.24518,
+      "lng": 127.78895,
       "title": "倒木事故受け緊急点検、北杜の県キャンプ場",
       "category": "ACCIDENT",
       "time": "2026-09-03T10:00:44Z",
@@ -254,31 +265,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BZjQydFRkVlVwN3pqVVZNXzQzNDVyd0JybzRESWIzVUhpQ05fYzZmbEtZXzdsZWZrNWpMNHNFU29VN2V4SGhIVDVIcjVIdUxWc2xIQzVmSWZkWXZ3TzFoY1NPR1Y?oc=5"
     },
     {
-      "id": "news-accident-df7a2f3229",
-      "lat": 33.59025,
-      "lng": 130.45327,
-      "title": "川で見つかった男女2人が死亡 「助けて、と声がした」と通報 福岡 [福岡県]",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T10:00:00Z",
-      "summary": "川で見つかった男女2人が死亡 「助けて、と声がした」と通報 福岡 [福岡県]&nbsp;&nbsp;朝日新聞",
-      "source_name": "朝日新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tY0NSRjhPV1d6UnBIZ2dTdG1WQm1iMFFtN3FWN19CSlR3cy10SGp4QU5iVFRodFUtbnlnaDFOTmU2b0p6WFNZR1kzc3ZWTk5SVVllTTdDMGlxdkVVSjJxaTNCa3ppZw?oc=5"
-    },
-    {
       "id": "news-disease-86ef49360b",
-      "lat": 3.45268,
-      "lng": 21.67371,
+      "lat": 3.55267,
+      "lng": 21.67609,
       "title": "WHO warns Ebola outbreak in DRC spreading rapidly",
       "category": "DISEASE",
       "time": "2026-09-03T09:43:29Z",
-      "summary": "WHO warns Ebola outbreak in DRC spreading rapidly&nbsp;&nbsp;Peoples Gazette Nigeria",
-      "source_name": "Peoples Gazette Nigeria",
+      "summary": "WHO warns Ebola outbreak in DRC spreading rapidly&nbsp;&nbsp;gazettengr.com",
+      "source_name": "gazettengr.com",
       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Y0xtWE05UklRTGhzTGpEcGt1WnltaXU1UVlRMk5ybDh4TEMzdlE0R1pGRWNvbTZnR3ZhNk82RklzUDFtS09WaTRDY2YyeTN2RVFtZUhqenU2ek9kVUtPTzNQNGp2SzhjRGpyYjZ2cFZVNGhmRTNUdm9YUW81Zw?oc=5"
     },
     {
       "id": "news-disease-4a5e75a67f",
-      "lat": 3.48436,
-      "lng": 21.65648,
+      "lat": 3.47334,
+      "lng": 21.69958,
       "title": "WHO warns Ebola outbreak in DRC is spreading rapidly",
       "category": "DISEASE",
       "time": "2026-09-03T09:20:37Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-344b23038f",
-      "lat": 35.03191,
-      "lng": 135.72878,
+      "lat": 35.01863,
+      "lng": 135.76578,
       "title": "世界のヒト免疫不全ウイルス1型（HIV-1）感染症の市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-03T08:00:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-aecf8fda14",
-      "lat": -3.01838,
-      "lng": 23.83495,
+      "lat": -3.01696,
+      "lng": 23.8427,
       "title": "Congo's Ebola outbreak shows no signs of slowing",
       "category": "DISEASE",
       "time": "2026-09-03T05:00:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-fb3f348f15",
-      "lat": 58.19659,
-      "lng": 7.97596,
+      "lat": 58.09234,
+      "lng": 8.02061,
       "title": "Grim milestone as Ebola outbreak continues to grow",
       "category": "DISEASE",
       "time": "2026-09-03T02:29:43Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-e95442fccb",
-      "lat": 14.35135,
-      "lng": 33.53075,
+      "lat": 14.42278,
+      "lng": 33.50076,
       "title": "マダニ感染症、広がる感染地域 ハイキングや農作業、犬猫にもリスク",
       "category": "DISEASE",
       "time": "2026-09-03T02:00:00Z",
@@ -331,9 +331,42 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UX2tqUHpzazl0dk9SZWtVRDBLb1J2clBlUEExTTRmUGlmakFiR05Fd2JVZGhMR1pCdVgxQnlWaWFrWkVzOWZTY0xQRkRNUFlPTU9MazZMdGN2c0lvV245LVpCR2dHUzg?oc=5"
     },
     {
+      "id": "news-technology-f00d6dccd1",
+      "lat": 34.19196,
+      "lng": -118.40609,
+      "title": "How to reduce AI token costs across your business - News Channel 3-12",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T10:44:22Z",
+      "summary": "How to reduce AI token costs across your business&nbsp;&nbsp;News Channel 3-12",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWTJJbDJUUmFXQnBUV3E5c185ZHRwVnJfZEM5WXRqU3d2MG8wM0NISVpYX3NZQTY3MnBOaHVFeldRbE9EZUdSajQ1bWpPTDkzZHJWLWlxMGhjdG94MTdxN0FvdERCakhQNWYwU1h6VHJRUnpvZFRva1c0bmlpcGFtVFdWS1JxcHFXbDBwYXJUdEQ3LXBUZWtIcE5ycVNnY2VCamZxcDNR?oc=5"
+    },
+    {
+      "id": "news-technology-ac65498b6d",
+      "lat": 58.69475,
+      "lng": 14.25159,
+      "title": "Survey: AI financial scams have already reached 2 out of 5 US consumers - News Channel 3-12",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T10:44:22Z",
+      "summary": "Survey: AI financial scams have already reached 2 out of 5 US consumers&nbsp;&nbsp;News Channel 3-12",
+      "source_name": "Google News (English)",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHprVWJuWi10YjZDU2NPZkU4cDVnWHhLaEQ3d2tycW9qV1ZqTldYR3ZSbndraWxwaGNvcHgtNV9QZ0pmS2xTX0dWUDQ4SWFlWl85ampvclpXVXVOUnhJU2RDeGNkb3JkVkQ5d2s4bERSZmhPa0tHa1VGcWVUSEdMS2ZPWEdlVWlPMHpoUzlENTg4RFhyeXBzU3NuM2Mwa3FJWjlZVldrNkdiT1VYZUMycEg5RElHNVZLc3lKVlNISUpHTms1SWVQUA?oc=5"
+    },
+    {
+      "id": "news-technology-eb2efcce14",
+      "lat": 21.59884,
+      "lng": 92.42895,
+      "title": "MegaRouter: Building a Trusted Enterprise AI Environment Through Data Protection and Traceable Model Usage",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-03T10:42:37Z",
+      "summary": "MegaRouter: Building a Trusted Enterprise AI Environment Through Data Protection and Traceable Model Usage&nbsp;&nbsp;markets.businessinsider.com",
+      "source_name": "markets.businessinsider.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOdDZfNnhvckNOOVg3d0lKdkNWMzVJRXJWM2duSUZfSHB4Mm9Qc1B4cjdUNThMaG9IdExiVUdHRWh1N0hlTnF5dlA2WXIxaVNfdG03ZUl3a1NBcWxQTXZwbkVBalM0VXhLZUJPWG14NWEtekxyaDQ4UDNPQzVWdy1wV3o2U3BIQ0dta1o2S1AwbVRMbVNHNTQ5b0V0Y2QtdWthRjZxc1dZVkZPMjEzbWdJRkpzdDVZdDZ0bTNXTHRNa2sxWm91ejNORmdOaGl5U1dlQmNESkdQWVhyY3Fnd0ZNcjBZNmFkVmRjVVJoa0J2NmZhV1RIdzk0?oc=5"
+    },
+    {
       "id": "news-technology-f1cbd7d83c",
-      "lat": 38.86049,
-      "lng": -77.08153,
+      "lat": 38.94225,
+      "lng": -77.06006,
       "title": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T10:32:52Z",
@@ -343,58 +376,25 @@
     },
     {
       "id": "news-technology-767d80b82f",
-      "lat": 34.61255,
-      "lng": 135.48471,
+      "lat": 34.64583,
+      "lng": 135.38281,
       "title": "生成AI時代のパワポ活用術・スライド資料づくりを体系的に学ぶ！ 9/25（金） 無料セミナー「AI時代のPowerPoint活用術 Vol.8」",
       "category": "TECHNOLOGY",
       "time": "2026-09-03T10:30:01Z",
-      "summary": "生成AI時代のパワポ活用術・スライド資料づくりを体系的に学ぶ！ 9/25（金） 無料セミナー「AI時代のPowerPoint活用術 Vol.8」&nbsp;&nbsp;prtimes.jp",
-      "source_name": "prtimes.jp",
+      "summary": "生成AI時代のパワポ活用術・スライド資料づくりを体系的に学ぶ！ 9/25（金） 無料セミナー「AI時代のPowerPoint活用術 Vol.8」&nbsp;&nbsp;PR TIMES",
+      "source_name": "PR TIMES",
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Zcy1xeG5IbnY5UEY0YkZkOVM5VUhIVzlTa3N3YjBjS05aTjVEaHdnQ055Tk1RQXlxOGNCamhRNzNpa0N2bUVSd2ZlYlFEY0tHZXlQMzN2NFNvMHFieFlFQ3ZtTmJzOEt6RGc?oc=5"
     },
     {
-      "id": "news-technology-33d7bd2e58",
-      "lat": 32.355,
-      "lng": -90.93232,
-      "title": "AI Speeds Drug Ideas But Creates Costly Testing Bottlenecks",
+      "id": "news-technology-02643c6398",
+      "lat": -0.33936,
+      "lng": 127.92401,
+      "title": "Cango Inc.'s AI Subsidiary, EcoHash, Announces Operational Milestones: Completes Dedicated AI Infrastructure Modification at Georgia Facility and Begins Commercial GPU Compute Services Using First Batch of GPU Servers",
       "category": "TECHNOLOGY",
-      "time": "2026-09-03T10:29:01Z",
-      "summary": "AI Speeds Drug Ideas But Creates Costly Testing Bottlenecks&nbsp;&nbsp;Bloomberg.com",
-      "source_name": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd1dVaDBka0pTcHc3OEJOQ1hjVlN6WF9ESUh5Z1RqdkNwX3RlSFZvRnduRWNWOGZUcGZMQjZELTZ2dlo1WVZ1cDdCdGdVVlBjRVcxdlZoZ0FxZl9SREQxR3BhRTVxUWhUbDhpNUdKZVJsQ2x4RGUzSVg1X25naWljUUI3bXc5YjY1S29BUC1IemE1ZXpjYTM3a29ZREJSdGpydFFmWUpYZXNNOW5ONHpWRjcxOE5ZVVF4RlBhakJ3?oc=5"
-    },
-    {
-      "id": "news-technology-e52f36db0b",
-      "lat": 34.51231,
-      "lng": 108.9402,
-      "title": "We cannot lose the AI infrastructure race to China, former WH CTO Aneesh Chopra",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T10:28:08Z",
-      "summary": "We cannot lose the AI infrastructure race to China, former WH CTO Aneesh Chopra&nbsp;&nbsp;CNBC",
-      "source_name": "CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHMwZVBOb2ptZHFJdXplc180amc2RFhHNm9vSGZ0cjcxZlQzZGZKelhPUnRDUVJhamtQcENNTVZEbzMzRFdSZUJUS2FRUTlGa3U1Zk52VHZmdlFYX243cHltdmU5eWVKRVJIb2xqdkRqNXhMY0toZ1BDRENjamw4ZkFlcVZKQXpDejBhT1NWRjhqODBGVE5iOVN6UWozOEhIMmstUThxUXVnRkxqSkhjakdzRjVUZFVkQzkxV3NR?oc=5"
-    },
-    {
-      "id": "news-technology-f6746a87e6",
-      "lat": 38.92842,
-      "lng": -76.98193,
-      "title": "Opinion | We managed financial crises. AI is a risk of a different kind.",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T10:27:06Z",
-      "summary": "Opinion | We managed financial crises. AI is a risk of a different kind.&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTdacWlmWHRrU3ZnU3Z6QlRBLVZjUlRKU0NfeUlyUVR3TTRhaVdhSGl0Tm5nUVdENmtMTm5fNi1SYWVxTG5nZHBBYWFPc3VNZHFrX2Jyc0UzRlREcU94QzRhc0cyckg1T0U0aE1rVnJ5Q2ZXRmQ0cl8xeGs1LWh2UVo4eHNIMlJzZjZCRmNIZXBnWEpVQndjSXlkM3ZrWkZLQlJXOFVB?oc=5"
-    },
-    {
-      "id": "news-technology-0252b34679",
-      "lat": 35.78413,
-      "lng": 139.89521,
-      "title": "グローバル・テクノロジー：バランスの取れたアプローチでボラティリティに対応",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-03T10:25:40Z",
-      "summary": "グローバル・テクノロジー：バランスの取れたアプローチでボラティリティに対応&nbsp;&nbsp;Moomoo",
-      "source_name": "Moomoo",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcG1CelE2ZkpnSl9GMkVEQmRtZTRPRXFlaExPVDNZR042YUphMjBscW1CWngwQmZvY0JIbHp6R0wtRDR0X095NC15b2R1WElQTDdmY1JMZDhXazB6aWJKcENoVUhncHRYYkRwS3c2OG1icExuM3FpN1UxOUtTNWRMb0tIdWh6dzY3VllPWnBJREx3VVJQUTJDRktEekVPUm1NUTAtWnN1clowLS1Uc0NyeVU3MXJ3VEZSVDFRLThn?oc=5"
+      "time": "2026-09-03T10:30:00Z",
+      "summary": "Cango Inc.'s AI Subsidiary, EcoHash, Announces Operational Milestones: Completes Dedicated AI Infrastructure Modification at Georgia Facility and Begins Commercial GPU Compute Services Using First Batch of GPU Servers&nbsp;&nbsp;PR Newswire",
+      "source_name": "PR Newswire",
+      "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNeldvM04zR2hvX1ZEVFFtckhnXzZaSWwzbWFORnkxaHl6VlZLTmJhVmU2ZFN1T0xiSWI1RHZCeTZJOWZlOWJ2OVZPSTVVVUxJR05uRTJhYW5lV2NUZEdKZUd0Zk5RQ190SXFtU0JPWm1Ec1Mxb3ZrWDRzcnJXTUhwUUZFbUU5NGhLSXdUWDk1cDQyaWRmc0RJVGhWUVJVWmdzd3RZcGM1WkxFV3Y4X0J1dXktbUdBTExhT1N1R0JXcnNEZE5sU0Nvc05SM1dmeHlTbzFlNk5IRFNOcG5JZ1Z0cDlZQVlCdDdscF91d3poTjVnYk1HdUFzc0h5cG9zU2lEal9jSEhfa3RMREdTR3pGRERJVGdmTlRWeHFZMXFqVWl4NTRUeTNMbDBqanRzZjNVQldrdTVjTnp1cVBQTlh4aXhwaFI1TmQ2TWhNVkxDYkFXVE9HNTl6ZW1wUGFaWUdnT0NRRHNHa1plUWphY3hmSWhiQnhLTXdjcHJCb2Uwd0JsUQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-03T10:38:18Z"
+  "updated_at": "2026-09-03T10:49:18Z"
 }
