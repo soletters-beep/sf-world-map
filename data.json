@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-9000a27302",
-      "lat": 36.50602,
-      "lng": -4.66974,
+      "lat": 36.56622,
+      "lng": -4.56843,
       "title": "Volkswagen board approves plan to cut another 50,000 jobs",
       "category": "POLITICS",
       "time": "2026-09-04T05:33:14Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "news-politics-7637bb98cd",
-      "lat": 51.00286,
-      "lng": -108.99813,
+      "lat": 51.00564,
+      "lng": -108.9562,
       "title": "米中間選挙を控えるアメリカ政治について、どう感じていますか？",
       "category": "POLITICS",
       "time": "2026-09-04T05:28:18Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-c166595c1a",
-      "lat": -9.58251,
-      "lng": 119.048,
+      "lat": -9.587,
+      "lng": 118.9813,
       "title": "2026年9月の政治・政策カレンダー：内閣改造と自民党役員人事、税制改正大綱、沖縄県知事選投開票",
       "category": "POLITICS",
       "time": "2026-09-04T05:23:29Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-4431aba831",
-      "lat": -35.01313,
-      "lng": -64.92523,
+      "lat": -35.0388,
+      "lng": -65.02233,
       "title": "Argentine leader threatens to sanction oil firms working off Falklands",
       "category": "POLITICS",
       "time": "2026-09-04T05:01:33Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-6a1612118d",
-      "lat": 45.47586,
-      "lng": 9.23109,
+      "lat": 45.40109,
+      "lng": 9.15913,
       "title": "メローニ政権、イタリアで「戦後最長」 国際舞台での活躍が信頼感に",
       "category": "POLITICS",
       "time": "2026-09-04T05:00:00Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-f32c6e8669",
-      "lat": 38.31893,
-      "lng": -86.49657,
+      "lat": 38.33797,
+      "lng": -86.48329,
       "title": "English: College football politics are ravaging the game — for Texas, the show still goes on",
       "category": "POLITICS",
       "time": "2026-09-04T04:44:48Z",
@@ -67,9 +67,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzZKaHZrRkduNTFMMFJVc3pmYi10QTJnbjU5RnpnOWc3RHFvUkg5emFpdnY2QXZ0TXJGdS1ZelJybk1YY1k5ajlMR2F3Tk5LbGNRNmR1aVlQWVhxNTdyWEY5OEZZWFBpdnZBU3d3T19rTE8zenN1SXRBZEJTMEtCSFc4U3hZZTBYNDgyV1RIX3pmVXBCZW5hVjR4UTRrYWRPaGZBSDhyQmkyWGRzaEhyUWk4T3dQa2Zxa1NpRGN3MzhMWXA3?oc=5"
     },
     {
+      "id": "news-finance-62be49c7a5",
+      "lat": 35.62979,
+      "lng": 139.69138,
+      "title": "ティアフォー株価、一時ストップ安 過熱感から売り",
+      "category": "FINANCE",
+      "time": "2026-09-04T05:41:21Z",
+      "summary": "ティアフォー株価、一時ストップ安 過熱感から売り&nbsp;&nbsp;日本経済新聞",
+      "source_name": "日本経済新聞",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xb0RualJBVFpHdDBON3dzODZ0NTRsUkhkT05UejZWTjRJT3dROFRBZXlJaFJSZUQyVEhCczFCMktfWXluUDR3THV0cEdoRk5wdndlb3F4b2R0SGp5OTNocHhKM0VwSjlkOV9ydQ?oc=5"
+    },
+    {
       "id": "news-finance-9000a27302",
-      "lat": 36.59919,
-      "lng": -4.61864,
+      "lat": 36.61061,
+      "lng": -4.57703,
       "title": "Volkswagen board approves plan to cut another 50,000 jobs",
       "category": "FINANCE",
       "time": "2026-09-04T05:33:14Z",
@@ -79,8 +90,8 @@
     },
     {
       "id": "news-finance-4a3d2a3f73",
-      "lat": 59.19284,
-      "lng": 10.29127,
+      "lat": 59.15027,
+      "lng": 10.24397,
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "category": "FINANCE",
       "time": "2026-09-04T05:09:02Z",
@@ -90,8 +101,8 @@
     },
     {
       "id": "news-finance-4431aba831",
-      "lat": -35.04762,
-      "lng": -65.00496,
+      "lat": -34.98729,
+      "lng": -64.95477,
       "title": "Argentine leader threatens to sanction oil firms working off Falklands",
       "category": "FINANCE",
       "time": "2026-09-04T05:01:33Z",
@@ -101,8 +112,8 @@
     },
     {
       "id": "news-finance-457556a4b4",
-      "lat": 35.7425,
-      "lng": 139.74905,
+      "lat": 35.7426,
+      "lng": 139.81082,
       "title": "ピジョン、岡三証が目標株価２４８０円に引き上げ 速報",
       "category": "FINANCE",
       "time": "2026-09-04T05:01:00Z",
@@ -112,8 +123,8 @@
     },
     {
       "id": "news-finance-c3b4a20974",
-      "lat": 25.2571,
-      "lng": 55.32172,
+      "lat": 25.23751,
+      "lng": 55.27919,
       "title": "ピジョン、岡三証が目標株価２４８０円に引き上げ(ウエルスアドバイザー)",
       "category": "FINANCE",
       "time": "2026-09-04T05:01:00Z",
@@ -122,20 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2JvbzlQMTBTa3BPeUdlTV9GbFBkU3dlejZTa25FNEU4TGdsT0txRkkybHpLbXJ4Wkl3a1Y4TWVPLVN2YS1CZnhMU0xPZ3hXNk1kTDBmcnlKNGlBNDNVMno3RFFwUDhEMElpby1Rd19RRThNM3FFUkcxeGJLd0FCTG15bXNHdHc?oc=5"
     },
     {
-      "id": "news-finance-1e79631fc4",
-      "lat": 25.21647,
-      "lng": 55.29629,
-      "title": "ニッタ、東海東京証が目標株価８４１０円に上積み(ウエルスアドバイザー)",
-      "category": "FINANCE",
-      "time": "2026-09-04T04:57:00Z",
-      "summary": "ニッタ、東海東京証が目標株価８４１０円に上積み(ウエルスアドバイザー)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnNtZ0hqazFKZ2d3Sm5fYkxtSXB2MnBtOGJKS2pSNS1ya0JvTjFrNmVPSTNDQmtaUEFHS19sV2dNeHU5TkVSUGFYN3F3SS1qZ0NGRHZBMU90OTlTLTNjMV9Ma3djVVAzVy11UHIyLThCMl9kcy05TkpiaHVxMFdoc0p0U0o1S0E?oc=5"
+      "id": "news-disaster-8283ff3254",
+      "lat": 37.32404,
+      "lng": -78.78367,
+      "title": "Flood Watch through the overnight hours",
+      "category": "DISASTER",
+      "time": "2026-09-04T05:38:00Z",
+      "summary": "Flood Watch through the overnight hours&nbsp;&nbsp;KOLD",
+      "source_name": "KOLD",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUktoUmc4OFF2ZndFSlZ1OEFzd1ppazRTTi0xX1NnVmZmMmhEeVZIV09mbGpsVjAtTVgtRW9rQTVBWUNlc0ZidWMzRm51VTRicmdrZGtJQWFmbXlBdEd0a0lNSEo5bmRVQ2lncXIxWThHRE1Lc2pwak5Bd2UtSXZzT2xR?oc=5"
     },
     {
       "id": "news-disaster-aa0f9777e2",
-      "lat": 36.76569,
-      "lng": -119.84311,
+      "lat": 36.6817,
+      "lng": -119.82634,
       "title": "Fresno State hosts public vigil as thousands remain missing after Nepal disaster",
       "category": "DISASTER",
       "time": "2026-09-04T05:23:36Z",
@@ -145,8 +156,8 @@
     },
     {
       "id": "news-disaster-81319f5c8a",
-      "lat": -38.0209,
-      "lng": 145.44021,
+      "lat": -38.07104,
+      "lng": 145.43064,
       "title": "Officer to combat homes pumping sewage into rivers",
       "category": "DISASTER",
       "time": "2026-09-04T05:15:24Z",
@@ -156,8 +167,8 @@
     },
     {
       "id": "news-disaster-d556823895",
-      "lat": 46.11491,
-      "lng": -1.17959,
+      "lat": 46.11747,
+      "lng": -1.1563,
       "title": "Flash flood warnings extended into early Friday morning in Western Pennsylvania",
       "category": "DISASTER",
       "time": "2026-09-04T05:15:00Z",
@@ -167,8 +178,8 @@
     },
     {
       "id": "news-disaster-c0675dada0",
-      "lat": 39.02662,
-      "lng": -95.27841,
+      "lat": 38.99325,
+      "lng": -95.25472,
       "title": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
       "category": "DISASTER",
       "time": "2026-09-04T05:13:54Z",
@@ -178,8 +189,8 @@
     },
     {
       "id": "news-disaster-90fb78b343",
-      "lat": 31.912,
-      "lng": 51.15521,
+      "lat": 31.92885,
+      "lng": 51.12171,
       "title": "Worker pulled alive from hydropower tunnel nine days after Nepal flood disaster – video",
       "category": "DISASTER",
       "time": "2026-09-04T05:13:00Z",
@@ -188,20 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMGw4S1dXWmN4dWxhQkx6YmxHQTd3UWtSaGZUdmV4bi1zeWF5cmNNdFBseUs3UGZmTGhWdG5PMTE0U3VhQ01mNWI4QzJ6TlJqR2ExalB6UEF6YzB4Y010X3hmLUx3NVMtNURVMV9SVjNhc3dMSi1OOVpCeEFwd1A3QlpHbi1rSm40WlJqZWFIZmktT1ZqV3IybGZFZDB2RnVMNkhvLW0xd2xtejJyUmliWHBpRnFjdmU2Ul90d180YmNSV3dlOGZjRm5NSXdMNHRXNXN3?oc=5"
     },
     {
-      "id": "news-disaster-592c6ef100",
-      "lat": 53.87437,
-      "lng": 8.72196,
-      "title": "Renewable energy in NI reaches record level",
-      "category": "DISASTER",
-      "time": "2026-09-04T05:11:45Z",
-      "summary": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "id": "news-accident-34f86297de",
-      "lat": 34.76571,
-      "lng": 135.82215,
+      "lat": 34.82702,
+      "lng": 135.75631,
       "title": "女子走幅跳デイヴィス・ウッドホール 交通事故でケガ 世界アルティメット選手権の出場不透明な状態",
       "category": "ACCIDENT",
       "time": "2026-09-04T04:24:14Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-2409367b5b",
-      "lat": 35.71888,
-      "lng": 139.80941,
+      "lat": 35.70642,
+      "lng": 139.75563,
       "title": "割烹こめを 東京・麻布十番納涼まつりの食中毒事故で謝罪『冷やし蟹ラーメン』が原因と認定｜9月3日〜9日まで営業停止処分、営業再開日は未定（ABEMA TIMES）",
       "category": "ACCIDENT",
       "time": "2026-09-04T04:00:37Z",
@@ -222,8 +222,8 @@
     },
     {
       "id": "news-accident-ae714d6759",
-      "lat": 34.73982,
-      "lng": 135.724,
+      "lat": 34.75684,
+      "lng": 135.81366,
       "title": "【陸上】女子走幅跳デイヴィス・ウッドホール 交通事故でケガ 世界アルティメット選手権の出場不透明な状態（月刊陸上競技）",
       "category": "ACCIDENT",
       "time": "2026-09-04T03:58:18Z",
@@ -233,8 +233,8 @@
     },
     {
       "id": "news-accident-a1e9a0e548",
-      "lat": -5.15623,
-      "lng": 139.92292,
+      "lat": -5.13385,
+      "lng": 139.92501,
       "title": "Woman Arrested for DUI After High-Speed Jackson County Head-On Crash; 2 People Injured",
       "category": "ACCIDENT",
       "time": "2026-09-04T03:52:25Z",
@@ -244,8 +244,8 @@
     },
     {
       "id": "news-accident-dc8ee3fc40",
-      "lat": 35.96976,
-      "lng": 139.33135,
+      "lat": 36.01128,
+      "lng": 139.35896,
       "title": "自転車ロードレース「ツール・ド・北海道」死亡事故から3年…競技中の選手が対向車線にはみ出し車と衝突して死亡→道交法違反の疑いで書類送検された男子大学生を旭川地検が“不起訴処分”〈北海道〉",
       "category": "ACCIDENT",
       "time": "2026-09-04T03:48:56Z",
@@ -255,8 +255,8 @@
     },
     {
       "id": "news-accident-8adf828101",
-      "lat": -24.7677,
-      "lng": 134.70724,
+      "lat": -24.81972,
+      "lng": 134.74059,
       "title": "オーストラリア 水の事故から子どもを守る教育",
       "category": "ACCIDENT",
       "time": "2026-09-04T03:36:22Z",
@@ -266,8 +266,8 @@
     },
     {
       "id": "news-disease-436cb232fe",
-      "lat": 36.13204,
-      "lng": 140.04951,
+      "lat": 36.05642,
+      "lng": 140.07629,
       "title": "在宅医療患者の9割超が複数の慢性的な病気を持つ | 医療・健康 - TSUKUBA JOURNAL",
       "category": "DISEASE",
       "time": "2026-09-04T05:15:00Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-5e0a5802c0",
-      "lat": 9.5734,
-      "lng": 7.94254,
+      "lat": 9.54694,
+      "lng": 8.01514,
       "title": "大腸がんを別の病気と誤診、ナイジェリアで早期発見の重要性が浮き彫りに",
       "category": "DISEASE",
       "time": "2026-09-04T05:10:50Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-b06e15e3ca",
-      "lat": -2.97246,
-      "lng": 23.83202,
+      "lat": -3.01475,
+      "lng": 23.85172,
       "title": "Congo’s Ebola outbreak slows at epicentre but widens elsewhere, modelling suggests",
       "category": "DISEASE",
       "time": "2026-09-04T05:00:00Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-4a335c141d",
-      "lat": 35.8814,
-      "lng": 139.28806,
+      "lat": 35.90252,
+      "lng": 139.2622,
       "title": "【筋肉医局祭2026】筋肉医局・阿部央聖代表が語る、医療とフィットネスで「病気の予防」へ——「医療者が病院の外へ飛び出し、自らの身体を通して健康を伝える」",
       "category": "DISEASE",
       "time": "2026-09-04T03:00:54Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-dc08f1a4a1",
-      "lat": 34.92904,
-      "lng": 135.17565,
+      "lat": 34.85797,
+      "lng": 135.12659,
       "title": "豊胸手術後の感染症：決して軽視してはならないリスク。",
       "category": "DISEASE",
       "time": "2026-09-04T02:51:42Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-2a78332f15",
-      "lat": 34.89221,
-      "lng": 135.18561,
+      "lat": 34.95826,
+      "lng": 135.15617,
       "title": "インフルエンザと新型コロナウイルス感染症の同時感染：決して軽視してはならないリスクです。",
       "category": "DISEASE",
       "time": "2026-09-04T02:23:17Z",
@@ -331,9 +331,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlN4Rk5wenpJLWZjVXQ3RTVfM0J6U1BlU3pxNmJjVnpTRnRHb3I3cjFtUmxnR2JvTXZPT21TOTJiMGdGR0pDVzQtQ0tnYm11b2h2UURCYlJES1lhY1VjZk5FR09LNml3UkFLRjRtSnh0T1NyZTdrb1lYRDZUT0NOSWd4dVc?oc=5"
     },
     {
+      "id": "news-technology-8481048e20",
+      "lat": 51.62795,
+      "lng": 0.39848,
+      "title": "C3.ai (AI) Stock Faces Revenue Slump Despite Early Margin Repair",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T05:38:53Z",
+      "summary": "C3.ai (AI) Stock Faces Revenue Slump Despite Early Margin Repair&nbsp;&nbsp;simplywall.st",
+      "source_name": "simplywall.st",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmZEamZFa1hUcWNGeEcyMzZuU1hrTGk0ajlTeWtlV1ppQVRNMEZmODJpTm0waWk5aVVWSkhQZEEwS3Bkalg2SzVROERSUS1mZnJPOW8xdFlHNXFmb212VkRnQVRmcG81Qi10RzRmckFoMFpsQjdudDRTeEcyZDBYcjVQUzBORXdtOHRPSHExMmVUS01pQVB3ekVXeUtCREtFZnJyczc0TGR2RzI5Z1hTQk0tLUJSWXhWQ2gw0gHAAUFVX3lxTE1JTWRMQXpyLXo2SjlEaFp3X3FralpkTDdlMnVIYnRCLUw2U3Q2UENCSjZybmFMOTVrdF9zTTdXSHN3eTJvY2c2dlVFUkpBbmROaEcwV3BhOWNMenlCSjFEcnZMaWUyczF2MEdBTkRpcUJWT2Ixb2hLTDkya0FfLTRFdGd2XzRqalF0Qmlzd1lqYW9FR0l3em1naUdHTnNnbkREUG1KcDNiSWxsMDZ2LUNHcHhDWDJxLWo1WFdTaTZzYw?oc=5"
+    },
+    {
       "id": "news-technology-3cefdee26e",
-      "lat": 35.11219,
-      "lng": 136.97127,
+      "lat": 35.20479,
+      "lng": 137.0592,
       "title": "AIで2D図面を3D CADモデル化、アセンブリからバラシ図面の作成も（MONOist）",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T05:30:11Z",
@@ -343,8 +354,8 @@
     },
     {
       "id": "news-technology-2e75290f8a",
-      "lat": 60.64832,
-      "lng": 22.64254,
+      "lat": 60.59208,
+      "lng": 22.63762,
       "title": "AIが「思考する物流基盤」に進化、『EPG AURA』を日本初公開へ…国際物流総合展2026（レスポンス）",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T05:30:03Z",
@@ -354,8 +365,8 @@
     },
     {
       "id": "news-technology-e017405920",
-      "lat": 38.86607,
-      "lng": -77.04866,
+      "lat": 38.89809,
+      "lng": -77.06106,
       "title": "Figure AIとNscaleが戦略的提携 NVIDIA Vera Rubinで最大10万基のGPU展開へ",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T05:25:02Z",
@@ -365,8 +376,8 @@
     },
     {
       "id": "news-technology-548fead7af",
-      "lat": 40.40239,
-      "lng": -74.65825,
+      "lat": 40.31203,
+      "lng": -74.65321,
       "title": "Princeton considers AI and data science-focused ‘evolution’ for ORFE department, specifics unclear",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T05:18:00Z",
@@ -376,25 +387,14 @@
     },
     {
       "id": "news-technology-b3798e4c4a",
-      "lat": 35.90083,
-      "lng": 139.68079,
+      "lat": 35.91084,
+      "lng": 139.57434,
       "title": "AIで作ったメルマガはバレる？ 「冷たい・手抜きっぽい」が4割超【ユミルリンク/ライトアップ調べ】（Web担当者Forum）",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T05:17:08Z",
       "summary": "AIで作ったメルマガはバレる？ 「冷たい・手抜きっぽい」が4割超【ユミルリンク/ライトアップ調べ】（Web担当者Forum）&nbsp;&nbsp;Yahoo!ニュース",
       "source_name": "Yahoo!ニュース",
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yTG1iWGUzMWkwb1pybDgyYnlXRDZwdWI1ckdsbDdnc3Z4OThYSWdNMUZRUkpXNWdfQzMwUUVLMGhIRUx0UG5taHNPWWJTNVI5LWFFV01pYTdGTm14Q0Fzd0M4MlVCNDJnazBjZWpFXzRvVUE3NHpfS3lVOTRhSms?oc=5"
-    },
-    {
-      "id": "news-technology-4a3d2a3f73",
-      "lat": 59.12076,
-      "lng": 10.3191,
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T05:09:02Z",
-      "summary": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-04T05:37:03Z"
+  "updated_at": "2026-09-04T05:49:58Z"
 }
