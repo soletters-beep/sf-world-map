@@ -1,9 +1,31 @@
 {
   "news": [
     {
+      "id": "news-politics-34f48ef8ec",
+      "lat": 45.35217,
+      "lng": 13.78138,
+      "title": "Meloni breaks Italy’s post-war political record",
+      "category": "POLITICS",
+      "time": "2026-09-04T02:13:36Z",
+      "summary": "Meloni breaks Italy’s post-war political record&nbsp;&nbsp;euractiv.com",
+      "source_name": "euractiv.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTZ6bUhBTTN5dksxdGhPLVlCbFZaZkdwWjhsS0I4NXk1N0F1dUp1Z1FobHFyTkJ4WEFicE5zWFBoMWY1SUlZR0NsNjZhQm1zMlBjZUhKTTVmdGVnRFJkcXlRSkY0b3l6eWE1dGVtQjkyR1RDcS00QjU3eG5WVkRnbWxKbw?oc=5"
+    },
+    {
+      "id": "news-politics-6137ad32f1",
+      "lat": 43.04861,
+      "lng": 141.39998,
+      "title": "【ニュース読み上げ】「全管協の闇」シリーズより『党員募集に政治資金規正法違反の疑い浮上』｜NetIB-News - data-max.co.jp",
+      "category": "POLITICS",
+      "time": "2026-09-04T02:09:33Z",
+      "summary": "【ニュース読み上げ】「全管協の闇」シリーズより『党員募集に政治資金規正法違反の疑い浮上』｜NetIB-News&nbsp;&nbsp;data-max.co.jp",
+      "source_name": "Google News (日本語)",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oTHhJd1pKck9jMnZseEdFc3NBMkR0SjBIRVdidEhtMFV2UXFtSFdGVGFXTmU1YTFZUFZLMGg0elBfZVIzOTB3TGdETVZ4NnRhSGc?oc=5"
+    },
+    {
       "id": "news-politics-0ca8c77ef7",
-      "lat": 28.05537,
-      "lng": 2.99925,
+      "lat": 28.01462,
+      "lng": 3.05318,
       "title": "2026 NH Democratic CD2 Debate: Taking money out of politics",
       "category": "POLITICS",
       "time": "2026-09-04T01:57:00Z",
@@ -13,8 +35,8 @@
     },
     {
       "id": "news-politics-e3b36fe13f",
-      "lat": 32.74428,
-      "lng": 130.71532,
+      "lat": 32.84854,
+      "lng": 130.76436,
       "title": "【識者コラム】地方選で試される政権基盤 既存政治の悪弊と決別を 白鳥浩（共同通信）",
       "category": "POLITICS",
       "time": "2026-09-04T01:44:00Z",
@@ -24,8 +46,8 @@
     },
     {
       "id": "news-politics-51f71155b2",
-      "lat": 35.66953,
-      "lng": 139.65755,
+      "lat": 35.67812,
+      "lng": 139.66615,
       "title": "【識者コラム】地方選で試される政権基盤 既存政治の悪弊と決別を 白鳥浩",
       "category": "POLITICS",
       "time": "2026-09-04T01:43:25Z",
@@ -35,8 +57,8 @@
     },
     {
       "id": "news-politics-2390358305",
-      "lat": 35.62739,
-      "lng": 139.7268,
+      "lat": 35.63786,
+      "lng": 139.7473,
       "title": "【識者コラム】地方選で試される政権基盤 既存政治の悪弊と決別を 白鳥浩",
       "category": "POLITICS",
       "time": "2026-09-04T01:43:25Z",
@@ -45,31 +67,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YdG1JWmhYckZkR0pNemV1RjhJd0EyM2pKYU9xMXRKdWtiRzAtN191RnZPTlpUNWFZc1pkYXZKbFAtNk9PNnJxYURZc3RDbk43blIwOV9wZ0tlRTh0ZnFZTjlfSkZxbWdvZUdj?oc=5"
     },
     {
-      "id": "news-politics-31999ddf0d",
-      "lat": 35.6286,
-      "lng": 139.7129,
-      "title": "【識者コラム】地方選で試される政権基盤 既存政治の悪弊と決別を 白鳥浩",
-      "category": "POLITICS",
-      "time": "2026-09-04T01:43:25Z",
-      "summary": "【識者コラム】地方選で試される政権基盤 既存政治の悪弊と決別を 白鳥浩&nbsp;&nbsp;西日本新聞me",
-      "source_name": "西日本新聞me",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PQ3dXc2lqT3dld1FDU3h3dTRWRnJqbF9RSDk0WlVmbHZURVpudEdvUVpjZzVjYk5WZkNsWXR5QTIyZW9USHl4enhaZXBKMnhHMU95UmN3?oc=5"
+      "id": "news-finance-eb3908705f",
+      "lat": 35.75188,
+      "lng": 139.7611,
+      "title": "住友ゴム工業－SMBC日興が目標株価引き上げ 欧州在庫調整後の成長回帰に期待〔DZH 個別株情報〕(時事通信)",
+      "category": "FINANCE",
+      "time": "2026-09-04T02:12:00Z",
+      "summary": "住友ゴム工業－SMBC日興が目標株価引き上げ 欧州在庫調整後の成長回帰に期待〔DZH 個別株情報〕(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM0NGTlh0SDZPWVlkWlRnZkpHZUJtMTZlclBzZHZ1bEZXX1J2dHFlRFM4YlVQN0xnVDVGaUwwZVFuU2V3aU9acDBZMXZHNnBSZUxBRFhPQVJHclk4MTZDcXNpaXJza2VqYUFMVGFMdUtwcXVJYXVjampIV3J6Mk1UZWNvUG52VFk?oc=5"
     },
     {
-      "id": "news-politics-72f145384b",
-      "lat": 35.71109,
-      "lng": 139.72415,
-      "title": "【識者コラム】地方選で試される政権基盤 既存政治の悪弊と決別を 白鳥浩",
-      "category": "POLITICS",
-      "time": "2026-09-04T01:43:25Z",
-      "summary": "【識者コラム】地方選で試される政権基盤 既存政治の悪弊と決別を 白鳥浩&nbsp;&nbsp;nnn.co.jp",
-      "source_name": "nnn.co.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EN2g5OUlxY1JFNW1Sc1pucGFUd3RpWTdCaURJVHR2TC1zTDNzdHJ2c29tdTdyYzhIQkZzYnluYl9qb1N3UjhzckdKcUMyamI5?oc=5"
+      "id": "news-finance-d4b7916a6c",
+      "lat": 32.82959,
+      "lng": 130.70804,
+      "title": "世界有数の金融グループ 日本トップは熊本市出身 どんな学生時代？ 金融業界入りの経緯は？ ゴールドマン・サックス・アセット・マネジメントの堤社長に聞く 【独占ロングインタビュー㊤】（熊本日日新聞）",
+      "category": "FINANCE",
+      "time": "2026-09-04T02:05:22Z",
+      "summary": "世界有数の金融グループ 日本トップは熊本市出身 どんな学生時代？ 金融業界入りの経緯は？ ゴールドマン・サックス・アセット・マネジメントの堤社長に聞く 【独占ロングインタビュー㊤】（熊本日日新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03VmtlQms1Unh4OElwZ0NscXBFS3U4d3dybjZvbGE3MGhKbkt3VjNHT1ZBY0lHSkRHblhPbXNhcGdOWWxhZXhnQ2U4aFFkdU5NNmtlZ1F3V0tNc2JNckFxTEJvQmtyODlEMURzSlZBVUdaT1hiQUF4bHhiWHpCVGs?oc=5"
     },
     {
       "id": "news-finance-1b34f1e3f8",
-      "lat": 42.3273,
-      "lng": 141.08665,
+      "lat": 42.35141,
+      "lng": 141.01491,
       "title": "ソフトバンクG株価が一時8.7%高 英アーム株と米ハイテク指数上昇",
       "category": "FINANCE",
       "time": "2026-09-04T01:57:25Z",
@@ -78,9 +100,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnelZnMkJkLUJlQzdLaW8tUTliSkxlLTlkME5QN1pUa3BrY1dCM0tWOThxbk84YWdLajI3Z0tyQ2hsUXZqR21fcHFwUlBFV08zMFhWdjA2ZXJHRFF2UGotUzJpaHZyMFk5UkNFSg?oc=5"
     },
     {
+      "id": "news-finance-62cc7c2f5a",
+      "lat": 35.71484,
+      "lng": 139.76114,
+      "title": "中央銀行イベントを前に金利と為替に要注目 - プロに聞く きょうの注目テーマ",
+      "category": "FINANCE",
+      "time": "2026-09-04T01:56:00Z",
+      "summary": "中央銀行イベントを前に金利と為替に要注目 - プロに聞く きょうの注目テーマ&nbsp;&nbsp;日経CNBC online",
+      "source_name": "日経CNBC online",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZaHUyZ2pMREsyVDUwMUVzVWtpbWlldlpOSTBDME9ZdlVGY2JUd2MyS3Y5bVNOWXdmRjBHMHVyTzJpaW9IQ2xqempSM3J0RVctOVlYYw?oc=5"
+    },
+    {
       "id": "news-finance-6738867ab8",
-      "lat": 37.43555,
-      "lng": 139.93047,
+      "lat": 37.45853,
+      "lng": 139.8906,
       "title": "朝日インテクは軟調、国内証券が目標株価引き下げ",
       "category": "FINANCE",
       "time": "2026-09-04T01:56:00Z",
@@ -90,8 +123,8 @@
     },
     {
       "id": "news-finance-68eb5a370a",
-      "lat": 15.56612,
-      "lng": -90.69317,
+      "lat": 15.56697,
+      "lng": -90.68024,
       "title": "【為替本日の注目点】ドル円１５５円台前半まで急落(サーチナ)",
       "category": "FINANCE",
       "time": "2026-09-04T01:50:00Z",
@@ -100,42 +133,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUE9KS194VzF5X1BMYVBuYTd3d1VCS0dpc3IteEk3S3E0WE12emxPTHR5bi1uRDEza0F1SWdHT1A4SUItZE5HUFFheGkyVU5UNGZiSk90VFJOOE9kNmw5T0NSaVJMX0ExU2hBLXNCTTMwd3Fhc2lxZ0poQXMwZG8zLXZyWTFFZk0?oc=5"
     },
     {
-      "id": "news-finance-ebf54744ae",
-      "lat": 34.73249,
-      "lng": 135.17847,
-      "title": "神戸物産の株価が続伸 一時10%高、円安一服や節約志向が追い風",
-      "category": "FINANCE",
-      "time": "2026-09-04T01:46:27Z",
-      "summary": "神戸物産の株価が続伸 一時10%高、円安一服や節約志向が追い風&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52T3I1RHFtZUd5QVV4SHdlM21XTjNhak1zcllWUFpiLW05eFBnQTF6c2dtbVdNS1NfemdFdlRsdU5iZXcwdG1XamZXcnRqX0tuaXVOZ3FSWTJEZlY0N1NFaUxmSUd5WG04aTcySg?oc=5"
-    },
-    {
-      "id": "news-finance-a2dabf1541",
-      "lat": 53.26447,
-      "lng": -6.31443,
-      "title": "Why Robinhood Stock Rocketed Higher Today",
-      "category": "FINANCE",
-      "time": "2026-09-04T01:46:00Z",
-      "summary": "Why Robinhood Stock Rocketed Higher Today&nbsp;&nbsp;Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnlnT05yLVZjNGVWaUxOX1BzRTJaOUR5N1JMSzBGc05vSDhELW5SWlFFWjB5V1dOX2xFUjI0NXJqTlFwVUJ2RGRpaFhEeGN4dWJsTDNXY1o2LVBXQkxaUzl5QTRwNTJidTZyR1hQSEFnZnRscno5NHVpQVVrWFRwZUl2bU11UldEX3J5RUhxNWxObVNicHVGTTZqazg0QzZ0eWc?oc=5"
-    },
-    {
-      "id": "news-finance-857eb5a29c",
-      "lat": 25.24222,
-      "lng": 55.29047,
-      "title": "米国株情報＞ルルレモン、２７年１月期業績予想を大幅下方修正―株価が急落(ウエルスアドバイザー)",
-      "category": "FINANCE",
-      "time": "2026-09-04T01:44:00Z",
-      "summary": "米国株情報＞ルルレモン、２７年１月期業績予想を大幅下方修正―株価が急落(ウエルスアドバイザー)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN1ctdERpOF9mSVRmWTVHUzBjN1JRNExObXJCZWtZZGV0M0tFaUpLNERIbUJKWnh3d1JSR1QtWFpYelJnRVUtSGRBdHN1Wm9aQ1RkTmRYTGYyR25BMXZiRmkxZTF5TFRYdEw5Wks2ZTVIMlBwWkpyRmZzU2ZvQVJEeHlFZC1CVnM?oc=5"
+      "id": "news-disaster-67e9084181",
+      "lat": 23.75212,
+      "lng": 71.6713,
+      "title": "【台風情報】台風24号と秋雨前線の影響は 広い範囲で「警報級の大雨」、特に太平洋側では「記録的な大雨」のおそれ 台風と前線は大雨となる典型的なパターン （FNNプライムオンライン）",
+      "category": "DISASTER",
+      "time": "2026-09-04T02:11:20Z",
+      "summary": "【台風情報】台風24号と秋雨前線の影響は 広い範囲で「警報級の大雨」、特に太平洋側では「記録的な大雨」のおそれ 台風と前線は大雨となる典型的なパターン （FNNプライムオンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ga0ducXpuczFOVG1SVWFsSUlEdVlJS0hXYlNoOGRJOEVqMlFkWnFMN05yY3QydmNyckJXczJfWk1KQklXTW5fTmdnTWc3d0VjNUMtQXJ0bUI5TmZLR2o1UFdPSHJHYjkyU0xyZjBHQV9ZY1R1TU9QdDZQWWpJcjg?oc=5"
     },
     {
       "id": "news-disaster-88e6b49f39",
-      "lat": 32.79842,
-      "lng": 130.7908,
+      "lat": 32.84427,
+      "lng": 130.77675,
       "title": "令和8年熊本地震に伴う災害支援について",
       "category": "DISASTER",
       "time": "2026-09-04T02:02:05Z",
@@ -145,8 +156,8 @@
     },
     {
       "id": "news-disaster-014ca7ff2a",
-      "lat": 34.3654,
-      "lng": 132.47927,
+      "lat": 34.38867,
+      "lng": 132.39937,
       "title": "災害を乗り越え進化する｢広島県の農業の未来｣",
       "category": "DISASTER",
       "time": "2026-09-04T02:00:00Z",
@@ -155,9 +166,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wTG1rclNTdFFfSnNSZmVoNkg0TUVXSnJkSTN2eXd0eW15UzJfZFhpalBKYndaWU1lWVp1b0FHRmNTaWNwMFlUek1aQ3NkaTViU0gzLThQLTJNTHpqaklJS1oxSExLd3M?oc=5"
     },
     {
+      "id": "news-disaster-2d784f730d",
+      "lat": 33.79571,
+      "lng": 130.41969,
+      "title": "【台風情報・大雨情報】台風24号（クロヴァン）は南西諸島付近で\"停滞\" 台風の東側からは熱帯低気圧も北上か 秋雨前線活発化させ太平洋側中心に大雨続くおそれ（4日午前9時現在）【雨風シミュレーション4日～9日】 | 宮城のニュース│tbc NEWS│tbc東北放送 (1ページ)",
+      "category": "DISASTER",
+      "time": "2026-09-04T01:51:00Z",
+      "summary": "【台風情報・大雨情報】台風24号（クロヴァン）は南西諸島付近で\"停滞\" 台風の東側からは熱帯低気圧も北上か 秋雨前線活発化させ太平洋側中心に大雨続くおそれ（4日午前9時現在）【雨風シミュレーション4日～9日】 | 宮城のニュース│tbc NEWS│tbc東北放送 (1ページ)&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xc0ZBZUNWQy11SzBZVFFTMW1zOFVjNWY5TkMzbFpLYnJkaDBRZjVoaHhhcDQ4N05sakcxTVFZYUUzNlNJT200M0MzRDFsa1BIaEt2Q3lIaWFxbU1Oak16b2J5dWFrZ1U?oc=5"
+    },
+    {
       "id": "news-disaster-2aa61d14a9",
-      "lat": 31.61729,
-      "lng": 130.60415,
+      "lat": 31.64623,
+      "lng": 130.60016,
       "title": "レベル4土砂災害危険警報 鹿児島・十島村（ABEMA TIMES）",
       "category": "DISASTER",
       "time": "2026-09-04T01:42:17Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-d98fc99595",
-      "lat": 35.73433,
-      "lng": 139.72035,
+      "lat": 35.74454,
+      "lng": 139.76083,
       "title": "【レベル4土砂災害危険警報】宮崎県・綾町に発表 10:36時点（TBS NEWS DIG Powered by JNN）",
       "category": "DISASTER",
       "time": "2026-09-04T01:38:12Z",
@@ -177,31 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UbU9ucXM2a0FablRYbmtXd1UwbEhSSUtlSERQeDVOaUJqRTZJQ1BfMEdBNDFkTkxsOVRXNHpxWF90S0RadlQyWDUweVItVjZ0Qm0wdFQxTWFoSGdzOURtb2hTUllTMnFMTHplQTE2ZnN5dUYtaGNyVWZiSkd3cDQ?oc=5"
     },
     {
-      "id": "news-disaster-6b0209f6ce",
-      "lat": 31.64143,
-      "lng": 130.59181,
-      "title": "【速報】鹿児島・十島村にレベル4土砂災害危険警報",
-      "category": "DISASTER",
-      "time": "2026-09-04T01:30:30Z",
-      "summary": "【速報】鹿児島・十島村にレベル4土砂災害危険警報&nbsp;&nbsp;テレ朝NEWS",
-      "source_name": "テレ朝NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qZUo3emJmdkgwYW00M3ZiNDhLX0MxNG9QVUdnRGd0STE0aXY4STU3SHZZRFQ4MTJxZTBRVzV3QzBxNkR6NlVTYjdlQmlSOUd0VDktTzh3YWQ2eEFmYjFjZUp2d3FFZ3UxM1NZTHVkSFlXZw?oc=5"
-    },
-    {
-      "id": "news-disaster-4552a72d9f",
-      "lat": 33.76609,
-      "lng": 130.53264,
-      "title": "【秋雨前線南下】秋雨前線+台風 影響長引くおそれ 中国地方 きょう夕方まで 激しい雨の可能性 低い土地の浸水・河川の増水・土砂災害に注意【4日 雨と風のシミュレーション】（RCC中国放送）",
-      "category": "DISASTER",
-      "time": "2026-09-04T01:23:13Z",
-      "summary": "【秋雨前線南下】秋雨前線+台風 影響長引くおそれ 中国地方 きょう夕方まで 激しい雨の可能性 低い土地の浸水・河川の増水・土砂災害に注意【4日 雨と風のシミュレーション】（RCC中国放送）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fcGN6NzhZOXhadFhvZ1JaZ004WS1KOVNKcmdCLWVrY0RnaWZFVXY0U0E1UlAzQ3ZHYi1UaWliSjdONUI0T3g4M1AtNHVLSXZyaHJtaGZibHpNZEd4cm8xZnhPQlcxVU1uUWJ2U1ZVbXF4VWk0cXJoSk96NzhzLVk?oc=5"
+      "id": "news-accident-3e706c5bc5",
+      "lat": 39.55648,
+      "lng": -74.62706,
+      "title": "Atlantic City teen arrested after stolen SUV crash in Mays Landing denied release",
+      "category": "ACCIDENT",
+      "time": "2026-09-04T02:18:50Z",
+      "summary": "Atlantic City teen arrested after stolen SUV crash in Mays Landing denied release&nbsp;&nbsp;6abc Philadelphia",
+      "source_name": "6abc Philadelphia",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTFZ3OUZfTWdBVEpWdks3Z21LZDc0RFpWbUstXzhkSlZ0QlZyUFVQUzZyU0ZpYnQ2ZUE4Q1MzQkpodXp0SGsyekdMNi0yRkdzOXlfeDVQaFNzQWNSY2xIR3JyMzhobTBOVHBHOEtSbFZZbGxqM3FIbDBJSDdLeUFqZjlfejRiVGdyNEstT2lyczZlZVRkcEpSQ254YVhkSy11aDR1SVNVNNIBrAFBVV95cUxNcHRSS2dxZFUzNm02WERBX3JSNUcwUV9RekxUTGpOcTl2aElmNUJ1MVUybi1MMkVfUE9xOWYyM2VFZHVud2FscVpmcjBFSHk2THhEWkRUenlpSGdET2Q2cjZzWGdFNk5LZXQwMXBiSmpXcUtISTVnbXlmaHRBS3p5dXFGcnJVYUNUN3ZWMzdpZnV2Q2ZiS0t6bGNfOW9VLU80ZjVVZnQtUFRzTnNG?oc=5"
     },
     {
       "id": "news-accident-77a18ce9b4",
-      "lat": 32.31826,
-      "lng": -83.11621,
+      "lat": 32.2939,
+      "lng": -83.11527,
       "title": "1 hospitalized after being hit by car on Georgia Avenue in Northwest DC",
       "category": "ACCIDENT",
       "time": "2026-09-04T01:45:10Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-622ffd5054",
-      "lat": 32.8431,
-      "lng": 130.75874,
+      "lat": 32.75373,
+      "lng": 130.69226,
       "title": "【高齢者事故対策】安全と生活の足、両立腐心 「交通空白」解消も必須（共同通信）",
       "category": "ACCIDENT",
       "time": "2026-09-04T01:29:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-4d4674c81b",
-      "lat": 34.94442,
-      "lng": 138.34352,
+      "lat": 35.01748,
+      "lng": 138.43304,
       "title": "【高齢者事故対策】安全と生活の足、両立腐心 「交通空白」解消も必須",
       "category": "ACCIDENT",
       "time": "2026-09-04T01:28:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-7dc6ba19e5",
-      "lat": 34.43209,
-      "lng": 132.46996,
+      "lat": 34.37895,
+      "lng": 132.46717,
       "title": "国道36号で信号待ちの列に乗用車が突っ込み7台からむ事故「ブレーキ踏んだつもり」病院搬送者はなし 北海道北広島市",
       "category": "ACCIDENT",
       "time": "2026-09-04T01:22:14Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-d091afd5d8",
-      "lat": 32.82043,
-      "lng": 130.6929,
+      "lat": 32.8198,
+      "lng": 130.77504,
       "title": "「仕事はもういいから、帰っておいで」爆発事故が起きたイオンモール熊本で遺族が献花 遺族が語る今の心境【熊本発】",
       "category": "ACCIDENT",
       "time": "2026-09-04T01:00:42Z",
@@ -254,20 +265,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QdFllaFhQM3dnQ2Vta1hpZm9INFpaRmd2VjN3RnA0OVBIV3Zqb3RWMTJJQ1RQRHI5SGRTU0w3RGxORGVFUU9qN3RTOTRXbXFoWlc2TkFHWkl4TUJFOWYwLXpudzZhQVQzSnFzLVRySWtLenVESTNYRlprRW4tS1k?oc=5"
     },
     {
-      "id": "news-accident-5dcecc71b1",
-      "lat": 34.11527,
-      "lng": -118.37846,
-      "title": "業務中の死亡災害が多発 死亡災害多発警報発令 栃木労働局－NEWS - tochigi-tv.jp",
-      "category": "ACCIDENT",
-      "time": "2026-09-04T01:00:33Z",
-      "summary": "業務中の死亡災害が多発 死亡災害多発警報発令 栃木労働局－NEWS&nbsp;&nbsp;tochigi-tv.jp",
-      "source_name": "Google News (日本語)",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kWVZkLWk5cndkMmFlQW9kLUtiek5jcmlhT3dpY1J0VHRfQ0p6X2lLcV9LLXYwVVk1QngwNDJGQndGenRia3BkUUFndDFLY2tLMk05UEtFSXViY1NyZkQ4?oc=5"
+      "id": "news-disease-2a78332f15",
+      "lat": 34.87043,
+      "lng": 135.23997,
+      "title": "インフルエンザと新型コロナウイルス感染症の同時感染：決して軽視してはならないリスクです。",
+      "category": "DISEASE",
+      "time": "2026-09-04T02:23:17Z",
+      "summary": "インフルエンザと新型コロナウイルス感染症の同時感染：決して軽視してはならないリスクです。&nbsp;&nbsp;Vietnam.vn",
+      "source_name": "Vietnam.vn",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlN4Rk5wenpJLWZjVXQ3RTVfM0J6U1BlU3pxNmJjVnpTRnRHb3I3cjFtUmxnR2JvTXZPT21TOTJiMGdGR0pDVzQtQ0tnYm11b2h2UURCYlJES1lhY1VjZk5FR09LNml3UkFLRjRtSnh0T1NyZTdrb1lYRDZUT0NOSWd4dVc?oc=5"
+    },
+    {
+      "id": "news-disease-fdc85071ad",
+      "lat": 35.06734,
+      "lng": 135.75971,
+      "title": "世界のRSウイルス感染症の市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
+      "category": "DISEASE",
+      "time": "2026-09-04T02:00:00Z",
+      "summary": "世界のRSウイルス感染症の市場規模、疾患概要、疫学予測：2026年調査レポートを発表&nbsp;&nbsp;アットプレス",
+      "source_name": "アットプレス",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zSGhveFl4aWZPTl9wSU0zTHlqUkJlMzc3QWc2UXRSdXUxUjhqSXZSSENpSkpWYlNFYkdUWFR4QnFyaFYxTDVDam9JUVFOMXc?oc=5"
     },
     {
       "id": "news-disease-7794d8cc00",
-      "lat": 35.60494,
-      "lng": 139.75278,
+      "lat": 35.52888,
+      "lng": 139.7204,
       "title": "効率よく鼻をかむ方法、病気予防につながる成果…旭川医大の故・海野徳二氏にイグ・ノーベル賞",
       "category": "DISEASE",
       "time": "2026-09-04T01:27:00Z",
@@ -277,8 +299,8 @@
     },
     {
       "id": "news-disease-3ecf03852b",
-      "lat": 25.23625,
-      "lng": 55.25857,
+      "lat": 25.19331,
+      "lng": 55.26636,
       "title": "健康に関するアドバイス：就学時に子どもたちを危険な病気から守る方法。",
       "category": "DISEASE",
       "time": "2026-09-04T01:23:08Z",
@@ -288,8 +310,8 @@
     },
     {
       "id": "news-disease-e107be512b",
-      "lat": 31.57745,
-      "lng": 130.59177,
+      "lat": 31.55598,
+      "lng": 130.60435,
       "title": "【写真】長生きの秘訣は「病気に負けない強い意志」――県内最高齢110歳を鹿児島市長が祝い訪問",
       "category": "DISEASE",
       "time": "2026-09-04T01:00:00Z",
@@ -299,8 +321,8 @@
     },
     {
       "id": "news-disease-e8001c69c1",
-      "lat": 34.00595,
-      "lng": 135.23459,
+      "lat": 34.06086,
+      "lng": 135.22269,
       "title": "ファム・チョン・ギア氏は、重い病気を患い孤独な男性であり、助けを必要としている。",
       "category": "DISEASE",
       "time": "2026-09-03T23:12:08Z",
@@ -309,31 +331,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYzYwVTlDVm9CWDgtNVFDMXByTGpiOGF6WHNsbFN6STJnQ1JUY29oZ1BFSXg4M0Y2VVZRUmY0ZHA4RUFFQlhHZHhLUmtWMTdwVWY0Zl80NXVmd0FFZmNGUTZSSHlvZ2EzV2JuM0tBY2lnTG9PUkFLQ2JlRXVCQTFyb1JDenZwcjF4ZE5VcF9SUQ?oc=5"
     },
     {
-      "id": "news-disease-ad711b3bc4",
-      "lat": 34.19525,
-      "lng": -77.88789,
-      "title": "Transplanted pig kidney works in US man's body for record 271 days",
-      "category": "DISEASE",
-      "time": "2026-09-03T22:31:23Z",
-      "summary": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-      "source_name": "BBC News",
-      "source_url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss"
+      "id": "news-technology-88f00be0eb",
+      "lat": 34.20084,
+      "lng": -118.51008,
+      "title": "LAUSD has blocked students from generative AI. How will it teach them about it?",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T02:18:15Z",
+      "summary": "LAUSD has blocked students from generative AI. How will it teach them about it?&nbsp;&nbsp;dailynews.com",
+      "source_name": "dailynews.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdVZWQlFHV003UndlMndYVkVrMHNnSkRVXzNBZDBEd1BvUDB4WjNYYnVBNEFibmNVSENpZlJRWFF3VWJIVm5PZTZXYkc3VHBiNS12UWdWTzJKNWlWOTRrSklaTmlibi1mTVlLZ2RQc2VzTjNVbjhTYlktMTA0TGhKR2MtNUxJbVltMWpuNTgyVVBnNmRnSGh1YV9XeENZQjhDbXNTUzVYZjYwa29vRVVUODBJaWk0UQ?oc=5"
     },
     {
-      "id": "news-disease-3fabbdc2ae",
-      "lat": 3.51004,
-      "lng": 21.60502,
-      "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
-      "category": "DISEASE",
-      "time": "2026-09-03T21:30:40Z",
-      "summary": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda&nbsp;&nbsp;European Centre for Disease Prevention and Control (ECDC)",
-      "source_name": "Google News (English)",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcjUwMFo1WUtEN0t1RFpuaUh5N0c5UGFOSW1oVGZZbDZFLXYzbUI2MFJmdS0wM294ZDliYXo5dEU1Nk9rOHpOMlJITWpBQmRRV2pJczFTSVg2SmRyNU8tTVZrMGlhcFZuTXhpNW82ZHlzVjZ6SGlCRFpVNmdkdnotUU83dDU0S0pq?oc=5"
+      "id": "news-technology-94fa34dfb9",
+      "lat": 45.52364,
+      "lng": -122.84192,
+      "title": "NVIDIA と MediaTek、エッジからクラウドまでの AI コンピューティング プラットフォームの構築に向け長年のパートナーシップを強化",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T02:12:52Z",
+      "summary": "NVIDIA と MediaTek、エッジからクラウドまでの AI コンピューティング プラットフォームの構築に向け長年のパートナーシップを強化&nbsp;&nbsp;NVIDIA | Japan Blog",
+      "source_name": "NVIDIA | Japan Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSk9kUGJ2c1d2Q1U3N3pVUDV4NHBSZTFaTFJBQVdTY01Lb1RfeVlVakJLa1FPNkpXMHlFYkU1Ni1qOVFkMmUwQ2VQc2M4MGNYaTJmMWtJTHZxMm05NnEzdmVHU3JKejV3aHV4YTM3MVcwS29vbm9WVEQxX2k5SEZEX29RTHBvQVNxbHJwSWRGVWxBUk90V0FHYk1EcDMzaEEtLXkwOWdKWWNUaUw1ZVpOWU83SHJvd3lpUWJfNDhqZWFKUDViVS0zc0xnNA?oc=5"
     },
     {
       "id": "news-technology-4b55b15774",
-      "lat": 35.43311,
-      "lng": 135.33876,
+      "lat": 35.43118,
+      "lng": 135.28488,
       "title": "イケウチら3社9/5から実証、AIで車両損傷を自動診断",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T02:05:07Z",
@@ -342,9 +364,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPUVk3ZmVyT3lCT0lEMWhFSk9sa0VicXN3QzdLcGw4aE9oaFc4SHBEQTFsYkdMa25oWmlxNWMwSVo3Y2xZenhKcw?oc=5"
     },
     {
+      "id": "news-technology-e3617380d4",
+      "lat": 34.05585,
+      "lng": -117.45537,
+      "title": "SF supervisors demand Kaiser clarify AI job protections",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T02:02:46Z",
+      "summary": "SF supervisors demand Kaiser clarify AI job protections&nbsp;&nbsp;KRON4",
+      "source_name": "KRON4",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTktmVHViRzAtTFRKX21BdXNVaThZaTRvd2ZubkN6UjNWZG9nM1FmSnotSzV0OTdmZHdaZWNsUUdUT1NLRHZLYTAwRFVHb1RyY1pvTnpkWTY3Wml1Zl9kOEtSU2laLXcyenhTZURtZ2hIMFRxb3pHNnBuLWhDYjZNb0NmelRMa2JsZzVEVFVDTmVsSzZYS0dEWUYtcm5Sd9IBowFBVV95cUxOXzZSM3dhTTEwZ0dZUXhXczE4YzlRdU5MYlFKLUxpVHkxWUxBUVdjeUk4cklwZEtOOVdWcVp1UVM0T0hWdFR1VE1iTkRSQUdqc0hFUmU4ZE5JSC0zNDdsZENvNU92dFpPcTJIYm1ndTRpYnI3emZfTjA3SThsTkptOUtDTTlRbFRXQjJPTVFqVDItcm5rMkpDQ0Z4SFpKaE82dHJv?oc=5"
+    },
+    {
       "id": "news-technology-f885dae172",
-      "lat": 27.4696,
-      "lng": 85.69119,
+      "lat": 27.39727,
+      "lng": 85.74233,
       "title": "Could robots be the future of theme parks?",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T02:02:02Z",
@@ -353,48 +386,15 @@
       "source_url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-technology-4478858940",
-      "lat": 49.87849,
-      "lng": 21.41664,
-      "title": "i-PRO、広範囲を1台で監視するAIカメラ",
+      "id": "news-technology-971d53a97a",
+      "lat": 43.11544,
+      "lng": -89.41591,
+      "title": "約3,000名が参加したオンラインカンファレンス第2弾 「経理AI Forward – AIとともに経理をもっと前へ。 – 」を開催",
       "category": "TECHNOLOGY",
-      "time": "2026-09-04T02:01:03Z",
-      "summary": "i-PRO、広範囲を1台で監視するAIカメラ&nbsp;&nbsp;LOGISTICS TODAY",
-      "source_name": "LOGISTICS TODAY",
-      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kQXZpUlVBb1BUc0hDYnpVeHBkRG9rZlcwWFlSU0ZzTzk2aTdTRFdmU1JheTZmTjZ5UDQwTWNra1pOSEJlVW1jbg?oc=5"
-    },
-    {
-      "id": "news-technology-8895300d7d",
-      "lat": 55.67184,
-      "lng": 37.6094,
-      "title": "ジール、生成AIとクラウド技術認定者を拡大し顧客向けAI導入支援事業を強化",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T02:00:02Z",
-      "summary": "ジール、生成AIとクラウド技術認定者を拡大し顧客向けAI導入支援事業を強化&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nNUd6WFhmTldhZngyVHNHeDF1T3BPY1R1aWwxcWpyR19FdlZ3YzhETERZbVdodW9YdWlPTEkzeE1DLUluZ3RqZkNYazdHbTd5dzhLNFVleWpEbDlaYmdLN3FVdl9fRWNteUE?oc=5"
-    },
-    {
-      "id": "news-technology-c74ecf68ae",
-      "lat": 35.65499,
-      "lng": 139.65868,
-      "title": "次世代型AIリサーチ支援サービス「Scite」の提供を開始",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T02:00:00Z",
-      "summary": "次世代型AIリサーチ支援サービス「Scite」の提供を開始&nbsp;&nbsp;共同通信PRワイヤー",
-      "source_name": "共同通信PRワイヤー",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIb0FkbWtrb3U1WEQxLWlrYkxGczcycmdqeE5wamRLSmI5b1VyVkFEUHhrRVlGSTBrZHJIQ19HQURPR1VfVmpxR1RPVVhTRVhBSmhrSzJNd2FhTzA?oc=5"
-    },
-    {
-      "id": "news-technology-062283022b",
-      "lat": 40.70841,
-      "lng": -74.03793,
-      "title": "NYC schools ban AI for students through eighth grade under new Mamdani policy",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T01:50:26Z",
-      "summary": "NYC schools ban AI for students through eighth grade under new Mamdani policy&nbsp;&nbsp;ABC7 New York",
-      "source_name": "ABC7 New York",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5"
+      "time": "2026-09-04T02:01:36Z",
+      "summary": "約3,000名が参加したオンラインカンファレンス第2弾 「経理AI Forward – AIとともに経理をもっと前へ。 – 」を開催&nbsp;&nbsp;corp.moneyforward.com",
+      "source_name": "corp.moneyforward.com",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBLN2JhTF9zaWhhREtWRkpKa0tyVnNDZm9zLUJIazYzeDB4M05RMUxVX2dBZW1BbVpHb2tnaFpOa0EwZlVmUUY1Sm5qcGVyOE52NGgtcnBIMnpRNTdub3ZFcm92NExKMk9Ha01hZGY4N0otYk9NZjRrSmVaUQ?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-04T02:06:28Z"
+  "updated_at": "2026-09-04T02:24:14Z"
 }
