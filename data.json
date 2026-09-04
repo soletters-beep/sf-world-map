@@ -2,8 +2,8 @@
   "news": [
     {
       "id": "news-politics-73a25f5d67",
-      "lat": 44.45765,
-      "lng": 26.03745,
+      "lat": 44.4111,
+      "lng": 26.0426,
       "title": "Senate Candidate: Money Corrupting SD Politics",
       "category": "POLITICS",
       "time": "2026-09-04T03:11:52Z",
@@ -13,8 +13,8 @@
     },
     {
       "id": "news-politics-41362a4110",
-      "lat": 35.62517,
-      "lng": 139.82229,
+      "lat": 35.66101,
+      "lng": 139.81961,
       "title": "1票に試行錯誤… 高校生が企画した「こども選挙」 結果は“大人”と真逆に!? 「子どもの声を政治に」 岐阜･高山市（CBCテレビ）",
       "category": "POLITICS",
       "time": "2026-09-04T03:00:34Z",
@@ -24,8 +24,8 @@
     },
     {
       "id": "news-politics-4431aba831",
-      "lat": -35.04672,
-      "lng": -64.94138,
+      "lat": -35.02988,
+      "lng": -65.00773,
       "title": "Argentine leader says oil firms working off Falklands face sanctions",
       "category": "POLITICS",
       "time": "2026-09-04T02:53:07Z",
@@ -35,8 +35,8 @@
     },
     {
       "id": "news-politics-d60dc1c5b3",
-      "lat": 35.74044,
-      "lng": 139.64416,
+      "lat": 35.69794,
+      "lng": 139.64258,
       "title": "高市政権に代わる「新たな極」はつくれるか 泉房穂氏が示す自由と安心の政治（WEB Voice）",
       "category": "POLITICS",
       "time": "2026-09-04T02:53:01Z",
@@ -46,8 +46,8 @@
     },
     {
       "id": "news-politics-281a718b0a",
-      "lat": 38.91801,
-      "lng": -77.07297,
+      "lat": 38.92899,
+      "lng": -77.01499,
       "title": "Vance says he doesn’t know when Iran conflict will end — it’s up to Iran",
       "category": "POLITICS",
       "time": "2026-09-04T02:46:43Z",
@@ -57,8 +57,8 @@
     },
     {
       "id": "news-politics-5e0201badd",
-      "lat": 35.68228,
-      "lng": 139.27932,
+      "lat": 35.62895,
+      "lng": 139.32616,
       "title": "フレイル予防への知識学ぶ フジグラン北島でイベント",
       "category": "POLITICS",
       "time": "2026-09-04T02:09:18Z",
@@ -67,9 +67,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NYkRYTWp0Rl9vVmtuNGs4NUZ5cXQzNWlUS0dtTjhiWVhlMXVkbGNHblUzRFA5c2xDUzRab3dBUUNLcU5HWXR3RnJ3Z09ocEZ0WHZMSWdB?oc=5"
     },
     {
+      "id": "news-finance-8d28ae28b7",
+      "lat": 35.68471,
+      "lng": 139.78075,
+      "title": "東京外為市場・午前＝ドル156円前半、日米金融政策への思惑と押し目買いが綱引き 仲値は売買交錯",
+      "category": "FINANCE",
+      "time": "2026-09-04T03:40:00Z",
+      "summary": "東京外為市場・午前＝ドル156円前半、日米金融政策への思惑と押し目買いが綱引き 仲値は売買交錯&nbsp;&nbsp;Reuters",
+      "source_name": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IVTJ0RHNYWEt4Z0pWcjBLZXNvSXFBZkltQjcta2I5YUlFVEhzT1hQcGJfLU9uUFRqckFCZWptUHJNUF9SZXJONjlkQjFMa2xMZm1Va1pzQzc5VmhsVmZXM0hFNGJJdWVFOWQwV09FZ2hpWGdGd1pYdA?oc=5"
+    },
+    {
+      "id": "news-finance-00ced81fe5",
+      "lat": 42.47663,
+      "lng": -1.1778,
+      "title": "午前のドル156円前半、日米金融政策への思惑と押し目買いが綱引き 仲値は売買交錯(ロイター)",
+      "category": "FINANCE",
+      "time": "2026-09-04T03:40:00Z",
+      "summary": "午前のドル156円前半、日米金融政策への思惑と押し目買いが綱引き 仲値は売買交錯(ロイター)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmRidFRFM3g3cUR3Y2tMQzRwd2lSWWxxQ04zd0praDMzX1dCT01yclFDZEp1NnhMUGhwZnZjRGl6ZGFWM29NRWE3LURfWW1JeC1hWjlkaUt4WGExVC0tc01JYjRpek9GcXRTQXUwc0FsM0dDdDlfS2w3YW83a0xfNHdjWk42NDA?oc=5"
+    },
+    {
+      "id": "news-finance-922996da72",
+      "lat": 36.59534,
+      "lng": 139.26494,
+      "title": "Japan Finance Minister Vows to Keep Eye on Fiscal Balance",
+      "category": "FINANCE",
+      "time": "2026-09-04T03:38:00Z",
+      "summary": "Japan Finance Minister Vows to Keep Eye on Fiscal Balance&nbsp;&nbsp;WSJ",
+      "source_name": "WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVR0ek9nYXVXSmtUZ19ZN09XZ183a2sxMnN0STFyY25HbkhBalBKREp4c25OZm9QRkR5YTF6OFlLbEtIRFNyZFBzdWVKcktFalozUW0taFNZaEwyVmllb2hHazh3Y1ZVenpmeVNwZTE3ZUVtOTl3VmoxRERrQ3NhZGRleGdJZzJYTEpvWjNYWDl1LVBXVUhkeGN3?oc=5"
+    },
+    {
+      "id": "news-finance-68ab5f2d1e",
+      "lat": 25.2505,
+      "lng": 55.31233,
+      "title": "４日後場寄り付きの日経平均株価＝５３９円００銭高の６万４７５３円４８銭(ウエルスアドバイザー)",
+      "category": "FINANCE",
+      "time": "2026-09-04T03:31:00Z",
+      "summary": "４日後場寄り付きの日経平均株価＝５３９円００銭高の６万４７５３円４８銭(ウエルスアドバイザー)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX05OaHFrcnFNeEFaTDdzcHF5RU44Rzk2S05zSVRYUnJ2X2NXcDU3dTVaMmdCa01raHh4bmtHTmRmbzJIYXhEY2tRb25WbVI4ak82T3JGbFJ0MUNtSTlzUEhQcm9zX2JOd3BhUzFLeTNWcGlYUllOSGJHaWt0LW9LQXNGWUVKSlU?oc=5"
+    },
+    {
       "id": "news-finance-cd20b62007",
-      "lat": 54.73457,
-      "lng": 8.48375,
+      "lat": 54.66142,
+      "lng": 8.47059,
       "title": "ベルフェイス、日本最大の金融ITフェア「FIT2026」に出展｜三十三銀行様登壇のminiセミナーを開催",
       "category": "FINANCE",
       "time": "2026-09-04T03:30:02Z",
@@ -79,8 +123,8 @@
     },
     {
       "id": "news-finance-b3fde602cf",
-      "lat": 35.69065,
-      "lng": 139.76485,
+      "lat": 35.69402,
+      "lng": 139.75131,
       "title": "証券各社レーティング（目標株価変更）：不二製油、ライオンなど12社(フィスコ)",
       "category": "FINANCE",
       "time": "2026-09-04T03:23:00Z",
@@ -89,64 +133,53 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHoyY2NrTmdjT1BiVDBfMi0za3JZSkdXRXYyVWRwUXJMbzFQazlmaTFNWVY2YUQ3ZUl0dGRDUUxlNWZqQ2EyT1VxS1JOcTUtbEdTY0R0NnUtOGJnY3hQQi1wYmxhRW9zV2tZTy1wamFKTEJnRkNVRnI4MDNKMmZfNG5KTVJMN3M?oc=5"
     },
     {
-      "id": "news-finance-859cfc3559",
-      "lat": 35.64809,
-      "lng": 139.74074,
-      "title": "東京為替：ドル・円は下げ渋り、ドルに買戻し(フィスコ)",
-      "category": "FINANCE",
+      "id": "news-disaster-a4c2e171f8",
+      "lat": 38.44106,
+      "lng": -122.74325,
+      "title": "Voices heard at flood-stricken Nepali power plant where scores trapped",
+      "category": "DISASTER",
+      "time": "2026-09-04T03:28:00Z",
+      "summary": "Voices heard at flood-stricken Nepali power plant where scores trapped&nbsp;&nbsp;CNN",
+      "source_name": "CNN",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVBZV2hsQ2pMYkZQVDducExlZXZXN3A4UmJ4ZHZiVENlQ1RtTzRoYjluT3dKMkwtVVlzN3VNLUVUTUhIdGhCMldtSkIxLWFKWUxLbWJvOGx4YTNrc2tNc1EtckJNVDVXSm5uTUFJTkhCaERrWFFlbmsxc3JmNmx5anpmaXdsRDV4?oc=5"
+    },
+    {
+      "id": "news-disaster-03f3c9c4a0",
+      "lat": 33.77525,
+      "lng": 130.43923,
+      "title": "【台風情報】動きが遅くなる台風24号 前線は本州南岸付近でほとんど停滞 西日本〜東日本の太平洋側を中心に広い範囲で総雨量が多くなるおそれ 【進路予想・雨と風のシミュレーション】（UTYテレビ山梨）",
+      "category": "DISASTER",
+      "time": "2026-09-04T03:17:14Z",
+      "summary": "【台風情報】動きが遅くなる台風24号 前線は本州南岸付近でほとんど停滞 西日本〜東日本の太平洋側を中心に広い範囲で総雨量が多くなるおそれ 【進路予想・雨と風のシミュレーション】（UTYテレビ山梨）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XSnNDSGxjLXRYdkpPV2tIc2E5aDBpa2NlN2x4ZVR4QnhUV3M5WWFTSXcyaVhpeVBhZjNkMEdQS2Y3NFNsbnpUQ3BhcHF3MmstSFJLYXEwZElqRW8tMFZuZmJ0V1VyaW1paFFVeVpneXRmOFNfZktCYzc5TGtwLXc?oc=5"
+    },
+    {
+      "id": "news-disaster-66d0b2e46b",
+      "lat": 33.69092,
+      "lng": 130.4943,
+      "title": "【台風情報】動きが遅くなる台風24号 前線は本州南岸付近でほとんど停滞 西日本～東日本の太平洋側を中心に広い範囲で総雨量が多くなるおそれ 【進路予想・雨と風のシミュレーション】 | 山梨のニュース | ＵＴＹテレビ山梨",
+      "category": "DISASTER",
       "time": "2026-09-04T03:16:00Z",
-      "summary": "東京為替：ドル・円は下げ渋り、ドルに買戻し(フィスコ)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTBrc3JTem1tT2o4bHhJTG45TTh3WXFiS0QtbzhIWkVBOWNvUUY0a3Fvbm1pZzNpaVVXWHBxbnJHVjBBTzdQVFFFUU5HTXRMaXEwdXRGS2pVRWpVbGJyamhyRWNoWW1GYmgxUTRsb296d2RTazJuX3RwYV9tSWJ5VXRpQjk1cE0?oc=5"
+      "summary": "【台風情報】動きが遅くなる台風24号 前線は本州南岸付近でほとんど停滞 西日本～東日本の太平洋側を中心に広い範囲で総雨量が多くなるおそれ 【進路予想・雨と風のシミュレーション】 | 山梨のニュース | ＵＴＹテレビ山梨&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84TF8tcWdpODZGUV8yUnBQNXR5b1F5UGJVNUpQaGJjYS1aT1Y0VXc3Q1J3Rm5ZMi12UmJ4ZWhKeXFOQy00VlhoZUJ5TENOc25FSmxONUFZZHF5dw?oc=5"
     },
     {
-      "id": "news-finance-e537758012",
-      "lat": 35.65398,
-      "lng": 139.70927,
-      "title": "東京外国為替市場概況・12時 ドル円、底堅い(トレーダーズ・ウェブ)",
-      "category": "FINANCE",
-      "time": "2026-09-04T03:06:00Z",
-      "summary": "東京外国為替市場概況・12時 ドル円、底堅い(トレーダーズ・ウェブ)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFJBRXV4eTNQTWVZSUNEb051VUJ1WWpQcE1RNktvclVfZWVSbVJDRDVvTzB4TmVidGFpQTZVd2pYYXBNazNUVmRwVEVwVVRCNDNUYXJ6M041VXc2YlVkS2FwWVBZTzhUNFRzeXQtam04SlVPcE5BbHl6NWN6Szhwby1QSFpHcW8?oc=5"
-    },
-    {
-      "id": "news-finance-4c343bf21a",
-      "lat": 35.74838,
-      "lng": 139.9188,
-      "title": "理系進学・グローバル金融・海外留学のリアルを学ぶ。世界で活躍する未来を描く学生へ、夏の特別キャリアセミナーを英語塾 J PREP が開催",
-      "category": "FINANCE",
-      "time": "2026-09-04T03:00:02Z",
-      "summary": "理系進学・グローバル金融・海外留学のリアルを学ぶ。世界で活躍する未来を描く学生へ、夏の特別キャリアセミナーを英語塾 J PREP が開催&nbsp;&nbsp;PR TIMES",
-      "source_name": "PR TIMES",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jM1d1bk1weHFTbVB5b3ZlbURXOFZGQlpnd1ZHTVNiNkJRbWVzc2R0YmcxTUZxQUJrRy1ZZVNOZC1jSDN1NzZ6a3FXZGp2b0NhVU5zaU1OekZac3ROTkhrYTNFa29SdGlJQUE?oc=5"
-    },
-    {
-      "id": "news-finance-677dac0562",
-      "lat": 35.75862,
-      "lng": 139.45978,
-      "title": "株価指数先物【昼】 日経平均型優位の展開の中で押し目狙いのロング対応",
-      "category": "FINANCE",
-      "time": "2026-09-04T02:56:14Z",
-      "summary": "株価指数先物【昼】 日経平均型優位の展開の中で押し目狙いのロング対応&nbsp;&nbsp;kabutan.jp",
-      "source_name": "kabutan.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tNEdpRm40RUZxZm13NzhIM0d6WGhPS2E4MTI1UW9vRXBpZGl3X2YtaXB6S3VlbzNqY1hJN2M0Ukw5dVg5RDZjNmMzMnB1VnNadE5DVU91dWl3b3Rsb00yVA?oc=5"
-    },
-    {
-      "id": "news-disaster-a9047d33cd",
-      "lat": 32.78738,
-      "lng": 130.73056,
+      "id": "news-disaster-e0eba433b6",
+      "lat": 32.79174,
+      "lng": 130.77334,
       "title": "5日にかけ土砂災害などに十分注意 台風と秋雨前線の影響で熊本県内で非常に激しい雨のおそれ",
       "category": "DISASTER",
-      "time": "2026-09-04T03:15:04Z",
-      "summary": "5日にかけ土砂災害などに十分注意 台風と秋雨前線の影響で熊本県内で非常に激しい雨のおそれ&nbsp;&nbsp;KAB 熊本朝日放送",
-      "source_name": "KAB 熊本朝日放送",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ia0hMZlRKZjM0T240anliRXlZT3dGWWJEMFc0aUU2YXFJZEhTMUs3UmFpTVJTd3MzaDJEc0NxWHotNWw1MDlOaGtPTlNFclVQSFJCNzhn?oc=5"
+      "time": "2026-09-04T03:13:10Z",
+      "summary": "5日にかけ土砂災害などに十分注意 台風と秋雨前線の影響で熊本県内で非常に激しい雨のおそれ&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50UzJKekRaSnJPODRpWnVwVkZnZUpXbWo3bzlrOFkzLVRuSVRsbHVpUzN2M0NUTGNpVUQ3aTNMeUtTd3RGcjRfQzRvMWcwT2dKLWlDeVNsYTFYd1Z0MUpfSm5WRC13cFJrZzJzZUIzQjZzaUhDbVhzbTh5VFFPcmM?oc=5"
     },
     {
       "id": "news-disaster-e262eb5a67",
-      "lat": 30.5793,
-      "lng": 80.58416,
+      "lat": 30.49536,
+      "lng": 80.62723,
       "title": "The Himalayas need a treaty before the next flood",
       "category": "DISASTER",
       "time": "2026-09-04T03:02:23Z",
@@ -156,8 +189,8 @@
     },
     {
       "id": "news-disaster-b512b5f8ca",
-      "lat": 32.80091,
-      "lng": 130.73927,
+      "lat": 32.74255,
+      "lng": 130.70025,
       "title": "【瞬間映像】“裂ける”高速道路 最大震度7観測の熊本地震 国交省が公開",
       "category": "DISASTER",
       "time": "2026-09-04T03:01:23Z",
@@ -166,42 +199,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CdUhacDU5aHNvRlBlR3A4U3hrU2Q3U3dDWDFfdHBJVnhsZE9wRmZCYVMweDRpYVVvSTVqdGFIb0RKdElzZVd2dTFSODNrcG5FZ1A5UEM2M0tIanZpblZfZzRGdFVjNUhrQ05hSklNbDc0QQ?oc=5"
     },
     {
-      "id": "news-disaster-2806caf878",
-      "lat": 4.22588,
-      "lng": -75.91519,
-      "title": "‘Everyone seems to have forgotten’: In Tibet, flood-hit families search for the missing and grapple with China’s silence",
-      "category": "DISASTER",
-      "time": "2026-09-04T03:01:00Z",
-      "summary": "‘Everyone seems to have forgotten’: In Tibet, flood-hit families search for the missing and grapple with China’s silence&nbsp;&nbsp;The Guardian",
-      "source_name": "The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3V1Nk5YUEI2RmZ2OFhFVUVjQ25wQTVJbVNDWGJHVEY0Nlc2ek1yQm1hSkU3b3F4OW5kdVE5YThjUmdkdDJJWXgwMlVwNUl6S0k1MTBFUDZ0Z0lYN1Q5eW9vMWM2SGMwcHE5N0hGRzBfNzBsYUFwbmQ1TFd0Z0tBejZXMTNoUHZIM1AtZndISk1KeDJPU0xDTWhfREVOa2JKaVVlb3NlaVVPT2Fab3c?oc=5"
-    },
-    {
-      "id": "news-disaster-9406275621",
-      "lat": 34.15502,
-      "lng": -118.30792,
-      "title": "「激甚災害」に指定の方針 富山県など北陸地方の豪雨被害（2026年9月3日掲載）｜KNB NEWS NNN",
-      "category": "DISASTER",
-      "time": "2026-09-04T02:55:00Z",
-      "summary": "「激甚災害」に指定の方針 富山県など北陸地方の豪雨被害（2026年9月3日掲載）｜KNB NEWS NNN&nbsp;&nbsp;news.ntv.co.jp",
-      "source_name": "news.ntv.co.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzl1TXYtM3F5LWJtbDJMT2RpWkRzZGkzMDBRdFFhR0RBY2NqcEp2a2VzTFdhaWVFSUt5M2pUcWdtVWpnUnBFNlhEeVpnX0ZXdUw1N2pwYnU3dlUyTFVhaF9uVFlmY3UwTVpXZ1htYWZsQ09hQjJtRk9Yc3RDWkdDQ2s4MThpckR4?oc=5"
-    },
-    {
-      "id": "news-disaster-5a14a03647",
-      "lat": 34.95424,
-      "lng": 138.33047,
-      "title": "“迷走”台風×秋雨前線の影響で静岡県でも5日明け方かけ雨や雷雨の可能性 7日頃までは注意・警戒を",
-      "category": "DISASTER",
-      "time": "2026-09-04T02:55:00Z",
-      "summary": "“迷走”台風×秋雨前線の影響で静岡県でも5日明け方かけ雨や雷雨の可能性 7日頃までは注意・警戒を&nbsp;&nbsp;テレビ静岡",
-      "source_name": "テレビ静岡",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tUEN0UWdxaUI2d01XZlhQalo5M001cURiWXJrT1RzQV9ISWpKY2pCQzF1TzVrS2h2MWxzd3lPNDYyUmppQXpaMWdmZzkxdGlrMHdiQllaWUxVN0YzbVkzOFR6WQ?oc=5"
+      "id": "news-accident-dc8ee3fc40",
+      "lat": 36.00269,
+      "lng": 139.3626,
+      "title": "自転車ロードレース「ツール・ド・北海道」死亡事故から3年…競技中の選手が対向車線にはみ出し車と衝突して死亡→道交法違反の疑いで書類送検された男子大学生を旭川地検が“不起訴処分”〈北海道〉",
+      "category": "ACCIDENT",
+      "time": "2026-09-04T03:48:56Z",
+      "summary": "自転車ロードレース「ツール・ド・北海道」死亡事故から3年…競技中の選手が対向車線にはみ出し車と衝突して死亡→道交法違反の疑いで書類送検された男子大学生を旭川地検が“不起訴処分”〈北海道〉&nbsp;&nbsp;UHB 北海道文化放送",
+      "source_name": "UHB 北海道文化放送",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hWTZUbkxvcW1WNTRXbWtHOUFKZTlNNjY3RFRlY3VOcUs2dnkwUDcwVGp3YWxaRGNlQ04wTjVod3NGWXo2WE9NaVpJNGZHTkV5VXJpXzFyZw?oc=5"
     },
     {
       "id": "news-accident-79f9705f67",
-      "lat": 34.84712,
-      "lng": 135.17496,
+      "lat": 34.91251,
+      "lng": 135.21734,
       "title": "酸素吸入火災事故が示唆する高濃度水素吸入器の人体内爆発リスク｜予防原則に基づく低濃度化への転換を提言",
       "category": "ACCIDENT",
       "time": "2026-09-04T03:23:48Z",
@@ -211,8 +222,8 @@
     },
     {
       "id": "news-accident-892e7144bb",
-      "lat": 40.17392,
-      "lng": 140.05867,
+      "lat": 40.24222,
+      "lng": 140.01801,
       "title": "イオン爆発事故は「教訓生かせずか」 やるせない思いの震災遺族",
       "category": "ACCIDENT",
       "time": "2026-09-04T03:15:00Z",
@@ -222,8 +233,8 @@
     },
     {
       "id": "news-accident-af5acfa715",
-      "lat": 35.72712,
-      "lng": 139.72233,
+      "lat": 35.64874,
+      "lng": 139.73592,
       "title": "高齢ドライバーの「踏み間違い」減らせるか 免許更新の実車テスト厳格化へ 「合格」後も各地で事故",
       "category": "ACCIDENT",
       "time": "2026-09-04T03:00:00Z",
@@ -233,8 +244,8 @@
     },
     {
       "id": "news-accident-fb34f27f45",
-      "lat": 34.02969,
-      "lng": -118.19882,
+      "lat": 34.04569,
+      "lng": -118.21614,
       "title": "Woman killed, several others injured after car plows into pedestrians outside Trader Joe's in LA's Fairfax District",
       "category": "ACCIDENT",
       "time": "2026-09-04T02:55:23Z",
@@ -244,8 +255,8 @@
     },
     {
       "id": "news-accident-1af5c056c2",
-      "lat": 34.10372,
-      "lng": -118.31351,
+      "lat": 34.1653,
+      "lng": -118.40196,
       "title": "香美市の死亡ひき逃げ事故 80歳の女を逮捕【高知】（2026年9月3日掲載）｜RKC NEWS NNN",
       "category": "ACCIDENT",
       "time": "2026-09-04T02:51:00Z",
@@ -254,20 +265,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd1ZqSkgxLW80VVhpSUhvcHRWVS1TVFl0VzFwR1JvV0x1ZzZZekpwcjlybFhIRzJscGF4QVZNMlM1RG00eW1BVEE0ZTdybWRzTmtoejhVd0pORmJ1Mmo5Ny1RWW5VYzRzSVZETVo5czNySjgtQVRMY2pQV1E0UUt1Sm4xWmtjRjQ?oc=5"
     },
     {
-      "id": "news-accident-3872cc7ba6",
-      "lat": 34.68499,
-      "lng": 133.87172,
-      "title": "岡山県吉備中央町の母子死傷事故、運転の女に禁固1年8月 岡山地裁判決（山陽新聞デジタル）",
-      "category": "ACCIDENT",
-      "time": "2026-09-04T02:42:54Z",
-      "summary": "岡山県吉備中央町の母子死傷事故、運転の女に禁固1年8月 岡山地裁判決（山陽新聞デジタル）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1laFJ4R3kxVWE2VTVjcDUwaHRWTGtEbWVkMVA2RVNmSkhVYUlVY05URkRNbkRYS0NiNVlwWjE5b3dPRkdnTWt1T2pUOVZMTDRfMFdWZUp6ek85MTJVdWlFSHZsUzZPeUo2WjV5OS1GMGRCMjA5THphWWE1WjF0UWs?oc=5"
-    },
-    {
       "id": "news-disease-7794d8cc00",
-      "lat": 35.52457,
-      "lng": 139.72207,
+      "lat": 35.54407,
+      "lng": 139.67163,
       "title": "効率よくはなをかむ方法、病気予防につながる成果…旭川医大の故・海野徳二氏にイグ・ノーベル賞",
       "category": "DISEASE",
       "time": "2026-09-04T02:54:04Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-dc08f1a4a1",
-      "lat": 34.87726,
-      "lng": 135.15091,
+      "lat": 34.948,
+      "lng": 135.16912,
       "title": "豊胸手術後の感染症：決して軽視してはならないリスク。",
       "category": "DISEASE",
       "time": "2026-09-04T02:51:42Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-2a78332f15",
-      "lat": 34.8565,
-      "lng": 135.16549,
+      "lat": 34.86999,
+      "lng": 135.18364,
       "title": "インフルエンザと新型コロナウイルス感染症の同時感染：決して軽視してはならないリスクです。",
       "category": "DISEASE",
       "time": "2026-09-04T02:23:17Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-fdc85071ad",
-      "lat": 35.0141,
-      "lng": 135.83066,
+      "lat": 35.07243,
+      "lng": 135.72963,
       "title": "世界のRSウイルス感染症の市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
       "category": "DISEASE",
       "time": "2026-09-04T02:00:00Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-3ecf03852b",
-      "lat": 25.17249,
-      "lng": 55.29817,
+      "lat": 25.23356,
+      "lng": 55.32735,
       "title": "健康に関するアドバイス：就学時に子どもたちを危険な病気から守る方法。",
       "category": "DISEASE",
       "time": "2026-09-04T01:23:08Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-e107be512b",
-      "lat": 31.63015,
-      "lng": 130.51514,
+      "lat": 31.54048,
+      "lng": 130.60301,
       "title": "【写真】長生きの秘訣は「病気に負けない強い意志」――県内最高齢110歳を鹿児島市長が祝い訪問",
       "category": "DISEASE",
       "time": "2026-09-04T01:00:00Z",
@@ -332,8 +332,8 @@
     },
     {
       "id": "news-technology-f5471482a7",
-      "lat": 30.4795,
-      "lng": -94.68159,
+      "lat": 30.4169,
+      "lng": -94.79434,
       "title": "Fuqua considers recording admissions interviews, using AI to analyze transcripts",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T03:33:53Z",
@@ -343,8 +343,8 @@
     },
     {
       "id": "news-technology-418de45603",
-      "lat": -0.0399,
-      "lng": -51.07207,
+      "lat": -0.08294,
+      "lng": -51.15324,
       "title": "Amazonで「TALIX DingTalk A1」が22％オフ、AIで文字起こしや要約",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T03:30:22Z",
@@ -354,8 +354,8 @@
     },
     {
       "id": "news-technology-16490b706d",
-      "lat": 35.67549,
-      "lng": 139.76451,
+      "lat": 35.74994,
+      "lng": 139.80877,
       "title": "女性向けキャリア支援サイト「ママテラス」、WAIJ主催のAI体験型カンファレンス「WOMAN AI UPDATE 2026」のコミュニティパートナーに就任！",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T03:30:02Z",
@@ -364,9 +364,20 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WNEhqSmVpWXB3R1ZUY2w5bGpSUURUMGJzWVh5S2poVHM3MkdnVzVYQkcxbVh4anppelBEVDVIX3JXZkdhM2dmcXJFdks2alMwRmZGQ1VKZ1B0Q2NJRll3RDFqd3d0a2NkQUE?oc=5"
     },
     {
+      "id": "news-technology-1fdcd532b9",
+      "lat": 43.05473,
+      "lng": 141.34454,
+      "title": "人口流出ワースト 佐世保「AIで地域課題解決へ」地元の経営者や学生ら25人が議論 | 長崎のニュース | 天気 | NBC長崎放送",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T03:29:00Z",
+      "summary": "人口流出ワースト 佐世保「AIで地域課題解決へ」地元の経営者や学生ら25人が議論 | 長崎のニュース | 天気 | NBC長崎放送&nbsp;&nbsp;TBS NEWS DIG",
+      "source_name": "TBS NEWS DIG",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvR0VvSFpXeEVVRkFSN0gyU1F5aEs3cjVKVXBaaEUzM0xBeUZzS2lCSURrcVNsVTRaRWU5bmVReTlpa1hXdUlIQXB5VWE0ZzFReHQtM3pWM3Rndw?oc=5"
+    },
+    {
       "id": "news-technology-5376371ee1",
-      "lat": 36.03056,
-      "lng": 139.37884,
+      "lat": 36.00102,
+      "lng": 139.39841,
       "title": "AI活用企業の半数、無許可ツールへ社内情報入力",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T03:15:20Z",
@@ -376,25 +387,14 @@
     },
     {
       "id": "news-technology-f65ead91d7",
-      "lat": 42.33232,
-      "lng": -83.66153,
+      "lat": 42.25607,
+      "lng": -83.6672,
       "title": "UMich seeks community feedback on AI policy draft",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T03:14:29Z",
       "summary": "UMich seeks community feedback on AI policy draft&nbsp;&nbsp;The Michigan Daily",
       "source_name": "The Michigan Daily",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGJXeFo1UWphYUpmTW5CRnlndEhtMGtuN0RwOVN4NUFVbVBhZDlJd1o0SGR4cl9SRlhJejVPaTh6aExtSXA2bnhFa0w5NWZSOU9YOHZCLVlUODRnR21KaXFEcDZGbXhobURpV3RTTk03VkJDRmlvWDVyQWZfc1QtdmFGTXluQmhDNmlSWE1aUWhjdS1OZHdFVzFVYVN6Zw?oc=5"
-    },
-    {
-      "id": "news-technology-caff1fc10e",
-      "lat": 35.34124,
-      "lng": 137.10953,
-      "title": "米オープンAI、新型モデル「GPT6アストラ」提供＝サイバー能力で最上位(時事通信)",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T03:10:00Z",
-      "summary": "米オープンAI、新型モデル「GPT6アストラ」提供＝サイバー能力で最上位(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
-      "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVBMdGt0Um5ybFhuOGlSZ0VUNHVUb1phejlQV0tmekhqaWVtNW1XUEUtR3UybmQ0el9pZFlsLXVLTEx6dlJZOTZGOTJfWURqQjRUR1hoeW5DWlpSaGlLNE9HREI5RERqemZfeTZ3SHhMYUE3ZVhFazRoTm5mT0IyX01qZmhMTHM?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-04T03:37:37Z"
+  "updated_at": "2026-09-04T03:50:25Z"
 }
