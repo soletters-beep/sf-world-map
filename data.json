@@ -1,9 +1,53 @@
 {
   "news": [
     {
+      "id": "news-politics-ee761922aa",
+      "lat": 43.56743,
+      "lng": -84.70974,
+      "title": "Michigan Supreme Court clears ballot measure restricting business political giving",
+      "category": "POLITICS",
+      "time": "2026-09-04T00:36:00Z",
+      "summary": "Michigan Supreme Court clears ballot measure restricting business political giving&nbsp;&nbsp;Crain's Detroit",
+      "source_name": "Crain's Detroit",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVktLSUdzSTRsR1B1cnVoYlZzYUtQdG1QZl9xNXYxM2pSSnBwVzNpWG41ZG9ZbHJFSTh0ejUxd1c2WVZ1MzViLUNQa2FVWWRWVzBrMUk1cTlkc2MtRmR3ZWFva1BwSzhMZzJtSFc5a1R5Sm93X1J1VElkeTNlc2ZNNkp5VVNXbXhHNFh5aGhjQnVtLVR4QnM4QldSMVBSUndRbm1veFd3?oc=5"
+    },
+    {
+      "id": "news-politics-4f8e89e9ed",
+      "lat": 38.88633,
+      "lng": -77.09663,
+      "title": "Reading Palestinian Polls—and Misreading Palestinian Politics",
+      "category": "POLITICS",
+      "time": "2026-09-04T00:31:15Z",
+      "summary": "Reading Palestinian Polls—and Misreading Palestinian Politics&nbsp;&nbsp;Arab Center Washington DC",
+      "source_name": "Arab Center Washington DC",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlZOTEdHZjItXzNOM3dBc0hBQjl5SlF3VGNoWU43WnNxalg0MDVjV1hxY0I5alVvTjJ4cmxFdEZxLW5KYjltMmhIRkVKWFFZekVtbTJLajl1a3lsLU5IYXhzbVNMZ0dSaDFUM2tlSzRGSzZicE16WHZvR3JvaFllVVN5MzgyQ19CSTVCSEF6NnM2cXZFcXVpZU96SjU?oc=5"
+    },
+    {
+      "id": "news-politics-37e07e3a55",
+      "lat": 39.7179,
+      "lng": -76.62527,
+      "title": "Trump again appeals to Supreme Court on mail voting restrictions as midterms loom",
+      "category": "POLITICS",
+      "time": "2026-09-04T00:25:01Z",
+      "summary": "Trump again appeals to Supreme Court on mail voting restrictions as midterms loom&nbsp;&nbsp;pbs.org",
+      "source_name": "pbs.org",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdjhZWFp3c1hzUnhTbzl1bkl2Z3JyUWZOVUNmd2pucnF5MzROeFVzR2h5OXptX1VKM3VfSDhnbjFZZWtMSHQyTEs0S1RXVk13ZVAxZVlSNnF1bDlMbG5TbUlONHNDR2dSRldRZENKOGk5Zmg3YUNfX1Bycm1PejY1Q2lHN0JKdTF6MXNEanVESDZYaE56UzQ5VDlUeGRwcThVMy04RWxyVjdFNzlRSl9nUGpXbzIwR0J3X09R0gHAAUFVX3lxTE5LR0prS0dQX0RpYUR2NlpUNnI4NnZuTTlfYWc4RlpkbmNYRDdUYXRMUUpEZ1VyVmFjTHVhUUdOR1ZiX1lrRFd2b0t2Q3A2bTBMZjMyMEJBWHJvZ1A0UTA4MDl6SUxRZlVtY0tvVzBiTEtqbi1sN0ZXUlNsZ3d0cHZsM2dJMHBIUkRpcU5IV1cwd1RXRVBZcE1yQ0VpUGx1eS1QdjY5ZDN6R21LUHBIcC12NEJja3pobmFweWRHWExicw?oc=5"
+    },
+    {
+      "id": "news-politics-0303f99821",
+      "lat": 40.93577,
+      "lng": -88.91283,
+      "title": "Dana Perino disses George Clooney’s ‘smug political sermon’",
+      "category": "POLITICS",
+      "time": "2026-09-04T00:24:46Z",
+      "summary": "Dana Perino disses George Clooney’s ‘smug political sermon’&nbsp;&nbsp;Fox News",
+      "source_name": "Fox News",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2Q3B4TEh0S19kQVRWTGVsU2J4WVdSMkdXNDI3Y0lPaW02WFQtcFB2a0dNbHVNVG55anVyTm5VVWlDQUU0WVBPcTMtV2hfSmhBMl9SOTNR?oc=5"
+    },
+    {
       "id": "news-politics-6f1eaa40e6",
-      "lat": 38.87133,
-      "lng": -77.0248,
+      "lat": 38.87918,
+      "lng": -77.09442,
       "title": "Republicans fear Trump will keep super PAC money and not spend on the midterms",
       "category": "POLITICS",
       "time": "2026-09-04T00:02:46Z",
@@ -13,8 +57,8 @@
     },
     {
       "id": "news-politics-33fe70fd35",
-      "lat": 50.52412,
-      "lng": 4.86914,
+      "lat": 50.49029,
+      "lng": 4.86968,
       "title": "Live updates: Trump administration asks Supreme Court to allow mail-in ballot rule to proceed",
       "category": "POLITICS",
       "time": "2026-09-03T23:47:26Z",
@@ -23,119 +67,97 @@
       "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQejhSNXJZb1VNTXBTNEQ1UTJvX1BZdkhmVUpIR3E5Y0l3NlM0Q2kzdFF5bjE5bHVtWWhERlZxSGdvejF6dlpoQXpCbnlOaFFzM2dUc1dJTUNfQWZyeEQzQTIwa1JyNGNlUTVGM2E3MEpFZmtub203cTVkMHRwTUxoS2lIT0xwellzT2FHNF81RU1jMVBvN0VZMk1ZcGhYeHRSZkJsa3hpMF8zeE5xY0tSZFFaV2hpZzN6WTFQaWtVUXRuUUxGa1ZMcA?oc=5"
     },
     {
-      "id": "news-politics-620a8b4fd4",
-      "lat": 38.79076,
-      "lng": -92.53473,
-      "title": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections",
-      "category": "POLITICS",
-      "time": "2026-09-03T23:26:45Z",
-      "summary": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections&nbsp;&nbsp;NBC News",
-      "source_name": "NBC News",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlZ1c3ljMHdkLUxtLXo4RG5tTkU5VFNHRFdkMGRuak5nY3hQNXVpSk9jLXptdEJWZzBaaElSWko0N1ZqZUJXTUNUbHI4UktvX2lnTnFLQjFvdjNaYk1zdEF5VXdHVGFaZUQyU3J2MUxUWVJhRzlHelVDYVNJSlU3cGxOTnQ0MmdKdW5LbUI0T2Uwd3dzdVZMczZUUHRJUHpqWmFCZG5HZ1g3ejRGTzBjX1oxTXlZczlHT3B0UEZObVpNeGdsblM4?oc=5"
-    },
-    {
-      "id": "news-politics-7f22af5771",
-      "lat": 35.67159,
-      "lng": 139.79844,
-      "title": "政治局の決議や指令を周知徹底し実施するための全国会議を開催する。地方自治体レベルの職員は、容易な仕事を選んではならず、困難な仕事は避けるべきである。",
-      "category": "POLITICS",
-      "time": "2026-09-03T23:20:08Z",
-      "summary": "政治局の決議や指令を周知徹底し実施するための全国会議を開催する。地方自治体レベルの職員は、容易な仕事を選んではならず、困難な仕事は避けるべきである。&nbsp;&nbsp;Vietnam.vn",
-      "source_name": "Vietnam.vn",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZkdGNEYta3Y2MHM1cDY4Z2JXeXp2R0tyNnhkc2pjQVdIeEdXMWNnRWFTVllCLWczcW9TVHJZcjh2OEtpeWJLNmRQRHVmaWhPUGwzZFVNZjdVMTFueTE4cjBvYkFlakZrVS1pd0g0STBXQ1dpa1IyclBoWUhuMFVtM3NaWDZHVWYyLXZUMXVTR3hORGQ0LTRrNDJPeE9TRlpyRmRnelgwMm1fcVFUMHAxSTNrVmdoQmxtSHF1MTVyVnhjSVN2c0FkOUg0R0xhVkhKUU9NdWxuemc2UGJFU0tUY0xFZmUzSG5w?oc=5"
-    },
-    {
-      "id": "news-politics-48d60ce78f",
-      "lat": 22.99455,
-      "lng": 108.34055,
-      "title": "美しき友情？ それとも政治的打算？ バンス副大統領がトランプ氏の政敵を「友達」と明言（産経新聞）",
-      "category": "POLITICS",
-      "time": "2026-09-03T23:12:06Z",
-      "summary": "美しき友情？ それとも政治的打算？ バンス副大統領がトランプ氏の政敵を「友達」と明言（産経新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SWGVDcVNOS0c4VTRjc2lvalR3bWVVZ1ItZ2pqcUJjM2RmbHJYOTM3Rm9mZHdKOXJEUEhnNkktY09malFZMW1kVTh4bkhVNjUtdkJ0UmJ6V0VZaGFnM0JaelFrN1A5QXhPX2h2WTEzaFBPY1FLdTVybUV0X0JDcGs?oc=5"
-    },
-    {
-      "id": "news-politics-718e3cdc25",
-      "lat": 28.43179,
-      "lng": 83.98279,
-      "title": "緊急援助隊、４日に派遣 政府、ネパール土石流で",
-      "category": "POLITICS",
-      "time": "2026-09-03T23:04:00Z",
-      "summary": "緊急援助隊、４日に派遣 政府、ネパール土石流で&nbsp;&nbsp;時事ドットコム",
-      "source_name": "時事ドットコム",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oYjdyU2hUR0YxVllZaWN5TkQ5RDhZRVh4REcxRGxqZTJBOUsyWUsyeV82YkVRN0VhS1FsR2FyeEEtRnQ3Z2RJckRJY3liWFVIR09DQlhFYnFyZ004dmxsSkNpOA?oc=5"
-    },
-    {
       "id": "news-finance-9000a27302",
-      "lat": 36.55245,
-      "lng": -4.59536,
-      "title": "Volkswagen board approves plan to cut 100,000 jobs",
+      "lat": 36.59056,
+      "lng": -4.57479,
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
       "category": "FINANCE",
-      "time": "2026-09-04T00:18:25Z",
-      "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - said in March that it would cut 50,000 roles.",
+      "time": "2026-09-04T00:51:11Z",
+      "summary": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 by 2030.",
       "source_name": "BBC News",
       "source_url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "id": "news-finance-ed790ba58f",
-      "lat": 43.23322,
-      "lng": 76.8737,
-      "title": "【要人発言】財務官「為替、引き続き臨戦態勢」(トレーダーズ・ウェブ)",
+      "id": "news-finance-1bde4aada6",
+      "lat": 35.68397,
+      "lng": 139.695,
+      "title": "日経平均株価 小幅な値動き 円高で様子見の動き 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選",
       "category": "FINANCE",
-      "time": "2026-09-04T00:09:00Z",
-      "summary": "【要人発言】財務官「為替、引き続き臨戦態勢」(トレーダーズ・ウェブ)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "time": "2026-09-04T00:48:09Z",
+      "summary": "日経平均株価 小幅な値動き 円高で様子見の動き 【アベマ厳選】注目の最新&独自ニュースをチェック! | 厳選&nbsp;&nbsp;ABEMA",
+      "source_name": "ABEMA",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZHV0emMxVW9lRlZZaVlPZjJybDY0eVhlUTVLejByLUZhWHctUllORGdFOEZqdHhrWEpxcnpXZkllVHVCdzBvcFo1Q3FJX0JGRW9wbGtnaUN1d1FoUzBoOXJOYUZTMXM0d3M5TTloWkNKTXFpeUZTd3JzSmU3eWFiSklmdzZZR002RWtuNnNRZmIzc3NlYy11VU5oLURveVJWR2xPbWlKRGlrOERsZ1F1VFMtNVUzZnVyM3l5empSNDhkU2Z5Uk42OFpoMWdCeTR6bHhtNVpLYUZ5bkhPUDktTC01Nks0UGN5?oc=5"
+    },
+    {
+      "id": "news-finance-c946686dec",
+      "lat": 35.62623,
+      "lng": 139.81774,
+      "title": "小田急電鉄－東海東京が目標株価を引き上げ 利益成長と還元強化によりROE10%超達成の確度が向上〔DZH 個別株情報〕",
+      "category": "FINANCE",
+      "time": "2026-09-04T00:48:00Z",
+      "summary": "小田急電鉄－東海東京が目標株価を引き上げ 利益成長と還元強化によりROE10%超達成の確度が向上〔DZH 個別株情報〕&nbsp;&nbsp;Yahoo!ファイナンス",
       "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0s1cElvaVFmZEhnZUFGSWxoNlJ5SV9ETmMzd3A2Rk1MdHRKcnNJMlFmbnNVcW95U3VLcllUeklONmRva24yOVJ3Q1BPLXNFamFKYzJmclk1SDN6b1JucTVXbmNHbVBHcHZGZi1KaU1SeEFwb3V6ZDZtV3AwbVZGaFVrWDYtemc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOW1VR3BQbk9zUVl2STlDRWgteG9hNGdtSUQzWElCMjBmT003RWltZjVSWkpiNm41aWdnSWpKX1hNazJPemg4ZUw4WXpIVTY3RDEtTzNnYjRDc1JBZS1qRkpGUWNuTmFGODZtQW4tS2trT2dDdlNCVHdXVG4xV3pwNUM4Tk00ZWM?oc=5"
     },
     {
-      "id": "news-finance-339f4d2e55",
-      "lat": 37.76019,
-      "lng": -89.00028,
-      "title": "Yes Energy Webinar — Temperature Sensitivities Across European Power Markets",
+      "id": "news-finance-c41912757e",
+      "lat": 35.64758,
+      "lng": 139.73634,
+      "title": "ピジョン－岡三が目標株価を引き上げ 下期以降の中国事業の収益性改善を予想〔DZH 個別株情報〕(時事通信)",
       "category": "FINANCE",
-      "time": "2026-09-04T00:05:14Z",
-      "summary": "Yes Energy Webinar — Temperature Sensitivities Across European Power Markets&nbsp;&nbsp;RTO Insider",
-      "source_name": "RTO Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNXd1MFhVZ3VTeWhwNklWbGd6bDlvbXdsVXc5bDMwcXI1bFAwQ2IwZXlLaGVLVFRzS3hHT2hjWjY2Zm9PRkthenk5WWM4Z3dHX2VPRHlnRWxoYU1zemk1N3kyYUtDZ0t3N1FVaUx3MzdsMml3QU5jbTVjZ1QxVzZMbDctQkNVX0VJeFJFUlBQVU9HNVF5eXhjdUVIZ3hoeTI4amhfdGxCbEsyUlNhY0E?oc=5"
-    },
-    {
-      "id": "news-finance-45796d1607",
-      "lat": 35.66217,
-      "lng": 139.99544,
-      "title": "日経平均株価、反発で始まる 米金利低下でハイテクに買い",
-      "category": "FINANCE",
-      "time": "2026-09-04T00:03:36Z",
-      "summary": "日経平均株価、反発で始まる 米金利低下でハイテクに買い&nbsp;&nbsp;日本経済新聞",
-      "source_name": "日本経済新聞",
-      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80OEZTY2lWX1NWWkoxcTREMXJMUDhvOEpScXN1VFA2ZWJIVHJhTG50NlJhblMyTjJ5bjFSbWpTR2Z4NW1mRGVDeFFfd085UV8xMnFVRTViM2dkRTVSdmtxR3YzTHJuUEFRbWNwaw?oc=5"
-    },
-    {
-      "id": "news-finance-094e1b8481",
-      "lat": 34.6668,
-      "lng": 135.16081,
-      "title": "神戸物産－買い気配 為替介入への警戒などからドル円が155円台に 円高メリット株に買い(トレーダーズ・ウェブ)",
-      "category": "FINANCE",
-      "time": "2026-09-04T00:02:00Z",
-      "summary": "神戸物産－買い気配 為替介入への警戒などからドル円が155円台に 円高メリット株に買い(トレーダーズ・ウェブ)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "time": "2026-09-04T00:45:00Z",
+      "summary": "ピジョン－岡三が目標株価を引き上げ 下期以降の中国事業の収益性改善を予想〔DZH 個別株情報〕(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
       "source_name": "Yahoo!ファイナンス",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYURiaDBCanYtSjhyZjVsNXp0c0F6UzhDUk43OGkxQlYwaDBuVnhUVmI4QmhEanIxQnpwblpSY0RVLU1DNHZfdFZXNjFWSXR3YXJiZ0tvSkFtYWl2WUpuUEpwRk95UXdsczRnbkNkNm51SVNBczFuZ2JtV0hMS0VuUWxiS1hVM0U?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOWZHbF9tSE50dDBEdXNWMmZaS0l1dURWN3NLZHR0OG5NWl9IeGNlaEN1T0pwaEhtVU9hMl8yS01rcWpBNWRjZHRYX0xxbm1yNVh2SVJSNkhPSkFTZzA2bjRDTTc5ZVl1VkhWamUzX19SNzk4d3VrZkF4SjVPQ2lQZ1c5VFRmZHM?oc=5"
     },
     {
-      "id": "news-finance-3a3a2b84db",
-      "lat": 35.61898,
-      "lng": 139.56603,
-      "title": "総合株価指数 74.88ポイント▲ 6654.36(寄り付き)（聯合ニュース）",
+      "id": "news-finance-52e72a51f0",
+      "lat": 35.63141,
+      "lng": 139.7368,
+      "title": "ニッタ－東海東京が目標株価を引き上げ 半導体関連製品の売上好調〔DZH 個別株情報〕(時事通信)",
       "category": "FINANCE",
-      "time": "2026-09-04T00:01:14Z",
-      "summary": "総合株価指数 74.88ポイント▲ 6654.36(寄り付き)（聯合ニュース）&nbsp;&nbsp;Yahoo!ニュース",
-      "source_name": "Yahoo!ニュース",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HTGhjZnBnQ3dtc2RzeHNtREprMW9fdkZDaHVmV0ZIODZ6S0xPU1dGYzRZajhiSy1yNjhnbmcxVTNoNE5xWmxZWFh5cnhtU0RfbzRyTmN3MEVLYmlCSDVfR2lBTDBpR2l5ZEJkSmU5dVRrT1dXeVFmdUs3dVZHS0E?oc=5"
+      "time": "2026-09-04T00:45:00Z",
+      "summary": "ニッタ－東海東京が目標株価を引き上げ 半導体関連製品の売上好調〔DZH 個別株情報〕(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ1otX0FCT2JZLWY2dVVfcG92Mm55dnEzdjNRb1plN0w4SlVGYjdRaDZsMmZQeUFDX1ZIem41YTZjUGU5M1p1WnVnZzRzNHNkZWVEc3psQmpWTFpsb1BmcV92RjZKWlpHQ3ZwSWxUZk4wclFxMGJiYWJCSTVyZzI1X3NXRWlneW8?oc=5"
+    },
+    {
+      "id": "news-finance-f53f388006",
+      "lat": 35.40596,
+      "lng": 139.39685,
+      "title": "大塚商会－岡三が目標株価を引き上げ オフィスまるごとの深化で更なる成長へ〔DZH 個別株情報〕(時事通信)",
+      "category": "FINANCE",
+      "time": "2026-09-04T00:42:00Z",
+      "summary": "大塚商会－岡三が目標株価を引き上げ オフィスまるごとの深化で更なる成長へ〔DZH 個別株情報〕(時事通信)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "source_name": "Yahoo!ファイナンス",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRjR0czgyeGVCbXN5WFRjYTVNVkJxNTlRZ0xNYWFzQXByb0w0U0V3UVI0cEhBUnZ6UmdKVjhmS2VKeDhFN2NtTURVQUhkNWRiTHRrb3N1azFyNTV5eXZNWUZiTW1ZUGpMeDRKb0JZNms0TVdLaS1FMHlBRkNLNm9zaW80T1lMX2c?oc=5"
+    },
+    {
+      "id": "news-disaster-4580cc2522",
+      "lat": 36.80716,
+      "lng": -83.62233,
+      "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
+      "category": "DISASTER",
+      "time": "2026-09-04T00:46:54Z",
+      "summary": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
+      "source_name": "BBC News",
+      "source_url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "news-disaster-955283a5e5",
+      "lat": 40.45781,
+      "lng": -80.03831,
+      "title": "Pittsburgh NWS Issues Flash Flood Warning for Allegheny, Westmoreland, Armstrong, and Indiana Counties as Storm Dumps 3+ Inches of Rain",
+      "category": "DISASTER",
+      "time": "2026-09-04T00:37:35Z",
+      "summary": "Pittsburgh NWS Issues Flash Flood Warning for Allegheny, Westmoreland, Armstrong, and Indiana Counties as Storm Dumps 3+ Inches of Rain&nbsp;&nbsp;Forth.News",
+      "source_name": "Forth.News",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XSzNPT3p0MmVZNmNpdU1uY3c0VHlELXdUOWhmYm1scnpKSUlfUHFsRGdEbVNDSmNOZ0otOFBGUzVuZGRTdnlHYW9ZQU80eFdfN18xQUpjN1JOdXJ2Q0pjcUtn?oc=5"
     },
     {
       "id": "news-disaster-6cf9301f91",
-      "lat": 10.4079,
-      "lng": 22.57281,
+      "lat": 10.36724,
+      "lng": 22.66663,
       "title": "U.S. Army Japan demonstrates disaster response capabilities in Big Rescue Kanagawa 2026",
       "category": "DISASTER",
       "time": "2026-09-04T00:07:14Z",
@@ -145,8 +167,8 @@
     },
     {
       "id": "news-disaster-6352438d05",
-      "lat": 31.58379,
-      "lng": 130.61262,
+      "lat": 31.5637,
+      "lng": 130.50384,
       "title": "台風24号+前線で大雨か 5日朝までに鹿児島で250ミリ・大分で200ミリ予想 線状降水帯のおそれも（NBC長崎放送）",
       "category": "DISASTER",
       "time": "2026-09-03T23:50:08Z",
@@ -156,8 +178,8 @@
     },
     {
       "id": "news-disaster-b8d2840a3a",
-      "lat": 38.90031,
-      "lng": -77.09415,
+      "lat": 38.89938,
+      "lng": -77.01241,
       "title": "President approves Major Disaster Declaration for Hawaiʻi following M-6.0 earthquake in May 2026",
       "category": "DISASTER",
       "time": "2026-09-03T23:35:30Z",
@@ -167,8 +189,8 @@
     },
     {
       "id": "news-disaster-ff6edca199",
-      "lat": 48.37114,
-      "lng": 5.45296,
+      "lat": 48.42618,
+      "lng": 5.51428,
       "title": "Two dead, one missing in Grand Canyon flash flood as emergency alerts aid rescues",
       "category": "DISASTER",
       "time": "2026-09-03T23:34:09Z",
@@ -177,31 +199,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZDRQam9Pd1NkSEc1SmNTQmxXbTY1TXlUQU4tZG1PWlRmZ2NfMWlKMVozZWhNZE5CM21CUEpJT1VRY1gzeDlPb0g4ZU9XbU5Wc19zX0F6bDJiZHRJMFMyajhlY0VxVjlsSXJxU1NfRThVNUNlbEU0TERxeERSU2RHOS1Ya0I4YjR5aEpBVHAtUHZpTDdTRUlDZmRTNmU5T2g0MnhGbGgxNXNmN1Jp?oc=5"
     },
     {
-      "id": "news-disaster-7948197ed0",
-      "lat": 40.0289,
-      "lng": -86.11026,
-      "title": "Magnitude 3.3 earthquake rattles Santa Rosa area",
-      "category": "DISASTER",
-      "time": "2026-09-03T23:28:18Z",
-      "summary": "Magnitude 3.3 earthquake rattles Santa Rosa area&nbsp;&nbsp;The Press Democrat",
-      "source_name": "The Press Democrat",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMEdRMUxfZEZ6NWpRWk9XLUo1dHRLUGlXOGJ6RW04THZ1QUZNY3VFU2ZfdWZTekRiTW9BbnVTMjJpV1B5RUNyVTJUMENma3JJLUNFSVJIZ3FKQlk4YXAzTXhEN2hwTnZtWUJLWmx5QjY5MFp2Y1FMRjJPSGdMMThpZFpOODJoRldoSFRPZ3RCTEF6aVJwMFNFR3JyN3Y?oc=5"
-    },
-    {
-      "id": "news-disaster-265589f48b",
-      "lat": 51.55861,
-      "lng": -0.04727,
-      "title": "City Council expected to vote on South Howard flood relief project",
-      "category": "DISASTER",
-      "time": "2026-09-03T23:14:03Z",
-      "summary": "City Council expected to vote on South Howard flood relief project&nbsp;&nbsp;WFLA",
-      "source_name": "WFLA",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUWpMNklWSUFJbmpaRXlZRU1rQ3ZRYnhMWjIteDBMeVlkZDRncE16aklkeTZFcmJYOGxyX09OY1g2Z19GYTN3QjFIVXFwY1JfbFB1aXhySC1FWDR5cFR4RUlxTFRMZ1hyZTBSUF9odGFRa0lueTA2aGc3OUJkMFBrNkZVaUpNNkRraGJOXzJOejFQZmltb0JwZ3dqc2l2RU5TTHZiN1AtUDBtRVZIMElpV3JHTdIBuAFBVV95cUxNQzFEVWJVQkt3LVNVMng0UVgzbGFaWWJNZ1lSZnhzZ2E3ZWlKbmVyS3R4cEVfd0dKbjYwMHloYW9Db1lZWElCMWY2UmNfU1A3cXYzYzVtTkF3R1ZYYjN2eFlUVDhZZFBKN3FBNU0ySm1ySEM4cGxZdUM1ZDROUmtvbkdZekN4N3R2R2wzSGROU2p1SlRVMk1hUnRLdmg5OVdaMjF1QUZKVzVHd0dWbmkzd09SODJiOXhM?oc=5"
-    },
-    {
       "id": "news-accident-0a4342ce0c",
-      "lat": 33.62995,
-      "lng": 130.20318,
+      "lat": 33.56396,
+      "lng": 130.23451,
       "title": "【事故】廿日市で軽トラと大型トラックが正面衝突 会社員死亡",
       "category": "ACCIDENT",
       "time": "2026-09-04T00:05:00Z",
@@ -211,8 +211,8 @@
     },
     {
       "id": "news-accident-f56d7f0672",
-      "lat": 42.70406,
-      "lng": -73.16248,
+      "lat": 42.70943,
+      "lng": -73.25506,
       "title": "14 people taken to hospital after crash involving school bus in Williamstown, NJ",
       "category": "ACCIDENT",
       "time": "2026-09-04T00:00:58Z",
@@ -221,31 +221,9 @@
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVVHQmtTV1pTeGNPNWlmWU01YnF4TldzYXRkWm04dERma0oxNll6b1c5UXpIUUllb1RZNGFpZ1FmNDBUVUN2OWs2bWJ2VGFDTk8xV2lDU1UyWS1iRmNEVzV4enhKbHVRX0xsRGJVaDQ3d0FBSllqTHhrUHZCdEYzSlJxZS1PZGhRWnV1MzZfTmFTeXhteHQxNmJib2tKVG12TXfSAacBQVVfeXFMTW81TmlmaVJ6Vlc1UTRBc3RtR3RhZzVHLXRicjZ2QUZ6UnhVU2t5LU5HUTdLVF9LMGdUMkRaSGRfcnRER1BKb3E0WGJOZDZoN2tFeWp0Z0hIQi1WVGxIOGRMTHFyUUVFd2pvSnZzcm1sd0IwWUF2bzVIWHhYdS1zME5nczBqUlJ4cExwaDB4amlvMzBWeURoeVhIUHBIbGJZRkRXNFl5VUU?oc=5"
     },
     {
-      "id": "news-accident-6e91348c64",
-      "lat": 38.28539,
-      "lng": -90.62607,
-      "title": "Tractor-trailer crash blocking northbound lanes of I-95 in Stafford County",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T23:37:30Z",
-      "summary": "Tractor-trailer crash blocking northbound lanes of I-95 in Stafford County&nbsp;&nbsp;WJLA",
-      "source_name": "WJLA",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTh1eVBaZ2NKT1BBREMwOHVfRzAzNlJEYjVKUnJYdWJscjhhZkhRLUFGelExVnlORFJXUW5EWURNV3cwS2Z5Rzl3OVgxOWdjWlpVY2pqTjNjbWFpeGNmWHFldENLcDVKTzhpNG11WjVOZUhVNW1leU96UlNMTjlHMkRpRnNLazQzY0loYWtxR1YyRllFeDhwSHNzVEgtMVRKMWJ3YQ?oc=5"
-    },
-    {
-      "id": "news-accident-ae1a17998e",
-      "lat": 52.23265,
-      "lng": 0.14329,
-      "title": "MIT professor dies days after being injured in Cambridge bike crash",
-      "category": "ACCIDENT",
-      "time": "2026-09-03T23:31:57Z",
-      "summary": "MIT professor dies days after being injured in Cambridge bike crash&nbsp;&nbsp;NBC Boston",
-      "source_name": "NBC Boston",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRloxLXVGMUl4TnJSYl9LMEdOUzNaNXU1eC1mZnF2S3pkN29Uem5JZWZsdlZ5ZkhFVElMeGd5dmJDaEpoTHZYaHZVRkllUms1OGFLWlFETXZUMzVPSlBKNFhtNVJ6UVh0UzFpWmxBVG1KU1hGRzRmeERRUW1UcFFTMmJ1UFBHU0xjWUhXeThHNGxud9IBmgFBVV95cUxNa3lrX05GMGp4d3pJRXFQTzhKb3M4bWJndE5YX1B4QkVWVHVIWUdLRk1EZkNncDNfTTI2TFpTemtIY0lhTGtUNy1Udk5uUGtNMHRZSF90WG5ONDVWSjBQSUpfdVdkX3BmUUJyQUtWNGJVZ2t0dHc5aVI0Y1AxVmgyNWd1WFdvcllSZTlldThRV3dfT1oyM0xqaElR?oc=5"
-    },
-    {
       "id": "news-accident-7a307b50db",
-      "lat": 34.43177,
-      "lng": 132.47251,
+      "lat": 34.32765,
+      "lng": 132.49946,
       "title": "【事故】広島市中区の交差点で事故、広島電鉄が一時運転見合わせ 通勤時間帯を直撃",
       "category": "ACCIDENT",
       "time": "2026-09-03T23:27:00Z",
@@ -255,8 +233,8 @@
     },
     {
       "id": "news-accident-e0965af62f",
-      "lat": 35.1334,
-      "lng": 137.66365,
+      "lat": 35.13993,
+      "lng": 137.57527,
       "title": "子ども用ハーネスはなぜ必要なのか→\"かつて事故で重傷を負った自分の姿”の説得力がスゴい",
       "category": "ACCIDENT",
       "time": "2026-09-03T23:18:18Z",
@@ -265,9 +243,31 @@
       "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Pa1pnalk4SFZzWFR4cmpjZzZtUUtBZFJuRFlxN3RtM012aXI3anVsZTlwbk9TTGtDSFVYdlNhWkkwV2tKN3dIUUxuMFkzWGJlejFMei1wbTlwVW1ya3NWM1BOa1loQ2FDX0dQVWFQWUh5YXdhZ1RmUkpMQWJMVmc?oc=5"
     },
     {
+      "id": "news-accident-b6027350d6",
+      "lat": 52.9873,
+      "lng": -1.21611,
+      "title": "Search continues for driver in fatal Texarkana motorcycle crash",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T22:44:00Z",
+      "summary": "Search continues for driver in fatal Texarkana motorcycle crash&nbsp;&nbsp;KSLA",
+      "source_name": "KSLA",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMk9rNEREY0xJYjhCRHBrUkRQdzNoMkdGVV92S1VrNW9uVFZRTENYZS1NSWZvMEVEb2NvUkJ3WU1SVTIxTkNROUx0d2c2TzM5QnI3c2ZiSm1qdHRpTXhWOU9VcERaUUVCdHNSZUNRQUJJRG92bWIwdXhrT1JjOWlpRXlVWXZTSnotZWl1QU9vaXlnZU3SAacBQVVfeXFMTXdkUzAzWjY1ZGozTEVKb2syNEYxdF9tU2RMaUlrdW05dVBVVWNGNlgzYmE3SGhvUlFkNEJ5ZGpJLUZKVG1YdzZGQUwxT0NqbGx2V1dia3Y4NlhkLTJVSU95akFYdzJjUnNYTC1VTTdFSF9YVGgwdGR6OWtLVUF0MHRRdThIQzRDVlQtVWdYZlJtOUNHUWptRUstU3RLM2F1VUVKdk0tcms?oc=5"
+    },
+    {
+      "id": "news-accident-755053156b",
+      "lat": 38.89278,
+      "lng": -77.09509,
+      "title": "Bicyclist killed in San Jose",
+      "category": "ACCIDENT",
+      "time": "2026-09-03T22:41:25Z",
+      "summary": "Bicyclist killed in San Jose&nbsp;&nbsp;KTVU",
+      "source_name": "KTVU",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtZ1QzQVdhNlR1WHNuUGJyckszeXJYZ3QtSXZleHNwVmEySmtlZ01iLWxxNDhkSkJncmNjdUhyOEdDanVsSlduRTczTkhSYUlmcFdMaGxoaWVFTHIxSXFnVFNMbkhmOHNiMWdIWnhUUdIBdEFVX3lxTE51X1QzTVBqMWctM1N5NzdJdW5TUzB2SHJNeHFKeDlDbERMUHRDOGRxQl96ODJxWllPSEl0S0VWM3EtNmYyQldJUzdHN1RWM0NTanFHclI0YmpDYnI5bDU1dEFfQmo4S19UYzlPZkRhUUduY0Zp?oc=5"
+    },
+    {
       "id": "news-disease-e8001c69c1",
-      "lat": 34.04435,
-      "lng": 135.23725,
+      "lat": 34.09091,
+      "lng": 135.23454,
       "title": "ファム・チョン・ギア氏は、重い病気を患い孤独な男性であり、助けを必要としている。",
       "category": "DISEASE",
       "time": "2026-09-03T23:12:08Z",
@@ -277,8 +277,8 @@
     },
     {
       "id": "news-disease-ad711b3bc4",
-      "lat": 34.17693,
-      "lng": -77.94569,
+      "lat": 34.24886,
+      "lng": -77.89284,
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
       "category": "DISEASE",
       "time": "2026-09-03T22:31:23Z",
@@ -288,8 +288,8 @@
     },
     {
       "id": "news-disease-3fabbdc2ae",
-      "lat": 3.47439,
-      "lng": 21.66268,
+      "lat": 3.54382,
+      "lng": 21.7139,
       "title": "Ebola disease outbreak in the Democratic Republic of the Congo and Uganda - European Centre for Disease Prevention and Control (ECDC)",
       "category": "DISEASE",
       "time": "2026-09-03T21:30:40Z",
@@ -299,8 +299,8 @@
     },
     {
       "id": "news-disease-2e211fcb0f",
-      "lat": 3.50017,
-      "lng": 21.65119,
+      "lat": 3.46291,
+      "lng": 21.62895,
       "title": "Ebola Outbreak ‘Still Evolving’ as Deaths Pass 3,000",
       "category": "DISEASE",
       "time": "2026-09-03T21:14:56Z",
@@ -310,8 +310,8 @@
     },
     {
       "id": "news-disease-d1cbec5bb6",
-      "lat": 35.02736,
-      "lng": 135.71405,
+      "lat": 34.98471,
+      "lng": 135.80231,
       "title": "病気マサノリ",
       "category": "DISEASE",
       "time": "2026-09-03T16:14:30Z",
@@ -321,8 +321,8 @@
     },
     {
       "id": "news-disease-9d2e3687af",
-      "lat": 43.52734,
-      "lng": -73.91572,
+      "lat": 43.53375,
+      "lng": -73.93189,
       "title": "Measles outbreak in Sweden: most cases in unvaccinated children",
       "category": "DISEASE",
       "time": "2026-09-03T15:41:11Z",
@@ -331,70 +331,70 @@
       "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWszMngxYThpdE90Q2cyMk5Sd0xWUnFab09aQUJzZ2gtMXZEc2dwSnR0SklQMTB1ak5DbWUtRDdxaU5mLUVSc3hDN2NKd0liQUoyc2p6alBRY3VxVVl5YWxKSTR1UmFzSlZJM3V0OW5LdFlrMXBKa2pVSWZaWlJhTlh4dnhZaV9IVGxZd2lPemxYQVZkN01DazdR?oc=5"
     },
     {
+      "id": "news-technology-bf16f2d0ee",
+      "lat": 35.07508,
+      "lng": 135.66614,
+      "title": "ひろしまラウンドテーブル閉会 「AIに限界を」 核廃絶へ提言（毎日新聞）",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T00:45:13Z",
+      "summary": "ひろしまラウンドテーブル閉会 「AIに限界を」 核廃絶へ提言（毎日新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JUGUwdjJFaHRiX2xzMU1JMTUxUThwRlVSaGhzX29GYUtfZDQtZzUwNFc3Z1l2ODc5OVdfQXBONkI4MUdnTzBpRm44ZkVtWTNYX2l0YnhFYmZXSU9sTXF4TW9ybEJHcFFYWTJjLW5oZHpfWC1pZ2ZLWmU0RGxLWkk?oc=5"
+    },
+    {
+      "id": "news-technology-f88ddb8cd9",
+      "lat": 35.61114,
+      "lng": 139.71037,
+      "title": "エヌビディア、AI新興ハギングフェイスを2兆円で買収へ（CNN.co.jp）",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T00:45:00Z",
+      "summary": "エヌビディア、AI新興ハギングフェイスを2兆円で買収へ（CNN.co.jp）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyZXZ0N3YxQkZ3RjRIbVJSMmt0MkQ2NU5kZEF0VU5IQlg5bi13UXc0LS1vdzEtRmMzWVZHZl9KVFJfUWJ0cjVyRFo2TV9nT3VsM3k0bGloenI1QkZpY0Y5SVlCb3lHcGlQSm9sZldVY3FLZ3VGdTd2dEU0cHRxWjg?oc=5"
+    },
+    {
+      "id": "news-technology-8d3438e7c6",
+      "lat": 35.67857,
+      "lng": 139.79742,
+      "title": "防衛にAI・ドローン、三菱重工業とNECが提携…「主権性と信頼性の高い防衛システム実現の重要な礎」（ニュースイッチ）",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T00:40:06Z",
+      "summary": "防衛にAI・ドローン、三菱重工業とNECが提携…「主権性と信頼性の高い防衛システム実現の重要な礎」（ニュースイッチ）&nbsp;&nbsp;Yahoo!ニュース",
+      "source_name": "Yahoo!ニュース",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GVmlPZHBfOFZJdjF5V3JNWlo1MGFTUm1xaFdVZ1hMSl96YmpfODBLbUd3eUMteFlOZzBkSDRUdUFiTjZJaFpXdzE1VzBWV1gycDFORnZfYmhSSVdGV19uUUN3VFdZVTk2c0s0V0JEeXNjdkN0T3R4Z1dlcGt2RFE?oc=5"
+    },
+    {
+      "id": "news-technology-6235607765",
+      "lat": 38.86803,
+      "lng": -77.03703,
+      "title": "OpenAI’s president claims AI is as capable as humans now",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T00:36:42Z",
+      "summary": "OpenAI’s president claims AI is as capable as humans now&nbsp;&nbsp;The Washington Post",
+      "source_name": "The Washington Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ?oc=5"
+    },
+    {
+      "id": "news-technology-6f6561c89f",
+      "lat": 38.86257,
+      "lng": -77.07159,
+      "title": "米OpenAIが次世代モデル「GPT-6 Astra」を正式発表 初めて最高水準のサイバーセキュリティリスクに分類",
+      "category": "TECHNOLOGY",
+      "time": "2026-09-04T00:27:23Z",
+      "summary": "米OpenAIが次世代モデル「GPT-6 Astra」を正式発表 初めて最高水準のサイバーセキュリティリスクに分類&nbsp;&nbsp;ビジネス+IT",
+      "source_name": "ビジネス+IT",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2T0ptQjJ2aTJvb1d6Q3ZMblhBamV0UzNTVkQ2SndSd3lWb1J4bUE1akdjMnJfaGNqaHhIaVBrWXNNYmpuRWFldzBBX0hnc0FGcmdR?oc=5"
+    },
+    {
       "id": "news-technology-e8d90f4bb3",
-      "lat": 36.04483,
-      "lng": 139.37659,
+      "lat": 36.02982,
+      "lng": 139.3329,
       "title": "AIの力で、起業家たちは「ずっと欲しかったツール」を自ら開発している",
       "category": "TECHNOLOGY",
       "time": "2026-09-04T00:27:00Z",
       "summary": "AIの力で、起業家たちは「ずっと欲しかったツール」を自ら開発している&nbsp;&nbsp;Forbes JAPAN",
       "source_name": "Forbes JAPAN",
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wRS1Ub0x2cnV1OXlzR190SWk4Ni13X0M2UUpmMnN3MURSelpNRHNFa2pzdndQN0o2eXgtelc0V0FETDZlZnVrSG1JLXJqRWtleDJkX1dDYnk0UQ?oc=5"
-    },
-    {
-      "id": "news-technology-a44fd8e594",
-      "lat": 35.55002,
-      "lng": 139.36904,
-      "title": "AIデータセンター建設ブームを加速させる新技術 ビジュアル解説",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T00:20:00Z",
-      "summary": "AIデータセンター建設ブームを加速させる新技術 ビジュアル解説&nbsp;&nbsp;WSJ",
-      "source_name": "WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMTVVQV9xaDR2ZjdmS0ZKYlRKZHcxekJzR2U5Q28xclN0S016bUVhOTdveEN5TGZiU2QxaEliSGFyY0NPRGotMEFTZGlacnQ0ZmN4M3FYTC1zNkdUSmpDLXFBQWxJa3FKUnkxT19hdkZjSEVDbF91bmc1WlFhWVhUdGdZa2pSZmQ0aUZzZTVNbmlwTXRZTDB1djlLUjRtcW5BS1JaYTZuV3RsNjFHVFFqbVJiZXBWOTJsNXczWWg1Yw?oc=5"
-    },
-    {
-      "id": "news-technology-6235607765",
-      "lat": 38.91537,
-      "lng": -76.98263,
-      "title": "OpenAI’s president claims AI is as capable as humans now",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T00:17:55Z",
-      "summary": "OpenAI’s president claims AI is as capable as humans now&nbsp;&nbsp;The Washington Post",
-      "source_name": "The Washington Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlRlRURkaE5IYjdsd3JTN2lNMXNaNkV5OW11N2tpek1paUMwSnhuWk9XWExGRV9XaDFvYTd0SmFVSVNaaFk5VkhyY09UQXVrRTFlbVUxODB0ZktZMmRCM29fdFJMZ3dRVU1lb1piZHJHLVlYeHRGZVZGbXc5d01VTVNjUXhILW4zVFVLRWZlWVlKN25qSU9EX1BCOFRIMjRSTDJjbGFLc3lxQQ?oc=5"
-    },
-    {
-      "id": "news-technology-aa61b242ce",
-      "lat": 36.38969,
-      "lng": 140.46514,
-      "title": "ＡＢＥＪＡは大幅反発、ＪＲ東日本とフィジカルＡＩ実装に向けたプロジェクト開始",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T00:15:00Z",
-      "summary": "ＡＢＥＪＡは大幅反発、ＪＲ東日本とフィジカルＡＩ実装に向けたプロジェクト開始&nbsp;&nbsp;kabutan.jp",
-      "source_name": "kabutan.jp",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KX2k0MnZpcGlELXBHa0JlaVNOVC1QTlphUlZEX3d3dkpDSVg2UlRleEF3NnZXakY5YWFoNE13QzJELWNxdVZhYzU4WWxkb2FIamdrSkgySDBKYi1Zd0FvYg?oc=5"
-    },
-    {
-      "id": "news-technology-80035b9d17",
-      "lat": 19.55573,
-      "lng": -155.48581,
-      "title": "The role of AI in Hawaiʻi's small businesses",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T00:14:00Z",
-      "summary": "The role of AI in Hawaiʻi's small businesses&nbsp;&nbsp;Hawaii Public Radio",
-      "source_name": "Hawaii Public Radio",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNTZIS3Nmby1rU2liNFVLWlRpYjNlRUpHTUZoU2k4X3p1bFRtVy1jbXhXTkhIdE5JcGRKY204N1lmQnNQcDR4UU1uNmUwNjVCQmZkRDlSLXhwNGhwUkc5RHhOY0doY3pKWTM5VDk3OTFFYk5PcHNPWWY5djNUQUUxSUVpWXpyNXJaRkpodF9TSnRtMGp5QmtOSld3LXJ1d2tkT3BrWkw5UQ?oc=5"
-    },
-    {
-      "id": "news-technology-be55254c06",
-      "lat": 40.68814,
-      "lng": -73.98595,
-      "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-      "category": "TECHNOLOGY",
-      "time": "2026-09-04T00:06:03Z",
-      "summary": "Why the Hugging Face Hack Should Make You Worry More About A.I.&nbsp;&nbsp;The New York Times",
-      "source_name": "The New York Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVW01WkdOYkJpZEVLSUVvNWt0N1QyS1lQbHlEVFV4MkF6ZUZRY3lqSjRQYU9HSGZ6cjlwM1JXWTJVZmhjN2hRTXlfUlFKVUg1NmRJTzdPamFyUzF6YVJhWnFUZlktdHlDcnowM3dDM3paaGdJRnpxaVlsSVIzMkk5STJEcEY?oc=5"
     }
   ],
   "vehicles": [
@@ -437,5 +437,5 @@
       "speed": 22
     }
   ],
-  "updated_at": "2026-09-04T00:32:04Z"
+  "updated_at": "2026-09-04T00:52:33Z"
 }
